@@ -1,0 +1,68 @@
+name: Radio Vela – Nachrichten & Wetter Nacht-Test
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Nachrichten & Wetter über Nacht erfassen
+        env:
+          API: https://api.laut.fm/station/radio-vela
+        run: |
+          set -u
+          mkdir -p archive
+          FILE="archive/news-and-weather-overnight.json"
+          if [ ! -f "$FILE" ]; then
+            printf '%s\n' '{"entries":[]}' > "$FILE"
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add "$FILE"
+            git commit -m "Start Nacht-Test Nachrichten und Wetter"
+            git push
+          fi
+
+          END=$(( $(date +%s) + 21000 ))
+          LAST_KEY=""
+
+          while [ $(date +%s) -lt "$END" ]; do
+            NOW=$(date -u +%s)
+            CURRENT=$(curl -fsS --max-time 10 "$API/current_song?_=$NOW" || true)
+            HISTORY=$(curl -fsS --max-time 10 "$API/last_songs?_=$NOW" || true)
+
+            FOUND=$(printf '%s\n' "$CURRENT" "$HISTORY" | jq -c 'if type=="array" then .[] else . end' 2>/dev/null | while IFS= read -r song; do
+              title=$(printf '%s' "$song" | jq -r '.title // empty' 2>/dev/null || true)
+              if printf '%s' "$title" | grep -Eiq 'nachrichten.*wetter|wetter.*nachrichten'; then
+                printf '%s' "$song"
+                break
+              fi
+            done)
+
+            if [ -n "$FOUND" ]; then
+              TITLE=$(printf '%s' "$FOUND" | jq -r '.title // "Nachrichten & Wetter"')
+              STARTED=$(printf '%s' "$FOUND" | jq -r '.started_at // .start_time // .played_at // empty')
+              KEY="${STARTED}|${TITLE}"
+
+              if [ "$KEY" != "$LAST_KEY" ]; then
+                LAST_KEY="$KEY"
+                TMP=$(mktemp)
+                jq --arg title "$TITLE" --arg started "$STARTED" --arg detected "$(date -u +%Y-%m-%dT%H:%M:%SZ)" '.entries += [{title:$title,played_at:$started,detected_at:$detected}]' "$FILE" > "$TMP"
+                mv "$TMP" "$FILE"
+                git add "$FILE"
+                git commit -m "Erfasse Nachrichten und Wetter"
+                git push || true
+              fi
+            fi
+
+            sleep 10
+          done
