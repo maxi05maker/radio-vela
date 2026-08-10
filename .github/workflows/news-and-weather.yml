@@ -14,7 +14,7 @@ permissions:
 
 concurrency:
   group: radio-vela-news-and-weather
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   track-news:
@@ -22,7 +22,6 @@ jobs:
     timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
-
       - name: Nachrichten & Wetter dauerhaft überwachen
         env:
           GH_TOKEN: ${{ github.token }}
@@ -31,97 +30,70 @@ jobs:
           import json, os, subprocess, time, urllib.request
           from datetime import datetime
           from zoneinfo import ZoneInfo
-
-          BERLIN = ZoneInfo('Europe/Berlin')
-          API = 'https://api.laut.fm/station/radio-vela/last_songs'
-          PERIOD_START = datetime(2026, 8, 10, 22, 25, 0, tzinfo=BERLIN)
-          PERIOD_END = datetime(2026, 8, 11, 22, 25, 0, tzinfo=BERLIN)
-          POLL_SECONDS = 5
-          CHUNK_SECONDS = 5 * 60 * 60 + 40 * 60
-          HANDOFF_BEFORE = 90
-          JSON_PATH = 'archive/news-and-weather-2026-08-10.json'
-          MD_PATH = 'archive/news-and-weather-2026-08-10.md'
-
+          BERLIN=ZoneInfo('Europe/Berlin'); API='https://api.laut.fm/station/radio-vela/last_songs'
+          PERIOD_START=datetime(2026,8,10,22,25,0,tzinfo=BERLIN); PERIOD_END=datetime(2026,8,11,22,25,0,tzinfo=BERLIN)
+          POLL_SECONDS=5; CHUNK_SECONDS=5*60*60+40*60; HANDOFF_BEFORE=120
+          JSON_PATH='archive/news-and-weather-2026-08-10.json'; MD_PATH='archive/news-and-weather-2026-08-10.md'
           def load():
               try:
-                  with open(JSON_PATH, encoding='utf-8') as f:
-                      return json.load(f)
-              except Exception:
-                  return {'period_start': PERIOD_START.isoformat(), 'period_end': PERIOD_END.isoformat(), 'broadcasts': []}
-
+                  with open(JSON_PATH,encoding='utf-8') as f:return json.load(f)
+              except Exception:return {'period_start':PERIOD_START.isoformat(),'period_end':PERIOD_END.isoformat(),'broadcasts':[]}
           def parse_dt(v):
-              if not v: return None
-              s = str(v).strip()
+              if not v:return None
+              s=str(v).strip()
               for fmt in ('%Y-%m-%d %H:%M:%S %z','%Y-%m-%dT%H:%M:%S%z','%Y-%m-%dT%H:%M:%S.%f%z'):
-                  try: return datetime.strptime(s, fmt).astimezone(BERLIN)
-                  except ValueError: pass
-              try: return datetime.fromisoformat(s.replace('Z','+00:00')).astimezone(BERLIN)
-              except ValueError: return None
-
+                  try:return datetime.strptime(s,fmt).astimezone(BERLIN)
+                  except ValueError:pass
+              try:return datetime.fromisoformat(s.replace('Z','+00:00')).astimezone(BERLIN)
+              except ValueError:return None
           def fetch():
-              req = urllib.request.Request(API, headers={'User-Agent':'Radio-Vela-News-Tracker/1.0'})
+              req=urllib.request.Request(API,headers={'User-Agent':'Radio-Vela-News-Tracker/2.0'})
               for attempt in range(3):
                   try:
-                      with urllib.request.urlopen(req, timeout=10) as r: raw=json.load(r)
+                      with urllib.request.urlopen(req,timeout=10) as r:raw=json.load(r)
                       return raw if isinstance(raw,list) else raw.get('items',[])
                   except Exception as e:
-                      if attempt < 2: time.sleep(1)
-                      else: print(f'laut.fm-Abfrage fehlgeschlagen: {e}', flush=True)
+                      if attempt<2:time.sleep(1)
+                      else:print(f'laut.fm-Abfrage fehlgeschlagen: {e}',flush=True)
               return []
-
           def is_news(title):
-              s = ' '.join(str(title or '').casefold().replace('&',' und ').split())
-              return 'nachrichten' in s and 'wetter' in s
-
-          def save(data, now):
-              with open(JSON_PATH,'w',encoding='utf-8') as f:
-                  json.dump(data,f,ensure_ascii=False,indent=2); f.write('\n')
-              lines=['# Radio Vela – Nachrichten & Wetter','','**Zeitraum:** 10.08.2026, 22:25 Uhr – 11.08.2026, 22:25 Uhr','','Jede erkannte Nachrichten-&-Wetter-Sendung steht mit der tatsächlichen laut.fm-Spielzeit und der Erkennungszeit hier.','','## Sendungen','']
+              s=' '.join(str(title or '').casefold().replace('&',' und ').split()); return 'nachrichten' in s and 'wetter' in s
+          def save(data,now):
+              with open(JSON_PATH,'w',encoding='utf-8') as f:json.dump(data,f,ensure_ascii=False,indent=2);f.write('\n')
+              lines=['# Radio Vela – Nachrichten & Wetter','','## Sendungen','']
               if data['broadcasts']:
-                  for i,x in enumerate(data['broadcasts'],1):
-                      lines.append(f"{i}. **Nachrichten & Wetter** · gespielt: {datetime.fromisoformat(x['played_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')} · erkannt: {datetime.fromisoformat(x['detected_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')}")
-              else: lines.append('Noch keine Sendung erkannt.')
+                  for i,x in enumerate(data['broadcasts'],1):lines.append(f"{i}. 📰 **Nachrichten & Wetter** · gespielt: **{datetime.fromisoformat(x['played_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')}** · erkannt: {datetime.fromisoformat(x['detected_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')}")
+              else:lines.append('Noch keine Sendung erkannt.')
               lines += ['',f"Letztes Update: {now.strftime('%d.%m.%Y %H:%M:%S Uhr')}"]
-              with open(MD_PATH,'w',encoding='utf-8') as f: f.write('\n'.join(lines)+'\n')
-
+              with open(MD_PATH,'w',encoding='utf-8') as f:f.write('\n'.join(lines)+'\n')
           def commit():
               subprocess.run(['git','add',JSON_PATH,MD_PATH],check=True)
-              if subprocess.run(['git','diff','--cached','--quiet']).returncode==0: return
-              subprocess.run(['git','config','user.name','Radio Vela News Tracker'],check=True)
-              subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
-              subprocess.run(['git','commit','-m','Nachrichten & Wetter aktualisieren [skip ci]'],check=True)
-              subprocess.run(['git','push'],check=True)
-
-          def next_run():
-              token=os.environ.get('GH_TOKEN')
-              if not token: return
+              if subprocess.run(['git','diff','--cached','--quiet']).returncode==0:return
+              subprocess.run(['git','config','user.name','Radio Vela News Tracker'],check=True);subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
+              subprocess.run(['git','commit','-m','Nachrichten & Wetter aktualisieren [skip ci]'],check=True);subprocess.run(['git','push'],check=True)
+          def dispatch_next():
+              token=os.environ.get('GH_TOKEN');
+              if not token:return False
               req=urllib.request.Request('https://api.github.com/repos/maxi05maker/radio-vela/actions/workflows/news-and-weather.yml/dispatches',data=json.dumps({'ref':'main'}).encode(),headers={'Authorization':f'Bearer {token}','Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','Content-Type':'application/json'},method='POST')
               try:
-                  with urllib.request.urlopen(req,timeout=15) as r: print(f'Folge-Lauf gestartet: HTTP {r.status}',flush=True)
-              except Exception as e: print(f'Folge-Lauf nicht gestartet: {e}',flush=True)
-
-          data=load(); known={x['played_at'] for x in data.get('broadcasts',[]) if isinstance(x,dict)}
-          started=time.time(); handed=False
+                  with urllib.request.urlopen(req,timeout=15) as r:print(f'Folge-Lauf erfolgreich angestoßen: HTTP {r.status}',flush=True)
+                  return True
+              except Exception as e:print(f'Folge-Lauf nicht gestartet: {e}',flush=True);return False
+          data=load();known={x['played_at'] for x in data.get('broadcasts',[]) if isinstance(x,dict)};started=time.time()
           while True:
               now=datetime.now(BERLIN)
-              if now < PERIOD_START:
-                  time.sleep(min(POLL_SECONDS,max(1,(PERIOD_START-now).total_seconds()))); continue
-              if now >= PERIOD_END: break
-              if time.time()-started >= CHUNK_SECONDS-HANDOFF_BEFORE:
-                  if not handed: next_run(); handed=True
-                  time.sleep(POLL_SECONDS); continue
+              if now<PERIOD_START:time.sleep(min(POLL_SECONDS,max(1,(PERIOD_START-now).total_seconds())));continue
+              if now>=PERIOD_END:break
+              if time.time()-started>=CHUNK_SECONDS-HANDOFF_BEFORE:
+                  if dispatch_next():print('Nachrichten-Dauerbrenner übergibt sauber an den Folge-Lauf.',flush=True);break
+                  time.sleep(15);continue
               for song in fetch():
-                  if not isinstance(song,dict): continue
-                  dt=parse_dt(song.get('started_at') or song.get('start_time') or song.get('played_at'))
-                  title=str(song.get('title') or '').strip()
-                  if not dt or not title or not (PERIOD_START <= dt <= PERIOD_END) or not is_news(title): continue
+                  if not isinstance(song,dict):continue
+                  dt=parse_dt(song.get('started_at') or song.get('start_time') or song.get('played_at'));title=str(song.get('title') or '').strip()
+                  if not dt or not title or not(PERIOD_START<=dt<=PERIOD_END) or not is_news(title):continue
                   key=dt.isoformat()
-                  if key in known: continue
-                  data['broadcasts'].append({'played_at':key,'detected_at':now.isoformat(),'title':title})
-                  known.add(key); data['broadcasts'].sort(key=lambda x:x['played_at'])
-                  save(data,now); commit(); print(f'Nachrichten erkannt: {key}',flush=True)
+                  if key not in known:
+                      data['broadcasts'].append({'played_at':key,'detected_at':now.isoformat(),'title':title});known.add(key);data['broadcasts'].sort(key=lambda x:x['played_at']);save(data,now);commit();print(f'Nachrichten erkannt: {key}',flush=True)
               time.sleep(POLL_SECONDS)
-
-          now=datetime.now(BERLIN)
-          save(data,now); commit(); print(f'Nachrichten-Test beendet: {len(data["broadcasts"])} Sendungen',flush=True)
+          now=datetime.now(BERLIN);save(data,now);commit();print(f'Nachrichten-Dauerbrenner beendet: {len(data["broadcasts"])} Sendungen',flush=True)
           PY
