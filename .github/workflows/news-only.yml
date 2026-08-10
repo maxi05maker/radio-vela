@@ -23,6 +23,7 @@ jobs:
         run: |
           python3 - <<'PY'
           import json, subprocess, urllib.request, time
+          from datetime import datetime, timezone
 
           url = 'https://api.laut.fm/station/radio-vela/last_songs'
           req = urllib.request.Request(url, headers={'User-Agent': 'Radio-Vela-News'})
@@ -48,6 +49,8 @@ jobs:
           if not isinstance(news, list):
               news = []
 
+          # Neuer Zählzeitraum: 10.08.2026 ab 18:00 Uhr (Deutschland).
+          start_local = datetime(2026, 8, 10, 18, 0).astimezone()
           known = {x.get('played_at') for x in news if isinstance(x, dict)}
 
           for song in songs:
@@ -61,7 +64,17 @@ jobs:
               artist = str(artist).strip().lower()
               played_at = song.get('started_at')
 
-              if title == 'nachrichten & wetter' and artist == 'laut.fm' and played_at and played_at not in known:
+              if title != 'nachrichten & wetter' or artist != 'laut.fm' or not played_at:
+                  continue
+
+              try:
+                  played_dt = datetime.strptime(played_at, '%Y-%m-%d %H:%M:%S %z')
+                  if played_dt.astimezone() < start_local:
+                      continue
+              except ValueError:
+                  continue
+
+              if played_at not in known:
                   news.append({
                       'played_at': played_at,
                       'title': 'Nachrichten & Wetter',
