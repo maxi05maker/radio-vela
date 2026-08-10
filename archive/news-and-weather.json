@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "played_at": "2026-08-10T22:00:00+02:00",
+    "detected_at": "2026-08-10T22:13:00+02:00",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm",
+    "source": "manual-backfill",
+    "note": "Manuell nachgetragen, da das Tracking erst um 22:13 Uhr eingerichtet wurde."
+  }
+]
