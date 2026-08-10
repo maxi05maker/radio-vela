@@ -12,8 +12,6 @@ permissions:
   contents: write
   actions: write
 
-# Wichtig: Der Folge-Lauf darf den aktuellen Lauf NICHT abbrechen.
-# Der aktuelle Lauf beendet sich beim Übergabepunkt selbst.
 concurrency:
   group: radio-vela-song-test
   cancel-in-progress: false
@@ -24,7 +22,6 @@ jobs:
     timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
-
       - name: Echtzeit-Tracker starten
         env:
           GH_TOKEN: ${{ github.token }}
@@ -33,144 +30,103 @@ jobs:
           import json, os, subprocess, time, urllib.request
           from datetime import datetime
           from zoneinfo import ZoneInfo
-
-          BERLIN = ZoneInfo('Europe/Berlin')
-          API = 'https://api.laut.fm/station/radio-vela/last_songs'
-          PERIOD_START = datetime(2026, 8, 10, 22, 25, 0, tzinfo=BERLIN)
-          PERIOD_END = datetime(2026, 8, 11, 22, 25, 0, tzinfo=BERLIN)
-          POLL_SECONDS = 5
-          CHUNK_SECONDS = 5 * 60 * 60 + 40 * 60
-          HANDOFF_BEFORE = 120
-          DATA_PATH = 'archive/song-test-2026-08-10.json'
-          MD_PATH = 'archive/song-test-2026-08-10.md'
-          NEWS_JSON = 'archive/news-and-weather-2026-08-10.json'
-          NEWS_MD = 'archive/news-and-weather-2026-08-10.md'
-
-          def load_json(path, default):
+          BERLIN=ZoneInfo('Europe/Berlin'); API='https://api.laut.fm/station/radio-vela/last_songs'
+          PERIOD_START=datetime(2026,8,10,22,25,0,tzinfo=BERLIN); PERIOD_END=datetime(2026,8,11,22,25,0,tzinfo=BERLIN)
+          POLL_SECONDS=5; CHUNK_SECONDS=5*60*60+40*60; HANDOFF_BEFORE=120
+          DATA_PATH='archive/song-test-2026-08-10.json'; MD_PATH='archive/song-test-2026-08-10.md'; NEWS_JSON='archive/news-and-weather-2026-08-10.json'; NEWS_MD='archive/news-and-weather-2026-08-10.md'
+          def load_json(path,default):
               try:
-                  with open(path, encoding='utf-8') as f: return json.load(f)
-              except Exception: return default
-
-          def parse_dt(value):
-              if not value: return None
-              text = str(value).strip()
+                  with open(path,encoding='utf-8') as f:return json.load(f)
+              except Exception:return default
+          def parse_dt(v):
+              if not v:return None
+              s=str(v).strip()
               for fmt in ('%Y-%m-%d %H:%M:%S %z','%Y-%m-%dT%H:%M:%S%z','%Y-%m-%dT%H:%M:%S.%f%z'):
-                  try: return datetime.strptime(text, fmt).astimezone(BERLIN)
-                  except ValueError: pass
-              try: return datetime.fromisoformat(text.replace('Z','+00:00')).astimezone(BERLIN)
-              except ValueError: return None
-
+                  try:return datetime.strptime(s,fmt).astimezone(BERLIN)
+                  except ValueError:pass
+              try:return datetime.fromisoformat(s.replace('Z','+00:00')).astimezone(BERLIN)
+              except ValueError:return None
           def fetch_songs():
-              req = urllib.request.Request(API, headers={'User-Agent':'Radio-Vela-Realtime-Tracker/2.0'})
+              req=urllib.request.Request(API,headers={'User-Agent':'Radio-Vela-Realtime-Tracker/3.0'})
               for attempt in range(3):
                   try:
-                      with urllib.request.urlopen(req, timeout=10) as r: raw=json.load(r)
+                      with urllib.request.urlopen(req,timeout=10) as r:raw=json.load(r)
                       return raw if isinstance(raw,list) else raw.get('items',[])
-                  except Exception as exc:
-                      if attempt < 2: time.sleep(1)
-                      else: print(f'laut.fm-Abfrage fehlgeschlagen: {exc}', flush=True)
+                  except Exception as e:
+                      if attempt<2:time.sleep(1)
+                      else:print(f'laut.fm-Abfrage fehlgeschlagen: {e}',flush=True)
               return []
-
           def is_news(title):
-              t=' '.join(str(title or '').casefold().replace('&',' und ').split())
-              return 'nachrichten' in t and 'wetter' in t
-
-          def write_files(data, news, now):
-              with open(DATA_PATH,'w',encoding='utf-8') as f: json.dump(data,f,ensure_ascii=False,indent=2); f.write('\n')
-              seen={}; lines=['# Radio Vela – 24h Song-Test','','**Zeitraum:** 10.08.2026, 22:25 Uhr – 11.08.2026, 22:25 Uhr','','## Playlist','']
+              t=' '.join(str(title or '').casefold().replace('&',' und ').split());return 'nachrichten' in t and 'wetter' in t
+          def write_files(data,news,now):
+              with open(DATA_PATH,'w',encoding='utf-8') as f:json.dump(data,f,ensure_ascii=False,indent=2);f.write('\n')
+              seen={};lines=['# Radio Vela – 24h Song-Test','','**Zeitraum:** 10.08.2026, 22:25 Uhr – 11.08.2026, 22:25 Uhr','','## Playlist','']
               for i,x in enumerate(data['occurrences'],1):
-                  key=(x['artist'].casefold(),x['title'].casefold()); seen[key]=seen.get(key,0)+1
-                  suffix=f' ({seen[key]})' if seen[key]>1 else ''
-                  t=datetime.fromisoformat(x['played_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')
-                  artist=f" – {x['artist']}" if x['artist'] else ''
-                  lines.append(f"{i}. **{x['title']}**{artist} · {t}{suffix}")
-              lines += ['', '## Meistgespieltes Lied', '', 'Noch nicht gekürt. Die Auswertung erfolgt nach Ablauf des 24-Stunden-Tests.', '', f'Letztes Update: {now.strftime("%d.%m.%Y %H:%M:%S Uhr")}']
-              with open(MD_PATH,'w',encoding='utf-8') as f: f.write('\n'.join(lines)+'\n')
-
-              with open(NEWS_JSON,'w',encoding='utf-8') as f: json.dump({'entries':news},f,ensure_ascii=False,indent=2); f.write('\n')
-              nl=['# Nachrichten & Wetter – Radio Vela','','## Sendungen','']
+                  k=(x['artist'].casefold(),x['title'].casefold());seen[k]=seen.get(k,0)+1;suffix=f' ({seen[k]})' if seen[k]>1 else '';t=datetime.fromisoformat(x['played_at']).strftime('%d.%m.%Y %H:%M:%S Uhr');artist=f" – {x['artist']}" if x['artist'] else '';lines.append(f"{i}. **{x['title']}**{artist} · {t}{suffix}")
+              lines += ['', '## Meistgespieltes Lied','','Noch nicht gekürt. Die Auswertung erfolgt nach Ablauf des 24-Stunden-Tests.','',f'Letztes Update: {now.strftime("%d.%m.%Y %H:%M:%S Uhr")}']
+              with open(MD_PATH,'w',encoding='utf-8') as f:f.write('\n'.join(lines)+'\n')
+              with open(NEWS_JSON,'w',encoding='utf-8') as f:json.dump({'entries':news},f,ensure_ascii=False,indent=2);f.write('\n')
+              nl=['# Radio Vela – Nachrichten & Wetter','','## Sendungen','']
               if news:
-                  for i,x in enumerate(news,1): nl.append(f"{i}. 📰 **Nachrichten & Wetter** · gespielt: **{datetime.fromisoformat(x['played_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')}** · erkannt: {datetime.fromisoformat(x['detected_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')}")
-              else: nl.append('Noch keine Sendung erkannt.')
+                  for i,x in enumerate(news,1):nl.append(f"{i}. 📰 **Nachrichten & Wetter** · gespielt: **{datetime.fromisoformat(x['played_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')}** · erkannt: {datetime.fromisoformat(x['detected_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')}")
+              else:nl.append('Noch keine Sendung erkannt.')
               nl += ['',f'Letztes Update: {now.strftime("%d.%m.%Y %H:%M:%S Uhr")}']
-              with open(NEWS_MD,'w',encoding='utf-8') as f: f.write('\n'.join(nl)+'\n')
-
+              with open(NEWS_MD,'w',encoding='utf-8') as f:f.write('\n'.join(nl)+'\n')
           def commit_and_push(message):
               subprocess.run(['git','add',DATA_PATH,MD_PATH,NEWS_JSON,NEWS_MD],check=True)
-              if subprocess.run(['git','diff','--cached','--quiet']).returncode==0: return
-              subprocess.run(['git','config','user.name','Radio Vela Realtime Tracker'],check=True)
-              subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
+              if subprocess.run(['git','diff','--cached','--quiet']).returncode==0:return True
+              subprocess.run(['git','config','user.name','Radio Vela Realtime Tracker'],check=True);subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
               subprocess.run(['git','commit','-m',message],check=True)
-              subprocess.run(['git','push'],check=True)
-
+              for attempt in range(4):
+                  result=subprocess.run(['git','push','origin','HEAD:main'])
+                  if result.returncode==0:return True
+                  subprocess.run(['git','fetch','origin','main'],check=True)
+                  subprocess.run(['git','rebase','origin/main'],check=True)
+              raise RuntimeError('GitHub-Push nach mehreren Versuchen fehlgeschlagen')
           def dispatch_next():
-              token=os.environ.get('GH_TOKEN')
-              if not token: return False
-              body=json.dumps({'ref':'main'}).encode()
-              req=urllib.request.Request('https://api.github.com/repos/maxi05maker/radio-vela/actions/workflows/song-test.yml/dispatches',data=body,headers={'Authorization':f'Bearer {token}','Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','Content-Type':'application/json'},method='POST')
+              token=os.environ.get('GH_TOKEN');
+              if not token:return False
+              req=urllib.request.Request('https://api.github.com/repos/maxi05maker/radio-vela/actions/workflows/song-test.yml/dispatches',data=json.dumps({'ref':'main'}).encode(),headers={'Authorization':f'Bearer {token}','Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','Content-Type':'application/json'},method='POST')
               try:
-                  with urllib.request.urlopen(req,timeout=15) as r: print(f'Folge-Lauf erfolgreich angestoßen: HTTP {r.status}',flush=True)
+                  with urllib.request.urlopen(req,timeout=15) as r:print(f'Folge-Lauf angestoßen: HTTP {r.status}',flush=True)
                   return True
-              except Exception as exc:
-                  print(f'Folge-Lauf konnte nicht gestartet werden: {exc}',flush=True); return False
-
-          data=load_json(DATA_PATH,{'period_start':PERIOD_START.isoformat(),'period_end':PERIOD_END.isoformat(),'occurrences':[],'winner':None})
-          news=load_json(NEWS_JSON,{'entries':[]}).get('entries',[])
-          known={x.get('played_at') for x in data.get('occurrences',[]) if isinstance(x,dict)}
-          known_news={x.get('played_at') for x in news if isinstance(x,dict)}
-          started=time.time()
-
+              except Exception as e:print(f'Folge-Lauf konnte nicht gestartet werden: {e}',flush=True);return False
+          data=load_json(DATA_PATH,{'period_start':PERIOD_START.isoformat(),'period_end':PERIOD_END.isoformat(),'occurrences':[],'winner':None});news=load_json(NEWS_JSON,{'entries':[]}).get('entries',[])
+          known={x.get('played_at') for x in data.get('occurrences',[]) if isinstance(x,dict)};known_news={x.get('played_at') for x in news if isinstance(x,dict)};started=time.time()
           while True:
               now=datetime.now(BERLIN)
-              if now < PERIOD_START:
-                  time.sleep(min(POLL_SECONDS,max(1,(PERIOD_START-now).total_seconds()))); continue
-              if now >= PERIOD_END: break
-
-              # Sauberer Hand-off: neuen Lauf starten und DIESEN Lauf danach beenden.
-              if time.time()-started >= CHUNK_SECONDS-HANDOFF_BEFORE:
-                  if dispatch_next():
-                      print('Übergabe abgeschlossen; aktueller Lauf beendet sich jetzt.',flush=True)
-                      break
-                  time.sleep(15)
-                  continue
-
-              songs=fetch_songs(); song_added=False; news_added=False
-              for song in songs:
-                  if not isinstance(song,dict): continue
-                  dt=parse_dt(song.get('started_at') or song.get('start_time') or song.get('played_at'))
-                  title=str(song.get('title') or '').strip(); artist=song.get('artist') or ''
-                  if isinstance(artist,dict): artist=artist.get('name','')
+              if now<PERIOD_START:time.sleep(min(POLL_SECONDS,max(1,(PERIOD_START-now).total_seconds())));continue
+              if now>=PERIOD_END:break
+              if time.time()-started>=CHUNK_SECONDS-HANDOFF_BEFORE:
+                  if dispatch_next():print('Saubere Übergabe: aktueller Lauf endet.',flush=True);break
+                  time.sleep(15);continue
+              song_added=False;news_added=False
+              for song in fetch_songs():
+                  if not isinstance(song,dict):continue
+                  dt=parse_dt(song.get('started_at') or song.get('start_time') or song.get('played_at'));title=str(song.get('title') or '').strip();artist=song.get('artist') or ''
+                  if isinstance(artist,dict):artist=artist.get('name','')
                   artist=str(artist).strip()
-                  if not dt or not title or not (PERIOD_START <= dt <= PERIOD_END): continue
+                  if not dt or not title or not(PERIOD_START<=dt<=PERIOD_END):continue
                   key=dt.isoformat()
-                  if key not in known:
-                      data['occurrences'].append({'played_at':key,'title':title,'artist':artist}); known.add(key); song_added=True
-                  if is_news(title) and key not in known_news:
-                      news.append({'played_at':key,'detected_at':now.isoformat(),'title':title,'artist':artist}); known_news.add(key); news_added=True
-
+                  if key not in known:data['occurrences'].append({'played_at':key,'title':title,'artist':artist});known.add(key);song_added=True
+                  if is_news(title) and key not in known_news:news.append({'played_at':key,'detected_at':now.isoformat(),'title':title,'artist':artist});known_news.add(key);news_added=True
               if song_added or news_added:
-                  data['occurrences'].sort(key=lambda x:x['played_at']); news.sort(key=lambda x:x['played_at'])
-                  write_files(data,news,now); commit_and_push('Radio Vela: Live-Archiv aktualisieren [skip ci]')
+                  data['occurrences'].sort(key=lambda x:x['played_at']);news.sort(key=lambda x:x['played_at']);write_files(data,news,now);commit_and_push('Radio Vela: Live-Archiv aktualisieren [skip ci]')
               time.sleep(POLL_SECONDS)
-
-          # Beim regulären Ende letzte Abfrage + Gewinner.
-          now=datetime.now(BERLIN)
-          songs=fetch_songs()
+          now=datetime.now(BERLIN);songs=fetch_songs()
           for song in songs:
-              if not isinstance(song,dict): continue
-              dt=parse_dt(song.get('started_at') or song.get('start_time') or song.get('played_at'))
-              title=str(song.get('title') or '').strip(); artist=song.get('artist') or ''
-              if isinstance(artist,dict): artist=artist.get('name','')
+              if not isinstance(song,dict):continue
+              dt=parse_dt(song.get('started_at') or song.get('start_time') or song.get('played_at'));title=str(song.get('title') or '').strip();artist=song.get('artist') or ''
+              if isinstance(artist,dict):artist=artist.get('name','')
               artist=str(artist).strip()
-              if not dt or not title or not (PERIOD_START <= dt <= PERIOD_END): continue
+              if not dt or not title or not(PERIOD_START<=dt<=PERIOD_END):continue
               key=dt.isoformat()
-              if key not in known: data['occurrences'].append({'played_at':key,'title':title,'artist':artist}); known.add(key)
-              if is_news(title) and key not in known_news: news.append({'played_at':key,'detected_at':now.isoformat(),'title':title,'artist':artist}); known_news.add(key)
-          data['occurrences'].sort(key=lambda x:x['played_at']); news.sort(key=lambda x:x['played_at'])
-          counts={}; display={}
+              if key not in known:data['occurrences'].append({'played_at':key,'title':title,'artist':artist});known.add(key)
+              if is_news(title) and key not in known_news:news.append({'played_at':key,'detected_at':now.isoformat(),'title':title,'artist':artist});known_news.add(key)
+          data['occurrences'].sort(key=lambda x:x['played_at']);news.sort(key=lambda x:x['played_at']);counts={};display={}
           for x in data['occurrences']:
-              k=(x.get('artist','').casefold(),x.get('title','').casefold()); counts[k]=counts.get(k,0)+1; display[k]={'artist':x.get('artist',''),'title':x.get('title','')}
-          if now >= PERIOD_END:
-              maximum=max(counts.values(),default=0); data['winner']={'status':'gekürt' if maximum else 'keine Titel erfasst','count':maximum,'songs':[display[k] for k,v in counts.items() if v==maximum],'decided_at':now.isoformat()}
-          write_files(data,news,now); commit_and_push('Radio Vela: Archiv abschliessen [skip ci]')
+              k=(x.get('artist','').casefold(),x.get('title','').casefold());counts[k]=counts.get(k,0)+1;display[k]={'artist':x.get('artist',''),'title':x.get('title','')}
+          if now>=PERIOD_END:
+              maximum=max(counts.values(),default=0);data['winner']={'status':'gekürt' if maximum else 'keine Titel erfasst','count':maximum,'songs':[display[k] for k,v in counts.items() if v==maximum],'decided_at':now.isoformat()}
+          write_files(data,news,now);commit_and_push('Radio Vela: Archiv abschliessen [skip ci]')
           PY
