@@ -3,12 +3,8 @@ name: Radio Vela – nur Nachrichten
 on:
   workflow_dispatch:
   schedule:
-    # GitHub kann einzelne schedule-Ereignisse verzögern. Deshalb läuft
-    # jeder gestartete Job mehrere Stunden und prüft selbst alle 5 Minuten.
-    - cron: '45 19 * * *'
-    - cron: '45 1 * * *'
-    - cron: '45 7 * * *'
-    - cron: '45 13 * * *'
+    # Einmal pro Stunde. Der Code selbst begrenzt den Testzeitraum.
+    - cron: '0 * * * *'
 
 permissions:
   contents: write
@@ -20,121 +16,97 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
-      - name: Nachrichten regelmäßig prüfen
+      - name: Nachrichten filtern
         run: |
           python3 - <<'PY'
           import json, subprocess, urllib.request, time
-          from datetime import datetime, timedelta
+          from datetime import datetime
           from zoneinfo import ZoneInfo
 
           BERLIN = ZoneInfo('Europe/Berlin')
           API = 'https://api.laut.fm/station/radio-vela/last_songs'
-          PERIOD_START = datetime(2026, 8, 10, 19, 0, 0, tzinfo=BERLIN)
-          END_OF_WEEK = 7  # Montag 19:00 startet automatisch den nächsten Zeitraum.
-          RUN_MINUTES = 345
-          POLL_SECONDS = 300
+          PERIOD_START = datetime(2026, 8, 10, 22, 0, 0, tzinfo=BERLIN)
+          PERIOD_END = datetime(2026, 8, 16, 23, 59, 59, tzinfo=BERLIN)
 
-          def current_period_start(now):
-              monday = (now - timedelta(days=now.weekday())).replace(hour=19, minute=0, second=0, microsecond=0)
-              return monday
+          now = datetime.now(BERLIN)
 
-          def load_news():
+          # Außerhalb des gewünschten Zeitraums wird nichts verändert.
+          if now < PERIOD_START or now > PERIOD_END:
+              print(f'Außerhalb des Testzeitraums: {now.isoformat()}')
+              raise SystemExit(0)
+
+          try:
+              with open('news.json', encoding='utf-8') as f:
+                  news = json.load(f)
+              if not isinstance(news, list):
+                  news = []
+          except Exception:
+              news = []
+
+          known = {x.get('played_at') for x in news if isinstance(x, dict)}
+
+          req = urllib.request.Request(API, headers={'User-Agent': 'Radio-Vela-News'})
+          songs = []
+          for attempt in range(3):
               try:
-                  with open('news.json', encoding='utf-8') as f:
-                      data = json.load(f)
-                  return data if isinstance(data, list) else []
-              except Exception:
-                  return []
-
-          def save_news(news):
-              news.sort(key=lambda x: x.get('played_at', ''))
-              with open('news.json', 'w', encoding='utf-8') as f:
-                  json.dump(news, f, ensure_ascii=False, indent=2)
-                  f.write('\n')
-
-          def fetch_news():
-              req = urllib.request.Request(API, headers={'User-Agent': 'Radio-Vela-News'})
-              for attempt in range(3):
-                  try:
-                      with urllib.request.urlopen(req, timeout=20) as r:
-                          data = json.load(r)
-                      songs = data if isinstance(data, list) else data.get('items', [])
-                      return songs
-                  except Exception as exc:
-                      if attempt == 2:
-                          print(f'laut.fm-Abfrage fehlgeschlagen: {exc}')
-                          return []
+                  with urllib.request.urlopen(req, timeout=20) as r:
+                      data = json.load(r)
+                  songs = data if isinstance(data, list) else data.get('items', [])
+                  break
+              except Exception as exc:
+                  if attempt == 2:
+                      print(f'laut.fm-Abfrage fehlgeschlagen: {exc}')
+                  else:
                       time.sleep(3)
 
-          def collect_once():
-              now = datetime.now(BERLIN)
-              period_start = current_period_start(now)
-              news = load_news()
+          added = 0
+          for song in songs:
+              if not isinstance(song, dict):
+                  continue
 
-              # Alte Wochen beim Wechsel am Montag automatisch entfernen.
-              filtered = []
-              for item in news:
-                  try:
-                      dt = datetime.strptime(item.get('played_at', ''), '%Y-%m-%d %H:%M:%S %z').astimezone(BERLIN)
-                      if dt >= period_start:
-                          filtered.append(item)
-                  except Exception:
-                      pass
-              news = filtered
+              title = str(song.get('title') or '').strip().casefold()
+              artist = song.get('artist') or ''
+              if isinstance(artist, dict):
+                  artist = artist.get('name', '')
+              artist = str(artist).strip().casefold()
+              played_at = song.get('started_at')
 
-              known = {x.get('played_at') for x in news if isinstance(x, dict)}
-              added = 0
+              if title != 'nachrichten & wetter' or artist != 'laut.fm' or not played_at:
+                  continue
 
-              for song in fetch_news():
-                  if not isinstance(song, dict):
-                      continue
-                  title = str(song.get('title') or '').strip().casefold()
-                  artist = song.get('artist') or ''
-                  if isinstance(artist, dict):
-                      artist = artist.get('name', '')
-                  artist = str(artist).strip().casefold()
-                  played_at = song.get('started_at')
+              try:
+                  played_dt = datetime.strptime(str(played_at), '%Y-%m-%d %H:%M:%S %z').astimezone(BERLIN)
+              except ValueError:
+                  continue
 
-                  if title != 'nachrichten & wetter' or artist != 'laut.fm' or not played_at:
-                      continue
+              if not (PERIOD_START <= played_dt <= PERIOD_END):
+                  continue
 
-                  try:
-                      played_dt = datetime.strptime(str(played_at), '%Y-%m-%d %H:%M:%S %z').astimezone(BERLIN)
-                  except ValueError:
-                      continue
+              if played_at not in known:
+                  news.append({
+                      'played_at': str(played_at),
+                      'title': 'Nachrichten & Wetter',
+                      'artist': 'laut.fm'
+                  })
+                  known.add(played_at)
+                  added += 1
 
-                  if played_dt < period_start or played_dt > now + timedelta(minutes=1):
-                      continue
+          news.sort(key=lambda x: x.get('played_at', ''))
 
-                  if played_at not in known:
-                      news.append({
-                          'played_at': played_at,
-                          'title': 'Nachrichten & Wetter',
-                          'artist': 'laut.fm'
-                      })
-                      known.add(played_at)
-                      added += 1
+          with open('news.json', 'w', encoding='utf-8') as f:
+              json.dump(news, f, ensure_ascii=False, indent=2)
+              f.write('\n')
 
-              if added or news != load_news():
-                  save_news(news)
-                  subprocess.run(['git', 'config', 'user.name', 'Radio Vela Nachrichten'], check=True)
-                  subprocess.run(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'], check=True)
-                  subprocess.run(['git', 'add', 'news.json'], check=True)
-                  if subprocess.run(['git', 'diff', '--cached', '--quiet']).returncode != 0:
-                      subprocess.run(['git', 'commit', '-m', 'Nachrichtenzeit aktualisieren'], check=True)
-                      subprocess.run(['git', 'push'], check=True)
+          subprocess.run(['git', 'config', 'user.name', 'Radio Vela Nachrichten'], check=True)
+          subprocess.run(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'], check=True)
+          subprocess.run(['git', 'add', 'news.json'], check=True)
+          if subprocess.run(['git', 'diff', '--cached', '--quiet']).returncode != 0:
+              subprocess.run(['git', 'commit', '-m', 'Nachrichtenzeit aktualisieren'], check=True)
+              subprocess.run(['git', 'push'], check=True)
 
-              print(f'{datetime.now(BERLIN).strftime("%H:%M:%S")} – +{added} Nachrichten, insgesamt {len(news)}')
-
-          deadline = time.monotonic() + RUN_MINUTES * 60
-          while time.monotonic() < deadline:
-              collect_once()
-              remaining = deadline - time.monotonic()
-              if remaining <= 0:
-                  break
-              time.sleep(min(POLL_SECONDS, remaining))
+          print(f'{now.strftime("%d.%m.%Y %H:%M:%S")} – +{added} Nachrichten, insgesamt {len(news)}')
           PY
