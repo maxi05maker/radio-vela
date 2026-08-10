@@ -1,6 +1,12 @@
 {
   "period_start": "2026-08-10T22:25:00+02:00",
   "period_end": "2026-08-11T22:25:00+02:00",
-  "occurrences": [],
+  "occurrences": [
+    {
+      "played_at": "2026-08-10T22:26:07+02:00",
+      "title": "Santa's Coming For Us",
+      "artist": "Sia"
+    }
+  ],
   "winner": null
 }
