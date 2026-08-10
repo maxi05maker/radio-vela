@@ -1,4 +1,4 @@
-name: Radio Vela Nachrichten
+name: Radio Vela – nur Nachrichten
 
 on:
   workflow_dispatch:
@@ -9,65 +9,79 @@ permissions:
   contents: write
 
 concurrency:
-  group: radio-vela-news-only
+  group: radio-vela-news
   cancel-in-progress: false
 
 jobs:
-  news:
+  check:
     runs-on: ubuntu-latest
     timeout-minutes: 3
     steps:
-      - name: Repository laden
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Nachrichtenzeiten aktualisieren
+      - name: Nachrichten prüfen
         run: |
           python3 - <<'PY'
-          import json, subprocess, urllib.request
+          import json, subprocess, urllib.request, time
 
-          API='https://api.laut.fm/station/radio-vela/last_songs'
-          req=urllib.request.Request(API,headers={'User-Agent':'Radio-Vela-News-Only'})
-          with urllib.request.urlopen(req,timeout=30) as r:
-              payload=json.load(r)
+          url = 'https://api.laut.fm/station/radio-vela/last_songs'
+          req = urllib.request.Request(url, headers={'User-Agent': 'Radio-Vela-News'})
 
-          songs=payload if isinstance(payload,list) else payload.get('items',[])
+          for attempt in range(3):
+              try:
+                  with urllib.request.urlopen(req, timeout=20) as r:
+                      data = json.load(r)
+                  break
+              except Exception:
+                  if attempt == 2:
+                      raise
+                  time.sleep(3)
+
+          songs = data if isinstance(data, list) else data.get('items', [])
 
           try:
-              with open('news.json',encoding='utf-8') as f:
-                  news=json.load(f)
+              with open('news.json', encoding='utf-8') as f:
+                  news = json.load(f)
           except Exception:
-              news=[]
-          if not isinstance(news,list):
-              news=[]
+              news = []
 
-          existing={x.get('key') or x.get('played_at') for x in news if isinstance(x,dict)}
+          if not isinstance(news, list):
+              news = []
 
-          for s in songs if isinstance(songs,list) else []:
-              if not isinstance(s,dict):
+          known = {x.get('played_at') for x in news if isinstance(x, dict)}
+
+          for song in songs:
+              if not isinstance(song, dict):
                   continue
-              started=s.get('started_at')
-              title=str(s.get('title') or '').strip()
-              artist=s.get('artist') or ''
-              if isinstance(artist,dict):
-                  artist=artist.get('name','') or ''
-              artist=str(artist).strip()
-              if title.lower() != 'nachrichten & wetter' or artist.lower() != 'laut.fm' or not started:
-                  continue
-              if started in existing:
-                  continue
-              news.append({'played_at':started,'title':title,'artist':artist,'key':started})
-              existing.add(started)
 
-          news.sort(key=lambda x:x.get('played_at',''))
+              title = str(song.get('title') or '').strip().lower()
+              artist = song.get('artist') or ''
+              if isinstance(artist, dict):
+                  artist = artist.get('name', '')
+              artist = str(artist).strip().lower()
+              played_at = song.get('started_at')
 
-          with open('news.json','w',encoding='utf-8') as f:
-              json.dump(news,f,ensure_ascii=False,indent=2)
+              if title == 'nachrichten & wetter' and artist == 'laut.fm' and played_at and played_at not in known:
+                  news.append({
+                      'played_at': played_at,
+                      'title': 'Nachrichten & Wetter',
+                      'artist': 'laut.fm'
+                  })
+                  known.add(played_at)
 
-          subprocess.run(['git','config','user.name','Radio Vela Nachrichten'],check=True)
-          subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
-          subprocess.run(['git','add','news.json'],check=True)
-          if subprocess.run(['git','diff','--cached','--quiet']).returncode != 0:
-              subprocess.run(['git','commit','-m','Nachrichtenzeit aktualisieren'],check=True)
-              subprocess.run(['git','push'],check=True)
-          print(f'Nachrichtenzeiten: {len(news)}')
+          news.sort(key=lambda x: x.get('played_at', ''))
+
+          with open('news.json', 'w', encoding='utf-8') as f:
+              json.dump(news, f, ensure_ascii=False, indent=2)
+              f.write('\n')
+
+          subprocess.run(['git', 'config', 'user.name', 'Radio Vela Nachrichten'], check=True)
+          subprocess.run(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'], check=True)
+          subprocess.run(['git', 'add', 'news.json'], check=True)
+
+          if subprocess.run(['git', 'diff', '--cached', '--quiet']).returncode != 0:
+              subprocess.run(['git', 'commit', '-m', 'Nachrichtenzeit aktualisieren'], check=True)
+              subprocess.run(['git', 'push'], check=True)
+
+          print(f'Gespeicherte Nachrichten: {len(news)}')
           PY
