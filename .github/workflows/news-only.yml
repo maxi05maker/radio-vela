@@ -23,11 +23,35 @@ jobs:
         run: |
           python3 - <<'PY'
           import json, subprocess, urllib.request, time
-          from datetime import datetime, timezone
+          from datetime import datetime, timedelta
+          from zoneinfo import ZoneInfo
+
+          BERLIN = ZoneInfo('Europe/Berlin')
+          now = datetime.now(BERLIN)
+
+          # Neuer Wochenzeitraum: Montag 19:00 Uhr bis zum Ende der Woche.
+          # Vor dem nächsten Montag 19:00 Uhr werden nur Nachrichten des
+          # aktuellen Wochenzeitraums gespeichert. Am Montag vor 19:00 Uhr
+          # wird die Liste einmalig zurückgesetzt.
+          monday = (now - timedelta(days=now.weekday())).replace(hour=19, minute=0, second=0, microsecond=0)
+          period_start = monday
+
+          try:
+              with open('news.json', encoding='utf-8') as f:
+                  news = json.load(f)
+          except Exception:
+              news = []
+          if not isinstance(news, list):
+              news = []
+
+          # Am Wochenwechsel vor Montag 19:00 Uhr alte Liste zurücksetzen.
+          if now.weekday() == 0 and now < monday:
+              news = []
+              period_start = monday
 
           url = 'https://api.laut.fm/station/radio-vela/last_songs'
           req = urllib.request.Request(url, headers={'User-Agent': 'Radio-Vela-News'})
-
+          data = None
           for attempt in range(3):
               try:
                   with urllib.request.urlopen(req, timeout=20) as r:
@@ -39,24 +63,11 @@ jobs:
                   time.sleep(3)
 
           songs = data if isinstance(data, list) else data.get('items', [])
-
-          try:
-              with open('news.json', encoding='utf-8') as f:
-                  news = json.load(f)
-          except Exception:
-              news = []
-
-          if not isinstance(news, list):
-              news = []
-
-          # Neuer Zählzeitraum: 10.08.2026 ab 18:00 Uhr (Deutschland).
-          start_local = datetime(2026, 8, 10, 18, 0).astimezone()
           known = {x.get('played_at') for x in news if isinstance(x, dict)}
 
           for song in songs:
               if not isinstance(song, dict):
                   continue
-
               title = str(song.get('title') or '').strip().lower()
               artist = song.get('artist') or ''
               if isinstance(artist, dict):
@@ -68,10 +79,11 @@ jobs:
                   continue
 
               try:
-                  played_dt = datetime.strptime(played_at, '%Y-%m-%d %H:%M:%S %z')
-                  if played_dt.astimezone() < start_local:
-                      continue
+                  played_dt = datetime.strptime(played_at, '%Y-%m-%d %H:%M:%S %z').astimezone(BERLIN)
               except ValueError:
+                  continue
+
+              if played_dt < period_start or played_dt > now + timedelta(minutes=1):
                   continue
 
               if played_at not in known:
@@ -91,10 +103,10 @@ jobs:
           subprocess.run(['git', 'config', 'user.name', 'Radio Vela Nachrichten'], check=True)
           subprocess.run(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'], check=True)
           subprocess.run(['git', 'add', 'news.json'], check=True)
-
           if subprocess.run(['git', 'diff', '--cached', '--quiet']).returncode != 0:
               subprocess.run(['git', 'commit', '-m', 'Nachrichtenzeit aktualisieren'], check=True)
               subprocess.run(['git', 'push'], check=True)
 
+          print(f'Zeitraum ab: {period_start.isoformat()}')
           print(f'Gespeicherte Nachrichten: {len(news)}')
           PY
