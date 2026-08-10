@@ -3,169 +3,233 @@ name: Radio Vela – 24h Song-Test
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
     paths:
       - '.github/workflows/song-test.yml'
-  schedule:
-    # Alle 5 Minuten. Die zeitliche Begrenzung erfolgt im Script in Europe/Berlin.
-    - cron: '*/5 * * * *'
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: radio-vela-song-test
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   track:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
-      - name: Playlist erfassen und Auswertung führen
+      - name: Echtzeit-Tracker starten
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           python3 - <<'PY'
-          import json, subprocess, urllib.request, time
-          from datetime import datetime
+          import json, os, subprocess, time, urllib.request
+          from datetime import datetime, timezone
           from zoneinfo import ZoneInfo
 
           BERLIN = ZoneInfo('Europe/Berlin')
           API = 'https://api.laut.fm/station/radio-vela/last_songs'
           PERIOD_START = datetime(2026, 8, 10, 22, 25, 0, tzinfo=BERLIN)
           PERIOD_END = datetime(2026, 8, 11, 22, 25, 0, tzinfo=BERLIN)
-          now = datetime.now(BERLIN)
+          POLL_SECONDS = 5
+          CHUNK_SECONDS = 5 * 60 * 60 + 40 * 60
+          HANDOFF_BEFORE = 90
 
           DATA_PATH = 'archive/song-test-2026-08-10.json'
           MD_PATH = 'archive/song-test-2026-08-10.md'
 
-          def load(path, default):
+          def load_data():
               try:
-                  with open(path, encoding='utf-8') as f:
-                      value = json.load(f)
-                  return value if isinstance(value, type(default)) else default
+                  with open(DATA_PATH, encoding='utf-8') as f:
+                      return json.load(f)
               except Exception:
-                  return default
+                  return {'period_start': PERIOD_START.isoformat(), 'period_end': PERIOD_END.isoformat(), 'occurrences': [], 'winner': None}
 
-          data = load(DATA_PATH, {'occurrences': [], 'winner': None})
-          occurrences = data.get('occurrences', [])
-          known = {x.get('played_at') for x in occurrences if isinstance(x, dict)}
+          def parse_dt(value):
+              if not value:
+                  return None
+              text = str(value).strip()
+              for fmt in ('%Y-%m-%d %H:%M:%S %z', '%Y-%m-%dT%H:%M:%S%z', '%Y-%m-%dT%H:%M:%S.%f%z'):
+                  try:
+                      return datetime.strptime(text, fmt).astimezone(BERLIN)
+                  except ValueError:
+                      pass
+              try:
+                  return datetime.fromisoformat(text.replace('Z', '+00:00')).astimezone(BERLIN)
+              except ValueError:
+                  return None
 
-          if now < PERIOD_START:
-              print(f'Noch nicht gestartet: {now.isoformat()}')
-              raise SystemExit(0)
-
-          songs = []
-          if now <= PERIOD_END:
-              req = urllib.request.Request(API, headers={'User-Agent': 'Radio-Vela-24h-Song-Test'})
+          def fetch_songs():
+              req = urllib.request.Request(API, headers={'User-Agent': 'Radio-Vela-Realtime-Tracker/1.0'})
               for attempt in range(3):
                   try:
-                      with urllib.request.urlopen(req, timeout=20) as r:
+                      with urllib.request.urlopen(req, timeout=10) as r:
                           raw = json.load(r)
-                      songs = raw if isinstance(raw, list) else raw.get('items', [])
-                      break
+                      return raw if isinstance(raw, list) else raw.get('items', [])
                   except Exception as exc:
                       if attempt == 2:
-                          print(f'laut.fm-Abfrage fehlgeschlagen: {exc}')
+                          print(f'laut.fm-Abfrage fehlgeschlagen: {exc}', flush=True)
                       else:
-                          time.sleep(3)
+                          time.sleep(1)
+              return []
 
-          added = 0
+          def write_files(data, now):
+              with open(DATA_PATH, 'w', encoding='utf-8') as f:
+                  json.dump(data, f, ensure_ascii=False, indent=2)
+                  f.write('\n')
+
+              seen = {}
+              lines = [
+                  '# Radio Vela – 24h Song-Test', '',
+                  '**Zeitraum:** 10.08.2026, 22:25 Uhr – 11.08.2026, 22:25 Uhr', '',
+                  'Jedes erkannte Abspielen steht einzeln. Bei Wiederholungen steht die laufende Anzahl in Klammern.', '',
+                  '## Playlist', ''
+              ]
+              for i, x in enumerate(data['occurrences'], 1):
+                  key = (x['artist'].casefold(), x['title'].casefold())
+                  seen[key] = seen.get(key, 0) + 1
+                  suffix = f' ({seen[key]})' if seen[key] > 1 else ''
+                  t = datetime.fromisoformat(x['played_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')
+                  artist = f" – {x['artist']}" if x['artist'] else ''
+                  lines.append(f"{i}. **{x['title']}**{artist} · {t}{suffix}")
+
+              lines += ['', '## Meistgespieltes Lied', '']
+              winner = data.get('winner')
+              if winner and winner.get('songs'):
+                  for w in winner['songs']:
+                      lines.append(f"🏆 **{w['title']}** – {w['artist']} · **{winner['count']}×**")
+                  lines.append(f"Gekürt am {datetime.fromisoformat(winner['decided_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')}")
+              else:
+                  lines.append('Noch nicht gekürt. Die Auswertung erfolgt nach Ablauf des 24-Stunden-Tests.')
+              lines += ['', f'Letztes Update: {now.strftime("%d.%m.%Y %H:%M:%S Uhr")}']
+              with open(MD_PATH, 'w', encoding='utf-8') as f:
+                  f.write('\n'.join(lines) + '\n')
+
+          def commit_and_push(message):
+              subprocess.run(['git', 'add', DATA_PATH, MD_PATH], check=True)
+              if subprocess.run(['git', 'diff', '--cached', '--quiet']).returncode == 0:
+                  return
+              subprocess.run(['git', 'config', 'user.name', 'Radio Vela Realtime Tracker'], check=True)
+              subprocess.run(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'], check=True)
+              subprocess.run(['git', 'commit', '-m', message], check=True)
+              subprocess.run(['git', 'push'], check=True)
+
+          def dispatch_next():
+              token = os.environ.get('GH_TOKEN')
+              if not token:
+                  print('Kein GITHUB_TOKEN vorhanden; kein Folge-Lauf gestartet.', flush=True)
+                  return
+              req = urllib.request.Request(
+                  'https://api.github.com/repos/maxi05maker/radio-vela/actions/workflows/song-test.yml/dispatches',
+                  data=json.dumps({'ref': 'main'}).encode(),
+                  headers={
+                      'Authorization': f'Bearer {token}',
+                      'Accept': 'application/vnd.github+json',
+                      'X-GitHub-Api-Version': '2022-11-28',
+                      'Content-Type': 'application/json'
+                  },
+                  method='POST'
+              )
+              try:
+                  with urllib.request.urlopen(req, timeout=15) as r:
+                      print(f'Folge-Lauf gestartet: HTTP {r.status}', flush=True)
+              except Exception as exc:
+                  print(f'Folge-Lauf konnte nicht gestartet werden: {exc}', flush=True)
+
+          start_run = time.time()
+          handed_off = False
+          data = load_data()
+          known = {x.get('played_at') for x in data.get('occurrences', []) if isinstance(x, dict)}
+
+          while True:
+              now = datetime.now(BERLIN)
+              if now < PERIOD_START:
+                  time.sleep(min(POLL_SECONDS, max(1, (PERIOD_START - now).total_seconds())))
+                  continue
+              if now >= PERIOD_END:
+                  break
+
+              elapsed = time.time() - start_run
+              if elapsed >= CHUNK_SECONDS - HANDOFF_BEFORE:
+                  if not handed_off:
+                      dispatch_next()
+                      handed_off = True
+                  # Keep polling briefly so the next run can take over; concurrency will cancel this run.
+                  time.sleep(POLL_SECONDS)
+                  continue
+
+              songs = fetch_songs()
+              added = 0
+              for song in songs:
+                  if not isinstance(song, dict):
+                      continue
+                  played_at = song.get('started_at') or song.get('start_time') or song.get('played_at')
+                  dt = parse_dt(played_at)
+                  title = str(song.get('title') or '').strip()
+                  artist = song.get('artist') or ''
+                  if isinstance(artist, dict):
+                      artist = artist.get('name', '')
+                  artist = str(artist).strip()
+                  if not dt or not title or not (PERIOD_START <= dt <= PERIOD_END):
+                      continue
+                  key = dt.isoformat()
+                  if key in known:
+                      continue
+                  data['occurrences'].append({'played_at': key, 'title': title, 'artist': artist})
+                  known.add(key)
+                  added += 1
+
+              if added:
+                  data['occurrences'].sort(key=lambda x: x.get('played_at', ''))
+                  counts = {}
+                  for x in data['occurrences']:
+                      k = (x.get('artist', '').casefold(), x.get('title', '').casefold())
+                      counts[k] = counts.get(k, 0) + 1
+                  data['winner'] = None
+                  write_files(data, now)
+                  commit_and_push(f'Song-Test: {added} neue Titel erfassen [skip ci]')
+                  print(f'{now.isoformat()} – +{added} Titel, insgesamt {len(data["occurrences"])}', flush=True)
+
+              time.sleep(POLL_SECONDS)
+
+          # Finaler Lauf: aktuelle Playlist noch einmal holen und Gewinner küren.
+          now = datetime.now(BERLIN)
+          songs = fetch_songs()
           for song in songs:
               if not isinstance(song, dict):
                   continue
-              played_at = song.get('started_at') or song.get('start_time') or song.get('played_at')
+              dt = parse_dt(song.get('started_at') or song.get('start_time') or song.get('played_at'))
               title = str(song.get('title') or '').strip()
               artist = song.get('artist') or ''
               if isinstance(artist, dict):
                   artist = artist.get('name', '')
               artist = str(artist).strip()
-              if not played_at or not title:
-                  continue
-
-              try:
-                  dt = datetime.strptime(str(played_at), '%Y-%m-%d %H:%M:%S %z').astimezone(BERLIN)
-              except ValueError:
-                  continue
-
-              if not (PERIOD_START <= dt <= PERIOD_END):
+              if not dt or not title or not (PERIOD_START <= dt <= PERIOD_END):
                   continue
               key = dt.isoformat()
-              if key in known:
-                  continue
+              if key not in known:
+                  data['occurrences'].append({'played_at': key, 'title': title, 'artist': artist})
+                  known.add(key)
 
-              occurrences.append({'played_at': key, 'title': title, 'artist': artist})
-              known.add(key)
-              added += 1
-
-          occurrences.sort(key=lambda x: x.get('played_at', ''))
-
+          data['occurrences'].sort(key=lambda x: x.get('played_at', ''))
           counts = {}
-          for x in occurrences:
-              key = (x.get('artist', '').casefold(), x.get('title', '').casefold())
-              counts[key] = counts.get(key, 0) + 1
-
-          winner = data.get('winner')
-          if now >= PERIOD_END and not winner:
-              if counts:
-                  max_count = max(counts.values())
-                  leaders = [key for key, count in counts.items() if count == max_count]
-                  winner = {
-                      'status': 'gekürt',
-                      'count': max_count,
-                      'songs': [
-                          {'artist': next(x['artist'] for x in occurrences if (x['artist'].casefold(), x['title'].casefold()) == key),
-                           'title': next(x['title'] for x in occurrences if (x['artist'].casefold(), x['title'].casefold()) == key)}
-                          for key in leaders
-                      ],
-                      'decided_at': now.isoformat()
-                  }
-              else:
-                  winner = {'status': 'keine Titel erfasst', 'count': 0, 'songs': [], 'decided_at': now.isoformat()}
-
-          data = {'period_start': PERIOD_START.isoformat(), 'period_end': PERIOD_END.isoformat(), 'occurrences': occurrences, 'winner': winner}
-
-          with open(DATA_PATH, 'w', encoding='utf-8') as f:
-              json.dump(data, f, ensure_ascii=False, indent=2)
-              f.write('\n')
-
-          seen_numbers = {}
-          lines = [
-              '# Radio Vela – 24h Song-Test', '',
-              '**Zeitraum:** 10.08.2026, 22:25 Uhr – 11.08.2026, 22:25 Uhr', '',
-              'Jedes tatsächlich erkannte Abspielen steht einzeln. Bei Wiederholungen wird die laufende Anzahl dieses Liedes angegeben.', '',
-              '## Playlist', ''
-          ]
-          for i, x in enumerate(occurrences, 1):
-              key = (x['artist'].casefold(), x['title'].casefold())
-              seen_numbers[key] = seen_numbers.get(key, 0) + 1
-              suffix = f" ({seen_numbers[key]})" if seen_numbers[key] > 1 else ''
-              t = datetime.fromisoformat(x['played_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')
-              lines.append(f"{i}. **{x['title']}** – {x['artist']} · {t}{suffix}")
-
-          lines += ['', '## Meistgespieltes Lied', '']
-          if winner:
-              if winner['songs']:
-                  for w in winner['songs']:
-                      lines.append(f"🏆 **{w['title']}** – {w['artist']} · **{winner['count']}×**")
-                  lines.append(f"Gekürt am {datetime.fromisoformat(winner['decided_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')}")
-              else:
-                  lines.append('Keine Titel wurden erfasst.')
+          display = {}
+          for x in data['occurrences']:
+              k = (x.get('artist', '').casefold(), x.get('title', '').casefold())
+              counts[k] = counts.get(k, 0) + 1
+              display[k] = {'artist': x.get('artist', ''), 'title': x.get('title', '')}
+          if counts:
+              maximum = max(counts.values())
+              leaders = [display[k] for k, v in counts.items() if v == maximum]
+              data['winner'] = {'status': 'gekürt', 'count': maximum, 'songs': leaders, 'decided_at': now.isoformat()}
           else:
-              lines.append('Noch nicht gekürt. Die Auswertung erfolgt nach Ablauf des 24-Stunden-Tests.')
-          lines += ['', f'Letztes Update: {now.strftime("%d.%m.%Y %H:%M:%S Uhr")}']
-
-          with open(MD_PATH, 'w', encoding='utf-8') as f:
-              f.write('\n'.join(lines) + '\n')
-
-          subprocess.run(['git', 'config', 'user.name', 'Radio Vela Song Test'], check=True)
-          subprocess.run(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'], check=True)
-          subprocess.run(['git', 'add', DATA_PATH, MD_PATH], check=True)
-          if subprocess.run(['git', 'diff', '--cached', '--quiet']).returncode != 0:
-              subprocess.run(['git', 'commit', '-m', '24h Song-Test aktualisieren'], check=True)
-              subprocess.run(['git', 'push'], check=True)
-
-          print(f'{now.isoformat()} – +{added} Titel, insgesamt {len(occurrences)} Vorkommen')
-          if winner:
-              print(f"Gewinner: {winner['songs']} mit {winner['count']}x")
+              data['winner'] = {'status': 'keine Titel erfasst', 'count': 0, 'songs': [], 'decided_at': now.isoformat()}
+          write_files(data, now)
+          commit_and_push('Song-Test: 24h-Auswertung abschliessen [skip ci]')
+          print(f'Test beendet: {len(data["occurrences"])} Vorkommen', flush=True)
           PY
