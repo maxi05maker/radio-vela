@@ -1,0 +1,97 @@
+name: Radio Vela – Nachrichten & Wetter Test
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/news-test.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  news-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Nachrichten & Wetter prüfen
+        run: |
+          python3 - <<'PY'
+          import json, time, urllib.request
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+
+          BERLIN = ZoneInfo('Europe/Berlin')
+          START = datetime(2026, 8, 10, 23, 0, 0, tzinfo=BERLIN)
+          END = datetime(2026, 8, 11, 23, 0, 0, tzinfo=BERLIN)
+          BASE = 'https://api.laut.fm/station/radio-vela'
+          PATH = 'archive/news-and-weather-2026-08-10.json'
+          MD = 'archive/news-and-weather-2026-08-10.md'
+
+          def get_current():
+              url = f'{BASE}/current_song?_={time.time_ns()}'
+              req = urllib.request.Request(url, headers={'User-Agent':'Radio-Vela-News-Test/1.0','Cache-Control':'no-cache','Pragma':'no-cache'})
+              try:
+                  with urllib.request.urlopen(req, timeout=10) as r:
+                      return json.load(r)
+              except Exception:
+                  return None
+
+          def parse(value):
+              if not value: return None
+              try:
+                  return datetime.fromisoformat(str(value).replace('Z','+00:00')).astimezone(BERLIN)
+              except Exception:
+                  return None
+
+          now = datetime.now(BERLIN)
+          if now < START:
+              print('Test startet um 23:00 Uhr.', flush=True)
+              raise SystemExit(0)
+          if now >= END:
+              print('Testzeitraum beendet.', flush=True)
+              raise SystemExit(0)
+
+          raw = get_current()
+          title = str(raw.get('title') or '').strip() if isinstance(raw, dict) else ''
+          played = parse((raw or {}).get('started_at') or (raw or {}).get('start_time') or (raw or {}).get('played_at')) if isinstance(raw, dict) else None
+
+          data = {'period_start': START.isoformat(), 'period_end': END.isoformat(), 'entries': []}
+          try:
+              with open(PATH, encoding='utf-8') as f: data = json.load(f)
+          except Exception: pass
+
+          entries = data.setdefault('entries', [])
+          existing = {x.get('played_at') for x in entries}
+          normalized = ' '.join(title.casefold().replace('&',' und ').split())
+
+          if played and START <= played < END and 'nachrichten' in normalized and 'wetter' in normalized and played.isoformat() not in existing:
+              entries.append({'played_at': played.isoformat(), 'detected_at': now.isoformat(), 'title': title})
+              entries.sort(key=lambda x: x['played_at'])
+              print(f'ERKANNT: {title} | gespielt: {played.strftime("%d.%m.%Y %H:%M:%S Uhr")}', flush=True)
+
+              with open(PATH,'w',encoding='utf-8') as f:
+                  json.dump(data,f,ensure_ascii=False,indent=2); f.write('\n')
+              lines = ['# Radio Vela – Nachrichten & Wetter Test','','**Zeitraum:** 10.08.2026 23:00 Uhr – 11.08.2026 23:00 Uhr','','## Erfasste Sendungen','']
+              for i,x in enumerate(entries,1):
+                  p=datetime.fromisoformat(x['played_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')
+                  d=datetime.fromisoformat(x['detected_at']).strftime('%d.%m.%Y %H:%M:%S Uhr')
+                  lines.append(f'{i}. 📰 **{x["title"]}** · gespielt: **{p}** · erkannt: {d}')
+              lines += ['',f'Letztes Update: {now.strftime("%d.%m.%Y %H:%M:%S Uhr")}']
+              with open(MD,'w',encoding='utf-8') as f: f.write('\n'.join(lines)+'\n')
+
+              import subprocess
+              subprocess.run(['git','config','user.name','Radio Vela News Tracker'],check=True)
+              subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
+              subprocess.run(['git','add',PATH,MD],check=True)
+              subprocess.run(['git','commit','-m','Nachrichten & Wetter erkannt [skip ci]'],check=True)
+              subprocess.run(['git','push','origin','HEAD:main'],check=True)
+          else:
+              print(f'Kein Nachrichten-&-Wetter-Treffer. Aktueller Titel: {title or "unbekannt"}', flush=True)
+          PY
