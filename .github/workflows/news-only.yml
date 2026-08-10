@@ -1,0 +1,73 @@
+name: Radio Vela Nachrichten
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radio-vela-news-only
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v4
+
+      - name: Nachrichtenzeiten aktualisieren
+        run: |
+          python3 - <<'PY'
+          import json, subprocess, urllib.request
+
+          API='https://api.laut.fm/station/radio-vela/last_songs'
+          req=urllib.request.Request(API,headers={'User-Agent':'Radio-Vela-News-Only'})
+          with urllib.request.urlopen(req,timeout=30) as r:
+              payload=json.load(r)
+
+          songs=payload if isinstance(payload,list) else payload.get('items',[])
+
+          try:
+              with open('news.json',encoding='utf-8') as f:
+                  news=json.load(f)
+          except Exception:
+              news=[]
+          if not isinstance(news,list):
+              news=[]
+
+          existing={x.get('key') or x.get('played_at') for x in news if isinstance(x,dict)}
+
+          for s in songs if isinstance(songs,list) else []:
+              if not isinstance(s,dict):
+                  continue
+              started=s.get('started_at')
+              title=str(s.get('title') or '').strip()
+              artist=s.get('artist') or ''
+              if isinstance(artist,dict):
+                  artist=artist.get('name','') or ''
+              artist=str(artist).strip()
+              if title.lower() != 'nachrichten & wetter' or artist.lower() != 'laut.fm' or not started:
+                  continue
+              if started in existing:
+                  continue
+              news.append({'played_at':started,'title':title,'artist':artist,'key':started})
+              existing.add(started)
+
+          news.sort(key=lambda x:x.get('played_at',''))
+
+          with open('news.json','w',encoding='utf-8') as f:
+              json.dump(news,f,ensure_ascii=False,indent=2)
+
+          subprocess.run(['git','config','user.name','Radio Vela Nachrichten'],check=True)
+          subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add','news.json'],check=True)
+          if subprocess.run(['git','diff','--cached','--quiet']).returncode != 0:
+              subprocess.run(['git','commit','-m','Nachrichtenzeit aktualisieren'],check=True)
+              subprocess.run(['git','push'],check=True)
+          print(f'Nachrichtenzeiten: {len(news)}')
+          PY
