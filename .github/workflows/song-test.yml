@@ -29,8 +29,8 @@ jobs:
 
           BERLIN = ZoneInfo('Europe/Berlin')
           API = 'https://api.laut.fm/station/radio-vela/last_songs'
-          PERIOD_START = datetime(2026, 8, 10, 23, 0, 0, tzinfo=BERLIN)
-          PERIOD_END = datetime(2026, 8, 11, 23, 0, 0, tzinfo=BERLIN)
+          PERIOD_START = datetime(2026, 8, 10, 22, 25, 0, tzinfo=BERLIN)
+          PERIOD_END = datetime(2026, 8, 11, 22, 25, 0, tzinfo=BERLIN)
           now = datetime.now(BERLIN)
 
           DATA_PATH = 'archive/song-test-2026-08-10.json'
@@ -48,8 +48,6 @@ jobs:
           occurrences = data.get('occurrences', [])
           known = {x.get('played_at') for x in occurrences if isinstance(x, dict)}
 
-          # Nach Ende des Tests nichts Neues mehr aufnehmen, aber die Auswertung noch
-          # bis zum nächsten GitHub-Lauf durchführen können.
           if now < PERIOD_START:
               print(f'Noch nicht gestartet: {now.isoformat()}')
               raise SystemExit(0)
@@ -93,18 +91,12 @@ jobs:
               if key in known:
                   continue
 
-              occurrences.append({
-                  'played_at': key,
-                  'title': title,
-                  'artist': artist
-              })
+              occurrences.append({'played_at': key, 'title': title, 'artist': artist})
               known.add(key)
               added += 1
 
           occurrences.sort(key=lambda x: x.get('played_at', ''))
 
-          # Anzahl je Titel + Interpret. Die einzelnen Vorkommen bleiben trotzdem
-          # separat gespeichert, damit die Reihenfolge und tatsächlichen Zeiten sichtbar bleiben.
           counts = {}
           for x in occurrences:
               key = (x.get('artist', '').casefold(), x.get('title', '').casefold())
@@ -114,10 +106,7 @@ jobs:
           if now >= PERIOD_END and not winner:
               if counts:
                   max_count = max(counts.values())
-                  leaders = []
-                  for key, count in counts.items():
-                      if count == max_count:
-                          leaders.append(key)
+                  leaders = [key for key, count in counts.items() if count == max_count]
                   winner = {
                       'status': 'gekürt',
                       'count': max_count,
@@ -137,17 +126,12 @@ jobs:
               json.dump(data, f, ensure_ascii=False, indent=2)
               f.write('\n')
 
-          # Gut lesbare Liste: jedes tatsächliche Vorkommen steht einzeln untereinander.
           seen_numbers = {}
           lines = [
-              '# Radio Vela – 24h Song-Test',
-              '',
-              f'Zeitraum: **10.08.2026, 23:00 Uhr – 11.08.2026, 23:00 Uhr**',
-              '',
-              'Jedes tatsächlich erkannte Abspielen steht einzeln. Bei Wiederholungen wird die laufende Anzahl dieses Liedes angegeben.',
-              '',
-              '## Playlist',
-              ''
+              '# Radio Vela – 24h Song-Test', '',
+              '**Zeitraum:** 10.08.2026, 22:25 Uhr – 11.08.2026, 22:25 Uhr', '',
+              'Jedes tatsächlich erkannte Abspielen steht einzeln. Bei Wiederholungen wird die laufende Anzahl dieses Liedes angegeben.', '',
+              '## Playlist', ''
           ]
           for i, x in enumerate(occurrences, 1):
               key = (x['artist'].casefold(), x['title'].casefold())
