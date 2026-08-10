@@ -2,6 +2,9 @@ name: Radio Vela – 24h Song-Test
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/song-test.yml'
   schedule:
     # Alle 5 Minuten. Die zeitliche Begrenzung erfolgt im Script in Europe/Berlin.
     - cron: '*/5 * * * *'
