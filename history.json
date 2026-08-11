@@ -730,5 +730,11 @@
     "played_at": "2026-08-11 12:58:49 +0200",
     "title": "Fit Back In",
     "artist": "BOY"
+  },
+  {
+    "key": "2026-08-11 13:03:22 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-11 13:03:22 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
