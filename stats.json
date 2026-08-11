@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 73,
-    "music_entries": 69,
+    "total_entries": 74,
+    "music_entries": 70,
     "songs": [
       {
         "artist": "Santigold",
@@ -343,6 +343,11 @@
       {
         "artist": "Ashnikko",
         "title": "Worms",
+        "plays": 1
+      },
+      {
+        "artist": "Blackberry Smoke",
+        "title": "Run Away from It All",
         "plays": 1
       }
     ],
