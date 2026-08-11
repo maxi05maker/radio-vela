@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 110,
-    "music_entries": 103,
+    "total_entries": 111,
+    "music_entries": 104,
     "songs": [
       {
         "artist": "Santigold",
@@ -513,6 +513,11 @@
       {
         "artist": "The The",
         "title": "A Rainy Day In May",
+        "plays": 1
+      },
+      {
+        "artist": "Lauren Spencer-Smith",
+        "title": "Flowers",
         "plays": 1
       }
     ],
