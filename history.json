@@ -712,5 +712,11 @@
     "played_at": "2026-08-11 12:48:33 +0200",
     "title": "Shallow",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-08-11 12:52:10 +0200|A Rainy Day In May|The The",
+    "played_at": "2026-08-11 12:52:10 +0200",
+    "title": "A Rainy Day In May",
+    "artist": "The The"
   }
 ]
