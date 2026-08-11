@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 157,
-    "music_entries": 145,
+    "total_entries": 158,
+    "music_entries": 146,
     "songs": [
       {
         "artist": "Santigold",
@@ -693,6 +693,11 @@
       {
         "artist": "Mabel",
         "title": "Mad Love",
+        "plays": 1
+      },
+      {
+        "artist": "Madison Beer",
+        "title": "Make You Mine",
         "plays": 1
       }
     ],
