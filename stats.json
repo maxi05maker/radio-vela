@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 47,
+    "total_entries": 51,
+    "music_entries": 48,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -238,6 +238,11 @@
       {
         "artist": "Zartmann",
         "title": "tau mich auf",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Safe",
         "plays": 1
       }
     ],
