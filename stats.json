@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 216,
-    "music_entries": 199,
+    "total_entries": 217,
+    "music_entries": 200,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -68,6 +68,11 @@
       {
         "artist": "twocolors, Pascal Letoublon",
         "title": "Break Up",
+        "plays": 2
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "3 Uhr Nachts",
         "plays": 2
       },
       {
@@ -573,11 +578,6 @@
       {
         "artist": "Dermot Kennedy",
         "title": "Giants",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "3 Uhr Nachts",
         "plays": 1
       },
       {
