@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 53,
-    "music_entries": 50,
+    "total_entries": 54,
+    "music_entries": 51,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -253,6 +253,11 @@
       {
         "artist": "Charli xcx",
         "title": "House featuring John Cale",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "No Roots",
         "plays": 1
       }
     ],
