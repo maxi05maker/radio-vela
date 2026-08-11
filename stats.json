@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 130,
-    "music_entries": 120,
+    "total_entries": 132,
+    "music_entries": 122,
     "songs": [
       {
         "artist": "Santigold",
@@ -568,6 +568,16 @@
       {
         "artist": "Alvaro Soler & Topic",
         "title": "Solo Para Ti",
+        "plays": 1
+      },
+      {
+        "artist": "Dermot Kennedy",
+        "title": "Giants",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "3 Uhr Nachts",
         "plays": 1
       }
     ],

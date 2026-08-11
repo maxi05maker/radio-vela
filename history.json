@@ -838,5 +838,17 @@
     "played_at": "2026-08-11 21:28:28 +0200",
     "title": "Solo Para Ti",
     "artist": "Alvaro Soler & Topic"
+  },
+  {
+    "key": "2026-08-11 21:31:46 +0200|Giants|Dermot Kennedy",
+    "played_at": "2026-08-11 21:31:46 +0200",
+    "title": "Giants",
+    "artist": "Dermot Kennedy"
+  },
+  {
+    "key": "2026-08-11 21:34:43 +0200|3 Uhr Nachts|Nina Chuba",
+    "played_at": "2026-08-11 21:34:43 +0200",
+    "title": "3 Uhr Nachts",
+    "artist": "Nina Chuba"
   }
 ]
