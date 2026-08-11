@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 176,
-    "music_entries": 162,
+    "total_entries": 177,
+    "music_entries": 163,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
@@ -758,6 +758,11 @@
       {
         "artist": "Nico Santos",
         "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "The Hellacopters",
+        "title": "Wrong Face On",
         "plays": 1
       }
     ],
