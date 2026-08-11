@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 33,
-    "music_entries": 31,
+    "total_entries": 34,
+    "music_entries": 32,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -158,6 +158,11 @@
       {
         "artist": "Kid Cudi",
         "title": "Do What I Want",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 1
       }
     ],
