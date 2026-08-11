@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 34,
-    "music_entries": 32,
+    "total_entries": 35,
+    "music_entries": 33,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -163,6 +163,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "peu à peu",
         "plays": 1
       }
     ],
