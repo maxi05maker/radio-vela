@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 191,
-    "music_entries": 176,
+    "total_entries": 192,
+    "music_entries": 177,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -818,6 +818,11 @@
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Aura Dione",
+        "title": "I Will Love You Monday (365)",
         "plays": 1
       }
     ],
