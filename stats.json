@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 181,
-    "music_entries": 167,
+    "total_entries": 182,
+    "music_entries": 168,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
@@ -783,6 +783,11 @@
       {
         "artist": "Sofia Portanet",
         "title": "Freier Geist",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Nevermind",
         "plays": 1
       }
     ],
