@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 49,
-    "music_entries": 46,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -233,6 +233,11 @@
       {
         "artist": "Demi Lovato",
         "title": "SKIN OF MY TEETH",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "tau mich auf",
         "plays": 1
       }
     ],
