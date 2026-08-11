@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 98,
-    "music_entries": 92,
+    "total_entries": 99,
+    "music_entries": 93,
     "songs": [
       {
         "artist": "Santigold",
@@ -458,6 +458,11 @@
       {
         "artist": "Mika",
         "title": "Modern Times",
+        "plays": 1
+      },
+      {
+        "artist": "KitschKrieg; Jamule",
+        "title": "Unterwegs",
         "plays": 1
       }
     ],
