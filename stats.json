@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 178,
-    "music_entries": 164,
+    "total_entries": 179,
+    "music_entries": 165,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
@@ -768,6 +768,11 @@
       {
         "artist": "Anne-Marie",
         "title": "Ciao Adios",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 1
       }
     ],
