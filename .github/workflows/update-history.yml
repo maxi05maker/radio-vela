@@ -27,7 +27,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           python3 - <<'PY'
-          import json, os, subprocess, urllib.request
+          import json, os, subprocess, urllib.request, time
           from collections import Counter
           from datetime import datetime, timedelta, time as dt_time
           from zoneinfo import ZoneInfo
@@ -51,11 +51,20 @@ jobs:
                   return None
 
           def fetch_songs():
-              req=urllib.request.Request(API,headers=HEADERS)
-              with urllib.request.urlopen(req,timeout=30) as r:
-                  payload=json.load(r)
-              songs=payload if isinstance(payload,list) else payload.get('items',[])
-              return songs if isinstance(songs,list) else []
+              last_error=None
+              for attempt in range(4):
+                  try:
+                      req=urllib.request.Request(API,headers=HEADERS)
+                      with urllib.request.urlopen(req,timeout=30) as r:
+                          payload=json.load(r)
+                      songs=payload if isinstance(payload,list) else payload.get('items',[])
+                      return songs if isinstance(songs,list) else []
+                  except Exception as e:
+                      last_error=e
+                      if attempt < 3:
+                          time.sleep(5 * (attempt + 1))
+              print(f'Laut.fm vorübergehend nicht erreichbar: {last_error}',flush=True)
+              return []
 
           def music_rows(rows):
               out=[]
@@ -104,8 +113,6 @@ jobs:
           now=datetime.now(tz)
           reset_done=False
 
-          # 07:00 Europe/Berlin: first archive the completed live period, then reset both live files.
-          # The archive filename itself is the permanent one-time reset marker for that date.
           if now.hour==7 and now.minute<=5:
               os.makedirs('archive',exist_ok=True)
               archive_day=now.date().isoformat()
@@ -116,7 +123,6 @@ jobs:
                       json.dump(history,f,ensure_ascii=False,indent=2)
                   start=datetime.combine(now.date()-timedelta(days=1),dt_time(7,0),tzinfo=tz)
                   end=datetime.combine(now.date(),dt_time(7,0),tzinfo=tz)
-                  # On the initial archive start, preserve the actual first-start window if present.
                   if any(parse_dt(x.get('played_at')) and parse_dt(x.get('played_at')) < start for x in history if isinstance(x,dict)):
                       earliest=min((parse_dt(x.get('played_at')) for x in history if isinstance(x,dict) and parse_dt(x.get('played_at'))),default=start)
                       start=earliest
@@ -148,7 +154,6 @@ jobs:
 
           history.sort(key=lambda x:x.get('played_at',''))
 
-          # During the live day stats.json describes only the currently running day.
           if history:
               day_start=datetime.combine(now.date(),dt_time(7,0),tzinfo=tz)
               if now < day_start:
@@ -175,6 +180,7 @@ jobs:
           PY
 
       - name: Nächsten Abruf in 60 Sekunden starten
+        if: always()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
