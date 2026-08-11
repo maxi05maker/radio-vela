@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 35,
-    "music_entries": 33,
+    "total_entries": 36,
+    "music_entries": 34,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -168,6 +168,11 @@
       {
         "artist": "Bosse",
         "title": "peu à peu",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
         "plays": 1
       }
     ],
