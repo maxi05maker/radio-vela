@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 28,
-    "music_entries": 26,
+    "total_entries": 29,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -133,6 +133,11 @@
       {
         "artist": "Herbert Grönemeyer",
         "title": "Lied 1 - Stück vom Himmel",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "twilight zone",
         "plays": 1
       }
     ],
