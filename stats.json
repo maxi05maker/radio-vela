@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 59,
-    "music_entries": 55,
+    "total_entries": 60,
+    "music_entries": 56,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -278,6 +278,11 @@
       {
         "artist": "The Weekend & Rosalia",
         "title": "Blinding Lights (Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "All About That Bass",
         "plays": 1
       }
     ],
