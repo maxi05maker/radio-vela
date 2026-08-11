@@ -604,5 +604,11 @@
     "played_at": "2026-08-11 11:54:40 +0200",
     "title": "Illegal",
     "artist": "PinkPantheress"
+  },
+  {
+    "key": "2026-08-11 11:57:09 +0200|Hollywood Hills|Sunrise Avenue",
+    "played_at": "2026-08-11 11:57:09 +0200",
+    "title": "Hollywood Hills",
+    "artist": "Sunrise Avenue"
   }
 ]
