@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 93,
-    "music_entries": 87,
+    "total_entries": 94,
+    "music_entries": 88,
     "songs": [
       {
         "artist": "Santigold",
@@ -433,6 +433,11 @@
       {
         "artist": "Sunrise Avenue",
         "title": "Hollywood Hills",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Cameron",
+        "title": "Best Life",
         "plays": 1
       }
     ],
