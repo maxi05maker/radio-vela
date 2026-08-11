@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 150,
-    "music_entries": 139,
+    "total_entries": 151,
+    "music_entries": 140,
     "songs": [
       {
         "artist": "Santigold",
@@ -663,6 +663,11 @@
       {
         "artist": "Paramore",
         "title": "Hard Times",
+        "plays": 1
+      },
+      {
+        "artist": "LINKIN PARK & Kiiara",
+        "title": "Heavy",
         "plays": 1
       }
     ],
