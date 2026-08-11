@@ -1150,5 +1150,11 @@
     "played_at": "2026-08-12 00:01:33 +0200",
     "title": "Nevermind",
     "artist": "Dennis Lloyd"
+  },
+  {
+    "key": "2026-08-12 00:04:10 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-12 00:04:10 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
