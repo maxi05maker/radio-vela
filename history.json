@@ -178,5 +178,11 @@
     "played_at": "2026-08-11 08:06:19 +0200",
     "title": "Nachrichten & Wetter",
     "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-11 08:09:20 +0200|Dirty Dancing|Glockenbach",
+    "played_at": "2026-08-11 08:09:20 +0200",
+    "title": "Dirty Dancing",
+    "artist": "Glockenbach"
   }
 ]

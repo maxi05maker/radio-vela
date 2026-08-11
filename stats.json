@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 21,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -93,6 +93,11 @@
       {
         "artist": "Lady Gaga",
         "title": "The Dead Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
         "plays": 1
       }
     ],
