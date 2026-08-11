@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 210,
-    "music_entries": 193,
+    "total_entries": 212,
+    "music_entries": 195,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -893,6 +893,16 @@
       {
         "artist": "Calvin Harris",
         "title": "My Way",
+        "plays": 1
+      },
+      {
+        "artist": "Mogwai",
+        "title": "Fanzine Made of Flesh",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster",
+        "title": "Sowieso",
         "plays": 1
       }
     ],
