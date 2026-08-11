@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 186,
-    "music_entries": 171,
+    "total_entries": 187,
+    "music_entries": 172,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
@@ -798,6 +798,11 @@
       {
         "artist": "Cheap Trick",
         "title": "I Want You to Want Me",
+        "plays": 1
+      },
+      {
+        "artist": "TWICE",
+        "title": "Strategy (feat. Megan Thee Stallion)",
         "plays": 1
       }
     ],
