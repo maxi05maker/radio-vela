@@ -124,5 +124,11 @@
     "played_at": "2026-08-11 07:35:20 +0200",
     "title": "Rockstars",
     "artist": "Malik Harris"
+  },
+  {
+    "key": "2026-08-11 07:38:20 +0200|Meine Kneipe|Von Wegen Lisbeth",
+    "played_at": "2026-08-11 07:38:20 +0200",
+    "title": "Meine Kneipe",
+    "artist": "Von Wegen Lisbeth"
   }
 ]
