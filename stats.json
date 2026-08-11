@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 8,
-    "music_entries": 7,
+    "total_entries": 9,
+    "music_entries": 8,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -38,6 +38,11 @@
       {
         "artist": "T-low & Miksu / Macloud",
         "title": "We Made It",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "About You",
         "plays": 1
       }
     ],
