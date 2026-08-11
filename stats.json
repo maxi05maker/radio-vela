@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 81,
-    "music_entries": 76,
+    "total_entries": 82,
+    "music_entries": 77,
     "songs": [
       {
         "artist": "Santigold",
@@ -378,6 +378,11 @@
       {
         "artist": "Ed Sheeran",
         "title": "Shivers",
+        "plays": 1
+      },
+      {
+        "artist": "Oimara, Melissa Naschenweng",
+        "title": "Koa Bergbauernbua",
         "plays": 1
       }
     ],
