@@ -2,12 +2,17 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 2,
-    "music_entries": 1,
+    "total_entries": 3,
+    "music_entries": 2,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
         "title": "Stay",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
         "plays": 1
       }
     ],
