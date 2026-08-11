@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 135,
-    "music_entries": 125,
+    "total_entries": 136,
+    "music_entries": 126,
     "songs": [
       {
         "artist": "Santigold",
@@ -593,6 +593,11 @@
       {
         "artist": "Ed Sheeran, Lil Baby",
         "title": "2step (feat. Lil Baby)",
+        "plays": 1
+      },
+      {
+        "artist": "The Hives",
+        "title": "Enough Is Enough",
         "plays": 1
       }
     ],
