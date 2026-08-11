@@ -610,5 +610,11 @@
     "played_at": "2026-08-11 11:57:09 +0200",
     "title": "Hollywood Hills",
     "artist": "Sunrise Avenue"
+  },
+  {
+    "key": "2026-08-11 12:00:39 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-11 12:00:39 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
