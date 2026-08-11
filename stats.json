@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 75,
-    "music_entries": 70,
+    "total_entries": 76,
+    "music_entries": 71,
     "songs": [
       {
         "artist": "Santigold",
@@ -348,6 +348,11 @@
       {
         "artist": "Blackberry Smoke",
         "title": "Run Away from It All",
+        "plays": 1
+      },
+      {
+        "artist": "Damiano David, Tyla, Nile Rodgers",
+        "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
         "plays": 1
       }
     ],
