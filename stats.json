@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 161,
-    "music_entries": 148,
+    "total_entries": 162,
+    "music_entries": 149,
     "songs": [
       {
         "artist": "Santigold",
@@ -703,6 +703,11 @@
       {
         "artist": "Katy Perry Feat. Skip Marley",
         "title": "Chained To The Rhythm",
+        "plays": 1
+      },
+      {
+        "artist": "Kalazh44",
+        "title": "Boom Bap feat. Die P",
         "plays": 1
       }
     ],
