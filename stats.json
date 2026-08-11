@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 171,
-    "music_entries": 157,
+    "total_entries": 172,
+    "music_entries": 158,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
@@ -738,6 +738,11 @@
       {
         "artist": "Joris",
         "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Juju feat. Henning May",
+        "title": "Vermissen",
         "plays": 1
       }
     ],
