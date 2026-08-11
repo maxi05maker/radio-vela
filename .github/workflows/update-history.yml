@@ -1,0 +1,182 @@
+name: Radio Vela Tagesarchiv
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/update-history.yml'
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: radio-vela-archive
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v4
+
+      - name: laut.fm abfragen, Tageswechsel archivieren und Archiv speichern
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY'
+          import json, os, subprocess, urllib.request
+          from collections import Counter
+          from datetime import datetime, timedelta, time as dt_time
+          from zoneinfo import ZoneInfo
+
+          API='https://api.laut.fm/station/radio-vela/last_songs'
+          HEADERS={'User-Agent':'Mozilla/5.0 Radio-Vela-Tagesarchiv'}
+          tz=ZoneInfo('Europe/Berlin')
+
+          def load_json(path, fallback):
+              try:
+                  with open(path,'r',encoding='utf-8') as f:
+                      value=json.load(f)
+                  return value
+              except Exception:
+                  return fallback
+
+          def parse_dt(v):
+              try:
+                  return datetime.fromisoformat(str(v).replace('Z','+00:00')).astimezone(tz)
+              except Exception:
+                  return None
+
+          def fetch_songs():
+              req=urllib.request.Request(API,headers=HEADERS)
+              with urllib.request.urlopen(req,timeout=30) as r:
+                  payload=json.load(r)
+              songs=payload if isinstance(payload,list) else payload.get('items',[])
+              return songs if isinstance(songs,list) else []
+
+          def music_rows(rows):
+              out=[]
+              for x in rows:
+                  if not isinstance(x,dict):
+                      continue
+                  title=str(x.get('title') or '').strip()
+                  artist=str(x.get('artist') or '').strip()
+                  if not title or artist.lower() in ('jingle','laut.fm') or title.lower() in ('ganztagsradio','nachrichten & wetter'):
+                      continue
+                  out.append((artist,title))
+              return out
+
+          def build_stats(rows, start, end):
+              in_period=[]
+              for x in rows:
+                  d=parse_dt(x.get('played_at')) if isinstance(x,dict) else None
+                  if d and start <= d < end:
+                      in_period.append(x)
+              music=music_rows(in_period)
+              counts=Counter(music)
+              ranked=[{'artist':a,'title':t,'plays':n} for (a,t),n in counts.most_common()]
+              return {
+                  'period_start':start.isoformat(),
+                  'period_end':end.isoformat(),
+                  'total_entries':len(in_period),
+                  'music_entries':len(music),
+                  'songs':ranked,
+                  'top_song':ranked[0] if ranked else None
+              }
+
+          history=load_json('history.json',[])
+          if not isinstance(history,list):
+              history=[]
+          stats=load_json('stats.json',{})
+          if not isinstance(stats,dict):
+              stats={}
+
+          existing=set()
+          for item in history:
+              if isinstance(item,dict):
+                  key=item.get('key') or f"{item.get('played_at')}|{item.get('title')}|{item.get('artist')}"
+                  item['key']=key
+                  existing.add(key)
+
+          now=datetime.now(tz)
+          reset_done=False
+
+          # 07:00 Europe/Berlin: first archive the completed live period, then reset both live files.
+          # The archive filename itself is the permanent one-time reset marker for that date.
+          if now.hour==7 and now.minute<=5:
+              os.makedirs('archive',exist_ok=True)
+              archive_day=now.date().isoformat()
+              hist_archive=f'archive/history-{archive_day}.json'
+              stats_archive=f'archive/stats-{archive_day}.json'
+              if not os.path.exists(hist_archive):
+                  with open(hist_archive,'w',encoding='utf-8') as f:
+                      json.dump(history,f,ensure_ascii=False,indent=2)
+                  start=datetime.combine(now.date()-timedelta(days=1),dt_time(7,0),tzinfo=tz)
+                  end=datetime.combine(now.date(),dt_time(7,0),tzinfo=tz)
+                  # On the initial archive start, preserve the actual first-start window if present.
+                  if any(parse_dt(x.get('played_at')) and parse_dt(x.get('played_at')) < start for x in history if isinstance(x,dict)):
+                      earliest=min((parse_dt(x.get('played_at')) for x in history if isinstance(x,dict) and parse_dt(x.get('played_at'))),default=start)
+                      start=earliest
+                  archived_stats=build_stats(history,start,end)
+                  with open(stats_archive,'w',encoding='utf-8') as f:
+                      json.dump({archive_day:archived_stats},f,ensure_ascii=False,indent=2)
+                  history=[]
+                  stats={}
+                  reset_done=True
+
+          added=0
+          for song in fetch_songs():
+              if not isinstance(song,dict):
+                  continue
+              started=song.get('started_at')
+              title=str(song.get('title') or '').strip()
+              artist=song.get('artist') or ''
+              if isinstance(artist,dict):
+                  artist=artist.get('name','') or ''
+              artist=str(artist).strip()
+              if not started or not title:
+                  continue
+              key=f'{started}|{title}|{artist}'
+              if key in existing:
+                  continue
+              history.append({'key':key,'played_at':started,'title':title,'artist':artist})
+              existing.add(key)
+              added+=1
+
+          history.sort(key=lambda x:x.get('played_at',''))
+
+          # During the live day stats.json describes only the currently running day.
+          if history:
+              day_start=datetime.combine(now.date(),dt_time(7,0),tzinfo=tz)
+              if now < day_start:
+                  day_start-=timedelta(days=1)
+              day_end=day_start+timedelta(days=1)
+              current_rows=[x for x in history if parse_dt(x.get('played_at')) and day_start <= parse_dt(x.get('played_at')) < day_end]
+              if current_rows:
+                  stats={day_start.strftime('%Y-%m-%d 07:00'):build_stats(current_rows,day_start,day_end)}
+              elif reset_done:
+                  stats={}
+
+          with open('history.json','w',encoding='utf-8') as f:
+              json.dump(history,f,ensure_ascii=False,indent=2)
+          with open('stats.json','w',encoding='utf-8') as f:
+              json.dump(stats,f,ensure_ascii=False,indent=2)
+
+          subprocess.run(['git','config','user.name','Radio Vela Tagesarchiv'],check=True)
+          subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add','history.json','stats.json','archive'],check=True)
+          if subprocess.run(['git','diff','--cached','--quiet']).returncode!=0:
+              subprocess.run(['git','commit','-m',f'Radio Vela Tageswechsel ({added} neue Titel)'],check=True)
+              subprocess.run(['git','push'],check=True)
+          print(f'Archiv: {len(history)} laufende Einträge; neu: {added}; Reset: {reset_done}; {now.isoformat()}',flush=True)
+          PY
+
+      - name: Nächsten Abruf in 60 Sekunden starten
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 55
+          gh workflow run update-history.yml --ref main
