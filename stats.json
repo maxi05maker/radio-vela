@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 64,
-    "music_entries": 60,
+    "total_entries": 66,
+    "music_entries": 62,
     "songs": [
       {
         "artist": "Santigold",
@@ -298,6 +298,16 @@
       {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Steve Lacy",
+        "title": "Bad habit",
         "plays": 1
       }
     ],
