@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 88,
-    "music_entries": 83,
+    "total_entries": 90,
+    "music_entries": 85,
     "songs": [
       {
         "artist": "Santigold",
@@ -413,6 +413,16 @@
       {
         "artist": "Volbeat",
         "title": "By a Monster’s Hand",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Stormzy",
+        "title": "Mel Made Me Do It",
         "plays": 1
       }
     ],
