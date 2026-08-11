@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 132,
-    "music_entries": 122,
+    "total_entries": 133,
+    "music_entries": 123,
     "songs": [
       {
         "artist": "Santigold",
@@ -578,6 +578,11 @@
       {
         "artist": "Nina Chuba",
         "title": "3 Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "NLE The Great",
+        "title": "KO",
         "plays": 1
       }
     ],
