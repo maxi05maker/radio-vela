@@ -820,5 +820,17 @@
     "played_at": "2026-08-11 21:19:43 +0200",
     "title": "Shallow",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-08-11 21:23:20 +0200|Where Did You Go?|Jax Jones Feat. MNEK",
+    "played_at": "2026-08-11 21:23:20 +0200",
+    "title": "Where Did You Go?",
+    "artist": "Jax Jones Feat. MNEK"
+  },
+  {
+    "key": "2026-08-11 21:26:18 +0200|VERLIEBT IN MICH|FAYAN (feat. Dalton)",
+    "played_at": "2026-08-11 21:26:18 +0200",
+    "title": "VERLIEBT IN MICH",
+    "artist": "FAYAN (feat. Dalton)"
   }
 ]
