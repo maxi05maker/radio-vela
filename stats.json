@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 46,
-    "music_entries": 43,
+    "total_entries": 47,
+    "music_entries": 44,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -218,6 +218,11 @@
       {
         "artist": "Gestört Aber GeiL x SkinnyJewlz",
         "title": "Wenn du da bist",
+        "plays": 1
+      },
+      {
+        "artist": "Robyn",
+        "title": "Talk To Me",
         "plays": 1
       }
     ],
