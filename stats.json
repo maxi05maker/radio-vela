@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 55,
-    "music_entries": 52,
+    "total_entries": 56,
+    "music_entries": 53,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -263,6 +263,11 @@
       {
         "artist": "Ziggy in tha House",
         "title": "It's Raining",
+        "plays": 1
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
         "plays": 1
       }
     ],
