@@ -478,5 +478,11 @@
     "played_at": "2026-08-11 10:40:43 +0200",
     "title": "Medicine At Midnight",
     "artist": "Foo Fighters"
+  },
+  {
+    "key": "2026-08-11 10:44:12 +0200|Don't Go Yet|Camila Cabello",
+    "played_at": "2026-08-11 10:44:12 +0200",
+    "title": "Don't Go Yet",
+    "artist": "Camila Cabello"
   }
 ]
