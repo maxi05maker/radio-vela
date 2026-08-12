@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 49,
-    "music_entries": 47,
+    "total_entries": 59,
+    "music_entries": 56,
     "songs": [
       {
         "artist": "OneRepublic",
@@ -233,6 +233,51 @@
       {
         "artist": "Charlie Puth",
         "title": "Light Switch",
+        "plays": 1
+      },
+      {
+        "artist": "Drangsal",
+        "title": "Will ich nur dich",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "Du hast gehofft",
+        "plays": 1
+      },
+      {
+        "artist": "Frank Popp Ensemble",
+        "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Never Go Back",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "LIFETIMES",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso feat. Andreas Bourani",
+        "title": "Willkommen Zuruck",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Vergangenheit",
         "plays": 1
       }
     ],
