@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 259,
-    "music_entries": 237,
+    "total_entries": 260,
+    "music_entries": 238,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -58,6 +58,11 @@
       {
         "artist": "Radio Karen",
         "title": "Die Beste Musik Nonstop",
+        "plays": 2
+      },
+      {
+        "artist": "Blackberry Smoke",
+        "title": "Run Away from It All",
         "plays": 2
       },
       {
@@ -398,11 +403,6 @@
       {
         "artist": "Ashnikko",
         "title": "Worms",
-        "plays": 1
-      },
-      {
-        "artist": "Blackberry Smoke",
-        "title": "Run Away from It All",
         "plays": 1
       },
       {
