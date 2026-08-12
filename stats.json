@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 14,
-    "music_entries": 13,
+    "total_entries": 15,
+    "music_entries": 14,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -68,6 +68,11 @@
       {
         "artist": "Green Day",
         "title": "Ballyhoo",
+        "plays": 1
+      },
+      {
+        "artist": "LINKIN PARK & Kiiara",
+        "title": "Heavy",
         "plays": 1
       }
     ],
