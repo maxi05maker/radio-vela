@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 268,
-    "music_entries": 246,
+    "total_entries": 269,
+    "music_entries": 247,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -1118,6 +1118,11 @@
       {
         "artist": "Joe Bonamassa",
         "title": "Tattoo'd Lady",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Santa's Coming For Us",
         "plays": 1
       }
     ],
