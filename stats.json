@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 285,
-    "music_entries": 261,
+    "total_entries": 286,
+    "music_entries": 262,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -133,6 +133,11 @@
       {
         "artist": "Train",
         "title": "Drive By",
+        "plays": 2
+      },
+      {
+        "artist": "Parcels",
+        "title": "Overnight",
         "plays": 2
       },
       {
@@ -638,11 +643,6 @@
       {
         "artist": "Katy Perry",
         "title": "I'M HIS, HE'S MINE ft. Doechii",
-        "plays": 1
-      },
-      {
-        "artist": "Parcels",
-        "title": "Overnight",
         "plays": 1
       },
       {
