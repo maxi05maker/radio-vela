@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 13,
-    "music_entries": 12,
+    "total_entries": 14,
+    "music_entries": 13,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -63,6 +63,11 @@
       {
         "artist": "Sia feat. Sean Paul",
         "title": "Cheap Thrills",
+        "plays": 1
+      },
+      {
+        "artist": "Green Day",
+        "title": "Ballyhoo",
         "plays": 1
       }
     ],
