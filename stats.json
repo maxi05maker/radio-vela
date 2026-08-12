@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 301,
-    "music_entries": 276,
+    "total_entries": 302,
+    "music_entries": 277,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -163,6 +163,11 @@
       {
         "artist": "Nico Santos",
         "title": "Human Being",
+        "plays": 2
+      },
+      {
+        "artist": "Leikeli47",
+        "title": "Bad Guy",
         "plays": 2
       },
       {
@@ -813,11 +818,6 @@
       {
         "artist": "Michael Patrick Kelly Feat. Gentleman",
         "title": "Id",
-        "plays": 1
-      },
-      {
-        "artist": "Leikeli47",
-        "title": "Bad Guy",
         "plays": 1
       },
       {
