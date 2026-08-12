@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 34,
-    "music_entries": 32,
+    "total_entries": 35,
+    "music_entries": 33,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -163,6 +163,11 @@
       {
         "artist": "Kummer",
         "title": "Bei Dir",
+        "plays": 1
+      },
+      {
+        "artist": "THE SUBWAYS",
+        "title": "I Need To Feel You Closer",
         "plays": 1
       }
     ],
