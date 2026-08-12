@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 293,
-    "music_entries": 268,
+    "total_entries": 294,
+    "music_entries": 269,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -1188,6 +1188,11 @@
       {
         "artist": "Alma",
         "title": "Dye My Hair",
+        "plays": 1
+      },
+      {
+        "artist": "Baxter Dury & JGrrey",
+        "title": "Return Of The Sharp Heads",
         "plays": 1
       }
     ],
