@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 240,
-    "music_entries": 221,
+    "total_entries": 241,
+    "music_entries": 222,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -1013,6 +1013,11 @@
       {
         "artist": "Myles Smith",
         "title": "Stay (If You Wanna Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Liam Payne & Rita Ora",
+        "title": "For You (Fifty Shades Freed)",
         "plays": 1
       }
     ],
