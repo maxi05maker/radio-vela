@@ -23,6 +23,19 @@ jobs:
       - name: Repository laden
         uses: actions/checkout@v4
 
+      - name: Live-Aktualisierung der Homepage auf laut.fm Auto-Update umstellen
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('index.html')
+          s=p.read_text(encoding='utf-8')
+          marker='<!-- RADIO-VELA-LAUTFM-AUTOUPDATE -->'
+          if marker not in s:
+              inject=r'''\n<!-- RADIO-VELA-LAUTFM-AUTOUPDATE -->\n<script>\n(function(){\n  function escLive(x){return String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]))}\n  function artistLive(x){return typeof x==='string'?x:(x&&x.name)||''}\n  function timeLive(x){var v=x&&x.started_at;if(!v)return '—';var d=v instanceof Date?v:new Date(String(v).replace(' ','T'));if(isNaN(d.getTime()))return '—';return d.toLocaleTimeString('de-DE',{hour:'2-digit',minute:'2-digit',timeZone:'Europe/Berlin'})+' Uhr'}\n  function renderLive(songs){\n    if(!Array.isArray(songs))return;\n    var arr=songs.filter(function(x){return x&&x.title}).slice(0,10);\n    var el=document.getElementById('songs');\n    if(!el)return;\n    el.innerHTML=arr.length?arr.map(function(x,i){return '<div class="track"><div class="num">'+(i+1)+'</div><div class="main"><div class="title">'+escLive(x.title||'Unbekannter Titel')+'</div><div class="artist">'+escLive(artistLive(x.artist))+'</div></div><div class="time">'+timeLive(x)+'</div></div>'}).join(''):'<div class="empty">Playlist wird geladen …</div>';\n  }\n  function start(){\n    if(!window.laut||!laut.fm||!laut.fm.station)return;\n    try{laut.fm.station('radio-vela').last_songs(function(songs){renderLive(songs)},true)}catch(e){console.warn('laut.fm Auto-Update:',e)}\n  }\n  start();\n  document.addEventListener('visibilitychange',function(){if(!document.hidden)start()});\n  window.addEventListener('pageshow',start);\n  window.addEventListener('focus',start);\n  window.addEventListener('online',start);\n})();\n</script>\n'''
+              s=s.replace('</body>',inject+'</body>')
+              p.write_text(s,encoding='utf-8')
+          PY
+
       - name: laut.fm abfragen und Archiv speichern
         run: |
           python3 - <<'PY'
@@ -96,7 +109,6 @@ jobs:
           if now < day_start: day_start-=timedelta(days=1)
           day_end=day_start+timedelta(days=1)
 
-          # At 07:00 archive the closed 07:00-07:00 period before resetting live history.
           if now.hour==7 and now.minute<10:
               os.makedirs('archive',exist_ok=True)
               archive_day=now.date().isoformat()
@@ -133,7 +145,7 @@ jobs:
 
           subprocess.run(['git','config','user.name','Radio Vela Tagesarchiv'],check=True)
           subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
-          subprocess.run(['git','add','history.json','stats.json','archive'],check=True)
+          subprocess.run(['git','add','index.html','history.json','stats.json','archive'],check=True)
           if subprocess.run(['git','diff','--cached','--quiet']).returncode!=0:
               subprocess.run(['git','commit','-m',f'Radio Vela Playlist ({len(current)} Einträge)'],check=True)
               subprocess.run(['git','push'],check=True)
