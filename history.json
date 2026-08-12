@@ -1876,5 +1876,17 @@
     "played_at": "2026-08-12 06:46:10 +0200",
     "title": "Dance Monkey",
     "artist": "Tones and I"
+  },
+  {
+    "key": "2026-08-12 06:49:38 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-08-12 06:49:38 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-12 06:49:39 +0200|Danceteria|Madonna",
+    "played_at": "2026-08-12 06:49:39 +0200",
+    "title": "Danceteria",
+    "artist": "Madonna"
   }
 ]
