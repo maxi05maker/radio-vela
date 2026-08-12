@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 5,
-    "music_entries": 4,
+    "total_entries": 6,
+    "music_entries": 5,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -23,6 +23,11 @@
       {
         "artist": "Maggie Rogers",
         "title": "In The Living Room",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Your Song",
         "plays": 1
       }
     ],
