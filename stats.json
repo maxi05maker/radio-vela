@@ -2,12 +2,17 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 2,
-    "music_entries": 1,
+    "total_entries": 3,
+    "music_entries": 2,
     "songs": [
       {
         "artist": "Alli Neumann",
         "title": "Ein Herz kann man nicht reparieren",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel",
+        "title": "Mad Love",
         "plays": 1
       }
     ],
