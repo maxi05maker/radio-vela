@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 17,
-    "music_entries": 16,
+    "total_entries": 18,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -83,6 +83,11 @@
       {
         "artist": "sombr",
         "title": "Homewrecker",
+        "plays": 1
+      },
+      {
+        "artist": "Anne-Marie",
+        "title": "Ciao Adios",
         "plays": 1
       }
     ],
