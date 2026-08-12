@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 226,
-    "music_entries": 208,
+    "total_entries": 227,
+    "music_entries": 209,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -953,6 +953,11 @@
       {
         "artist": "Herbert Grönemeyer feat. Amadou & Mariam",
         "title": "Zeit, Dass Sich Was Dreht",
+        "plays": 1
+      },
+      {
+        "artist": "Ufo361 & Nina Chuba",
+        "title": "LIEBE (feat. Nina Chuba) [Explicit]",
         "plays": 1
       }
     ],
