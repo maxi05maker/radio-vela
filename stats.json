@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 28,
-    "music_entries": 26,
+    "total_entries": 29,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -133,6 +133,11 @@
       {
         "artist": "Paramore",
         "title": "Hard Times",
+        "plays": 1
+      },
+      {
+        "artist": "The Lemonheads",
+        "title": "Deep End",
         "plays": 1
       }
     ],
