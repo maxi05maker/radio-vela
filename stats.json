@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 271,
-    "music_entries": 249,
+    "total_entries": 272,
+    "music_entries": 250,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -1128,6 +1128,11 @@
       {
         "artist": "1986zig Feat. Greeen",
         "title": "Eh Zu Kurz",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "One Call Away",
         "plays": 1
       }
     ],
