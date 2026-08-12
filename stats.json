@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 298,
-    "music_entries": 273,
+    "total_entries": 301,
+    "music_entries": 276,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -136,6 +136,11 @@
         "plays": 2
       },
       {
+        "artist": "Giant Rooks",
+        "title": "Watershed",
+        "plays": 2
+      },
+      {
         "artist": "Train",
         "title": "Drive By",
         "plays": 2
@@ -148,6 +153,11 @@
       {
         "artist": "Joris",
         "title": "Herz über Kopf",
+        "plays": 2
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Love My Life",
         "plays": 2
       },
       {
@@ -646,11 +656,6 @@
         "plays": 1
       },
       {
-        "artist": "Giant Rooks",
-        "title": "Watershed",
-        "plays": 1
-      },
-      {
         "artist": "Katy Perry",
         "title": "I'M HIS, HE'S MINE ft. Doechii",
         "plays": 1
@@ -718,11 +723,6 @@
       {
         "artist": "Kalazh44",
         "title": "Boom Bap feat. Die P",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "Love My Life",
         "plays": 1
       },
       {
@@ -1203,6 +1203,11 @@
       {
         "artist": "L.A. Edwards",
         "title": "El Camino",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "SMOKE THE PAIN AWAY",
         "plays": 1
       }
     ],
