@@ -274,5 +274,11 @@
     "played_at": "2026-08-12 08:57:41 +0200",
     "title": "The Banjo Song",
     "artist": "Mumford & Sons"
+  },
+  {
+    "key": "2026-08-12 09:01:31 +0200|Hello|Adele",
+    "played_at": "2026-08-12 09:01:31 +0200",
+    "title": "Hello",
+    "artist": "Adele"
   }
 ]

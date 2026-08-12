@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 38,
-    "music_entries": 36,
+    "total_entries": 39,
+    "music_entries": 37,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -183,6 +183,11 @@
       {
         "artist": "Mumford & Sons",
         "title": "The Banjo Song",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
         "plays": 1
       }
     ],
