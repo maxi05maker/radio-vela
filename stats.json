@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 222,
-    "music_entries": 204,
+    "total_entries": 223,
+    "music_entries": 205,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -933,6 +933,11 @@
       {
         "artist": "Halsey",
         "title": "Without Me",
+        "plays": 1
+      },
+      {
+        "artist": "Drake",
+        "title": "God's Plan",
         "plays": 1
       }
     ],
