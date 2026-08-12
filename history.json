@@ -1366,5 +1366,11 @@
     "played_at": "2026-08-12 01:56:41 +0200",
     "title": "Wir sind groß",
     "artist": "Mark Forster"
+  },
+  {
+    "key": "2026-08-12 02:00:07 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-12 02:00:07 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
