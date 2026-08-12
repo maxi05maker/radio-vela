@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 242,
-    "music_entries": 223,
+    "total_entries": 243,
+    "music_entries": 224,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -1023,6 +1023,11 @@
       {
         "artist": "Ellie Goulding",
         "title": "Something In The Way You Move",
+        "plays": 1
+      },
+      {
+        "artist": "Dara",
+        "title": "Bangaranga",
         "plays": 1
       }
     ],
