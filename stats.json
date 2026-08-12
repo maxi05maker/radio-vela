@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 282,
-    "music_entries": 258,
+    "total_entries": 283,
+    "music_entries": 259,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -123,6 +123,11 @@
       {
         "artist": "Alvaro Soler",
         "title": "La Cintura",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "You Let Me Walk Alone",
         "plays": 2
       },
       {
@@ -608,11 +613,6 @@
       {
         "artist": "The Hives",
         "title": "Enough Is Enough",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "You Let Me Walk Alone",
         "plays": 1
       },
       {
