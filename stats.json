@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 8,
-    "music_entries": 7,
+    "total_entries": 9,
+    "music_entries": 8,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -38,6 +38,11 @@
       {
         "artist": "Kraftklub",
         "title": "Wenn ich tot bin, fang ich wieder an",
+        "plays": 1
+      },
+      {
+        "artist": "Bausa",
+        "title": "Flashbacks feat. LIZ",
         "plays": 1
       }
     ],
