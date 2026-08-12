@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 32,
-    "music_entries": 30,
+    "total_entries": 33,
+    "music_entries": 31,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -153,6 +153,11 @@
       {
         "artist": "Apache 207",
         "title": "Ein Lied für dich",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk feat. Cash Cash",
+        "title": "Can We Pretend",
         "plays": 1
       }
     ],
