@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 27,
-    "music_entries": 25,
+    "total_entries": 28,
+    "music_entries": 26,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -128,6 +128,11 @@
       {
         "artist": "Michael Patrick Kelly Feat. Gentleman",
         "title": "Id",
+        "plays": 1
+      },
+      {
+        "artist": "Paramore",
+        "title": "Hard Times",
         "plays": 1
       }
     ],
