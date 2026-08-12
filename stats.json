@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 229,
-    "music_entries": 211,
+    "total_entries": 230,
+    "music_entries": 212,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -968,6 +968,11 @@
       {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "Bush",
+        "title": "The Land Of Milk And Honey",
         "plays": 1
       }
     ],
