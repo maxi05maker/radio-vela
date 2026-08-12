@@ -16,7 +16,7 @@ html,body{margin:0;padding:0;width:100%;min-height:100%;background:#07152f;font-
 </div>
 <div id="panel" class="panel">
   <section class="box">
-    <div class="top"><div><div class="brand">Radio <span>Vela</span></div><div class="muted">Die bestehende Radio-Vela-Homepage bleibt vollständig unverändert. Die Playlist ist nur als zusätzliche Ansicht ergänzt.</div></div><button id="back" class="back">← Startseite</button></div>
+    <div class="top"><div><div class="brand">Radio <span>Vela</span></div><div class="muted">Alle gespeicherten Titel ab dem Startzeitpunkt. Die aktuellen letzten 10 Titel sind sofort als Startbestand enthalten.</div></div><button id="back" class="back">← Startseite</button></div>
     <select id="days" class="select"></select>
     <div id="content"><div class="empty">Playlist wird geladen …</div></div>
   </section>
@@ -32,14 +32,79 @@ function dayKey(x){return new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Berl
 function label(d){return new Date(d+'T12:00:00').toLocaleDateString('de-DE',{weekday:'long',day:'2-digit',month:'2-digit',year:'numeric'})}
 function norm(x){if(!x||!x.title)return null;return{title:String(x.title),artist:artist(x.artist),played_at:x.played_at||x.started_at||''}}
 function getStart(){let v=localStorage.getItem(START_KEY);if(!v){v=new Date().toISOString();localStorage.setItem(START_KEY,v)}return Date.parse(v)}
-const START=getStart();let entries=[];
-async function load(){try{const r=await fetch(HISTORY+'?v='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error(r.status);const d=await r.json();entries=(Array.isArray(d)?d:[]).map(norm).filter(x=>x&&ts(x)>=START).sort((a,b)=>ts(a)-ts(b));renderDays()}catch(e){document.getElementById('content').innerHTML='<div class="empty error">Die gespeicherte Playlist konnte gerade nicht geladen werden.</div>';console.error(e)}}
-function renderDays(){const s=document.getElementById('days');const first=new Date(START),today=new Date();const days=[];let d=new Date(first.getFullYear(),first.getMonth(),first.getDate());for(let i=0;i<7&&d<=today;i++){days.push(new Intl.DateTimeFormat('en-CA',{year:'numeric',month:'2-digit',day:'2-digit'}).format(d));d.setDate(d.getDate()+1)}const old=s.value;s.innerHTML=days.map(x=>`<option value="${x}">${label(x)}</option>`).join('');if(days.includes(old))s.value=old;draw(s.value||days[0])}
-function draw(day){if(!day)return;const arr=entries.filter(x=>dayKey(x)===day).sort((a,b)=>ts(a)-ts(b));document.getElementById('content').innerHTML=`<div class="day"><h3>${label(day)} · ${arr.length} Einträge</h3>${arr.length?'<div class="list">'+arr.map((x,i)=>`<div class="track"><div class="num">${i+1}</div><div class="main"><div class="title">${esc(x.title)}</div><div class="artist">${esc(x.artist)}</div></div><div class="time">${time(x)}</div></div>`).join('')+'</div>':'<div class="empty">Noch keine Einträge für diesen Tag. Die Liste wächst automatisch weiter.</div>'}</div>`}
-function showPlaylist(){document.getElementById('home').style.display='none';document.getElementById('panel').classList.add('show');load()}
-function showHome(){document.getElementById('panel').classList.remove('show');document.getElementById('home').style.display='block'}
-document.getElementById('open').onclick=showPlaylist;document.getElementById('back').onclick=showHome;document.getElementById('days').onchange=e=>draw(e.target.value);
-load();setInterval(load,20000);document.addEventListener('visibilitychange',()=>{if(!document.hidden)load()});window.addEventListener('pageshow',load);window.addEventListener('online',load);
+const START=getStart();
+const TODAY=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Berlin',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+let history=[],recent=[],entries=[];
+
+function mergeEntries(){
+  // history is the permanent source. recent supplies the existing current "last 10"
+  // immediately, before the GitHub workflow has written those plays to history.json.
+  const byKey=new Map();
+  for(const x of [...history,...recent]){
+    if(!x||!ts(x))continue;
+    const k=ts(x)+'|'+x.title+'|'+artist(x.artist);
+    if(!byKey.has(k))byKey.set(k,x);
+  }
+  entries=[...byKey.values()]
+    .filter(x=>dayKey(x)===TODAY && (ts(x)>=START || recent.some(r=>ts(r)===ts(x))))
+    .sort((a,b)=>ts(a)-ts(b));
+}
+async function load(){
+  try{
+    const r=await fetch(HISTORY+'?v='+Date.now(),{cache:'no-store'});
+    if(!r.ok)throw Error(r.status);
+    const d=await r.json();
+    history=(Array.isArray(d)?d:[]).map(norm).filter(Boolean);
+  }catch(e){history=[];console.error('history.json:',e)}
+  try{
+    const r=await fetch('https://api.laut.fm/station/radio-vela/last_songs?_='+Date.now(),{cache:'no-store'});
+    const d=await r.json();
+    recent=(Array.isArray(d)?d:d.items||[]).map(norm).filter(Boolean).slice(0,10);
+  }catch(e){recent=[];console.error('laut.fm last_songs:',e)}
+  mergeEntries();
+  renderDays();
+}
+function renderDays(){
+  const s=document.getElementById('days');
+  const startDate=new Date(START);const todayDate=new Date();
+  const days=[];let d=new Date(startDate.getFullYear(),startDate.getMonth(),startDate.getDate());
+  for(let i=0;i<7&&d<=todayDate;i++){
+    const key=new Intl.DateTimeFormat('en-CA',{year:'numeric',month:'2-digit',day:'2-digit'}).format(d);
+    days.push(key);d.setDate(d.getDate()+1);
+  }
+  if(!days.includes(TODAY))days.push(TODAY);
+  const old=s.value;
+  s.innerHTML=days.map(x=>`<option value="${x}">${label(x)}</option>`).join('');
+  if(days.includes(old))s.value=old;else s.value=TODAY;
+  draw(s.value);
+}
+function draw(day){
+  if(!day)return;
+  const arr=entries.filter(x=>dayKey(x)===day).sort((a,b)=>ts(a)-ts(b));
+  document.getElementById('content').innerHTML=`<div class="day"><h3>${label(day)} · ${arr.length} Einträge</h3>${arr.length?'<div class="list">'+arr.map((x,i)=>`<div class="track"><div class="num">${i+1}</div><div class="main"><div class="title">${esc(x.title)}</div><div class="artist">${esc(x.artist)}</div></div><div class="time">${time(x)}</div></div>`).join('')+'</div>':'<div class="empty">Noch keine Einträge für diesen Tag. Die Liste wächst automatisch weiter.</div>'}</div>`;
+}
+function showPlaylist(){
+  location.hash='playlist';
+  document.getElementById('home').style.display='none';
+  document.getElementById('panel').classList.add('show');
+  load();
+}
+function showHome(){
+  history.replaceState(null,'',location.pathname+location.search);
+  document.getElementById('panel').classList.remove('show');
+  document.getElementById('home').style.display='block';
+}
+function restoreView(){if(location.hash==='#playlist')showPlaylist();else showHome()}
+document.getElementById('open').onclick=showPlaylist;
+document.getElementById('back').onclick=showHome;
+document.getElementById('days').onchange=e=>draw(e.target.value);
+window.addEventListener('hashchange',restoreView);
+load();
+setInterval(load,20000);
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)load()});
+window.addEventListener('pageshow',load);
+window.addEventListener('online',load);
+restoreView();
 </script>
 </body>
 </html>
