@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 306,
-    "music_entries": 280,
+    "total_entries": 307,
+    "music_entries": 281,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -163,6 +163,11 @@
       {
         "artist": "Robbie Williams",
         "title": "Love My Life",
+        "plays": 2
+      },
+      {
+        "artist": "Olly Murs",
+        "title": "Marry Me",
         "plays": 2
       },
       {
@@ -728,11 +733,6 @@
       {
         "artist": "Kalazh44",
         "title": "Boom Bap feat. Die P",
-        "plays": 1
-      },
-      {
-        "artist": "Olly Murs",
-        "title": "Marry Me",
         "plays": 1
       },
       {
