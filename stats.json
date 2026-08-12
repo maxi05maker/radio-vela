@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 23,
-    "music_entries": 21,
+    "total_entries": 24,
+    "music_entries": 22,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -108,6 +108,11 @@
       {
         "artist": "Charli xcx",
         "title": "SS26",
+        "plays": 1
+      },
+      {
+        "artist": "Juju feat. Henning May",
+        "title": "Vermissen",
         "plays": 1
       }
     ],
