@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 26,
-    "music_entries": 24,
+    "total_entries": 27,
+    "music_entries": 25,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -123,6 +123,11 @@
       {
         "artist": "Kehlani",
         "title": "Shoulda Never (feat. USHER)",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly Feat. Gentleman",
+        "title": "Id",
         "plays": 1
       }
     ],
