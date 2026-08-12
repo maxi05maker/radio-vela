@@ -1732,5 +1732,17 @@
     "played_at": "2026-08-12 05:19:21 +0200",
     "title": "La Cintura",
     "artist": "Alvaro Soler"
+  },
+  {
+    "key": "2026-08-12 05:22:46 +0200|365 Tage Sommer|Jingle",
+    "played_at": "2026-08-12 05:22:46 +0200",
+    "title": "365 Tage Sommer",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-12 05:23:05 +0200|A Little More|Ed Sheeran",
+    "played_at": "2026-08-12 05:23:05 +0200",
+    "title": "A Little More",
+    "artist": "Ed Sheeran"
   }
 ]
