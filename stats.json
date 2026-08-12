@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 11,
+    "music_entries": 10,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -48,6 +48,11 @@
       {
         "artist": "Lauren Spencer-Smith",
         "title": "Flowers",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "Ninety – Two",
         "plays": 1
       }
     ],
