@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 263,
-    "music_entries": 241,
+    "total_entries": 264,
+    "music_entries": 242,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -1093,6 +1093,11 @@
       {
         "artist": "Imagine Dragons",
         "title": "Thunder",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel",
+        "title": "Don't Call Me Up",
         "plays": 1
       }
     ],
