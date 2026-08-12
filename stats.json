@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 21,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -93,6 +93,11 @@
       {
         "artist": "Lana Del Rey",
         "title": "Lust For Life (feat. The Weeknd)",
+        "plays": 1
+      },
+      {
+        "artist": "Willow & Travis Barker",
+        "title": "Transparent Soul",
         "plays": 1
       }
     ],
