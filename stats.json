@@ -2,8 +2,8 @@
   "2026-08-11 07:00": {
     "period_start": "2026-08-11T07:00:00+02:00",
     "period_end": "2026-08-12T07:00:00+02:00",
-    "total_entries": 239,
-    "music_entries": 220,
+    "total_entries": 240,
+    "music_entries": 221,
     "songs": [
       {
         "artist": "Lady Gaga",
@@ -1008,6 +1008,11 @@
       {
         "artist": "James Newton Howard feat. Jennifer Lawrence",
         "title": "The Hanging Tree",
+        "plays": 1
+      },
+      {
+        "artist": "Myles Smith",
+        "title": "Stay (If You Wanna Dance)",
         "plays": 1
       }
     ],
