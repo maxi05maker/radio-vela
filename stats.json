@@ -2,8 +2,8 @@
   "2026-08-12 07:00": {
     "period_start": "2026-08-12T07:00:00+02:00",
     "period_end": "2026-08-13T07:00:00+02:00",
-    "total_entries": 6,
-    "music_entries": 5,
+    "total_entries": 7,
+    "music_entries": 6,
     "songs": [
       {
         "artist": "Alli Neumann",
@@ -28,6 +28,11 @@
       {
         "artist": "Rita Ora",
         "title": "Your Song",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 1
       }
     ],
