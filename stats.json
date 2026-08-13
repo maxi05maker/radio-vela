@@ -2,12 +2,17 @@
   "2026-08-13 07:00": {
     "period_start": "2026-08-13T07:00:00+02:00",
     "period_end": "2026-08-14T07:00:00+02:00",
-    "total_entries": 43,
-    "music_entries": 39,
+    "total_entries": 53,
+    "music_entries": 48,
     "songs": [
       {
         "artist": "Luciano",
         "title": "What Happened",
+        "plays": 2
+      },
+      {
+        "artist": "Marteria",
+        "title": "9 Leben (Eins übrig)",
         "plays": 2
       },
       {
@@ -101,11 +106,6 @@
         "plays": 1
       },
       {
-        "artist": "Marteria",
-        "title": "9 Leben (Eins übrig)",
-        "plays": 1
-      },
-      {
         "artist": "Avalon Emerson",
         "title": "Eden",
         "plays": 1
@@ -193,6 +193,46 @@
       {
         "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
         "title": "Blurred Lines",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Girls Like Us",
+        "plays": 1
+      },
+      {
+        "artist": "Phoenix feat. Ezra Koenig",
+        "title": "Tonight (feat. Ezra Koenig)",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Leichtes Gepäck",
+        "plays": 1
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Jake Shears",
+        "title": "Fire + Ice (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "GHOST",
+        "title": "Call Me Little Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Herz über Kopf",
+        "plays": 1
+      },
+      {
+        "artist": "Saja Boys",
+        "title": "Soda Pop",
         "plays": 1
       }
     ],
