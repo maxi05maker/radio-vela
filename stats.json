@@ -2,9 +2,14 @@
   "2026-08-13 07:00": {
     "period_start": "2026-08-13T07:00:00+02:00",
     "period_end": "2026-08-14T07:00:00+02:00",
-    "total_entries": 23,
-    "music_entries": 20,
+    "total_entries": 33,
+    "music_entries": 29,
     "songs": [
+      {
+        "artist": "Luciano",
+        "title": "What Happened",
+        "plays": 2
+      },
       {
         "artist": "Biffy Clyro",
         "title": "True Believer",
@@ -13,11 +18,6 @@
       {
         "artist": "Robin Schulz feat. Alida",
         "title": "In Your Eyes",
-        "plays": 1
-      },
-      {
-        "artist": "Luciano",
-        "title": "What Happened",
         "plays": 1
       },
       {
@@ -104,12 +104,52 @@
         "artist": "Marteria",
         "title": "9 Leben (Eins übrig)",
         "plays": 1
+      },
+      {
+        "artist": "Avalon Emerson",
+        "title": "Eden",
+        "plays": 1
+      },
+      {
+        "artist": "Drake",
+        "title": "God's Plan",
+        "plays": 1
+      },
+      {
+        "artist": "THE BLACK CROWES",
+        "title": "Pharmacy Chronicles",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn feat. Polina",
+        "title": "Book Of Love",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Treat You Better",
+        "plays": 1
+      },
+      {
+        "artist": "ALL TIME LOW",
+        "title": "The Weather",
+        "plays": 1
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Santa's Coming For Us",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Biffy Clyro",
-      "title": "True Believer",
-      "plays": 1
+      "artist": "Luciano",
+      "title": "What Happened",
+      "plays": 2
     }
   }
 }
