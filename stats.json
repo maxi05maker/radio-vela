@@ -2,8 +2,8 @@
   "2026-08-13 07:00": {
     "period_start": "2026-08-13T07:00:00+02:00",
     "period_end": "2026-08-14T07:00:00+02:00",
-    "total_entries": 3,
-    "music_entries": 2,
+    "total_entries": 13,
+    "music_entries": 12,
     "songs": [
       {
         "artist": "Biffy Clyro",
@@ -13,6 +13,56 @@
       {
         "artist": "Robin Schulz feat. Alida",
         "title": "In Your Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "Luciano",
+        "title": "What Happened",
+        "plays": 1
+      },
+      {
+        "artist": "Kylie Minogue & YouNotUs",
+        "title": "Someone For Me",
+        "plays": 1
+      },
+      {
+        "artist": "Five Finger Death Punch",
+        "title": "The End",
+        "plays": 1
+      },
+      {
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "ALL MY LOVE",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bones",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner & Stromae",
+        "title": "QUE CE SOIT CLAIR",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "When You're Gone",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "My Way",
         "plays": 1
       }
     ],
