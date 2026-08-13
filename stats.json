@@ -2,8 +2,8 @@
   "2026-08-13 07:00": {
     "period_start": "2026-08-13T07:00:00+02:00",
     "period_end": "2026-08-14T07:00:00+02:00",
-    "total_entries": 13,
-    "music_entries": 12,
+    "total_entries": 23,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Biffy Clyro",
@@ -63,6 +63,46 @@
       {
         "artist": "Calvin Harris",
         "title": "My Way",
+        "plays": 1
+      },
+      {
+        "artist": "Aldous Harding",
+        "title": "Venus In The Zinnia",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At The Disco",
+        "title": "Middle of a breakup",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith, YUNGBLUD",
+        "title": "Problems",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "I Believe",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry Feat. Skip Marley",
+        "title": "Chained To The Rhythm",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Marteria",
+        "title": "9 Leben (Eins übrig)",
         "plays": 1
       }
     ],
