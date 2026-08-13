@@ -2,8 +2,8 @@
   "2026-08-13 07:00": {
     "period_start": "2026-08-13T07:00:00+02:00",
     "period_end": "2026-08-14T07:00:00+02:00",
-    "total_entries": 53,
-    "music_entries": 48,
+    "total_entries": 63,
+    "music_entries": 57,
     "songs": [
       {
         "artist": "Luciano",
@@ -13,6 +13,16 @@
       {
         "artist": "Marteria",
         "title": "9 Leben (Eins übrig)",
+        "plays": 2
+      },
+      {
+        "artist": "Drake",
+        "title": "God's Plan",
+        "plays": 2
+      },
+      {
+        "artist": "Felix Jaehn feat. Polina",
+        "title": "Book Of Love",
         "plays": 2
       },
       {
@@ -111,18 +121,8 @@
         "plays": 1
       },
       {
-        "artist": "Drake",
-        "title": "God's Plan",
-        "plays": 1
-      },
-      {
         "artist": "THE BLACK CROWES",
         "title": "Pharmacy Chronicles",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn feat. Polina",
-        "title": "Book Of Love",
         "plays": 1
       },
       {
@@ -233,6 +233,41 @@
       {
         "artist": "Saja Boys",
         "title": "Soda Pop",
+        "plays": 1
+      },
+      {
+        "artist": "Ennio",
+        "title": "Fühlst du gar nichts? feat. Nina Chuba",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben & Ilira",
+        "title": "Fading",
+        "plays": 1
+      },
+      {
+        "artist": "Kaleo",
+        "title": "Way Down We Go",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "plays": 1
+      },
+      {
+        "artist": "Europe",
+        "title": "War Of Kings",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "James Newton Howard feat. Jennifer Lawrence",
+        "title": "The Hanging Tree",
         "plays": 1
       }
     ],
