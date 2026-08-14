@@ -2,8 +2,8 @@
   "2026-08-14 07:00": {
     "period_start": "2026-08-14T07:00:00+02:00",
     "period_end": "2026-08-15T07:00:00+02:00",
-    "total_entries": 48,
-    "music_entries": 43,
+    "total_entries": 58,
+    "music_entries": 52,
     "songs": [
       {
         "artist": "Demi Lovato",
@@ -208,6 +208,51 @@
       {
         "artist": "Blu & Exile",
         "title": "In My Window (Feat. TOBi)",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "Du hast gehofft",
+        "plays": 1
+      },
+      {
+        "artist": "Sia feat. Kendrick Lamar",
+        "title": "The Greatest",
+        "plays": 1
+      },
+      {
+        "artist": "Bausa",
+        "title": "Flashbacks feat. LIZ",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor & Sido",
+        "title": "Interstellar (Zwischen den Sternen)",
+        "plays": 1
+      },
+      {
+        "artist": "Yungblud",
+        "title": "Memories",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly Feat. Gentleman",
+        "title": "Id",
+        "plays": 1
+      },
+      {
+        "artist": "bar italia",
+        "title": "omni shambles",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "Ich Muss Immer An Dich Denken",
+        "plays": 1
+      },
+      {
+        "artist": "Oimara, Melissa Naschenweng",
+        "title": "Koa Bergbauernbua",
         "plays": 1
       }
     ],
