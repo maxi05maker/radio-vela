@@ -2,8 +2,8 @@
   "2026-08-14 07:00": {
     "period_start": "2026-08-14T07:00:00+02:00",
     "period_end": "2026-08-15T07:00:00+02:00",
-    "total_entries": 8,
-    "music_entries": 5,
+    "total_entries": 18,
+    "music_entries": 14,
     "songs": [
       {
         "artist": "The Lemonheads",
@@ -28,6 +28,51 @@
       {
         "artist": "Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood",
         "title": "Secrets",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Take My Breath",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Mit dir",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Cameron",
+        "title": "Best Life",
+        "plays": 1
+      },
+      {
+        "artist": "Sa-Roc",
+        "title": "Talk To Me Nice",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
+        "plays": 1
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "SKIN OF MY TEETH",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "Nathan Evans & SAINT PHNX",
+        "title": "Angels' Share",
         "plays": 1
       }
     ],
