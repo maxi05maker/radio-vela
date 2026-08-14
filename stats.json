@@ -2,8 +2,8 @@
   "2026-08-14 07:00": {
     "period_start": "2026-08-14T07:00:00+02:00",
     "period_end": "2026-08-15T07:00:00+02:00",
-    "total_entries": 28,
-    "music_entries": 23,
+    "total_entries": 38,
+    "music_entries": 33,
     "songs": [
       {
         "artist": "The Lemonheads",
@@ -118,6 +118,56 @@
       {
         "artist": "Tim Bendzko",
         "title": "Kein Problem",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "2AM",
+        "plays": 1
+      },
+      {
+        "artist": "TEMPERS",
+        "title": "Who Says",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. Alida",
+        "title": "In Your Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Achterbahn",
+        "plays": 1
+      },
+      {
+        "artist": "ROSÉ & Bruno Mars",
+        "title": "APT.",
+        "plays": 1
+      },
+      {
+        "artist": "The Weekend & Rosalia",
+        "title": "Blinding Lights (Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
+        "plays": 1
+      },
+      {
+        "artist": "KNEECAP",
+        "title": "Smugglers & Scholars",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "The Hills",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso feat. Andreas Bourani",
+        "title": "Willkommen Zuruck",
         "plays": 1
       }
     ],
