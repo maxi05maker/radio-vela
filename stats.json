@@ -2,8 +2,8 @@
   "2026-08-14 07:00": {
     "period_start": "2026-08-14T07:00:00+02:00",
     "period_end": "2026-08-15T07:00:00+02:00",
-    "total_entries": 78,
-    "music_entries": 71,
+    "total_entries": 88,
+    "music_entries": 80,
     "songs": [
       {
         "artist": "Demi Lovato",
@@ -18,6 +18,16 @@
       {
         "artist": "Nathan Evans & SAINT PHNX",
         "title": "Angels' Share",
+        "plays": 2
+      },
+      {
+        "artist": "Alex Clare",
+        "title": "Too Close",
+        "plays": 2
+      },
+      {
+        "artist": "SDP",
+        "title": "Du hast gehofft",
         "plays": 2
       },
       {
@@ -201,18 +211,8 @@
         "plays": 1
       },
       {
-        "artist": "Alex Clare",
-        "title": "Too Close",
-        "plays": 1
-      },
-      {
         "artist": "Blu & Exile",
         "title": "In My Window (Feat. TOBi)",
-        "plays": 1
-      },
-      {
-        "artist": "SDP",
-        "title": "Du hast gehofft",
         "plays": 1
       },
       {
@@ -343,6 +343,41 @@
       {
         "artist": "Sam Fender",
         "title": "Wild Long Lie",
+        "plays": 1
+      },
+      {
+        "artist": "FAYAN (feat. Dalton)",
+        "title": "VERLIEBT IN MICH",
+        "plays": 1
+      },
+      {
+        "artist": "Bad Bunny",
+        "title": "Moscow Mule",
+        "plays": 1
+      },
+      {
+        "artist": "Jonathan Jeremiah & Till Bronner",
+        "title": "We Come Alive",
+        "plays": 1
+      },
+      {
+        "artist": "Rosenstolz",
+        "title": "Gib Mir Sonne",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "mgk",
+        "title": "your name forever",
+        "plays": 1
+      },
+      {
+        "artist": "Turnstile",
+        "title": "NEVER ENOUGH",
         "plays": 1
       }
     ],
