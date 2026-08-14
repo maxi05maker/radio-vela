@@ -2,8 +2,8 @@
   "2026-08-14 07:00": {
     "period_start": "2026-08-14T07:00:00+02:00",
     "period_end": "2026-08-15T07:00:00+02:00",
-    "total_entries": 58,
-    "music_entries": 52,
+    "total_entries": 68,
+    "music_entries": 61,
     "songs": [
       {
         "artist": "Demi Lovato",
@@ -13,6 +13,11 @@
       {
         "artist": "Sia",
         "title": "Together",
+        "plays": 2
+      },
+      {
+        "artist": "Nathan Evans & SAINT PHNX",
+        "title": "Angels' Share",
         "plays": 2
       },
       {
@@ -68,11 +73,6 @@
       {
         "artist": "Teddy Swims",
         "title": "Mr. Know It All",
-        "plays": 1
-      },
-      {
-        "artist": "Nathan Evans & SAINT PHNX",
-        "title": "Angels' Share",
         "plays": 1
       },
       {
@@ -253,6 +253,46 @@
       {
         "artist": "Oimara, Melissa Naschenweng",
         "title": "Koa Bergbauernbua",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Whatever It Takes",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heart Of Gold",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Chandelier",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld",
+        "title": "Das kann uns keiner nehmen",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "I Never Loved You",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 1
       }
     ],
