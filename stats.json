@@ -1,280 +1,40 @@
 {
-  "2026-08-13 07:00": {
-    "period_start": "2026-08-13T07:00:00+02:00",
-    "period_end": "2026-08-14T07:00:00+02:00",
-    "total_entries": 63,
-    "music_entries": 57,
+  "2026-08-14 07:00": {
+    "period_start": "2026-08-14T07:00:00+02:00",
+    "period_end": "2026-08-15T07:00:00+02:00",
+    "total_entries": 8,
+    "music_entries": 5,
     "songs": [
       {
-        "artist": "Luciano",
-        "title": "What Happened",
-        "plays": 2
-      },
-      {
-        "artist": "Marteria",
-        "title": "9 Leben (Eins übrig)",
-        "plays": 2
-      },
-      {
-        "artist": "Drake",
-        "title": "God's Plan",
-        "plays": 2
-      },
-      {
-        "artist": "Felix Jaehn feat. Polina",
-        "title": "Book Of Love",
-        "plays": 2
-      },
-      {
-        "artist": "Biffy Clyro",
-        "title": "True Believer",
+        "artist": "The Lemonheads",
+        "title": "Deep End",
         "plays": 1
       },
       {
-        "artist": "Robin Schulz feat. Alida",
-        "title": "In Your Eyes",
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do",
         "plays": 1
       },
       {
-        "artist": "Kylie Minogue & YouNotUs",
-        "title": "Someone For Me",
+        "artist": "Purple Disco Machine, Alison Goldfrapp",
+        "title": "Dream Machine",
         "plays": 1
       },
       {
-        "artist": "Five Finger Death Punch",
-        "title": "The End",
+        "artist": "OneRepublic",
+        "title": "Didn't I",
         "plays": 1
       },
       {
-        "artist": "Lea",
-        "title": "Wenn Du Mich Lässt",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "ALL MY LOVE",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Throwback",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Bones",
-        "plays": 1
-      },
-      {
-        "artist": "Paul Kalkbrenner & Stromae",
-        "title": "QUE CE SOIT CLAIR",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "When You're Gone",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris",
-        "title": "My Way",
-        "plays": 1
-      },
-      {
-        "artist": "Aldous Harding",
-        "title": "Venus In The Zinnia",
-        "plays": 1
-      },
-      {
-        "artist": "Panic! At The Disco",
-        "title": "Middle of a breakup",
-        "plays": 1
-      },
-      {
-        "artist": "Aerosmith, YUNGBLUD",
-        "title": "Problems",
-        "plays": 1
-      },
-      {
-        "artist": "Kamrad",
-        "title": "I Believe",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry Feat. Skip Marley",
-        "title": "Chained To The Rhythm",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Dance With Me",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Avalon Emerson",
-        "title": "Eden",
-        "plays": 1
-      },
-      {
-        "artist": "THE BLACK CROWES",
-        "title": "Pharmacy Chronicles",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Treat You Better",
-        "plays": 1
-      },
-      {
-        "artist": "ALL TIME LOW",
-        "title": "The Weather",
-        "plays": 1
-      },
-      {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Santa's Coming For Us",
-        "plays": 1
-      },
-      {
-        "artist": "Tiësto feat. Tate McRae",
-        "title": "10:35",
-        "plays": 1
-      },
-      {
-        "artist": "St. Lundi",
-        "title": "Nights Like This",
-        "plays": 1
-      },
-      {
-        "artist": "Swiss & Die Andern",
-        "title": "Ficken bis der Frieden kommt [Explicit]",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Human Being",
-        "plays": 1
-      },
-      {
-        "artist": "Kelly Clarkson",
-        "title": "Heartbeat Song",
-        "plays": 1
-      },
-      {
-        "artist": "The Hellacopters",
-        "title": "Wrong Face On",
-        "plays": 1
-      },
-      {
-        "artist": "Rosenstolz",
-        "title": "Gib Mir Sonne",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth",
-        "title": "Attention",
-        "plays": 1
-      },
-      {
-        "artist": "Maroon 5",
-        "title": "Priceless ft. LISA",
-        "plays": 1
-      },
-      {
-        "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
-        "title": "Blurred Lines",
-        "plays": 1
-      },
-      {
-        "artist": "Zoe Wees",
-        "title": "Girls Like Us",
-        "plays": 1
-      },
-      {
-        "artist": "Phoenix feat. Ezra Koenig",
-        "title": "Tonight (feat. Ezra Koenig)",
-        "plays": 1
-      },
-      {
-        "artist": "Silbermond",
-        "title": "Leichtes Gepäck",
-        "plays": 1
-      },
-      {
-        "artist": "Frans",
-        "title": "If I Were Sorry",
-        "plays": 1
-      },
-      {
-        "artist": "Purple Disco Machine feat. Jake Shears",
-        "title": "Fire + Ice (Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "GHOST",
-        "title": "Call Me Little Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "Joris",
-        "title": "Herz über Kopf",
-        "plays": 1
-      },
-      {
-        "artist": "Saja Boys",
-        "title": "Soda Pop",
-        "plays": 1
-      },
-      {
-        "artist": "Ennio",
-        "title": "Fühlst du gar nichts? feat. Nina Chuba",
-        "plays": 1
-      },
-      {
-        "artist": "Alle Farben & Ilira",
-        "title": "Fading",
-        "plays": 1
-      },
-      {
-        "artist": "Kaleo",
-        "title": "Way Down We Go",
-        "plays": 1
-      },
-      {
-        "artist": "HUNTRX",
-        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
-        "plays": 1
-      },
-      {
-        "artist": "Europe",
-        "title": "War Of Kings",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Old Phone",
-        "plays": 1
-      },
-      {
-        "artist": "James Newton Howard feat. Jennifer Lawrence",
-        "title": "The Hanging Tree",
+        "artist": "Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood",
+        "title": "Secrets",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Luciano",
-      "title": "What Happened",
-      "plays": 2
+      "artist": "The Lemonheads",
+      "title": "Deep End",
+      "plays": 1
     }
   }
 }

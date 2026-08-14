@@ -778,5 +778,53 @@
     "played_at": "2026-08-14 01:12:42 +0200",
     "title": "God's Plan",
     "artist": "Drake"
+  },
+  {
+    "key": "2026-08-14 07:01:13 +0200|Deep End|The Lemonheads",
+    "played_at": "2026-08-14 07:01:13 +0200",
+    "title": "Deep End",
+    "artist": "The Lemonheads"
+  },
+  {
+    "key": "2026-08-14 07:04:34 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-14 07:04:34 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-14 07:07:23 +0200|Ganztagsradio|Jingle",
+    "played_at": "2026-08-14 07:07:23 +0200",
+    "title": "Ganztagsradio",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-14 07:08:04 +0200|Love Me Like You Do|Ellie Goulding",
+    "played_at": "2026-08-14 07:08:04 +0200",
+    "title": "Love Me Like You Do",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "key": "2026-08-14 07:12:16 +0200|Dream Machine|Purple Disco Machine, Alison Goldfrapp",
+    "played_at": "2026-08-14 07:12:16 +0200",
+    "title": "Dream Machine",
+    "artist": "Purple Disco Machine, Alison Goldfrapp"
+  },
+  {
+    "key": "2026-08-14 07:15:38 +0200|Didn't I|OneRepublic",
+    "played_at": "2026-08-14 07:15:38 +0200",
+    "title": "Didn't I",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-08-14 07:19:06 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-08-14 07:19:06 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-14 07:19:08 +0200|Secrets|Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood",
+    "played_at": "2026-08-14 07:19:08 +0200",
+    "title": "Secrets",
+    "artist": "Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood"
   }
 ]
