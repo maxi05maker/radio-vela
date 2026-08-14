@@ -2,8 +2,8 @@
   "2026-08-14 07:00": {
     "period_start": "2026-08-14T07:00:00+02:00",
     "period_end": "2026-08-15T07:00:00+02:00",
-    "total_entries": 88,
-    "music_entries": 80,
+    "total_entries": 98,
+    "music_entries": 90,
     "songs": [
       {
         "artist": "Demi Lovato",
@@ -378,6 +378,56 @@
       {
         "artist": "Turnstile",
         "title": "NEVER ENOUGH",
+        "plays": 1
+      },
+      {
+        "artist": "Jeff Lynne's Elo",
+        "title": "When I Was A Boy",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Dead Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Family of the Year",
+        "title": "Hero",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
+        "title": "Blurred Lines",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Jungle",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Underneath the Tree",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Too Much",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit & Anne-Marie & David Guetta",
+        "title": "Cry Baby (SUNSHINE-BANGER)",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Girls",
         "plays": 1
       }
     ],
