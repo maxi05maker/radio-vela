@@ -2,8 +2,8 @@
   "2026-08-14 07:00": {
     "period_start": "2026-08-14T07:00:00+02:00",
     "period_end": "2026-08-15T07:00:00+02:00",
-    "total_entries": 18,
-    "music_entries": 14,
+    "total_entries": 28,
+    "music_entries": 23,
     "songs": [
       {
         "artist": "The Lemonheads",
@@ -73,6 +73,51 @@
       {
         "artist": "Nathan Evans & SAINT PHNX",
         "title": "Angels' Share",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Wild & Free",
+        "plays": 1
+      },
+      {
+        "artist": "Blue",
+        "title": "Waste My Love",
+        "plays": 1
+      },
+      {
+        "artist": "Kid Cudi",
+        "title": "Do What I Want",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Wellington feat. Small Jam",
+        "title": "Iko Iko",
+        "plays": 1
+      },
+      {
+        "artist": "KADAVAR",
+        "title": "Scar On My Guitar",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "FICKA",
+        "plays": 1
+      },
+      {
+        "artist": "Pashanim",
+        "title": "Sommergewitter",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Kein Problem",
         "plays": 1
       }
     ],
