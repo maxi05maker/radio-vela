@@ -2,9 +2,19 @@
   "2026-08-14 07:00": {
     "period_start": "2026-08-14T07:00:00+02:00",
     "period_end": "2026-08-15T07:00:00+02:00",
-    "total_entries": 38,
-    "music_entries": 33,
+    "total_entries": 48,
+    "music_entries": 43,
     "songs": [
+      {
+        "artist": "Demi Lovato",
+        "title": "SKIN OF MY TEETH",
+        "plays": 2
+      },
+      {
+        "artist": "Sia",
+        "title": "Together",
+        "plays": 2
+      },
       {
         "artist": "The Lemonheads",
         "title": "Deep End",
@@ -58,16 +68,6 @@
       {
         "artist": "Teddy Swims",
         "title": "Mr. Know It All",
-        "plays": 1
-      },
-      {
-        "artist": "Demi Lovato",
-        "title": "SKIN OF MY TEETH",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Together",
         "plays": 1
       },
       {
@@ -169,12 +169,52 @@
         "artist": "Clueso feat. Andreas Bourani",
         "title": "Willkommen Zuruck",
         "plays": 1
+      },
+      {
+        "artist": "Louis Tomlinson",
+        "title": "Palaces",
+        "plays": 1
+      },
+      {
+        "artist": "Jax Jones Feat. MNEK",
+        "title": "Where Did You Go?",
+        "plays": 1
+      },
+      {
+        "artist": "Fritz Kalkbrenner",
+        "title": "It Ain't Over",
+        "plays": 1
+      },
+      {
+        "artist": "Montez",
+        "title": "Auf & Ab",
+        "plays": 1
+      },
+      {
+        "artist": "Von Wegen Lisbeth",
+        "title": "Meine Kneipe",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga, Doechii",
+        "title": "Runway",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Clare",
+        "title": "Too Close",
+        "plays": 1
+      },
+      {
+        "artist": "Blu & Exile",
+        "title": "In My Window (Feat. TOBi)",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "The Lemonheads",
-      "title": "Deep End",
-      "plays": 1
+      "artist": "Demi Lovato",
+      "title": "SKIN OF MY TEETH",
+      "plays": 2
     }
   }
 }
