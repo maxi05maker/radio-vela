@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 121,
-    "music_entries": 113,
+    "total_entries": 131,
+    "music_entries": 122,
     "songs": [
       {
         "artist": "Benson Boone",
@@ -548,6 +548,51 @@
       {
         "artist": "Pharrell Williams",
         "title": "Happy",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Black Summer",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Good 4 You",
+        "plays": 1
+      },
+      {
+        "artist": "Lune",
+        "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
+        "plays": 1
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Jungle",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "Baby Queen",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & OneRepublic",
+        "title": "Lose Somebody",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "tau mich auf",
         "plays": 1
       }
     ],
