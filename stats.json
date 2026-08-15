@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 175,
-    "music_entries": 165,
+    "total_entries": 185,
+    "music_entries": 175,
     "songs": [
       {
         "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
@@ -26,6 +26,11 @@
         "plays": 2
       },
       {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 2
+      },
+      {
         "artist": "Drangsal",
         "title": "Will ich nur dich",
         "plays": 2
@@ -38,6 +43,11 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "Wincent Weiss",
+        "title": "Hier mit dir",
         "plays": 2
       },
       {
@@ -291,11 +301,6 @@
         "plays": 1
       },
       {
-        "artist": "Camila Cabello feat. Young Thug",
-        "title": "Havana",
-        "plays": 1
-      },
-      {
         "artist": "Turnstile",
         "title": "NEVER ENOUGH",
         "plays": 1
@@ -348,11 +353,6 @@
       {
         "artist": "Mumford & Sons",
         "title": "The Banjo Song",
-        "plays": 1
-      },
-      {
-        "artist": "Wincent Weiss",
-        "title": "Hier mit dir",
         "plays": 1
       },
       {
@@ -773,6 +773,46 @@
       {
         "artist": "Meghan Trainor",
         "title": "All About That Bass",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith, YUNGBLUD",
+        "title": "Wild Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
+        "title": "Best Friend",
+        "plays": 1
+      },
+      {
+        "artist": "Filow & Ikkimel",
+        "title": "Jiggy",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly Feat. Gentleman",
+        "title": "Id",
+        "plays": 1
+      },
+      {
+        "artist": "The Arcs",
+        "title": "Eyez",
+        "plays": 1
+      },
+      {
+        "artist": "Danny Brown",
+        "title": "Copycats feat. Underscores",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Achterbahn",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
         "plays": 1
       }
     ],
