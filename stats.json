@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 159,
-    "music_entries": 149,
+    "total_entries": 169,
+    "music_entries": 159,
     "songs": [
       {
         "artist": "Benson Boone",
@@ -38,6 +38,21 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "Shirin David & Kitty Kat",
+        "title": "Be a Hoe/Break a Hoe",
+        "plays": 2
+      },
+      {
+        "artist": "Wincent Weiss",
+        "title": "Wer wenn nicht wir",
+        "plays": 2
+      },
+      {
+        "artist": "Symba",
+        "title": "Power Ranger",
         "plays": 2
       },
       {
@@ -356,18 +371,8 @@
         "plays": 1
       },
       {
-        "artist": "Shirin David & Kitty Kat",
-        "title": "Be a Hoe/Break a Hoe",
-        "plays": 1
-      },
-      {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
-        "plays": 1
-      },
-      {
-        "artist": "Wincent Weiss",
-        "title": "Wer wenn nicht wir",
         "plays": 1
       },
       {
@@ -393,11 +398,6 @@
       {
         "artist": "Griff",
         "title": "Black Hole",
-        "plays": 1
-      },
-      {
-        "artist": "Symba",
-        "title": "Power Ranger",
         "plays": 1
       },
       {
@@ -713,6 +713,41 @@
       {
         "artist": "Jeremias",
         "title": "Ich mags",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello",
+        "title": "Don't Go Yet",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "If You're Too Shy (Let Me Know)",
+        "plays": 1
+      },
+      {
+        "artist": "bar italia",
+        "title": "omni shambles",
+        "plays": 1
+      },
+      {
+        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
+        "title": "VIEWS",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "THE SUBWAYS",
+        "title": "I Need To Feel You Closer",
         "plays": 1
       }
     ],
