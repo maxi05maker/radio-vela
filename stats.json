@@ -2,12 +2,17 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 108,
-    "music_entries": 101,
+    "total_entries": 111,
+    "music_entries": 103,
     "songs": [
       {
         "artist": "Benson Boone",
         "title": "Slow It Down",
+        "plays": 2
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
         "plays": 2
       },
       {
@@ -98,11 +103,6 @@
       {
         "artist": "HUNTRX",
         "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
-        "plays": 1
-      },
-      {
-        "artist": "Tove Lo",
-        "title": "Habits (Stay High)",
         "plays": 1
       },
       {
@@ -498,6 +498,11 @@
       {
         "artist": "The Rolling Stones",
         "title": "Troubles A’ Comin",
+        "plays": 1
+      },
+      {
+        "artist": "GRETA",
+        "title": "holidaze",
         "plays": 1
       }
     ],
