@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 48,
-    "music_entries": 44,
+    "total_entries": 58,
+    "music_entries": 54,
     "songs": [
       {
         "artist": "Benson Boone",
@@ -218,6 +218,56 @@
       {
         "artist": "P!nk",
         "title": "Beautiful Trauma",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Leichtes Gepäck",
+        "plays": 1
+      },
+      {
+        "artist": "Burak Yeter feat. Danelle Sandoval",
+        "title": "Tuesday",
+        "plays": 1
+      },
+      {
+        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
+        "title": "Rebellion",
+        "plays": 1
+      },
+      {
+        "artist": "Bad Bunny",
+        "title": "Moscow Mule",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Love Yourself",
+        "plays": 1
+      },
+      {
+        "artist": "mgk",
+        "title": "your name forever",
+        "plays": 1
+      },
+      {
+        "artist": "Swiss & die Andern",
+        "title": "Erstmal zu Penny",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 1
+      },
+      {
+        "artist": "Turnstile",
+        "title": "NEVER ENOUGH",
+        "plays": 1
+      },
+      {
+        "artist": "Pitbull Feat. Ke$ha",
+        "title": "Timber",
         "plays": 1
       }
     ],
