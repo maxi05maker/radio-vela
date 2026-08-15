@@ -2,12 +2,57 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 1,
-    "music_entries": 1,
+    "total_entries": 11,
+    "music_entries": 10,
     "songs": [
       {
         "artist": "Katy Perry Feat. Skip Marley",
         "title": "Chained To The Rhythm",
+        "plays": 1
+      },
+      {
+        "artist": "Arcade Fire",
+        "title": "Year of the Snake",
+        "plays": 1
+      },
+      {
+        "artist": "Vanessa Mai",
+        "title": "Aus & Vorbei",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Genesis Owusu",
+        "title": "Stampede",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
+        "title": "Blurred Lines",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "ALL MY LOVE",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Too Much",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Underneath the Tree",
         "plays": 1
       }
     ],
