@@ -526,5 +526,65 @@
     "played_at": "2026-08-15 16:42:09 +0200",
     "title": "Dream Machine",
     "artist": "Purple Disco Machine, Alison Goldfrapp"
+  },
+  {
+    "key": "2026-08-15 17:28:28 +0200|I Believe In Love|Tyler Ballgame",
+    "played_at": "2026-08-15 17:28:28 +0200",
+    "title": "I Believe In Love",
+    "artist": "Tyler Ballgame"
+  },
+  {
+    "key": "2026-08-15 17:32:43 +0200|Kein Problem|Tim Bendzko",
+    "played_at": "2026-08-15 17:32:43 +0200",
+    "title": "Kein Problem",
+    "artist": "Tim Bendzko"
+  },
+  {
+    "key": "2026-08-15 17:35:41 +0200|Nur die Musik|JORIS",
+    "played_at": "2026-08-15 17:35:41 +0200",
+    "title": "Nur die Musik",
+    "artist": "JORIS"
+  },
+  {
+    "key": "2026-08-15 17:39:15 +0200|Goner|Wavves",
+    "played_at": "2026-08-15 17:39:15 +0200",
+    "title": "Goner",
+    "artist": "Wavves"
+  },
+  {
+    "key": "2026-08-15 17:42:01 +0200|Unforgettable|Nico Santos feat. Alvaro Soler",
+    "played_at": "2026-08-15 17:42:01 +0200",
+    "title": "Unforgettable",
+    "artist": "Nico Santos feat. Alvaro Soler"
+  },
+  {
+    "key": "2026-08-15 17:45:30 +0200|Der letzte Tag|Max Giesinger",
+    "played_at": "2026-08-15 17:45:30 +0200",
+    "title": "Der letzte Tag",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-08-15 17:48:27 +0200|Busy Woman|Sabrina Carpenter",
+    "played_at": "2026-08-15 17:48:27 +0200",
+    "title": "Busy Woman",
+    "artist": "Sabrina Carpenter"
+  },
+  {
+    "key": "2026-08-15 17:51:33 +0200|Magia|Álvaro Soler",
+    "played_at": "2026-08-15 17:51:33 +0200",
+    "title": "Magia",
+    "artist": "Álvaro Soler"
+  },
+  {
+    "key": "2026-08-15 17:54:46 +0200|Sexy Eyes|Dr. Hook",
+    "played_at": "2026-08-15 17:54:46 +0200",
+    "title": "Sexy Eyes",
+    "artist": "Dr. Hook"
+  },
+  {
+    "key": "2026-08-15 17:57:44 +0200|Hot Bait|The Gems",
+    "played_at": "2026-08-15 17:57:44 +0200",
+    "title": "Hot Bait",
+    "artist": "The Gems"
   }
 ]
