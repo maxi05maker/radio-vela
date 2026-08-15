@@ -2,9 +2,14 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 31,
-    "music_entries": 28,
+    "total_entries": 41,
+    "music_entries": 38,
     "songs": [
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 2
+      },
       {
         "artist": "Katy Perry Feat. Skip Marley",
         "title": "Chained To The Rhythm",
@@ -63,11 +68,6 @@
       {
         "artist": "Tate McRae",
         "title": "Just Keep Watching",
-        "plays": 1
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
         "plays": 1
       },
       {
@@ -144,12 +144,57 @@
         "artist": "Killer Mike",
         "title": "Run feat. Dave Chappelle & Young Thug",
         "plays": 1
+      },
+      {
+        "artist": "GHOST",
+        "title": "Call Me Little Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Spelling",
+        "title": "Portrait Of My Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Steve Lacy",
+        "title": "Bad habit",
+        "plays": 1
+      },
+      {
+        "artist": "BTS",
+        "title": "SWIM",
+        "plays": 1
+      },
+      {
+        "artist": "Drake",
+        "title": "God's Plan",
+        "plays": 1
+      },
+      {
+        "artist": "Kummer",
+        "title": "Bei Dir",
+        "plays": 1
+      },
+      {
+        "artist": "Jonathan Jeremiah",
+        "title": "Kolkata Bear",
+        "plays": 1
+      },
+      {
+        "artist": "Jason Mraz",
+        "title": "Have It All",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Immer wenn wir uns sehn",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Katy Perry Feat. Skip Marley",
-      "title": "Chained To The Rhythm",
-      "plays": 1
+      "artist": "Benson Boone",
+      "title": "Slow It Down",
+      "plays": 2
     }
   }
 }
