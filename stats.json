@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 111,
-    "music_entries": 103,
+    "total_entries": 121,
+    "music_entries": 113,
     "songs": [
       {
         "artist": "Benson Boone",
@@ -18,6 +18,11 @@
       {
         "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
         "title": "Sommer",
+        "plays": 2
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 2
       },
       {
@@ -316,11 +321,6 @@
         "plays": 1
       },
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
         "artist": "Sia",
         "title": "Chandelier",
         "plays": 1
@@ -503,6 +503,51 @@
       {
         "artist": "GRETA",
         "title": "holidaze",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
+        "plays": 1
+      },
+      {
+        "artist": "Family of the Year",
+        "title": "Hero",
+        "plays": 1
+      },
+      {
+        "artist": "Ennio",
+        "title": "Fühlst du gar nichts? feat. Nina Chuba",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith",
+        "title": "Rag Doll",
+        "plays": 1
+      },
+      {
+        "artist": "CHAPO102 x GUSTAV",
+        "title": "WARSCHAU",
+        "plays": 1
+      },
+      {
+        "artist": "blackbear & Machine Gun Kelly",
+        "title": "gfy",
+        "plays": 1
+      },
+      {
+        "artist": "Finch (feat. Blümchen)",
+        "title": "Herzalarm",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA",
+        "title": "Renn!",
+        "plays": 1
+      },
+      {
+        "artist": "Pharrell Williams",
+        "title": "Happy",
         "plays": 1
       }
     ],
