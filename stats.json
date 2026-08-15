@@ -2,12 +2,17 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 78,
-    "music_entries": 73,
+    "total_entries": 88,
+    "music_entries": 82,
     "songs": [
       {
         "artist": "Benson Boone",
         "title": "Slow It Down",
+        "plays": 2
+      },
+      {
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
         "plays": 2
       },
       {
@@ -291,11 +296,6 @@
         "plays": 1
       },
       {
-        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
-        "title": "Sommer",
-        "plays": 1
-      },
-      {
         "artist": "Shawn Mendes",
         "title": "Heart Of Gold",
         "plays": 1
@@ -363,6 +363,46 @@
       {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Wincent Weiss",
+        "title": "Wer wenn nicht wir",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna & Sabrina Carpenter",
+        "title": "Bring Your Love",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Walker",
+        "title": "Leave a Light On",
+        "plays": 1
+      },
+      {
+        "artist": "Kevin Morby",
+        "title": "Die Young",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+        "plays": 1
+      },
+      {
+        "artist": "Griff",
+        "title": "Black Hole",
+        "plays": 1
+      },
+      {
+        "artist": "Symba",
+        "title": "Power Ranger",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine, Alison Goldfrapp",
+        "title": "Dream Machine",
         "plays": 1
       }
     ],
