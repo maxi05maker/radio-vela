@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 154,
-    "music_entries": 145,
+    "total_entries": 159,
+    "music_entries": 149,
     "songs": [
       {
         "artist": "Benson Boone",
@@ -693,6 +693,26 @@
       {
         "artist": "Robin Schulz feat. Alida",
         "title": "In Your Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shivers",
+        "plays": 1
+      },
+      {
+        "artist": "Blackpink",
+        "title": "Pink Venom",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Jeremias",
+        "title": "Ich mags",
         "plays": 1
       }
     ],
