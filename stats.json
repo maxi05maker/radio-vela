@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 68,
-    "music_entries": 64,
+    "total_entries": 78,
+    "music_entries": 73,
     "songs": [
       {
         "artist": "Benson Boone",
@@ -318,6 +318,51 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Chandelier",
+        "plays": 1
+      },
+      {
+        "artist": "Jungle",
+        "title": "Good Times",
+        "plays": 1
+      },
+      {
+        "artist": "Mumford & Sons",
+        "title": "The Banjo Song",
+        "plays": 1
+      },
+      {
+        "artist": "Wincent Weiss",
+        "title": "Hier mit dir",
+        "plays": 1
+      },
+      {
+        "artist": "RAF Camora & Luciano",
+        "title": "All Night",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Falling In Reverse",
+        "title": "Voices In My Head",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David & Kitty Kat",
+        "title": "Be a Hoe/Break a Hoe",
+        "plays": 1
+      },
+      {
+        "artist": "The Mary Onettes",
+        "title": "Hurricane Heart",
         "plays": 1
       }
     ],
