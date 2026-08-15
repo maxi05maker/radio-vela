@@ -2,9 +2,14 @@
   "2026-08-14 07:00": {
     "period_start": "2026-08-14T07:00:00+02:00",
     "period_end": "2026-08-15T07:00:00+02:00",
-    "total_entries": 108,
-    "music_entries": 100,
+    "total_entries": 118,
+    "music_entries": 110,
     "songs": [
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 2
+      },
       {
         "artist": "Demi Lovato",
         "title": "SKIN OF MY TEETH",
@@ -28,6 +33,11 @@
       {
         "artist": "SDP",
         "title": "Du hast gehofft",
+        "plays": 2
+      },
+      {
+        "artist": "Bad Bunny",
+        "title": "Moscow Mule",
         "plays": 2
       },
       {
@@ -63,11 +73,6 @@
       {
         "artist": "Alli Neumann",
         "title": "Mit dir",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
         "plays": 1
       },
       {
@@ -351,11 +356,6 @@
         "plays": 1
       },
       {
-        "artist": "Bad Bunny",
-        "title": "Moscow Mule",
-        "plays": 1
-      },
-      {
         "artist": "Jonathan Jeremiah & Till Bronner",
         "title": "We Come Alive",
         "plays": 1
@@ -479,11 +479,51 @@
         "artist": "Charlie Puth feat. Selena Gomez",
         "title": "We Don't Talk Anymore",
         "plays": 1
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Herz über Kopf",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben & Ilira",
+        "title": "Fading",
+        "plays": 1
+      },
+      {
+        "artist": "Phoenix feat. Ezra Koenig",
+        "title": "Tonight (feat. Ezra Koenig)",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Die With A Smile (feat. Bruno Mars)",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Blurry Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "2 Die 4",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Demi Lovato",
-      "title": "SKIN OF MY TEETH",
+      "artist": "Shakira & Burna Boy",
+      "title": "Dai Dai",
       "plays": 2
     }
   }

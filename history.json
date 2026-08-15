@@ -1426,5 +1426,65 @@
     "played_at": "2026-08-15 04:38:19 +0200",
     "title": "We Don't Talk Anymore",
     "artist": "Charlie Puth feat. Selena Gomez"
+  },
+  {
+    "key": "2026-08-15 05:32:05 +0200|Havana|Camila Cabello feat. Young Thug",
+    "played_at": "2026-08-15 05:32:05 +0200",
+    "title": "Havana",
+    "artist": "Camila Cabello feat. Young Thug"
+  },
+  {
+    "key": "2026-08-15 05:35:38 +0200|Dai Dai|Shakira & Burna Boy",
+    "played_at": "2026-08-15 05:35:38 +0200",
+    "title": "Dai Dai",
+    "artist": "Shakira & Burna Boy"
+  },
+  {
+    "key": "2026-08-15 05:39:22 +0200|Herz über Kopf|Joris",
+    "played_at": "2026-08-15 05:39:22 +0200",
+    "title": "Herz über Kopf",
+    "artist": "Joris"
+  },
+  {
+    "key": "2026-08-15 05:42:43 +0200|Moscow Mule|Bad Bunny",
+    "played_at": "2026-08-15 05:42:43 +0200",
+    "title": "Moscow Mule",
+    "artist": "Bad Bunny"
+  },
+  {
+    "key": "2026-08-15 05:46:49 +0200|Dance With Me|Tom Gregory",
+    "played_at": "2026-08-15 05:46:49 +0200",
+    "title": "Dance With Me",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-08-15 05:49:14 +0200|Fading|Alle Farben & Ilira",
+    "played_at": "2026-08-15 05:49:14 +0200",
+    "title": "Fading",
+    "artist": "Alle Farben & Ilira"
+  },
+  {
+    "key": "2026-08-15 05:52:41 +0200|Tonight (feat. Ezra Koenig)|Phoenix feat. Ezra Koenig",
+    "played_at": "2026-08-15 05:52:41 +0200",
+    "title": "Tonight (feat. Ezra Koenig)",
+    "artist": "Phoenix feat. Ezra Koenig"
+  },
+  {
+    "key": "2026-08-15 05:56:45 +0200|Die With A Smile (feat. Bruno Mars)|Lady Gaga",
+    "played_at": "2026-08-15 05:56:45 +0200",
+    "title": "Die With A Smile (feat. Bruno Mars)",
+    "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-08-15 06:00:55 +0200|Blurry Eyes|Michael Patrick Kelly",
+    "played_at": "2026-08-15 06:00:55 +0200",
+    "title": "Blurry Eyes",
+    "artist": "Michael Patrick Kelly"
+  },
+  {
+    "key": "2026-08-15 06:04:32 +0200|2 Die 4|Tove Lo",
+    "played_at": "2026-08-15 06:04:32 +0200",
+    "title": "2 Die 4",
+    "artist": "Tove Lo"
   }
 ]
