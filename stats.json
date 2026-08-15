@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 144,
-    "music_entries": 135,
+    "total_entries": 154,
+    "music_entries": 145,
     "songs": [
       {
         "artist": "Benson Boone",
@@ -23,6 +23,11 @@
       {
         "artist": "Drangsal",
         "title": "Will ich nur dich",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 2
       },
       {
@@ -293,11 +298,6 @@
       {
         "artist": "Halsey",
         "title": "I Never Loved You",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -648,6 +648,51 @@
       {
         "artist": "Jessie Ware",
         "title": "Superbloom",
+        "plays": 1
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "Rockstars",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso feat. Andreas Bourani",
+        "title": "Willkommen Zuruck",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "Bausa",
+        "title": "Flashbacks feat. LIZ",
+        "plays": 1
+      },
+      {
+        "artist": "Ray Dalton x Alvaro Soler",
+        "title": "Manila",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "The Hills",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Manchild",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. Alida",
+        "title": "In Your Eyes",
         "plays": 1
       }
     ],
