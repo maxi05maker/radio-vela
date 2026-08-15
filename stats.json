@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 21,
-    "music_entries": 19,
+    "total_entries": 31,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Katy Perry Feat. Skip Marley",
@@ -98,6 +98,51 @@
       {
         "artist": "Tove Lo",
         "title": "Habits (Stay High)",
+        "plays": 1
+      },
+      {
+        "artist": "Jeff Lynne's Elo",
+        "title": "When I Was A Boy",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville, Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Lift Me Up",
+        "plays": 1
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Du tust mir nie mehr weh",
+        "plays": 1
+      },
+      {
+        "artist": "Linkin Park",
+        "title": "Heavy Is the Crown",
+        "plays": 1
+      },
+      {
+        "artist": "Jungle",
+        "title": "Busy Earnin'",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 1
+      },
+      {
+        "artist": "Bastille",
+        "title": "Seasons & Narcissus",
+        "plays": 1
+      },
+      {
+        "artist": "Killer Mike",
+        "title": "Run feat. Dave Chappelle & Young Thug",
         "plays": 1
       }
     ],
