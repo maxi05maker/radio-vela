@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 11,
-    "music_entries": 10,
+    "total_entries": 21,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Katy Perry Feat. Skip Marley",
@@ -53,6 +53,51 @@
       {
         "artist": "Kelly Clarkson",
         "title": "Underneath the Tree",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit feat. Zara Larsson",
+        "title": "Symphony",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Just Keep Watching",
+        "plays": 1
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 1
+      },
+      {
+        "artist": "Kaleo",
+        "title": "Way Down We Go",
+        "plays": 1
+      },
+      {
+        "artist": "The Hives",
+        "title": "Enough Is Enough",
+        "plays": 1
+      },
+      {
+        "artist": "Sia feat. Kendrick Lamar",
+        "title": "The Greatest",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "A Million Dreams",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
         "plays": 1
       }
     ],
