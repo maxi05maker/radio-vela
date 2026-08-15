@@ -586,5 +586,65 @@
     "played_at": "2026-08-15 17:57:44 +0200",
     "title": "Hot Bait",
     "artist": "The Gems"
+  },
+  {
+    "key": "2026-08-15 18:22:01 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-08-15 18:22:01 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-15 18:22:03 +0200|Want It Back|Giant Rooks",
+    "played_at": "2026-08-15 18:22:03 +0200",
+    "title": "Want It Back",
+    "artist": "Giant Rooks"
+  },
+  {
+    "key": "2026-08-15 18:25:30 +0200|Malibu|Miley Cyrus",
+    "played_at": "2026-08-15 18:25:30 +0200",
+    "title": "Malibu",
+    "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-08-15 18:29:22 +0200|Never Give Up|Sia",
+    "played_at": "2026-08-15 18:29:22 +0200",
+    "title": "Never Give Up",
+    "artist": "Sia"
+  },
+  {
+    "key": "2026-08-15 18:33:04 +0200|Dark Luck|The Cribs",
+    "played_at": "2026-08-15 18:33:04 +0200",
+    "title": "Dark Luck",
+    "artist": "The Cribs"
+  },
+  {
+    "key": "2026-08-15 18:36:01 +0200|Girls Like Us|Zoe Wees",
+    "played_at": "2026-08-15 18:36:01 +0200",
+    "title": "Girls Like Us",
+    "artist": "Zoe Wees"
+  },
+  {
+    "key": "2026-08-15 18:39:11 +0200|Alright|Sam Fender",
+    "played_at": "2026-08-15 18:39:11 +0200",
+    "title": "Alright",
+    "artist": "Sam Fender"
+  },
+  {
+    "key": "2026-08-15 18:43:34 +0200|We Come Alive|Jonathan Jeremiah & Till Bronner",
+    "played_at": "2026-08-15 18:43:34 +0200",
+    "title": "We Come Alive",
+    "artist": "Jonathan Jeremiah & Till Bronner"
+  },
+  {
+    "key": "2026-08-15 18:49:36 +0200|Masterplan|Kitty Kat",
+    "played_at": "2026-08-15 18:49:36 +0200",
+    "title": "Masterplan",
+    "artist": "Kitty Kat"
+  },
+  {
+    "key": "2026-08-15 18:52:35 +0200|Troubles A’ Comin|The Rolling Stones",
+    "played_at": "2026-08-15 18:52:35 +0200",
+    "title": "Troubles A’ Comin",
+    "artist": "The Rolling Stones"
   }
 ]
