@@ -2,8 +2,8 @@
   "2026-08-14 07:00": {
     "period_start": "2026-08-14T07:00:00+02:00",
     "period_end": "2026-08-15T07:00:00+02:00",
-    "total_entries": 98,
-    "music_entries": 90,
+    "total_entries": 108,
+    "music_entries": 100,
     "songs": [
       {
         "artist": "Demi Lovato",
@@ -428,6 +428,56 @@
       {
         "artist": "The 1975",
         "title": "Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Rico Nasty",
+        "title": "Skull Flower",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta & Sia",
+        "title": "Beautiful People",
+        "plays": 1
+      },
+      {
+        "artist": "Pitbull Feat. Ke$ha",
+        "title": "Timber",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At The Disco",
+        "title": "Middle of a breakup",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Something In The Way You Move",
+        "plays": 1
+      },
+      {
+        "artist": "Jason Mraz",
+        "title": "Have It All",
+        "plays": 1
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "My Reminder",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Beautiful Trauma",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
         "plays": 1
       }
     ],
