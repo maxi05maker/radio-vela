@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 134,
-    "music_entries": 125,
+    "total_entries": 144,
+    "music_entries": 135,
     "songs": [
       {
         "artist": "Benson Boone",
@@ -13,6 +13,11 @@
       {
         "artist": "Tove Lo",
         "title": "Habits (Stay High)",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -208,11 +213,6 @@
       {
         "artist": "Alex Warren",
         "title": "FEVER DREAM",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -603,6 +603,51 @@
       {
         "artist": "Calvin Harris & Clementine Douglas",
         "title": "Blessings",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
+        "plays": 1
+      },
+      {
+        "artist": "Archive",
+        "title": "City Walls",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Take My Breath",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga, Doechii",
+        "title": "Runway",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Diamonds",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "peu à peu",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Clare",
+        "title": "Too Close",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain't Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Jessie Ware",
+        "title": "Superbloom",
         "plays": 1
       }
     ],
