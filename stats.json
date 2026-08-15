@@ -2,9 +2,14 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 169,
-    "music_entries": 159,
+    "total_entries": 175,
+    "music_entries": 165,
     "songs": [
+      {
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
+        "plays": 3
+      },
       {
         "artist": "Benson Boone",
         "title": "Slow It Down",
@@ -28,11 +33,6 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
-        "plays": 2
-      },
-      {
-        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
-        "title": "Sommer",
         "plays": 2
       },
       {
@@ -749,12 +749,37 @@
         "artist": "THE SUBWAYS",
         "title": "I Need To Feel You Closer",
         "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Lukas Graham",
+        "title": "7 Years",
+        "plays": 1
+      },
+      {
+        "artist": "Hinterlandgang",
+        "title": "Sport im Osten feat. Sechser",
+        "plays": 1
+      },
+      {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
+        "plays": 1
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "All About That Bass",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Benson Boone",
-      "title": "Slow It Down",
-      "plays": 2
+      "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+      "title": "Sommer",
+      "plays": 3
     }
   }
 }
