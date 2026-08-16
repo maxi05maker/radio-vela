@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 96,
-    "music_entries": 90,
+    "total_entries": 102,
+    "music_entries": 95,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -438,6 +438,31 @@
       {
         "artist": "P!nk",
         "title": "A Million Dreams",
+        "plays": 1
+      },
+      {
+        "artist": "Billy Idol feat. Avril Lavigne",
+        "title": "77",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Family of the Year",
+        "title": "Hero",
+        "plays": 1
+      },
+      {
+        "artist": "Samu Haber",
+        "title": "The Vehicle",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "Ich Muss Immer An Dich Denken",
         "plays": 1
       }
     ],

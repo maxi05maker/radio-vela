@@ -574,5 +574,41 @@
     "played_at": "2026-08-16 17:39:51 +0200",
     "title": "A Million Dreams",
     "artist": "P!nk"
+  },
+  {
+    "key": "2026-08-16 17:44:24 +0200|77|Billy Idol feat. Avril Lavigne",
+    "played_at": "2026-08-16 17:44:24 +0200",
+    "title": "77",
+    "artist": "Billy Idol feat. Avril Lavigne"
+  },
+  {
+    "key": "2026-08-16 17:47:18 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-08-16 17:47:18 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-08-16 17:49:36 +0200|Hero|Family of the Year",
+    "played_at": "2026-08-16 17:49:36 +0200",
+    "title": "Hero",
+    "artist": "Family of the Year"
+  },
+  {
+    "key": "2026-08-16 17:52:47 +0200|The Vehicle|Samu Haber",
+    "played_at": "2026-08-16 17:52:47 +0200",
+    "title": "The Vehicle",
+    "artist": "Samu Haber"
+  },
+  {
+    "key": "2026-08-16 17:56:08 +0200|Ich Muss Immer An Dich Denken|SDP",
+    "played_at": "2026-08-16 17:56:08 +0200",
+    "title": "Ich Muss Immer An Dich Denken",
+    "artist": "SDP"
+  },
+  {
+    "key": "2026-08-16 17:59:23 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-16 17:59:23 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
