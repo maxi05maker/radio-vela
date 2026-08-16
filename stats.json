@@ -2,9 +2,19 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 112,
-    "music_entries": 105,
+    "total_entries": 122,
+    "music_entries": 115,
     "songs": [
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 3
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
+        "plays": 2
+      },
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
@@ -33,11 +43,6 @@
       {
         "artist": "We Are Scientists",
         "title": "Less from You",
-        "plays": 2
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
         "plays": 2
       },
       {
@@ -93,11 +98,6 @@
       {
         "artist": "Kraftklub",
         "title": "Wenn ich tot bin, fang ich wieder an",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "In My Blood",
         "plays": 1
       },
       {
@@ -494,12 +494,52 @@
         "artist": "Ariana Grande",
         "title": "No Tears Left To Cry",
         "plays": 1
+      },
+      {
+        "artist": "My Morning Jacket",
+        "title": "Time Waited",
+        "plays": 1
+      },
+      {
+        "artist": "Love Affair",
+        "title": "Everlasting Love",
+        "plays": 1
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
+        "plays": 1
+      },
+      {
+        "artist": "Robyn",
+        "title": "Talk To Me",
+        "plays": 1
+      },
+      {
+        "artist": "Falling In Reverse",
+        "title": "Voices In My Head",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Natural",
+        "plays": 1
+      },
+      {
+        "artist": "LOTTE & Max Giesinger",
+        "title": "Auf das, was da noch kommt",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Tom Gregory",
-      "title": "Small Steps",
-      "plays": 2
+      "artist": "Benson Boone",
+      "title": "Slow It Down",
+      "plays": 3
     }
   }
 }
