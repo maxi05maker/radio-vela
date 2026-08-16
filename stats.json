@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 170,
-    "music_entries": 162,
+    "total_entries": 180,
+    "music_entries": 172,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -116,6 +116,11 @@
         "plays": 2
       },
       {
+        "artist": "Iron Maiden",
+        "title": "Senjutsu",
+        "plays": 2
+      },
+      {
         "artist": "GHOST",
         "title": "Call Me Little Sunshine",
         "plays": 2
@@ -123,6 +128,16 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Budapest",
+        "plays": 2
+      },
+      {
+        "artist": "Cardi B",
+        "title": "Bongos feat. Megan Thee Stallion",
         "plays": 2
       },
       {
@@ -331,11 +346,6 @@
         "plays": 1
       },
       {
-        "artist": "Iron Maiden",
-        "title": "Senjutsu",
-        "plays": 1
-      },
-      {
         "artist": "Gorillaz",
         "title": "The Moon Cave",
         "plays": 1
@@ -353,11 +363,6 @@
       {
         "artist": "ROSÉ & Bruno Mars",
         "title": "APT.",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Budapest",
         "plays": 1
       },
       {
@@ -586,11 +591,6 @@
         "plays": 1
       },
       {
-        "artist": "Cardi B",
-        "title": "Bongos feat. Megan Thee Stallion",
-        "plays": 1
-      },
-      {
         "artist": "The Virginmarys",
         "title": "There Ain't No Future",
         "plays": 1
@@ -683,6 +683,41 @@
       {
         "artist": "Purple Disco Machine feat. Jake Shears",
         "title": "Fire + Ice (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Dara",
+        "title": "Bangaranga",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Wellington feat. Small Jam",
+        "title": "Iko Iko",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Never Gonna Not Dance Again",
+        "plays": 1
+      },
+      {
+        "artist": "Snow Patrol",
+        "title": "The Forest Is The Path",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Leichtes Gepäck",
+        "plays": 1
+      },
+      {
+        "artist": "Shaboozey",
+        "title": "Bar Song (Tipsy)",
         "plays": 1
       }
     ],
