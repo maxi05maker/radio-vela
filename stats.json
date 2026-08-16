@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 51,
-    "music_entries": 48,
+    "total_entries": 61,
+    "music_entries": 58,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -238,6 +238,56 @@
       {
         "artist": "Provinz",
         "title": "Pazifik",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Ego",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At The Disco",
+        "title": "Middle of a breakup",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Only Human",
+        "plays": 1
+      },
+      {
+        "artist": "FLO",
+        "title": "Check",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz & Majan x Jeremias",
+        "title": "Liebe zu dritt",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "plays": 1
+      },
+      {
+        "artist": "Maggie Rogers",
+        "title": "In The Living Room",
+        "plays": 1
+      },
+      {
+        "artist": "Kwam.e & Ove",
+        "title": "Hallow Kitty",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "One Call Away",
         "plays": 1
       }
     ],
