@@ -2,12 +2,17 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 86,
-    "music_entries": 80,
+    "total_entries": 96,
+    "music_entries": 90,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 2
+      },
+      {
+        "artist": "Machine Gun Kelly",
+        "title": "Maybe (feat. Bring Me The Horizon)",
         "plays": 2
       },
       {
@@ -118,11 +123,6 @@
       {
         "artist": "David Guetta",
         "title": "Never Going Home Tonight (feat. Alesso & Madison Love)",
-        "plays": 1
-      },
-      {
-        "artist": "Machine Gun Kelly",
-        "title": "Maybe (feat. Bring Me The Horizon)",
         "plays": 1
       },
       {
@@ -393,6 +393,51 @@
       {
         "artist": "Charlie Puth feat. Selena Gomez",
         "title": "We Don't Talk Anymore",
+        "plays": 1
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Living In A Ghost Town",
+        "plays": 1
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Du tust mir nie mehr weh",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Ready For Your Love",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
+        "plays": 1
+      },
+      {
+        "artist": "Damiano David, Tyla, Nile Rodgers",
+        "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
+        "plays": 1
+      },
+      {
+        "artist": "twocolors, Pascal Letoublon",
+        "title": "Break Up",
+        "plays": 1
+      },
+      {
+        "artist": "Rise Against",
+        "title": "Nod",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "A Million Dreams",
         "plays": 1
       }
     ],
