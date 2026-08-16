@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 148,
-    "music_entries": 141,
+    "total_entries": 153,
+    "music_entries": 146,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -71,6 +71,11 @@
         "plays": 2
       },
       {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 2
+      },
+      {
         "artist": "Namika feat. Black M",
         "title": "Je Ne Parle Pas Français (Beatgees Remix)",
         "plays": 2
@@ -93,6 +98,11 @@
       {
         "artist": "Provinz & Majan x Jeremias",
         "title": "Liebe zu dritt",
+        "plays": 2
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
         "plays": 2
       },
       {
@@ -241,11 +251,6 @@
         "plays": 1
       },
       {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
         "artist": "Robbie Williams & Jesse & Joy",
         "title": "Human (feat. Jesse & Joy)",
         "plays": 1
@@ -268,11 +273,6 @@
       {
         "artist": "FLO",
         "title": "Check",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Someone You Loved",
         "plays": 1
       },
       {
@@ -608,6 +608,21 @@
       {
         "artist": "Robbie Williams",
         "title": "Love My Life",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba x Tokio Hotel",
+        "title": "Fata Morgana",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "BTS",
+        "title": "SWIM",
         "plays": 1
       }
     ],
