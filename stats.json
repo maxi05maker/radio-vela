@@ -2,8 +2,8 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 185,
-    "music_entries": 175,
+    "total_entries": 195,
+    "music_entries": 184,
     "songs": [
       {
         "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
@@ -63,6 +63,21 @@
       {
         "artist": "Symba",
         "title": "Power Ranger",
+        "plays": 2
+      },
+      {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
+        "plays": 2
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 2
+      },
+      {
+        "artist": "Álvaro Soler",
+        "title": "Magia",
         "plays": 2
       },
       {
@@ -416,11 +431,6 @@
         "plays": 1
       },
       {
-        "artist": "JORIS",
-        "title": "Nur die Musik",
-        "plays": 1
-      },
-      {
         "artist": "Wavves",
         "title": "Goner",
         "plays": 1
@@ -431,18 +441,8 @@
         "plays": 1
       },
       {
-        "artist": "Max Giesinger",
-        "title": "Der letzte Tag",
-        "plays": 1
-      },
-      {
         "artist": "Sabrina Carpenter",
         "title": "Busy Woman",
-        "plays": 1
-      },
-      {
-        "artist": "Álvaro Soler",
-        "title": "Magia",
         "plays": 1
       },
       {
@@ -813,6 +813,36 @@
       {
         "artist": "Joris",
         "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "29",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Weißt du überhaupt noch wer ich bin?",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Aperture",
+        "plays": 1
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Living In A Ghost Town",
+        "plays": 1
+      },
+      {
+        "artist": "Dropkick Murphys",
+        "title": "Who'll Stand With Us?",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "party 4 u",
         "plays": 1
       }
     ],
