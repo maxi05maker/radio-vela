@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 138,
-    "music_entries": 131,
+    "total_entries": 148,
+    "music_entries": 141,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -46,8 +46,18 @@
         "plays": 2
       },
       {
+        "artist": "LEA",
+        "title": "Leiser",
+        "plays": 2
+      },
+      {
         "artist": "Coldplay",
         "title": "Hymn For The Weekend",
+        "plays": 2
+      },
+      {
+        "artist": "Lena x Nico Santos",
+        "title": "Better",
         "plays": 2
       },
       {
@@ -58,6 +68,11 @@
       {
         "artist": "Mark Forster",
         "title": "Sowieso",
+        "plays": 2
+      },
+      {
+        "artist": "Namika feat. Black M",
+        "title": "Je Ne Parle Pas Français (Beatgees Remix)",
         "plays": 2
       },
       {
@@ -73,6 +88,11 @@
       {
         "artist": "Jonas Brothers",
         "title": "Only Human",
+        "plays": 2
+      },
+      {
+        "artist": "Provinz & Majan x Jeremias",
+        "title": "Liebe zu dritt",
         "plays": 2
       },
       {
@@ -181,11 +201,6 @@
         "plays": 1
       },
       {
-        "artist": "LEA",
-        "title": "Leiser",
-        "plays": 1
-      },
-      {
         "artist": "Giant Rooks",
         "title": "Cold Wars",
         "plays": 1
@@ -216,11 +231,6 @@
         "plays": 1
       },
       {
-        "artist": "Lena x Nico Santos",
-        "title": "Better",
-        "plays": 1
-      },
-      {
         "artist": "Zartmann",
         "title": "tau mich auf",
         "plays": 1
@@ -241,11 +251,6 @@
         "plays": 1
       },
       {
-        "artist": "Namika feat. Black M",
-        "title": "Je Ne Parle Pas Français (Beatgees Remix)",
-        "plays": 1
-      },
-      {
         "artist": "Jingle Service",
         "title": "Wochenende Kopf frei",
         "plays": 1
@@ -263,11 +268,6 @@
       {
         "artist": "FLO",
         "title": "Check",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz & Majan x Jeremias",
-        "title": "Liebe zu dritt",
         "plays": 1
       },
       {
@@ -578,6 +578,36 @@
       {
         "artist": "Alessia Cara",
         "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey",
+        "title": "Halo",
+        "plays": 1
+      },
+      {
+        "artist": "Cardi B",
+        "title": "Bongos feat. Megan Thee Stallion",
+        "plays": 1
+      },
+      {
+        "artist": "The Virginmarys",
+        "title": "There Ain't No Future",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Thank You",
+        "plays": 1
+      },
+      {
+        "artist": "Jonathan Jeremiah",
+        "title": "Kolkata Bear",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Love My Life",
         "plays": 1
       }
     ],
