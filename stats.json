@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 102,
-    "music_entries": 95,
+    "total_entries": 112,
+    "music_entries": 105,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -11,8 +11,28 @@
         "plays": 2
       },
       {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "plays": 2
+      },
+      {
+        "artist": "Noel Gallagher's High Flying Birds",
+        "title": "Pretty boy",
+        "plays": 2
+      },
+      {
         "artist": "Machine Gun Kelly",
         "title": "Maybe (feat. Bring Me The Horizon)",
+        "plays": 2
+      },
+      {
+        "artist": "Clean Bandit feat. Demi Lovato",
+        "title": "Solo",
+        "plays": 2
+      },
+      {
+        "artist": "We Are Scientists",
+        "title": "Less from You",
         "plays": 2
       },
       {
@@ -101,11 +121,6 @@
         "plays": 1
       },
       {
-        "artist": "Zara Larsson",
-        "title": "Lush Life",
-        "plays": 1
-      },
-      {
         "artist": "Muse",
         "title": "You Make Me Feel Like It’s Halloween",
         "plays": 1
@@ -116,28 +131,13 @@
         "plays": 1
       },
       {
-        "artist": "Noel Gallagher's High Flying Birds",
-        "title": "Pretty boy",
-        "plays": 1
-      },
-      {
         "artist": "David Guetta",
         "title": "Never Going Home Tonight (feat. Alesso & Madison Love)",
         "plays": 1
       },
       {
-        "artist": "Clean Bandit feat. Demi Lovato",
-        "title": "Solo",
-        "plays": 1
-      },
-      {
         "artist": "David Guetta; Teddy Swims; Tones and I",
         "title": "Gone Gone Gone",
-        "plays": 1
-      },
-      {
-        "artist": "We Are Scientists",
-        "title": "Less from You",
         "plays": 1
       },
       {
@@ -463,6 +463,36 @@
       {
         "artist": "SDP",
         "title": "Ich Muss Immer An Dich Denken",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "don't lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "Black Country Communion",
+        "title": "Skyway",
+        "plays": 1
+      },
+      {
+        "artist": "Zsá Zsá",
+        "title": "Bad Bunnies",
+        "plays": 1
+      },
+      {
+        "artist": "Jungle",
+        "title": "Busy Earnin'",
+        "plays": 1
+      },
+      {
+        "artist": "Paula Stellar",
+        "title": "Pretty Pretty Lies",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "No Tears Left To Cry",
         "plays": 1
       }
     ],
