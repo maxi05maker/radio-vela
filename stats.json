@@ -2,12 +2,17 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 71,
-    "music_entries": 67,
+    "total_entries": 76,
+    "music_entries": 72,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 2
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
         "plays": 2
       },
       {
@@ -153,11 +158,6 @@
       {
         "artist": "Giant Rooks",
         "title": "Cold Wars",
-        "plays": 1
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
         "plays": 1
       },
       {
@@ -333,6 +333,26 @@
       {
         "artist": "GHOST",
         "title": "Call Me Little Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "FAYAN (feat. Dalton)",
+        "title": "VERLIEBT IN MICH",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Santa's Coming For Us",
+        "plays": 1
+      },
+      {
+        "artist": "ROSÉ & Bruno Mars",
+        "title": "APT.",
         "plays": 1
       }
     ],
