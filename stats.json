@@ -2,12 +2,62 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 1,
-    "music_entries": 1,
+    "total_entries": 11,
+    "music_entries": 11,
     "songs": [
       {
         "artist": "Ariana Grande",
         "title": "twilight zone",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Black Summer",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello",
+        "title": "Don't Go Yet",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+        "plays": 1
+      },
+      {
+        "artist": "Wincent Weiss",
+        "title": "Wer wenn nicht wir",
+        "plays": 1
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "29",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Daisies",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "party 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Malibu",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Wenn ich tot bin, fang ich wieder an",
         "plays": 1
       }
     ],
