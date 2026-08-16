@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 11,
-    "music_entries": 11,
+    "total_entries": 21,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Ariana Grande",
@@ -58,6 +58,51 @@
       {
         "artist": "Kraftklub",
         "title": "Wenn ich tot bin, fang ich wieder an",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Gwen Stefani",
+        "title": "Swallow My Tears",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "plays": 1
+      },
+      {
+        "artist": "Boy",
+        "title": "We Were Here",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "küss mich doch",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "plays": 1
+      },
+      {
+        "artist": "Muse",
+        "title": "You Make Me Feel Like It’s Halloween",
+        "plays": 1
+      },
+      {
+        "artist": "Take That",
+        "title": "Sweet July",
         "plays": 1
       }
     ],
