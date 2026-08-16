@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 153,
-    "music_entries": 146,
+    "total_entries": 163,
+    "music_entries": 155,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -103,6 +103,21 @@
       {
         "artist": "Lewis Capaldi",
         "title": "Someone You Loved",
+        "plays": 2
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "One Call Away",
+        "plays": 2
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Love Yourself",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 2
       },
       {
@@ -286,11 +301,6 @@
         "plays": 1
       },
       {
-        "artist": "Charlie Puth",
-        "title": "One Call Away",
-        "plays": 1
-      },
-      {
         "artist": "Phoenix feat. Ezra Koenig",
         "title": "Tonight (feat. Ezra Koenig)",
         "plays": 1
@@ -298,11 +308,6 @@
       {
         "artist": "Clean Bandit & Anne-Marie & David Guetta",
         "title": "Cry Baby (SUNSHINE-BANGER)",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Bieber",
-        "title": "Love Yourself",
         "plays": 1
       },
       {
@@ -338,11 +343,6 @@
       {
         "artist": "FAYAN (feat. Dalton)",
         "title": "VERLIEBT IN MICH",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -623,6 +623,36 @@
       {
         "artist": "BTS",
         "title": "SWIM",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "Wie schön du bist",
+        "plays": 1
+      },
+      {
+        "artist": "Shellac",
+        "title": "Scabby the Rat",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "La Cintura",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Minimum",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
+        "plays": 1
+      },
+      {
+        "artist": "Spelling",
+        "title": "Portrait Of My Heart",
         "plays": 1
       }
     ],
