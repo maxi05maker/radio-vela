@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 180,
-    "music_entries": 172,
+    "total_entries": 190,
+    "music_entries": 182,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -116,6 +116,11 @@
         "plays": 2
       },
       {
+        "artist": "Bosse",
+        "title": "Der Letzte Tanz",
+        "plays": 2
+      },
+      {
         "artist": "Iron Maiden",
         "title": "Senjutsu",
         "plays": 2
@@ -133,6 +138,26 @@
       {
         "artist": "George Ezra",
         "title": "Budapest",
+        "plays": 2
+      },
+      {
+        "artist": "Kummer",
+        "title": "Bei Dir",
+        "plays": 2
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 2
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Du tust mir nie mehr weh",
+        "plays": 2
+      },
+      {
+        "artist": "twocolors, Pascal Letoublon",
+        "title": "Break Up",
         "plays": 2
       },
       {
@@ -331,11 +356,6 @@
         "plays": 1
       },
       {
-        "artist": "Bosse",
-        "title": "Der Letzte Tanz",
-        "plays": 1
-      },
-      {
         "artist": "amaarae",
         "title": "S.M.O.",
         "plays": 1
@@ -371,11 +391,6 @@
         "plays": 1
       },
       {
-        "artist": "Kummer",
-        "title": "Bei Dir",
-        "plays": 1
-      },
-      {
         "artist": "Kaleo",
         "title": "Way Down We Go",
         "plays": 1
@@ -383,11 +398,6 @@
       {
         "artist": "Levin Liam",
         "title": "Aufwachen feat. Reezy",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Wenn du liebst [feat. Kat Frankie]",
         "plays": 1
       },
       {
@@ -406,11 +416,6 @@
         "plays": 1
       },
       {
-        "artist": "AnnenMayKantereit",
-        "title": "Du tust mir nie mehr weh",
-        "plays": 1
-      },
-      {
         "artist": "Felix Jaehn",
         "title": "Ready For Your Love",
         "plays": 1
@@ -423,11 +428,6 @@
       {
         "artist": "Damiano David, Tyla, Nile Rodgers",
         "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
-        "plays": 1
-      },
-      {
-        "artist": "twocolors, Pascal Letoublon",
-        "title": "Break Up",
         "plays": 1
       },
       {
@@ -718,6 +718,31 @@
       {
         "artist": "Shaboozey",
         "title": "Bar Song (Tipsy)",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Lift Me Up",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "plays": 1
+      },
+      {
+        "artist": "Celo & Abdi",
+        "title": "Azzlack Style feat. Haftbefehl",
+        "plays": 1
+      },
+      {
+        "artist": "Keith Richards",
+        "title": "Crosseyed Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Fliegen",
         "plays": 1
       }
     ],
