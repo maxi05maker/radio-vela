@@ -730,5 +730,41 @@
     "played_at": "2026-08-16 19:36:47 +0200",
     "title": "Auf das, was da noch kommt",
     "artist": "LOTTE & Max Giesinger"
+  },
+  {
+    "key": "2026-08-16 19:40:17 +0200|Broken Sunshine|Michael Schulte",
+    "played_at": "2026-08-16 19:40:17 +0200",
+    "title": "Broken Sunshine",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-08-16 19:43:12 +0200|Neuanfang|Clueso",
+    "played_at": "2026-08-16 19:43:12 +0200",
+    "title": "Neuanfang",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-08-16 19:46:19 +0200|Small Steps|Tom Gregory",
+    "played_at": "2026-08-16 19:46:19 +0200",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-08-16 19:49:05 +0200|I Never Loved You|Halsey",
+    "played_at": "2026-08-16 19:49:05 +0200",
+    "title": "I Never Loved You",
+    "artist": "Halsey"
+  },
+  {
+    "key": "2026-08-16 19:53:15 +0200|Don't Start Now|Dua Lipa",
+    "played_at": "2026-08-16 19:53:15 +0200",
+    "title": "Don't Start Now",
+    "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-08-16 19:56:16 +0200|Hymn For The Weekend|Coldplay",
+    "played_at": "2026-08-16 19:56:16 +0200",
+    "title": "Hymn For The Weekend",
+    "artist": "Coldplay"
   }
 ]

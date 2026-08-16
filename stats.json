@@ -2,9 +2,14 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 122,
-    "music_entries": 115,
+    "total_entries": 128,
+    "music_entries": 121,
     "songs": [
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 3
+      },
       {
         "artist": "Benson Boone",
         "title": "Slow It Down",
@@ -13,11 +18,6 @@
       {
         "artist": "Shawn Mendes",
         "title": "In My Blood",
-        "plays": 2
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -43,6 +43,11 @@
       {
         "artist": "We Are Scientists",
         "title": "Less from You",
+        "plays": 2
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Hymn For The Weekend",
         "plays": 2
       },
       {
@@ -183,11 +188,6 @@
       {
         "artist": "Taylor Swift",
         "title": "The Fate of Ophelia",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "Hymn For The Weekend",
         "plays": 1
       },
       {
@@ -534,11 +534,31 @@
         "artist": "LOTTE & Max Giesinger",
         "title": "Auf das, was da noch kommt",
         "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Broken Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Neuanfang",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "I Never Loved You",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Benson Boone",
-      "title": "Slow It Down",
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
       "plays": 3
     }
   }
