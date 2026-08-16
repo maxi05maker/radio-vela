@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 76,
-    "music_entries": 72,
+    "total_entries": 86,
+    "music_entries": 80,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -353,6 +353,46 @@
       {
         "artist": "ROSÉ & Bruno Mars",
         "title": "APT.",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Budapest",
+        "plays": 1
+      },
+      {
+        "artist": "Kehlani",
+        "title": "Shoulda Never (feat. USHER)",
+        "plays": 1
+      },
+      {
+        "artist": "Kummer",
+        "title": "Bei Dir",
+        "plays": 1
+      },
+      {
+        "artist": "Kaleo",
+        "title": "Way Down We Go",
+        "plays": 1
+      },
+      {
+        "artist": "Levin Liam",
+        "title": "Aufwachen feat. Reezy",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 1
+      },
+      {
+        "artist": "Sampa The Great",
+        "title": "Can't Hold Us",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
         "plays": 1
       }
     ],
