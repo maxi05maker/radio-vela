@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 128,
-    "music_entries": 121,
+    "total_entries": 138,
+    "music_entries": 131,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -48,6 +48,31 @@
       {
         "artist": "Coldplay",
         "title": "Hymn For The Weekend",
+        "plays": 2
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "Cloud 9",
+        "plays": 2
+      },
+      {
+        "artist": "Mark Forster",
+        "title": "Sowieso",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 2
+      },
+      {
+        "artist": "Panic! At The Disco",
+        "title": "Middle of a breakup",
+        "plays": 2
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Only Human",
         "plays": 2
       },
       {
@@ -201,16 +226,6 @@
         "plays": 1
       },
       {
-        "artist": "Jamiroquai",
-        "title": "Cloud 9",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster",
-        "title": "Sowieso",
-        "plays": 1
-      },
-      {
         "artist": "Avalon Emerson",
         "title": "Eden",
         "plays": 1
@@ -241,23 +256,8 @@
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
         "artist": "Halsey",
         "title": "Ego",
-        "plays": 1
-      },
-      {
-        "artist": "Panic! At The Disco",
-        "title": "Middle of a breakup",
-        "plays": 1
-      },
-      {
-        "artist": "Jonas Brothers",
-        "title": "Only Human",
         "plays": 1
       },
       {
@@ -553,6 +553,31 @@
       {
         "artist": "Dua Lipa",
         "title": "Don't Start Now",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Ein Herz kann man nicht reparieren",
+        "plays": 1
+      },
+      {
+        "artist": "Hinterlandgang",
+        "title": "Gästeliste",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Lust For Life (feat. The Weeknd)",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
         "plays": 1
       }
     ],
