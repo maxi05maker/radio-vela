@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 165,
-    "music_entries": 157,
+    "total_entries": 170,
+    "music_entries": 162,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -113,6 +113,11 @@
       {
         "artist": "Justin Bieber",
         "title": "Love Yourself",
+        "plays": 2
+      },
+      {
+        "artist": "GHOST",
+        "title": "Call Me Little Sunshine",
         "plays": 2
       },
       {
@@ -333,11 +338,6 @@
       {
         "artist": "Gorillaz",
         "title": "The Moon Cave",
-        "plays": 1
-      },
-      {
-        "artist": "GHOST",
-        "title": "Call Me Little Sunshine",
         "plays": 1
       },
       {
@@ -663,6 +663,26 @@
       {
         "artist": "David Guetta, Alphaville, Ava Max",
         "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 1
+      },
+      {
+        "artist": "Turnstile",
+        "title": "NEVER ENOUGH",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Something In The Way You Move",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Jake Shears",
+        "title": "Fire + Ice (Radio Edit)",
         "plays": 1
       }
     ],
