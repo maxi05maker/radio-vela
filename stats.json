@@ -2,9 +2,14 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 41,
-    "music_entries": 38,
+    "total_entries": 51,
+    "music_entries": 48,
     "songs": [
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 2
+      },
       {
         "artist": "Ariana Grande",
         "title": "twilight zone",
@@ -63,11 +68,6 @@
       {
         "artist": "Shawn Mendes",
         "title": "In My Blood",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -194,12 +194,57 @@
         "artist": "Lena x Nico Santos",
         "title": "Better",
         "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "tau mich auf",
+        "plays": 1
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "Cloud 9",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster",
+        "title": "Sowieso",
+        "plays": 1
+      },
+      {
+        "artist": "Avalon Emerson",
+        "title": "Eden",
+        "plays": 1
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams & Jesse & Joy",
+        "title": "Human (feat. Jesse & Joy)",
+        "plays": 1
+      },
+      {
+        "artist": "Namika feat. Black M",
+        "title": "Je Ne Parle Pas Français (Beatgees Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "Jingle Service",
+        "title": "Wochenende Kopf frei",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Pazifik",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Ariana Grande",
-      "title": "twilight zone",
-      "plays": 1
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
+      "plays": 2
     }
   }
 }
