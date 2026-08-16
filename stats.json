@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 61,
-    "music_entries": 58,
+    "total_entries": 71,
+    "music_entries": 67,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -288,6 +288,51 @@
       {
         "artist": "Charlie Puth",
         "title": "One Call Away",
+        "plays": 1
+      },
+      {
+        "artist": "Phoenix feat. Ezra Koenig",
+        "title": "Tonight (feat. Ezra Koenig)",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit & Anne-Marie & David Guetta",
+        "title": "Cry Baby (SUNSHINE-BANGER)",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Love Yourself",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Der Letzte Tanz",
+        "plays": 1
+      },
+      {
+        "artist": "amaarae",
+        "title": "S.M.O.",
+        "plays": 1
+      },
+      {
+        "artist": "Burak Yeter feat. Danelle Sandoval",
+        "title": "Tuesday",
+        "plays": 1
+      },
+      {
+        "artist": "Iron Maiden",
+        "title": "Senjutsu",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "The Moon Cave",
+        "plays": 1
+      },
+      {
+        "artist": "GHOST",
+        "title": "Call Me Little Sunshine",
         "plays": 1
       }
     ],
