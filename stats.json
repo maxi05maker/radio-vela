@@ -2,12 +2,17 @@
   "2026-08-15 07:00": {
     "period_start": "2026-08-15T07:00:00+02:00",
     "period_end": "2026-08-16T07:00:00+02:00",
-    "total_entries": 195,
-    "music_entries": 184,
+    "total_entries": 205,
+    "music_entries": 193,
     "songs": [
       {
         "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
         "title": "Sommer",
+        "plays": 3
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 3
       },
       {
@@ -41,11 +46,6 @@
         "plays": 2
       },
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 2
-      },
-      {
         "artist": "Wincent Weiss",
         "title": "Hier mit dir",
         "plays": 2
@@ -71,6 +71,11 @@
         "plays": 2
       },
       {
+        "artist": "Wavves",
+        "title": "Goner",
+        "plays": 2
+      },
+      {
         "artist": "Max Giesinger",
         "title": "Der letzte Tag",
         "plays": 2
@@ -78,6 +83,21 @@
       {
         "artist": "Álvaro Soler",
         "title": "Magia",
+        "plays": 2
+      },
+      {
+        "artist": "Kygo & OneRepublic",
+        "title": "Lose Somebody",
+        "plays": 2
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Take My Breath",
+        "plays": 2
+      },
+      {
+        "artist": "Alex Clare",
+        "title": "Too Close",
         "plays": 2
       },
       {
@@ -431,11 +451,6 @@
         "plays": 1
       },
       {
-        "artist": "Wavves",
-        "title": "Goner",
-        "plays": 1
-      },
-      {
         "artist": "Nico Santos feat. Alvaro Soler",
         "title": "Unforgettable",
         "plays": 1
@@ -586,11 +601,6 @@
         "plays": 1
       },
       {
-        "artist": "Kygo & OneRepublic",
-        "title": "Lose Somebody",
-        "plays": 1
-      },
-      {
         "artist": "Zartmann",
         "title": "tau mich auf",
         "plays": 1
@@ -616,11 +626,6 @@
         "plays": 1
       },
       {
-        "artist": "The Weeknd",
-        "title": "Take My Breath",
-        "plays": 1
-      },
-      {
         "artist": "Lady Gaga, Doechii",
         "title": "Runway",
         "plays": 1
@@ -633,11 +638,6 @@
       {
         "artist": "Bosse",
         "title": "peu à peu",
-        "plays": 1
-      },
-      {
-        "artist": "Alex Clare",
-        "title": "Too Close",
         "plays": 1
       },
       {
@@ -843,6 +843,26 @@
       {
         "artist": "Charli xcx",
         "title": "party 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "The Lemonheads",
+        "title": "Deep End",
+        "plays": 1
+      },
+      {
+        "artist": "Marteria",
+        "title": "Lila Wolken",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Illegal",
         "plays": 1
       }
     ],
