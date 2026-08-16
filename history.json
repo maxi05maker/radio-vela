@@ -976,5 +976,17 @@
     "played_at": "2026-08-16 23:30:00 +0200",
     "title": "Love Yourself",
     "artist": "Justin Bieber"
+  },
+  {
+    "key": "2026-08-16 23:33:54 +0200|Dye My Hair|Alma",
+    "played_at": "2026-08-16 23:33:54 +0200",
+    "title": "Dye My Hair",
+    "artist": "Alma"
+  },
+  {
+    "key": "2026-08-16 23:37:22 +0200|Forever Young|David Guetta, Alphaville, Ava Max",
+    "played_at": "2026-08-16 23:37:22 +0200",
+    "title": "Forever Young",
+    "artist": "David Guetta, Alphaville, Ava Max"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 163,
-    "music_entries": 155,
+    "total_entries": 165,
+    "music_entries": 157,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -653,6 +653,16 @@
       {
         "artist": "Spelling",
         "title": "Portrait Of My Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Alma",
+        "title": "Dye My Hair",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville, Ava Max",
+        "title": "Forever Young",
         "plays": 1
       }
     ],
