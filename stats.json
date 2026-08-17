@@ -2,13 +2,18 @@
   "2026-08-17 07:00": {
     "period_start": "2026-08-17T07:00:00+02:00",
     "period_end": "2026-08-18T07:00:00+02:00",
-    "total_entries": 114,
-    "music_entries": 109,
+    "total_entries": 124,
+    "music_entries": 119,
     "songs": [
       {
         "artist": "AYLIVA feat. Mero",
         "title": "Sie weiß",
         "plays": 3
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
+        "plays": 2
       },
       {
         "artist": "Gorillaz",
@@ -66,9 +71,9 @@
         "plays": 2
       },
       {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
-        "plays": 1
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 2
       },
       {
         "artist": "Michael Schulte, R3HAB",
@@ -406,11 +411,6 @@
         "plays": 1
       },
       {
-        "artist": "Shirin David",
-        "title": "Ich darf das",
-        "plays": 1
-      },
-      {
         "artist": "Tom Gregory",
         "title": "Dance With Me",
         "plays": 1
@@ -483,6 +483,46 @@
       {
         "artist": "Charli XCX",
         "title": "My Reminder",
+        "plays": 1
+      },
+      {
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "tout",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shape of You",
+        "plays": 1
+      },
+      {
+        "artist": "Fynn Kliemann",
+        "title": "TOD",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Less Than Zero",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "I Never Loved You",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel X Jax Jones X Galatis",
+        "title": "Good Luck",
         "plays": 1
       }
     ],
