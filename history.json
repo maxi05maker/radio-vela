@@ -1480,5 +1480,65 @@
     "played_at": "2026-08-17 13:46:45 +0200",
     "title": "Blinding Lights (Remix)",
     "artist": "The Weekend & Rosalia"
+  },
+  {
+    "key": "2026-08-17 15:24:48 +0200|Dancing With A Stranger|Sam Smith & Normani",
+    "played_at": "2026-08-17 15:24:48 +0200",
+    "title": "Dancing With A Stranger",
+    "artist": "Sam Smith & Normani"
+  },
+  {
+    "key": "2026-08-17 15:27:39 +0200|Love Again|Dua Lipa",
+    "played_at": "2026-08-17 15:27:39 +0200",
+    "title": "Love Again",
+    "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-08-17 15:31:57 +0200|Smugglers & Scholars|KNEECAP",
+    "played_at": "2026-08-17 15:31:57 +0200",
+    "title": "Smugglers & Scholars",
+    "artist": "KNEECAP"
+  },
+  {
+    "key": "2026-08-17 15:35:09 +0200|Bungalow|Bilderbuch",
+    "played_at": "2026-08-17 15:35:09 +0200",
+    "title": "Bungalow",
+    "artist": "Bilderbuch"
+  },
+  {
+    "key": "2026-08-17 15:38:55 +0200|Don't Shut Me Down|ABBA",
+    "played_at": "2026-08-17 15:38:55 +0200",
+    "title": "Don't Shut Me Down",
+    "artist": "ABBA"
+  },
+  {
+    "key": "2026-08-17 15:42:51 +0200|Open Hearts|The Weeknd",
+    "played_at": "2026-08-17 15:42:51 +0200",
+    "title": "Open Hearts",
+    "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-08-17 15:46:20 +0200|Wer wenn nicht wir|Wincent Weiss",
+    "played_at": "2026-08-17 15:46:20 +0200",
+    "title": "Wer wenn nicht wir",
+    "artist": "Wincent Weiss"
+  },
+  {
+    "key": "2026-08-17 15:49:03 +0200|Will ich nur dich|Drangsal",
+    "played_at": "2026-08-17 15:49:03 +0200",
+    "title": "Will ich nur dich",
+    "artist": "Drangsal"
+  },
+  {
+    "key": "2026-08-17 15:51:35 +0200|Interstellar (Zwischen den Sternen)|Sarah Connor & Sido",
+    "played_at": "2026-08-17 15:51:35 +0200",
+    "title": "Interstellar (Zwischen den Sternen)",
+    "artist": "Sarah Connor & Sido"
+  },
+  {
+    "key": "2026-08-17 15:54:03 +0200|Physical|Dua Lipa",
+    "played_at": "2026-08-17 15:54:03 +0200",
+    "title": "Physical",
+    "artist": "Dua Lipa"
   }
 ]
