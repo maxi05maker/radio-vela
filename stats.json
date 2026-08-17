@@ -2,8 +2,8 @@
   "2026-08-17 07:00": {
     "period_start": "2026-08-17T07:00:00+02:00",
     "period_end": "2026-08-18T07:00:00+02:00",
-    "total_entries": 37,
-    "music_entries": 35,
+    "total_entries": 47,
+    "music_entries": 45,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -178,6 +178,56 @@
       {
         "artist": "Daya",
         "title": "Bad Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Mine",
+        "title": "Elefant",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "Ninety – Two",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Meghan Trainor",
+        "title": "Marvin Gaye",
+        "plays": 1
+      },
+      {
+        "artist": "Simon & Garfunkel",
+        "title": "Cecilia",
+        "plays": 1
+      },
+      {
+        "artist": "Saja Boys",
+        "title": "Soda Pop",
+        "plays": 1
+      },
+      {
+        "artist": "Sunrise Avenue",
+        "title": "Lifesaver",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "Drum Show",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "The Hills",
+        "plays": 1
+      },
+      {
+        "artist": "The Weekend & Rosalia",
+        "title": "Blinding Lights (Remix)",
         "plays": 1
       }
     ],
