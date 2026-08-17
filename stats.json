@@ -2,8 +2,8 @@
   "2026-08-17 07:00": {
     "period_start": "2026-08-17T07:00:00+02:00",
     "period_end": "2026-08-18T07:00:00+02:00",
-    "total_entries": 17,
-    "music_entries": 16,
+    "total_entries": 27,
+    "music_entries": 26,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -83,6 +83,56 @@
       {
         "artist": "Robin Schulz feat. Alida",
         "title": "In Your Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Fingertips",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Dead Dance",
+        "plays": 1
+      },
+      {
+        "artist": "The Neighbourhood",
+        "title": "Sweater Weather",
+        "plays": 1
+      },
+      {
+        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
+        "title": "Best Friend",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Daisies",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA feat. Mero",
+        "title": "Sie weiß",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "Beggin'",
+        "plays": 1
+      },
+      {
+        "artist": "Trettmann",
+        "title": "Haus Aus Zink feat. Luna",
+        "plays": 1
+      },
+      {
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey feat. Kool Savas",
+        "title": "Is It Love?",
         "plays": 1
       }
     ],
