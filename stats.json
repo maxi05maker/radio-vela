@@ -2,8 +2,8 @@
   "2026-08-16 07:00": {
     "period_start": "2026-08-16T07:00:00+02:00",
     "period_end": "2026-08-17T07:00:00+02:00",
-    "total_entries": 190,
-    "music_entries": 182,
+    "total_entries": 200,
+    "music_entries": 191,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -14,6 +14,11 @@
         "artist": "Benson Boone",
         "title": "Slow It Down",
         "plays": 3
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
+        "plays": 2
       },
       {
         "artist": "Shawn Mendes",
@@ -203,11 +208,6 @@
       {
         "artist": "Charli xcx",
         "title": "party 4 u",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Dance With Me",
         "plays": 1
       },
       {
@@ -743,6 +743,46 @@
       {
         "artist": "Nina Chuba",
         "title": "Fliegen",
+        "plays": 1
+      },
+      {
+        "artist": "Marlon Roudette",
+        "title": "When The Beat Drops Out",
+        "plays": 1
+      },
+      {
+        "artist": "Blu & Exile",
+        "title": "Soul Unusual",
+        "plays": 1
+      },
+      {
+        "artist": "The Weekend & Rosalia",
+        "title": "Blinding Lights (Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "The Neighbourhood",
+        "title": "Sweater Weather",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "The Hills",
+        "plays": 1
+      },
+      {
+        "artist": "Vance Joy",
+        "title": "Riptide",
+        "plays": 1
+      },
+      {
+        "artist": "Midlake",
+        "title": "07 The Calling",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Meghan Trainor",
+        "title": "Marvin Gaye",
         "plays": 1
       }
     ],
