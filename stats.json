@@ -2,8 +2,8 @@
   "2026-08-17 07:00": {
     "period_start": "2026-08-17T07:00:00+02:00",
     "period_end": "2026-08-18T07:00:00+02:00",
-    "total_entries": 7,
-    "music_entries": 6,
+    "total_entries": 17,
+    "music_entries": 16,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -33,6 +33,56 @@
       {
         "artist": "Robbie Williams",
         "title": "Forbidden Road (From Better Man Original Motion Picture Soundtrack)",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello",
+        "title": "Don't Go Yet",
+        "plays": 1
+      },
+      {
+        "artist": "Flo Milli",
+        "title": "Big Steppa",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shivers",
+        "plays": 1
+      },
+      {
+        "artist": "Toto",
+        "title": "Running out of Time",
+        "plays": 1
+      },
+      {
+        "artist": "Ziggy in tha House",
+        "title": "It's Raining",
+        "plays": 1
+      },
+      {
+        "artist": "Blackpink",
+        "title": "Pink Venom",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "Baby Queen",
+        "plays": 1
+      },
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "Club Song",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. Alida",
+        "title": "In Your Eyes",
         "plays": 1
       }
     ],
