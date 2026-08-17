@@ -2,9 +2,14 @@
   "2026-08-17 07:00": {
     "period_start": "2026-08-17T07:00:00+02:00",
     "period_end": "2026-08-18T07:00:00+02:00",
-    "total_entries": 57,
-    "music_entries": 55,
+    "total_entries": 67,
+    "music_entries": 65,
     "songs": [
+      {
+        "artist": "Robin Schulz feat. Alida",
+        "title": "In Your Eyes",
+        "plays": 2
+      },
       {
         "artist": "Michael Schulte",
         "title": "Here Goes Nothing",
@@ -78,11 +83,6 @@
       {
         "artist": "The Pussycat Dolls",
         "title": "Club Song",
-        "plays": 1
-      },
-      {
-        "artist": "Robin Schulz feat. Alida",
-        "title": "In Your Eyes",
         "plays": 1
       },
       {
@@ -279,12 +279,57 @@
         "artist": "Dua Lipa",
         "title": "Physical",
         "plays": 1
+      },
+      {
+        "artist": "Rea Garvey",
+        "title": "Kiss Me",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster, LEA",
+        "title": "Drei Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Rosalía",
+        "title": "Dios Es un Stalker",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Oimara, Melissa Naschenweng",
+        "title": "Koa Bergbauernbua",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit feat. Demi Lovato",
+        "title": "Solo",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Easy On Me",
+        "plays": 1
+      },
+      {
+        "artist": "Airbourne",
+        "title": "Kid In A Candy Store",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Michael Schulte",
-      "title": "Here Goes Nothing",
-      "plays": 1
+      "artist": "Robin Schulz feat. Alida",
+      "title": "In Your Eyes",
+      "plays": 2
     }
   }
 }
