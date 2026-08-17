@@ -2,8 +2,8 @@
   "2026-08-17 07:00": {
     "period_start": "2026-08-17T07:00:00+02:00",
     "period_end": "2026-08-18T07:00:00+02:00",
-    "total_entries": 97,
-    "music_entries": 93,
+    "total_entries": 104,
+    "music_entries": 100,
     "songs": [
       {
         "artist": "AYLIVA feat. Mero",
@@ -413,6 +413,41 @@
       {
         "artist": "Tom Gregory",
         "title": "Dance With Me",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd/Anitta",
+        "title": "São Paulo",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Let it die",
         "plays": 1
       }
     ],
