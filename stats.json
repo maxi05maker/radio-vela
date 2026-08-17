@@ -2,8 +2,8 @@
   "2026-08-17 07:00": {
     "period_start": "2026-08-17T07:00:00+02:00",
     "period_end": "2026-08-18T07:00:00+02:00",
-    "total_entries": 27,
-    "music_entries": 26,
+    "total_entries": 37,
+    "music_entries": 35,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -133,6 +133,51 @@
       {
         "artist": "Rea Garvey feat. Kool Savas",
         "title": "Is It Love?",
+        "plays": 1
+      },
+      {
+        "artist": "Elle King",
+        "title": "Ex's & Oh's",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "I'M HIS, HE'S MINE ft. Doechii",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "Will.I.Am ft Britney Spears",
+        "title": "Scream And Shout",
+        "plays": 1
+      },
+      {
+        "artist": "GLENN HUGHES",
+        "title": "BLACK CAT MOAN",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd (feat. Daft Punk)",
+        "title": "I Feel It Coming",
+        "plays": 1
+      },
+      {
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "Turnstile",
+        "title": "Birds",
+        "plays": 1
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
         "plays": 1
       }
     ],
