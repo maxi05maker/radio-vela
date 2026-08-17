@@ -2,12 +2,27 @@
   "2026-08-17 07:00": {
     "period_start": "2026-08-17T07:00:00+02:00",
     "period_end": "2026-08-18T07:00:00+02:00",
-    "total_entries": 67,
-    "music_entries": 65,
+    "total_entries": 77,
+    "music_entries": 74,
     "songs": [
       {
         "artist": "Robin Schulz feat. Alida",
         "title": "In Your Eyes",
+        "plays": 2
+      },
+      {
+        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
+        "title": "Best Friend",
+        "plays": 2
+      },
+      {
+        "artist": "AYLIVA feat. Mero",
+        "title": "Sie weiß",
+        "plays": 2
+      },
+      {
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
         "plays": 2
       },
       {
@@ -101,18 +116,8 @@
         "plays": 1
       },
       {
-        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
-        "title": "Best Friend",
-        "plays": 1
-      },
-      {
         "artist": "Justin Bieber",
         "title": "Daisies",
-        "plays": 1
-      },
-      {
-        "artist": "AYLIVA feat. Mero",
-        "title": "Sie weiß",
         "plays": 1
       },
       {
@@ -123,11 +128,6 @@
       {
         "artist": "Trettmann",
         "title": "Haus Aus Zink feat. Luna",
-        "plays": 1
-      },
-      {
-        "artist": "Lea",
-        "title": "Wenn Du Mich Lässt",
         "plays": 1
       },
       {
@@ -323,6 +323,36 @@
       {
         "artist": "Airbourne",
         "title": "Kid In A Candy Store",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Thunder",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig Feat. Greeen",
+        "title": "Eh Zu Kurz",
+        "plays": 1
+      },
+      {
+        "artist": "Griff",
+        "title": "Black Hole",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers & Coldplay",
+        "title": "Something Just Like This",
+        "plays": 1
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "Look at My Life",
+        "plays": 1
+      },
+      {
+        "artist": "Muse",
+        "title": "Nightshift Superstar",
         "plays": 1
       }
     ],
