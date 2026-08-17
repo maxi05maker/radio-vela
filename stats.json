@@ -2,8 +2,8 @@
   "2026-08-17 07:00": {
     "period_start": "2026-08-17T07:00:00+02:00",
     "period_end": "2026-08-18T07:00:00+02:00",
-    "total_entries": 104,
-    "music_entries": 100,
+    "total_entries": 114,
+    "music_entries": 109,
     "songs": [
       {
         "artist": "AYLIVA feat. Mero",
@@ -41,6 +41,11 @@
         "plays": 2
       },
       {
+        "artist": "Elle King",
+        "title": "Ex's & Oh's",
+        "plays": 2
+      },
+      {
         "artist": "Sia",
         "title": "Together",
         "plays": 2
@@ -53,6 +58,11 @@
       {
         "artist": "Daya",
         "title": "Bad Girl",
+        "plays": 2
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
         "plays": 2
       },
       {
@@ -148,11 +158,6 @@
       {
         "artist": "Trettmann",
         "title": "Haus Aus Zink feat. Luna",
-        "plays": 1
-      },
-      {
-        "artist": "Elle King",
-        "title": "Ex's & Oh's",
         "plays": 1
       },
       {
@@ -293,11 +298,6 @@
       {
         "artist": "Rosalía",
         "title": "Dios Es un Stalker",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Bad Liar",
         "plays": 1
       },
       {
@@ -448,6 +448,41 @@
       {
         "artist": "Ellie Goulding",
         "title": "Let it die",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Ready For Your Love",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
+        "plays": 1
+      },
+      {
+        "artist": "Mumford & Sons",
+        "title": "The Banjo Song",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "About You",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Saweetie",
+        "title": "Birthday feat. Tyga & YG",
+        "plays": 1
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "My Reminder",
         "plays": 1
       }
     ],
