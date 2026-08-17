@@ -1198,5 +1198,47 @@
     "played_at": "2026-08-17 05:14:22 +0200",
     "title": "Marvin Gaye",
     "artist": "Charlie Puth feat. Meghan Trainor"
+  },
+  {
+    "key": "2026-08-17 07:00:38 +0200|Here Goes Nothing|Michael Schulte",
+    "played_at": "2026-08-17 07:00:38 +0200",
+    "title": "Here Goes Nothing",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-08-17 07:03:49 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-17 07:03:49 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-17 07:06:47 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-08-17 07:06:47 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-08-17 07:09:05 +0200|Die Anderen feat. Blumengarten & Trettmann|Bazzazian",
+    "played_at": "2026-08-17 07:09:05 +0200",
+    "title": "Die Anderen feat. Blumengarten & Trettmann",
+    "artist": "Bazzazian"
+  },
+  {
+    "key": "2026-08-17 07:11:48 +0200|Shotgun|George Ezra",
+    "played_at": "2026-08-17 07:11:48 +0200",
+    "title": "Shotgun",
+    "artist": "George Ezra"
+  },
+  {
+    "key": "2026-08-17 07:15:09 +0200|If I Lose Myself|OneRepublic",
+    "played_at": "2026-08-17 07:15:09 +0200",
+    "title": "If I Lose Myself",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-08-17 07:19:07 +0200|Forbidden Road (From Better Man Original Motion Picture Soundtrack)|Robbie Williams",
+    "played_at": "2026-08-17 07:19:07 +0200",
+    "title": "Forbidden Road (From Better Man Original Motion Picture Soundtrack)",
+    "artist": "Robbie Williams"
   }
 ]
