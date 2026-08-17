@@ -2,9 +2,19 @@
   "2026-08-17 07:00": {
     "period_start": "2026-08-17T07:00:00+02:00",
     "period_end": "2026-08-18T07:00:00+02:00",
-    "total_entries": 87,
-    "music_entries": 83,
+    "total_entries": 97,
+    "music_entries": 93,
     "songs": [
+      {
+        "artist": "AYLIVA feat. Mero",
+        "title": "Sie weiß",
+        "plays": 3
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "Baby Queen",
+        "plays": 2
+      },
       {
         "artist": "Robin Schulz feat. Alida",
         "title": "In Your Eyes",
@@ -16,13 +26,18 @@
         "plays": 2
       },
       {
-        "artist": "AYLIVA feat. Mero",
-        "title": "Sie weiß",
+        "artist": "Måneskin",
+        "title": "Beggin'",
         "plays": 2
       },
       {
         "artist": "Lea",
         "title": "Wenn Du Mich Lässt",
+        "plays": 2
+      },
+      {
+        "artist": "Rea Garvey feat. Kool Savas",
+        "title": "Is It Love?",
         "plays": 2
       },
       {
@@ -33,6 +48,11 @@
       {
         "artist": "Will.I.Am ft Britney Spears",
         "title": "Scream And Shout",
+        "plays": 2
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
         "plays": 2
       },
       {
@@ -101,11 +121,6 @@
         "plays": 1
       },
       {
-        "artist": "Gorillaz",
-        "title": "Baby Queen",
-        "plays": 1
-      },
-      {
         "artist": "The Pussycat Dolls",
         "title": "Club Song",
         "plays": 1
@@ -131,18 +146,8 @@
         "plays": 1
       },
       {
-        "artist": "Måneskin",
-        "title": "Beggin'",
-        "plays": 1
-      },
-      {
         "artist": "Trettmann",
         "title": "Haus Aus Zink feat. Luna",
-        "plays": 1
-      },
-      {
-        "artist": "Rea Garvey feat. Kool Savas",
-        "title": "Is It Love?",
         "plays": 1
       },
       {
@@ -173,11 +178,6 @@
       {
         "artist": "Turnstile",
         "title": "Birds",
-        "plays": 1
-      },
-      {
-        "artist": "Daya",
-        "title": "Bad Girl",
         "plays": 1
       },
       {
@@ -389,12 +389,37 @@
         "artist": "Chris Cornell",
         "title": "Nearly Forgot My Broken Heart",
         "plays": 1
+      },
+      {
+        "artist": "No Angels",
+        "title": "When the Angels Sing",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Line",
+        "plays": 1
+      },
+      {
+        "artist": "Vance Joy",
+        "title": "Riptide",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Robin Schulz feat. Alida",
-      "title": "In Your Eyes",
-      "plays": 2
+      "artist": "AYLIVA feat. Mero",
+      "title": "Sie weiß",
+      "plays": 3
     }
   }
 }
