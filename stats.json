@@ -2,12 +2,17 @@
   "2026-08-18 07:00": {
     "period_start": "2026-08-18T07:00:00+02:00",
     "period_end": "2026-08-19T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 56,
+    "total_entries": 70,
+    "music_entries": 66,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -103,11 +108,6 @@
       {
         "artist": "Charlie Puth feat. Selena Gomez",
         "title": "We Don't Talk Anymore",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -273,6 +273,51 @@
       {
         "artist": "Flo Milli",
         "title": "Roaring 20s",
+        "plays": 1
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Smooth",
+        "plays": 1
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Hass auf den letzten Blick",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Shake It Off",
+        "plays": 1
+      },
+      {
+        "artist": "Kim Petras",
+        "title": "Brrr",
+        "plays": 1
+      },
+      {
+        "artist": "Ufo361 & Nina Chuba",
+        "title": "LIEBE (feat. Nina Chuba) [Explicit]",
+        "plays": 1
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Love Under Pressure",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Take My Breath",
+        "plays": 1
+      },
+      {
+        "artist": "Mika",
+        "title": "Modern Times",
         "plays": 1
       }
     ],
