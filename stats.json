@@ -2,8 +2,8 @@
   "2026-08-18 07:00": {
     "period_start": "2026-08-18T07:00:00+02:00",
     "period_end": "2026-08-19T07:00:00+02:00",
-    "total_entries": 82,
-    "music_entries": 78,
+    "total_entries": 92,
+    "music_entries": 88,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -373,6 +373,56 @@
       {
         "artist": "Jonas Brothers",
         "title": "Only Human",
+        "plays": 1
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Troubles A’ Comin",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "Little Simz",
+        "title": "Young",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "About You",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Let it die",
+        "plays": 1
+      },
+      {
+        "artist": "Nathan Evans",
+        "title": "Told You So",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
         "plays": 1
       }
     ],
