@@ -418,5 +418,65 @@
     "played_at": "2026-08-18 17:40:23 +0200",
     "title": "Modern Times",
     "artist": "Mika"
+  },
+  {
+    "key": "2026-08-18 18:20:52 +0200|Be Mine|Kamrad",
+    "played_at": "2026-08-18 18:20:52 +0200",
+    "title": "Be Mine",
+    "artist": "Kamrad"
+  },
+  {
+    "key": "2026-08-18 18:23:45 +0200|Cecilia|Simon & Garfunkel",
+    "played_at": "2026-08-18 18:23:45 +0200",
+    "title": "Cecilia",
+    "artist": "Simon & Garfunkel"
+  },
+  {
+    "key": "2026-08-18 18:26:40 +0200|Body Paint|Arctic Monkeys",
+    "played_at": "2026-08-18 18:26:40 +0200",
+    "title": "Body Paint",
+    "artist": "Arctic Monkeys"
+  },
+  {
+    "key": "2026-08-18 18:31:30 +0200|Ghost Town|Purple Disco Machine feat. Retrosonix",
+    "played_at": "2026-08-18 18:31:30 +0200",
+    "title": "Ghost Town",
+    "artist": "Purple Disco Machine feat. Retrosonix"
+  },
+  {
+    "key": "2026-08-18 18:35:18 +0200|Frei|Alli Neumann",
+    "played_at": "2026-08-18 18:35:18 +0200",
+    "title": "Frei",
+    "artist": "Alli Neumann"
+  },
+  {
+    "key": "2026-08-18 18:37:55 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-08-18 18:37:55 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-08-18 18:41:51 +0200|Scar On My Guitar|KADAVAR",
+    "played_at": "2026-08-18 18:41:51 +0200",
+    "title": "Scar On My Guitar",
+    "artist": "KADAVAR"
+  },
+  {
+    "key": "2026-08-18 18:45:05 +0200|Sommer|Beatzarre & Djorkaeff/LEA/Capital Bra",
+    "played_at": "2026-08-18 18:45:05 +0200",
+    "title": "Sommer",
+    "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra"
+  },
+  {
+    "key": "2026-08-18 18:48:05 +0200|Blurred Lines|Robin Thicke feat. Pharrell Williams & T.I.",
+    "played_at": "2026-08-18 18:48:05 +0200",
+    "title": "Blurred Lines",
+    "artist": "Robin Thicke feat. Pharrell Williams & T.I."
+  },
+  {
+    "key": "2026-08-18 18:52:28 +0200|Deja-Vu|Clueso",
+    "played_at": "2026-08-18 18:52:28 +0200",
+    "title": "Deja-Vu",
+    "artist": "Clueso"
   }
 ]

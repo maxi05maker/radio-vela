@@ -2,13 +2,13 @@
   "2026-08-18 07:00": {
     "period_start": "2026-08-18T07:00:00+02:00",
     "period_end": "2026-08-19T07:00:00+02:00",
-    "total_entries": 70,
-    "music_entries": 66,
+    "total_entries": 80,
+    "music_entries": 76,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
-        "plays": 2
+        "plays": 3
       },
       {
         "artist": "Tom Gregory",
@@ -319,12 +319,57 @@
         "artist": "Mika",
         "title": "Modern Times",
         "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "Be Mine",
+        "plays": 1
+      },
+      {
+        "artist": "Simon & Garfunkel",
+        "title": "Cecilia",
+        "plays": 1
+      },
+      {
+        "artist": "Arctic Monkeys",
+        "title": "Body Paint",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Retrosonix",
+        "title": "Ghost Town",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Frei",
+        "plays": 1
+      },
+      {
+        "artist": "KADAVAR",
+        "title": "Scar On My Guitar",
+        "plays": 1
+      },
+      {
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
+        "title": "Blurred Lines",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Deja-Vu",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Roy Bianco & Die Abbrunzati Boys",
       "title": "Bella Napoli",
-      "plays": 2
+      "plays": 3
     }
   }
 }
