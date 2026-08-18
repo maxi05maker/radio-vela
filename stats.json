@@ -2,8 +2,8 @@
   "2026-08-17 07:00": {
     "period_start": "2026-08-17T07:00:00+02:00",
     "period_end": "2026-08-18T07:00:00+02:00",
-    "total_entries": 134,
-    "music_entries": 129,
+    "total_entries": 144,
+    "music_entries": 139,
     "songs": [
       {
         "artist": "AYLIVA feat. Mero",
@@ -558,6 +558,56 @@
       {
         "artist": "Nina Chuba x Tokio Hotel",
         "title": "Fata Morgana",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta & Sia",
+        "title": "Beautiful People",
+        "plays": 1
+      },
+      {
+        "artist": "Alma",
+        "title": "Dye My Hair",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Love Yourself",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Sink Or Swim",
+        "plays": 1
+      },
+      {
+        "artist": "Reezy & Miksu / Macloud",
+        "title": "BABY DU WEISST",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "One Call Away",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "The Moon Cave",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
         "plays": 1
       }
     ],
