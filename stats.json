@@ -2,8 +2,8 @@
   "2026-08-18 07:00": {
     "period_start": "2026-08-18T07:00:00+02:00",
     "period_end": "2026-08-19T07:00:00+02:00",
-    "total_entries": 80,
-    "music_entries": 76,
+    "total_entries": 82,
+    "music_entries": 78,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -363,6 +363,16 @@
       {
         "artist": "Clueso",
         "title": "Deja-Vu",
+        "plays": 1
+      },
+      {
+        "artist": "M Huncho",
+        "title": "Lean feat. Giggs",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Only Human",
         "plays": 1
       }
     ],
