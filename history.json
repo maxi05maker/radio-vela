@@ -724,5 +724,65 @@
     "played_at": "2026-08-18 22:52:59 +0200",
     "title": "Lean feat. Giggs",
     "artist": "M Huncho"
+  },
+  {
+    "key": "2026-08-19 00:23:14 +0200|Strip|Lena",
+    "played_at": "2026-08-19 00:23:14 +0200",
+    "title": "Strip",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-08-19 00:26:01 +0200|São Paulo|The Weeknd/Anitta",
+    "played_at": "2026-08-19 00:26:01 +0200",
+    "title": "São Paulo",
+    "artist": "The Weeknd/Anitta"
+  },
+  {
+    "key": "2026-08-19 00:31:03 +0200|Less from You|We Are Scientists",
+    "played_at": "2026-08-19 00:31:03 +0200",
+    "title": "Less from You",
+    "artist": "We Are Scientists"
+  },
+  {
+    "key": "2026-08-19 00:34:45 +0200|Dirty Dancing|Glockenbach",
+    "played_at": "2026-08-19 00:34:45 +0200",
+    "title": "Dirty Dancing",
+    "artist": "Glockenbach"
+  },
+  {
+    "key": "2026-08-19 00:37:26 +0200|Streets Of Minneapolis|Bruce Springsteen",
+    "played_at": "2026-08-19 00:37:26 +0200",
+    "title": "Streets Of Minneapolis",
+    "artist": "Bruce Springsteen"
+  },
+  {
+    "key": "2026-08-19 00:41:56 +0200|Solo|Clean Bandit feat. Demi Lovato",
+    "played_at": "2026-08-19 00:41:56 +0200",
+    "title": "Solo",
+    "artist": "Clean Bandit feat. Demi Lovato"
+  },
+  {
+    "key": "2026-08-19 00:45:39 +0200|Love Under Pressure|James Blunt",
+    "played_at": "2026-08-19 00:45:39 +0200",
+    "title": "Love Under Pressure",
+    "artist": "James Blunt"
+  },
+  {
+    "key": "2026-08-19 00:48:19 +0200|BELOHNEN  feat. Ski Aggu, Bausa & BUNT.|FILLY",
+    "played_at": "2026-08-19 00:48:19 +0200",
+    "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
+    "artist": "FILLY"
+  },
+  {
+    "key": "2026-08-19 00:50:29 +0200|One Call Away|Charlie Puth",
+    "played_at": "2026-08-19 00:50:29 +0200",
+    "title": "One Call Away",
+    "artist": "Charlie Puth"
+  },
+  {
+    "key": "2026-08-19 00:53:42 +0200|Der letzte Tag|Max Giesinger",
+    "played_at": "2026-08-19 00:53:42 +0200",
+    "title": "Der letzte Tag",
+    "artist": "Max Giesinger"
   }
 ]
