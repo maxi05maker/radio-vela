@@ -2,8 +2,8 @@
   "2026-08-18 07:00": {
     "period_start": "2026-08-18T07:00:00+02:00",
     "period_end": "2026-08-19T07:00:00+02:00",
-    "total_entries": 111,
-    "music_entries": 106,
+    "total_entries": 121,
+    "music_entries": 116,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -18,6 +18,11 @@
       {
         "artist": "Nico Santos",
         "title": "Human Being",
+        "plays": 2
+      },
+      {
+        "artist": "M Huncho",
+        "title": "Lean feat. Giggs",
         "plays": 2
       },
       {
@@ -366,11 +371,6 @@
         "plays": 1
       },
       {
-        "artist": "M Huncho",
-        "title": "Lean feat. Giggs",
-        "plays": 1
-      },
-      {
         "artist": "Jonas Brothers",
         "title": "Only Human",
         "plays": 1
@@ -513,6 +513,51 @@
       {
         "artist": "Paula Stellar",
         "title": "Pretty Pretty Lies",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Fingertips",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla & Zara Larsson",
+        "title": "SHE DID IT AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Griff",
+        "title": "Black Hole",
+        "plays": 1
+      },
+      {
+        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
+        "title": "Best Friend",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith, YUNGBLUD",
+        "title": "Problems",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello",
+        "title": "Don't Go Yet",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Wild & Free",
+        "plays": 1
+      },
+      {
+        "artist": "AFROJACK, Sia, David Guetta",
+        "title": "Awake Tonight",
         "plays": 1
       }
     ],
