@@ -2,8 +2,8 @@
   "2026-08-18 07:00": {
     "period_start": "2026-08-18T07:00:00+02:00",
     "period_end": "2026-08-19T07:00:00+02:00",
-    "total_entries": 92,
-    "music_entries": 88,
+    "total_entries": 102,
+    "music_entries": 97,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -423,6 +423,51 @@
       {
         "artist": "Zoe Wees",
         "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Twizzler",
+        "plays": 1
+      },
+      {
+        "artist": "ZAZ",
+        "title": "Serendipia",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz & Danger Dan",
+        "title": "Unsere Bank",
+        "plays": 1
+      },
+      {
+        "artist": "ALL TIME LOW",
+        "title": "The Weather",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd (feat. Daft Punk)",
+        "title": "I Feel It Coming",
+        "plays": 1
+      },
+      {
+        "artist": "50 Cent",
+        "title": "Part Of The Game",
+        "plays": 1
+      },
+      {
+        "artist": "Addison Rae",
+        "title": "Headphones On",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Walker",
+        "title": "Leave a Light On",
         "plays": 1
       }
     ],
