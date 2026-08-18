@@ -2,8 +2,8 @@
   "2026-08-18 07:00": {
     "period_start": "2026-08-18T07:00:00+02:00",
     "period_end": "2026-08-19T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "Nico Santos",
@@ -98,6 +98,46 @@
       {
         "artist": "Charlie Puth feat. Selena Gomez",
         "title": "We Don't Talk Anymore",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "Island",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Turnstile",
+        "title": "NEVER ENOUGH",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "plays": 1
+      },
+      {
+        "artist": "Shellac",
+        "title": "Scabby the Rat",
+        "plays": 1
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
         "plays": 1
       }
     ],
