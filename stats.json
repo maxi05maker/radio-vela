@@ -1,1 +1,65 @@
-{}
+{
+  "2026-08-18 07:00": {
+    "period_start": "2026-08-18T07:00:00+02:00",
+    "period_end": "2026-08-19T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
+    "songs": [
+      {
+        "artist": "Nico Santos",
+        "title": "Play With Fire",
+        "plays": 1
+      },
+      {
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
+        "plays": 1
+      },
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "Club Song",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers & Coldplay",
+        "title": "Something Just Like This",
+        "plays": 1
+      },
+      {
+        "artist": "White Lies",
+        "title": "Keep Up",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Less Than Zero",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "The Pretty Reckless",
+        "title": "Rollercoaster Of Life",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      }
+    ],
+    "top_song": {
+      "artist": "Nico Santos",
+      "title": "Play With Fire",
+      "plays": 1
+    }
+  }
+}
