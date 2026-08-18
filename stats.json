@@ -2,8 +2,8 @@
   "2026-08-18 07:00": {
     "period_start": "2026-08-18T07:00:00+02:00",
     "period_end": "2026-08-19T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 27,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
       {
         "artist": "Nico Santos",
@@ -138,6 +138,56 @@
       {
         "artist": "Luis Fonsi feat. Demi Lovato",
         "title": "Échame La Culpa",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Fender",
+        "title": "People Watching",
+        "plays": 1
+      },
+      {
+        "artist": "Alma",
+        "title": "Dye My Hair",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "Dara",
+        "title": "Bangaranga",
+        "plays": 1
+      },
+      {
+        "artist": "Iron Maiden",
+        "title": "Senjutsu",
+        "plays": 1
+      },
+      {
+        "artist": "Saweetie",
+        "title": "Birthday feat. Tyga & YG",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "A Little More",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Love Yourself",
+        "plays": 1
+      },
+      {
+        "artist": "Maggie Rogers",
+        "title": "In The Living Room",
         "plays": 1
       }
     ],
