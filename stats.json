@@ -2,8 +2,8 @@
   "2026-08-18 07:00": {
     "period_start": "2026-08-18T07:00:00+02:00",
     "period_end": "2026-08-19T07:00:00+02:00",
-    "total_entries": 102,
-    "music_entries": 97,
+    "total_entries": 111,
+    "music_entries": 106,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -468,6 +468,51 @@
       {
         "artist": "Tom Walker",
         "title": "Leave a Light On",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Grennan",
+        "title": "Don't Break the Heart",
+        "plays": 1
+      },
+      {
+        "artist": "TEMPERS",
+        "title": "Who Says",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Summertime Sadness",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers & Kim Petras",
+        "title": "Don't Lie (HITtipp)",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shape of You",
+        "plays": 1
+      },
+      {
+        "artist": "Paula Stellar",
+        "title": "Pretty Pretty Lies",
         "plays": 1
       }
     ],

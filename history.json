@@ -610,5 +610,59 @@
     "played_at": "2026-08-18 21:22:34 +0200",
     "title": "Leave a Light On",
     "artist": "Tom Walker"
+  },
+  {
+    "key": "2026-08-18 21:28:30 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-08-18 21:28:30 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-08-18 21:30:48 +0200|Don't Break the Heart|Tom Grennan",
+    "played_at": "2026-08-18 21:30:48 +0200",
+    "title": "Don't Break the Heart",
+    "artist": "Tom Grennan"
+  },
+  {
+    "key": "2026-08-18 21:34:36 +0200|Who Says|TEMPERS",
+    "played_at": "2026-08-18 21:34:36 +0200",
+    "title": "Who Says",
+    "artist": "TEMPERS"
+  },
+  {
+    "key": "2026-08-18 21:38:06 +0200|Summertime Sadness|Lana Del Rey",
+    "played_at": "2026-08-18 21:38:06 +0200",
+    "title": "Summertime Sadness",
+    "artist": "Lana Del Rey"
+  },
+  {
+    "key": "2026-08-18 21:42:31 +0200|Bad Liar|Imagine Dragons",
+    "played_at": "2026-08-18 21:42:31 +0200",
+    "title": "Bad Liar",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-08-18 21:46:51 +0200|Don't Lie (HITtipp)|The Chainsmokers & Kim Petras",
+    "played_at": "2026-08-18 21:46:51 +0200",
+    "title": "Don't Lie (HITtipp)",
+    "artist": "The Chainsmokers & Kim Petras"
+  },
+  {
+    "key": "2026-08-18 21:49:20 +0200|In My Blood|Shawn Mendes",
+    "played_at": "2026-08-18 21:49:20 +0200",
+    "title": "In My Blood",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-08-18 21:52:51 +0200|Shape of You|Ed Sheeran",
+    "played_at": "2026-08-18 21:52:51 +0200",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-08-18 21:56:45 +0200|Pretty Pretty Lies|Paula Stellar",
+    "played_at": "2026-08-18 21:56:45 +0200",
+    "title": "Pretty Pretty Lies",
+    "artist": "Paula Stellar"
   }
 ]
