@@ -64,5 +64,65 @@
     "played_at": "2026-08-19 07:58:39 +0200",
     "title": "Physical",
     "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-08-19 09:28:25 +0200|Brrr|Kim Petras",
+    "played_at": "2026-08-19 09:28:25 +0200",
+    "title": "Brrr",
+    "artist": "Kim Petras"
+  },
+  {
+    "key": "2026-08-19 09:30:57 +0200|Ghost Town|Purple Disco Machine feat. Retrosonix",
+    "played_at": "2026-08-19 09:30:57 +0200",
+    "title": "Ghost Town",
+    "artist": "Purple Disco Machine feat. Retrosonix"
+  },
+  {
+    "key": "2026-08-19 09:34:45 +0200|Alpha Zulu|Phoenix",
+    "played_at": "2026-08-19 09:34:45 +0200",
+    "title": "Alpha Zulu",
+    "artist": "Phoenix"
+  },
+  {
+    "key": "2026-08-19 09:37:36 +0200|Der letzte Tag|Max Giesinger",
+    "played_at": "2026-08-19 09:37:36 +0200",
+    "title": "Der letzte Tag",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-08-19 09:40:33 +0200|Modern Times|Mika",
+    "played_at": "2026-08-19 09:40:33 +0200",
+    "title": "Modern Times",
+    "artist": "Mika"
+  },
+  {
+    "key": "2026-08-19 09:44:47 +0200|Only Human|Jonas Brothers",
+    "played_at": "2026-08-19 09:44:47 +0200",
+    "title": "Only Human",
+    "artist": "Jonas Brothers"
+  },
+  {
+    "key": "2026-08-19 09:47:51 +0200|Hymne gegen euch|Provinz",
+    "played_at": "2026-08-19 09:47:51 +0200",
+    "title": "Hymne gegen euch",
+    "artist": "Provinz"
+  },
+  {
+    "key": "2026-08-19 09:50:50 +0200|PLH|PLH",
+    "played_at": "2026-08-19 09:50:50 +0200",
+    "title": "PLH",
+    "artist": "PLH"
+  },
+  {
+    "key": "2026-08-19 09:53:38 +0200|Doors|Noah Kahan",
+    "played_at": "2026-08-19 09:53:38 +0200",
+    "title": "Doors",
+    "artist": "Noah Kahan"
+  },
+  {
+    "key": "2026-08-19 09:57:29 +0200|Homixide|BKtherula",
+    "played_at": "2026-08-19 09:57:29 +0200",
+    "title": "Homixide",
+    "artist": "BKtherula"
   }
 ]
