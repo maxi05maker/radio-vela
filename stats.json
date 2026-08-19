@@ -2,12 +2,62 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 1,
-    "music_entries": 1,
+    "total_entries": 11,
+    "music_entries": 11,
     "songs": [
       {
         "artist": "Camila Cabello",
         "title": "Don't Go Yet",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. Alida",
+        "title": "In Your Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Mh Mh feat. Juju",
+        "plays": 1
+      },
+      {
+        "artist": "Rosalía",
+        "title": "Dios Es un Stalker",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay X BTS",
+        "title": "My Universe",
+        "plays": 1
+      },
+      {
+        "artist": "Paramore",
+        "title": "Hard Times",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Stay",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, Whitney Houston",
+        "title": "Its Not Right But Its Okay",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Physical",
         "plays": 1
       }
     ],
