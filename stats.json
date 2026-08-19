@@ -2,8 +2,8 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 21,
-    "music_entries": 21,
+    "total_entries": 31,
+    "music_entries": 30,
     "songs": [
       {
         "artist": "Camila Cabello",
@@ -108,6 +108,51 @@
       {
         "artist": "BKtherula",
         "title": "Homixide",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Irgendwo da draußen",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Anyone For You",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Kieselwege",
+        "plays": 1
+      },
+      {
+        "artist": "Dean Lewis",
+        "title": "Looks Like Me",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "My Love",
+        "plays": 1
+      },
+      {
+        "artist": "The Darkness",
+        "title": "The Longest Kiss",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Röyksopp",
+        "title": "Impossible (with Alison Goldfrapp)",
+        "plays": 1
+      },
+      {
+        "artist": "Clipse",
+        "title": "Ace Trumpets feat. Pusha T & No Malice",
         "plays": 1
       }
     ],
