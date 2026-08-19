@@ -2,8 +2,8 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 41,
-    "music_entries": 40,
+    "total_entries": 49,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "Camila Cabello",
@@ -203,6 +203,41 @@
       {
         "artist": "Portugal. The Man",
         "title": "Tanana",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
+        "plays": 1
+      },
+      {
+        "artist": "Lupe Fiasco",
+        "title": "Hustlaz",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Weißt du überhaupt noch wer ich bin?",
+        "plays": 1
+      },
+      {
+        "artist": "Iggy Pop",
+        "title": "Frenzy",
+        "plays": 1
+      },
+      {
+        "artist": "01099 feat. CRO",
+        "title": "Glücklich",
+        "plays": 1
+      },
+      {
+        "artist": "Linkin Park",
+        "title": "Unshatter",
+        "plays": 1
+      },
+      {
+        "artist": "Simon & Garfunkel",
+        "title": "Cecilia",
         "plays": 1
       }
     ],
