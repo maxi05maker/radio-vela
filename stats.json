@@ -2,8 +2,8 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 59,
-    "music_entries": 56,
+    "total_entries": 69,
+    "music_entries": 65,
     "songs": [
       {
         "artist": "Lupe Fiasco",
@@ -278,6 +278,51 @@
       {
         "artist": "John Newman",
         "title": "Love Me Again",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna",
+        "title": "Danceteria",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "About You",
+        "plays": 1
+      },
+      {
+        "artist": "Snoop Dogg",
+        "title": "Murder Music",
+        "plays": 1
+      },
+      {
+        "artist": "Robyn",
+        "title": "Talk To Me",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla & Zara Larsson",
+        "title": "SHE DID IT AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Diamonds",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Hymn For The Weekend",
         "plays": 1
       }
     ],
