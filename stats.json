@@ -2,13 +2,18 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 99,
-    "music_entries": 93,
+    "total_entries": 109,
+    "music_entries": 103,
     "songs": [
       {
         "artist": "Lupe Fiasco",
         "title": "Hustlaz",
         "plays": 3
+      },
+      {
+        "artist": "Kim Petras",
+        "title": "Brrr",
+        "plays": 2
       },
       {
         "artist": "Phoenix",
@@ -28,6 +33,16 @@
       {
         "artist": "Röyksopp",
         "title": "Impossible (with Alison Goldfrapp)",
+        "plays": 2
+      },
+      {
+        "artist": "Clipse",
+        "title": "Ace Trumpets feat. Pusha T & No Malice",
+        "plays": 2
+      },
+      {
+        "artist": "Alanis Morissette",
+        "title": "You Oughta Know",
         "plays": 2
       },
       {
@@ -96,11 +111,6 @@
         "plays": 1
       },
       {
-        "artist": "Kim Petras",
-        "title": "Brrr",
-        "plays": 1
-      },
-      {
         "artist": "Purple Disco Machine feat. Retrosonix",
         "title": "Ghost Town",
         "plays": 1
@@ -166,11 +176,6 @@
         "plays": 1
       },
       {
-        "artist": "Clipse",
-        "title": "Ace Trumpets feat. Pusha T & No Malice",
-        "plays": 1
-      },
-      {
         "artist": "Alex Warren",
         "title": "FEVER DREAM",
         "plays": 1
@@ -178,11 +183,6 @@
       {
         "artist": "Elton John & Dua Lipa",
         "title": "Cold Heart (PNAU Remix)",
-        "plays": 1
-      },
-      {
-        "artist": "Alanis Morissette",
-        "title": "You Oughta Know",
         "plays": 1
       },
       {
@@ -428,6 +428,41 @@
       {
         "artist": "Alesso & Katy Perry",
         "title": "When I'm Gone",
+        "plays": 1
+      },
+      {
+        "artist": "The Hellacopters",
+        "title": "Wrong Face On",
+        "plays": 1
+      },
+      {
+        "artist": "T-low & Miksu / Macloud",
+        "title": "We Made It",
+        "plays": 1
+      },
+      {
+        "artist": "Griff",
+        "title": "Black Hole",
+        "plays": 1
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "My Reminder",
+        "plays": 1
+      },
+      {
+        "artist": "The Strumbellas",
+        "title": "Spirits",
+        "plays": 1
+      },
+      {
+        "artist": "Steve Lacy",
+        "title": "Bad habit",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
         "plays": 1
       }
     ],
