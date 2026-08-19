@@ -2,12 +2,17 @@
   "2026-08-18 07:00": {
     "period_start": "2026-08-18T07:00:00+02:00",
     "period_end": "2026-08-19T07:00:00+02:00",
-    "total_entries": 131,
-    "music_entries": 126,
+    "total_entries": 141,
+    "music_entries": 136,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 3
+      },
+      {
+        "artist": "M Huncho",
+        "title": "Lean feat. Giggs",
         "plays": 3
       },
       {
@@ -31,8 +36,28 @@
         "plays": 2
       },
       {
-        "artist": "M Huncho",
-        "title": "Lean feat. Giggs",
+        "artist": "Provinz & Danger Dan",
+        "title": "Unsere Bank",
+        "plays": 2
+      },
+      {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Walker",
+        "title": "Leave a Light On",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Grennan",
+        "title": "Don't Break the Heart",
         "plays": 2
       },
       {
@@ -436,11 +461,6 @@
         "plays": 1
       },
       {
-        "artist": "Provinz & Danger Dan",
-        "title": "Unsere Bank",
-        "plays": 1
-      },
-      {
         "artist": "ALL TIME LOW",
         "title": "The Weather",
         "plays": 1
@@ -458,26 +478,6 @@
       {
         "artist": "Addison Rae",
         "title": "Headphones On",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta feat. Sam Martin",
-        "title": "Lovers on the Sun",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Walker",
-        "title": "Leave a Light On",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Grennan",
-        "title": "Don't Break the Heart",
         "plays": 1
       },
       {
@@ -598,6 +598,26 @@
       {
         "artist": "Max Giesinger",
         "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig Feat. Greeen",
+        "title": "Eh Zu Kurz",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna & Kanye West & Paul McCartney",
+        "title": "FourFiveSeconds",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "Ninety – Two",
+        "plays": 1
+      },
+      {
+        "artist": "Nathan Evans & SAINT PHNX",
+        "title": "Angels' Share",
         "plays": 1
       }
     ],
