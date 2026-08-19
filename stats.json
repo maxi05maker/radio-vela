@@ -2,9 +2,14 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 49,
-    "music_entries": 47,
+    "total_entries": 59,
+    "music_entries": 56,
     "songs": [
+      {
+        "artist": "Lupe Fiasco",
+        "title": "Hustlaz",
+        "plays": 2
+      },
       {
         "artist": "Camila Cabello",
         "title": "Don't Go Yet",
@@ -211,11 +216,6 @@
         "plays": 1
       },
       {
-        "artist": "Lupe Fiasco",
-        "title": "Hustlaz",
-        "plays": 1
-      },
-      {
         "artist": "Zartmann",
         "title": "Weißt du überhaupt noch wer ich bin?",
         "plays": 1
@@ -239,12 +239,52 @@
         "artist": "Simon & Garfunkel",
         "title": "Cecilia",
         "plays": 1
+      },
+      {
+        "artist": "James Blake",
+        "title": "Like The End",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 1
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "My Guy",
+        "plays": 1
+      },
+      {
+        "artist": "We Are Scientists",
+        "title": "Less from You",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & Faithless",
+        "title": "New Religion",
+        "plays": 1
+      },
+      {
+        "artist": "John Newman",
+        "title": "Love Me Again",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Camila Cabello",
-      "title": "Don't Go Yet",
-      "plays": 1
+      "artist": "Lupe Fiasco",
+      "title": "Hustlaz",
+      "plays": 2
     }
   }
 }
