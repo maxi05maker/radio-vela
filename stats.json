@@ -2,8 +2,8 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 89,
-    "music_entries": 84,
+    "total_entries": 99,
+    "music_entries": 93,
     "songs": [
       {
         "artist": "Lupe Fiasco",
@@ -23,6 +23,11 @@
       {
         "artist": "Florence + The Machine",
         "title": "My Love",
+        "plays": 2
+      },
+      {
+        "artist": "Röyksopp",
+        "title": "Impossible (with Alison Goldfrapp)",
         "plays": 2
       },
       {
@@ -158,11 +163,6 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Röyksopp",
-        "title": "Impossible (with Alison Goldfrapp)",
         "plays": 1
       },
       {
@@ -388,6 +388,46 @@
       {
         "artist": "Bruno Mars",
         "title": "Risk It All",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Cover Me In Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Nur dir gehör'n",
+        "plays": 1
+      },
+      {
+        "artist": "Yeat",
+        "title": "Still Countin",
+        "plays": 1
+      },
+      {
+        "artist": "Big Thief",
+        "title": "All Night All Day",
+        "plays": 1
+      },
+      {
+        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
+        "title": "Best Friend",
+        "plays": 1
+      },
+      {
+        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+        "title": "Waiting on the sky to change",
+        "plays": 1
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
+        "plays": 1
+      },
+      {
+        "artist": "Alesso & Katy Perry",
+        "title": "When I'm Gone",
         "plays": 1
       }
     ],
