@@ -2,8 +2,8 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 31,
-    "music_entries": 30,
+    "total_entries": 41,
+    "music_entries": 40,
     "songs": [
       {
         "artist": "Camila Cabello",
@@ -153,6 +153,56 @@
       {
         "artist": "Clipse",
         "title": "Ace Trumpets feat. Pusha T & No Malice",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John & Dua Lipa",
+        "title": "Cold Heart (PNAU Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "Alanis Morissette",
+        "title": "You Oughta Know",
+        "plays": 1
+      },
+      {
+        "artist": "AFROJACK, Sia, David Guetta",
+        "title": "Awake Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "Joel Corry & Tom Grennan",
+        "title": "Lionheart (Fearless)",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Who's In Your Head",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
+        "plays": 1
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "title": "Human",
+        "plays": 1
+      },
+      {
+        "artist": "Portugal. The Man",
+        "title": "Tanana",
         "plays": 1
       }
     ],
