@@ -2,8 +2,8 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 109,
-    "music_entries": 103,
+    "total_entries": 119,
+    "music_entries": 113,
     "songs": [
       {
         "artist": "Lupe Fiasco",
@@ -53,6 +53,16 @@
       {
         "artist": "Iggy Pop",
         "title": "Frenzy",
+        "plays": 2
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 2
+      },
+      {
+        "artist": "We Are Scientists",
+        "title": "Less from You",
         "plays": 2
       },
       {
@@ -246,11 +256,6 @@
         "plays": 1
       },
       {
-        "artist": "Leony",
-        "title": "Faded Love",
-        "plays": 1
-      },
-      {
         "artist": "Daya",
         "title": "Bad Girl",
         "plays": 1
@@ -258,11 +263,6 @@
       {
         "artist": "Sam Smith",
         "title": "My Guy",
-        "plays": 1
-      },
-      {
-        "artist": "We Are Scientists",
-        "title": "Less from You",
         "plays": 1
       },
       {
@@ -463,6 +463,46 @@
       {
         "artist": "RAYE",
         "title": "WHERE IS MY HUSBAND!",
+        "plays": 1
+      },
+      {
+        "artist": "Razorlight",
+        "title": "You Are Entering The Human Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "The Fate of Ophelia",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Joanne Shaw Taylor",
+        "title": "01. Sweet 'Lil Lies (2024)",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Madonna Whore Komplex",
+        "plays": 1
+      },
+      {
+        "artist": "Jessie Ware",
+        "title": "Superbloom",
         "plays": 1
       }
     ],
