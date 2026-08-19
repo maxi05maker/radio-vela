@@ -2,8 +2,8 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 79,
-    "music_entries": 75,
+    "total_entries": 89,
+    "music_entries": 84,
     "songs": [
       {
         "artist": "Lupe Fiasco",
@@ -13,6 +13,26 @@
       {
         "artist": "Phoenix",
         "title": "Alpha Zulu",
+        "plays": 2
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Irgendwo da draußen",
+        "plays": 2
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "My Love",
+        "plays": 2
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "title": "Human",
+        "plays": 2
+      },
+      {
+        "artist": "Iggy Pop",
+        "title": "Frenzy",
         "plays": 2
       },
       {
@@ -116,11 +136,6 @@
         "plays": 1
       },
       {
-        "artist": "Max Giesinger",
-        "title": "Irgendwo da draußen",
-        "plays": 1
-      },
-      {
         "artist": "George Ezra",
         "title": "Anyone For You",
         "plays": 1
@@ -133,11 +148,6 @@
       {
         "artist": "Dean Lewis",
         "title": "Looks Like Me",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "My Love",
         "plays": 1
       },
       {
@@ -201,11 +211,6 @@
         "plays": 1
       },
       {
-        "artist": "Rag'n'Bone Man",
-        "title": "Human",
-        "plays": 1
-      },
-      {
         "artist": "Portugal. The Man",
         "title": "Tanana",
         "plays": 1
@@ -218,11 +223,6 @@
       {
         "artist": "Zartmann",
         "title": "Weißt du überhaupt noch wer ich bin?",
-        "plays": 1
-      },
-      {
-        "artist": "Iggy Pop",
-        "title": "Frenzy",
         "plays": 1
       },
       {
@@ -363,6 +363,31 @@
       {
         "artist": "Fritz Kalkbrenner",
         "title": "Calling You",
+        "plays": 1
+      },
+      {
+        "artist": "BTS",
+        "title": "SWIM",
+        "plays": 1
+      },
+      {
+        "artist": "Laurell",
+        "title": "Habit",
+        "plays": 1
+      },
+      {
+        "artist": "D4vd",
+        "title": "Here With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Ina Müller",
+        "title": "Weiber-WG",
+        "plays": 1
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Risk It All",
         "plays": 1
       }
     ],
