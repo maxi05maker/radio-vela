@@ -412,5 +412,65 @@
     "played_at": "2026-08-19 17:16:33 +0200",
     "title": "Hymn For The Weekend",
     "artist": "Coldplay"
+  },
+  {
+    "key": "2026-08-19 18:18:15 +0200|Lift Me Up|Rihanna",
+    "played_at": "2026-08-19 18:18:15 +0200",
+    "title": "Lift Me Up",
+    "artist": "Rihanna"
+  },
+  {
+    "key": "2026-08-19 18:21:28 +0200|Pretty Pretty Lies|Paula Stellar",
+    "played_at": "2026-08-19 18:21:28 +0200",
+    "title": "Pretty Pretty Lies",
+    "artist": "Paula Stellar"
+  },
+  {
+    "key": "2026-08-19 18:24:23 +0200|Alpha Zulu|Phoenix",
+    "played_at": "2026-08-19 18:24:23 +0200",
+    "title": "Alpha Zulu",
+    "artist": "Phoenix"
+  },
+  {
+    "key": "2026-08-19 18:27:14 +0200|Hustlaz|Lupe Fiasco",
+    "played_at": "2026-08-19 18:27:14 +0200",
+    "title": "Hustlaz",
+    "artist": "Lupe Fiasco"
+  },
+  {
+    "key": "2026-08-19 18:31:10 +0200|Year of the Snake|Arcade Fire",
+    "played_at": "2026-08-19 18:31:10 +0200",
+    "title": "Year of the Snake",
+    "artist": "Arcade Fire"
+  },
+  {
+    "key": "2026-08-19 18:36:21 +0200|Ich darf das|Shirin David",
+    "played_at": "2026-08-19 18:36:21 +0200",
+    "title": "Ich darf das",
+    "artist": "Shirin David"
+  },
+  {
+    "key": "2026-08-19 18:38:53 +0200|Wenn du liebst [feat. Kat Frankie]|Clueso",
+    "played_at": "2026-08-19 18:38:53 +0200",
+    "title": "Wenn du liebst [feat. Kat Frankie]",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-08-19 18:42:55 +0200|We Don't Talk Anymore|Charlie Puth feat. Selena Gomez",
+    "played_at": "2026-08-19 18:42:55 +0200",
+    "title": "We Don't Talk Anymore",
+    "artist": "Charlie Puth feat. Selena Gomez"
+  },
+  {
+    "key": "2026-08-19 18:46:33 +0200|Leiser|LEA",
+    "played_at": "2026-08-19 18:46:33 +0200",
+    "title": "Leiser",
+    "artist": "LEA"
+  },
+  {
+    "key": "2026-08-19 18:49:59 +0200|Calling You|Fritz Kalkbrenner",
+    "played_at": "2026-08-19 18:49:59 +0200",
+    "title": "Calling You",
+    "artist": "Fritz Kalkbrenner"
   }
 ]

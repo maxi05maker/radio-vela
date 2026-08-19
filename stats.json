@@ -2,12 +2,17 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 69,
-    "music_entries": 65,
+    "total_entries": 79,
+    "music_entries": 75,
     "songs": [
       {
         "artist": "Lupe Fiasco",
         "title": "Hustlaz",
+        "plays": 3
+      },
+      {
+        "artist": "Phoenix",
+        "title": "Alpha Zulu",
         "plays": 2
       },
       {
@@ -73,11 +78,6 @@
       {
         "artist": "Purple Disco Machine feat. Retrosonix",
         "title": "Ghost Town",
-        "plays": 1
-      },
-      {
-        "artist": "Phoenix",
-        "title": "Alpha Zulu",
         "plays": 1
       },
       {
@@ -324,12 +324,52 @@
         "artist": "Coldplay",
         "title": "Hymn For The Weekend",
         "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Lift Me Up",
+        "plays": 1
+      },
+      {
+        "artist": "Paula Stellar",
+        "title": "Pretty Pretty Lies",
+        "plays": 1
+      },
+      {
+        "artist": "Arcade Fire",
+        "title": "Year of the Snake",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Leiser",
+        "plays": 1
+      },
+      {
+        "artist": "Fritz Kalkbrenner",
+        "title": "Calling You",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Lupe Fiasco",
       "title": "Hustlaz",
-      "plays": 2
+      "plays": 3
     }
   }
 }
