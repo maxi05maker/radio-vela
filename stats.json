@@ -2,8 +2,8 @@
   "2026-08-19 07:00": {
     "period_start": "2026-08-19T07:00:00+02:00",
     "period_end": "2026-08-20T07:00:00+02:00",
-    "total_entries": 119,
-    "music_entries": 113,
+    "total_entries": 129,
+    "music_entries": 123,
     "songs": [
       {
         "artist": "Lupe Fiasco",
@@ -63,6 +63,16 @@
       {
         "artist": "We Are Scientists",
         "title": "Less from You",
+        "plays": 2
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Diamonds",
         "plays": 2
       },
       {
@@ -266,11 +276,6 @@
         "plays": 1
       },
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
         "artist": "Bebe Rexha & Faithless",
         "title": "New Religion",
         "plays": 1
@@ -313,11 +318,6 @@
       {
         "artist": "Tyla & Zara Larsson",
         "title": "SHE DID IT AGAIN",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith",
-        "title": "Diamonds",
         "plays": 1
       },
       {
@@ -503,6 +503,46 @@
       {
         "artist": "Jessie Ware",
         "title": "Superbloom",
+        "plays": 1
+      },
+      {
+        "artist": "Milky Chance & Jack Johnson",
+        "title": "Don't Let Me Down",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "SS26",
+        "plays": 1
+      },
+      {
+        "artist": "SDP & Clueso",
+        "title": "Die schönsten Tage",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Minimum",
+        "plays": 1
+      },
+      {
+        "artist": "Rejjie Snow",
+        "title": "Arigato",
+        "plays": 1
+      },
+      {
+        "artist": "Turnstile",
+        "title": "NEVER ENOUGH",
+        "plays": 1
+      },
+      {
+        "artist": "Olly Murs",
+        "title": "Marry Me",
         "plays": 1
       }
     ],
