@@ -2,8 +2,8 @@
   "2026-08-20 07:00": {
     "period_start": "2026-08-20T07:00:00+02:00",
     "period_end": "2026-08-21T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "Provinz",
@@ -148,6 +148,51 @@
       {
         "artist": "Shawn Mendes",
         "title": "It'll Be Okay",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Pazifik",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
+        "plays": 1
+      },
+      {
+        "artist": "01099",
+        "title": "Dies & Das",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Freier Fall",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Footprints",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Der Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
+        "title": "Blurred Lines",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Anxious",
         "plays": 1
       }
     ],
