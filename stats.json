@@ -1,1 +1,65 @@
-{}
+{
+  "2026-08-20 07:00": {
+    "period_start": "2026-08-20T07:00:00+02:00",
+    "period_end": "2026-08-21T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
+    "songs": [
+      {
+        "artist": "Provinz",
+        "title": "Hymne gegen euch",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "The One",
+        "plays": 1
+      },
+      {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
+        "plays": 1
+      },
+      {
+        "artist": "Dermot Kennedy",
+        "title": "Better Days",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "Kim Petras",
+        "title": "Brrr",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Too Much",
+        "plays": 1
+      },
+      {
+        "artist": "Celo & Abdi",
+        "title": "Azzlack Style feat. Haftbefehl",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shivers",
+        "plays": 1
+      },
+      {
+        "artist": "Royal Blood",
+        "title": "Boilermaker",
+        "plays": 1
+      }
+    ],
+    "top_song": {
+      "artist": "Provinz",
+      "title": "Hymne gegen euch",
+      "plays": 1
+    }
+  }
+}
