@@ -2,8 +2,8 @@
   "2026-08-20 07:00": {
     "period_start": "2026-08-20T07:00:00+02:00",
     "period_end": "2026-08-21T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Provinz",
@@ -98,6 +98,56 @@
       {
         "artist": "Lady Gaga",
         "title": "Abracadabra",
+        "plays": 1
+      },
+      {
+        "artist": "Big K.R.I.T.",
+        "title": "So Cool",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Cry For Me",
+        "plays": 1
+      },
+      {
+        "artist": "GHOST",
+        "title": "Call Me Little Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "Midlake",
+        "title": "The Ghouls",
+        "plays": 1
+      },
+      {
+        "artist": "ZAZ",
+        "title": "Serendipia",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna & Kanye West & Paul McCartney",
+        "title": "FourFiveSeconds",
+        "plays": 1
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Cooper",
+        "title": "Detroit City 2021",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "It'll Be Okay",
         "plays": 1
       }
     ],
