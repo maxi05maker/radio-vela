@@ -2,8 +2,8 @@
   "2026-08-20 07:00": {
     "period_start": "2026-08-20T07:00:00+02:00",
     "period_end": "2026-08-21T07:00:00+02:00",
-    "total_entries": 91,
-    "music_entries": 87,
+    "total_entries": 101,
+    "music_entries": 97,
     "songs": [
       {
         "artist": "Provinz",
@@ -418,6 +418,56 @@
       {
         "artist": "A7S David Guetta Wizkid",
         "title": "Lighter",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wenn das Liebe ist",
+        "plays": 1
+      },
+      {
+        "artist": "Nickelback",
+        "title": "What Are You Waiting for",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Weekend Lover",
+        "plays": 1
+      },
+      {
+        "artist": "JENNIE, Dua Lipa",
+        "title": "Handlebars",
+        "plays": 1
+      },
+      {
+        "artist": "Sido Feat. Andreas Bourani",
+        "title": "Astronaut",
+        "plays": 1
+      },
+      {
+        "artist": "Tua",
+        "title": "Herr Aber Aber",
+        "plays": 1
+      },
+      {
+        "artist": "Sparks",
+        "title": "Do Things My Own Way",
+        "plays": 1
+      },
+      {
+        "artist": "Romano",
+        "title": "Köpenick",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner & Stromae",
+        "title": "QUE CE SOIT CLAIR",
         "plays": 1
       }
     ],
