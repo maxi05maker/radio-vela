@@ -2,8 +2,8 @@
   "2026-08-20 07:00": {
     "period_start": "2026-08-20T07:00:00+02:00",
     "period_end": "2026-08-21T07:00:00+02:00",
-    "total_entries": 80,
-    "music_entries": 76,
+    "total_entries": 81,
+    "music_entries": 77,
     "songs": [
       {
         "artist": "Provinz",
@@ -363,6 +363,11 @@
       {
         "artist": "Griff",
         "title": "Black Hole",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Ein Herz kann man nicht reparieren",
         "plays": 1
       }
     ],
