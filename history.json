@@ -58,5 +58,65 @@
     "played_at": "2026-08-20 07:57:39 +0200",
     "title": "Boilermaker",
     "artist": "Royal Blood"
+  },
+  {
+    "key": "2026-08-20 08:45:53 +0200|Irgendwo da draußen|Max Giesinger",
+    "played_at": "2026-08-20 08:45:53 +0200",
+    "title": "Irgendwo da draußen",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-08-20 08:49:26 +0200|In Your Eyes|Robin Schulz feat. Alida",
+    "played_at": "2026-08-20 08:49:26 +0200",
+    "title": "In Your Eyes",
+    "artist": "Robin Schulz feat. Alida"
+  },
+  {
+    "key": "2026-08-20 08:52:54 +0200|VERLIEBT IN MICH|FAYAN (feat. Dalton)",
+    "played_at": "2026-08-20 08:52:54 +0200",
+    "title": "VERLIEBT IN MICH",
+    "artist": "FAYAN (feat. Dalton)"
+  },
+  {
+    "key": "2026-08-20 08:55:04 +0200|My Universe|Coldplay X BTS",
+    "played_at": "2026-08-20 08:55:04 +0200",
+    "title": "My Universe",
+    "artist": "Coldplay X BTS"
+  },
+  {
+    "key": "2026-08-20 08:58:52 +0200|Hymn For The Weekend|Coldplay",
+    "played_at": "2026-08-20 08:58:52 +0200",
+    "title": "Hymn For The Weekend",
+    "artist": "Coldplay"
+  },
+  {
+    "key": "2026-08-20 09:03:11 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-20 09:03:11 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-20 09:05:52 +0200|PRIDE|Felix Jaehn JHart",
+    "played_at": "2026-08-20 09:05:52 +0200",
+    "title": "PRIDE",
+    "artist": "Felix Jaehn JHart"
+  },
+  {
+    "key": "2026-08-20 09:08:30 +0200|Wild & Free|Lena",
+    "played_at": "2026-08-20 09:08:30 +0200",
+    "title": "Wild & Free",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-08-20 09:11:45 +0200|Power Ranger|Symba",
+    "played_at": "2026-08-20 09:11:45 +0200",
+    "title": "Power Ranger",
+    "artist": "Symba"
+  },
+  {
+    "key": "2026-08-20 09:14:05 +0200|Abracadabra|Lady Gaga",
+    "played_at": "2026-08-20 09:14:05 +0200",
+    "title": "Abracadabra",
+    "artist": "Lady Gaga"
   }
 ]
