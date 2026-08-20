@@ -2,12 +2,17 @@
   "2026-08-20 07:00": {
     "period_start": "2026-08-20T07:00:00+02:00",
     "period_end": "2026-08-21T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 57,
+    "total_entries": 70,
+    "music_entries": 67,
     "songs": [
       {
         "artist": "Provinz",
         "title": "Hymne gegen euch",
+        "plays": 2
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Irgendwo da draußen",
         "plays": 2
       },
       {
@@ -53,11 +58,6 @@
       {
         "artist": "Royal Blood",
         "title": "Boilermaker",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger",
-        "title": "Irgendwo da draußen",
         "plays": 1
       },
       {
@@ -283,6 +283,51 @@
       {
         "artist": "Provinz",
         "title": "Großstadt",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
+        "plays": 1
+      },
+      {
+        "artist": "Oimara, Melissa Naschenweng",
+        "title": "Koa Bergbauernbua",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Fingertips",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Grennan",
+        "title": "Don't Break the Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Scorpions",
+        "title": "Peacemaker",
+        "plays": 1
+      },
+      {
+        "artist": "Mine",
+        "title": "Elefant",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
         "plays": 1
       }
     ],
