@@ -2,8 +2,8 @@
   "2026-08-20 07:00": {
     "period_start": "2026-08-20T07:00:00+02:00",
     "period_end": "2026-08-21T07:00:00+02:00",
-    "total_entries": 81,
-    "music_entries": 77,
+    "total_entries": 91,
+    "music_entries": 87,
     "songs": [
       {
         "artist": "Provinz",
@@ -368,6 +368,56 @@
       {
         "artist": "Alli Neumann",
         "title": "Ein Herz kann man nicht reparieren",
+        "plays": 1
+      },
+      {
+        "artist": "Filow & Ikkimel",
+        "title": "Jiggy",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Let it die",
+        "plays": 1
+      },
+      {
+        "artist": "Kelvin Jones",
+        "title": "Don't Let Me Go",
+        "plays": 1
+      },
+      {
+        "artist": "Evanescence",
+        "title": "Fight Like A Girl (feat. K.Flay)",
+        "plays": 1
+      },
+      {
+        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
+        "title": "Best Friend",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Never Go Back",
+        "plays": 1
+      },
+      {
+        "artist": "Takida",
+        "title": "In Spite of Everything",
+        "plays": 1
+      },
+      {
+        "artist": "A7S David Guetta Wizkid",
+        "title": "Lighter",
         "plays": 1
       }
     ],
