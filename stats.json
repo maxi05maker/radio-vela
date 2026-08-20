@@ -2,8 +2,8 @@
   "2026-08-20 07:00": {
     "period_start": "2026-08-20T07:00:00+02:00",
     "period_end": "2026-08-21T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 38,
+    "total_entries": 50,
+    "music_entries": 48,
     "songs": [
       {
         "artist": "Provinz",
@@ -193,6 +193,56 @@
       {
         "artist": "Dennis Lloyd",
         "title": "Anxious",
+        "plays": 1
+      },
+      {
+        "artist": "Dean Lewis",
+        "title": "Looks Like Me",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine, Alison Goldfrapp",
+        "title": "Dream Machine",
+        "plays": 1
+      },
+      {
+        "artist": "Katja Krasavice",
+        "title": "Raindrops (feat. Leony)",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Aldous Harding",
+        "title": "What Am I Gonna Do?",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Do It Better (feat. Zoe Wees)",
+        "plays": 1
+      },
+      {
+        "artist": "Saint Chaos",
+        "title": "Where I Belong",
+        "plays": 1
+      },
+      {
+        "artist": "KALIM, Nimo",
+        "title": "TOUCH YOUR TOES",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Treppenhaus",
         "plays": 1
       }
     ],
