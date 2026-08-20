@@ -2,13 +2,13 @@
   "2026-08-20 07:00": {
     "period_start": "2026-08-20T07:00:00+02:00",
     "period_end": "2026-08-21T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 48,
+    "total_entries": 60,
+    "music_entries": 57,
     "songs": [
       {
         "artist": "Provinz",
         "title": "Hymne gegen euch",
-        "plays": 1
+        "plays": 2
       },
       {
         "artist": "Michael Patrick Kelly",
@@ -244,12 +244,52 @@
         "artist": "LEA",
         "title": "Treppenhaus",
         "plays": 1
+      },
+      {
+        "artist": "Danger Dan",
+        "title": "Das ist alles von der Kunstfreiheit gedeckt",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub, Domiziana",
+        "title": "Unsterblich sein ( ) feat. Domiziana",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Sacrifice",
+        "plays": 1
+      },
+      {
+        "artist": "Take That",
+        "title": "Sweet July",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville, Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Großstadt",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Provinz",
       "title": "Hymne gegen euch",
-      "plays": 1
+      "plays": 2
     }
   }
 }
