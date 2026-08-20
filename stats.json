@@ -2,8 +2,8 @@
   "2026-08-20 07:00": {
     "period_start": "2026-08-20T07:00:00+02:00",
     "period_end": "2026-08-21T07:00:00+02:00",
-    "total_entries": 101,
-    "music_entries": 97,
+    "total_entries": 111,
+    "music_entries": 106,
     "songs": [
       {
         "artist": "Provinz",
@@ -468,6 +468,51 @@
       {
         "artist": "Paul Kalkbrenner & Stromae",
         "title": "QUE CE SOIT CLAIR",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "My Love",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit feat. Demi Lovato",
+        "title": "Solo",
+        "plays": 1
+      },
+      {
+        "artist": "The Beatsteaks",
+        "title": "Against All Logic",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "I Believe",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Monster",
+        "plays": 1
+      },
+      {
+        "artist": "Obongjayar",
+        "title": "Sweet Danger",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Leiser",
+        "plays": 1
+      },
+      {
+        "artist": "L.A. Edwards",
+        "title": "El Camino",
         "plays": 1
       }
     ],
