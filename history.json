@@ -418,5 +418,65 @@
     "played_at": "2026-08-20 17:51:12 +0200",
     "title": "Hold Me Closer",
     "artist": "Elton John, Britney Spears"
+  },
+  {
+    "key": "2026-08-20 18:33:15 +0200|Bad Girl|Daya",
+    "played_at": "2026-08-20 18:33:15 +0200",
+    "title": "Bad Girl",
+    "artist": "Daya"
+  },
+  {
+    "key": "2026-08-20 18:36:22 +0200|Detroit City 2021|Alice Cooper",
+    "played_at": "2026-08-20 18:36:22 +0200",
+    "title": "Detroit City 2021",
+    "artist": "Alice Cooper"
+  },
+  {
+    "key": "2026-08-20 18:39:41 +0200|Wonderful Life '25|Hurts/Purple Disco Machine",
+    "played_at": "2026-08-20 18:39:41 +0200",
+    "title": "Wonderful Life '25",
+    "artist": "Hurts/Purple Disco Machine"
+  },
+  {
+    "key": "2026-08-20 18:42:40 +0200|Control|Zoe Wees",
+    "played_at": "2026-08-20 18:42:40 +0200",
+    "title": "Control",
+    "artist": "Zoe Wees"
+  },
+  {
+    "key": "2026-08-20 18:46:31 +0200|Dies & Das|01099",
+    "played_at": "2026-08-20 18:46:31 +0200",
+    "title": "Dies & Das",
+    "artist": "01099"
+  },
+  {
+    "key": "2026-08-20 18:48:50 +0200|Eh Zu Kurz|1986zig Feat. Greeen",
+    "played_at": "2026-08-20 18:48:50 +0200",
+    "title": "Eh Zu Kurz",
+    "artist": "1986zig Feat. Greeen"
+  },
+  {
+    "key": "2026-08-20 18:51:13 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-08-20 18:51:13 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-20 18:51:49 +0200|Before You Go|Lewis Capaldi",
+    "played_at": "2026-08-20 18:51:49 +0200",
+    "title": "Before You Go",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-08-20 18:55:23 +0200|My World|Calum Scott",
+    "played_at": "2026-08-20 18:55:23 +0200",
+    "title": "My World",
+    "artist": "Calum Scott"
+  },
+  {
+    "key": "2026-08-20 19:01:25 +0200|Black Hole|Griff",
+    "played_at": "2026-08-20 19:01:25 +0200",
+    "title": "Black Hole",
+    "artist": "Griff"
   }
 ]
