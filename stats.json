@@ -2,8 +2,8 @@
   "2026-08-20 07:00": {
     "period_start": "2026-08-20T07:00:00+02:00",
     "period_end": "2026-08-21T07:00:00+02:00",
-    "total_entries": 111,
-    "music_entries": 106,
+    "total_entries": 121,
+    "music_entries": 115,
     "songs": [
       {
         "artist": "Provinz",
@@ -23,6 +23,11 @@
       {
         "artist": "01099",
         "title": "Dies & Das",
+        "plays": 2
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 2
       },
       {
@@ -213,11 +218,6 @@
       {
         "artist": "Katja Krasavice",
         "title": "Raindrops (feat. Leony)",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
         "plays": 1
       },
       {
@@ -513,6 +513,46 @@
       {
         "artist": "L.A. Edwards",
         "title": "El Camino",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
+        "plays": 1
+      },
+      {
+        "artist": "Simon & Garfunkel",
+        "title": "Cecilia",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Doors",
+        "plays": 1
+      },
+      {
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
+        "plays": 1
+      },
+      {
+        "artist": "ZAH1DE",
+        "title": "Uff Yaa",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "I Don’t Think That I Like Her",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Bandaids",
         "plays": 1
       }
     ],
