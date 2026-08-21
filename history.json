@@ -538,5 +538,65 @@
     "played_at": "2026-08-21 21:53:34 +0200",
     "title": "Fingertips",
     "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-08-21 22:19:40 +0200|Der letzte Tag|Max Giesinger",
+    "played_at": "2026-08-21 22:19:40 +0200",
+    "title": "Der letzte Tag",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-08-21 22:22:37 +0200|Calm Down|Rema & Selena Gomez",
+    "played_at": "2026-08-21 22:22:37 +0200",
+    "title": "Calm Down",
+    "artist": "Rema & Selena Gomez"
+  },
+  {
+    "key": "2026-08-21 22:26:36 +0200|Of All People|Foo Fighters",
+    "played_at": "2026-08-21 22:26:36 +0200",
+    "title": "Of All People",
+    "artist": "Foo Fighters"
+  },
+  {
+    "key": "2026-08-21 22:29:10 +0200|Hayloft II|Mother Mother",
+    "played_at": "2026-08-21 22:29:10 +0200",
+    "title": "Hayloft II",
+    "artist": "Mother Mother"
+  },
+  {
+    "key": "2026-08-21 22:33:06 +0200|Easy On Me|Adele",
+    "played_at": "2026-08-21 22:33:06 +0200",
+    "title": "Easy On Me",
+    "artist": "Adele"
+  },
+  {
+    "key": "2026-08-21 22:36:44 +0200|Like The End|James Blake",
+    "played_at": "2026-08-21 22:36:44 +0200",
+    "title": "Like The End",
+    "artist": "James Blake"
+  },
+  {
+    "key": "2026-08-21 22:42:04 +0200|Control|Zoe Wees",
+    "played_at": "2026-08-21 22:42:04 +0200",
+    "title": "Control",
+    "artist": "Zoe Wees"
+  },
+  {
+    "key": "2026-08-21 22:45:55 +0200|In Your Eyes|Robin Schulz feat. Alida",
+    "played_at": "2026-08-21 22:45:55 +0200",
+    "title": "In Your Eyes",
+    "artist": "Robin Schulz feat. Alida"
+  },
+  {
+    "key": "2026-08-21 22:49:24 +0200|Ein Lied für dich|Apache 207",
+    "played_at": "2026-08-21 22:49:24 +0200",
+    "title": "Ein Lied für dich",
+    "artist": "Apache 207"
+  },
+  {
+    "key": "2026-08-21 22:52:26 +0200|Hey You|Disturbed",
+    "played_at": "2026-08-21 22:52:26 +0200",
+    "title": "Hey You",
+    "artist": "Disturbed"
   }
 ]

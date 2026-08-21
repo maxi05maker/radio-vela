@@ -2,8 +2,8 @@
   "2026-08-21 07:00": {
     "period_start": "2026-08-21T07:00:00+02:00",
     "period_end": "2026-08-22T07:00:00+02:00",
-    "total_entries": 90,
-    "music_entries": 83,
+    "total_entries": 100,
+    "music_entries": 93,
     "songs": [
       {
         "artist": "Kim Petras",
@@ -403,6 +403,56 @@
       {
         "artist": "Tom Gregory",
         "title": "Fingertips",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Rema & Selena Gomez",
+        "title": "Calm Down",
+        "plays": 1
+      },
+      {
+        "artist": "Foo Fighters",
+        "title": "Of All People",
+        "plays": 1
+      },
+      {
+        "artist": "Mother Mother",
+        "title": "Hayloft II",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Easy On Me",
+        "plays": 1
+      },
+      {
+        "artist": "James Blake",
+        "title": "Like The End",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. Alida",
+        "title": "In Your Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Ein Lied für dich",
+        "plays": 1
+      },
+      {
+        "artist": "Disturbed",
+        "title": "Hey You",
         "plays": 1
       }
     ],
