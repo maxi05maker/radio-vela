@@ -1,0 +1,565 @@
+{
+  "2026-08-21": {
+    "period_start": "2026-08-20T07:00:00+02:00",
+    "period_end": "2026-08-21T07:00:00+02:00",
+    "total_entries": 121,
+    "music_entries": 115,
+    "songs": [
+      {
+        "artist": "Provinz",
+        "title": "Hymne gegen euch",
+        "plays": 2
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Irgendwo da draußen",
+        "plays": 2
+      },
+      {
+        "artist": "Alice Cooper",
+        "title": "Detroit City 2021",
+        "plays": 2
+      },
+      {
+        "artist": "01099",
+        "title": "Dies & Das",
+        "plays": 2
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "The One",
+        "plays": 1
+      },
+      {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
+        "plays": 1
+      },
+      {
+        "artist": "Dermot Kennedy",
+        "title": "Better Days",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "Kim Petras",
+        "title": "Brrr",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Too Much",
+        "plays": 1
+      },
+      {
+        "artist": "Celo & Abdi",
+        "title": "Azzlack Style feat. Haftbefehl",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shivers",
+        "plays": 1
+      },
+      {
+        "artist": "Royal Blood",
+        "title": "Boilermaker",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. Alida",
+        "title": "In Your Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "FAYAN (feat. Dalton)",
+        "title": "VERLIEBT IN MICH",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay X BTS",
+        "title": "My Universe",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Hymn For The Weekend",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn JHart",
+        "title": "PRIDE",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Wild & Free",
+        "plays": 1
+      },
+      {
+        "artist": "Symba",
+        "title": "Power Ranger",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Abracadabra",
+        "plays": 1
+      },
+      {
+        "artist": "Big K.R.I.T.",
+        "title": "So Cool",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Cry For Me",
+        "plays": 1
+      },
+      {
+        "artist": "GHOST",
+        "title": "Call Me Little Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "Midlake",
+        "title": "The Ghouls",
+        "plays": 1
+      },
+      {
+        "artist": "ZAZ",
+        "title": "Serendipia",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna & Kanye West & Paul McCartney",
+        "title": "FourFiveSeconds",
+        "plays": 1
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "It'll Be Okay",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Pazifik",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Freier Fall",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Footprints",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Der Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
+        "title": "Blurred Lines",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Anxious",
+        "plays": 1
+      },
+      {
+        "artist": "Dean Lewis",
+        "title": "Looks Like Me",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine, Alison Goldfrapp",
+        "title": "Dream Machine",
+        "plays": 1
+      },
+      {
+        "artist": "Katja Krasavice",
+        "title": "Raindrops (feat. Leony)",
+        "plays": 1
+      },
+      {
+        "artist": "Aldous Harding",
+        "title": "What Am I Gonna Do?",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Do It Better (feat. Zoe Wees)",
+        "plays": 1
+      },
+      {
+        "artist": "Saint Chaos",
+        "title": "Where I Belong",
+        "plays": 1
+      },
+      {
+        "artist": "KALIM, Nimo",
+        "title": "TOUCH YOUR TOES",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Treppenhaus",
+        "plays": 1
+      },
+      {
+        "artist": "Danger Dan",
+        "title": "Das ist alles von der Kunstfreiheit gedeckt",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub, Domiziana",
+        "title": "Unsterblich sein ( ) feat. Domiziana",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Sacrifice",
+        "plays": 1
+      },
+      {
+        "artist": "Take That",
+        "title": "Sweet July",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville, Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Großstadt",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
+        "plays": 1
+      },
+      {
+        "artist": "Oimara, Melissa Naschenweng",
+        "title": "Koa Bergbauernbua",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Fingertips",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Grennan",
+        "title": "Don't Break the Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Scorpions",
+        "title": "Peacemaker",
+        "plays": 1
+      },
+      {
+        "artist": "Mine",
+        "title": "Elefant",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Hurts/Purple Disco Machine",
+        "title": "Wonderful Life '25",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig Feat. Greeen",
+        "title": "Eh Zu Kurz",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Before You Go",
+        "plays": 1
+      },
+      {
+        "artist": "Calum Scott",
+        "title": "My World",
+        "plays": 1
+      },
+      {
+        "artist": "Griff",
+        "title": "Black Hole",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Ein Herz kann man nicht reparieren",
+        "plays": 1
+      },
+      {
+        "artist": "Filow & Ikkimel",
+        "title": "Jiggy",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Let it die",
+        "plays": 1
+      },
+      {
+        "artist": "Kelvin Jones",
+        "title": "Don't Let Me Go",
+        "plays": 1
+      },
+      {
+        "artist": "Evanescence",
+        "title": "Fight Like A Girl (feat. K.Flay)",
+        "plays": 1
+      },
+      {
+        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
+        "title": "Best Friend",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Never Go Back",
+        "plays": 1
+      },
+      {
+        "artist": "Takida",
+        "title": "In Spite of Everything",
+        "plays": 1
+      },
+      {
+        "artist": "A7S David Guetta Wizkid",
+        "title": "Lighter",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wenn das Liebe ist",
+        "plays": 1
+      },
+      {
+        "artist": "Nickelback",
+        "title": "What Are You Waiting for",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Weekend Lover",
+        "plays": 1
+      },
+      {
+        "artist": "JENNIE, Dua Lipa",
+        "title": "Handlebars",
+        "plays": 1
+      },
+      {
+        "artist": "Sido Feat. Andreas Bourani",
+        "title": "Astronaut",
+        "plays": 1
+      },
+      {
+        "artist": "Tua",
+        "title": "Herr Aber Aber",
+        "plays": 1
+      },
+      {
+        "artist": "Sparks",
+        "title": "Do Things My Own Way",
+        "plays": 1
+      },
+      {
+        "artist": "Romano",
+        "title": "Köpenick",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner & Stromae",
+        "title": "QUE CE SOIT CLAIR",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "My Love",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit feat. Demi Lovato",
+        "title": "Solo",
+        "plays": 1
+      },
+      {
+        "artist": "The Beatsteaks",
+        "title": "Against All Logic",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "I Believe",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Monster",
+        "plays": 1
+      },
+      {
+        "artist": "Obongjayar",
+        "title": "Sweet Danger",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Leiser",
+        "plays": 1
+      },
+      {
+        "artist": "L.A. Edwards",
+        "title": "El Camino",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
+        "plays": 1
+      },
+      {
+        "artist": "Simon & Garfunkel",
+        "title": "Cecilia",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Doors",
+        "plays": 1
+      },
+      {
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
+        "plays": 1
+      },
+      {
+        "artist": "ZAH1DE",
+        "title": "Uff Yaa",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "I Don’t Think That I Like Her",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Bandaids",
+        "plays": 1
+      }
+    ],
+    "top_song": {
+      "artist": "Provinz",
+      "title": "Hymne gegen euch",
+      "plays": 2
+    }
+  }
+}

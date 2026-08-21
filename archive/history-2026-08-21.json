@@ -1,0 +1,728 @@
+[
+  {
+    "key": "2026-08-20 07:29:23 +0200|Hymne gegen euch|Provinz",
+    "played_at": "2026-08-20 07:29:23 +0200",
+    "title": "Hymne gegen euch",
+    "artist": "Provinz"
+  },
+  {
+    "key": "2026-08-20 07:32:21 +0200|The One|Michael Patrick Kelly",
+    "played_at": "2026-08-20 07:32:21 +0200",
+    "title": "The One",
+    "artist": "Michael Patrick Kelly"
+  },
+  {
+    "key": "2026-08-20 07:35:21 +0200|Allein sein|Mario Novembre",
+    "played_at": "2026-08-20 07:35:21 +0200",
+    "title": "Allein sein",
+    "artist": "Mario Novembre"
+  },
+  {
+    "key": "2026-08-20 07:38:22 +0200|Better Days|Dermot Kennedy",
+    "played_at": "2026-08-20 07:38:22 +0200",
+    "title": "Better Days",
+    "artist": "Dermot Kennedy"
+  },
+  {
+    "key": "2026-08-20 07:41:40 +0200|Satisfy|Calvin Harris,Jazzy",
+    "played_at": "2026-08-20 07:41:40 +0200",
+    "title": "Satisfy",
+    "artist": "Calvin Harris,Jazzy"
+  },
+  {
+    "key": "2026-08-20 07:44:45 +0200|Brrr|Kim Petras",
+    "played_at": "2026-08-20 07:44:45 +0200",
+    "title": "Brrr",
+    "artist": "Kim Petras"
+  },
+  {
+    "key": "2026-08-20 07:47:17 +0200|Too Much|Matt Simons",
+    "played_at": "2026-08-20 07:47:17 +0200",
+    "title": "Too Much",
+    "artist": "Matt Simons"
+  },
+  {
+    "key": "2026-08-20 07:50:23 +0200|Azzlack Style feat. Haftbefehl|Celo & Abdi",
+    "played_at": "2026-08-20 07:50:23 +0200",
+    "title": "Azzlack Style feat. Haftbefehl",
+    "artist": "Celo & Abdi"
+  },
+  {
+    "key": "2026-08-20 07:54:14 +0200|Shivers|Ed Sheeran",
+    "played_at": "2026-08-20 07:54:14 +0200",
+    "title": "Shivers",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-08-20 07:57:39 +0200|Boilermaker|Royal Blood",
+    "played_at": "2026-08-20 07:57:39 +0200",
+    "title": "Boilermaker",
+    "artist": "Royal Blood"
+  },
+  {
+    "key": "2026-08-20 08:45:53 +0200|Irgendwo da draußen|Max Giesinger",
+    "played_at": "2026-08-20 08:45:53 +0200",
+    "title": "Irgendwo da draußen",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-08-20 08:49:26 +0200|In Your Eyes|Robin Schulz feat. Alida",
+    "played_at": "2026-08-20 08:49:26 +0200",
+    "title": "In Your Eyes",
+    "artist": "Robin Schulz feat. Alida"
+  },
+  {
+    "key": "2026-08-20 08:52:54 +0200|VERLIEBT IN MICH|FAYAN (feat. Dalton)",
+    "played_at": "2026-08-20 08:52:54 +0200",
+    "title": "VERLIEBT IN MICH",
+    "artist": "FAYAN (feat. Dalton)"
+  },
+  {
+    "key": "2026-08-20 08:55:04 +0200|My Universe|Coldplay X BTS",
+    "played_at": "2026-08-20 08:55:04 +0200",
+    "title": "My Universe",
+    "artist": "Coldplay X BTS"
+  },
+  {
+    "key": "2026-08-20 08:58:52 +0200|Hymn For The Weekend|Coldplay",
+    "played_at": "2026-08-20 08:58:52 +0200",
+    "title": "Hymn For The Weekend",
+    "artist": "Coldplay"
+  },
+  {
+    "key": "2026-08-20 09:03:11 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-20 09:03:11 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-20 09:05:52 +0200|PRIDE|Felix Jaehn JHart",
+    "played_at": "2026-08-20 09:05:52 +0200",
+    "title": "PRIDE",
+    "artist": "Felix Jaehn JHart"
+  },
+  {
+    "key": "2026-08-20 09:08:30 +0200|Wild & Free|Lena",
+    "played_at": "2026-08-20 09:08:30 +0200",
+    "title": "Wild & Free",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-08-20 09:11:45 +0200|Power Ranger|Symba",
+    "played_at": "2026-08-20 09:11:45 +0200",
+    "title": "Power Ranger",
+    "artist": "Symba"
+  },
+  {
+    "key": "2026-08-20 09:14:05 +0200|Abracadabra|Lady Gaga",
+    "played_at": "2026-08-20 09:14:05 +0200",
+    "title": "Abracadabra",
+    "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-08-20 11:19:14 +0200|So Cool|Big K.R.I.T.",
+    "played_at": "2026-08-20 11:19:14 +0200",
+    "title": "So Cool",
+    "artist": "Big K.R.I.T."
+  },
+  {
+    "key": "2026-08-20 11:21:05 +0200|Cry For Me|The Weeknd",
+    "played_at": "2026-08-20 11:21:05 +0200",
+    "title": "Cry For Me",
+    "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-08-20 11:24:49 +0200|Call Me Little Sunshine|GHOST",
+    "played_at": "2026-08-20 11:24:49 +0200",
+    "title": "Call Me Little Sunshine",
+    "artist": "GHOST"
+  },
+  {
+    "key": "2026-08-20 11:29:34 +0200|Don’t Call Me Angel (Charlie’s Angels)|Ariana Grande & Miley Cyrus & Lana Del Rey",
+    "played_at": "2026-08-20 11:29:34 +0200",
+    "title": "Don’t Call Me Angel (Charlie’s Angels)",
+    "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey"
+  },
+  {
+    "key": "2026-08-20 11:32:44 +0200|The Ghouls|Midlake",
+    "played_at": "2026-08-20 11:32:44 +0200",
+    "title": "The Ghouls",
+    "artist": "Midlake"
+  },
+  {
+    "key": "2026-08-20 11:36:44 +0200|Serendipia|ZAZ",
+    "played_at": "2026-08-20 11:36:44 +0200",
+    "title": "Serendipia",
+    "artist": "ZAZ"
+  },
+  {
+    "key": "2026-08-20 11:39:38 +0200|FourFiveSeconds|Rihanna & Kanye West & Paul McCartney",
+    "played_at": "2026-08-20 11:39:38 +0200",
+    "title": "FourFiveSeconds",
+    "artist": "Rihanna & Kanye West & Paul McCartney"
+  },
+  {
+    "key": "2026-08-20 11:42:46 +0200|Material Lover|SIENNA SPIRO",
+    "played_at": "2026-08-20 11:42:46 +0200",
+    "title": "Material Lover",
+    "artist": "SIENNA SPIRO"
+  },
+  {
+    "key": "2026-08-20 11:45:44 +0200|Detroit City 2021|Alice Cooper",
+    "played_at": "2026-08-20 11:45:44 +0200",
+    "title": "Detroit City 2021",
+    "artist": "Alice Cooper"
+  },
+  {
+    "key": "2026-08-20 11:49:04 +0200|It'll Be Okay|Shawn Mendes",
+    "played_at": "2026-08-20 11:49:04 +0200",
+    "title": "It'll Be Okay",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-08-20 12:02:26 +0200|Pazifik|Provinz",
+    "played_at": "2026-08-20 12:02:26 +0200",
+    "title": "Pazifik",
+    "artist": "Provinz"
+  },
+  {
+    "key": "2026-08-20 12:05:26 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-20 12:05:26 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-20 12:08:01 +0200|Hunger|Florence + The Machine",
+    "played_at": "2026-08-20 12:08:01 +0200",
+    "title": "Hunger",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "key": "2026-08-20 12:11:35 +0200|Dies & Das|01099",
+    "played_at": "2026-08-20 12:11:35 +0200",
+    "title": "Dies & Das",
+    "artist": "01099"
+  },
+  {
+    "key": "2026-08-20 12:13:54 +0200|Freier Fall|Clueso",
+    "played_at": "2026-08-20 12:13:54 +0200",
+    "title": "Freier Fall",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-08-20 12:16:30 +0200|Footprints|Tom Gregory",
+    "played_at": "2026-08-20 12:16:30 +0200",
+    "title": "Footprints",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-08-20 12:19:49 +0200|Der Sommer|Bosse",
+    "played_at": "2026-08-20 12:19:49 +0200",
+    "title": "Der Sommer",
+    "artist": "Bosse"
+  },
+  {
+    "key": "2026-08-20 12:23:24 +0200|I Want You (Fever)|Momma",
+    "played_at": "2026-08-20 12:23:24 +0200",
+    "title": "I Want You (Fever)",
+    "artist": "Momma"
+  },
+  {
+    "key": "2026-08-20 12:27:01 +0200|Blurred Lines|Robin Thicke feat. Pharrell Williams & T.I.",
+    "played_at": "2026-08-20 12:27:01 +0200",
+    "title": "Blurred Lines",
+    "artist": "Robin Thicke feat. Pharrell Williams & T.I."
+  },
+  {
+    "key": "2026-08-20 12:31:25 +0200|Anxious|Dennis Lloyd",
+    "played_at": "2026-08-20 12:31:25 +0200",
+    "title": "Anxious",
+    "artist": "Dennis Lloyd"
+  },
+  {
+    "key": "2026-08-20 13:10:10 +0200|Looks Like Me|Dean Lewis",
+    "played_at": "2026-08-20 13:10:10 +0200",
+    "title": "Looks Like Me",
+    "artist": "Dean Lewis"
+  },
+  {
+    "key": "2026-08-20 13:13:20 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-08-20 13:13:20 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-08-20 13:16:54 +0200|Dream Machine|Purple Disco Machine, Alison Goldfrapp",
+    "played_at": "2026-08-20 13:16:54 +0200",
+    "title": "Dream Machine",
+    "artist": "Purple Disco Machine, Alison Goldfrapp"
+  },
+  {
+    "key": "2026-08-20 13:20:16 +0200|Raindrops (feat. Leony)|Katja Krasavice",
+    "played_at": "2026-08-20 13:20:16 +0200",
+    "title": "Raindrops (feat. Leony)",
+    "artist": "Katja Krasavice"
+  },
+  {
+    "key": "2026-08-20 13:22:36 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-08-20 13:22:36 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-08-20 13:26:07 +0200|What Am I Gonna Do?|Aldous Harding",
+    "played_at": "2026-08-20 13:26:07 +0200",
+    "title": "What Am I Gonna Do?",
+    "artist": "Aldous Harding"
+  },
+  {
+    "key": "2026-08-20 13:29:51 +0200|Do It Better (feat. Zoe Wees)|Felix Jaehn",
+    "played_at": "2026-08-20 13:29:51 +0200",
+    "title": "Do It Better (feat. Zoe Wees)",
+    "artist": "Felix Jaehn"
+  },
+  {
+    "key": "2026-08-20 13:32:39 +0200|Where I Belong|Saint Chaos",
+    "played_at": "2026-08-20 13:32:39 +0200",
+    "title": "Where I Belong",
+    "artist": "Saint Chaos"
+  },
+  {
+    "key": "2026-08-20 13:36:06 +0200|TOUCH YOUR TOES|KALIM, Nimo",
+    "played_at": "2026-08-20 13:36:06 +0200",
+    "title": "TOUCH YOUR TOES",
+    "artist": "KALIM, Nimo"
+  },
+  {
+    "key": "2026-08-20 13:38:24 +0200|Treppenhaus|LEA",
+    "played_at": "2026-08-20 13:38:24 +0200",
+    "title": "Treppenhaus",
+    "artist": "LEA"
+  },
+  {
+    "key": "2026-08-20 15:36:59 +0200|Das ist alles von der Kunstfreiheit gedeckt|Danger Dan",
+    "played_at": "2026-08-20 15:36:59 +0200",
+    "title": "Das ist alles von der Kunstfreiheit gedeckt",
+    "artist": "Danger Dan"
+  },
+  {
+    "key": "2026-08-20 15:40:48 +0200|Unsterblich sein ( ) feat. Domiziana|Kraftklub, Domiziana",
+    "played_at": "2026-08-20 15:40:48 +0200",
+    "title": "Unsterblich sein ( ) feat. Domiziana",
+    "artist": "Kraftklub, Domiziana"
+  },
+  {
+    "key": "2026-08-20 15:43:51 +0200|Hymne gegen euch|Provinz",
+    "played_at": "2026-08-20 15:43:51 +0200",
+    "title": "Hymne gegen euch",
+    "artist": "Provinz"
+  },
+  {
+    "key": "2026-08-20 15:46:50 +0200|Sacrifice|The Weeknd",
+    "played_at": "2026-08-20 15:46:50 +0200",
+    "title": "Sacrifice",
+    "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-08-20 15:49:59 +0200|Sweet July|Take That",
+    "played_at": "2026-08-20 15:49:59 +0200",
+    "title": "Sweet July",
+    "artist": "Take That"
+  },
+  {
+    "key": "2026-08-20 15:52:22 +0200|I WANNA BE YOUR SLAVE|Måneskin",
+    "played_at": "2026-08-20 15:52:22 +0200",
+    "title": "I WANNA BE YOUR SLAVE",
+    "artist": "Måneskin"
+  },
+  {
+    "key": "2026-08-20 15:55:16 +0200|As It Was|Harry Styles",
+    "played_at": "2026-08-20 15:55:16 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-08-20 15:58:03 +0200|Forever Young|David Guetta, Alphaville, Ava Max",
+    "played_at": "2026-08-20 15:58:03 +0200",
+    "title": "Forever Young",
+    "artist": "David Guetta, Alphaville, Ava Max"
+  },
+  {
+    "key": "2026-08-20 16:00:39 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-20 16:00:39 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-20 16:03:14 +0200|Großstadt|Provinz",
+    "played_at": "2026-08-20 16:03:14 +0200",
+    "title": "Großstadt",
+    "artist": "Provinz"
+  },
+  {
+    "key": "2026-08-20 17:20:36 +0200|Mañana|Alvaro Soler feat. Cali Y El Dandee",
+    "played_at": "2026-08-20 17:20:36 +0200",
+    "title": "Mañana",
+    "artist": "Alvaro Soler feat. Cali Y El Dandee"
+  },
+  {
+    "key": "2026-08-20 17:24:08 +0200|Irgendwo da draußen|Max Giesinger",
+    "played_at": "2026-08-20 17:24:08 +0200",
+    "title": "Irgendwo da draußen",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-08-20 17:27:41 +0200|Koa Bergbauernbua|Oimara, Melissa Naschenweng",
+    "played_at": "2026-08-20 17:27:41 +0200",
+    "title": "Koa Bergbauernbua",
+    "artist": "Oimara, Melissa Naschenweng"
+  },
+  {
+    "key": "2026-08-20 17:31:17 +0200|Fingertips|Tom Gregory",
+    "played_at": "2026-08-20 17:31:17 +0200",
+    "title": "Fingertips",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-08-20 17:34:02 +0200|Don't Break the Heart|Tom Grennan",
+    "played_at": "2026-08-20 17:34:02 +0200",
+    "title": "Don't Break the Heart",
+    "artist": "Tom Grennan"
+  },
+  {
+    "key": "2026-08-20 17:37:50 +0200|Watch It Burn|Katy Perry",
+    "played_at": "2026-08-20 17:37:50 +0200",
+    "title": "Watch It Burn",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-08-20 17:40:46 +0200|Peacemaker|Scorpions",
+    "played_at": "2026-08-20 17:40:46 +0200",
+    "title": "Peacemaker",
+    "artist": "Scorpions"
+  },
+  {
+    "key": "2026-08-20 17:43:42 +0200|Elefant|Mine",
+    "played_at": "2026-08-20 17:43:42 +0200",
+    "title": "Elefant",
+    "artist": "Mine"
+  },
+  {
+    "key": "2026-08-20 17:46:57 +0200|Im Sommer bin ich dein König|International Music",
+    "played_at": "2026-08-20 17:46:57 +0200",
+    "title": "Im Sommer bin ich dein König",
+    "artist": "International Music"
+  },
+  {
+    "key": "2026-08-20 17:51:12 +0200|Hold Me Closer|Elton John, Britney Spears",
+    "played_at": "2026-08-20 17:51:12 +0200",
+    "title": "Hold Me Closer",
+    "artist": "Elton John, Britney Spears"
+  },
+  {
+    "key": "2026-08-20 18:33:15 +0200|Bad Girl|Daya",
+    "played_at": "2026-08-20 18:33:15 +0200",
+    "title": "Bad Girl",
+    "artist": "Daya"
+  },
+  {
+    "key": "2026-08-20 18:36:22 +0200|Detroit City 2021|Alice Cooper",
+    "played_at": "2026-08-20 18:36:22 +0200",
+    "title": "Detroit City 2021",
+    "artist": "Alice Cooper"
+  },
+  {
+    "key": "2026-08-20 18:39:41 +0200|Wonderful Life '25|Hurts/Purple Disco Machine",
+    "played_at": "2026-08-20 18:39:41 +0200",
+    "title": "Wonderful Life '25",
+    "artist": "Hurts/Purple Disco Machine"
+  },
+  {
+    "key": "2026-08-20 18:42:40 +0200|Control|Zoe Wees",
+    "played_at": "2026-08-20 18:42:40 +0200",
+    "title": "Control",
+    "artist": "Zoe Wees"
+  },
+  {
+    "key": "2026-08-20 18:46:31 +0200|Dies & Das|01099",
+    "played_at": "2026-08-20 18:46:31 +0200",
+    "title": "Dies & Das",
+    "artist": "01099"
+  },
+  {
+    "key": "2026-08-20 18:48:50 +0200|Eh Zu Kurz|1986zig Feat. Greeen",
+    "played_at": "2026-08-20 18:48:50 +0200",
+    "title": "Eh Zu Kurz",
+    "artist": "1986zig Feat. Greeen"
+  },
+  {
+    "key": "2026-08-20 18:51:13 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-08-20 18:51:13 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-20 18:51:49 +0200|Before You Go|Lewis Capaldi",
+    "played_at": "2026-08-20 18:51:49 +0200",
+    "title": "Before You Go",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-08-20 18:55:23 +0200|My World|Calum Scott",
+    "played_at": "2026-08-20 18:55:23 +0200",
+    "title": "My World",
+    "artist": "Calum Scott"
+  },
+  {
+    "key": "2026-08-20 19:01:25 +0200|Black Hole|Griff",
+    "played_at": "2026-08-20 19:01:25 +0200",
+    "title": "Black Hole",
+    "artist": "Griff"
+  },
+  {
+    "key": "2026-08-20 19:04:42 +0200|Ein Herz kann man nicht reparieren|Alli Neumann",
+    "played_at": "2026-08-20 19:04:42 +0200",
+    "title": "Ein Herz kann man nicht reparieren",
+    "artist": "Alli Neumann"
+  },
+  {
+    "key": "2026-08-20 21:17:44 +0200|Jiggy|Filow & Ikkimel",
+    "played_at": "2026-08-20 21:17:44 +0200",
+    "title": "Jiggy",
+    "artist": "Filow & Ikkimel"
+  },
+  {
+    "key": "2026-08-20 21:19:55 +0200|Let it die|Ellie Goulding",
+    "played_at": "2026-08-20 21:19:55 +0200",
+    "title": "Let it die",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "key": "2026-08-20 21:22:41 +0200|Don't Let Me Go|Kelvin Jones",
+    "played_at": "2026-08-20 21:22:41 +0200",
+    "title": "Don't Let Me Go",
+    "artist": "Kelvin Jones"
+  },
+  {
+    "key": "2026-08-20 21:25:14 +0200|Fight Like A Girl (feat. K.Flay)|Evanescence",
+    "played_at": "2026-08-20 21:25:14 +0200",
+    "title": "Fight Like A Girl (feat. K.Flay)",
+    "artist": "Evanescence"
+  },
+  {
+    "key": "2026-08-20 21:28:18 +0200|Best Friend|Saweetie Feat. Doja Cat & Katja Krasavice",
+    "played_at": "2026-08-20 21:28:18 +0200",
+    "title": "Best Friend",
+    "artist": "Saweetie Feat. Doja Cat & Katja Krasavice"
+  },
+  {
+    "key": "2026-08-20 21:31:44 +0200|Throwback|Michael Patrick Kelly",
+    "played_at": "2026-08-20 21:31:44 +0200",
+    "title": "Throwback",
+    "artist": "Michael Patrick Kelly"
+  },
+  {
+    "key": "2026-08-20 21:34:13 +0200|Dai Dai|Shakira & Burna Boy",
+    "played_at": "2026-08-20 21:34:13 +0200",
+    "title": "Dai Dai",
+    "artist": "Shakira & Burna Boy"
+  },
+  {
+    "key": "2026-08-20 21:37:56 +0200|Never Go Back|Dennis Lloyd",
+    "played_at": "2026-08-20 21:37:56 +0200",
+    "title": "Never Go Back",
+    "artist": "Dennis Lloyd"
+  },
+  {
+    "key": "2026-08-20 21:40:52 +0200|In Spite of Everything|Takida",
+    "played_at": "2026-08-20 21:40:52 +0200",
+    "title": "In Spite of Everything",
+    "artist": "Takida"
+  },
+  {
+    "key": "2026-08-20 21:44:53 +0200|Lighter|A7S David Guetta Wizkid",
+    "played_at": "2026-08-20 21:44:53 +0200",
+    "title": "Lighter",
+    "artist": "A7S David Guetta Wizkid"
+  },
+  {
+    "key": "2026-08-20 22:27:41 +0200|Wenn das Liebe ist|Nina Chuba",
+    "played_at": "2026-08-20 22:27:41 +0200",
+    "title": "Wenn das Liebe ist",
+    "artist": "Nina Chuba"
+  },
+  {
+    "key": "2026-08-20 22:30:26 +0200|What Are You Waiting for|Nickelback",
+    "played_at": "2026-08-20 22:30:26 +0200",
+    "title": "What Are You Waiting for",
+    "artist": "Nickelback"
+  },
+  {
+    "key": "2026-08-20 22:34:06 +0200|Weekend Lover|Nico Santos",
+    "played_at": "2026-08-20 22:34:06 +0200",
+    "title": "Weekend Lover",
+    "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-08-20 22:37:51 +0200|Handlebars|JENNIE, Dua Lipa",
+    "played_at": "2026-08-20 22:37:51 +0200",
+    "title": "Handlebars",
+    "artist": "JENNIE, Dua Lipa"
+  },
+  {
+    "key": "2026-08-20 22:40:56 +0200|Astronaut|Sido Feat. Andreas Bourani",
+    "played_at": "2026-08-20 22:40:56 +0200",
+    "title": "Astronaut",
+    "artist": "Sido Feat. Andreas Bourani"
+  },
+  {
+    "key": "2026-08-20 22:44:54 +0200|Herr Aber Aber|Tua",
+    "played_at": "2026-08-20 22:44:54 +0200",
+    "title": "Herr Aber Aber",
+    "artist": "Tua"
+  },
+  {
+    "key": "2026-08-20 22:47:07 +0200|Do Things My Own Way|Sparks",
+    "played_at": "2026-08-20 22:47:07 +0200",
+    "title": "Do Things My Own Way",
+    "artist": "Sparks"
+  },
+  {
+    "key": "2026-08-20 22:50:48 +0200|Köpenick|Romano",
+    "played_at": "2026-08-20 22:50:48 +0200",
+    "title": "Köpenick",
+    "artist": "Romano"
+  },
+  {
+    "key": "2026-08-20 22:54:11 +0200|Señorita|Shawn Mendes & Camila Cabello",
+    "played_at": "2026-08-20 22:54:11 +0200",
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello"
+  },
+  {
+    "key": "2026-08-20 22:57:22 +0200|QUE CE SOIT CLAIR|Paul Kalkbrenner & Stromae",
+    "played_at": "2026-08-20 22:57:22 +0200",
+    "title": "QUE CE SOIT CLAIR",
+    "artist": "Paul Kalkbrenner & Stromae"
+  },
+  {
+    "key": "2026-08-21 00:34:37 +0200|Dance With Me|Tom Gregory",
+    "played_at": "2026-08-21 00:34:37 +0200",
+    "title": "Dance With Me",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-08-21 00:37:01 +0200|My Love|Florence + The Machine",
+    "played_at": "2026-08-21 00:37:01 +0200",
+    "title": "My Love",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "key": "2026-08-21 00:39:58 +0200|Solo|Clean Bandit feat. Demi Lovato",
+    "played_at": "2026-08-21 00:39:58 +0200",
+    "title": "Solo",
+    "artist": "Clean Bandit feat. Demi Lovato"
+  },
+  {
+    "key": "2026-08-21 00:43:42 +0200|Against All Logic|The Beatsteaks",
+    "played_at": "2026-08-21 00:43:42 +0200",
+    "title": "Against All Logic",
+    "artist": "The Beatsteaks"
+  },
+  {
+    "key": "2026-08-21 00:47:17 +0200|I Believe|Kamrad",
+    "played_at": "2026-08-21 00:47:17 +0200",
+    "title": "I Believe",
+    "artist": "Kamrad"
+  },
+  {
+    "key": "2026-08-21 00:49:44 +0200|Monster|Alli Neumann",
+    "played_at": "2026-08-21 00:49:44 +0200",
+    "title": "Monster",
+    "artist": "Alli Neumann"
+  },
+  {
+    "key": "2026-08-21 00:53:24 +0200|Sweet Danger|Obongjayar",
+    "played_at": "2026-08-21 00:53:24 +0200",
+    "title": "Sweet Danger",
+    "artist": "Obongjayar"
+  },
+  {
+    "key": "2026-08-21 00:56:05 +0200|Die beste Musik aus allen Jahrzenten|Jingle",
+    "played_at": "2026-08-21 00:56:05 +0200",
+    "title": "Die beste Musik aus allen Jahrzenten",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-21 00:56:40 +0200|Leiser|LEA",
+    "played_at": "2026-08-21 00:56:40 +0200",
+    "title": "Leiser",
+    "artist": "LEA"
+  },
+  {
+    "key": "2026-08-21 01:00:06 +0200|El Camino|L.A. Edwards",
+    "played_at": "2026-08-21 01:00:06 +0200",
+    "title": "El Camino",
+    "artist": "L.A. Edwards"
+  },
+  {
+    "key": "2026-08-21 05:02:05 +0200|Nur die Musik|JORIS",
+    "played_at": "2026-08-21 05:02:05 +0200",
+    "title": "Nur die Musik",
+    "artist": "JORIS"
+  },
+  {
+    "key": "2026-08-21 05:05:40 +0200|Cecilia|Simon & Garfunkel",
+    "played_at": "2026-08-21 05:05:40 +0200",
+    "title": "Cecilia",
+    "artist": "Simon & Garfunkel"
+  },
+  {
+    "key": "2026-08-21 05:08:34 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-21 05:08:34 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-21 05:11:33 +0200|Doors|Noah Kahan",
+    "played_at": "2026-08-21 05:11:33 +0200",
+    "title": "Doors",
+    "artist": "Noah Kahan"
+  },
+  {
+    "key": "2026-08-21 05:15:24 +0200|Wenn Du Mich Lässt|Lea",
+    "played_at": "2026-08-21 05:15:24 +0200",
+    "title": "Wenn Du Mich Lässt",
+    "artist": "Lea"
+  },
+  {
+    "key": "2026-08-21 05:18:26 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-08-21 05:18:26 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-08-21 05:21:57 +0200|Uff Yaa|ZAH1DE",
+    "played_at": "2026-08-21 05:21:57 +0200",
+    "title": "Uff Yaa",
+    "artist": "ZAH1DE"
+  },
+  {
+    "key": "2026-08-21 05:23:45 +0200|I Ain’t Worried|OneRepublic",
+    "played_at": "2026-08-21 05:23:45 +0200",
+    "title": "I Ain’t Worried",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-08-21 05:26:12 +0200|I Don’t Think That I Like Her|Charlie Puth",
+    "played_at": "2026-08-21 05:26:12 +0200",
+    "title": "I Don’t Think That I Like Her",
+    "artist": "Charlie Puth"
+  },
+  {
+    "key": "2026-08-21 05:29:20 +0200|Bandaids|Katy Perry",
+    "played_at": "2026-08-21 05:29:20 +0200",
+    "title": "Bandaids",
+    "artist": "Katy Perry"
+  }
+]
