@@ -2,8 +2,8 @@
   "2026-08-21 07:00": {
     "period_start": "2026-08-21T07:00:00+02:00",
     "period_end": "2026-08-22T07:00:00+02:00",
-    "total_entries": 110,
-    "music_entries": 103,
+    "total_entries": 120,
+    "music_entries": 113,
     "songs": [
       {
         "artist": "Kim Petras",
@@ -28,6 +28,21 @@
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "Señorita",
+        "plays": 2
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Love Yourself",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Walker",
+        "title": "Leave a Light On",
+        "plays": 2
+      },
+      {
+        "artist": "Gestört Aber GeiL x SkinnyJewlz",
+        "title": "Wenn du da bist",
         "plays": 2
       },
       {
@@ -231,11 +246,6 @@
         "plays": 1
       },
       {
-        "artist": "Justin Bieber",
-        "title": "Love Yourself",
-        "plays": 1
-      },
-      {
         "artist": "Teddy Swims",
         "title": "Lose Control",
         "plays": 1
@@ -258,16 +268,6 @@
       {
         "artist": "Camila Cabello",
         "title": "Godspeed",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Walker",
-        "title": "Leave a Light On",
-        "plays": 1
-      },
-      {
-        "artist": "Gestört Aber GeiL x SkinnyJewlz",
-        "title": "Wenn du da bist",
         "plays": 1
       },
       {
@@ -493,6 +493,41 @@
       {
         "artist": "Stormzy",
         "title": "Mel Made Me Do It",
+        "plays": 1
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Love Under Pressure",
+        "plays": 1
+      },
+      {
+        "artist": "De La Soul",
+        "title": "The Package (Prod. By Pete Rock)",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Girls Like Us",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Ein Herz kann man nicht reparieren",
+        "plays": 1
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
+        "plays": 1
+      },
+      {
+        "artist": "Mogwai",
+        "title": "Fanzine Made of Flesh",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Lust For Life (feat. The Weeknd)",
         "plays": 1
       }
     ],
