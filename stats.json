@@ -2,8 +2,8 @@
   "2026-08-21 07:00": {
     "period_start": "2026-08-21T07:00:00+02:00",
     "period_end": "2026-08-22T07:00:00+02:00",
-    "total_entries": 32,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "Kim Petras",
@@ -148,6 +148,41 @@
       {
         "artist": "Lewis Capaldi",
         "title": "Forget me",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "The Fate of Ophelia",
+        "plays": 1
+      },
+      {
+        "artist": "Simon & Garfunkel",
+        "title": "Cecilia",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
+        "plays": 1
+      },
+      {
+        "artist": "Joanne Shaw Taylor",
+        "title": "01. Sweet 'Lil Lies (2024)",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Milky Chance & Jack Johnson",
+        "title": "Don't Let Me Down",
+        "plays": 1
+      },
+      {
+        "artist": "Father John Misty",
+        "title": "She Cleans Up",
         "plays": 1
       }
     ],
