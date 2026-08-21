@@ -478,5 +478,65 @@
     "played_at": "2026-08-21 21:15:14 +0200",
     "title": "Schwarz",
     "artist": "LEA & Casper"
+  },
+  {
+    "key": "2026-08-21 21:25:44 +0200|Black Hole|Griff",
+    "played_at": "2026-08-21 21:25:44 +0200",
+    "title": "Black Hole",
+    "artist": "Griff"
+  },
+  {
+    "key": "2026-08-21 21:29:01 +0200|Stay (If You Wanna Dance)|Myles Smith",
+    "played_at": "2026-08-21 21:29:01 +0200",
+    "title": "Stay (If You Wanna Dance)",
+    "artist": "Myles Smith"
+  },
+  {
+    "key": "2026-08-21 21:32:07 +0200|Unsere Bank|Provinz & Danger Dan",
+    "played_at": "2026-08-21 21:32:07 +0200",
+    "title": "Unsere Bank",
+    "artist": "Provinz & Danger Dan"
+  },
+  {
+    "key": "2026-08-21 21:34:58 +0200|Drei Uhr Nachts|Mark Forster, LEA",
+    "played_at": "2026-08-21 21:34:58 +0200",
+    "title": "Drei Uhr Nachts",
+    "artist": "Mark Forster, LEA"
+  },
+  {
+    "key": "2026-08-21 21:37:38 +0200|Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version|Tobee",
+    "played_at": "2026-08-21 21:37:38 +0200",
+    "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+    "artist": "Tobee"
+  },
+  {
+    "key": "2026-08-21 21:40:52 +0200|Wild & Free|Lena",
+    "played_at": "2026-08-21 21:40:52 +0200",
+    "title": "Wild & Free",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-08-21 21:44:07 +0200|Call It Love|Felix Jaehn, Ray Dalton",
+    "played_at": "2026-08-21 21:44:07 +0200",
+    "title": "Call It Love",
+    "artist": "Felix Jaehn, Ray Dalton"
+  },
+  {
+    "key": "2026-08-21 21:46:41 +0200|Satisfy|Calvin Harris,Jazzy",
+    "played_at": "2026-08-21 21:46:41 +0200",
+    "title": "Satisfy",
+    "artist": "Calvin Harris,Jazzy"
+  },
+  {
+    "key": "2026-08-21 21:49:46 +0200|My Universe|Coldplay X BTS",
+    "played_at": "2026-08-21 21:49:46 +0200",
+    "title": "My Universe",
+    "artist": "Coldplay X BTS"
+  },
+  {
+    "key": "2026-08-21 21:53:34 +0200|Fingertips|Tom Gregory",
+    "played_at": "2026-08-21 21:53:34 +0200",
+    "title": "Fingertips",
+    "artist": "Tom Gregory"
   }
 ]

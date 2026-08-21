@@ -2,12 +2,17 @@
   "2026-08-21 07:00": {
     "period_start": "2026-08-21T07:00:00+02:00",
     "period_end": "2026-08-22T07:00:00+02:00",
-    "total_entries": 80,
-    "music_entries": 73,
+    "total_entries": 90,
+    "music_entries": 83,
     "songs": [
       {
         "artist": "Kim Petras",
         "title": "Brrr",
+        "plays": 2
+      },
+      {
+        "artist": "Griff",
+        "title": "Black Hole",
         "plays": 2
       },
       {
@@ -133,11 +138,6 @@
       {
         "artist": "Ed Sheeran",
         "title": "Old Phone",
-        "plays": 1
-      },
-      {
-        "artist": "Griff",
-        "title": "Black Hole",
         "plays": 1
       },
       {
@@ -358,6 +358,51 @@
       {
         "artist": "LEA & Casper",
         "title": "Schwarz",
+        "plays": 1
+      },
+      {
+        "artist": "Myles Smith",
+        "title": "Stay (If You Wanna Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz & Danger Dan",
+        "title": "Unsere Bank",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster, LEA",
+        "title": "Drei Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Wild & Free",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, Ray Dalton",
+        "title": "Call It Love",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay X BTS",
+        "title": "My Universe",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Fingertips",
         "plays": 1
       }
     ],
