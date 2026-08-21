@@ -418,5 +418,65 @@
     "played_at": "2026-08-21 19:03:01 +0200",
     "title": "Willow",
     "artist": "Taylor Swift"
+  },
+  {
+    "key": "2026-08-21 20:46:01 +0200|Señorita|Shawn Mendes & Camila Cabello",
+    "played_at": "2026-08-21 20:46:01 +0200",
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello"
+  },
+  {
+    "key": "2026-08-21 20:49:12 +0200|Club Song|The Pussycat Dolls",
+    "played_at": "2026-08-21 20:49:12 +0200",
+    "title": "Club Song",
+    "artist": "The Pussycat Dolls"
+  },
+  {
+    "key": "2026-08-21 20:51:40 +0200|Wenn Die Party Vorbei Ist|Provinz",
+    "played_at": "2026-08-21 20:51:40 +0200",
+    "title": "Wenn Die Party Vorbei Ist",
+    "artist": "Provinz"
+  },
+  {
+    "key": "2026-08-21 20:55:34 +0200|Moonshooter|Ab-Soul",
+    "played_at": "2026-08-21 20:55:34 +0200",
+    "title": "Moonshooter",
+    "artist": "Ab-Soul"
+  },
+  {
+    "key": "2026-08-21 20:58:37 +0200|Cry For Me|The Weeknd",
+    "played_at": "2026-08-21 20:58:37 +0200",
+    "title": "Cry For Me",
+    "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-08-21 21:02:21 +0200|Hate Me|Ellie Goulding & Juice WRLD",
+    "played_at": "2026-08-21 21:02:21 +0200",
+    "title": "Hate Me",
+    "artist": "Ellie Goulding & Juice WRLD"
+  },
+  {
+    "key": "2026-08-21 21:05:28 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-21 21:05:28 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-21 21:08:26 +0200|Anxious|Dennis Lloyd",
+    "played_at": "2026-08-21 21:08:26 +0200",
+    "title": "Anxious",
+    "artist": "Dennis Lloyd"
+  },
+  {
+    "key": "2026-08-21 21:11:23 +0200|Who'll Stand With Us?|Dropkick Murphys",
+    "played_at": "2026-08-21 21:11:23 +0200",
+    "title": "Who'll Stand With Us?",
+    "artist": "Dropkick Murphys"
+  },
+  {
+    "key": "2026-08-21 21:15:14 +0200|Schwarz|LEA & Casper",
+    "played_at": "2026-08-21 21:15:14 +0200",
+    "title": "Schwarz",
+    "artist": "LEA & Casper"
   }
 ]

@@ -2,12 +2,17 @@
   "2026-08-21 07:00": {
     "period_start": "2026-08-21T07:00:00+02:00",
     "period_end": "2026-08-22T07:00:00+02:00",
-    "total_entries": 70,
-    "music_entries": 64,
+    "total_entries": 80,
+    "music_entries": 73,
     "songs": [
       {
         "artist": "Kim Petras",
         "title": "Brrr",
+        "plays": 2
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
         "plays": 2
       },
       {
@@ -196,11 +201,6 @@
         "plays": 1
       },
       {
-        "artist": "Shawn Mendes & Camila Cabello",
-        "title": "Señorita",
-        "plays": 1
-      },
-      {
         "artist": "Billy Idol feat. Avril Lavigne",
         "title": "77",
         "plays": 1
@@ -318,6 +318,46 @@
       {
         "artist": "Taylor Swift",
         "title": "Willow",
+        "plays": 1
+      },
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "Club Song",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Wenn Die Party Vorbei Ist",
+        "plays": 1
+      },
+      {
+        "artist": "Ab-Soul",
+        "title": "Moonshooter",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Cry For Me",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding & Juice WRLD",
+        "title": "Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Anxious",
+        "plays": 1
+      },
+      {
+        "artist": "Dropkick Murphys",
+        "title": "Who'll Stand With Us?",
+        "plays": 1
+      },
+      {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
         "plays": 1
       }
     ],
