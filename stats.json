@@ -2,8 +2,8 @@
   "2026-08-21 07:00": {
     "period_start": "2026-08-21T07:00:00+02:00",
     "period_end": "2026-08-22T07:00:00+02:00",
-    "total_entries": 22,
-    "music_entries": 19,
+    "total_entries": 32,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Kim Petras",
@@ -98,6 +98,56 @@
       {
         "artist": "Cardi B",
         "title": "Imaginary Playerz",
+        "plays": 1
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Clipse",
+        "title": "Ace Trumpets feat. Pusha T & No Malice",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Leon Grosch",
+        "title": "Don't Let It Get You Down",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "Griff",
+        "title": "Black Hole",
+        "plays": 1
+      },
+      {
+        "artist": "Keith Richards",
+        "title": "Crosseyed Heart",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Forget me",
         "plays": 1
       }
     ],
