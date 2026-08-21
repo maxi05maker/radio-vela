@@ -2,8 +2,8 @@
   "2026-08-21 07:00": {
     "period_start": "2026-08-21T07:00:00+02:00",
     "period_end": "2026-08-22T07:00:00+02:00",
-    "total_entries": 12,
-    "music_entries": 10,
+    "total_entries": 22,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Kim Petras",
@@ -53,6 +53,51 @@
       {
         "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
         "title": "In Your Arms (For An Angel)",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Leiser",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
+        "plays": 1
+      },
+      {
+        "artist": "Beak>",
+        "title": "Secrets",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "SS26",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "All I need to hear",
+        "plays": 1
+      },
+      {
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "Cardi B",
+        "title": "Imaginary Playerz",
         "plays": 1
       }
     ],
