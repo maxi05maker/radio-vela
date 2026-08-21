@@ -2,8 +2,8 @@
   "2026-08-21 07:00": {
     "period_start": "2026-08-21T07:00:00+02:00",
     "period_end": "2026-08-22T07:00:00+02:00",
-    "total_entries": 2,
-    "music_entries": 2,
+    "total_entries": 12,
+    "music_entries": 10,
     "songs": [
       {
         "artist": "Kim Petras",
@@ -13,6 +13,46 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Saja Boys",
+        "title": "Soda Pop",
+        "plays": 1
+      },
+      {
+        "artist": "Flo Milli",
+        "title": "Big Steppa",
+        "plays": 1
+      },
+      {
+        "artist": "Casper feat. Drangsal",
+        "title": "Keine Angst",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel",
+        "title": "Don't Call Me Up",
+        "plays": 1
+      },
+      {
+        "artist": "Romano",
+        "title": "Köpenick",
+        "plays": 1
+      },
+      {
+        "artist": "The Darkness",
+        "title": "The Longest Kiss",
+        "plays": 1
+      },
+      {
+        "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
+        "title": "In Your Arms (For An Angel)",
         "plays": 1
       }
     ],
