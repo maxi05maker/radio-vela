@@ -2,8 +2,8 @@
   "2026-08-21 07:00": {
     "period_start": "2026-08-21T07:00:00+02:00",
     "period_end": "2026-08-22T07:00:00+02:00",
-    "total_entries": 100,
-    "music_entries": 93,
+    "total_entries": 110,
+    "music_entries": 103,
     "songs": [
       {
         "artist": "Kim Petras",
@@ -13,6 +13,16 @@
       {
         "artist": "Griff",
         "title": "Black Hole",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 2
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
         "plays": 2
       },
       {
@@ -176,11 +186,6 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
         "artist": "Milky Chance & Jack Johnson",
         "title": "Don't Let Me Down",
         "plays": 1
@@ -188,11 +193,6 @@
       {
         "artist": "Father John Misty",
         "title": "She Cleans Up",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Mr. Know It All",
         "plays": 1
       },
       {
@@ -453,6 +453,46 @@
       {
         "artist": "Disturbed",
         "title": "Hey You",
+        "plays": 1
+      },
+      {
+        "artist": "Scorpions",
+        "title": "Peacemaker",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga, Doechii",
+        "title": "Runway",
+        "plays": 1
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Never Go Back",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
+        "plays": 1
+      },
+      {
+        "artist": "Airbourne",
+        "title": "Kid In A Candy Store",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Stormzy",
+        "title": "Mel Made Me Do It",
         "plays": 1
       }
     ],
