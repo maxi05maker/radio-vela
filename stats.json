@@ -2,17 +2,17 @@
   "2026-08-21 07:00": {
     "period_start": "2026-08-21T07:00:00+02:00",
     "period_end": "2026-08-22T07:00:00+02:00",
-    "total_entries": 130,
-    "music_entries": 123,
+    "total_entries": 140,
+    "music_entries": 133,
     "songs": [
-      {
-        "artist": "Kim Petras",
-        "title": "Brrr",
-        "plays": 2
-      },
       {
         "artist": "Griff",
         "title": "Black Hole",
+        "plays": 3
+      },
+      {
+        "artist": "Kim Petras",
+        "title": "Brrr",
         "plays": 2
       },
       {
@@ -46,6 +46,11 @@
         "plays": 2
       },
       {
+        "artist": "Ab-Soul",
+        "title": "Moonshooter",
+        "plays": 2
+      },
+      {
         "artist": "Ellie Goulding & Juice WRLD",
         "title": "Hate Me",
         "plays": 2
@@ -53,6 +58,26 @@
       {
         "artist": "LEA & Casper",
         "title": "Schwarz",
+        "plays": 2
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 2
+      },
+      {
+        "artist": "Rema & Selena Gomez",
+        "title": "Calm Down",
+        "plays": 2
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 2
+      },
+      {
+        "artist": "Disturbed",
+        "title": "Hey You",
         "plays": 2
       },
       {
@@ -346,11 +371,6 @@
         "plays": 1
       },
       {
-        "artist": "Ab-Soul",
-        "title": "Moonshooter",
-        "plays": 1
-      },
-      {
         "artist": "The Weeknd",
         "title": "Cry For Me",
         "plays": 1
@@ -411,16 +431,6 @@
         "plays": 1
       },
       {
-        "artist": "Max Giesinger",
-        "title": "Der letzte Tag",
-        "plays": 1
-      },
-      {
-        "artist": "Rema & Selena Gomez",
-        "title": "Calm Down",
-        "plays": 1
-      },
-      {
         "artist": "Foo Fighters",
         "title": "Of All People",
         "plays": 1
@@ -441,11 +451,6 @@
         "plays": 1
       },
       {
-        "artist": "Zoe Wees",
-        "title": "Control",
-        "plays": 1
-      },
-      {
         "artist": "Robin Schulz feat. Alida",
         "title": "In Your Eyes",
         "plays": 1
@@ -453,11 +458,6 @@
       {
         "artist": "Apache 207",
         "title": "Ein Lied für dich",
-        "plays": 1
-      },
-      {
-        "artist": "Disturbed",
-        "title": "Hey You",
         "plays": 1
       },
       {
@@ -564,12 +564,32 @@
         "artist": "Big K.R.I.T.",
         "title": "So Cool",
         "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia  (feat. Alicia Keys)",
+        "title": "Finally",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Samu Haber",
+        "title": "The Vehicle",
+        "plays": 1
+      },
+      {
+        "artist": "Damiano David",
+        "title": "Voices",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Kim Petras",
-      "title": "Brrr",
-      "plays": 2
+      "artist": "Griff",
+      "title": "Black Hole",
+      "plays": 3
     }
   }
 }

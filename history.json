@@ -778,5 +778,65 @@
     "played_at": "2026-08-22 05:05:11 +0200",
     "title": "So Cool",
     "artist": "Big K.R.I.T."
+  },
+  {
+    "key": "2026-08-22 06:25:03 +0200|Hey You|Disturbed",
+    "played_at": "2026-08-22 06:25:03 +0200",
+    "title": "Hey You",
+    "artist": "Disturbed"
+  },
+  {
+    "key": "2026-08-22 06:29:31 +0200|Der letzte Tag|Max Giesinger",
+    "played_at": "2026-08-22 06:29:31 +0200",
+    "title": "Der letzte Tag",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-08-22 06:32:28 +0200|Finally|Swedish House Mafia  (feat. Alicia Keys)",
+    "played_at": "2026-08-22 06:32:28 +0200",
+    "title": "Finally",
+    "artist": "Swedish House Mafia  (feat. Alicia Keys)"
+  },
+  {
+    "key": "2026-08-22 06:36:31 +0200|Hold Me Closer|Elton John, Britney Spears",
+    "played_at": "2026-08-22 06:36:31 +0200",
+    "title": "Hold Me Closer",
+    "artist": "Elton John, Britney Spears"
+  },
+  {
+    "key": "2026-08-22 06:39:53 +0200|Calm Down|Rema & Selena Gomez",
+    "played_at": "2026-08-22 06:39:53 +0200",
+    "title": "Calm Down",
+    "artist": "Rema & Selena Gomez"
+  },
+  {
+    "key": "2026-08-22 06:43:52 +0200|The Vehicle|Samu Haber",
+    "played_at": "2026-08-22 06:43:52 +0200",
+    "title": "The Vehicle",
+    "artist": "Samu Haber"
+  },
+  {
+    "key": "2026-08-22 06:47:14 +0200|Moonshooter|Ab-Soul",
+    "played_at": "2026-08-22 06:47:14 +0200",
+    "title": "Moonshooter",
+    "artist": "Ab-Soul"
+  },
+  {
+    "key": "2026-08-22 06:50:17 +0200|Black Hole|Griff",
+    "played_at": "2026-08-22 06:50:17 +0200",
+    "title": "Black Hole",
+    "artist": "Griff"
+  },
+  {
+    "key": "2026-08-22 06:53:34 +0200|Voices|Damiano David",
+    "played_at": "2026-08-22 06:53:34 +0200",
+    "title": "Voices",
+    "artist": "Damiano David"
+  },
+  {
+    "key": "2026-08-22 06:57:07 +0200|Control|Zoe Wees",
+    "played_at": "2026-08-22 06:57:07 +0200",
+    "title": "Control",
+    "artist": "Zoe Wees"
   }
 ]
