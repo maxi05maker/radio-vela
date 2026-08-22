@@ -2,9 +2,14 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 146,
-    "music_entries": 138,
+    "total_entries": 156,
+    "music_entries": 147,
     "songs": [
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 3
+      },
       {
         "artist": "Volbeat",
         "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
@@ -81,6 +86,16 @@
         "plays": 2
       },
       {
+        "artist": "Charlie Puth feat. Meghan Trainor",
+        "title": "Marvin Gaye",
+        "plays": 2
+      },
+      {
+        "artist": "Rosenstolz",
+        "title": "Gib Mir Sonne",
+        "plays": 2
+      },
+      {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
         "plays": 2
@@ -88,11 +103,6 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
-        "plays": 2
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
         "plays": 2
       },
       {
@@ -231,18 +241,8 @@
         "plays": 1
       },
       {
-        "artist": "Charlie Puth feat. Meghan Trainor",
-        "title": "Marvin Gaye",
-        "plays": 1
-      },
-      {
         "artist": "Pashanim",
         "title": "Augenblick",
-        "plays": 1
-      },
-      {
-        "artist": "Rosenstolz",
-        "title": "Gib Mir Sonne",
         "plays": 1
       },
       {
@@ -604,12 +604,42 @@
         "artist": "Frans",
         "title": "If I Were Sorry",
         "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "SS26",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 1
+      },
+      {
+        "artist": "Boy",
+        "title": "We Were Here",
+        "plays": 1
+      },
+      {
+        "artist": "Walter Trout",
+        "title": "Hurt No More",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Poster Child",
+        "plays": 1
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "My Reminder",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Volbeat",
-      "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
-      "plays": 2
+      "artist": "Benson Boone",
+      "title": "Slow It Down",
+      "plays": 3
     }
   }
 }
