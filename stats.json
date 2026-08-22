@@ -2,8 +2,8 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 136,
-    "music_entries": 130,
+    "total_entries": 146,
+    "music_entries": 138,
     "songs": [
       {
         "artist": "Volbeat",
@@ -46,6 +46,16 @@
         "plays": 2
       },
       {
+        "artist": "Shawn Mendes",
+        "title": "Treat You Better",
+        "plays": 2
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Sofia",
+        "plays": 2
+      },
+      {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
         "plays": 2
@@ -58,6 +68,16 @@
       {
         "artist": "Provinz & Majan x Jeremias",
         "title": "Liebe zu dritt",
+        "plays": 2
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "plays": 2
+      },
+      {
+        "artist": "Starley",
+        "title": "Call on Me",
         "plays": 2
       },
       {
@@ -151,11 +171,6 @@
         "plays": 1
       },
       {
-        "artist": "Shawn Mendes",
-        "title": "Treat You Better",
-        "plays": 1
-      },
-      {
         "artist": "LOTTE & Max Giesinger",
         "title": "Auf das, was da noch kommt",
         "plays": 1
@@ -173,11 +188,6 @@
       {
         "artist": "Kehlani",
         "title": "Shoulda Never (feat. USHER)",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Sofia",
         "plays": 1
       },
       {
@@ -218,16 +228,6 @@
       {
         "artist": "DJ Snake & J. Balvin Feat. Tyga",
         "title": "Loco Contigo",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Hello",
-        "plays": 1
-      },
-      {
-        "artist": "Starley",
-        "title": "Call on Me",
         "plays": 1
       },
       {
@@ -583,6 +583,26 @@
       {
         "artist": "TEMPERS",
         "title": "Who Says",
+        "plays": 1
+      },
+      {
+        "artist": "Big Boss Vette",
+        "title": "Snappa",
+        "plays": 1
+      },
+      {
+        "artist": "My Morning Jacket",
+        "title": "Time Waited",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heart Of Gold",
+        "plays": 1
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
         "plays": 1
       }
     ],
