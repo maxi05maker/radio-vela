@@ -1,1 +1,60 @@
-{}
+{
+  "2026-08-22 07:00": {
+    "period_start": "2026-08-22T07:00:00+02:00",
+    "period_end": "2026-08-23T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
+    "songs": [
+      {
+        "artist": "Tom Grennan",
+        "title": "Don't Break the Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Gestört Aber GeiL x SkinnyJewlz",
+        "title": "Wenn du da bist",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Big K.R.I.T.",
+        "title": "So Cool",
+        "plays": 1
+      },
+      {
+        "artist": "Volbeat",
+        "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Girls Like Us",
+        "plays": 1
+      },
+      {
+        "artist": "Die Ärzte",
+        "title": "KRAFT",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      }
+    ],
+    "top_song": {
+      "artist": "Tom Grennan",
+      "title": "Don't Break the Heart",
+      "plays": 1
+    }
+  }
+}
