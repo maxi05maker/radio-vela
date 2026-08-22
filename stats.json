@@ -2,8 +2,8 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 120,
-    "music_entries": 115,
+    "total_entries": 130,
+    "music_entries": 124,
     "songs": [
       {
         "artist": "Volbeat",
@@ -33,6 +33,16 @@
       {
         "artist": "Burak Yeter feat. Danelle Sandoval",
         "title": "Tuesday",
+        "plays": 2
+      },
+      {
+        "artist": "Sia feat. Kendrick Lamar",
+        "title": "The Greatest",
+        "plays": 2
+      },
+      {
+        "artist": "Clueso",
+        "title": "Neuanfang",
         "plays": 2
       },
       {
@@ -123,16 +133,6 @@
       {
         "artist": "Archive",
         "title": "City Walls",
-        "plays": 1
-      },
-      {
-        "artist": "Sia feat. Kendrick Lamar",
-        "title": "The Greatest",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Neuanfang",
         "plays": 1
       },
       {
@@ -528,6 +528,41 @@
       {
         "artist": "Jessie Ware",
         "title": "Superbloom",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "3 Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Love Under Pressure",
+        "plays": 1
+      },
+      {
+        "artist": "Five Finger Death Punch",
+        "title": "The End",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Stitches",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Jungle",
         "plays": 1
       }
     ],
