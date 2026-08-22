@@ -2,8 +2,8 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 46,
+    "total_entries": 60,
+    "music_entries": 56,
     "songs": [
       {
         "artist": "Volbeat",
@@ -228,6 +228,56 @@
       {
         "artist": "Rosenstolz",
         "title": "Gib Mir Sonne",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Fritz Kalkbrenner",
+        "title": "Calling You",
+        "plays": 1
+      },
+      {
+        "artist": "Phoenix feat. Ezra Koenig",
+        "title": "Tonight (feat. Ezra Koenig)",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
+        "plays": 1
+      },
+      {
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "Damiano David",
+        "title": "Voices",
+        "plays": 1
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
         "plays": 1
       }
     ],
