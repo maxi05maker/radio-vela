@@ -2,8 +2,8 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 163,
-    "music_entries": 154,
+    "total_entries": 173,
+    "music_entries": 164,
     "songs": [
       {
         "artist": "Benson Boone",
@@ -118,6 +118,26 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Sia",
+        "title": "Unstoppable",
+        "plays": 2
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 2
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "West Coast",
         "plays": 2
       },
       {
@@ -271,11 +291,6 @@
         "plays": 1
       },
       {
-        "artist": "Sia",
-        "title": "Unstoppable",
-        "plays": 1
-      },
-      {
         "artist": "Damiano David",
         "title": "Voices",
         "plays": 1
@@ -306,11 +321,6 @@
         "plays": 1
       },
       {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
         "artist": "Robbie Williams",
         "title": "All My Life",
         "plays": 1
@@ -321,18 +331,8 @@
         "plays": 1
       },
       {
-        "artist": "Zara Larsson",
-        "title": "Lush Life",
-        "plays": 1
-      },
-      {
         "artist": "Alvaro Soler",
         "title": "Apágame",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "West Coast",
         "plays": 1
       },
       {
@@ -653,6 +653,36 @@
       {
         "artist": "Lana Del Rey",
         "title": "Lust For Life (feat. The Weeknd)",
+        "plays": 1
+      },
+      {
+        "artist": "Jj",
+        "title": "Wasted Love  2025",
+        "plays": 1
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "29",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Run For Cover",
+        "plays": 1
+      },
+      {
+        "artist": "Sia feat. Sean Paul",
+        "title": "Cheap Thrills",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
+        "plays": 1
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Attention",
         "plays": 1
       }
     ],
