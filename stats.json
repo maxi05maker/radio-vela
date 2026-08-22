@@ -2,12 +2,17 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 79,
-    "music_entries": 74,
+    "total_entries": 89,
+    "music_entries": 84,
     "songs": [
       {
         "artist": "Volbeat",
         "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
+        "plays": 2
+      },
+      {
+        "artist": "Two Door Cinema Club",
+        "title": "Wonderful Life",
         "plays": 2
       },
       {
@@ -53,11 +58,6 @@
       {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
-        "plays": 1
-      },
-      {
-        "artist": "Two Door Cinema Club",
-        "title": "Wonderful Life",
         "plays": 1
       },
       {
@@ -363,6 +363,51 @@
       {
         "artist": "Ellie Goulding",
         "title": "Love Me Like You Do",
+        "plays": 1
+      },
+      {
+        "artist": "Saweetie",
+        "title": "Birthday feat. Tyga & YG",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba & Makko",
+        "title": "Fucked Up feat. makko",
+        "plays": 1
+      },
+      {
+        "artist": "We Are Scientists",
+        "title": "Less from You",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Madonna Whore Komplex",
+        "plays": 1
+      },
+      {
+        "artist": "The Mary Onettes",
+        "title": "Hurricane Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "Portugal. The Man",
+        "title": "Tanana",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Kein Problem",
         "plays": 1
       }
     ],
