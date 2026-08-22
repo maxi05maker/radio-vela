@@ -2,8 +2,8 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 95,
-    "music_entries": 90,
+    "total_entries": 105,
+    "music_entries": 100,
     "songs": [
       {
         "artist": "Volbeat",
@@ -13,6 +13,11 @@
       {
         "artist": "Two Door Cinema Club",
         "title": "Wonderful Life",
+        "plays": 2
+      },
+      {
+        "artist": "WILLOW",
+        "title": "it's my fault",
         "plays": 2
       },
       {
@@ -88,11 +93,6 @@
       {
         "artist": "Miley Cyrus",
         "title": "Malibu",
-        "plays": 1
-      },
-      {
-        "artist": "WILLOW",
-        "title": "it's my fault",
         "plays": 1
       },
       {
@@ -433,6 +433,51 @@
       {
         "artist": "Clueso",
         "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
+        "plays": 1
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
+        "plays": 1
+      },
+      {
+        "artist": "Namika feat. Black M",
+        "title": "Je Ne Parle Pas Français (Beatgees Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Cardi B",
+        "title": "Imaginary Playerz",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Higher Power",
+        "plays": 1
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
+        "plays": 1
+      },
+      {
+        "artist": "Lisa",
+        "title": "Rockstar",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Autobahn",
         "plays": 1
       }
     ],
