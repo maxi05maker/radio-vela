@@ -2,8 +2,8 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 105,
-    "music_entries": 100,
+    "total_entries": 115,
+    "music_entries": 110,
     "songs": [
       {
         "artist": "Volbeat",
@@ -16,8 +16,18 @@
         "plays": 2
       },
       {
+        "artist": "Miley Cyrus",
+        "title": "Malibu",
+        "plays": 2
+      },
+      {
         "artist": "WILLOW",
         "title": "it's my fault",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 2
       },
       {
@@ -88,11 +98,6 @@
       {
         "artist": "Tyla & Zara Larsson",
         "title": "SHE DID IT AGAIN",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "Malibu",
         "plays": 1
       },
       {
@@ -173,11 +178,6 @@
       {
         "artist": "Bazzazian",
         "title": "Die Anderen feat. Blumengarten & Trettmann",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
@@ -478,6 +478,46 @@
       {
         "artist": "Adel Tawil",
         "title": "Autobahn",
+        "plays": 1
+      },
+      {
+        "artist": "The Ronettes",
+        "title": "Be My Baby",
+        "plays": 1
+      },
+      {
+        "artist": "Alanis Morissette",
+        "title": "You Oughta Know",
+        "plays": 1
+      },
+      {
+        "artist": "Aldous Harding",
+        "title": "Venus In The Zinnia",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Less Than Zero",
+        "plays": 1
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Wenn das so bleibt",
+        "plays": 1
+      },
+      {
+        "artist": "Snail Mail",
+        "title": "Dead End",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Nur dir gehör'n",
         "plays": 1
       }
     ],
