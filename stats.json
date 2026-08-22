@@ -2,8 +2,8 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 115,
-    "music_entries": 110,
+    "total_entries": 120,
+    "music_entries": 115,
     "songs": [
       {
         "artist": "Volbeat",
@@ -13,6 +13,11 @@
       {
         "artist": "Two Door Cinema Club",
         "title": "Wonderful Life",
+        "plays": 2
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
         "plays": 2
       },
       {
@@ -26,8 +31,18 @@
         "plays": 2
       },
       {
+        "artist": "Burak Yeter feat. Danelle Sandoval",
+        "title": "Tuesday",
+        "plays": 2
+      },
+      {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 2
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "she's all i wanna be",
         "plays": 2
       },
       {
@@ -86,11 +101,6 @@
         "plays": 1
       },
       {
-        "artist": "Camila Cabello feat. Young Thug",
-        "title": "Havana",
-        "plays": 1
-      },
-      {
         "artist": "Willow",
         "title": "curious/furious",
         "plays": 1
@@ -103,11 +113,6 @@
       {
         "artist": "Grim104",
         "title": "Hinter Der Tür feat. Crimson Bloom",
-        "plays": 1
-      },
-      {
-        "artist": "Burak Yeter feat. Danelle Sandoval",
-        "title": "Tuesday",
         "plays": 1
       },
       {
@@ -188,11 +193,6 @@
       {
         "artist": "Robyn",
         "title": "Talk To Me",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "she's all i wanna be",
         "plays": 1
       },
       {
@@ -518,6 +518,16 @@
       {
         "artist": "1986zig",
         "title": "Nur dir gehör'n",
+        "plays": 1
+      },
+      {
+        "artist": "Louis Tomlinson",
+        "title": "Palaces",
+        "plays": 1
+      },
+      {
+        "artist": "Jessie Ware",
+        "title": "Superbloom",
         "plays": 1
       }
     ],
