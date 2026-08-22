@@ -2,9 +2,14 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 36,
+    "total_entries": 50,
+    "music_entries": 46,
     "songs": [
+      {
+        "artist": "Volbeat",
+        "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
+        "plays": 2
+      },
       {
         "artist": "Tom Grennan",
         "title": "Don't Break the Heart",
@@ -28,11 +33,6 @@
       {
         "artist": "Big K.R.I.T.",
         "title": "So Cool",
-        "plays": 1
-      },
-      {
-        "artist": "Volbeat",
-        "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
         "plays": 1
       },
       {
@@ -184,12 +184,57 @@
         "artist": "Tate McRae",
         "title": "she's all i wanna be",
         "plays": 1
+      },
+      {
+        "artist": "BTS",
+        "title": "SWIM",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz & Majan x Jeremias",
+        "title": "Liebe zu dritt",
+        "plays": 1
+      },
+      {
+        "artist": "Take That",
+        "title": "Sweet July",
+        "plays": 1
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "plays": 1
+      },
+      {
+        "artist": "Starley",
+        "title": "Call on Me",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Meghan Trainor",
+        "title": "Marvin Gaye",
+        "plays": 1
+      },
+      {
+        "artist": "Pashanim",
+        "title": "Augenblick",
+        "plays": 1
+      },
+      {
+        "artist": "Rosenstolz",
+        "title": "Gib Mir Sonne",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Tom Grennan",
-      "title": "Don't Break the Heart",
-      "plays": 1
+      "artist": "Volbeat",
+      "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
+      "plays": 2
     }
   }
 }
