@@ -1372,5 +1372,41 @@
     "played_at": "2026-08-22 17:39:23 +0200",
     "title": "Kein Problem",
     "artist": "Tim Bendzko"
+  },
+  {
+    "key": "2026-08-22 17:42:20 +0200|Marry Me|Olly Murs",
+    "played_at": "2026-08-22 17:42:20 +0200",
+    "title": "Marry Me",
+    "artist": "Olly Murs"
+  },
+  {
+    "key": "2026-08-22 17:45:35 +0200|Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version|Tobee",
+    "played_at": "2026-08-22 17:45:35 +0200",
+    "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+    "artist": "Tobee"
+  },
+  {
+    "key": "2026-08-22 17:48:49 +0200|Slow It Down|Benson Boone",
+    "played_at": "2026-08-22 17:48:49 +0200",
+    "title": "Slow It Down",
+    "artist": "Benson Boone"
+  },
+  {
+    "key": "2026-08-22 17:51:31 +0200|Time To Dance|Paul Kalkbrenner",
+    "played_at": "2026-08-22 17:51:31 +0200",
+    "title": "Time To Dance",
+    "artist": "Paul Kalkbrenner"
+  },
+  {
+    "key": "2026-08-22 17:54:29 +0200|Clarity|Justin Jesso",
+    "played_at": "2026-08-22 17:54:29 +0200",
+    "title": "Clarity",
+    "artist": "Justin Jesso"
+  },
+  {
+    "key": "2026-08-22 17:57:45 +0200|Wenn du liebst [feat. Kat Frankie]|Clueso",
+    "played_at": "2026-08-22 17:57:45 +0200",
+    "title": "Wenn du liebst [feat. Kat Frankie]",
+    "artist": "Clueso"
   }
 ]

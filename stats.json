@@ -2,8 +2,8 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 89,
-    "music_entries": 84,
+    "total_entries": 95,
+    "music_entries": 90,
     "songs": [
       {
         "artist": "Volbeat",
@@ -18,6 +18,11 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
         "plays": 2
       },
       {
@@ -276,11 +281,6 @@
         "plays": 1
       },
       {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
-        "plays": 1
-      },
-      {
         "artist": "Teddy Swims",
         "title": "Lose Control",
         "plays": 1
@@ -408,6 +408,31 @@
       {
         "artist": "Tim Bendzko",
         "title": "Kein Problem",
+        "plays": 1
+      },
+      {
+        "artist": "Olly Murs",
+        "title": "Marry Me",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "Time To Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
         "plays": 1
       }
     ],
