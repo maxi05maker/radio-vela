@@ -2,8 +2,8 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 130,
-    "music_entries": 124,
+    "total_entries": 136,
+    "music_entries": 130,
     "songs": [
       {
         "artist": "Volbeat",
@@ -53,6 +53,16 @@
       {
         "artist": "Tate McRae",
         "title": "she's all i wanna be",
+        "plays": 2
+      },
+      {
+        "artist": "Provinz & Majan x Jeremias",
+        "title": "Liebe zu dritt",
+        "plays": 2
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 2
       },
       {
@@ -201,11 +211,6 @@
         "plays": 1
       },
       {
-        "artist": "Provinz & Majan x Jeremias",
-        "title": "Liebe zu dritt",
-        "plays": 1
-      },
-      {
         "artist": "Take That",
         "title": "Sweet July",
         "plays": 1
@@ -238,11 +243,6 @@
       {
         "artist": "Rosenstolz",
         "title": "Gib Mir Sonne",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 1
       },
       {
@@ -563,6 +563,26 @@
       {
         "artist": "Sugababes",
         "title": "Jungle",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Wellington feat. Small Jam",
+        "title": "Iko Iko",
+        "plays": 1
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Chayas Lieben Trap feat. OG Lu",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Wild & Free",
+        "plays": 1
+      },
+      {
+        "artist": "TEMPERS",
+        "title": "Who Says",
         "plays": 1
       }
     ],
