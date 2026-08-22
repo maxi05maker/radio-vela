@@ -2,8 +2,8 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Tom Grennan",
@@ -48,6 +48,56 @@
       {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Two Door Cinema Club",
+        "title": "Wonderful Life",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL, Imael Angel, Ultra Naté",
+        "title": "Movin' To The Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 1
+      },
+      {
+        "artist": "Willow",
+        "title": "curious/furious",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla & Zara Larsson",
+        "title": "SHE DID IT AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Malibu",
+        "plays": 1
+      },
+      {
+        "artist": "WILLOW",
+        "title": "it's my fault",
+        "plays": 1
+      },
+      {
+        "artist": "Grim104",
+        "title": "Hinter Der Tür feat. Crimson Bloom",
+        "plays": 1
+      },
+      {
+        "artist": "Burak Yeter feat. Danelle Sandoval",
+        "title": "Tuesday",
+        "plays": 1
+      },
+      {
+        "artist": "I Prevail",
+        "title": "Bad Things",
         "plays": 1
       }
     ],
