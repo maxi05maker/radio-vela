@@ -718,5 +718,65 @@
     "played_at": "2026-08-22 00:52:30 +0200",
     "title": "Lust For Life (feat. The Weeknd)",
     "artist": "Lana Del Rey"
+  },
+  {
+    "key": "2026-08-22 04:34:20 +0200|Out Of Time|The Weeknd",
+    "played_at": "2026-08-22 04:34:20 +0200",
+    "title": "Out Of Time",
+    "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-08-22 04:37:54 +0200|Hot Bait|The Gems",
+    "played_at": "2026-08-22 04:37:54 +0200",
+    "title": "Hot Bait",
+    "artist": "The Gems"
+  },
+  {
+    "key": "2026-08-22 04:40:50 +0200|Hate Me|Ellie Goulding & Juice WRLD",
+    "played_at": "2026-08-22 04:40:50 +0200",
+    "title": "Hate Me",
+    "artist": "Ellie Goulding & Juice WRLD"
+  },
+  {
+    "key": "2026-08-22 04:43:57 +0200|Mel Made Me Do It|Stormzy",
+    "played_at": "2026-08-22 04:43:57 +0200",
+    "title": "Mel Made Me Do It",
+    "artist": "Stormzy"
+  },
+  {
+    "key": "2026-08-22 04:51:18 +0200|Make It Right|Tom Gregory & VIZE",
+    "played_at": "2026-08-22 04:51:18 +0200",
+    "title": "Make It Right",
+    "artist": "Tom Gregory & VIZE"
+  },
+  {
+    "key": "2026-08-22 04:53:37 +0200|Will Of The People|Muse",
+    "played_at": "2026-08-22 04:53:37 +0200",
+    "title": "Will Of The People",
+    "artist": "Muse"
+  },
+  {
+    "key": "2026-08-22 04:57:06 +0200|Schwarz|LEA & Casper",
+    "played_at": "2026-08-22 04:57:06 +0200",
+    "title": "Schwarz",
+    "artist": "LEA & Casper"
+  },
+  {
+    "key": "2026-08-22 04:59:42 +0200|Wasted Love  2025|Jj",
+    "played_at": "2026-08-22 04:59:42 +0200",
+    "title": "Wasted Love  2025",
+    "artist": "Jj"
+  },
+  {
+    "key": "2026-08-22 05:02:40 +0200|Spektakulär|Sportfreunde Stiller",
+    "played_at": "2026-08-22 05:02:40 +0200",
+    "title": "Spektakulär",
+    "artist": "Sportfreunde Stiller"
+  },
+  {
+    "key": "2026-08-22 05:05:11 +0200|So Cool|Big K.R.I.T.",
+    "played_at": "2026-08-22 05:05:11 +0200",
+    "title": "So Cool",
+    "artist": "Big K.R.I.T."
   }
 ]

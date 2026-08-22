@@ -2,8 +2,8 @@
   "2026-08-21 07:00": {
     "period_start": "2026-08-21T07:00:00+02:00",
     "period_end": "2026-08-22T07:00:00+02:00",
-    "total_entries": 120,
-    "music_entries": 113,
+    "total_entries": 130,
+    "music_entries": 123,
     "songs": [
       {
         "artist": "Kim Petras",
@@ -43,6 +43,21 @@
       {
         "artist": "Gestört Aber GeiL x SkinnyJewlz",
         "title": "Wenn du da bist",
+        "plays": 2
+      },
+      {
+        "artist": "Ellie Goulding & Juice WRLD",
+        "title": "Hate Me",
+        "plays": 2
+      },
+      {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
+        "plays": 2
+      },
+      {
+        "artist": "Stormzy",
+        "title": "Mel Made Me Do It",
         "plays": 2
       },
       {
@@ -341,11 +356,6 @@
         "plays": 1
       },
       {
-        "artist": "Ellie Goulding & Juice WRLD",
-        "title": "Hate Me",
-        "plays": 1
-      },
-      {
         "artist": "Dennis Lloyd",
         "title": "Anxious",
         "plays": 1
@@ -353,11 +363,6 @@
       {
         "artist": "Dropkick Murphys",
         "title": "Who'll Stand With Us?",
-        "plays": 1
-      },
-      {
-        "artist": "LEA & Casper",
-        "title": "Schwarz",
         "plays": 1
       },
       {
@@ -491,11 +496,6 @@
         "plays": 1
       },
       {
-        "artist": "Stormzy",
-        "title": "Mel Made Me Do It",
-        "plays": 1
-      },
-      {
         "artist": "James Blunt",
         "title": "Love Under Pressure",
         "plays": 1
@@ -528,6 +528,41 @@
       {
         "artist": "Lana Del Rey",
         "title": "Lust For Life (feat. The Weeknd)",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
+        "plays": 1
+      },
+      {
+        "artist": "The Gems",
+        "title": "Hot Bait",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "Muse",
+        "title": "Will Of The People",
+        "plays": 1
+      },
+      {
+        "artist": "Jj",
+        "title": "Wasted Love  2025",
+        "plays": 1
+      },
+      {
+        "artist": "Sportfreunde Stiller",
+        "title": "Spektakulär",
+        "plays": 1
+      },
+      {
+        "artist": "Big K.R.I.T.",
+        "title": "So Cool",
         "plays": 1
       }
     ],
