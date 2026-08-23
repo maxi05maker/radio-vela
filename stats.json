@@ -2,12 +2,27 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 77,
-    "music_entries": 74,
+    "total_entries": 87,
+    "music_entries": 84,
     "songs": [
+      {
+        "artist": "Kelvin Jones",
+        "title": "Don't Let Me Go",
+        "plays": 2
+      },
       {
         "artist": "Stormzy",
         "title": "Mel Made Me Do It",
+        "plays": 2
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 2
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Du tust mir nie mehr weh",
         "plays": 2
       },
       {
@@ -46,11 +61,6 @@
         "plays": 1
       },
       {
-        "artist": "Kelvin Jones",
-        "title": "Don't Let Me Go",
-        "plays": 1
-      },
-      {
         "artist": "Ariana Grande",
         "title": "twilight zone",
         "plays": 1
@@ -58,11 +68,6 @@
       {
         "artist": "Mother Mother",
         "title": "Hayloft II",
-        "plays": 1
-      },
-      {
-        "artist": "Zoe Wees",
-        "title": "Control",
         "plays": 1
       },
       {
@@ -103,11 +108,6 @@
       {
         "artist": "Zartmann",
         "title": "tau mich auf",
-        "plays": 1
-      },
-      {
-        "artist": "AnnenMayKantereit",
-        "title": "Du tust mir nie mehr weh",
         "plays": 1
       },
       {
@@ -354,11 +354,46 @@
         "artist": "Warhaus",
         "title": "Open Window",
         "plays": 1
+      },
+      {
+        "artist": "Kesha",
+        "title": "DELUSIONAL (Main Version)",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, Ray Dalton",
+        "title": "Call It Love",
+        "plays": 1
+      },
+      {
+        "artist": "Frank Popp Ensemble",
+        "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Hymn For The Weekend",
+        "plays": 1
+      },
+      {
+        "artist": "Jorja Smith",
+        "title": "The Way I Love You",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Anxious",
+        "plays": 1
+      },
+      {
+        "artist": "Def Leppard",
+        "title": "Rejoice",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Stormzy",
-      "title": "Mel Made Me Do It",
+      "artist": "Kelvin Jones",
+      "title": "Don't Let Me Go",
       "plays": 2
     }
   }

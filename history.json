@@ -460,5 +460,65 @@
     "played_at": "2026-08-23 16:45:02 +0200",
     "title": "Open Window",
     "artist": "Warhaus"
+  },
+  {
+    "key": "2026-08-23 18:23:55 +0200|DELUSIONAL (Main Version)|Kesha",
+    "played_at": "2026-08-23 18:23:55 +0200",
+    "title": "DELUSIONAL (Main Version)",
+    "artist": "Kesha"
+  },
+  {
+    "key": "2026-08-23 18:27:29 +0200|Control|Zoe Wees",
+    "played_at": "2026-08-23 18:27:29 +0200",
+    "title": "Control",
+    "artist": "Zoe Wees"
+  },
+  {
+    "key": "2026-08-23 18:31:20 +0200|Call It Love|Felix Jaehn, Ray Dalton",
+    "played_at": "2026-08-23 18:31:20 +0200",
+    "title": "Call It Love",
+    "artist": "Felix Jaehn, Ray Dalton"
+  },
+  {
+    "key": "2026-08-23 18:33:55 +0200|Frank Popp Ensemble - Love Is A Distraction feat. J Mahon|Frank Popp Ensemble",
+    "played_at": "2026-08-23 18:33:55 +0200",
+    "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
+    "artist": "Frank Popp Ensemble"
+  },
+  {
+    "key": "2026-08-23 18:36:15 +0200|Du tust mir nie mehr weh|AnnenMayKantereit",
+    "played_at": "2026-08-23 18:36:15 +0200",
+    "title": "Du tust mir nie mehr weh",
+    "artist": "AnnenMayKantereit"
+  },
+  {
+    "key": "2026-08-23 18:39:13 +0200|Hymn For The Weekend|Coldplay",
+    "played_at": "2026-08-23 18:39:13 +0200",
+    "title": "Hymn For The Weekend",
+    "artist": "Coldplay"
+  },
+  {
+    "key": "2026-08-23 18:43:32 +0200|The Way I Love You|Jorja Smith",
+    "played_at": "2026-08-23 18:43:32 +0200",
+    "title": "The Way I Love You",
+    "artist": "Jorja Smith"
+  },
+  {
+    "key": "2026-08-23 18:46:38 +0200|Anxious|Dennis Lloyd",
+    "played_at": "2026-08-23 18:46:38 +0200",
+    "title": "Anxious",
+    "artist": "Dennis Lloyd"
+  },
+  {
+    "key": "2026-08-23 18:49:35 +0200|Don't Let Me Go|Kelvin Jones",
+    "played_at": "2026-08-23 18:49:35 +0200",
+    "title": "Don't Let Me Go",
+    "artist": "Kelvin Jones"
+  },
+  {
+    "key": "2026-08-23 18:52:08 +0200|Rejoice|Def Leppard",
+    "played_at": "2026-08-23 18:52:08 +0200",
+    "title": "Rejoice",
+    "artist": "Def Leppard"
   }
 ]
