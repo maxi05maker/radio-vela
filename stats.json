@@ -2,8 +2,8 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 67,
-    "music_entries": 64,
+    "total_entries": 77,
+    "music_entries": 74,
     "songs": [
       {
         "artist": "Stormzy",
@@ -18,6 +18,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 2
+      },
+      {
+        "artist": "Sido",
+        "title": "Versager",
         "plays": 2
       },
       {
@@ -191,11 +196,6 @@
         "plays": 1
       },
       {
-        "artist": "Sido",
-        "title": "Versager",
-        "plays": 1
-      },
-      {
         "artist": "Provinz & Majan x Jeremias",
         "title": "Liebe zu dritt",
         "plays": 1
@@ -308,6 +308,51 @@
       {
         "artist": "Green Day",
         "title": "Ballyhoo",
+        "plays": 1
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "Aute Cuture",
+        "plays": 1
+      },
+      {
+        "artist": "Calum Scott",
+        "title": "My World",
+        "plays": 1
+      },
+      {
+        "artist": "Jerry Cantrell",
+        "title": "Atone",
+        "plays": 1
+      },
+      {
+        "artist": "The Kid Laroi",
+        "title": "Love Again",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris & Clementine Douglas",
+        "title": "Blessings",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. Alida",
+        "title": "In Your Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "It'll Be Okay",
+        "plays": 1
+      },
+      {
+        "artist": "Warhaus",
+        "title": "Open Window",
         "plays": 1
       }
     ],
