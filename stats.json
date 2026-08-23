@@ -2,12 +2,62 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 2,
-    "music_entries": 1,
+    "total_entries": 12,
+    "music_entries": 11,
     "songs": [
       {
         "artist": "Aerosmith, YUNGBLUD",
         "title": "Wild Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, Whitney Houston",
+        "title": "Its Not Right But Its Okay",
+        "plays": 1
+      },
+      {
+        "artist": "Kelvin Jones",
+        "title": "Don't Let Me Go",
+        "plays": 1
+      },
+      {
+        "artist": "Stormzy",
+        "title": "Mel Made Me Do It",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "twilight zone",
+        "plays": 1
+      },
+      {
+        "artist": "Mother Mother",
+        "title": "Hayloft II",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla",
+        "title": "Been Thinking",
+        "plays": 1
+      },
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Confusion",
         "plays": 1
       }
     ],
