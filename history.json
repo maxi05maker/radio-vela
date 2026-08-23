@@ -682,5 +682,65 @@
     "played_at": "2026-08-23 20:57:58 +0200",
     "title": "Happiness Is A Butterfly",
     "artist": "Lana Del Rey"
+  },
+  {
+    "key": "2026-08-23 21:14:37 +0200|That’s So True|Gracie Abrams",
+    "played_at": "2026-08-23 21:14:37 +0200",
+    "title": "That’s So True",
+    "artist": "Gracie Abrams"
+  },
+  {
+    "key": "2026-08-23 21:17:23 +0200|Throwback|Michael Patrick Kelly",
+    "played_at": "2026-08-23 21:17:23 +0200",
+    "title": "Throwback",
+    "artist": "Michael Patrick Kelly"
+  },
+  {
+    "key": "2026-08-23 21:19:52 +0200|Sunshine|OneRepublic",
+    "played_at": "2026-08-23 21:19:52 +0200",
+    "title": "Sunshine",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-08-23 21:22:36 +0200|Hot Bait|The Gems",
+    "played_at": "2026-08-23 21:22:36 +0200",
+    "title": "Hot Bait",
+    "artist": "The Gems"
+  },
+  {
+    "key": "2026-08-23 21:25:32 +0200|Calm Down|Rema & Selena Gomez",
+    "played_at": "2026-08-23 21:25:32 +0200",
+    "title": "Calm Down",
+    "artist": "Rema & Selena Gomez"
+  },
+  {
+    "key": "2026-08-23 21:29:31 +0200|New Rules|Dua Lipa",
+    "played_at": "2026-08-23 21:29:31 +0200",
+    "title": "New Rules",
+    "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-08-23 21:33:03 +0200|Never Going Home Tonight (feat. Alesso & Madison Love)|David Guetta",
+    "played_at": "2026-08-23 21:33:03 +0200",
+    "title": "Never Going Home Tonight (feat. Alesso & Madison Love)",
+    "artist": "David Guetta"
+  },
+  {
+    "key": "2026-08-23 21:35:47 +0200|Es tut wieder weh|Kummer",
+    "played_at": "2026-08-23 21:35:47 +0200",
+    "title": "Es tut wieder weh",
+    "artist": "Kummer"
+  },
+  {
+    "key": "2026-08-23 21:38:51 +0200|Don't Shut Me Down|ABBA",
+    "played_at": "2026-08-23 21:38:51 +0200",
+    "title": "Don't Shut Me Down",
+    "artist": "ABBA"
+  },
+  {
+    "key": "2026-08-23 21:42:47 +0200|Open Hearts|The Weeknd",
+    "played_at": "2026-08-23 21:42:47 +0200",
+    "title": "Open Hearts",
+    "artist": "The Weeknd"
   }
 ]
