@@ -2,9 +2,14 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 27,
+    "total_entries": 37,
+    "music_entries": 34,
     "songs": [
+      {
+        "artist": "Stormzy",
+        "title": "Mel Made Me Do It",
+        "plays": 2
+      },
       {
         "artist": "Aerosmith, YUNGBLUD",
         "title": "Wild Woman",
@@ -28,11 +33,6 @@
       {
         "artist": "Kelvin Jones",
         "title": "Don't Let Me Go",
-        "plays": 1
-      },
-      {
-        "artist": "Stormzy",
-        "title": "Mel Made Me Do It",
         "plays": 1
       },
       {
@@ -139,12 +139,42 @@
         "artist": "Alessia Cara",
         "title": "Slow Motion",
         "plays": 1
+      },
+      {
+        "artist": "Rihanna & Kanye West & Paul McCartney",
+        "title": "FourFiveSeconds",
+        "plays": 1
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
+        "plays": 1
+      },
+      {
+        "artist": "The Last Dinner Party",
+        "title": "The Scythe",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Madeline Juno",
+        "title": "Lass mich los",
+        "plays": 1
+      },
+      {
+        "artist": "J Balvin",
+        "title": "Rio",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Aerosmith, YUNGBLUD",
-      "title": "Wild Woman",
-      "plays": 1
+      "artist": "Stormzy",
+      "title": "Mel Made Me Do It",
+      "plays": 2
     }
   }
 }
