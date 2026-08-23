@@ -2,9 +2,19 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 173,
-    "music_entries": 164,
+    "total_entries": 183,
+    "music_entries": 173,
     "songs": [
+      {
+        "artist": "WILLOW",
+        "title": "it's my fault",
+        "plays": 3
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 3
+      },
       {
         "artist": "Benson Boone",
         "title": "Slow It Down",
@@ -21,6 +31,11 @@
         "plays": 2
       },
       {
+        "artist": "HUGEL, Imael Angel, Ultra Naté",
+        "title": "Movin' To The Sun",
+        "plays": 2
+      },
+      {
         "artist": "Camila Cabello feat. Young Thug",
         "title": "Havana",
         "plays": 2
@@ -33,11 +48,6 @@
       {
         "artist": "Miley Cyrus",
         "title": "Malibu",
-        "plays": 2
-      },
-      {
-        "artist": "WILLOW",
-        "title": "it's my fault",
         "plays": 2
       },
       {
@@ -116,11 +126,6 @@
         "plays": 2
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 2
-      },
-      {
         "artist": "Sia",
         "title": "Unstoppable",
         "plays": 2
@@ -138,6 +143,21 @@
       {
         "artist": "OneRepublic",
         "title": "West Coast",
+        "plays": 2
+      },
+      {
+        "artist": "Sido Feat. Andreas Bourani",
+        "title": "Astronaut",
+        "plays": 2
+      },
+      {
+        "artist": "The FAIM",
+        "title": "Summer Is a Curse",
+        "plays": 2
+      },
+      {
+        "artist": "Saweetie",
+        "title": "Birthday feat. Tyga & YG",
         "plays": 2
       },
       {
@@ -178,11 +198,6 @@
       {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
-        "plays": 1
-      },
-      {
-        "artist": "HUGEL, Imael Angel, Ultra Naté",
-        "title": "Movin' To The Sun",
         "plays": 1
       },
       {
@@ -346,16 +361,6 @@
         "plays": 1
       },
       {
-        "artist": "Sido Feat. Andreas Bourani",
-        "title": "Astronaut",
-        "plays": 1
-      },
-      {
-        "artist": "The FAIM",
-        "title": "Summer Is a Curse",
-        "plays": 1
-      },
-      {
         "artist": "Teddy Swims",
         "title": "Mr. Know It All",
         "plays": 1
@@ -363,11 +368,6 @@
       {
         "artist": "Ellie Goulding",
         "title": "Love Me Like You Do",
-        "plays": 1
-      },
-      {
-        "artist": "Saweetie",
-        "title": "Birthday feat. Tyga & YG",
         "plays": 1
       },
       {
@@ -684,11 +684,26 @@
         "artist": "Doja Cat",
         "title": "Attention",
         "plays": 1
+      },
+      {
+        "artist": "Haken",
+        "title": "Nightingale",
+        "plays": 1
+      },
+      {
+        "artist": "Helloween",
+        "title": "This Is Tokyo",
+        "plays": 1
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Benson Boone",
-      "title": "Slow It Down",
+      "artist": "WILLOW",
+      "title": "it's my fault",
       "plays": 3
     }
   }
