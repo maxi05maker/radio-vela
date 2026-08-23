@@ -2,8 +2,8 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 97,
-    "music_entries": 93,
+    "total_entries": 104,
+    "music_entries": 100,
     "songs": [
       {
         "artist": "Stormzy",
@@ -11,8 +11,18 @@
         "plays": 3
       },
       {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 3
+      },
+      {
         "artist": "Kelvin Jones",
         "title": "Don't Let Me Go",
+        "plays": 2
+      },
+      {
+        "artist": "Mother Mother",
+        "title": "Hayloft II",
         "plays": 2
       },
       {
@@ -36,13 +46,13 @@
         "plays": 2
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
+        "artist": "Tate McRae",
+        "title": "she's all i wanna be",
         "plays": 2
       },
       {
-        "artist": "Tate McRae",
-        "title": "she's all i wanna be",
+        "artist": "Daya",
+        "title": "Bad Girl",
         "plays": 2
       },
       {
@@ -73,11 +83,6 @@
       {
         "artist": "Ariana Grande",
         "title": "twilight zone",
-        "plays": 1
-      },
-      {
-        "artist": "Mother Mother",
-        "title": "Hayloft II",
         "plays": 1
       },
       {
@@ -148,11 +153,6 @@
       {
         "artist": "Rihanna & Kanye West & Paul McCartney",
         "title": "FourFiveSeconds",
-        "plays": 1
-      },
-      {
-        "artist": "Daya",
-        "title": "Bad Girl",
         "plays": 1
       },
       {
@@ -418,6 +418,26 @@
       {
         "artist": "Hurts/Purple Disco Machine",
         "title": "Wonderful Life '25",
+        "plays": 1
+      },
+      {
+        "artist": "Kylie Minogue & YouNotUs",
+        "title": "Someone For Me",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & David Guetta",
+        "title": "Sad Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Jj",
+        "title": "Wasted Love  2025",
         "plays": 1
       }
     ],
