@@ -2,8 +2,8 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 158,
-    "music_entries": 153,
+    "total_entries": 168,
+    "music_entries": 163,
     "songs": [
       {
         "artist": "Stormzy",
@@ -118,6 +118,11 @@
       {
         "artist": "Michael Patrick Kelly",
         "title": "Throwback",
+        "plays": 2
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
         "plays": 2
       },
       {
@@ -258,11 +263,6 @@
       {
         "artist": "Clipse",
         "title": "Ace Trumpets feat. Pusha T & No Malice",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "good 4 u",
         "plays": 1
       },
       {
@@ -628,6 +628,51 @@
       {
         "artist": "Arlo Parks",
         "title": "Beams",
+        "plays": 1
+      },
+      {
+        "artist": "The Pretty Reckless",
+        "title": "Rollercoaster Of Life",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben",
+        "title": "Forgot How To Love",
+        "plays": 1
+      },
+      {
+        "artist": "Joji",
+        "title": "Love Me Better",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Olly Murs",
+        "title": "Marry Me",
+        "plays": 1
+      },
+      {
+        "artist": "HAIM",
+        "title": "Everybody's trying to figure me out",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At The Disco",
+        "title": "Middle of a breakup",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Looking For Love",
+        "plays": 1
+      },
+      {
+        "artist": "Paula Stellar",
+        "title": "Pretty Pretty Lies",
         "plays": 1
       }
     ],
