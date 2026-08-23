@@ -2,8 +2,8 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 104,
-    "music_entries": 100,
+    "total_entries": 114,
+    "music_entries": 110,
     "songs": [
       {
         "artist": "Stormzy",
@@ -56,8 +56,23 @@
         "plays": 2
       },
       {
+        "artist": "Madeline Juno",
+        "title": "Lass mich los",
+        "plays": 2
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
+        "plays": 2
+      },
+      {
         "artist": "Sido",
         "title": "Versager",
+        "plays": 2
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
         "plays": 2
       },
       {
@@ -166,11 +181,6 @@
         "plays": 1
       },
       {
-        "artist": "Madeline Juno",
-        "title": "Lass mich los",
-        "plays": 1
-      },
-      {
         "artist": "J Balvin",
         "title": "Rio",
         "plays": 1
@@ -186,11 +196,6 @@
         "plays": 1
       },
       {
-        "artist": "Lana Del Rey",
-        "title": "Happiness Is A Butterfly",
-        "plays": 1
-      },
-      {
         "artist": "LISA FEAT. DOJA CAT & RAYE",
         "title": "BORN AGAIN",
         "plays": 1
@@ -203,11 +208,6 @@
       {
         "artist": "Rihanna",
         "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "Hunger",
         "plays": 1
       },
       {
@@ -438,6 +438,41 @@
       {
         "artist": "Jj",
         "title": "Wasted Love  2025",
+        "plays": 1
+      },
+      {
+        "artist": "Ab-Soul",
+        "title": "Moonshooter",
+        "plays": 1
+      },
+      {
+        "artist": "Ufo361 & Nina Chuba",
+        "title": "LIEBE (feat. Nina Chuba) [Explicit]",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "About You",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Follow You",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "I'M HIS, HE'S MINE ft. Doechii",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 1
       }
     ],
