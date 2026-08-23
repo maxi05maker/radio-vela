@@ -2,8 +2,8 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 12,
-    "music_entries": 11,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Aerosmith, YUNGBLUD",
@@ -58,6 +58,41 @@
       {
         "artist": "Electric Light Orchestra",
         "title": "Confusion",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Oldschool Love",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Fingertips",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "tau mich auf",
+        "plays": 1
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Du tust mir nie mehr weh",
         "plays": 1
       }
     ],
