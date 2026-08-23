@@ -2,17 +2,17 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 87,
-    "music_entries": 84,
+    "total_entries": 97,
+    "music_entries": 93,
     "songs": [
-      {
-        "artist": "Kelvin Jones",
-        "title": "Don't Let Me Go",
-        "plays": 2
-      },
       {
         "artist": "Stormzy",
         "title": "Mel Made Me Do It",
+        "plays": 3
+      },
+      {
+        "artist": "Kelvin Jones",
+        "title": "Don't Let Me Go",
         "plays": 2
       },
       {
@@ -31,8 +31,18 @@
         "plays": 2
       },
       {
+        "artist": "Ellie Goulding & Juice WRLD",
+        "title": "Hate Me",
+        "plays": 2
+      },
+      {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 2
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "she's all i wanna be",
         "plays": 2
       },
       {
@@ -111,11 +121,6 @@
         "plays": 1
       },
       {
-        "artist": "Ellie Goulding & Juice WRLD",
-        "title": "Hate Me",
-        "plays": 1
-      },
-      {
         "artist": "Shirin David",
         "title": "küss mich doch",
         "plays": 1
@@ -133,11 +138,6 @@
       {
         "artist": "Rema & Selena Gomez",
         "title": "Calm Down",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "she's all i wanna be",
         "plays": 1
       },
       {
@@ -389,12 +389,42 @@
         "artist": "Def Leppard",
         "title": "Rejoice",
         "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "Ninety – Two",
+        "plays": 1
+      },
+      {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
+        "plays": 1
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Irgendwo da draußen",
+        "plays": 1
+      },
+      {
+        "artist": "Hurts/Purple Disco Machine",
+        "title": "Wonderful Life '25",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Kelvin Jones",
-      "title": "Don't Let Me Go",
-      "plays": 2
+      "artist": "Stormzy",
+      "title": "Mel Made Me Do It",
+      "plays": 3
     }
   }
 }
