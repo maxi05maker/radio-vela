@@ -2,8 +2,8 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 151,
-    "music_entries": 147,
+    "total_entries": 158,
+    "music_entries": 153,
     "songs": [
       {
         "artist": "Stormzy",
@@ -128,6 +128,11 @@
       {
         "artist": "Lena",
         "title": "Strip",
+        "plays": 2
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Parallelwelt",
         "plays": 2
       },
       {
@@ -283,11 +288,6 @@
       {
         "artist": "1986zig Feat. Greeen",
         "title": "Eh Zu Kurz",
-        "plays": 1
-      },
-      {
-        "artist": "Tim Bendzko",
-        "title": "Parallelwelt",
         "plays": 1
       },
       {
@@ -603,6 +603,31 @@
       {
         "artist": "Peter Frampton feat.Tom Morello",
         "title": "Lions At The Gate",
+        "plays": 1
+      },
+      {
+        "artist": "Shania Twain",
+        "title": "Last Day of Summer",
+        "plays": 1
+      },
+      {
+        "artist": "Bush",
+        "title": "The Land Of Milk And Honey",
+        "plays": 1
+      },
+      {
+        "artist": "ClockClock",
+        "title": "Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Nickelback",
+        "title": "San Quentin",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Beams",
         "plays": 1
       }
     ],
