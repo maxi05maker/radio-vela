@@ -2,8 +2,8 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "Aerosmith, YUNGBLUD",
@@ -93,6 +93,51 @@
       {
         "artist": "AnnenMayKantereit",
         "title": "Du tust mir nie mehr weh",
+        "plays": 1
+      },
+      {
+        "artist": "Nav",
+        "title": "One Time feat. Don Toliver",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding & Juice WRLD",
+        "title": "Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "küss mich doch",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Kummer",
+        "title": "Es tut wieder weh",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta & Sia",
+        "title": "Beautiful People",
+        "plays": 1
+      },
+      {
+        "artist": "Rema & Selena Gomez",
+        "title": "Calm Down",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "she's all i wanna be",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
         "plays": 1
       }
     ],
