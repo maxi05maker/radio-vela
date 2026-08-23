@@ -2,8 +2,8 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 124,
-    "music_entries": 120,
+    "total_entries": 131,
+    "music_entries": 127,
     "songs": [
       {
         "artist": "Stormzy",
@@ -78,6 +78,11 @@
       {
         "artist": "Sido",
         "title": "Versager",
+        "plays": 2
+      },
+      {
+        "artist": "Provinz & Majan x Jeremias",
+        "title": "Liebe zu dritt",
         "plays": 2
       },
       {
@@ -218,11 +223,6 @@
       {
         "artist": "LISA FEAT. DOJA CAT & RAYE",
         "title": "BORN AGAIN",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz & Majan x Jeremias",
-        "title": "Liebe zu dritt",
         "plays": 1
       },
       {
@@ -493,6 +493,36 @@
       {
         "artist": "The Weeknd",
         "title": "Open Hearts",
+        "plays": 1
+      },
+      {
+        "artist": "Simon & Garfunkel",
+        "title": "Cecilia",
+        "plays": 1
+      },
+      {
+        "artist": "A7S David Guetta Wizkid",
+        "title": "Lighter",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
+        "plays": 1
+      },
+      {
+        "artist": "Snow Tha Product",
+        "title": "Alligator",
+        "plays": 1
+      },
+      {
+        "artist": "Mumford & Sons",
+        "title": "The Banjo Song",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk feat. Cash Cash",
+        "title": "Can We Pretend",
         "plays": 1
       }
     ],

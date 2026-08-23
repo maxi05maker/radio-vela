@@ -742,5 +742,47 @@
     "played_at": "2026-08-23 21:42:47 +0200",
     "title": "Open Hearts",
     "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-08-23 21:46:16 +0200|Cecilia|Simon & Garfunkel",
+    "played_at": "2026-08-23 21:46:16 +0200",
+    "title": "Cecilia",
+    "artist": "Simon & Garfunkel"
+  },
+  {
+    "key": "2026-08-23 21:49:11 +0200|Liebe zu dritt|Provinz & Majan x Jeremias",
+    "played_at": "2026-08-23 21:49:11 +0200",
+    "title": "Liebe zu dritt",
+    "artist": "Provinz & Majan x Jeremias"
+  },
+  {
+    "key": "2026-08-23 21:52:37 +0200|Lighter|A7S David Guetta Wizkid",
+    "played_at": "2026-08-23 21:52:37 +0200",
+    "title": "Lighter",
+    "artist": "A7S David Guetta Wizkid"
+  },
+  {
+    "key": "2026-08-23 21:55:44 +0200|Deja Vu|Mike Singer",
+    "played_at": "2026-08-23 21:55:44 +0200",
+    "title": "Deja Vu",
+    "artist": "Mike Singer"
+  },
+  {
+    "key": "2026-08-23 22:02:11 +0200|Alligator|Snow Tha Product",
+    "played_at": "2026-08-23 22:02:11 +0200",
+    "title": "Alligator",
+    "artist": "Snow Tha Product"
+  },
+  {
+    "key": "2026-08-23 22:04:20 +0200|The Banjo Song|Mumford & Sons",
+    "played_at": "2026-08-23 22:04:20 +0200",
+    "title": "The Banjo Song",
+    "artist": "Mumford & Sons"
+  },
+  {
+    "key": "2026-08-23 22:08:10 +0200|Can We Pretend|P!nk feat. Cash Cash",
+    "played_at": "2026-08-23 22:08:10 +0200",
+    "title": "Can We Pretend",
+    "artist": "P!nk feat. Cash Cash"
   }
 ]
