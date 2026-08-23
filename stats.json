@@ -2,8 +2,8 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 131,
-    "music_entries": 127,
+    "total_entries": 141,
+    "music_entries": 137,
     "songs": [
       {
         "artist": "Stormzy",
@@ -14,6 +14,11 @@
         "artist": "Tom Gregory",
         "title": "Small Steps",
         "plays": 3
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 2
       },
       {
         "artist": "Kelvin Jones",
@@ -28,6 +33,11 @@
       {
         "artist": "Zoe Wees",
         "title": "Control",
+        "plays": 2
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
         "plays": 2
       },
       {
@@ -63,6 +73,11 @@
       {
         "artist": "Daya",
         "title": "Bad Girl",
+        "plays": 2
+      },
+      {
+        "artist": "The Last Dinner Party",
+        "title": "The Scythe",
         "plays": 2
       },
       {
@@ -116,11 +131,6 @@
         "plays": 1
       },
       {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
         "artist": "Harry Styles",
         "title": "As It Was",
         "plays": 1
@@ -161,11 +171,6 @@
         "plays": 1
       },
       {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
         "artist": "Tom Gregory",
         "title": "Fingertips",
         "plays": 1
@@ -193,11 +198,6 @@
       {
         "artist": "Rihanna & Kanye West & Paul McCartney",
         "title": "FourFiveSeconds",
-        "plays": 1
-      },
-      {
-        "artist": "The Last Dinner Party",
-        "title": "The Scythe",
         "plays": 1
       },
       {
@@ -523,6 +523,41 @@
       {
         "artist": "P!nk feat. Cash Cash",
         "title": "Can We Pretend",
+        "plays": 1
+      },
+      {
+        "artist": "Katja Krasavice",
+        "title": "Raindrops (feat. Leony)",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner & Stromae",
+        "title": "QUE CE SOIT CLAIR",
+        "plays": 1
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
+        "plays": 1
+      },
+      {
+        "artist": "Rosalía",
+        "title": "DESPECHÁ RMX",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Do It Better (feat. Zoe Wees)",
+        "plays": 1
+      },
+      {
+        "artist": "Black Star Riders",
+        "title": "Better Than Saturday Night",
         "plays": 1
       }
     ],
