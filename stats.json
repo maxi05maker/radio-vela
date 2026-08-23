@@ -2,8 +2,8 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 141,
-    "music_entries": 137,
+    "total_entries": 151,
+    "music_entries": 147,
     "songs": [
       {
         "artist": "Stormzy",
@@ -123,6 +123,11 @@
       {
         "artist": "ABBA",
         "title": "Don't Shut Me Down",
+        "plays": 2
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
         "plays": 2
       },
       {
@@ -268,11 +273,6 @@
       {
         "artist": "Max Giesinger",
         "title": "Irgendwann ist jetzt",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Strip",
         "plays": 1
       },
       {
@@ -558,6 +558,51 @@
       {
         "artist": "Black Star Riders",
         "title": "Better Than Saturday Night",
+        "plays": 1
+      },
+      {
+        "artist": "Pile",
+        "title": "Uneasy",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Aperture",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Attention",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Nur dir gehör'n",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Remedy",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John & Dua Lipa",
+        "title": "Cold Heart (PNAU Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Frampton feat.Tom Morello",
+        "title": "Lions At The Gate",
         "plays": 1
       }
     ],
