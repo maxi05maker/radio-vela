@@ -2,8 +2,8 @@
   "2026-08-22 07:00": {
     "period_start": "2026-08-22T07:00:00+02:00",
     "period_end": "2026-08-23T07:00:00+02:00",
-    "total_entries": 183,
-    "music_entries": 173,
+    "total_entries": 193,
+    "music_entries": 182,
     "songs": [
       {
         "artist": "WILLOW",
@@ -158,6 +158,11 @@
       {
         "artist": "Saweetie",
         "title": "Birthday feat. Tyga & YG",
+        "plays": 2
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
         "plays": 2
       },
       {
@@ -441,11 +446,6 @@
         "plays": 1
       },
       {
-        "artist": "Bruce Springsteen",
-        "title": "Streets Of Minneapolis",
-        "plays": 1
-      },
-      {
         "artist": "Namika feat. Black M",
         "title": "Je Ne Parle Pas Français (Beatgees Remix)",
         "plays": 1
@@ -698,6 +698,46 @@
       {
         "artist": "SIENNA SPIRO",
         "title": "Material Lover",
+        "plays": 1
+      },
+      {
+        "artist": "Green Day",
+        "title": "Ballyhoo",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Freier Geist",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Es könnte grad nicht schöner sein",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia  (feat. Alicia Keys)",
+        "title": "Finally",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Irgendwann ist jetzt",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Too Much",
         "plays": 1
       }
     ],
