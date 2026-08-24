@@ -2,8 +2,8 @@
   "2026-08-24 07:00": {
     "period_start": "2026-08-24T07:00:00+02:00",
     "period_end": "2026-08-25T07:00:00+02:00",
-    "total_entries": 28,
-    "music_entries": 26,
+    "total_entries": 38,
+    "music_entries": 35,
     "songs": [
       {
         "artist": "Bow Anderson",
@@ -133,6 +133,51 @@
       {
         "artist": "Swedish House Mafia & The Weeknd",
         "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira",
+        "title": "Don't Wait Up",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Sia feat. Sean Paul",
+        "title": "Cheap Thrills",
+        "plays": 1
+      },
+      {
+        "artist": "Stray Kids",
+        "title": "RUN IT",
+        "plays": 1
+      },
+      {
+        "artist": "Parcels",
+        "title": "Overnight",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 1
+      },
+      {
+        "artist": "Aldous Harding",
+        "title": "Venus In The Zinnia",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Madonna Whore Komplex",
         "plays": 1
       }
     ],
