@@ -2,8 +2,8 @@
   "2026-08-24 07:00": {
     "period_start": "2026-08-24T07:00:00+02:00",
     "period_end": "2026-08-25T07:00:00+02:00",
-    "total_entries": 98,
-    "music_entries": 91,
+    "total_entries": 108,
+    "music_entries": 101,
     "songs": [
       {
         "artist": "Bow Anderson",
@@ -13,6 +13,11 @@
       {
         "artist": "Shania Twain",
         "title": "Last Day of Summer",
+        "plays": 2
+      },
+      {
+        "artist": "Cro",
+        "title": "Smooth",
         "plays": 2
       },
       {
@@ -213,11 +218,6 @@
       {
         "artist": "Shirin David",
         "title": "atzen & barbies (feat. ski aggu)",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Smooth",
         "plays": 1
       },
       {
@@ -443,6 +443,51 @@
       {
         "artist": "Elton John, Britney Spears",
         "title": "Hold Me Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Too Much",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Higher Power",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta & Sia",
+        "title": "Beautiful People",
+        "plays": 1
+      },
+      {
+        "artist": "The Kid Laroi",
+        "title": "Love Again",
+        "plays": 1
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "Rockstars",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
+        "plays": 1
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Paint The Town Red",
+        "plays": 1
+      },
+      {
+        "artist": "Devin Townsend",
+        "title": "Jainism",
+        "plays": 1
+      },
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Confusion",
         "plays": 1
       }
     ],
