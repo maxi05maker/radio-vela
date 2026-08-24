@@ -2,8 +2,8 @@
   "2026-08-24 07:00": {
     "period_start": "2026-08-24T07:00:00+02:00",
     "period_end": "2026-08-25T07:00:00+02:00",
-    "total_entries": 108,
-    "music_entries": 101,
+    "total_entries": 118,
+    "music_entries": 110,
     "songs": [
       {
         "artist": "Bow Anderson",
@@ -488,6 +488,51 @@
       {
         "artist": "Electric Light Orchestra",
         "title": "Confusion",
+        "plays": 1
+      },
+      {
+        "artist": "GHOST",
+        "title": "Call Me Little Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "das leben ist... [Explicit]",
+        "plays": 1
+      },
+      {
+        "artist": "Katja Krasavice feat. Elif",
+        "title": "Highway",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heartbeat",
+        "plays": 1
+      },
+      {
+        "artist": "Betterov",
+        "title": "In Meinem Zimmer Spielen Sich Dramen Ab",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber feat. Daniel Caesar & Giveon",
+        "title": "Peaches",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso feat. Andreas Bourani",
+        "title": "Willkommen Zuruck",
+        "plays": 1
+      },
+      {
+        "artist": "U2",
+        "title": "American Obituary",
+        "plays": 1
+      },
+      {
+        "artist": "twocolors",
+        "title": "Bloodstream",
         "plays": 1
       }
     ],
