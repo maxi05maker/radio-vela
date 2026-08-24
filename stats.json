@@ -2,8 +2,8 @@
   "2026-08-24 07:00": {
     "period_start": "2026-08-24T07:00:00+02:00",
     "period_end": "2026-08-25T07:00:00+02:00",
-    "total_entries": 88,
-    "music_entries": 81,
+    "total_entries": 98,
+    "music_entries": 91,
     "songs": [
       {
         "artist": "Bow Anderson",
@@ -13,6 +13,11 @@
       {
         "artist": "Shania Twain",
         "title": "Last Day of Summer",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 2
       },
       {
@@ -216,11 +221,6 @@
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
         "artist": "Daya",
         "title": "Bad Girl",
         "plays": 1
@@ -398,6 +398,51 @@
       {
         "artist": "Dennis Lloyd",
         "title": "Never Go Back",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "party 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Oxígeno",
+        "plays": 1
+      },
+      {
+        "artist": "ROSÉ & Bruno Mars",
+        "title": "APT.",
+        "plays": 1
+      },
+      {
+        "artist": "Kelvin Jones",
+        "title": "Don't Let Me Go",
+        "plays": 1
+      },
+      {
+        "artist": "Casper feat. Drangsal",
+        "title": "Keine Angst",
+        "plays": 1
+      },
+      {
+        "artist": "Filow & Ikkimel",
+        "title": "Jiggy",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Hymn For The Weekend",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
         "plays": 1
       }
     ],
