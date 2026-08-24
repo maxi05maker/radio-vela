@@ -2,8 +2,8 @@
   "2026-08-23 07:00": {
     "period_start": "2026-08-23T07:00:00+02:00",
     "period_end": "2026-08-24T07:00:00+02:00",
-    "total_entries": 168,
-    "music_entries": 163,
+    "total_entries": 178,
+    "music_entries": 173,
     "songs": [
       {
         "artist": "Stormzy",
@@ -18,6 +18,11 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 2
       },
       {
@@ -143,11 +148,6 @@
       {
         "artist": "Aerosmith, YUNGBLUD",
         "title": "Wild Woman",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -673,6 +673,51 @@
       {
         "artist": "Paula Stellar",
         "title": "Pretty Pretty Lies",
+        "plays": 1
+      },
+      {
+        "artist": "Bring Me The Horizon",
+        "title": "Strangers",
+        "plays": 1
+      },
+      {
+        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+        "title": "Waiting on the sky to change",
+        "plays": 1
+      },
+      {
+        "artist": "Tori Amos",
+        "title": "Song of Sorrow",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel",
+        "title": "Mad Love",
+        "plays": 1
+      },
+      {
+        "artist": "Blue",
+        "title": "Waste My Love",
+        "plays": 1
+      },
+      {
+        "artist": "Crawlers",
+        "title": "Come Over (Again)",
+        "plays": 1
+      },
+      {
+        "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
+        "title": "In Your Arms (For An Angel)",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "House featuring John Cale",
+        "plays": 1
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Love Under Pressure",
         "plays": 1
       }
     ],

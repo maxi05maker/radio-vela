@@ -1006,5 +1006,65 @@
     "played_at": "2026-08-24 00:51:05 +0200",
     "title": "Pretty Pretty Lies",
     "artist": "Paula Stellar"
+  },
+  {
+    "key": "2026-08-24 01:06:25 +0200|Strangers|Bring Me The Horizon",
+    "played_at": "2026-08-24 01:06:25 +0200",
+    "title": "Strangers",
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "key": "2026-08-24 01:09:27 +0200|Waiting on the sky to change|STARSET, Breaking Benjamin, Judge & Jury",
+    "played_at": "2026-08-24 01:09:27 +0200",
+    "title": "Waiting on the sky to change",
+    "artist": "STARSET, Breaking Benjamin, Judge & Jury"
+  },
+  {
+    "key": "2026-08-24 01:13:32 +0200|Song of Sorrow|Tori Amos",
+    "played_at": "2026-08-24 01:13:32 +0200",
+    "title": "Song of Sorrow",
+    "artist": "Tori Amos"
+  },
+  {
+    "key": "2026-08-24 01:19:48 +0200|As It Was|Harry Styles",
+    "played_at": "2026-08-24 01:19:48 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-08-24 01:22:36 +0200|Mad Love|Mabel",
+    "played_at": "2026-08-24 01:22:36 +0200",
+    "title": "Mad Love",
+    "artist": "Mabel"
+  },
+  {
+    "key": "2026-08-24 01:25:29 +0200|Waste My Love|Blue",
+    "played_at": "2026-08-24 01:25:29 +0200",
+    "title": "Waste My Love",
+    "artist": "Blue"
+  },
+  {
+    "key": "2026-08-24 01:28:29 +0200|Come Over (Again)|Crawlers",
+    "played_at": "2026-08-24 01:28:29 +0200",
+    "title": "Come Over (Again)",
+    "artist": "Crawlers"
+  },
+  {
+    "key": "2026-08-24 01:32:44 +0200|In Your Arms (For An Angel)|Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
+    "played_at": "2026-08-24 01:32:44 +0200",
+    "title": "In Your Arms (For An Angel)",
+    "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk"
+  },
+  {
+    "key": "2026-08-24 01:35:14 +0200|House featuring John Cale|Charli xcx",
+    "played_at": "2026-08-24 01:35:14 +0200",
+    "title": "House featuring John Cale",
+    "artist": "Charli xcx"
+  },
+  {
+    "key": "2026-08-24 01:38:32 +0200|Love Under Pressure|James Blunt",
+    "played_at": "2026-08-24 01:38:32 +0200",
+    "title": "Love Under Pressure",
+    "artist": "James Blunt"
   }
 ]
