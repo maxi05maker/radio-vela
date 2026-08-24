@@ -2,8 +2,8 @@
   "2026-08-24 07:00": {
     "period_start": "2026-08-24T07:00:00+02:00",
     "period_end": "2026-08-25T07:00:00+02:00",
-    "total_entries": 78,
-    "music_entries": 72,
+    "total_entries": 88,
+    "music_entries": 81,
     "songs": [
       {
         "artist": "Bow Anderson",
@@ -353,6 +353,51 @@
       {
         "artist": "Mabel X Jax Jones X Galatis",
         "title": "Good Luck",
+        "plays": 1
+      },
+      {
+        "artist": "Pile",
+        "title": "Uneasy",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Never Gonna Not Dance Again",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Irgendwo da draußen",
+        "plays": 1
+      },
+      {
+        "artist": "Montez",
+        "title": "Überfall",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "Von Wegen Lisbeth",
+        "title": "Wenn du tanzt",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner & Stromae",
+        "title": "QUE CE SOIT CLAIR",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, Ray Dalton",
+        "title": "Call It Love",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Never Go Back",
         "plays": 1
       }
     ],
