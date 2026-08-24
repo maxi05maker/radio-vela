@@ -2,13 +2,18 @@
   "2026-08-24 07:00": {
     "period_start": "2026-08-24T07:00:00+02:00",
     "period_end": "2026-08-25T07:00:00+02:00",
-    "total_entries": 38,
-    "music_entries": 35,
+    "total_entries": 48,
+    "music_entries": 44,
     "songs": [
       {
         "artist": "Bow Anderson",
         "title": "20s",
-        "plays": 1
+        "plays": 2
+      },
+      {
+        "artist": "Shania Twain",
+        "title": "Last Day of Summer",
+        "plays": 2
       },
       {
         "artist": "BTS",
@@ -78,11 +83,6 @@
       {
         "artist": "Lena",
         "title": "Looking For Love",
-        "plays": 1
-      },
-      {
-        "artist": "Shania Twain",
-        "title": "Last Day of Summer",
         "plays": 1
       },
       {
@@ -179,12 +179,47 @@
         "artist": "Alli Neumann",
         "title": "Madonna Whore Komplex",
         "plays": 1
+      },
+      {
+        "artist": "Blue",
+        "title": "Waste My Love",
+        "plays": 1
+      },
+      {
+        "artist": "Katja Krasavice",
+        "title": "Raindrops (feat. Leony)",
+        "plays": 1
+      },
+      {
+        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+        "title": "Waiting on the sky to change",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "atzen & barbies (feat. ski aggu)",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Smooth",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Bow Anderson",
       "title": "20s",
-      "plays": 1
+      "plays": 2
     }
   }
 }
