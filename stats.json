@@ -2,8 +2,8 @@
   "2026-08-24 07:00": {
     "period_start": "2026-08-24T07:00:00+02:00",
     "period_end": "2026-08-25T07:00:00+02:00",
-    "total_entries": 18,
-    "music_entries": 17,
+    "total_entries": 28,
+    "music_entries": 26,
     "songs": [
       {
         "artist": "Bow Anderson",
@@ -88,6 +88,51 @@
       {
         "artist": "Green Day",
         "title": "Ballyhoo",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Minimum",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "plays": 1
+      },
+      {
+        "artist": "We Are Scientists",
+        "title": "Less from You",
+        "plays": 1
+      },
+      {
+        "artist": "ScarLip",
+        "title": "Runaway Love Freestale",
+        "plays": 1
+      },
+      {
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "SS26",
+        "plays": 1
+      },
+      {
+        "artist": "blackbear & Machine Gun Kelly",
+        "title": "gfy",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
         "plays": 1
       }
     ],
