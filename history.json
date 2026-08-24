@@ -1126,5 +1126,53 @@
     "played_at": "2026-08-24 05:33:20 +0200",
     "title": "Call on Me",
     "artist": "Starley"
+  },
+  {
+    "key": "2026-08-24 07:01:13 +0200|20s|Bow Anderson",
+    "played_at": "2026-08-24 07:01:13 +0200",
+    "title": "20s",
+    "artist": "Bow Anderson"
+  },
+  {
+    "key": "2026-08-24 07:04:17 +0200|SWIM|BTS",
+    "played_at": "2026-08-24 07:04:17 +0200",
+    "title": "SWIM",
+    "artist": "BTS"
+  },
+  {
+    "key": "2026-08-24 07:06:56 +0200|Poster Child|Red Hot Chili Peppers",
+    "played_at": "2026-08-24 07:06:56 +0200",
+    "title": "Poster Child",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "key": "2026-08-24 07:12:15 +0200|Moonshooter|Ab-Soul",
+    "played_at": "2026-08-24 07:12:15 +0200",
+    "title": "Moonshooter",
+    "artist": "Ab-Soul"
+  },
+  {
+    "key": "2026-08-24 07:15:18 +0200|Revolving door|Tate McRae",
+    "played_at": "2026-08-24 07:15:18 +0200",
+    "title": "Revolving door",
+    "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-08-24 07:18:15 +0200|Lush Life|Zara Larsson",
+    "played_at": "2026-08-24 07:18:15 +0200",
+    "title": "Lush Life",
+    "artist": "Zara Larsson"
+  },
+  {
+    "key": "2026-08-24 07:21:32 +0200|Wir sind groß|Mark Forster",
+    "played_at": "2026-08-24 07:21:32 +0200",
+    "title": "Wir sind groß",
+    "artist": "Mark Forster"
+  },
+  {
+    "key": "2026-08-24 07:24:58 +0200|Streets Of Minneapolis|Bruce Springsteen",
+    "played_at": "2026-08-24 07:24:58 +0200",
+    "title": "Streets Of Minneapolis",
+    "artist": "Bruce Springsteen"
   }
 ]
