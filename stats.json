@@ -2,8 +2,8 @@
   "2026-08-24 07:00": {
     "period_start": "2026-08-24T07:00:00+02:00",
     "period_end": "2026-08-25T07:00:00+02:00",
-    "total_entries": 8,
-    "music_entries": 8,
+    "total_entries": 18,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "Bow Anderson",
@@ -43,6 +43,51 @@
       {
         "artist": "Bruce Springsteen",
         "title": "Streets Of Minneapolis",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben",
+        "title": "Forgot How To Love",
+        "plays": 1
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Schulhof",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Less Than Zero",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "SMOKE THE PAIN AWAY",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Looking For Love",
+        "plays": 1
+      },
+      {
+        "artist": "Shania Twain",
+        "title": "Last Day of Summer",
+        "plays": 1
+      },
+      {
+        "artist": "Green Day",
+        "title": "Ballyhoo",
         "plays": 1
       }
     ],
