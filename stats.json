@@ -2,8 +2,8 @@
   "2026-08-24 07:00": {
     "period_start": "2026-08-24T07:00:00+02:00",
     "period_end": "2026-08-25T07:00:00+02:00",
-    "total_entries": 48,
-    "music_entries": 44,
+    "total_entries": 58,
+    "music_entries": 53,
     "songs": [
       {
         "artist": "Bow Anderson",
@@ -213,6 +213,51 @@
       {
         "artist": "Cro",
         "title": "Smooth",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Zsá Zsá",
+        "title": "Bad Bunnies",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Vergangenheit",
+        "plays": 1
+      },
+      {
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
+        "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "Turnstile",
+        "title": "NEVER ENOUGH",
         "plays": 1
       }
     ],
