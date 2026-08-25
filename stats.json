@@ -2,8 +2,8 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 32,
-    "music_entries": 28,
+    "total_entries": 42,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "Warhaus",
@@ -143,6 +143,46 @@
       {
         "artist": "Sam Smith",
         "title": "Diamonds",
+        "plays": 1
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "title": "All You Ever Wanted",
+        "plays": 1
+      },
+      {
+        "artist": "Antifuchs",
+        "title": "Stur",
+        "plays": 1
+      },
+      {
+        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+        "title": "Waiting on the sky to change",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding & Juice WRLD",
+        "title": "Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Biffy Clyro",
+        "title": "True Believer",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Malibu",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Kieselwege",
+        "plays": 1
+      },
+      {
+        "artist": "Jaymes Young",
+        "title": "Infinity",
         "plays": 1
       }
     ],
