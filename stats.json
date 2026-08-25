@@ -2,8 +2,8 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 2,
-    "music_entries": 2,
+    "total_entries": 12,
+    "music_entries": 10,
     "songs": [
       {
         "artist": "Warhaus",
@@ -13,6 +13,46 @@
       {
         "artist": "Inna",
         "title": "Up",
+        "plays": 1
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "Rockstars",
+        "plays": 1
+      },
+      {
+        "artist": "Aldous Harding",
+        "title": "Venus In The Zinnia",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Frei",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Frampton feat.Tom Morello",
+        "title": "Lions At The Gate",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "party 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 1
       }
     ],
