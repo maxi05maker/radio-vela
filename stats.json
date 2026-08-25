@@ -2,8 +2,8 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 82,
-    "music_entries": 73,
+    "total_entries": 92,
+    "music_entries": 82,
     "songs": [
       {
         "artist": "Charlie Puth feat. Selena Gomez",
@@ -13,6 +13,11 @@
       {
         "artist": "Rag'n'Bone Man",
         "title": "All You Ever Wanted",
+        "plays": 2
+      },
+      {
+        "artist": "Ellie Goulding & Juice WRLD",
+        "title": "Hate Me",
         "plays": 2
       },
       {
@@ -173,11 +178,6 @@
       {
         "artist": "STARSET, Breaking Benjamin, Judge & Jury",
         "title": "Waiting on the sky to change",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding & Juice WRLD",
-        "title": "Hate Me",
         "plays": 1
       },
       {
@@ -343,6 +343,46 @@
       {
         "artist": "Pile",
         "title": "Uneasy",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Beams",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd (feat. Daft Punk)",
+        "title": "I Feel It Coming",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Sofia",
+        "plays": 1
+      },
+      {
+        "artist": "BIA",
+        "title": "Milano feat. Sfera Ebbasta & Fivio Foreign",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Drop dead",
         "plays": 1
       }
     ],
