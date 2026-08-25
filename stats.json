@@ -2,8 +2,8 @@
   "2026-08-24 07:00": {
     "period_start": "2026-08-24T07:00:00+02:00",
     "period_end": "2026-08-25T07:00:00+02:00",
-    "total_entries": 118,
-    "music_entries": 110,
+    "total_entries": 128,
+    "music_entries": 119,
     "songs": [
       {
         "artist": "Bow Anderson",
@@ -23,6 +23,26 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Simon & Garfunkel",
+        "title": "Cecilia",
+        "plays": 2
+      },
+      {
+        "artist": "Tiësto feat. Tate McRae",
+        "title": "10:35",
+        "plays": 2
+      },
+      {
+        "artist": "AJR",
+        "title": "The DJ Is Crying For Help",
+        "plays": 2
+      },
+      {
+        "artist": "Von Wegen Lisbeth",
+        "title": "Wenn du tanzt",
         "plays": 2
       },
       {
@@ -276,11 +296,6 @@
         "plays": 1
       },
       {
-        "artist": "Simon & Garfunkel",
-        "title": "Cecilia",
-        "plays": 1
-      },
-      {
         "artist": "Foals",
         "title": "2001",
         "plays": 1
@@ -316,11 +331,6 @@
         "plays": 1
       },
       {
-        "artist": "Tiësto feat. Tate McRae",
-        "title": "10:35",
-        "plays": 1
-      },
-      {
         "artist": "Black Star Riders",
         "title": "Better Than Saturday Night",
         "plays": 1
@@ -343,11 +353,6 @@
       {
         "artist": "Zach Bryan",
         "title": "Pink Skies",
-        "plays": 1
-      },
-      {
-        "artist": "AJR",
-        "title": "The DJ Is Crying For Help",
         "plays": 1
       },
       {
@@ -378,11 +383,6 @@
       {
         "artist": "Kygo & Dean Lewis",
         "title": "Lost Without You (with Dean Lewis)",
-        "plays": 1
-      },
-      {
-        "artist": "Von Wegen Lisbeth",
-        "title": "Wenn du tanzt",
         "plays": 1
       },
       {
@@ -533,6 +533,31 @@
       {
         "artist": "twocolors",
         "title": "Bloodstream",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "JENNIE, Dua Lipa",
+        "title": "Handlebars",
+        "plays": 1
+      },
+      {
+        "artist": "Nathan Evans",
+        "title": "Told You So",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Ennio",
+        "title": "Fühlst du gar nichts? feat. Nina Chuba",
         "plays": 1
       }
     ],
