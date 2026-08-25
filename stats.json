@@ -2,9 +2,14 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 94,
-    "music_entries": 83,
+    "total_entries": 104,
+    "music_entries": 92,
     "songs": [
+      {
+        "artist": "James Arthur & You Me At Six",
+        "title": "Lose My Mind",
+        "plays": 2
+      },
       {
         "artist": "Charlie Puth feat. Selena Gomez",
         "title": "We Don't Talk Anymore",
@@ -118,11 +123,6 @@
       {
         "artist": "Alvaro Soler",
         "title": "La Cintura",
-        "plays": 1
-      },
-      {
-        "artist": "James Arthur & You Me At Six",
-        "title": "Lose My Mind",
         "plays": 1
       },
       {
@@ -389,11 +389,51 @@
         "artist": "Stefanie Heinzmann feat. Alle Farben",
         "title": "Build a House",
         "plays": 1
+      },
+      {
+        "artist": "Calvin Harris & Rag'n'Bone Man",
+        "title": "Giant",
+        "plays": 1
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "My Reminder",
+        "plays": 1
+      },
+      {
+        "artist": "Crawlers",
+        "title": "Come Over (Again)",
+        "plays": 1
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "Cloud 9",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith, YUNGBLUD",
+        "title": "Wild Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kreise",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Never Give Up",
+        "plays": 1
+      },
+      {
+        "artist": "Stray Kids",
+        "title": "RUN IT",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Charlie Puth feat. Selena Gomez",
-      "title": "We Don't Talk Anymore",
+      "artist": "James Arthur & You Me At Six",
+      "title": "Lose My Mind",
       "plays": 2
     }
   }
