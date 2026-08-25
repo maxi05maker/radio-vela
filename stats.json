@@ -2,8 +2,8 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 12,
-    "music_entries": 10,
+    "total_entries": 22,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Warhaus",
@@ -53,6 +53,51 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Fynn Kliemann",
+        "title": "TOD",
+        "plays": 1
+      },
+      {
+        "artist": "Jerry Cantrell",
+        "title": "Atone",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & David Guetta",
+        "title": "Sad Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John & Dua Lipa",
+        "title": "Cold Heart (PNAU Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Wunderschön",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "La Cintura",
+        "plays": 1
+      },
+      {
+        "artist": "James Arthur & You Me At Six",
+        "title": "Lose My Mind",
+        "plays": 1
+      },
+      {
+        "artist": "No Angels",
+        "title": "When the Angels Sing",
         "plays": 1
       }
     ],
