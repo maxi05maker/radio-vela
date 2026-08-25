@@ -2,8 +2,8 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 52,
-    "music_entries": 45,
+    "total_entries": 62,
+    "music_entries": 54,
     "songs": [
       {
         "artist": "Warhaus",
@@ -228,6 +228,51 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Addison Rae",
+        "title": "Headphones On",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Your Song",
+        "plays": 1
+      },
+      {
+        "artist": "FKA twigs",
+        "title": "Childlike Things",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "I Prevail",
+        "title": "Bad Things",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "House featuring John Cale",
+        "plays": 1
+      },
+      {
+        "artist": "Romano",
+        "title": "Klaps Auf Den Po",
+        "plays": 1
+      },
+      {
+        "artist": "Two Door Cinema Club",
+        "title": "Wonderful Life",
         "plays": 1
       }
     ],
