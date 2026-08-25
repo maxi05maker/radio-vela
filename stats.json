@@ -2,8 +2,8 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 22,
-    "music_entries": 19,
+    "total_entries": 32,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Warhaus",
@@ -98,6 +98,51 @@
       {
         "artist": "No Angels",
         "title": "When the Angels Sing",
+        "plays": 1
+      },
+      {
+        "artist": "The Mary Onettes",
+        "title": "Hurricane Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
+        "plays": 1
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Only the Strong Survive",
+        "plays": 1
+      },
+      {
+        "artist": "J Balvin",
+        "title": "Rio",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "plays": 1
+      },
+      {
+        "artist": "SSIO",
+        "title": "Beinchen",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Forbidden Road (From Better Man Original Motion Picture Soundtrack)",
+        "plays": 1
+      },
+      {
+        "artist": "Sia feat. Kendrick Lamar",
+        "title": "The Greatest",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Diamonds",
         "plays": 1
       }
     ],
