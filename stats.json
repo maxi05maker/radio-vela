@@ -2,12 +2,32 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 72,
-    "music_entries": 64,
+    "total_entries": 82,
+    "music_entries": 73,
     "songs": [
       {
         "artist": "Charlie Puth feat. Selena Gomez",
         "title": "We Don't Talk Anymore",
+        "plays": 2
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "title": "All You Ever Wanted",
+        "plays": 2
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Malibu",
+        "plays": 2
+      },
+      {
+        "artist": "Jaymes Young",
+        "title": "Infinity",
+        "plays": 2
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
         "plays": 2
       },
       {
@@ -146,11 +166,6 @@
         "plays": 1
       },
       {
-        "artist": "Rag'n'Bone Man",
-        "title": "All You Ever Wanted",
-        "plays": 1
-      },
-      {
         "artist": "Antifuchs",
         "title": "Stur",
         "plays": 1
@@ -171,18 +186,8 @@
         "plays": 1
       },
       {
-        "artist": "Miley Cyrus",
-        "title": "Malibu",
-        "plays": 1
-      },
-      {
         "artist": "International Music",
         "title": "Kieselwege",
-        "plays": 1
-      },
-      {
-        "artist": "Jaymes Young",
-        "title": "Infinity",
         "plays": 1
       },
       {
@@ -251,11 +256,6 @@
         "plays": 1
       },
       {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
-        "plays": 1
-      },
-      {
         "artist": "I Prevail",
         "title": "Bad Things",
         "plays": 1
@@ -318,6 +318,31 @@
       {
         "artist": "Shawn Mendes",
         "title": "Heart Of Gold",
+        "plays": 1
+      },
+      {
+        "artist": "Nathan Evans",
+        "title": "Told You So",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Nur dir gehör'n",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Aperture",
+        "plays": 1
+      },
+      {
+        "artist": "Pile",
+        "title": "Uneasy",
         "plays": 1
       }
     ],
