@@ -2,9 +2,14 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 62,
-    "music_entries": 54,
+    "total_entries": 72,
+    "music_entries": 64,
     "songs": [
+      {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
+        "plays": 2
+      },
       {
         "artist": "Warhaus",
         "title": "No Surprise",
@@ -103,11 +108,6 @@
       {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth feat. Selena Gomez",
-        "title": "We Don't Talk Anymore",
         "plays": 1
       },
       {
@@ -274,12 +274,57 @@
         "artist": "Two Door Cinema Club",
         "title": "Wonderful Life",
         "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Immer wenn wir uns sehn",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Doors",
+        "plays": 1
+      },
+      {
+        "artist": "Freya Ridings",
+        "title": "Castles",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Rooftop",
+        "plays": 1
+      },
+      {
+        "artist": "Linkin Park",
+        "title": "The Emptiness Machine",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Olly Murs",
+        "title": "Marry Me",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heart Of Gold",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Warhaus",
-      "title": "No Surprise",
-      "plays": 1
+      "artist": "Charlie Puth feat. Selena Gomez",
+      "title": "We Don't Talk Anymore",
+      "plays": 2
     }
   }
 }
