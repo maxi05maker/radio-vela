@@ -2,8 +2,8 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 92,
-    "music_entries": 82,
+    "total_entries": 94,
+    "music_entries": 83,
     "songs": [
       {
         "artist": "Charlie Puth feat. Selena Gomez",
@@ -383,6 +383,11 @@
       {
         "artist": "Olivia Rodrigo",
         "title": "Drop dead",
+        "plays": 1
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
         "plays": 1
       }
     ],
