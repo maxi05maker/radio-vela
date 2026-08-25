@@ -2,9 +2,19 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 104,
-    "music_entries": 92,
+    "total_entries": 114,
+    "music_entries": 102,
     "songs": [
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 3
+      },
+      {
+        "artist": "Aldous Harding",
+        "title": "Venus In The Zinnia",
+        "plays": 2
+      },
       {
         "artist": "James Arthur & You Me At Six",
         "title": "Lose My Mind",
@@ -13,6 +23,11 @@
       {
         "artist": "Charlie Puth feat. Selena Gomez",
         "title": "We Don't Talk Anymore",
+        "plays": 2
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Diamonds",
         "plays": 2
       },
       {
@@ -36,11 +51,6 @@
         "plays": 2
       },
       {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
-        "plays": 2
-      },
-      {
         "artist": "Warhaus",
         "title": "No Surprise",
         "plays": 1
@@ -53,11 +63,6 @@
       {
         "artist": "Malik Harris",
         "title": "Rockstars",
-        "plays": 1
-      },
-      {
-        "artist": "Aldous Harding",
-        "title": "Venus In The Zinnia",
         "plays": 1
       },
       {
@@ -163,11 +168,6 @@
       {
         "artist": "Sia feat. Kendrick Lamar",
         "title": "The Greatest",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith",
-        "title": "Diamonds",
         "plays": 1
       },
       {
@@ -429,12 +429,47 @@
         "artist": "Stray Kids",
         "title": "RUN IT",
         "plays": 1
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & Faithless",
+        "title": "New Religion",
+        "plays": 1
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "24K Magic",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Vergangenheit",
+        "plays": 1
+      },
+      {
+        "artist": "Bring Me The Horizon",
+        "title": "Strangers",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "James Arthur & You Me At Six",
-      "title": "Lose My Mind",
-      "plays": 2
+      "artist": "David Guetta, Alphaville & Ava Max",
+      "title": "Forever Young",
+      "plays": 3
     }
   }
 }
