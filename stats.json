@@ -2,8 +2,8 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 42,
-    "music_entries": 36,
+    "total_entries": 52,
+    "music_entries": 45,
     "songs": [
       {
         "artist": "Warhaus",
@@ -183,6 +183,51 @@
       {
         "artist": "Jaymes Young",
         "title": "Infinity",
+        "plays": 1
+      },
+      {
+        "artist": "The The",
+        "title": "A Rainy Day In May",
+        "plays": 1
+      },
+      {
+        "artist": "Rosenstolz",
+        "title": "Gib Mir Sonne",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk feat. Cash Cash",
+        "title": "Can We Pretend",
+        "plays": 1
+      },
+      {
+        "artist": "The Hellacopters",
+        "title": "Wrong Face On",
+        "plays": 1
+      },
+      {
+        "artist": "Sia feat. Sean Paul",
+        "title": "Cheap Thrills",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood",
+        "title": "Secrets",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 1
       }
     ],
