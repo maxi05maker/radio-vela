@@ -2,27 +2,32 @@
   "2026-08-26 07:00": {
     "period_start": "2026-08-26T07:00:00+02:00",
     "period_end": "2026-08-27T07:00:00+02:00",
-    "total_entries": 35,
-    "music_entries": 31,
+    "total_entries": 45,
+    "music_entries": 41,
     "songs": [
+      {
+        "artist": "Lena x Nico Santos",
+        "title": "Better",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Fingertips",
+        "plays": 2
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 2
       },
       {
-        "artist": "Lena x Nico Santos",
-        "title": "Better",
-        "plays": 1
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 2
       },
       {
         "artist": "Mika",
         "title": "Modern Times",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Fingertips",
         "plays": 1
       },
       {
@@ -38,11 +43,6 @@
       {
         "artist": "Big K.R.I.T.",
         "title": "So Cool",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -154,11 +154,46 @@
         "artist": "Helloween",
         "title": "This Is Tokyo",
         "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
+        "plays": 1
+      },
+      {
+        "artist": "Zsá Zsá",
+        "title": "Bad Bunnies",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Warhaus",
+        "title": "No Surprise",
+        "plays": 1
+      },
+      {
+        "artist": "Swiss & die Andern",
+        "title": "Erstmal zu Penny",
+        "plays": 1
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "Aute Cuture",
+        "plays": 1
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "Lena x Nico Santos",
+      "title": "Better",
       "plays": 2
     }
   }
