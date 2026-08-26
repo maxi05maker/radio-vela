@@ -2,8 +2,8 @@
   "2026-08-26 07:00": {
     "period_start": "2026-08-26T07:00:00+02:00",
     "period_end": "2026-08-27T07:00:00+02:00",
-    "total_entries": 45,
-    "music_entries": 41,
+    "total_entries": 55,
+    "music_entries": 51,
     "songs": [
       {
         "artist": "Lena x Nico Santos",
@@ -23,6 +23,16 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+        "title": "Waiting on the sky to change",
+        "plays": 2
+      },
+      {
+        "artist": "Casper feat. Drangsal",
+        "title": "Keine Angst",
         "plays": 2
       },
       {
@@ -86,11 +96,6 @@
         "plays": 1
       },
       {
-        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
-        "title": "Waiting on the sky to change",
-        "plays": 1
-      },
-      {
         "artist": "Cro",
         "title": "Facetime Luv",
         "plays": 1
@@ -113,11 +118,6 @@
       {
         "artist": "Halsey",
         "title": "Ego",
-        "plays": 1
-      },
-      {
-        "artist": "Casper feat. Drangsal",
-        "title": "Keine Angst",
         "plays": 1
       },
       {
@@ -188,6 +188,46 @@
       {
         "artist": "Alec Benjamin",
         "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "Jorja Smith",
+        "title": "The Way I Love You",
+        "plays": 1
+      },
+      {
+        "artist": "Marteria",
+        "title": "Lila Wolken",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "I Believe",
+        "plays": 1
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Airplanes feat. Kool Savas",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Manchild",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Budapest",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "FICKA",
         "plays": 1
       }
     ],
