@@ -2,8 +2,8 @@
   "2026-08-26 07:00": {
     "period_start": "2026-08-26T07:00:00+02:00",
     "period_end": "2026-08-27T07:00:00+02:00",
-    "total_entries": 15,
-    "music_entries": 14,
+    "total_entries": 25,
+    "music_entries": 24,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -68,6 +68,56 @@
       {
         "artist": "Topic & A7S",
         "title": "Kernkraft 400 (A Better Day)",
+        "plays": 1
+      },
+      {
+        "artist": "Nathan Evans",
+        "title": "Told You So",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Menschen und Mächte",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Forbidden Road (From Better Man Original Motion Picture Soundtrack)",
+        "plays": 1
+      },
+      {
+        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+        "title": "Waiting on the sky to change",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Facetime Luv",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd/Anitta",
+        "title": "São Paulo",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "SDP & Montez",
+        "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Ego",
+        "plays": 1
+      },
+      {
+        "artist": "Casper feat. Drangsal",
+        "title": "Keine Angst",
         "plays": 1
       }
     ],
