@@ -2,8 +2,8 @@
   "2026-08-26 07:00": {
     "period_start": "2026-08-26T07:00:00+02:00",
     "period_end": "2026-08-27T07:00:00+02:00",
-    "total_entries": 25,
-    "music_entries": 24,
+    "total_entries": 35,
+    "music_entries": 31,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -118,6 +118,41 @@
       {
         "artist": "Casper feat. Drangsal",
         "title": "Keine Angst",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Wunderschön",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & David Guetta",
+        "title": "Sad Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Cameron",
+        "title": "Best Life",
+        "plays": 1
+      },
+      {
+        "artist": "Die Ärzte",
+        "title": "True Romance",
+        "plays": 1
+      },
+      {
+        "artist": "Helloween",
+        "title": "This Is Tokyo",
         "plays": 1
       }
     ],
