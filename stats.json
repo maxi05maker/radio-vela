@@ -2,8 +2,8 @@
   "2026-08-25 07:00": {
     "period_start": "2026-08-25T07:00:00+02:00",
     "period_end": "2026-08-26T07:00:00+02:00",
-    "total_entries": 114,
-    "music_entries": 102,
+    "total_entries": 124,
+    "music_entries": 111,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -48,6 +48,11 @@
       {
         "artist": "Jaymes Young",
         "title": "Infinity",
+        "plays": 2
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 2
       },
       {
@@ -238,11 +243,6 @@
       {
         "artist": "Addison Rae",
         "title": "Headphones On",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 1
       },
       {
@@ -463,6 +463,46 @@
       {
         "artist": "Lana Del Rey",
         "title": "White Feather Hawk Tail Deer Hunter",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta feat. Zara Larsson",
+        "title": "This One's For You",
+        "plays": 1
+      },
+      {
+        "artist": "Die Ärzte",
+        "title": "True Romance",
+        "plays": 1
+      },
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "Club Song",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Henry, Come On",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Cameron",
+        "title": "Best Life",
+        "plays": 1
+      },
+      {
+        "artist": "James Blake",
+        "title": "Death Of Love (Live)",
+        "plays": 1
+      },
+      {
+        "artist": "Willow",
+        "title": "curious/furious",
         "plays": 1
       }
     ],
