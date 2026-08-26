@@ -742,5 +742,35 @@
     "played_at": "2026-08-26 05:32:56 +0200",
     "title": "curious/furious",
     "artist": "Willow"
+  },
+  {
+    "key": "2026-08-26 07:02:26 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-26 07:02:26 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-26 07:05:22 +0200|Better|Lena x Nico Santos",
+    "played_at": "2026-08-26 07:05:22 +0200",
+    "title": "Better",
+    "artist": "Lena x Nico Santos"
+  },
+  {
+    "key": "2026-08-26 07:08:40 +0200|Modern Times|Mika",
+    "played_at": "2026-08-26 07:08:40 +0200",
+    "title": "Modern Times",
+    "artist": "Mika"
+  },
+  {
+    "key": "2026-08-26 07:12:54 +0200|Fingertips|Tom Gregory",
+    "played_at": "2026-08-26 07:12:54 +0200",
+    "title": "Fingertips",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-08-26 07:15:39 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-08-26 07:15:39 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
   }
 ]
