@@ -2,9 +2,14 @@
   "2026-08-26 07:00": {
     "period_start": "2026-08-26T07:00:00+02:00",
     "period_end": "2026-08-27T07:00:00+02:00",
-    "total_entries": 5,
-    "music_entries": 4,
+    "total_entries": 15,
+    "music_entries": 14,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 2
+      },
       {
         "artist": "Lena x Nico Santos",
         "title": "Better",
@@ -21,15 +26,55 @@
         "plays": 1
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
+        "artist": "Bad Omens",
+        "title": "Like A Villain",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "das leben ist... [Explicit]",
+        "plays": 1
+      },
+      {
+        "artist": "Big K.R.I.T.",
+        "title": "So Cool",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Biffy Clyro",
+        "title": "True Believer",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Looking For Love",
+        "plays": 1
+      },
+      {
+        "artist": "ROSÉ & Bruno Mars",
+        "title": "APT.",
+        "plays": 1
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Lena x Nico Santos",
-      "title": "Better",
-      "plays": 1
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 2
     }
   }
 }
