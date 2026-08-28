@@ -1222,5 +1222,17 @@
     "played_at": "2026-08-29 00:01:51 +0200",
     "title": "As It Was",
     "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-08-29 00:04:38 +0200|Kernkraft 400 (A Better Day)|Topic & A7S",
+    "played_at": "2026-08-29 00:04:38 +0200",
+    "title": "Kernkraft 400 (A Better Day)",
+    "artist": "Topic & A7S"
+  },
+  {
+    "key": "2026-08-29 00:07:24 +0200|17. Juli 1989|Betterov",
+    "played_at": "2026-08-29 00:07:24 +0200",
+    "title": "17. Juli 1989",
+    "artist": "Betterov"
   }
 ]
