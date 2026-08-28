@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 39,
-    "music_entries": 37,
+    "total_entries": 42,
+    "music_entries": 40,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -188,6 +188,21 @@
       {
         "artist": "Miksu / Macloud/T-low",
         "title": "Sehnsucht",
+        "plays": 1
+      },
+      {
+        "artist": "Beyonce feat. Shakira",
+        "title": "Beautiful Liar",
+        "plays": 1
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 1
+      },
+      {
+        "artist": "THE SUBWAYS",
+        "title": "I Need To Feel You Closer",
         "plays": 1
       }
     ],
