@@ -1,240 +1,60 @@
 {
-  "2026-08-26 07:00": {
-    "period_start": "2026-08-26T07:00:00+02:00",
-    "period_end": "2026-08-27T07:00:00+02:00",
-    "total_entries": 55,
-    "music_entries": 51,
+  "2026-08-27 07:00": {
+    "period_start": "2026-08-27T07:00:00+02:00",
+    "period_end": "2026-08-28T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Lena x Nico Santos",
-        "title": "Better",
-        "plays": 2
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Fingertips",
-        "plays": 2
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 2
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 2
-      },
-      {
-        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
-        "title": "Waiting on the sky to change",
-        "plays": 2
-      },
-      {
-        "artist": "Casper feat. Drangsal",
-        "title": "Keine Angst",
-        "plays": 2
-      },
-      {
-        "artist": "Mika",
-        "title": "Modern Times",
+        "artist": "Avicii",
+        "title": "Addicted To You",
         "plays": 1
       },
       {
-        "artist": "Bad Omens",
-        "title": "Like A Villain",
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
         "plays": 1
       },
       {
-        "artist": "JORIS",
-        "title": "das leben ist... [Explicit]",
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
         "plays": 1
       },
       {
-        "artist": "Big K.R.I.T.",
-        "title": "So Cool",
+        "artist": "Jamiroquai",
+        "title": "White Knuckle Ride",
         "plays": 1
       },
       {
-        "artist": "Biffy Clyro",
-        "title": "True Believer",
+        "artist": "GLENN HUGHES",
+        "title": "BLACK CAT MOAN",
+        "plays": 1
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "title": "On The Floor (Feat. Pitbull)",
+        "plays": 1
+      },
+      {
+        "artist": "Von Wegen Lisbeth",
+        "title": "Meine Kneipe",
         "plays": 1
       },
       {
         "artist": "Lana Del Rey",
-        "title": "Happiness Is A Butterfly",
+        "title": "Henry, Come On",
         "plays": 1
       },
       {
-        "artist": "Lena",
-        "title": "Looking For Love",
-        "plays": 1
-      },
-      {
-        "artist": "ROSÉ & Bruno Mars",
-        "title": "APT.",
-        "plays": 1
-      },
-      {
-        "artist": "Topic & A7S",
-        "title": "Kernkraft 400 (A Better Day)",
-        "plays": 1
-      },
-      {
-        "artist": "Nathan Evans",
-        "title": "Told You So",
-        "plays": 1
-      },
-      {
-        "artist": "Sofia Portanet",
-        "title": "Menschen und Mächte",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "Forbidden Road (From Better Man Original Motion Picture Soundtrack)",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Facetime Luv",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd/Anitta",
-        "title": "São Paulo",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "SDP & Montez",
-        "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
-        "plays": 1
-      },
-      {
-        "artist": "Halsey",
-        "title": "Ego",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Out Of Time",
-        "plays": 1
-      },
-      {
-        "artist": "Zartmann",
-        "title": "Wunderschön",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Bebe Rexha & David Guetta",
-        "title": "Sad Girls",
-        "plays": 1
-      },
-      {
-        "artist": "Alex Cameron",
-        "title": "Best Life",
-        "plays": 1
-      },
-      {
-        "artist": "Die Ärzte",
-        "title": "True Romance",
-        "plays": 1
-      },
-      {
-        "artist": "Helloween",
-        "title": "This Is Tokyo",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Roundabouts",
-        "plays": 1
-      },
-      {
-        "artist": "Zsá Zsá",
-        "title": "Bad Bunnies",
-        "plays": 1
-      },
-      {
-        "artist": "A1 x J1 & Tion Wayne",
-        "title": "Night Away (Dance)",
-        "plays": 1
-      },
-      {
-        "artist": "Warhaus",
-        "title": "No Surprise",
-        "plays": 1
-      },
-      {
-        "artist": "Swiss & die Andern",
-        "title": "Erstmal zu Penny",
-        "plays": 1
-      },
-      {
-        "artist": "ROSALÍA",
-        "title": "Aute Cuture",
-        "plays": 1
-      },
-      {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
-        "artist": "Jorja Smith",
-        "title": "The Way I Love You",
-        "plays": 1
-      },
-      {
-        "artist": "Marteria",
-        "title": "Lila Wolken",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory & VIZE",
-        "title": "Make It Right",
-        "plays": 1
-      },
-      {
-        "artist": "Kamrad",
-        "title": "I Believe",
-        "plays": 1
-      },
-      {
-        "artist": "Badmómzjay",
-        "title": "Airplanes feat. Kool Savas",
-        "plays": 1
-      },
-      {
-        "artist": "Sabrina Carpenter",
-        "title": "Manchild",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Budapest",
-        "plays": 1
-      },
-      {
-        "artist": "Sarah Connor",
-        "title": "FICKA",
+        "artist": "Monrose",
+        "title": "Hot Summer",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Lena x Nico Santos",
-      "title": "Better",
-      "plays": 2
+      "artist": "Avicii",
+      "title": "Addicted To You",
+      "plays": 1
     }
   }
 }

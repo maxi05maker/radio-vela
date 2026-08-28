@@ -1072,5 +1072,65 @@
     "played_at": "2026-08-26 18:56:01 +0200",
     "title": "FICKA",
     "artist": "Sarah Connor"
+  },
+  {
+    "key": "2026-08-28 02:58:07 +0200|Addicted To You|Avicii",
+    "played_at": "2026-08-28 02:58:07 +0200",
+    "title": "Addicted To You",
+    "artist": "Avicii"
+  },
+  {
+    "key": "2026-08-28 03:00:35 +0200|Slow Motion|Alessia Cara",
+    "played_at": "2026-08-28 03:00:35 +0200",
+    "title": "Slow Motion",
+    "artist": "Alessia Cara"
+  },
+  {
+    "key": "2026-08-28 03:03:59 +0200|Hold Me Closer|Elton John, Britney Spears",
+    "played_at": "2026-08-28 03:03:59 +0200",
+    "title": "Hold Me Closer",
+    "artist": "Elton John, Britney Spears"
+  },
+  {
+    "key": "2026-08-28 03:07:21 +0200|White Knuckle Ride|Jamiroquai",
+    "played_at": "2026-08-28 03:07:21 +0200",
+    "title": "White Knuckle Ride",
+    "artist": "Jamiroquai"
+  },
+  {
+    "key": "2026-08-28 03:10:56 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-28 03:10:56 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-28 03:13:44 +0200|BLACK CAT MOAN|GLENN HUGHES",
+    "played_at": "2026-08-28 03:13:44 +0200",
+    "title": "BLACK CAT MOAN",
+    "artist": "GLENN HUGHES"
+  },
+  {
+    "key": "2026-08-28 03:18:37 +0200|On The Floor (Feat. Pitbull)|Jennifer Lopez",
+    "played_at": "2026-08-28 03:18:37 +0200",
+    "title": "On The Floor (Feat. Pitbull)",
+    "artist": "Jennifer Lopez"
+  },
+  {
+    "key": "2026-08-28 03:22:28 +0200|Meine Kneipe|Von Wegen Lisbeth",
+    "played_at": "2026-08-28 03:22:28 +0200",
+    "title": "Meine Kneipe",
+    "artist": "Von Wegen Lisbeth"
+  },
+  {
+    "key": "2026-08-28 03:25:31 +0200|Henry, Come On|Lana Del Rey",
+    "played_at": "2026-08-28 03:25:31 +0200",
+    "title": "Henry, Come On",
+    "artist": "Lana Del Rey"
+  },
+  {
+    "key": "2026-08-28 03:30:43 +0200|Hot Summer|Monrose",
+    "played_at": "2026-08-28 03:30:43 +0200",
+    "title": "Hot Summer",
+    "artist": "Monrose"
   }
 ]
