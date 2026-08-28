@@ -2,9 +2,14 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 42,
-    "music_entries": 40,
+    "total_entries": 44,
+    "music_entries": 42,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 2
+      },
       {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
@@ -88,11 +93,6 @@
       {
         "artist": "Betterov",
         "title": "17. Juli 1989",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 1
       },
       {
@@ -204,12 +204,17 @@
         "artist": "THE SUBWAYS",
         "title": "I Need To Feel You Closer",
         "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "David Guetta, Alphaville & Ava Max",
-      "title": "Forever Young",
-      "plays": 1
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 2
     }
   }
 }
