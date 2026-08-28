@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 24,
-    "music_entries": 23,
+    "total_entries": 27,
+    "music_entries": 26,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -118,6 +118,21 @@
       {
         "artist": "Miley Cyrus",
         "title": "More to Lose",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "2001",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, Whitney Houston",
+        "title": "Its Not Right But Its Okay",
         "plays": 1
       }
     ],
