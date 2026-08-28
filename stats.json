@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 33,
+    "music_entries": 32,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -148,6 +148,21 @@
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Cover Me In Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
         "plays": 1
       }
     ],
