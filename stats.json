@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 35,
-    "music_entries": 34,
+    "total_entries": 37,
+    "music_entries": 35,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -173,6 +173,11 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Vergangenheit",
         "plays": 1
       }
     ],
