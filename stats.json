@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 28,
-    "music_entries": 27,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -138,6 +138,16 @@
       {
         "artist": "Cheap Trick",
         "title": "I Want You to Want Me",
+        "plays": 1
+      },
+      {
+        "artist": "James Arthur & You Me At Six",
+        "title": "Lose My Mind",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
         "plays": 1
       }
     ],
