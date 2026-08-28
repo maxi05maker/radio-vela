@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 12,
+    "music_entries": 12,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -53,6 +53,16 @@
       {
         "artist": "Sunrise Avenue",
         "title": "I Help You Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Jessie Ware",
+        "title": "Superbloom",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
         "plays": 1
       }
     ],
