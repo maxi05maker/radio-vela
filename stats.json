@@ -1,59 +1,64 @@
 {
-  "2026-08-27 07:00": {
-    "period_start": "2026-08-27T07:00:00+02:00",
-    "period_end": "2026-08-28T07:00:00+02:00",
+  "2026-08-28 07:00": {
+    "period_start": "2026-08-28T07:00:00+02:00",
+    "period_end": "2026-08-29T07:00:00+02:00",
     "total_entries": 10,
-    "music_entries": 9,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Avicii",
-        "title": "Addicted To You",
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Arcade Fire",
+        "title": "Year of the Snake",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Frei",
+        "plays": 1
+      },
+      {
+        "artist": "Starley",
+        "title": "Call on Me",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Dead Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Wild & Free",
         "plays": 1
       },
       {
         "artist": "Alessia Cara",
-        "title": "Slow Motion",
+        "title": "Scars To Your Beautiful",
         "plays": 1
       },
       {
-        "artist": "Elton John, Britney Spears",
-        "title": "Hold Me Closer",
+        "artist": "Evanescence",
+        "title": "Who Will You Follow",
         "plays": 1
       },
       {
-        "artist": "Jamiroquai",
-        "title": "White Knuckle Ride",
+        "artist": "Ed Sheeran, Lil Baby",
+        "title": "2step (feat. Lil Baby)",
         "plays": 1
       },
       {
-        "artist": "GLENN HUGHES",
-        "title": "BLACK CAT MOAN",
-        "plays": 1
-      },
-      {
-        "artist": "Jennifer Lopez",
-        "title": "On The Floor (Feat. Pitbull)",
-        "plays": 1
-      },
-      {
-        "artist": "Von Wegen Lisbeth",
-        "title": "Meine Kneipe",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Henry, Come On",
-        "plays": 1
-      },
-      {
-        "artist": "Monrose",
-        "title": "Hot Summer",
+        "artist": "Sunrise Avenue",
+        "title": "I Help You Hate Me",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Avicii",
-      "title": "Addicted To You",
+      "artist": "David Guetta, Alphaville & Ava Max",
+      "title": "Forever Young",
       "plays": 1
     }
   }
