@@ -1204,5 +1204,23 @@
     "played_at": "2026-08-28 23:51:15 +0200",
     "title": "Part Of The Band",
     "artist": "The 1975"
+  },
+  {
+    "key": "2026-08-28 23:55:35 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-08-28 23:55:35 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-08-28 23:59:06 +0200|Nur dir gehör'n|1986zig",
+    "played_at": "2026-08-28 23:59:06 +0200",
+    "title": "Nur dir gehör'n",
+    "artist": "1986zig"
+  },
+  {
+    "key": "2026-08-29 00:01:51 +0200|As It Was|Harry Styles",
+    "played_at": "2026-08-29 00:01:51 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
   }
 ]
