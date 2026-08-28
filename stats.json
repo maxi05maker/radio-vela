@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 27,
-    "music_entries": 26,
+    "total_entries": 28,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -133,6 +133,11 @@
       {
         "artist": "Felix Jaehn, Whitney Houston",
         "title": "Its Not Right But Its Okay",
+        "plays": 1
+      },
+      {
+        "artist": "Cheap Trick",
+        "title": "I Want You to Want Me",
         "plays": 1
       }
     ],
