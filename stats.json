@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 117,
-    "music_entries": 109,
+    "total_entries": 120,
+    "music_entries": 112,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -498,6 +498,21 @@
       {
         "artist": "Shaboozey",
         "title": "Bar Song (Tipsy)",
+        "plays": 1
+      },
+      {
+        "artist": "Shaggy feat. Trix & Flix",
+        "title": "Feel The Rush",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA",
+        "title": "Wie?",
+        "plays": 1
+      },
+      {
+        "artist": "We Are Scientists",
+        "title": "Less from You",
         "plays": 1
       }
     ],
