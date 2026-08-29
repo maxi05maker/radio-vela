@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 55,
-    "music_entries": 50,
+    "total_entries": 58,
+    "music_entries": 53,
     "songs": [
       {
         "artist": "Coldplay",
@@ -253,6 +253,21 @@
       {
         "artist": "The 1975",
         "title": "About You",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Obongjayar",
+        "title": "Sweet Danger",
+        "plays": 1
+      },
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
         "plays": 1
       }
     ],
