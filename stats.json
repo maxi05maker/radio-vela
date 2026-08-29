@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 102,
-    "music_entries": 96,
+    "total_entries": 103,
+    "music_entries": 97,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -443,6 +443,11 @@
       {
         "artist": "Boy",
         "title": "Little Numbers",
+        "plays": 1
+      },
+      {
+        "artist": "Jonathan Jeremiah & Till Bronner",
+        "title": "We Come Alive",
         "plays": 1
       }
     ],
