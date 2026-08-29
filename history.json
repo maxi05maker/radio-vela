@@ -1942,5 +1942,17 @@
     "played_at": "2026-08-30 01:01:49 +0200",
     "title": "Kaleidoskop",
     "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-08-30 01:05:29 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-30 01:05:29 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-30 01:08:22 +0200|Tage wie diese|Die Toten Hosen",
+    "played_at": "2026-08-30 01:08:22 +0200",
+    "title": "Tage wie diese",
+    "artist": "Die Toten Hosen"
   }
 ]
