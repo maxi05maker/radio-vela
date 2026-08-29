@@ -286,5 +286,17 @@
     "played_at": "2026-08-29 09:41:40 +0200",
     "title": "Dye My Hair",
     "artist": "Alma"
+  },
+  {
+    "key": "2026-08-29 09:45:09 +0200|Happy|Pharrell Williams",
+    "played_at": "2026-08-29 09:45:09 +0200",
+    "title": "Happy",
+    "artist": "Pharrell Williams"
+  },
+  {
+    "key": "2026-08-29 09:49:02 +0200|In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom|Volbeat",
+    "played_at": "2026-08-29 09:49:02 +0200",
+    "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
+    "artist": "Volbeat"
   }
 ]
