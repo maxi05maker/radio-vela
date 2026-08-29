@@ -418,5 +418,17 @@
     "played_at": "2026-08-29 11:00:12 +0200",
     "title": "In Spite of Everything",
     "artist": "Takida"
+  },
+  {
+    "key": "2026-08-29 11:04:14 +0200|Don’t Call Me Angel (Charlie’s Angels)|Ariana Grande & Miley Cyrus & Lana Del Rey",
+    "played_at": "2026-08-29 11:04:14 +0200",
+    "title": "Don’t Call Me Angel (Charlie’s Angels)",
+    "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey"
+  },
+  {
+    "key": "2026-08-29 11:07:24 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-29 11:07:24 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
