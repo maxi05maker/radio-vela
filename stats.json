@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 184,
-    "music_entries": 167,
+    "total_entries": 186,
+    "music_entries": 169,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -18,6 +18,11 @@
       {
         "artist": "Peter Fox",
         "title": "Haus am See",
+        "plays": 2
+      },
+      {
+        "artist": "Monet192",
+        "title": "tout",
         "plays": 2
       },
       {
@@ -116,6 +121,11 @@
         "plays": 2
       },
       {
+        "artist": "Pharrell Williams",
+        "title": "Happy",
+        "plays": 2
+      },
+      {
         "artist": "Marteria",
         "title": "9 Leben (Eins übrig)",
         "plays": 2
@@ -128,11 +138,6 @@
       {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "Monet192",
-        "title": "tout",
         "plays": 1
       },
       {
@@ -233,11 +238,6 @@
       {
         "artist": "Helloween",
         "title": "This Is Tokyo",
-        "plays": 1
-      },
-      {
-        "artist": "Pharrell Williams",
-        "title": "Happy",
         "plays": 1
       },
       {
