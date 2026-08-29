@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 31,
-    "music_entries": 28,
+    "total_entries": 34,
+    "music_entries": 31,
     "songs": [
       {
         "artist": "Coldplay",
@@ -143,6 +143,21 @@
       {
         "artist": "Joris",
         "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Swiss & die Andern",
+        "title": "Erstmal zu Penny",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz & Danger Dan",
+        "title": "Unsere Bank",
+        "plays": 1
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Wolken",
         "plays": 1
       }
     ],
