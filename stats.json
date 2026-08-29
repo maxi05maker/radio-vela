@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 29,
-    "music_entries": 26,
+    "total_entries": 31,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Coldplay",
@@ -133,6 +133,16 @@
       {
         "artist": "Metronomy",
         "title": "The Look",
+        "plays": 1
+      },
+      {
+        "artist": "Gotye Feat. Kimbra",
+        "title": "Somebody that I Used to Know",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
         "plays": 1
       }
     ],

@@ -172,5 +172,17 @@
     "played_at": "2026-08-29 08:34:37 +0200",
     "title": "The Look",
     "artist": "Metronomy"
+  },
+  {
+    "key": "2026-08-29 08:39:14 +0200|Somebody that I Used to Know|Gotye Feat. Kimbra",
+    "played_at": "2026-08-29 08:39:14 +0200",
+    "title": "Somebody that I Used to Know",
+    "artist": "Gotye Feat. Kimbra"
+  },
+  {
+    "key": "2026-08-29 08:43:21 +0200|Zu Viel Retro|Joris",
+    "played_at": "2026-08-29 08:43:21 +0200",
+    "title": "Zu Viel Retro",
+    "artist": "Joris"
   }
 ]
