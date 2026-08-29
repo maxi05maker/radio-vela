@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 240,
-    "music_entries": 218,
+    "total_entries": 242,
+    "music_entries": 220,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -191,6 +191,11 @@
         "plays": 2
       },
       {
+        "artist": "AWOLNATION",
+        "title": "Sail",
+        "plays": 2
+      },
+      {
         "artist": "Sia",
         "title": "Never Give Up",
         "plays": 2
@@ -373,11 +378,6 @@
       {
         "artist": "Obongjayar",
         "title": "Sweet Danger",
-        "plays": 1
-      },
-      {
-        "artist": "AWOLNATION",
-        "title": "Sail",
         "plays": 1
       },
       {
@@ -798,6 +798,11 @@
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "JENNIE, Dua Lipa",
+        "title": "Handlebars",
         "plays": 1
       }
     ],
