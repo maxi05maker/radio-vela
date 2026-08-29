@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 288,
-    "music_entries": 263,
+    "total_entries": 291,
+    "music_entries": 266,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -943,6 +943,21 @@
       {
         "artist": "Sportfreunde Stiller",
         "title": "'54, '74, '90, 2006",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5",
+        "title": "Priceless ft. LISA",
+        "plays": 1
+      },
+      {
+        "artist": "Lauren Spencer-Smith",
+        "title": "Flowers",
+        "plays": 1
+      },
+      {
+        "artist": "Diana Ross & Tame Impala",
+        "title": "Turn Up The Sunshine",
         "plays": 1
       }
     ],
