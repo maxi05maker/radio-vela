@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 36,
-    "music_entries": 33,
+    "total_entries": 38,
+    "music_entries": 34,
     "songs": [
       {
         "artist": "Coldplay",
@@ -168,6 +168,11 @@
       {
         "artist": "Paramore",
         "title": "The news",
+        "plays": 1
+      },
+      {
+        "artist": "sombr",
+        "title": "Homewrecker",
         "plays": 1
       }
     ],
