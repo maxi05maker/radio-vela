@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 251,
-    "music_entries": 228,
+    "total_entries": 254,
+    "music_entries": 230,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -321,6 +321,11 @@
         "plays": 2
       },
       {
+        "artist": "We Are Scientists",
+        "title": "Less from You",
+        "plays": 2
+      },
+      {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
         "plays": 1
@@ -543,11 +548,6 @@
       {
         "artist": "Tove Lo",
         "title": "Habits (Stay High)",
-        "plays": 1
-      },
-      {
-        "artist": "We Are Scientists",
-        "title": "Less from You",
         "plays": 1
       },
       {
@@ -823,6 +823,11 @@
       {
         "artist": "Kevin Gates",
         "title": "Big Lyfe",
+        "plays": 1
+      },
+      {
+        "artist": "Kylie Minogue & YouNotUs",
+        "title": "Someone For Me",
         "plays": 1
       }
     ],
