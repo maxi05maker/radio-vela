@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 308,
-    "music_entries": 281,
+    "total_entries": 310,
+    "music_entries": 283,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1028,6 +1028,16 @@
       {
         "artist": "Father John Misty",
         "title": "She Cleans Up",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shivers",
+        "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
         "plays": 1
       }
     ],
