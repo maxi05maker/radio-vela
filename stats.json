@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 263,
-    "music_entries": 239,
+    "total_entries": 267,
+    "music_entries": 243,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -83,6 +83,11 @@
       {
         "artist": "Lil Tecca",
         "title": "Owa Owa",
+        "plays": 2
+      },
+      {
+        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+        "title": "Waiting on the sky to change",
         "plays": 2
       },
       {
@@ -296,6 +301,11 @@
         "plays": 2
       },
       {
+        "artist": "Empire Of The Sun",
+        "title": "We Are The People",
+        "plays": 2
+      },
+      {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
         "plays": 2
@@ -333,6 +343,11 @@
       {
         "artist": "Meghan Trainor",
         "title": "All About That Bass",
+        "plays": 2
+      },
+      {
+        "artist": "Bastille",
+        "title": "Things We Lost In The Fire",
         "plays": 2
       },
       {
@@ -378,11 +393,6 @@
       {
         "artist": "The Weeknd",
         "title": "Cry For Me",
-        "plays": 1
-      },
-      {
-        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
-        "title": "Waiting on the sky to change",
         "plays": 1
       },
       {
@@ -481,11 +491,6 @@
         "plays": 1
       },
       {
-        "artist": "Empire Of The Sun",
-        "title": "We Are The People",
-        "plays": 1
-      },
-      {
         "artist": "Malik Harris",
         "title": "lie to me",
         "plays": 1
@@ -523,11 +528,6 @@
       {
         "artist": "HUGEL & Dawty & Preston Harris",
         "title": "Loosen Up",
-        "plays": 1
-      },
-      {
-        "artist": "Bastille",
-        "title": "Things We Lost In The Fire",
         "plays": 1
       },
       {
@@ -843,6 +843,11 @@
       {
         "artist": "Hurts/Purple Disco Machine",
         "title": "Wonderful Life '25",
+        "plays": 1
+      },
+      {
+        "artist": "Ray Vaughn",
+        "title": "Hoe Era",
         "plays": 1
       }
     ],
