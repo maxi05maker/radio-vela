@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 46,
+    "total_entries": 51,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "Coldplay",
@@ -233,6 +233,11 @@
       {
         "artist": "Volbeat",
         "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
         "plays": 1
       }
     ],
