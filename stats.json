@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 87,
-    "music_entries": 81,
+    "total_entries": 89,
+    "music_entries": 83,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -393,6 +393,16 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Obongjayar",
+        "title": "Sweet Danger",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Physical",
         "plays": 1
       }
     ],

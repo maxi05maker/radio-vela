@@ -1654,5 +1654,17 @@
     "played_at": "2026-08-29 03:44:27 +0200",
     "title": "Waterfall",
     "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-08-29 03:46:45 +0200|Sweet Danger|Obongjayar",
+    "played_at": "2026-08-29 03:46:45 +0200",
+    "title": "Sweet Danger",
+    "artist": "Obongjayar"
+  },
+  {
+    "key": "2026-08-29 03:49:26 +0200|Physical|Dua Lipa",
+    "played_at": "2026-08-29 03:49:26 +0200",
+    "title": "Physical",
+    "artist": "Dua Lipa"
   }
 ]
