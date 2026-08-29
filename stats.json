@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 247,
-    "music_entries": 224,
+    "total_entries": 249,
+    "music_entries": 226,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -281,6 +281,11 @@
         "plays": 2
       },
       {
+        "artist": "Culcha Candela",
+        "title": "Hamma!",
+        "plays": 2
+      },
+      {
         "artist": "Marteria",
         "title": "Lila Wolken",
         "plays": 2
@@ -308,6 +313,11 @@
       {
         "artist": "Eli Preiss",
         "title": "Was ist der Prei$$",
+        "plays": 2
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "All About That Bass",
         "plays": 2
       },
       {
@@ -431,11 +441,6 @@
         "plays": 1
       },
       {
-        "artist": "Culcha Candela",
-        "title": "Hamma!",
-        "plays": 1
-      },
-      {
         "artist": "Fontaines D.C.",
         "title": "Favourite",
         "plays": 1
@@ -503,11 +508,6 @@
       {
         "artist": "HUGEL & Dawty & Preston Harris",
         "title": "Loosen Up",
-        "plays": 1
-      },
-      {
-        "artist": "Meghan Trainor",
-        "title": "All About That Bass",
         "plays": 1
       },
       {
