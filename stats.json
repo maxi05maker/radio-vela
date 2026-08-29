@@ -2,9 +2,14 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 67,
-    "music_entries": 63,
+    "total_entries": 73,
+    "music_entries": 69,
     "songs": [
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 2
+      },
       {
         "artist": "Harry Styles",
         "title": "As It Was",
@@ -14,11 +19,6 @@
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 2
-      },
-      {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
-        "plays": 1
       },
       {
         "artist": "Arcade Fire",
@@ -309,11 +309,36 @@
         "artist": "Ariana Grande",
         "title": "twilight zone",
         "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "A Sky Full Of Stars",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL & Dawty & Preston Harris",
+        "title": "Loosen Up",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Melissa Etheridge",
+        "title": "For The Last Time",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL, Imael Angel, Ultra Naté",
+        "title": "Movin' To The Sun",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Harry Styles",
-      "title": "As It Was",
+      "artist": "David Guetta, Alphaville & Ava Max",
+      "title": "Forever Young",
       "plays": 2
     }
   }
