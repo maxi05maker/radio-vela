@@ -1696,5 +1696,17 @@
     "played_at": "2026-08-29 04:05:05 +0200",
     "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
     "artist": "Tobee"
+  },
+  {
+    "key": "2026-08-29 04:08:19 +0200|A Sky Full Of Stars|Coldplay",
+    "played_at": "2026-08-29 04:08:19 +0200",
+    "title": "A Sky Full Of Stars",
+    "artist": "Coldplay"
+  },
+  {
+    "key": "2026-08-29 04:12:44 +0200|Mercy|Duffy",
+    "played_at": "2026-08-29 04:12:44 +0200",
+    "title": "Mercy",
+    "artist": "Duffy"
   }
 ]
