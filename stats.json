@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 322,
-    "music_entries": 294,
+    "total_entries": 324,
+    "music_entries": 296,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -256,6 +256,11 @@
         "plays": 2
       },
       {
+        "artist": "Purple Disco Machine, Alison Goldfrapp",
+        "title": "Dream Machine",
+        "plays": 2
+      },
+      {
         "artist": "Ariana Grande",
         "title": "No Tears Left To Cry",
         "plays": 2
@@ -463,11 +468,6 @@
       {
         "artist": "PinkPantheress",
         "title": "Illegal",
-        "plays": 1
-      },
-      {
-        "artist": "Purple Disco Machine, Alison Goldfrapp",
-        "title": "Dream Machine",
         "plays": 1
       },
       {
@@ -1093,6 +1093,11 @@
       {
         "artist": "SDP & Montez",
         "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kaleidoskop",
         "plays": 1
       }
     ],
