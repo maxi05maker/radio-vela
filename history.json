@@ -1642,5 +1642,17 @@
     "played_at": "2026-08-29 03:37:11 +0200",
     "title": "Doors",
     "artist": "Noah Kahan"
+  },
+  {
+    "key": "2026-08-29 03:41:02 +0200|Tu m'appelles|Adel Tawil",
+    "played_at": "2026-08-29 03:41:02 +0200",
+    "title": "Tu m'appelles",
+    "artist": "Adel Tawil"
+  },
+  {
+    "key": "2026-08-29 03:44:27 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-08-29 03:44:27 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
   }
 ]
