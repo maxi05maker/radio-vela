@@ -2,9 +2,14 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 115,
-    "music_entries": 104,
+    "total_entries": 117,
+    "music_entries": 106,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 2
+      },
       {
         "artist": "Coldplay",
         "title": "A Sky Full Of Stars",
@@ -18,11 +23,6 @@
       {
         "artist": "Peter Fox",
         "title": "Haus am See",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 1
       },
       {
@@ -524,12 +524,17 @@
         "artist": "Silbermond",
         "title": "Leichtes Gepäck",
         "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Azizam",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Coldplay",
-      "title": "A Sky Full Of Stars",
-      "plays": 1
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 2
     }
   }
 }
