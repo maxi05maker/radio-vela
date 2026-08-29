@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 165,
-    "music_entries": 149,
+    "total_entries": 168,
+    "music_entries": 152,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -31,6 +31,11 @@
         "plays": 2
       },
       {
+        "artist": "MGMT",
+        "title": "Electric Feel",
+        "plays": 2
+      },
+      {
         "artist": "Katy Perry",
         "title": "Hot N Cold",
         "plays": 2
@@ -53,6 +58,11 @@
       {
         "artist": "Loreen",
         "title": "Euphoria",
+        "plays": 2
+      },
+      {
+        "artist": "Swiss & die Andern",
+        "title": "Erstmal zu Penny",
         "plays": 2
       },
       {
@@ -83,11 +93,6 @@
       {
         "artist": "Gracie Abrams",
         "title": "That’s So True",
-        "plays": 1
-      },
-      {
-        "artist": "MGMT",
-        "title": "Electric Feel",
         "plays": 1
       },
       {
@@ -153,11 +158,6 @@
       {
         "artist": "Joris",
         "title": "Zu Viel Retro",
-        "plays": 1
-      },
-      {
-        "artist": "Swiss & die Andern",
-        "title": "Erstmal zu Penny",
         "plays": 1
       },
       {
@@ -683,6 +683,11 @@
       {
         "artist": "DCVDNS",
         "title": "Sympathie Für Den Teufel",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "atzen & barbies (feat. ski aggu)",
         "plays": 1
       }
     ],
