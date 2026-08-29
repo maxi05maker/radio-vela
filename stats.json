@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 242,
-    "music_entries": 220,
+    "total_entries": 244,
+    "music_entries": 222,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -271,6 +271,11 @@
         "plays": 2
       },
       {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
+        "plays": 2
+      },
+      {
         "artist": "Marteria",
         "title": "Lila Wolken",
         "plays": 2
@@ -423,11 +428,6 @@
       {
         "artist": "Twenty One Pilots",
         "title": "Drum Show",
-        "plays": 1
-      },
-      {
-        "artist": "Panic! At the Disco",
-        "title": "High Hopes",
         "plays": 1
       },
       {
@@ -803,6 +803,11 @@
       {
         "artist": "JENNIE, Dua Lipa",
         "title": "Handlebars",
+        "plays": 1
+      },
+      {
+        "artist": "Baxter Dury & JGrrey",
+        "title": "Return Of The Sharp Heads",
         "plays": 1
       }
     ],
