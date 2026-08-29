@@ -2,13 +2,18 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 295,
-    "music_entries": 270,
+    "total_entries": 297,
+    "music_entries": 272,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 4
+      },
+      {
+        "artist": "Tokio Hotel",
+        "title": "Rette Mich",
+        "plays": 3
       },
       {
         "artist": "Coldplay",
@@ -303,11 +308,6 @@
       {
         "artist": "Empire Of The Sun",
         "title": "We Are The People",
-        "plays": 2
-      },
-      {
-        "artist": "Tokio Hotel",
-        "title": "Rette Mich",
         "plays": 2
       },
       {
@@ -978,6 +978,11 @@
       {
         "artist": "Leony",
         "title": "Oldschool Love",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld",
+        "title": "Abreißen",
         "plays": 1
       }
     ],
