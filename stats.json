@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 212,
-    "music_entries": 193,
+    "total_entries": 215,
+    "music_entries": 196,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -201,8 +201,18 @@
         "plays": 2
       },
       {
+        "artist": "Yungblud",
+        "title": "Memories",
+        "plays": 2
+      },
+      {
         "artist": "Jennifer Lopez",
         "title": "Ain't Your Mama",
+        "plays": 2
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
         "plays": 2
       },
       {
@@ -341,11 +351,6 @@
         "plays": 1
       },
       {
-        "artist": "Yungblud",
-        "title": "Memories",
-        "plays": 1
-      },
-      {
         "artist": "Purple Disco Machine, Alison Goldfrapp",
         "title": "Dream Machine",
         "plays": 1
@@ -353,11 +358,6 @@
       {
         "artist": "Ariana Grande",
         "title": "No Tears Left To Cry",
-        "plays": 1
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
         "plays": 1
       },
       {
@@ -763,6 +763,11 @@
       {
         "artist": "Alvaro Soler",
         "title": "Regalo",
+        "plays": 1
+      },
+      {
+        "artist": "LISA FEAT. DOJA CAT & RAYE",
+        "title": "BORN AGAIN",
         "plays": 1
       }
     ],
