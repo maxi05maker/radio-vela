@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 137,
-    "music_entries": 124,
+    "total_entries": 139,
+    "music_entries": 126,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -598,6 +598,16 @@
       {
         "artist": "Red Hot Chili Peppers",
         "title": "Dani California",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Timberlake",
+        "title": "Mirrors",
+        "plays": 1
+      },
+      {
+        "artist": "j-hope, Miguel",
+        "title": "Sweet Dreams (feat. Miguel)",
         "plays": 1
       }
     ],
