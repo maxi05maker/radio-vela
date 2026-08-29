@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 147,
-    "music_entries": 133,
+    "total_entries": 149,
+    "music_entries": 135,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -16,6 +16,11 @@
         "plays": 2
       },
       {
+        "artist": "Olly Murs feat. Rizzle Kicks",
+        "title": "Heart Skips A Beat",
+        "plays": 2
+      },
+      {
         "artist": "Lil Tecca",
         "title": "Owa Owa",
         "plays": 2
@@ -23,6 +28,11 @@
       {
         "artist": "Marteria",
         "title": "9 Leben (Eins übrig)",
+        "plays": 2
+      },
+      {
+        "artist": "Saba & No I.D.",
+        "title": "Crash feat. Kelly Rowland & Raphael Saadiq",
         "plays": 2
       },
       {
@@ -38,11 +48,6 @@
       {
         "artist": "Monet192",
         "title": "tout",
-        "plays": 1
-      },
-      {
-        "artist": "Olly Murs feat. Rizzle Kicks",
-        "title": "Heart Skips A Beat",
         "plays": 1
       },
       {
@@ -283,11 +288,6 @@
       {
         "artist": "Sia",
         "title": "Never Give Up",
-        "plays": 1
-      },
-      {
-        "artist": "Saba & No I.D.",
-        "title": "Crash feat. Kelly Rowland & Raphael Saadiq",
         "plays": 1
       },
       {
