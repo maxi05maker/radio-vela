@@ -2,12 +2,17 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 119,
-    "music_entries": 108,
+    "total_entries": 121,
+    "music_entries": 110,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
+        "artist": "Marteria",
+        "title": "9 Leben (Eins übrig)",
         "plays": 2
       },
       {
@@ -243,11 +248,6 @@
       {
         "artist": "Imagine Dragons",
         "title": "Bad Liar",
-        "plays": 1
-      },
-      {
-        "artist": "Marteria",
-        "title": "9 Leben (Eins übrig)",
         "plays": 1
       },
       {
@@ -538,6 +538,11 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
         "plays": 1
       }
     ],

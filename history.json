@@ -712,5 +712,17 @@
     "played_at": "2026-08-29 13:43:13 +0200",
     "title": "As It Was",
     "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-08-29 13:46:00 +0200|9 Leben (Eins übrig)|Marteria",
+    "played_at": "2026-08-29 13:46:00 +0200",
+    "title": "9 Leben (Eins übrig)",
+    "artist": "Marteria"
+  },
+  {
+    "key": "2026-08-29 13:48:44 +0200|Habits (Stay High)|Tove Lo",
+    "played_at": "2026-08-29 13:48:44 +0200",
+    "title": "Habits (Stay High)",
+    "artist": "Tove Lo"
   }
 ]
