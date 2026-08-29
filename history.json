@@ -1966,5 +1966,23 @@
     "played_at": "2026-08-30 01:16:39 +0200",
     "title": "Flugmodus",
     "artist": "Clueso"
+  },
+  {
+    "key": "2026-08-30 01:19:37 +0200|Der neue Stil meiner Generation|Mayberg",
+    "played_at": "2026-08-30 01:19:37 +0200",
+    "title": "Der neue Stil meiner Generation",
+    "artist": "Mayberg"
+  },
+  {
+    "key": "2026-08-30 01:22:01 +0200|Ocean|RAF Camora, Ufo361",
+    "played_at": "2026-08-30 01:22:01 +0200",
+    "title": "Ocean",
+    "artist": "RAF Camora, Ufo361"
+  },
+  {
+    "key": "2026-08-30 01:24:30 +0200|Troubles A’ Comin|The Rolling Stones",
+    "played_at": "2026-08-30 01:24:30 +0200",
+    "title": "Troubles A’ Comin",
+    "artist": "The Rolling Stones"
   }
 ]
