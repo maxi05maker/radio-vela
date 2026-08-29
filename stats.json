@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 178,
-    "music_entries": 162,
+    "total_entries": 180,
+    "music_entries": 164,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -93,6 +93,16 @@
       {
         "artist": "Echosmith",
         "title": "Cool Kids",
+        "plays": 2
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 2
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Budapest",
         "plays": 2
       },
       {
@@ -198,16 +208,6 @@
       {
         "artist": "Justin Bieber",
         "title": "Daisies",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Wenn du liebst [feat. Kat Frankie]",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Budapest",
         "plays": 1
       },
       {

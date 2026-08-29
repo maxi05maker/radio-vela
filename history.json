@@ -1066,5 +1066,17 @@
     "played_at": "2026-08-29 17:03:03 +0200",
     "title": "I Want You (Fever)",
     "artist": "Momma"
+  },
+  {
+    "key": "2026-08-29 17:06:41 +0200|Budapest|George Ezra",
+    "played_at": "2026-08-29 17:06:41 +0200",
+    "title": "Budapest",
+    "artist": "George Ezra"
+  },
+  {
+    "key": "2026-08-29 17:10:03 +0200|Wenn du liebst [feat. Kat Frankie]|Clueso",
+    "played_at": "2026-08-29 17:10:03 +0200",
+    "title": "Wenn du liebst [feat. Kat Frankie]",
+    "artist": "Clueso"
   }
 ]
