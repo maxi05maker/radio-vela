@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 132,
-    "music_entries": 122,
+    "total_entries": 134,
+    "music_entries": 124,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -553,6 +553,16 @@
       {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Belle And Sebastian",
+        "title": "Funny Little Frog",
+        "plays": 1
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "All About That Bass",
         "plays": 1
       }
     ],
