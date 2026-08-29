@@ -1936,5 +1936,17 @@
     "played_at": "2026-08-29 06:13:11 +0200",
     "title": "All About That Bass",
     "artist": "Meghan Trainor"
+  },
+  {
+    "key": "2026-08-29 06:16:20 +0200|Loser|Sophie and the Giants",
+    "played_at": "2026-08-29 06:16:20 +0200",
+    "title": "Loser",
+    "artist": "Sophie and the Giants"
+  },
+  {
+    "key": "2026-08-29 06:19:26 +0200|Locked Out Of Heaven|Bruno Mars",
+    "played_at": "2026-08-29 06:19:26 +0200",
+    "title": "Locked Out Of Heaven",
+    "artist": "Bruno Mars"
   }
 ]

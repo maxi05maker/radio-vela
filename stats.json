@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 134,
-    "music_entries": 124,
+    "total_entries": 136,
+    "music_entries": 126,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -563,6 +563,16 @@
       {
         "artist": "Meghan Trainor",
         "title": "All About That Bass",
+        "plays": 1
+      },
+      {
+        "artist": "Sophie and the Giants",
+        "title": "Loser",
+        "plays": 1
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Locked Out Of Heaven",
         "plays": 1
       }
     ],
