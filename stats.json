@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 51,
-    "music_entries": 47,
+    "total_entries": 54,
+    "music_entries": 50,
     "songs": [
       {
         "artist": "Coldplay",
@@ -238,6 +238,21 @@
       {
         "artist": "Lana Del Rey",
         "title": "Happiness Is A Butterfly",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 1
+      },
+      {
+        "artist": "Marteria",
+        "title": "9 Leben (Eins übrig)",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "About You",
         "plays": 1
       }
     ],
