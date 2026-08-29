@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 168,
-    "music_entries": 152,
+    "total_entries": 170,
+    "music_entries": 154,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -58,6 +58,11 @@
       {
         "artist": "Loreen",
         "title": "Euphoria",
+        "plays": 2
+      },
+      {
+        "artist": "Metronomy",
+        "title": "The Look",
         "plays": 2
       },
       {
@@ -143,11 +148,6 @@
       {
         "artist": "HAIM",
         "title": "Everybody's trying to figure me out",
-        "plays": 1
-      },
-      {
-        "artist": "Metronomy",
-        "title": "The Look",
         "plays": 1
       },
       {
@@ -688,6 +688,11 @@
       {
         "artist": "Shirin David",
         "title": "atzen & barbies (feat. ski aggu)",
+        "plays": 1
+      },
+      {
+        "artist": "J.Balvin, Feid",
+        "title": "Doblexxò",
         "plays": 1
       }
     ],
