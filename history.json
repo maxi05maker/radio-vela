@@ -1018,5 +1018,17 @@
     "played_at": "2026-08-29 16:33:40 +0200",
     "title": "The Look",
     "artist": "Metronomy"
+  },
+  {
+    "key": "2026-08-29 16:38:18 +0200|Cool Kids|Echosmith",
+    "played_at": "2026-08-29 16:38:18 +0200",
+    "title": "Cool Kids",
+    "artist": "Echosmith"
+  },
+  {
+    "key": "2026-08-29 16:41:54 +0200|Im Sommer bin ich dein König|International Music",
+    "played_at": "2026-08-29 16:41:54 +0200",
+    "title": "Im Sommer bin ich dein König",
+    "artist": "International Music"
   }
 ]

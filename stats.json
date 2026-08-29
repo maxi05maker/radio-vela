@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 170,
-    "music_entries": 154,
+    "total_entries": 172,
+    "music_entries": 156,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -68,6 +68,11 @@
       {
         "artist": "Swiss & die Andern",
         "title": "Erstmal zu Penny",
+        "plays": 2
+      },
+      {
+        "artist": "Echosmith",
+        "title": "Cool Kids",
         "plays": 2
       },
       {
@@ -168,11 +173,6 @@
       {
         "artist": "Apache 207",
         "title": "Wolken",
-        "plays": 1
-      },
-      {
-        "artist": "Echosmith",
-        "title": "Cool Kids",
         "plays": 1
       },
       {
@@ -693,6 +693,11 @@
       {
         "artist": "J.Balvin, Feid",
         "title": "Doblexxò",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
         "plays": 1
       }
     ],
