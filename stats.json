@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 195,
-    "music_entries": 178,
+    "total_entries": 197,
+    "music_entries": 180,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -161,6 +161,11 @@
         "plays": 2
       },
       {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
+        "plays": 2
+      },
+      {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
         "plays": 1
@@ -288,11 +293,6 @@
       {
         "artist": "Sia",
         "title": "Never Give Up",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth feat. Selena Gomez",
-        "title": "We Don't Talk Anymore",
         "plays": 1
       },
       {
@@ -733,6 +733,11 @@
       {
         "artist": "Blue",
         "title": "Waste My Love",
+        "plays": 1
+      },
+      {
+        "artist": "CHAPO102 x GUSTAV",
+        "title": "WARSCHAU",
         "plays": 1
       }
     ],
