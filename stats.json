@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 174,
-    "music_entries": 158,
+    "total_entries": 176,
+    "music_entries": 160,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -68,6 +68,11 @@
       {
         "artist": "Metronomy",
         "title": "The Look",
+        "plays": 2
+      },
+      {
+        "artist": "Gotye Feat. Kimbra",
+        "title": "Somebody that I Used to Know",
         "plays": 2
       },
       {
@@ -158,11 +163,6 @@
       {
         "artist": "HAIM",
         "title": "Everybody's trying to figure me out",
-        "plays": 1
-      },
-      {
-        "artist": "Gotye Feat. Kimbra",
-        "title": "Somebody that I Used to Know",
         "plays": 1
       },
       {
@@ -698,6 +698,11 @@
       {
         "artist": "International Music",
         "title": "Im Sommer bin ich dein König",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Why Why Why",
         "plays": 1
       }
     ],

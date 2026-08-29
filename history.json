@@ -1042,5 +1042,17 @@
     "played_at": "2026-08-29 16:49:00 +0200",
     "title": "Moves Like Jagger",
     "artist": "Maroon 5 Feat. Christina Aguilera"
+  },
+  {
+    "key": "2026-08-29 16:52:21 +0200|Why Why Why|Shawn Mendes",
+    "played_at": "2026-08-29 16:52:21 +0200",
+    "title": "Why Why Why",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-08-29 16:55:08 +0200|Somebody that I Used to Know|Gotye Feat. Kimbra",
+    "played_at": "2026-08-29 16:55:08 +0200",
+    "title": "Somebody that I Used to Know",
+    "artist": "Gotye Feat. Kimbra"
   }
 ]
