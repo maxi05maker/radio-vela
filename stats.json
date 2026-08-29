@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 58,
-    "music_entries": 53,
+    "total_entries": 59,
+    "music_entries": 54,
     "songs": [
       {
         "artist": "Coldplay",
@@ -268,6 +268,11 @@
       {
         "artist": "Passenger",
         "title": "Let Her Go",
+        "plays": 1
+      },
+      {
+        "artist": "AWOLNATION",
+        "title": "Sail",
         "plays": 1
       }
     ],
