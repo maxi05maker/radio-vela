@@ -22,5 +22,17 @@
     "played_at": "2026-08-29 07:08:18 +0200",
     "title": "Dai Dai",
     "artist": "Shakira & Burna Boy"
+  },
+  {
+    "key": "2026-08-29 07:12:01 +0200|Haus am See|Peter Fox",
+    "played_at": "2026-08-29 07:12:01 +0200",
+    "title": "Haus am See",
+    "artist": "Peter Fox"
+  },
+  {
+    "key": "2026-08-29 07:15:38 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-08-29 07:15:38 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
   }
 ]
