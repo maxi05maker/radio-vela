@@ -94,5 +94,23 @@
     "played_at": "2026-08-29 07:52:47 +0200",
     "title": "Mann im Haus",
     "artist": "Lune"
+  },
+  {
+    "key": "2026-08-29 07:55:02 +0200|Moves Like Jagger|Maroon 5 Feat. Christina Aguilera",
+    "played_at": "2026-08-29 07:55:02 +0200",
+    "title": "Moves Like Jagger",
+    "artist": "Maroon 5 Feat. Christina Aguilera"
+  },
+  {
+    "key": "2026-08-29 07:58:23 +0200|Beautiful People|David Guetta & Sia",
+    "played_at": "2026-08-29 07:58:23 +0200",
+    "title": "Beautiful People",
+    "artist": "David Guetta & Sia"
+  },
+  {
+    "key": "2026-08-29 08:01:30 +0200|Mr Saxobeat|Alexandra Stan",
+    "played_at": "2026-08-29 08:01:30 +0200",
+    "title": "Mr Saxobeat",
+    "artist": "Alexandra Stan"
   }
 ]

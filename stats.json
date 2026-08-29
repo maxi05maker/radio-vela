@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 16,
-    "music_entries": 14,
+    "total_entries": 19,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "Coldplay",
@@ -73,6 +73,21 @@
       {
         "artist": "Lune",
         "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5 Feat. Christina Aguilera",
+        "title": "Moves Like Jagger",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta & Sia",
+        "title": "Beautiful People",
+        "plays": 1
+      },
+      {
+        "artist": "Alexandra Stan",
+        "title": "Mr Saxobeat",
         "plays": 1
       }
     ],
