@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 19,
-    "music_entries": 17,
+    "total_entries": 21,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Coldplay",
@@ -88,6 +88,11 @@
       {
         "artist": "Alexandra Stan",
         "title": "Mr Saxobeat",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Firework",
         "plays": 1
       }
     ],
