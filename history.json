@@ -322,5 +322,11 @@
     "played_at": "2026-08-29 10:04:57 +0200",
     "title": "About You",
     "artist": "The 1975"
+  },
+  {
+    "key": "2026-08-29 10:10:22 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-29 10:10:22 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
