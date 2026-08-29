@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 83,
-    "music_entries": 76,
+    "total_entries": 84,
+    "music_entries": 77,
     "songs": [
       {
         "artist": "Coldplay",
@@ -383,6 +383,11 @@
       {
         "artist": "Phoenix",
         "title": "Lisztomania",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
         "plays": 1
       }
     ],
