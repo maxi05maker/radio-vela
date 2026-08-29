@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 77,
-    "music_entries": 70,
+    "total_entries": 79,
+    "music_entries": 72,
     "songs": [
       {
         "artist": "Coldplay",
@@ -353,6 +353,16 @@
       {
         "artist": "Ariana Grande",
         "title": "No Tears Left To Cry",
+        "plays": 1
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Henry, Come On",
         "plays": 1
       }
     ],
