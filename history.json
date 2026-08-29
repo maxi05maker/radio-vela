@@ -964,5 +964,17 @@
     "played_at": "2026-08-29 16:06:08 +0200",
     "title": "Id",
     "artist": "Michael Patrick Kelly Feat. Gentleman"
+  },
+  {
+    "key": "2026-08-29 16:09:30 +0200|Sympathie Für Den Teufel|DCVDNS",
+    "played_at": "2026-08-29 16:09:30 +0200",
+    "title": "Sympathie Für Den Teufel",
+    "artist": "DCVDNS"
+  },
+  {
+    "key": "2026-08-29 16:12:31 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-29 16:12:31 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
