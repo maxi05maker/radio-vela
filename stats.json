@@ -2,9 +2,14 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 56,
-    "music_entries": 53,
+    "total_entries": 60,
+    "music_entries": 57,
     "songs": [
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 2
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
@@ -78,11 +83,6 @@
       {
         "artist": "1986zig",
         "title": "Nur dir gehör'n",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -264,11 +264,26 @@
         "artist": "Ellie Goulding",
         "title": "Let it die",
         "plays": 1
+      },
+      {
+        "artist": "Romano",
+        "title": "Köpenick",
+        "plays": 1
+      },
+      {
+        "artist": "The Lemonheads",
+        "title": "Deep End",
+        "plays": 1
+      },
+      {
+        "artist": "Lauren Spencer-Smith",
+        "title": "Flowers",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "Harry Styles",
+      "title": "As It Was",
       "plays": 2
     }
   }
