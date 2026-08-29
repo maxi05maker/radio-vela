@@ -1432,5 +1432,23 @@
     "played_at": "2026-08-29 01:56:41 +0200",
     "title": "KRAFT",
     "artist": "Die Ärzte"
+  },
+  {
+    "key": "2026-08-29 02:00:59 +0200|Together|David Guetta, Hypaton, Bonnie Tyler",
+    "played_at": "2026-08-29 02:00:59 +0200",
+    "title": "Together",
+    "artist": "David Guetta, Hypaton, Bonnie Tyler"
+  },
+  {
+    "key": "2026-08-29 02:03:33 +0200|Break Up|twocolors, Pascal Letoublon",
+    "played_at": "2026-08-29 02:03:33 +0200",
+    "title": "Break Up",
+    "artist": "twocolors, Pascal Letoublon"
+  },
+  {
+    "key": "2026-08-29 02:06:10 +0200|Sunshine|One Republic",
+    "played_at": "2026-08-29 02:06:10 +0200",
+    "title": "Sunshine",
+    "artist": "One Republic"
   }
 ]
