@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 335,
-    "music_entries": 306,
+    "total_entries": 338,
+    "music_entries": 309,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -193,6 +193,11 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 2
+      },
+      {
+        "artist": "Obongjayar",
+        "title": "Sweet Danger",
         "plays": 2
       },
       {
@@ -443,11 +448,6 @@
       {
         "artist": "Volbeat",
         "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
-        "plays": 1
-      },
-      {
-        "artist": "Obongjayar",
-        "title": "Sweet Danger",
         "plays": 1
       },
       {
@@ -1148,6 +1148,16 @@
       {
         "artist": "1986zig",
         "title": "Kopf aus",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Tanzen",
         "plays": 1
       }
     ],
