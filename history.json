@@ -58,5 +58,17 @@
     "played_at": "2026-08-29 07:30:37 +0200",
     "title": "That’s So True",
     "artist": "Gracie Abrams"
+  },
+  {
+    "key": "2026-08-29 07:33:24 +0200|Loving You Is Killing Me|Aloe Blacc",
+    "played_at": "2026-08-29 07:33:24 +0200",
+    "title": "Loving You Is Killing Me",
+    "artist": "Aloe Blacc"
+  },
+  {
+    "key": "2026-08-29 07:36:49 +0200|Electric Feel|MGMT",
+    "played_at": "2026-08-29 07:36:49 +0200",
+    "title": "Electric Feel",
+    "artist": "MGMT"
   }
 ]
