@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 92,
-    "music_entries": 86,
+    "total_entries": 94,
+    "music_entries": 88,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -23,6 +23,16 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 2
+      },
+      {
+        "artist": "Romano",
+        "title": "Köpenick",
         "plays": 2
       },
       {
@@ -146,11 +156,6 @@
         "plays": 1
       },
       {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
         "artist": "P!nk",
         "title": "Cover Me In Sunshine",
         "plays": 1
@@ -263,11 +268,6 @@
       {
         "artist": "Ellie Goulding",
         "title": "Let it die",
-        "plays": 1
-      },
-      {
-        "artist": "Romano",
-        "title": "Köpenick",
         "plays": 1
       },
       {
