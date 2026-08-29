@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 136,
-    "music_entries": 126,
+    "total_entries": 139,
+    "music_entries": 129,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -573,6 +573,21 @@
       {
         "artist": "Bruno Mars",
         "title": "Locked Out Of Heaven",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Stay With Me",
+        "plays": 1
+      },
+      {
+        "artist": "bar italia",
+        "title": "omni shambles",
+        "plays": 1
+      },
+      {
+        "artist": "Juweel",
+        "title": "Autopilot",
         "plays": 1
       }
     ],
