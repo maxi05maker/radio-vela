@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 107,
-    "music_entries": 101,
+    "total_entries": 110,
+    "music_entries": 103,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -468,6 +468,16 @@
       {
         "artist": "Kelly Clarkson",
         "title": "Underneath the Tree",
+        "plays": 1
+      },
+      {
+        "artist": "Wet Leg",
+        "title": "Mangetout",
+        "plays": 1
+      },
+      {
+        "artist": "Bastille",
+        "title": "Things We Lost In The Fire",
         "plays": 1
       }
     ],
