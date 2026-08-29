@@ -1660,5 +1660,17 @@
     "played_at": "2026-08-29 22:40:26 +0200",
     "title": "it's my fault",
     "artist": "WILLOW"
+  },
+  {
+    "key": "2026-08-29 22:43:05 +0200|Moth To A Flame|Swedish House Mafia & The Weeknd",
+    "played_at": "2026-08-29 22:43:05 +0200",
+    "title": "Moth To A Flame",
+    "artist": "Swedish House Mafia & The Weeknd"
+  },
+  {
+    "key": "2026-08-29 22:47:00 +0200|Love Who You Love|Romy",
+    "played_at": "2026-08-29 22:47:00 +0200",
+    "title": "Love Who You Love",
+    "artist": "Romy"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 277,
-    "music_entries": 253,
+    "total_entries": 279,
+    "music_entries": 255,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -893,6 +893,16 @@
       {
         "artist": "WILLOW",
         "title": "it's my fault",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Romy",
+        "title": "Love Who You Love",
         "plays": 1
       }
     ],
