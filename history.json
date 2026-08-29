@@ -1420,5 +1420,17 @@
     "played_at": "2026-08-29 01:49:49 +0200",
     "title": "Midnight Sun",
     "artist": "Zara Larsson"
+  },
+  {
+    "key": "2026-08-29 01:53:01 +0200|Mercy|Duffy",
+    "played_at": "2026-08-29 01:53:01 +0200",
+    "title": "Mercy",
+    "artist": "Duffy"
+  },
+  {
+    "key": "2026-08-29 01:56:41 +0200|KRAFT|Die Ärzte",
+    "played_at": "2026-08-29 01:56:41 +0200",
+    "title": "KRAFT",
+    "artist": "Die Ärzte"
   }
 ]
