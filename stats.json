@@ -2,9 +2,14 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 128,
-    "music_entries": 119,
+    "total_entries": 132,
+    "music_entries": 122,
     "songs": [
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 3
+      },
       {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
@@ -18,11 +23,6 @@
       {
         "artist": "1986zig",
         "title": "Nur dir gehör'n",
-        "plays": 2
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 2
       },
       {
@@ -53,6 +53,11 @@
       {
         "artist": "Coldplay",
         "title": "A Sky Full Of Stars",
+        "plays": 2
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
         "plays": 2
       },
       {
@@ -321,11 +326,6 @@
         "plays": 1
       },
       {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 1
-      },
-      {
         "artist": "Melissa Etheridge",
         "title": "For The Last Time",
         "plays": 1
@@ -549,12 +549,17 @@
         "artist": "Monet192",
         "title": "Nicht Perfekt",
         "plays": 1
+      },
+      {
+        "artist": "The Mary Onettes",
+        "title": "Hurricane Heart",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "David Guetta, Alphaville & Ava Max",
-      "title": "Forever Young",
-      "plays": 2
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "plays": 3
     }
   }
 }
