@@ -1564,5 +1564,17 @@
     "played_at": "2026-08-29 21:46:10 +0200",
     "title": "Count On Me",
     "artist": "Bruno Mars"
+  },
+  {
+    "key": "2026-08-29 21:49:28 +0200|Small Steps|Tom Gregory",
+    "played_at": "2026-08-29 21:49:28 +0200",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-08-29 21:52:14 +0200|Wonderful Life '25|Hurts/Purple Disco Machine",
+    "played_at": "2026-08-29 21:52:14 +0200",
+    "title": "Wonderful Life '25",
+    "artist": "Hurts/Purple Disco Machine"
   }
 ]

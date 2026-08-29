@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 261,
-    "music_entries": 237,
+    "total_entries": 263,
+    "music_entries": 239,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -346,6 +346,11 @@
         "plays": 2
       },
       {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 2
+      },
+      {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
         "plays": 1
@@ -578,11 +583,6 @@
       {
         "artist": "Florence + the Machine",
         "title": "Dog Days Are Over",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -838,6 +838,11 @@
       {
         "artist": "Sabrina Carpenter",
         "title": "Manchild",
+        "plays": 1
+      },
+      {
+        "artist": "Hurts/Purple Disco Machine",
+        "title": "Wonderful Life '25",
         "plays": 1
       }
     ],
