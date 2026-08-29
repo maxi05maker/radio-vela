@@ -154,5 +154,17 @@
     "played_at": "2026-08-29 08:23:35 +0200",
     "title": "Waiting on the sky to change",
     "artist": "STARSET, Breaking Benjamin, Judge & Jury"
+  },
+  {
+    "key": "2026-08-29 08:27:40 +0200|Euphoria|Loreen",
+    "played_at": "2026-08-29 08:27:40 +0200",
+    "title": "Euphoria",
+    "artist": "Loreen"
+  },
+  {
+    "key": "2026-08-29 08:30:43 +0200|Everybody's trying to figure me out|HAIM",
+    "played_at": "2026-08-29 08:30:43 +0200",
+    "title": "Everybody's trying to figure me out",
+    "artist": "HAIM"
   }
 ]
