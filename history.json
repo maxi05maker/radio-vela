@@ -1876,5 +1876,17 @@
     "played_at": "2026-08-29 05:43:02 +0200",
     "title": "Alejandro",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-08-29 05:47:37 +0200|Ego|Halsey",
+    "played_at": "2026-08-29 05:47:37 +0200",
+    "title": "Ego",
+    "artist": "Halsey"
+  },
+  {
+    "key": "2026-08-29 05:50:56 +0200|Sympathie Für Den Teufel|DCVDNS",
+    "played_at": "2026-08-29 05:50:56 +0200",
+    "title": "Sympathie Für Den Teufel",
+    "artist": "DCVDNS"
   }
 ]
