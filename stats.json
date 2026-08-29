@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 279,
-    "music_entries": 255,
+    "total_entries": 281,
+    "music_entries": 257,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -903,6 +903,16 @@
       {
         "artist": "Romy",
         "title": "Love Who You Love",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Sag Mir Was Du Willst",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
         "plays": 1
       }
     ],
