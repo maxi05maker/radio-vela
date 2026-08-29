@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 244,
-    "music_entries": 222,
+    "total_entries": 247,
+    "music_entries": 224,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -266,6 +266,11 @@
         "plays": 2
       },
       {
+        "artist": "Phoenix",
+        "title": "Lisztomania",
+        "plays": 2
+      },
+      {
         "artist": "Adel Tawil",
         "title": "Ist da jemand",
         "plays": 2
@@ -418,11 +423,6 @@
       {
         "artist": "Kraftklub, Domiziana",
         "title": "Unsterblich sein ( ) feat. Domiziana",
-        "plays": 1
-      },
-      {
-        "artist": "Phoenix",
-        "title": "Lisztomania",
         "plays": 1
       },
       {
@@ -808,6 +808,11 @@
       {
         "artist": "Baxter Dury & JGrrey",
         "title": "Return Of The Sharp Heads",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "FICKA",
         "plays": 1
       }
     ],
