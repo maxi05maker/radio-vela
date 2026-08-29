@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 326,
-    "music_entries": 297,
+    "total_entries": 328,
+    "music_entries": 299,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1103,6 +1103,16 @@
       {
         "artist": "Die Toten Hosen",
         "title": "Tage wie diese",
+        "plays": 1
+      },
+      {
+        "artist": "Sophia Kennedy",
+        "title": "Rodeo",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Flugmodus",
         "plays": 1
       }
     ],
