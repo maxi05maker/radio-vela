@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 42,
-    "music_entries": 38,
+    "total_entries": 45,
+    "music_entries": 41,
     "songs": [
       {
         "artist": "Coldplay",
@@ -193,6 +193,21 @@
       {
         "artist": "Clueso",
         "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Budapest",
+        "plays": 1
+      },
+      {
+        "artist": "Addison Rae",
+        "title": "Headphones On",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
         "plays": 1
       }
     ],
