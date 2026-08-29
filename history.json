@@ -568,5 +568,17 @@
     "played_at": "2026-08-29 12:26:54 +0200",
     "title": "lie to me",
     "artist": "Malik Harris"
+  },
+  {
+    "key": "2026-08-29 12:29:49 +0200|Rette Mich|Tokio Hotel",
+    "played_at": "2026-08-29 12:29:49 +0200",
+    "title": "Rette Mich",
+    "artist": "Tokio Hotel"
+  },
+  {
+    "key": "2026-08-29 12:33:38 +0200|Lovers on the Sun|David Guetta feat. Sam Martin",
+    "played_at": "2026-08-29 12:33:38 +0200",
+    "title": "Lovers on the Sun",
+    "artist": "David Guetta feat. Sam Martin"
   }
 ]
