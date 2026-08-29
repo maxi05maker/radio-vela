@@ -1312,5 +1312,17 @@
     "played_at": "2026-08-29 19:24:01 +0200",
     "title": "Mehr Glück als Verstand",
     "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-08-29 19:26:55 +0200|Shake It Out|Florence + the Machine",
+    "played_at": "2026-08-29 19:26:55 +0200",
+    "title": "Shake It Out",
+    "artist": "Florence + the Machine"
+  },
+  {
+    "key": "2026-08-29 19:31:33 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-08-29 19:31:33 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
   }
 ]

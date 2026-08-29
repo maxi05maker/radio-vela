@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 219,
-    "music_entries": 199,
+    "total_entries": 221,
+    "music_entries": 201,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -68,6 +68,11 @@
       {
         "artist": "Katy Perry",
         "title": "Firework",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -201,6 +206,11 @@
         "plays": 2
       },
       {
+        "artist": "Florence + the Machine",
+        "title": "Shake It Out",
+        "plays": 2
+      },
+      {
         "artist": "Takida",
         "title": "In Spite of Everything",
         "plays": 2
@@ -253,11 +263,6 @@
       {
         "artist": "The Weeknd",
         "title": "Cry For Me",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 1
       },
       {
@@ -333,11 +338,6 @@
       {
         "artist": "White Lies",
         "title": "Keep Up",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + the Machine",
-        "title": "Shake It Out",
         "plays": 1
       },
       {
