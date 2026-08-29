@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 291,
-    "music_entries": 266,
+    "total_entries": 293,
+    "music_entries": 268,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -958,6 +958,16 @@
       {
         "artist": "Diana Ross & Tame Impala",
         "title": "Turn Up The Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "THE BLACK CROWES",
+        "title": "Pharmacy Chronicles",
+        "plays": 1
+      },
+      {
+        "artist": "Milky Chance & Jack Johnson",
+        "title": "Don't Let Me Down",
         "plays": 1
       }
     ],
