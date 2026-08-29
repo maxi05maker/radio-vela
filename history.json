@@ -1150,5 +1150,17 @@
     "played_at": "2026-08-29 17:48:51 +0200",
     "title": "Wrecking Ball",
     "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-08-29 17:55:58 +0200|Waste My Love|Blue",
+    "played_at": "2026-08-29 17:55:58 +0200",
+    "title": "Waste My Love",
+    "artist": "Blue"
+  },
+  {
+    "key": "2026-08-29 17:58:59 +0200|My Doorbell|The White Stripes",
+    "played_at": "2026-08-29 17:58:59 +0200",
+    "title": "My Doorbell",
+    "artist": "The White Stripes"
   }
 ]

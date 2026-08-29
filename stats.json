@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 192,
-    "music_entries": 175,
+    "total_entries": 194,
+    "music_entries": 177,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -108,6 +108,11 @@
       {
         "artist": "Paramore",
         "title": "The news",
+        "plays": 2
+      },
+      {
+        "artist": "The White Stripes",
+        "title": "My Doorbell",
         "plays": 2
       },
       {
@@ -218,11 +223,6 @@
       {
         "artist": "Ich + Ich",
         "title": "Pflaster",
-        "plays": 1
-      },
-      {
-        "artist": "The White Stripes",
-        "title": "My Doorbell",
         "plays": 1
       },
       {
@@ -728,6 +728,11 @@
       {
         "artist": "Calum Scott",
         "title": "My World",
+        "plays": 1
+      },
+      {
+        "artist": "Blue",
+        "title": "Waste My Love",
         "plays": 1
       }
     ],
