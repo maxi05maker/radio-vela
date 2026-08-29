@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 208,
-    "music_entries": 189,
+    "total_entries": 210,
+    "music_entries": 191,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -196,6 +196,11 @@
         "plays": 2
       },
       {
+        "artist": "Jennifer Lopez",
+        "title": "Ain't Your Mama",
+        "plays": 2
+      },
+      {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
         "plays": 1
@@ -338,11 +343,6 @@
       {
         "artist": "Yungblud",
         "title": "Memories",
-        "plays": 1
-      },
-      {
-        "artist": "Jennifer Lopez",
-        "title": "Ain't Your Mama",
         "plays": 1
       },
       {
@@ -753,6 +753,11 @@
       {
         "artist": "Tate McRae",
         "title": "Its ok Im ok",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Midnight Sun",
         "plays": 1
       }
     ],
