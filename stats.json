@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 210,
-    "music_entries": 191,
+    "total_entries": 212,
+    "music_entries": 193,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -196,6 +196,11 @@
         "plays": 2
       },
       {
+        "artist": "Takida",
+        "title": "In Spite of Everything",
+        "plays": 2
+      },
+      {
         "artist": "Jennifer Lopez",
         "title": "Ain't Your Mama",
         "plays": 2
@@ -323,11 +328,6 @@
       {
         "artist": "Damiano David, Tyla, Nile Rodgers",
         "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
-        "plays": 1
-      },
-      {
-        "artist": "Takida",
-        "title": "In Spite of Everything",
         "plays": 1
       },
       {
@@ -758,6 +758,11 @@
       {
         "artist": "Zara Larsson",
         "title": "Midnight Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Regalo",
         "plays": 1
       }
     ],
