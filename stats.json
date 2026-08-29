@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 73,
-    "music_entries": 69,
+    "total_entries": 76,
+    "music_entries": 71,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -333,6 +333,16 @@
       {
         "artist": "HUGEL, Imael Angel, Ultra Naté",
         "title": "Movin' To The Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Casper feat. Drangsal",
+        "title": "Keine Angst",
+        "plays": 1
+      },
+      {
+        "artist": "sombr",
+        "title": "Homewrecker",
         "plays": 1
       }
     ],
