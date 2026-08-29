@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 200,
-    "music_entries": 182,
+    "total_entries": 202,
+    "music_entries": 184,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -28,6 +28,11 @@
       {
         "artist": "Olly Murs feat. Rizzle Kicks",
         "title": "Heart Skips A Beat",
+        "plays": 2
+      },
+      {
+        "artist": "Arcade Fire",
+        "title": "Unconditional I",
         "plays": 2
       },
       {
@@ -171,13 +176,13 @@
         "plays": 2
       },
       {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
+        "artist": "La Roux",
+        "title": "Uptight Downtown",
+        "plays": 2
       },
       {
-        "artist": "Arcade Fire",
-        "title": "Unconditional I",
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
         "plays": 1
       },
       {
@@ -303,11 +308,6 @@
       {
         "artist": "White Lies",
         "title": "Keep Up",
-        "plays": 1
-      },
-      {
-        "artist": "La Roux",
-        "title": "Uptight Downtown",
         "plays": 1
       },
       {
