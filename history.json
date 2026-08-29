@@ -1714,5 +1714,17 @@
     "played_at": "2026-08-29 23:09:20 +0200",
     "title": "2 hands",
     "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-08-29 23:12:21 +0200|Solo Para Ti|Alvaro Soler & Topic",
+    "played_at": "2026-08-29 23:12:21 +0200",
+    "title": "Solo Para Ti",
+    "artist": "Alvaro Soler & Topic"
+  },
+  {
+    "key": "2026-08-29 23:15:39 +0200|'54, '74, '90, 2006|Sportfreunde Stiller",
+    "played_at": "2026-08-29 23:15:39 +0200",
+    "title": "'54, '74, '90, 2006",
+    "artist": "Sportfreunde Stiller"
   }
 ]

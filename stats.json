@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 286,
-    "music_entries": 261,
+    "total_entries": 288,
+    "music_entries": 263,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -933,6 +933,16 @@
       {
         "artist": "Tate McRae",
         "title": "2 hands",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler & Topic",
+        "title": "Solo Para Ti",
+        "plays": 1
+      },
+      {
+        "artist": "Sportfreunde Stiller",
+        "title": "'54, '74, '90, 2006",
         "plays": 1
       }
     ],
