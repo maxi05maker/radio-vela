@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 61,
-    "music_entries": 56,
+    "total_entries": 64,
+    "music_entries": 58,
     "songs": [
       {
         "artist": "Coldplay",
@@ -283,6 +283,16 @@
       {
         "artist": "Sia",
         "title": "Never Give Up",
+        "plays": 1
+      },
+      {
+        "artist": "Saba & No I.D.",
+        "title": "Crash feat. Kelly Rowland & Raphael Saadiq",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
         "plays": 1
       }
     ],
