@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 149,
-    "music_entries": 135,
+    "total_entries": 151,
+    "music_entries": 137,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -643,6 +643,16 @@
       {
         "artist": "Psy",
         "title": "Gangnam Style",
+        "plays": 1
+      },
+      {
+        "artist": "Shaggy feat. Trix & Flix",
+        "title": "Feel The Rush",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Stay With Me",
         "plays": 1
       }
     ],
