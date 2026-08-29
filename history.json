@@ -1756,5 +1756,17 @@
     "played_at": "2026-08-29 23:32:00 +0200",
     "title": "Don't Let Me Down",
     "artist": "Milky Chance & Jack Johnson"
+  },
+  {
+    "key": "2026-08-29 23:35:21 +0200|Break Up|twocolors, Pascal Letoublon",
+    "played_at": "2026-08-29 23:35:21 +0200",
+    "title": "Break Up",
+    "artist": "twocolors, Pascal Letoublon"
+  },
+  {
+    "key": "2026-08-29 23:37:59 +0200|Oldschool Love|Leony",
+    "played_at": "2026-08-29 23:37:59 +0200",
+    "title": "Oldschool Love",
+    "artist": "Leony"
   }
 ]
