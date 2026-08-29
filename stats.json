@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 155,
-    "music_entries": 141,
+    "total_entries": 157,
+    "music_entries": 143,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -23,6 +23,16 @@
       {
         "artist": "Olly Murs feat. Rizzle Kicks",
         "title": "Heart Skips A Beat",
+        "plays": 2
+      },
+      {
+        "artist": "Aloe Blacc",
+        "title": "Loving You Is Killing Me",
+        "plays": 2
+      },
+      {
+        "artist": "Adele",
+        "title": "Skyfall",
         "plays": 2
       },
       {
@@ -61,11 +71,6 @@
         "plays": 1
       },
       {
-        "artist": "Aloe Blacc",
-        "title": "Loving You Is Killing Me",
-        "plays": 1
-      },
-      {
         "artist": "MGMT",
         "title": "Electric Feel",
         "plays": 1
@@ -78,11 +83,6 @@
       {
         "artist": "Katy Perry",
         "title": "Hot N Cold",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Skyfall",
         "plays": 1
       },
       {
