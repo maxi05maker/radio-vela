@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 72,
-    "music_entries": 65,
+    "total_entries": 75,
+    "music_entries": 68,
     "songs": [
       {
         "artist": "Coldplay",
@@ -328,6 +328,21 @@
       {
         "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
         "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Illegal",
+        "plays": 1
+      },
+      {
+        "artist": "Yungblud",
+        "title": "Memories",
+        "plays": 1
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Ain't Your Mama",
         "plays": 1
       }
     ],
