@@ -1762,5 +1762,17 @@
     "played_at": "2026-08-29 04:46:27 +0200",
     "title": "Busy Earnin'",
     "artist": "Jungle"
+  },
+  {
+    "key": "2026-08-29 04:49:26 +0200|Wonderful Life '25|Hurts/Purple Disco Machine",
+    "played_at": "2026-08-29 04:49:26 +0200",
+    "title": "Wonderful Life '25",
+    "artist": "Hurts/Purple Disco Machine"
+  },
+  {
+    "key": "2026-08-29 04:52:25 +0200|Underneath the Tree|Kelly Clarkson",
+    "played_at": "2026-08-29 04:52:25 +0200",
+    "title": "Underneath the Tree",
+    "artist": "Kelly Clarkson"
   }
 ]

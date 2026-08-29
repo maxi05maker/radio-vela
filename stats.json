@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 105,
-    "music_entries": 99,
+    "total_entries": 107,
+    "music_entries": 101,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -458,6 +458,16 @@
       {
         "artist": "Jungle",
         "title": "Busy Earnin'",
+        "plays": 1
+      },
+      {
+        "artist": "Hurts/Purple Disco Machine",
+        "title": "Wonderful Life '25",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Underneath the Tree",
         "plays": 1
       }
     ],
