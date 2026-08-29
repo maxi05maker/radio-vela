@@ -2,12 +2,17 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 89,
-    "music_entries": 83,
+    "total_entries": 92,
+    "music_entries": 86,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
+        "plays": 2
+      },
+      {
+        "artist": "1986zig",
+        "title": "Nur dir gehör'n",
         "plays": 2
       },
       {
@@ -78,11 +83,6 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "1986zig",
-        "title": "Nur dir gehör'n",
         "plays": 1
       },
       {
@@ -403,6 +403,16 @@
       {
         "artist": "Dua Lipa",
         "title": "Physical",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5 & Megan Thee Stallion",
+        "title": "Beautiful Mistakes",
+        "plays": 1
+      },
+      {
+        "artist": "Central Cee",
+        "title": "I Will",
         "plays": 1
       }
     ],
