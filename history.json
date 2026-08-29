@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "key": "2026-08-29 07:00:17 +0200|Ganztagsradio|Jingle",
+    "played_at": "2026-08-29 07:00:17 +0200",
+    "title": "Ganztagsradio",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-29 07:00:58 +0200|A Sky Full Of Stars|Coldplay",
+    "played_at": "2026-08-29 07:00:58 +0200",
+    "title": "A Sky Full Of Stars",
+    "artist": "Coldplay"
+  }
+]
