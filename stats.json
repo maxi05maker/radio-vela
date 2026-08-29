@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 191,
-    "music_entries": 174,
+    "total_entries": 192,
+    "music_entries": 175,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -121,6 +121,11 @@
         "plays": 2
       },
       {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
+        "plays": 2
+      },
+      {
         "artist": "Alma",
         "title": "Dye My Hair",
         "plays": 2
@@ -228,11 +233,6 @@
       {
         "artist": "Addison Rae",
         "title": "Headphones On",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "Wrecking Ball",
         "plays": 1
       },
       {
