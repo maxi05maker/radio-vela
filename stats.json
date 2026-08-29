@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 113,
-    "music_entries": 102,
+    "total_entries": 115,
+    "music_entries": 104,
     "songs": [
       {
         "artist": "Coldplay",
@@ -513,6 +513,16 @@
       {
         "artist": "Bastille",
         "title": "Things We Lost In The Fire",
+        "plays": 1
+      },
+      {
+        "artist": "The Lemonheads",
+        "title": "Deep End",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Leichtes Gepäck",
         "plays": 1
       }
     ],
