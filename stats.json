@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 57,
+    "total_entries": 62,
+    "music_entries": 59,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -278,6 +278,16 @@
       {
         "artist": "Lauren Spencer-Smith",
         "title": "Flowers",
+        "plays": 1
+      },
+      {
+        "artist": "Die Nerven",
+        "title": "Achtzehn",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Ja",
         "plays": 1
       }
     ],
