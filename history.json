@@ -1054,5 +1054,17 @@
     "played_at": "2026-08-29 16:55:08 +0200",
     "title": "Somebody that I Used to Know",
     "artist": "Gotye Feat. Kimbra"
+  },
+  {
+    "key": "2026-08-29 16:59:14 +0200|Firework|Katy Perry",
+    "played_at": "2026-08-29 16:59:14 +0200",
+    "title": "Firework",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-08-29 17:03:03 +0200|I Want You (Fever)|Momma",
+    "played_at": "2026-08-29 17:03:03 +0200",
+    "title": "I Want You (Fever)",
+    "artist": "Momma"
   }
 ]

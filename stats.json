@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 176,
-    "music_entries": 160,
+    "total_entries": 178,
+    "music_entries": 162,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -48,6 +48,11 @@
       {
         "artist": "Maroon 5 Feat. Christina Aguilera",
         "title": "Moves Like Jagger",
+        "plays": 2
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Firework",
         "plays": 2
       },
       {
@@ -138,11 +143,6 @@
       {
         "artist": "Alexandra Stan",
         "title": "Mr Saxobeat",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Firework",
         "plays": 1
       },
       {
@@ -703,6 +703,11 @@
       {
         "artist": "Shawn Mendes",
         "title": "Why Why Why",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
         "plays": 1
       }
     ],
