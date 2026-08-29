@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 107,
-    "music_entries": 97,
+    "total_entries": 109,
+    "music_entries": 98,
     "songs": [
       {
         "artist": "Coldplay",
@@ -488,6 +488,11 @@
       {
         "artist": "Ariana Grande",
         "title": "twilight zone",
+        "plays": 1
+      },
+      {
+        "artist": "Boy",
+        "title": "Little Numbers",
         "plays": 1
       }
     ],
