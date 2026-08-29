@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 133,
-    "music_entries": 120,
+    "total_entries": 135,
+    "music_entries": 122,
     "songs": [
       {
         "artist": "Coldplay",
@@ -588,6 +588,16 @@
       {
         "artist": "Tyla & Zara Larsson",
         "title": "SHE DID IT AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Alejandro",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Dani California",
         "plays": 1
       }
     ],
