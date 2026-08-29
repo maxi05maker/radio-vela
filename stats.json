@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 233,
-    "music_entries": 213,
+    "total_entries": 236,
+    "music_entries": 215,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -261,6 +261,11 @@
         "plays": 2
       },
       {
+        "artist": "Marteria",
+        "title": "Lila Wolken",
+        "plays": 2
+      },
+      {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
         "plays": 2
@@ -433,11 +438,6 @@
       {
         "artist": "Harry Styles",
         "title": "Sign of the Times",
-        "plays": 1
-      },
-      {
-        "artist": "Marteria",
-        "title": "Lila Wolken",
         "plays": 1
       },
       {
@@ -788,6 +788,11 @@
       {
         "artist": "Purple Disco Machine feat. Retrosonix",
         "title": "Ghost Town",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Tonight",
         "plays": 1
       }
     ],
