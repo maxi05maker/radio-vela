@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 143,
-    "music_entries": 133,
+    "total_entries": 145,
+    "music_entries": 135,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -33,6 +33,11 @@
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 2
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 2
       },
       {
@@ -203,11 +208,6 @@
       {
         "artist": "Bosse",
         "title": "Vergangenheit",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 1
       },
       {
@@ -608,6 +608,11 @@
       {
         "artist": "Jason Derulo Feat. 2 Chainz",
         "title": "Talk Dirty",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
         "plays": 1
       }
     ],
