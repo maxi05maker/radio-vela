@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 38,
-    "music_entries": 34,
+    "total_entries": 40,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "Coldplay",
@@ -173,6 +173,16 @@
       {
         "artist": "sombr",
         "title": "Homewrecker",
+        "plays": 1
+      },
+      {
+        "artist": "Ich + Ich",
+        "title": "Pflaster",
+        "plays": 1
+      },
+      {
+        "artist": "The White Stripes",
+        "title": "My Doorbell",
         "plays": 1
       }
     ],
