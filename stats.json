@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 80,
-    "music_entries": 73,
+    "total_entries": 83,
+    "music_entries": 76,
     "songs": [
       {
         "artist": "Coldplay",
@@ -368,6 +368,21 @@
       {
         "artist": "The Weeknd",
         "title": "Starboy (feat. Daft Punk)",
+        "plays": 1
+      },
+      {
+        "artist": "Sia feat. Sean Paul",
+        "title": "Cheap Thrills",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub, Domiziana",
+        "title": "Unsterblich sein ( ) feat. Domiziana",
+        "plays": 1
+      },
+      {
+        "artist": "Phoenix",
+        "title": "Lisztomania",
         "plays": 1
       }
     ],
