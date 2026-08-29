@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 205,
-    "music_entries": 187,
+    "total_entries": 208,
+    "music_entries": 189,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -171,6 +171,11 @@
         "plays": 2
       },
       {
+        "artist": "Sia",
+        "title": "Never Give Up",
+        "plays": 2
+      },
+      {
         "artist": "Saba & No I.D.",
         "title": "Crash feat. Kelly Rowland & Raphael Saadiq",
         "plays": 2
@@ -298,11 +303,6 @@
       {
         "artist": "AFROJACK, Sia, David Guetta",
         "title": "Awake Tonight",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Never Give Up",
         "plays": 1
       },
       {
@@ -748,6 +748,11 @@
       {
         "artist": "Ina Müller",
         "title": "Weiber-WG",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Its ok Im ok",
         "plays": 1
       }
     ],
