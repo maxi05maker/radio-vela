@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 216,
-    "music_entries": 197,
+    "total_entries": 219,
+    "music_entries": 199,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -113,6 +113,11 @@
       {
         "artist": "Paramore",
         "title": "The news",
+        "plays": 2
+      },
+      {
+        "artist": "Ich + Ich",
+        "title": "Pflaster",
         "plays": 2
       },
       {
@@ -278,11 +283,6 @@
       {
         "artist": "sombr",
         "title": "Homewrecker",
-        "plays": 1
-      },
-      {
-        "artist": "Ich + Ich",
-        "title": "Pflaster",
         "plays": 1
       },
       {
@@ -768,6 +768,11 @@
       {
         "artist": "LISA FEAT. DOJA CAT & RAYE",
         "title": "BORN AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Mehr Glück als Verstand",
         "plays": 1
       }
     ],
