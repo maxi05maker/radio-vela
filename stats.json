@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 275,
-    "music_entries": 251,
+    "total_entries": 277,
+    "music_entries": 253,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -883,6 +883,16 @@
       {
         "artist": "Finch (feat. Blümchen)",
         "title": "Herzalarm",
+        "plays": 1
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Hass auf den letzten Blick",
+        "plays": 1
+      },
+      {
+        "artist": "WILLOW",
+        "title": "it's my fault",
         "plays": 1
       }
     ],
