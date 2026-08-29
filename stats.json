@@ -2,12 +2,17 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 2,
-    "music_entries": 1,
+    "total_entries": 4,
+    "music_entries": 2,
     "songs": [
       {
         "artist": "Coldplay",
         "title": "A Sky Full Of Stars",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
         "plays": 1
       }
     ],
