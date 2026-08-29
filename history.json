@@ -940,5 +940,17 @@
     "played_at": "2026-08-29 15:51:51 +0200",
     "title": "Loving You Is Killing Me",
     "artist": "Aloe Blacc"
+  },
+  {
+    "key": "2026-08-29 15:55:17 +0200|Unshatter|Linkin Park",
+    "played_at": "2026-08-29 15:55:17 +0200",
+    "title": "Unshatter",
+    "artist": "Linkin Park"
+  },
+  {
+    "key": "2026-08-29 15:58:31 +0200|Hot N Cold|Katy Perry",
+    "played_at": "2026-08-29 15:58:31 +0200",
+    "title": "Hot N Cold",
+    "artist": "Katy Perry"
   }
 ]

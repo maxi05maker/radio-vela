@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 157,
-    "music_entries": 143,
+    "total_entries": 159,
+    "music_entries": 145,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -28,6 +28,11 @@
       {
         "artist": "Aloe Blacc",
         "title": "Loving You Is Killing Me",
+        "plays": 2
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Hot N Cold",
         "plays": 2
       },
       {
@@ -78,11 +83,6 @@
       {
         "artist": "The Marías",
         "title": "Back To Me",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Hot N Cold",
         "plays": 1
       },
       {
@@ -668,6 +668,11 @@
       {
         "artist": "The Last Dinner Party",
         "title": "The Scythe",
+        "plays": 1
+      },
+      {
+        "artist": "Linkin Park",
+        "title": "Unshatter",
         "plays": 1
       }
     ],
