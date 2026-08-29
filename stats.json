@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 159,
-    "music_entries": 145,
+    "total_entries": 161,
+    "music_entries": 147,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -38,6 +38,11 @@
       {
         "artist": "Adele",
         "title": "Skyfall",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Patrick Kelly Feat. Gentleman",
+        "title": "Id",
         "plays": 2
       },
       {
@@ -118,11 +123,6 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly Feat. Gentleman",
-        "title": "Id",
         "plays": 1
       },
       {
@@ -673,6 +673,11 @@
       {
         "artist": "Linkin Park",
         "title": "Unshatter",
+        "plays": 1
+      },
+      {
+        "artist": "Dropkick Murphys",
+        "title": "Who'll Stand With Us?",
         "plays": 1
       }
     ],
