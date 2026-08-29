@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 126,
-    "music_entries": 117,
+    "total_entries": 128,
+    "music_entries": 119,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -538,6 +538,16 @@
       {
         "artist": "DCVDNS",
         "title": "Sympathie Für Den Teufel",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + the Machine",
+        "title": "Dog Days Are Over",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
         "plays": 1
       }
     ],

@@ -1888,5 +1888,17 @@
     "played_at": "2026-08-29 05:50:56 +0200",
     "title": "Sympathie Für Den Teufel",
     "artist": "DCVDNS"
+  },
+  {
+    "key": "2026-08-29 05:53:57 +0200|Dog Days Are Over|Florence + the Machine",
+    "played_at": "2026-08-29 05:53:57 +0200",
+    "title": "Dog Days Are Over",
+    "artist": "Florence + the Machine"
+  },
+  {
+    "key": "2026-08-29 05:58:10 +0200|Nicht Perfekt|Monet192",
+    "played_at": "2026-08-29 05:58:10 +0200",
+    "title": "Nicht Perfekt",
+    "artist": "Monet192"
   }
 ]
