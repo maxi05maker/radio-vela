@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 203,
-    "music_entries": 185,
+    "total_entries": 205,
+    "music_entries": 187,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -146,6 +146,16 @@
         "plays": 2
       },
       {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
+        "plays": 2
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 2
+      },
+      {
         "artist": "Marteria",
         "title": "9 Leben (Eins übrig)",
         "plays": 2
@@ -268,16 +278,6 @@
       {
         "artist": "Volbeat",
         "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Happiness Is A Butterfly",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Bad Liar",
         "plays": 1
       },
       {
