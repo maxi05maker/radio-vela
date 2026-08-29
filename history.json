@@ -1528,5 +1528,17 @@
     "played_at": "2026-08-29 21:20:27 +0200",
     "title": "Sign of the Times",
     "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-08-29 21:26:07 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-08-29 21:26:07 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-08-29 21:29:41 +0200|We Come Alive|Jonathan Jeremiah & Till Bronner",
+    "played_at": "2026-08-29 21:29:41 +0200",
+    "title": "We Come Alive",
+    "artist": "Jonathan Jeremiah & Till Bronner"
   }
 ]

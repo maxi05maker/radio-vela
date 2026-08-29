@@ -2,13 +2,13 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 255,
-    "music_entries": 231,
+    "total_entries": 257,
+    "music_entries": 233,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
-        "plays": 3
+        "plays": 4
       },
       {
         "artist": "Coldplay",
@@ -829,12 +829,17 @@
         "artist": "Kylie Minogue & YouNotUs",
         "title": "Someone For Me",
         "plays": 1
+      },
+      {
+        "artist": "Jonathan Jeremiah & Till Bronner",
+        "title": "We Come Alive",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Bryan Adams",
       "title": "So Happy It Hurts",
-      "plays": 3
+      "plays": 4
     }
   }
 }
