@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 221,
-    "music_entries": 201,
+    "total_entries": 223,
+    "music_entries": 203,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -108,6 +108,11 @@
       {
         "artist": "Provinz & Danger Dan",
         "title": "Unsere Bank",
+        "plays": 2
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Wolken",
         "plays": 2
       },
       {
@@ -236,6 +241,11 @@
         "plays": 2
       },
       {
+        "artist": "Tokio Hotel",
+        "title": "Rette Mich",
+        "plays": 2
+      },
+      {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
         "plays": 1
@@ -278,11 +288,6 @@
       {
         "artist": "Joris",
         "title": "Zu Viel Retro",
-        "plays": 1
-      },
-      {
-        "artist": "Apache 207",
-        "title": "Wolken",
         "plays": 1
       },
       {
@@ -433,11 +438,6 @@
       {
         "artist": "Malik Harris",
         "title": "lie to me",
-        "plays": 1
-      },
-      {
-        "artist": "Tokio Hotel",
-        "title": "Rette Mich",
         "plays": 1
       },
       {
