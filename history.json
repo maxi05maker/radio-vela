@@ -1870,5 +1870,23 @@
     "played_at": "2026-08-30 00:26:38 +0200",
     "title": "Poster Girl",
     "artist": "LAYLA"
+  },
+  {
+    "key": "2026-08-30 00:29:33 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-08-30 00:29:33 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-30 00:30:09 +0200|Sayōnara feat. Paul Hartnoll|Kneecap",
+    "played_at": "2026-08-30 00:30:09 +0200",
+    "title": "Sayōnara feat. Paul Hartnoll",
+    "artist": "Kneecap"
+  },
+  {
+    "key": "2026-08-30 00:33:30 +0200|Hard Times|Paramore",
+    "played_at": "2026-08-30 00:33:30 +0200",
+    "title": "Hard Times",
+    "artist": "Paramore"
   }
 ]

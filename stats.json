@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 312,
-    "music_entries": 285,
+    "total_entries": 315,
+    "music_entries": 287,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1048,6 +1048,16 @@
       {
         "artist": "LAYLA",
         "title": "Poster Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Kneecap",
+        "title": "Sayōnara feat. Paul Hartnoll",
+        "plays": 1
+      },
+      {
+        "artist": "Paramore",
+        "title": "Hard Times",
         "plays": 1
       }
     ],
