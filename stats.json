@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 172,
-    "music_entries": 156,
+    "total_entries": 174,
+    "music_entries": 158,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -46,6 +46,11 @@
         "plays": 2
       },
       {
+        "artist": "Maroon 5 Feat. Christina Aguilera",
+        "title": "Moves Like Jagger",
+        "plays": 2
+      },
+      {
         "artist": "Michael Patrick Kelly Feat. Gentleman",
         "title": "Id",
         "plays": 2
@@ -68,6 +73,11 @@
       {
         "artist": "Swiss & die Andern",
         "title": "Erstmal zu Penny",
+        "plays": 2
+      },
+      {
+        "artist": "Provinz & Danger Dan",
+        "title": "Unsere Bank",
         "plays": 2
       },
       {
@@ -116,11 +126,6 @@
         "plays": 1
       },
       {
-        "artist": "Maroon 5 Feat. Christina Aguilera",
-        "title": "Moves Like Jagger",
-        "plays": 1
-      },
-      {
         "artist": "David Guetta & Sia",
         "title": "Beautiful People",
         "plays": 1
@@ -163,11 +168,6 @@
       {
         "artist": "Joris",
         "title": "Zu Viel Retro",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz & Danger Dan",
-        "title": "Unsere Bank",
         "plays": 1
       },
       {
