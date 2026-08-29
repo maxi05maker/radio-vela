@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 6,
-    "music_entries": 4,
+    "total_entries": 8,
+    "music_entries": 6,
     "songs": [
       {
         "artist": "Coldplay",
@@ -23,6 +23,16 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "tout",
+        "plays": 1
+      },
+      {
+        "artist": "Olly Murs feat. Rizzle Kicks",
+        "title": "Heart Skips A Beat",
         "plays": 1
       }
     ],
