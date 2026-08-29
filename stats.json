@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 225,
-    "music_entries": 205,
+    "total_entries": 227,
+    "music_entries": 207,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -226,6 +226,11 @@
         "plays": 2
       },
       {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 2
+      },
+      {
         "artist": "Yungblud",
         "title": "Memories",
         "plays": 2
@@ -248,6 +253,11 @@
       {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
+        "plays": 2
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 2
       },
       {
@@ -351,11 +361,6 @@
         "plays": 1
       },
       {
-        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
-        "title": "Don’t Call Me Angel (Charlie’s Angels)",
-        "plays": 1
-      },
-      {
         "artist": "PinkPantheress",
         "title": "Illegal",
         "plays": 1
@@ -453,11 +458,6 @@
       {
         "artist": "Jungle",
         "title": "Busy Earnin'",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
         "plays": 1
       },
       {

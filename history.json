@@ -1348,5 +1348,17 @@
     "played_at": "2026-08-29 19:45:04 +0200",
     "title": "LIFETIMES",
     "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-08-29 19:48:16 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-08-29 19:48:16 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-08-29 19:51:47 +0200|Don’t Call Me Angel (Charlie’s Angels)|Ariana Grande & Miley Cyrus & Lana Del Rey",
+    "played_at": "2026-08-29 19:51:47 +0200",
+    "title": "Don’t Call Me Angel (Charlie’s Angels)",
+    "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey"
   }
 ]
