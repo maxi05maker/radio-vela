@@ -1180,5 +1180,23 @@
     "played_at": "2026-08-29 18:11:27 +0200",
     "title": "We Don't Talk Anymore",
     "artist": "Charlie Puth feat. Selena Gomez"
+  },
+  {
+    "key": "2026-08-29 18:15:05 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-29 18:15:05 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-29 18:17:57 +0200|Du tust mir nie mehr weh|AnnenMayKantereit",
+    "played_at": "2026-08-29 18:17:57 +0200",
+    "title": "Du tust mir nie mehr weh",
+    "artist": "AnnenMayKantereit"
+  },
+  {
+    "key": "2026-08-29 18:20:56 +0200|Rockstar|Lisa",
+    "played_at": "2026-08-29 18:20:56 +0200",
+    "title": "Rockstar",
+    "artist": "Lisa"
   }
 ]
