@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 254,
-    "music_entries": 230,
+    "total_entries": 255,
+    "music_entries": 231,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -286,6 +286,11 @@
         "plays": 2
       },
       {
+        "artist": "Harry Styles",
+        "title": "Sign of the Times",
+        "plays": 2
+      },
+      {
         "artist": "Marteria",
         "title": "Lila Wolken",
         "plays": 2
@@ -448,11 +453,6 @@
       {
         "artist": "Fontaines D.C.",
         "title": "Favourite",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "Sign of the Times",
         "plays": 1
       },
       {
