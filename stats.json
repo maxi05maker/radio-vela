@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 259,
-    "music_entries": 235,
+    "total_entries": 261,
+    "music_entries": 237,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -326,6 +326,11 @@
         "plays": 2
       },
       {
+        "artist": "Bruno Mars",
+        "title": "Count On Me",
+        "plays": 2
+      },
+      {
         "artist": "Meghan Trainor",
         "title": "All About That Bass",
         "plays": 2
@@ -508,11 +513,6 @@
       {
         "artist": "Boy",
         "title": "Little Numbers",
-        "plays": 1
-      },
-      {
-        "artist": "Bruno Mars",
-        "title": "Count On Me",
         "plays": 1
       },
       {
@@ -833,6 +833,11 @@
       {
         "artist": "Jonathan Jeremiah & Till Bronner",
         "title": "We Come Alive",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Manchild",
         "plays": 1
       }
     ],
