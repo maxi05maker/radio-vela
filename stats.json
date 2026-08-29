@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 121,
-    "music_entries": 113,
+    "total_entries": 124,
+    "music_entries": 115,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -518,6 +518,16 @@
       {
         "artist": "Justin Timberlake",
         "title": "Mirrors",
+        "plays": 1
+      },
+      {
+        "artist": "The Darkness",
+        "title": "The Longest Kiss",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Alejandro",
         "plays": 1
       }
     ],
