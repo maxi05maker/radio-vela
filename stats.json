@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 257,
-    "music_entries": 233,
+    "total_entries": 259,
+    "music_entries": 235,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -306,6 +306,11 @@
         "plays": 2
       },
       {
+        "artist": "Jungle",
+        "title": "Busy Earnin'",
+        "plays": 2
+      },
+      {
         "artist": "Teddy Swims",
         "title": "Lose Control",
         "plays": 2
@@ -323,6 +328,11 @@
       {
         "artist": "Meghan Trainor",
         "title": "All About That Bass",
+        "plays": 2
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Leichtes Gepäck",
         "plays": 2
       },
       {
@@ -476,11 +486,6 @@
         "plays": 1
       },
       {
-        "artist": "Jungle",
-        "title": "Busy Earnin'",
-        "plays": 1
-      },
-      {
         "artist": "Katy Perry",
         "title": "I'M HIS, HE'S MINE ft. Doechii",
         "plays": 1
@@ -523,11 +528,6 @@
       {
         "artist": "The Lemonheads",
         "title": "Deep End",
-        "plays": 1
-      },
-      {
-        "artist": "Silbermond",
-        "title": "Leichtes Gepäck",
         "plays": 1
       },
       {
