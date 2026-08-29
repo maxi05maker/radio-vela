@@ -124,5 +124,17 @@
     "played_at": "2026-08-29 08:07:41 +0200",
     "title": "Firework",
     "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-08-29 08:11:30 +0200|Cry For Me|The Weeknd",
+    "played_at": "2026-08-29 08:11:30 +0200",
+    "title": "Cry For Me",
+    "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-08-29 08:15:14 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-08-29 08:15:14 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
   }
 ]
