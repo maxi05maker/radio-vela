@@ -406,5 +406,17 @@
     "played_at": "2026-08-29 10:52:21 +0200",
     "title": "Shake It Out",
     "artist": "Florence + the Machine"
+  },
+  {
+    "key": "2026-08-29 10:56:59 +0200|Talk to Me (feat. Tyla, Nile Rodgers)|Damiano David, Tyla, Nile Rodgers",
+    "played_at": "2026-08-29 10:56:59 +0200",
+    "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
+    "artist": "Damiano David, Tyla, Nile Rodgers"
+  },
+  {
+    "key": "2026-08-29 11:00:12 +0200|In Spite of Everything|Takida",
+    "played_at": "2026-08-29 11:00:12 +0200",
+    "title": "In Spite of Everything",
+    "artist": "Takida"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 68,
-    "music_entries": 62,
+    "total_entries": 70,
+    "music_entries": 64,
     "songs": [
       {
         "artist": "Coldplay",
@@ -313,6 +313,16 @@
       {
         "artist": "Florence + the Machine",
         "title": "Shake It Out",
+        "plays": 1
+      },
+      {
+        "artist": "Damiano David, Tyla, Nile Rodgers",
+        "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
+        "plays": 1
+      },
+      {
+        "artist": "Takida",
+        "title": "In Spite of Everything",
         "plays": 1
       }
     ],
