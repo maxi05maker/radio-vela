@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 331,
-    "music_entries": 302,
+    "total_entries": 333,
+    "music_entries": 304,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1128,6 +1128,16 @@
       {
         "artist": "The Rolling Stones",
         "title": "Troubles A’ Comin",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "When You're Gone",
+        "plays": 1
+      },
+      {
+        "artist": "The Cribs",
+        "title": "Dark Luck",
         "plays": 1
       }
     ],

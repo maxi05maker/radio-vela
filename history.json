@@ -1984,5 +1984,17 @@
     "played_at": "2026-08-30 01:24:30 +0200",
     "title": "Troubles A’ Comin",
     "artist": "The Rolling Stones"
+  },
+  {
+    "key": "2026-08-30 01:28:46 +0200|When You're Gone|Shawn Mendes",
+    "played_at": "2026-08-30 01:28:46 +0200",
+    "title": "When You're Gone",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-08-30 01:31:38 +0200|Dark Luck|The Cribs",
+    "played_at": "2026-08-30 01:31:38 +0200",
+    "title": "Dark Luck",
+    "artist": "The Cribs"
   }
 ]
