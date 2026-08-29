@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 80,
-    "music_entries": 74,
+    "total_entries": 83,
+    "music_entries": 77,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -358,6 +358,21 @@
       {
         "artist": "Addison Rae",
         "title": "Headphones On",
+        "plays": 1
+      },
+      {
+        "artist": "Willow & Travis Barker",
+        "title": "Transparent Soul",
+        "plays": 1
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "Aute Cuture",
+        "plays": 1
+      },
+      {
+        "artist": "Mobb Deep",
+        "title": "Taj Mahal",
         "plays": 1
       }
     ],
