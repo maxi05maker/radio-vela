@@ -1600,5 +1600,17 @@
     "played_at": "2026-08-29 22:06:30 +0200",
     "title": "We Are The People",
     "artist": "Empire Of The Sun"
+  },
+  {
+    "key": "2026-08-29 22:10:58 +0200|Habits (Stay High)|Tove Lo",
+    "played_at": "2026-08-29 22:10:58 +0200",
+    "title": "Habits (Stay High)",
+    "artist": "Tove Lo"
+  },
+  {
+    "key": "2026-08-29 22:14:25 +0200|Make It Right|Tom Gregory & VIZE",
+    "played_at": "2026-08-29 22:14:25 +0200",
+    "title": "Make It Right",
+    "artist": "Tom Gregory & VIZE"
   }
 ]

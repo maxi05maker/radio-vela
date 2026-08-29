@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 267,
-    "music_entries": 243,
+    "total_entries": 269,
+    "music_entries": 245,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -356,6 +356,11 @@
         "plays": 2
       },
       {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
+        "plays": 2
+      },
+      {
         "artist": "We Are Scientists",
         "title": "Less from You",
         "plays": 2
@@ -548,11 +553,6 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Tove Lo",
-        "title": "Habits (Stay High)",
         "plays": 1
       },
       {
@@ -848,6 +848,11 @@
       {
         "artist": "Ray Vaughn",
         "title": "Hoe Era",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
         "plays": 1
       }
     ],
