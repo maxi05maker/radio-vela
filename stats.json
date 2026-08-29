@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 273,
-    "music_entries": 249,
+    "total_entries": 275,
+    "music_entries": 251,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -873,6 +873,16 @@
       {
         "artist": "Nina Chuba x Tokio Hotel",
         "title": "Fata Morgana",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Whatever It Takes",
+        "plays": 1
+      },
+      {
+        "artist": "Finch (feat. Blümchen)",
+        "title": "Herzalarm",
         "plays": 1
       }
     ],

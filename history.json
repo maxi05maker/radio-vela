@@ -1636,5 +1636,17 @@
     "played_at": "2026-08-29 22:27:10 +0200",
     "title": "Fata Morgana",
     "artist": "Nina Chuba x Tokio Hotel"
+  },
+  {
+    "key": "2026-08-29 22:31:02 +0200|Whatever It Takes|Imagine Dragons",
+    "played_at": "2026-08-29 22:31:02 +0200",
+    "title": "Whatever It Takes",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-08-29 22:34:23 +0200|Herzalarm|Finch (feat. Blümchen)",
+    "played_at": "2026-08-29 22:34:23 +0200",
+    "title": "Herzalarm",
+    "artist": "Finch (feat. Blümchen)"
   }
 ]
