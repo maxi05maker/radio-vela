@@ -976,5 +976,17 @@
     "played_at": "2026-08-29 16:12:31 +0200",
     "title": "Nachrichten & Wetter",
     "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-29 16:17:58 +0200|Ganztagsradio|Jingle",
+    "played_at": "2026-08-29 16:17:58 +0200",
+    "title": "Ganztagsradio",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-29 16:18:39 +0200|Euphoria|Loreen",
+    "played_at": "2026-08-29 16:18:39 +0200",
+    "title": "Euphoria",
+    "artist": "Loreen"
   }
 ]

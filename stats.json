@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 163,
-    "music_entries": 148,
+    "total_entries": 165,
+    "music_entries": 149,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -48,6 +48,11 @@
       {
         "artist": "Lil Tecca",
         "title": "Owa Owa",
+        "plays": 2
+      },
+      {
+        "artist": "Loreen",
+        "title": "Euphoria",
         "plays": 2
       },
       {
@@ -128,11 +133,6 @@
       {
         "artist": "STARSET, Breaking Benjamin, Judge & Jury",
         "title": "Waiting on the sky to change",
-        "plays": 1
-      },
-      {
-        "artist": "Loreen",
-        "title": "Euphoria",
         "plays": 1
       },
       {
