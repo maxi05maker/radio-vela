@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 103,
-    "music_entries": 94,
+    "total_entries": 107,
+    "music_entries": 97,
     "songs": [
       {
         "artist": "Coldplay",
@@ -473,6 +473,21 @@
       {
         "artist": "Coldplay",
         "title": "Higher Power",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "das leben ist... [Explicit]",
+        "plays": 1
+      },
+      {
+        "artist": "Eli Preiss",
+        "title": "Was ist der Prei$$",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "twilight zone",
         "plays": 1
       }
     ],
