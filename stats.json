@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 86,
-    "music_entries": 79,
+    "total_entries": 88,
+    "music_entries": 81,
     "songs": [
       {
         "artist": "Coldplay",
@@ -398,6 +398,16 @@
       {
         "artist": "Panic! At the Disco",
         "title": "High Hopes",
+        "plays": 1
+      },
+      {
+        "artist": "Culcha Candela",
+        "title": "Hamma!",
+        "plays": 1
+      },
+      {
+        "artist": "Fontaines D.C.",
+        "title": "Favourite",
         "plays": 1
       }
     ],

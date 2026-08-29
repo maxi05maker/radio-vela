@@ -514,5 +514,17 @@
     "played_at": "2026-08-29 11:55:36 +0200",
     "title": "High Hopes",
     "artist": "Panic! At the Disco"
+  },
+  {
+    "key": "2026-08-29 11:58:47 +0200|Hamma!|Culcha Candela",
+    "played_at": "2026-08-29 11:58:47 +0200",
+    "title": "Hamma!",
+    "artist": "Culcha Candela"
+  },
+  {
+    "key": "2026-08-29 12:02:13 +0200|Favourite|Fontaines D.C.",
+    "played_at": "2026-08-29 12:02:13 +0200",
+    "title": "Favourite",
+    "artist": "Fontaines D.C."
   }
 ]
