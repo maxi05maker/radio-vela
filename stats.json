@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 227,
-    "music_entries": 207,
+    "total_entries": 229,
+    "music_entries": 209,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -261,6 +261,11 @@
         "plays": 2
       },
       {
+        "artist": "Coldplay",
+        "title": "Higher Power",
+        "plays": 2
+      },
+      {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
         "plays": 1
@@ -468,11 +473,6 @@
       {
         "artist": "Kelly Clarkson",
         "title": "Underneath the Tree",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "Higher Power",
         "plays": 1
       },
       {
@@ -778,6 +778,11 @@
       {
         "artist": "Katy Perry",
         "title": "LIFETIMES",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
         "plays": 1
       }
     ],

@@ -1360,5 +1360,17 @@
     "played_at": "2026-08-29 19:51:47 +0200",
     "title": "Don’t Call Me Angel (Charlie’s Angels)",
     "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey"
+  },
+  {
+    "key": "2026-08-29 19:54:57 +0200|And Love|Florence + The Machine",
+    "played_at": "2026-08-29 19:54:57 +0200",
+    "title": "And Love",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "key": "2026-08-29 19:57:42 +0200|Higher Power|Coldplay",
+    "played_at": "2026-08-29 19:57:42 +0200",
+    "title": "Higher Power",
+    "artist": "Coldplay"
   }
 ]
