@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 151,
-    "music_entries": 137,
+    "total_entries": 153,
+    "music_entries": 139,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -13,6 +13,11 @@
       {
         "artist": "Coldplay",
         "title": "A Sky Full Of Stars",
+        "plays": 2
+      },
+      {
+        "artist": "Peter Fox",
+        "title": "Haus am See",
         "plays": 2
       },
       {
@@ -38,11 +43,6 @@
       {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Fox",
-        "title": "Haus am See",
         "plays": 1
       },
       {
@@ -653,6 +653,11 @@
       {
         "artist": "Sam Smith",
         "title": "Stay With Me",
+        "plays": 1
+      },
+      {
+        "artist": "KADAVAR",
+        "title": "Scar On My Guitar",
         "plays": 1
       }
     ],

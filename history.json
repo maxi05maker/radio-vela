@@ -904,5 +904,17 @@
     "played_at": "2026-08-29 15:29:40 +0200",
     "title": "Stay With Me",
     "artist": "Sam Smith"
+  },
+  {
+    "key": "2026-08-29 15:32:33 +0200|Scar On My Guitar|KADAVAR",
+    "played_at": "2026-08-29 15:32:33 +0200",
+    "title": "Scar On My Guitar",
+    "artist": "KADAVAR"
+  },
+  {
+    "key": "2026-08-29 15:35:46 +0200|Haus am See|Peter Fox",
+    "played_at": "2026-08-29 15:35:46 +0200",
+    "title": "Haus am See",
+    "artist": "Peter Fox"
   }
 ]
