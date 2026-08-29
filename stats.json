@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 186,
-    "music_entries": 169,
+    "total_entries": 188,
+    "music_entries": 171,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -128,6 +128,11 @@
       {
         "artist": "Marteria",
         "title": "9 Leben (Eins übrig)",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 2
       },
       {
@@ -258,11 +263,6 @@
       {
         "artist": "The 1975",
         "title": "About You",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
@@ -713,6 +713,11 @@
       {
         "artist": "Post Malone",
         "title": "I Had Some Help (feat. Morgan Wallen)",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Schief in jedem Chor",
         "plays": 1
       }
     ],
