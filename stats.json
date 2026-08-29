@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 90,
-    "music_entries": 82,
+    "total_entries": 92,
+    "music_entries": 84,
     "songs": [
       {
         "artist": "Coldplay",
@@ -413,6 +413,16 @@
       {
         "artist": "Harry Styles",
         "title": "Sign of the Times",
+        "plays": 1
+      },
+      {
+        "artist": "Marteria",
+        "title": "Lila Wolken",
+        "plays": 1
+      },
+      {
+        "artist": "Kitana",
+        "title": "Hell On Earth",
         "plays": 1
       }
     ],
