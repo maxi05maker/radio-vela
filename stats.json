@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 231,
-    "music_entries": 211,
+    "total_entries": 233,
+    "music_entries": 213,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -251,6 +251,11 @@
         "plays": 2
       },
       {
+        "artist": "The Weeknd",
+        "title": "Starboy (feat. Daft Punk)",
+        "plays": 2
+      },
+      {
         "artist": "Adel Tawil",
         "title": "Ist da jemand",
         "plays": 2
@@ -268,6 +273,11 @@
       {
         "artist": "Coldplay",
         "title": "Higher Power",
+        "plays": 2
+      },
+      {
+        "artist": "Eli Preiss",
+        "title": "Was ist der Prei$$",
         "plays": 2
       },
       {
@@ -386,11 +396,6 @@
         "plays": 1
       },
       {
-        "artist": "The Weeknd",
-        "title": "Starboy (feat. Daft Punk)",
-        "plays": 1
-      },
-      {
         "artist": "Sia feat. Sean Paul",
         "title": "Cheap Thrills",
         "plays": 1
@@ -478,11 +483,6 @@
       {
         "artist": "JORIS",
         "title": "das leben ist... [Explicit]",
-        "plays": 1
-      },
-      {
-        "artist": "Eli Preiss",
-        "title": "Was ist der Prei$$",
         "plays": 1
       },
       {
