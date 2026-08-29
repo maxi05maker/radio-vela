@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 113,
-    "music_entries": 105,
+    "total_entries": 115,
+    "music_entries": 107,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -483,6 +483,16 @@
       {
         "artist": "Felix Jaehn JHart",
         "title": "PRIDE",
+        "plays": 1
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Count On Me",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Roar",
         "plays": 1
       }
     ],
