@@ -2,9 +2,14 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 123,
-    "music_entries": 112,
+    "total_entries": 127,
+    "music_entries": 115,
     "songs": [
+      {
+        "artist": "Coldplay",
+        "title": "A Sky Full Of Stars",
+        "plays": 2
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
@@ -14,11 +19,6 @@
         "artist": "Marteria",
         "title": "9 Leben (Eins übrig)",
         "plays": 2
-      },
-      {
-        "artist": "Coldplay",
-        "title": "A Sky Full Of Stars",
-        "plays": 1
       },
       {
         "artist": "Shakira & Burna Boy",
@@ -554,11 +554,21 @@
         "artist": "Calvin Harris,Jazzy",
         "title": "Satisfy",
         "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Roar",
+        "plays": 1
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "Look at My Life",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "Coldplay",
+      "title": "A Sky Full Of Stars",
       "plays": 2
     }
   }
