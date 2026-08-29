@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 141,
-    "music_entries": 131,
+    "total_entries": 143,
+    "music_entries": 133,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -598,6 +598,16 @@
       {
         "artist": "Leony",
         "title": "Oldschool Love",
+        "plays": 1
+      },
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
+        "plays": 1
+      },
+      {
+        "artist": "Jason Derulo Feat. 2 Chainz",
+        "title": "Talk Dirty",
         "plays": 1
       }
     ],
