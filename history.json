@@ -82,5 +82,17 @@
     "played_at": "2026-08-29 07:44:15 +0200",
     "title": "Hot N Cold",
     "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-08-29 07:48:00 +0200|Skyfall|Adele",
+    "played_at": "2026-08-29 07:48:00 +0200",
+    "title": "Skyfall",
+    "artist": "Adele"
+  },
+  {
+    "key": "2026-08-29 07:52:47 +0200|Mann im Haus|Lune",
+    "played_at": "2026-08-29 07:52:47 +0200",
+    "title": "Mann im Haus",
+    "artist": "Lune"
   }
 ]
