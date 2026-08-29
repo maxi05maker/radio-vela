@@ -1612,5 +1612,17 @@
     "played_at": "2026-08-29 22:14:25 +0200",
     "title": "Make It Right",
     "artist": "Tom Gregory & VIZE"
+  },
+  {
+    "key": "2026-08-29 22:16:45 +0200|S.M.O.|amaarae",
+    "played_at": "2026-08-29 22:16:45 +0200",
+    "title": "S.M.O.",
+    "artist": "amaarae"
+  },
+  {
+    "key": "2026-08-29 22:21:15 +0200|Hot In It|Tiësto, Charli XCX",
+    "played_at": "2026-08-29 22:21:15 +0200",
+    "title": "Hot In It",
+    "artist": "Tiësto, Charli XCX"
   }
 ]

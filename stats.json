@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 269,
-    "music_entries": 245,
+    "total_entries": 271,
+    "music_entries": 247,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -853,6 +853,16 @@
       {
         "artist": "Tom Gregory & VIZE",
         "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "amaarae",
+        "title": "S.M.O.",
+        "plays": 1
+      },
+      {
+        "artist": "Tiësto, Charli XCX",
+        "title": "Hot In It",
         "plays": 1
       }
     ],
