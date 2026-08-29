@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 229,
-    "music_entries": 209,
+    "total_entries": 231,
+    "music_entries": 211,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -251,6 +251,11 @@
         "plays": 2
       },
       {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
+        "plays": 2
+      },
+      {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
         "plays": 2
@@ -398,11 +403,6 @@
       {
         "artist": "Phoenix",
         "title": "Lisztomania",
-        "plays": 1
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Ist da jemand",
         "plays": 1
       },
       {
@@ -783,6 +783,11 @@
       {
         "artist": "Florence + The Machine",
         "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Retrosonix",
+        "title": "Ghost Town",
         "plays": 1
       }
     ],
