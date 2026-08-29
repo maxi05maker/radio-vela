@@ -394,5 +394,17 @@
     "played_at": "2026-08-29 10:44:23 +0200",
     "title": "Keep Up",
     "artist": "White Lies"
+  },
+  {
+    "key": "2026-08-29 10:47:59 +0200|Uptight Downtown|La Roux",
+    "played_at": "2026-08-29 10:47:59 +0200",
+    "title": "Uptight Downtown",
+    "artist": "La Roux"
+  },
+  {
+    "key": "2026-08-29 10:52:21 +0200|Shake It Out|Florence + the Machine",
+    "played_at": "2026-08-29 10:52:21 +0200",
+    "title": "Shake It Out",
+    "artist": "Florence + the Machine"
   }
 ]
