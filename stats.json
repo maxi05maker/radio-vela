@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 188,
-    "music_entries": 171,
+    "total_entries": 191,
+    "music_entries": 174,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -106,6 +106,11 @@
         "plays": 2
       },
       {
+        "artist": "Paramore",
+        "title": "The news",
+        "plays": 2
+      },
+      {
         "artist": "Clueso",
         "title": "Wenn du liebst [feat. Kat Frankie]",
         "plays": 2
@@ -198,11 +203,6 @@
       {
         "artist": "Apache 207",
         "title": "Wolken",
-        "plays": 1
-      },
-      {
-        "artist": "Paramore",
-        "title": "The news",
         "plays": 1
       },
       {
@@ -718,6 +718,16 @@
       {
         "artist": "Kraftklub",
         "title": "Schief in jedem Chor",
+        "plays": 1
+      },
+      {
+        "artist": "Jolle",
+        "title": "Große Freiheit",
+        "plays": 1
+      },
+      {
+        "artist": "Calum Scott",
+        "title": "My World",
         "plays": 1
       }
     ],
