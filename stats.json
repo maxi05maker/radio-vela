@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 315,
-    "music_entries": 287,
+    "total_entries": 318,
+    "music_entries": 290,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1058,6 +1058,21 @@
       {
         "artist": "Paramore",
         "title": "Hard Times",
+        "plays": 1
+      },
+      {
+        "artist": "Jeremias",
+        "title": "Ich mags",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
         "plays": 1
       }
     ],
