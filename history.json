@@ -1822,5 +1822,17 @@
     "played_at": "2026-08-29 05:16:03 +0200",
     "title": "Roar",
     "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-08-29 05:19:46 +0200|Bar Song (Tipsy)|Shaboozey",
+    "played_at": "2026-08-29 05:19:46 +0200",
+    "title": "Bar Song (Tipsy)",
+    "artist": "Shaboozey"
+  },
+  {
+    "key": "2026-08-29 05:22:37 +0200|Slow It Down|Benson Boone",
+    "played_at": "2026-08-29 05:22:37 +0200",
+    "title": "Slow It Down",
+    "artist": "Benson Boone"
   }
 ]

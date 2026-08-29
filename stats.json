@@ -2,8 +2,8 @@
   "2026-08-28 07:00": {
     "period_start": "2026-08-28T07:00:00+02:00",
     "period_end": "2026-08-29T07:00:00+02:00",
-    "total_entries": 115,
-    "music_entries": 107,
+    "total_entries": 117,
+    "music_entries": 109,
     "songs": [
       {
         "artist": "David Guetta, Alphaville & Ava Max",
@@ -33,6 +33,11 @@
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 2
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
         "plays": 2
       },
       {
@@ -208,11 +213,6 @@
       {
         "artist": "Beyonce feat. Shakira",
         "title": "Beautiful Liar",
-        "plays": 1
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
         "plays": 1
       },
       {
@@ -493,6 +493,11 @@
       {
         "artist": "Katy Perry",
         "title": "Roar",
+        "plays": 1
+      },
+      {
+        "artist": "Shaboozey",
+        "title": "Bar Song (Tipsy)",
         "plays": 1
       }
     ],
