@@ -2038,5 +2038,17 @@
     "played_at": "2026-08-31 01:18:57 +0200",
     "title": "Apágame",
     "artist": "Alvaro Soler"
+  },
+  {
+    "key": "2026-08-31 01:26:08 +0200|Physical|Dua Lipa",
+    "played_at": "2026-08-31 01:26:08 +0200",
+    "title": "Physical",
+    "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-08-31 01:29:20 +0200|Dai Dai|Shakira & Burna Boy",
+    "played_at": "2026-08-31 01:29:20 +0200",
+    "title": "Dai Dai",
+    "artist": "Shakira & Burna Boy"
   }
 ]

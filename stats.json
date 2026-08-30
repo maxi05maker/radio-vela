@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 340,
-    "music_entries": 313,
+    "total_entries": 342,
+    "music_entries": 315,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -13,6 +13,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 3
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Physical",
         "plays": 3
       },
       {
@@ -133,11 +138,6 @@
       {
         "artist": "Måneskin",
         "title": "I WANNA BE YOUR SLAVE",
-        "plays": 2
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "Physical",
         "plays": 2
       },
       {
@@ -1323,6 +1323,11 @@
       {
         "artist": "Alvaro Soler",
         "title": "Apágame",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
         "plays": 1
       }
     ],
