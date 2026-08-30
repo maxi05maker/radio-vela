@@ -1666,5 +1666,17 @@
     "played_at": "2026-08-30 21:53:07 +0200",
     "title": "Rette Mich",
     "artist": "Tokio Hotel"
+  },
+  {
+    "key": "2026-08-30 21:56:56 +0200|Oxígeno|Alvaro Soler",
+    "played_at": "2026-08-30 21:56:56 +0200",
+    "title": "Oxígeno",
+    "artist": "Alvaro Soler"
+  },
+  {
+    "key": "2026-08-30 21:59:31 +0200|Loosen Up|HUGEL & Dawty & Preston Harris",
+    "played_at": "2026-08-30 21:59:31 +0200",
+    "title": "Loosen Up",
+    "artist": "HUGEL & Dawty & Preston Harris"
   }
 ]

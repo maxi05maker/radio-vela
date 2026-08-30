@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 278,
-    "music_entries": 259,
+    "total_entries": 280,
+    "music_entries": 261,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -78,6 +78,11 @@
       {
         "artist": "Tiësto feat. Tate McRae",
         "title": "10:35",
+        "plays": 2
+      },
+      {
+        "artist": "HUGEL & Dawty & Preston Harris",
+        "title": "Loosen Up",
         "plays": 2
       },
       {
@@ -213,11 +218,6 @@
       {
         "artist": "Ariana Grande",
         "title": "twilight zone",
-        "plays": 1
-      },
-      {
-        "artist": "HUGEL & Dawty & Preston Harris",
-        "title": "Loosen Up",
         "plays": 1
       },
       {
@@ -1113,6 +1113,11 @@
       {
         "artist": "Lana Del Rey",
         "title": "Henry, Come On",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Oxígeno",
         "plays": 1
       }
     ],
