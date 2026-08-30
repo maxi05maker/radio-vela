@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 289,
-    "music_entries": 269,
+    "total_entries": 291,
+    "music_entries": 271,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -1153,6 +1153,16 @@
       {
         "artist": "Olivia Rodrigo",
         "title": "good 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "The Beatsteaks",
+        "title": "Against All Logic",
+        "plays": 1
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
         "plays": 1
       }
     ],

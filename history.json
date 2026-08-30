@@ -1732,5 +1732,17 @@
     "played_at": "2026-08-30 22:28:11 +0200",
     "title": "good 4 u",
     "artist": "Olivia Rodrigo"
+  },
+  {
+    "key": "2026-08-30 22:31:09 +0200|Against All Logic|The Beatsteaks",
+    "played_at": "2026-08-30 22:31:09 +0200",
+    "title": "Against All Logic",
+    "artist": "The Beatsteaks"
+  },
+  {
+    "key": "2026-08-30 22:34:45 +0200|Slow It Down|Benson Boone",
+    "played_at": "2026-08-30 22:34:45 +0200",
+    "title": "Slow It Down",
+    "artist": "Benson Boone"
   }
 ]
