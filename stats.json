@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 202,
-    "music_entries": 188,
+    "total_entries": 204,
+    "music_entries": 190,
     "songs": [
       {
         "artist": "Clueso",
@@ -843,6 +843,16 @@
       {
         "artist": "King Gizzard & The Lizard Wizard",
         "title": "Field of Vision",
+        "plays": 1
+      },
+      {
+        "artist": "Rosalía",
+        "title": "DESPECHÁ RMX",
+        "plays": 1
+      },
+      {
+        "artist": "Andreas Bourani",
+        "title": "Auf uns",
         "plays": 1
       }
     ],
