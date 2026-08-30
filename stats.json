@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 274,
-    "music_entries": 255,
+    "total_entries": 276,
+    "music_entries": 257,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1098,6 +1098,16 @@
       {
         "artist": "Sugababes",
         "title": "Run For Cover",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Higher Power",
+        "plays": 1
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Keine Tränen",
         "plays": 1
       }
     ],
