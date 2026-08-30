@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 244,
-    "music_entries": 228,
+    "total_entries": 247,
+    "music_entries": 230,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -988,6 +988,16 @@
       {
         "artist": "My Chemical Romance",
         "title": "The Foundations of Decay",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
         "plays": 1
       }
     ],
