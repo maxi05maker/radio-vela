@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 369,
-    "music_entries": 337,
+    "total_entries": 371,
+    "music_entries": 339,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -388,6 +388,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 2
+      },
+      {
+        "artist": "Hurts/Purple Disco Machine",
+        "title": "Wonderful Life '25",
         "plays": 2
       },
       {
@@ -841,11 +846,6 @@
         "plays": 1
       },
       {
-        "artist": "Hurts/Purple Disco Machine",
-        "title": "Wonderful Life '25",
-        "plays": 1
-      },
-      {
         "artist": "Ray Vaughn",
         "title": "Hoe Era",
         "plays": 1
@@ -1283,6 +1283,11 @@
       {
         "artist": "Olivia Rodrigo",
         "title": "drivers license",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At The Disco",
+        "title": "Middle of a breakup",
         "plays": 1
       }
     ],
