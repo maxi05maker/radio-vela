@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 265,
-    "music_entries": 246,
+    "total_entries": 267,
+    "music_entries": 248,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -103,6 +103,11 @@
       {
         "artist": "Revolverheld",
         "title": "Abreißen",
+        "plays": 2
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kaleidoskop",
         "plays": 2
       },
       {
@@ -268,11 +273,6 @@
       {
         "artist": "Kneecap",
         "title": "Sayōnara feat. Paul Hartnoll",
-        "plays": 1
-      },
-      {
-        "artist": "Johannes Oerding",
-        "title": "Kaleidoskop",
         "plays": 1
       },
       {
@@ -1063,6 +1063,11 @@
       {
         "artist": "Samara Cyn",
         "title": "Brand New Teeth feat. Smino",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
         "plays": 1
       }
     ],
