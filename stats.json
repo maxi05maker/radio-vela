@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 425,
-    "music_entries": 389,
+    "total_entries": 427,
+    "music_entries": 391,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -458,6 +458,11 @@
       {
         "artist": "Nico Santos",
         "title": "Human Being",
+        "plays": 2
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
         "plays": 2
       },
       {
@@ -1011,11 +1016,6 @@
         "plays": 1
       },
       {
-        "artist": "Frans",
-        "title": "If I Were Sorry",
-        "plays": 1
-      },
-      {
         "artist": "Swedish House Mafia",
         "title": "Wait So Long",
         "plays": 1
@@ -1448,6 +1448,11 @@
       {
         "artist": "Wa22ermann",
         "title": "Schulhof",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
         "plays": 1
       }
     ],
