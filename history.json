@@ -2482,5 +2482,23 @@
     "played_at": "2026-08-30 05:42:32 +0200",
     "title": "Small Steps",
     "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-08-30 05:45:18 +0200|FEVER DREAM|Alex Warren",
+    "played_at": "2026-08-30 05:45:18 +0200",
+    "title": "FEVER DREAM",
+    "artist": "Alex Warren"
+  },
+  {
+    "key": "2026-08-30 05:47:46 +0200|As It Was|Harry Styles",
+    "played_at": "2026-08-30 05:47:46 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-08-30 05:50:33 +0200|Verdammt ich lieb' dich|Mike Singer",
+    "played_at": "2026-08-30 05:50:33 +0200",
+    "title": "Verdammt ich lieb' dich",
+    "artist": "Mike Singer"
   }
 ]

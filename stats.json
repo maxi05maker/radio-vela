@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 414,
-    "music_entries": 380,
+    "total_entries": 417,
+    "music_entries": 383,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -386,6 +386,11 @@
         "plays": 2
       },
       {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 2
+      },
+      {
         "artist": "Tove Lo",
         "title": "Habits (Stay High)",
         "plays": 2
@@ -603,11 +608,6 @@
       {
         "artist": "Namika feat. Black M",
         "title": "Je Ne Parle Pas Français (Beatgees Remix)",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -1418,6 +1418,16 @@
       {
         "artist": "Starley",
         "title": "Call on Me",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Verdammt ich lieb' dich",
         "plays": 1
       }
     ],
