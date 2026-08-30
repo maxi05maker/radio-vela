@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 236,
-    "music_entries": 220,
+    "total_entries": 238,
+    "music_entries": 222,
     "songs": [
       {
         "artist": "Clueso",
@@ -108,6 +108,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
         "plays": 2
       },
       {
@@ -318,11 +323,6 @@
       {
         "artist": "Madonna",
         "title": "I Feel So Free",
-        "plays": 1
-      },
-      {
-        "artist": "Måneskin",
-        "title": "I WANNA BE YOUR SLAVE",
         "plays": 1
       },
       {
@@ -963,6 +963,11 @@
       {
         "artist": "Luis Fonsi feat. Demi Lovato",
         "title": "Échame La Culpa",
+        "plays": 1
+      },
+      {
+        "artist": "Mine",
+        "title": "Eiscreme",
         "plays": 1
       }
     ],
