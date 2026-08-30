@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 271,
-    "music_entries": 252,
+    "total_entries": 274,
+    "music_entries": 255,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1083,6 +1083,21 @@
       {
         "artist": "Lady Gaga",
         "title": "The Joker",
+        "plays": 1
+      },
+      {
+        "artist": "Sophie & The Giants",
+        "title": "Golden Nights",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Run For Cover",
         "plays": 1
       }
     ],

@@ -1624,5 +1624,23 @@
     "played_at": "2026-08-30 21:29:56 +0200",
     "title": "The Joker",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-08-30 21:32:50 +0200|Golden Nights|Sophie & The Giants",
+    "played_at": "2026-08-30 21:32:50 +0200",
+    "title": "Golden Nights",
+    "artist": "Sophie & The Giants"
+  },
+  {
+    "key": "2026-08-30 21:35:50 +0200|Ich darf das|Shirin David",
+    "played_at": "2026-08-30 21:35:50 +0200",
+    "title": "Ich darf das",
+    "artist": "Shirin David"
+  },
+  {
+    "key": "2026-08-30 21:38:22 +0200|Run For Cover|Sugababes",
+    "played_at": "2026-08-30 21:38:22 +0200",
+    "title": "Run For Cover",
+    "artist": "Sugababes"
   }
 ]
