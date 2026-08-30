@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 342,
-    "music_entries": 313,
+    "total_entries": 346,
+    "music_entries": 315,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -376,6 +376,11 @@
         "plays": 2
       },
       {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 2
+      },
+      {
         "artist": "Tom Gregory",
         "title": "Small Steps",
         "plays": 2
@@ -568,11 +573,6 @@
       {
         "artist": "Gracie Abrams",
         "title": "Look at My Life",
-        "plays": 1
-      },
-      {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
         "plays": 1
       },
       {
@@ -1178,6 +1178,11 @@
       {
         "artist": "NLE The Great",
         "title": "KO",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn JHart",
+        "title": "PRIDE",
         "plays": 1
       }
     ],
