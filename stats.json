@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 161,
-    "music_entries": 149,
+    "total_entries": 164,
+    "music_entries": 152,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
@@ -26,6 +26,11 @@
         "plays": 2
       },
       {
+        "artist": "Tiësto, Charli XCX",
+        "title": "Hot In It",
+        "plays": 2
+      },
+      {
         "artist": "NLE The Great",
         "title": "KO",
         "plays": 2
@@ -43,6 +48,11 @@
       {
         "artist": "Radio Karen",
         "title": "Die Beste Musik Nonstop",
+        "plays": 2
+      },
+      {
+        "artist": "Tiësto feat. Tate McRae",
+        "title": "10:35",
         "plays": 2
       },
       {
@@ -111,18 +121,8 @@
         "plays": 1
       },
       {
-        "artist": "Tiësto, Charli XCX",
-        "title": "Hot In It",
-        "plays": 1
-      },
-      {
         "artist": "Ariana Grande",
         "title": "twilight zone",
-        "plays": 1
-      },
-      {
-        "artist": "Tiësto feat. Tate McRae",
-        "title": "10:35",
         "plays": 1
       },
       {
@@ -693,6 +693,11 @@
       {
         "artist": "Swedish House Mafia & The Weeknd",
         "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Romy",
+        "title": "Love Who You Love",
         "plays": 1
       }
     ],
