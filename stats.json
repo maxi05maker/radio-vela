@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 67,
-    "music_entries": 62,
+    "total_entries": 70,
+    "music_entries": 65,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -313,6 +313,21 @@
       {
         "artist": "James Arthur & You Me At Six",
         "title": "Lose My Mind",
+        "plays": 1
+      },
+      {
+        "artist": "ABBA",
+        "title": "Little Things",
+        "plays": 1
+      },
+      {
+        "artist": "Rise Against",
+        "title": "Nod",
+        "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
         "plays": 1
       }
     ],
