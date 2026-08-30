@@ -340,5 +340,17 @@
     "played_at": "2026-08-30 09:53:28 +0200",
     "title": "Yearning feat. Yoni Wolf",
     "artist": "Atmosphere"
+  },
+  {
+    "key": "2026-08-30 09:56:41 +0200|Tanzen|Clueso",
+    "played_at": "2026-08-30 09:56:41 +0200",
+    "title": "Tanzen",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-08-30 09:59:29 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-08-30 09:59:29 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
   }
 ]

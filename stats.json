@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 57,
-    "music_entries": 53,
+    "total_entries": 59,
+    "music_entries": 55,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -268,6 +268,16 @@
       {
         "artist": "Atmosphere",
         "title": "Yearning feat. Yoni Wolf",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Tanzen",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 1
       }
     ],
