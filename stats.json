@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 177,
-    "music_entries": 164,
+    "total_entries": 179,
+    "music_entries": 166,
     "songs": [
       {
         "artist": "Clueso",
@@ -733,6 +733,16 @@
       {
         "artist": "Halsey",
         "title": "Lucky",
+        "plays": 1
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Last Time I Saw You",
+        "plays": 1
+      },
+      {
+        "artist": "Joel Corry & Tom Grennan",
+        "title": "Lionheart (Fearless)",
         "plays": 1
       }
     ],
