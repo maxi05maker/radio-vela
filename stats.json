@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 328,
-    "music_entries": 304,
+    "total_entries": 331,
+    "music_entries": 306,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -163,6 +163,11 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
         "plays": 2
       },
       {
@@ -578,11 +583,6 @@
       {
         "artist": "Jonas Brothers",
         "title": "Only Human",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Old Phone",
         "plays": 1
       },
       {
@@ -1308,6 +1308,11 @@
       {
         "artist": "Tyla",
         "title": "Tyla - IS IT",
+        "plays": 1
+      },
+      {
+        "artist": "Paramore",
+        "title": "The news",
         "plays": 1
       }
     ],
