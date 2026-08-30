@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 32,
-    "music_entries": 30,
+    "total_entries": 34,
+    "music_entries": 32,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -153,6 +153,16 @@
       {
         "artist": "Ed Sheeran",
         "title": "Shivers",
+        "plays": 1
+      },
+      {
+        "artist": "Blackberry Smoke",
+        "title": "Run Away from It All",
+        "plays": 1
+      },
+      {
+        "artist": "Gestört Aber GeiL x SkinnyJewlz",
+        "title": "Wenn du da bist",
         "plays": 1
       }
     ],
