@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 179,
-    "music_entries": 166,
+    "total_entries": 182,
+    "music_entries": 169,
     "songs": [
       {
         "artist": "Clueso",
@@ -743,6 +743,21 @@
       {
         "artist": "Joel Corry & Tom Grennan",
         "title": "Lionheart (Fearless)",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Jake Shears",
+        "title": "Fire + Ice (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Nevermind",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay X BTS",
+        "title": "My Universe",
         "plays": 1
       }
     ],
