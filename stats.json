@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 383,
-    "music_entries": 351,
+    "total_entries": 386,
+    "music_entries": 353,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -13,6 +13,11 @@
       {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
+        "plays": 3
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 3
       },
       {
@@ -338,11 +343,6 @@
       {
         "artist": "Jungle",
         "title": "Busy Earnin'",
-        "plays": 2
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
         "plays": 2
       },
       {
@@ -1328,6 +1328,11 @@
       {
         "artist": "Twocolors & Georgie Keller",
         "title": "Feel It 2",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
         "plays": 1
       }
     ],
