@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 13,
-    "music_entries": 12,
+    "total_entries": 15,
+    "music_entries": 14,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -63,6 +63,16 @@
       {
         "artist": "twocolors, Pascal Letoublon",
         "title": "Break Up",
+        "plays": 1
+      },
+      {
+        "artist": "Franz Ferdinand",
+        "title": "Night Or Day",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
         "plays": 1
       }
     ],
