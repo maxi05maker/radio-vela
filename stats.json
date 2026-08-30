@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 325,
-    "music_entries": 301,
+    "total_entries": 328,
+    "music_entries": 304,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -188,6 +188,11 @@
       {
         "artist": "Swedish House Mafia & The Weeknd",
         "title": "Moth To A Flame",
+        "plays": 2
+      },
+      {
+        "artist": "Iron Maiden",
+        "title": "Senjutsu",
         "plays": 2
       },
       {
@@ -776,11 +781,6 @@
         "plays": 1
       },
       {
-        "artist": "Iron Maiden",
-        "title": "Senjutsu",
-        "plays": 1
-      },
-      {
         "artist": "Madonna & Kylie Minogue",
         "title": "Love Sensation (Afterhours Radio Edit)",
         "plays": 1
@@ -1298,6 +1298,16 @@
       {
         "artist": "Halsey",
         "title": "Ego",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Weekend Lover",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla",
+        "title": "Tyla - IS IT",
         "plays": 1
       }
     ],
