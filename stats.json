@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 182,
-    "music_entries": 169,
+    "total_entries": 184,
+    "music_entries": 171,
     "songs": [
       {
         "artist": "Clueso",
@@ -88,6 +88,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Physical",
         "plays": 2
       },
       {
@@ -293,11 +298,6 @@
       {
         "artist": "Måneskin",
         "title": "I WANNA BE YOUR SLAVE",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "Physical",
         "plays": 1
       },
       {
@@ -758,6 +758,11 @@
       {
         "artist": "Coldplay X BTS",
         "title": "My Universe",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "I'M HIS, HE'S MINE ft. Doechii",
         "plays": 1
       }
     ],

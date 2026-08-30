@@ -1090,5 +1090,17 @@
     "played_at": "2026-08-30 16:34:25 +0200",
     "title": "My Universe",
     "artist": "Coldplay X BTS"
+  },
+  {
+    "key": "2026-08-30 16:38:13 +0200|I'M HIS, HE'S MINE ft. Doechii|Katy Perry",
+    "played_at": "2026-08-30 16:38:13 +0200",
+    "title": "I'M HIS, HE'S MINE ft. Doechii",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-08-30 16:41:32 +0200|Physical|Dua Lipa",
+    "played_at": "2026-08-30 16:41:32 +0200",
+    "title": "Physical",
+    "artist": "Dua Lipa"
   }
 ]
