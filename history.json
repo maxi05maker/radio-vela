@@ -694,5 +694,17 @@
     "played_at": "2026-08-30 13:07:58 +0200",
     "title": "If I Were Sorry",
     "artist": "Frans"
+  },
+  {
+    "key": "2026-08-30 13:11:02 +0200|Fata Morgana|Nina Chuba x Tokio Hotel",
+    "played_at": "2026-08-30 13:11:02 +0200",
+    "title": "Fata Morgana",
+    "artist": "Nina Chuba x Tokio Hotel"
+  },
+  {
+    "key": "2026-08-30 13:14:55 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-30 13:14:55 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
