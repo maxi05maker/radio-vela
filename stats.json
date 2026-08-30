@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 25,
-    "music_entries": 23,
+    "total_entries": 27,
+    "music_entries": 25,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -118,6 +118,16 @@
       {
         "artist": "Finch (feat. Blümchen)",
         "title": "Herzalarm",
+        "plays": 1
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Troubles A’ Comin",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA",
+        "title": "Renn!",
         "plays": 1
       }
     ],
