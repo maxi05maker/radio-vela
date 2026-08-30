@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 76,
-    "music_entries": 71,
+    "total_entries": 78,
+    "music_entries": 73,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -358,6 +358,16 @@
       {
         "artist": "OneRepublic",
         "title": "Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "My Reminder",
+        "plays": 1
+      },
+      {
+        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
+        "title": "VIEWS",
         "plays": 1
       }
     ],

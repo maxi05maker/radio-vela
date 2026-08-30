@@ -454,5 +454,17 @@
     "played_at": "2026-08-30 10:58:43 +0200",
     "title": "Sunshine",
     "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-08-30 11:01:27 +0200|My Reminder|Charli XCX",
+    "played_at": "2026-08-30 11:01:27 +0200",
+    "title": "My Reminder",
+    "artist": "Charli XCX"
+  },
+  {
+    "key": "2026-08-30 11:05:01 +0200|VIEWS|Noga Erez feat. Reo Cragun & ROUSSO",
+    "played_at": "2026-08-30 11:05:01 +0200",
+    "title": "VIEWS",
+    "artist": "Noga Erez feat. Reo Cragun & ROUSSO"
   }
 ]
