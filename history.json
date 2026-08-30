@@ -1426,5 +1426,17 @@
     "played_at": "2026-08-30 19:45:07 +0200",
     "title": "Eiscreme",
     "artist": "Mine"
+  },
+  {
+    "key": "2026-08-30 19:48:23 +0200|WHERE IS MY HUSBAND!|RAYE",
+    "played_at": "2026-08-30 19:48:23 +0200",
+    "title": "WHERE IS MY HUSBAND!",
+    "artist": "RAYE"
+  },
+  {
+    "key": "2026-08-30 19:51:40 +0200|Hold Me Closer|Elton John, Britney Spears",
+    "played_at": "2026-08-30 19:51:40 +0200",
+    "title": "Hold Me Closer",
+    "artist": "Elton John, Britney Spears"
   }
 ]
