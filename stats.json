@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 301,
-    "music_entries": 280,
+    "total_entries": 304,
+    "music_entries": 283,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -1203,6 +1203,21 @@
       {
         "artist": "Yungblud",
         "title": "Memories",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Bandaids",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "No Tears Left To Cry",
         "plays": 1
       }
     ],
