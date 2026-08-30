@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 59,
-    "music_entries": 55,
+    "total_entries": 61,
+    "music_entries": 57,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -278,6 +278,16 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna",
+        "title": "I Feel So Free",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
         "plays": 1
       }
     ],

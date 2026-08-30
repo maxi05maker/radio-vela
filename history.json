@@ -352,5 +352,17 @@
     "played_at": "2026-08-30 09:59:29 +0200",
     "title": "So Happy It Hurts",
     "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-08-30 10:03:03 +0200|I Feel So Free|Madonna",
+    "played_at": "2026-08-30 10:03:03 +0200",
+    "title": "I Feel So Free",
+    "artist": "Madonna"
+  },
+  {
+    "key": "2026-08-30 10:08:00 +0200|I WANNA BE YOUR SLAVE|Måneskin",
+    "played_at": "2026-08-30 10:08:00 +0200",
+    "title": "I WANNA BE YOUR SLAVE",
+    "artist": "Måneskin"
   }
 ]
