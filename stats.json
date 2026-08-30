@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 360,
-    "music_entries": 329,
+    "total_entries": 362,
+    "music_entries": 331,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1248,6 +1248,16 @@
       {
         "artist": "Zoe Wees",
         "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba & Makko",
+        "title": "Fucked Up feat. makko",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "Attention",
         "plays": 1
       }
     ],
