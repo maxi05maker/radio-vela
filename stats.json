@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 212,
-    "music_entries": 197,
+    "total_entries": 215,
+    "music_entries": 200,
     "songs": [
       {
         "artist": "Clueso",
@@ -883,6 +883,21 @@
       {
         "artist": "Gwen Stefani",
         "title": "Swallow My Tears",
+        "plays": 1
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Frank Popp Ensemble",
+        "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey feat. Kool Savas",
+        "title": "Is It Love?",
         "plays": 1
       }
     ],
