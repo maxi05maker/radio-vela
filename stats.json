@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 185,
-    "music_entries": 172,
+    "total_entries": 186,
+    "music_entries": 173,
     "songs": [
       {
         "artist": "Clueso",
@@ -768,6 +768,11 @@
       {
         "artist": "Iron Maiden",
         "title": "Senjutsu",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna & Kylie Minogue",
+        "title": "Love Sensation (Afterhours Radio Edit)",
         "plays": 1
       }
     ],
