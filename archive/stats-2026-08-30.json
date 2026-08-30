@@ -1,0 +1,1495 @@
+{
+  "2026-08-30": {
+    "period_start": "2026-08-29T07:00:00+02:00",
+    "period_end": "2026-08-30T07:00:00+02:00",
+    "total_entries": 435,
+    "music_entries": 398,
+    "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 6
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 3
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 3
+      },
+      {
+        "artist": "Tokio Hotel",
+        "title": "Rette Mich",
+        "plays": 3
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 3
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 3
+      },
+      {
+        "artist": "Coldplay",
+        "title": "A Sky Full Of Stars",
+        "plays": 2
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 2
+      },
+      {
+        "artist": "Peter Fox",
+        "title": "Haus am See",
+        "plays": 2
+      },
+      {
+        "artist": "Monet192",
+        "title": "tout",
+        "plays": 2
+      },
+      {
+        "artist": "Olly Murs feat. Rizzle Kicks",
+        "title": "Heart Skips A Beat",
+        "plays": 2
+      },
+      {
+        "artist": "Arcade Fire",
+        "title": "Unconditional I",
+        "plays": 2
+      },
+      {
+        "artist": "Aloe Blacc",
+        "title": "Loving You Is Killing Me",
+        "plays": 2
+      },
+      {
+        "artist": "MGMT",
+        "title": "Electric Feel",
+        "plays": 2
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Hot N Cold",
+        "plays": 2
+      },
+      {
+        "artist": "Adele",
+        "title": "Skyfall",
+        "plays": 2
+      },
+      {
+        "artist": "Maroon 5 Feat. Christina Aguilera",
+        "title": "Moves Like Jagger",
+        "plays": 2
+      },
+      {
+        "artist": "David Guetta & Sia",
+        "title": "Beautiful People",
+        "plays": 2
+      },
+      {
+        "artist": "Alexandra Stan",
+        "title": "Mr Saxobeat",
+        "plays": 2
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Firework",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Patrick Kelly Feat. Gentleman",
+        "title": "Id",
+        "plays": 2
+      },
+      {
+        "artist": "Lil Tecca",
+        "title": "Owa Owa",
+        "plays": 2
+      },
+      {
+        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+        "title": "Waiting on the sky to change",
+        "plays": 2
+      },
+      {
+        "artist": "Loreen",
+        "title": "Euphoria",
+        "plays": 2
+      },
+      {
+        "artist": "Metronomy",
+        "title": "The Look",
+        "plays": 2
+      },
+      {
+        "artist": "Gotye Feat. Kimbra",
+        "title": "Somebody that I Used to Know",
+        "plays": 2
+      },
+      {
+        "artist": "Swiss & die Andern",
+        "title": "Erstmal zu Penny",
+        "plays": 2
+      },
+      {
+        "artist": "Provinz & Danger Dan",
+        "title": "Unsere Bank",
+        "plays": 2
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Wolken",
+        "plays": 2
+      },
+      {
+        "artist": "Echosmith",
+        "title": "Cool Kids",
+        "plays": 2
+      },
+      {
+        "artist": "Paramore",
+        "title": "The news",
+        "plays": 2
+      },
+      {
+        "artist": "Ich + Ich",
+        "title": "Pflaster",
+        "plays": 2
+      },
+      {
+        "artist": "The White Stripes",
+        "title": "My Doorbell",
+        "plays": 2
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 2
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Budapest",
+        "plays": 2
+      },
+      {
+        "artist": "Addison Rae",
+        "title": "Headphones On",
+        "plays": 2
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
+        "plays": 2
+      },
+      {
+        "artist": "Alma",
+        "title": "Dye My Hair",
+        "plays": 2
+      },
+      {
+        "artist": "Pharrell Williams",
+        "title": "Happy",
+        "plays": 2
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
+        "plays": 2
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 2
+      },
+      {
+        "artist": "Marteria",
+        "title": "9 Leben (Eins übrig)",
+        "plays": 2
+      },
+      {
+        "artist": "The 1975",
+        "title": "About You",
+        "plays": 2
+      },
+      {
+        "artist": "Obongjayar",
+        "title": "Sweet Danger",
+        "plays": 2
+      },
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
+        "plays": 2
+      },
+      {
+        "artist": "AWOLNATION",
+        "title": "Sail",
+        "plays": 2
+      },
+      {
+        "artist": "Sia",
+        "title": "Never Give Up",
+        "plays": 2
+      },
+      {
+        "artist": "Saba & No I.D.",
+        "title": "Crash feat. Kelly Rowland & Raphael Saadiq",
+        "plays": 2
+      },
+      {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
+        "plays": 2
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Du tust mir nie mehr weh",
+        "plays": 2
+      },
+      {
+        "artist": "La Roux",
+        "title": "Uptight Downtown",
+        "plays": 2
+      },
+      {
+        "artist": "Florence + the Machine",
+        "title": "Shake It Out",
+        "plays": 2
+      },
+      {
+        "artist": "Takida",
+        "title": "In Spite of Everything",
+        "plays": 2
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 2
+      },
+      {
+        "artist": "Yungblud",
+        "title": "Memories",
+        "plays": 2
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Ain't Your Mama",
+        "plays": 2
+      },
+      {
+        "artist": "Purple Disco Machine, Alison Goldfrapp",
+        "title": "Dream Machine",
+        "plays": 2
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "No Tears Left To Cry",
+        "plays": 2
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 2
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Starboy (feat. Daft Punk)",
+        "plays": 2
+      },
+      {
+        "artist": "Sia feat. Sean Paul",
+        "title": "Cheap Thrills",
+        "plays": 2
+      },
+      {
+        "artist": "Phoenix",
+        "title": "Lisztomania",
+        "plays": 2
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
+        "plays": 2
+      },
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
+        "plays": 2
+      },
+      {
+        "artist": "Culcha Candela",
+        "title": "Hamma!",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Sign of the Times",
+        "plays": 2
+      },
+      {
+        "artist": "Marteria",
+        "title": "Lila Wolken",
+        "plays": 2
+      },
+      {
+        "artist": "Empire Of The Sun",
+        "title": "We Are The People",
+        "plays": 2
+      },
+      {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
+        "plays": 2
+      },
+      {
+        "artist": "Jungle",
+        "title": "Busy Earnin'",
+        "plays": 2
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Higher Power",
+        "plays": 2
+      },
+      {
+        "artist": "Eli Preiss",
+        "title": "Was ist der Prei$$",
+        "plays": 2
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Count On Me",
+        "plays": 2
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "All About That Bass",
+        "plays": 2
+      },
+      {
+        "artist": "Bastille",
+        "title": "Things We Lost In The Fire",
+        "plays": 2
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Leichtes Gepäck",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
+        "plays": 2
+      },
+      {
+        "artist": "We Are Scientists",
+        "title": "Less from You",
+        "plays": 2
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 2
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 2
+      },
+      {
+        "artist": "Hurts/Purple Disco Machine",
+        "title": "Wonderful Life '25",
+        "plays": 2
+      },
+      {
+        "artist": "Foals",
+        "title": "2AM",
+        "plays": 2
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Whatever It Takes",
+        "plays": 2
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Hass auf den letzten Blick",
+        "plays": 2
+      },
+      {
+        "artist": "WILLOW",
+        "title": "it's my fault",
+        "plays": 2
+      },
+      {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
+        "plays": 2
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 2
+      },
+      {
+        "artist": "Sportfreunde Stiller",
+        "title": "'54, '74, '90, 2006",
+        "plays": 2
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 2
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
+        "plays": 2
+      },
+      {
+        "artist": "The Chainsmokers feat. Daya",
+        "title": "Don't Let Me Down",
+        "plays": 2
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "That’s So True",
+        "plays": 1
+      },
+      {
+        "artist": "The Marías",
+        "title": "Back To Me",
+        "plays": 1
+      },
+      {
+        "artist": "Lune",
+        "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Cry For Me",
+        "plays": 1
+      },
+      {
+        "artist": "HAIM",
+        "title": "Everybody's trying to figure me out",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "sombr",
+        "title": "Homewrecker",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Daisies",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster",
+        "title": "Wir sind groß",
+        "plays": 1
+      },
+      {
+        "artist": "Helloween",
+        "title": "This Is Tokyo",
+        "plays": 1
+      },
+      {
+        "artist": "Volbeat",
+        "title": "In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom",
+        "plays": 1
+      },
+      {
+        "artist": "AFROJACK, Sia, David Guetta",
+        "title": "Awake Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "White Lies",
+        "title": "Keep Up",
+        "plays": 1
+      },
+      {
+        "artist": "Damiano David, Tyla, Nile Rodgers",
+        "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Illegal",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Henry, Come On",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub, Domiziana",
+        "title": "Unsterblich sein ( ) feat. Domiziana",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "Drum Show",
+        "plays": 1
+      },
+      {
+        "artist": "Fontaines D.C.",
+        "title": "Favourite",
+        "plays": 1
+      },
+      {
+        "artist": "Kitana",
+        "title": "Hell On Earth",
+        "plays": 1
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Nur dir gehör'n",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "I'M HIS, HE'S MINE ft. Doechii",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Underneath the Tree",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "das leben ist... [Explicit]",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "twilight zone",
+        "plays": 1
+      },
+      {
+        "artist": "Boy",
+        "title": "Little Numbers",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL & Dawty & Preston Harris",
+        "title": "Loosen Up",
+        "plays": 1
+      },
+      {
+        "artist": "The Lemonheads",
+        "title": "Deep End",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Azizam",
+        "plays": 1
+      },
+      {
+        "artist": "Namika feat. Black M",
+        "title": "Je Ne Parle Pas Français (Beatgees Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Roar",
+        "plays": 1
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "Look at My Life",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "The Moon Cave",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + the Machine",
+        "title": "Dog Days Are Over",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla & Zara Larsson",
+        "title": "SHE DID IT AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Alejandro",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Dani California",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Timberlake",
+        "title": "Mirrors",
+        "plays": 1
+      },
+      {
+        "artist": "j-hope, Miguel",
+        "title": "Sweet Dreams (feat. Miguel)",
+        "plays": 1
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Locked Out Of Heaven",
+        "plays": 1
+      },
+      {
+        "artist": "J Balvin",
+        "title": "Rio",
+        "plays": 1
+      },
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
+        "plays": 1
+      },
+      {
+        "artist": "Belle And Sebastian",
+        "title": "Funny Little Frog",
+        "plays": 1
+      },
+      {
+        "artist": "BTS",
+        "title": "SWIM",
+        "plays": 1
+      },
+      {
+        "artist": "Psy",
+        "title": "Gangnam Style",
+        "plays": 1
+      },
+      {
+        "artist": "Shaggy feat. Trix & Flix",
+        "title": "Feel The Rush",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Stay With Me",
+        "plays": 1
+      },
+      {
+        "artist": "KADAVAR",
+        "title": "Scar On My Guitar",
+        "plays": 1
+      },
+      {
+        "artist": "Jason Derulo Feat. 2 Chainz",
+        "title": "Talk Dirty",
+        "plays": 1
+      },
+      {
+        "artist": "The Last Dinner Party",
+        "title": "The Scythe",
+        "plays": 1
+      },
+      {
+        "artist": "Linkin Park",
+        "title": "Unshatter",
+        "plays": 1
+      },
+      {
+        "artist": "Dropkick Murphys",
+        "title": "Who'll Stand With Us?",
+        "plays": 1
+      },
+      {
+        "artist": "DCVDNS",
+        "title": "Sympathie Für Den Teufel",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "atzen & barbies (feat. ski aggu)",
+        "plays": 1
+      },
+      {
+        "artist": "J.Balvin, Feid",
+        "title": "Doblexxò",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Why Why Why",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
+      },
+      {
+        "artist": "Post Malone",
+        "title": "I Had Some Help (feat. Morgan Wallen)",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Schief in jedem Chor",
+        "plays": 1
+      },
+      {
+        "artist": "Jolle",
+        "title": "Große Freiheit",
+        "plays": 1
+      },
+      {
+        "artist": "Calum Scott",
+        "title": "My World",
+        "plays": 1
+      },
+      {
+        "artist": "Blue",
+        "title": "Waste My Love",
+        "plays": 1
+      },
+      {
+        "artist": "CHAPO102 x GUSTAV",
+        "title": "WARSCHAU",
+        "plays": 1
+      },
+      {
+        "artist": "Lisa",
+        "title": "Rockstar",
+        "plays": 1
+      },
+      {
+        "artist": "Ina Müller",
+        "title": "Weiber-WG",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Its ok Im ok",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Midnight Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Regalo",
+        "plays": 1
+      },
+      {
+        "artist": "LISA FEAT. DOJA CAT & RAYE",
+        "title": "BORN AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Mehr Glück als Verstand",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "LIFETIMES",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Retrosonix",
+        "title": "Ghost Town",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "JENNIE, Dua Lipa",
+        "title": "Handlebars",
+        "plays": 1
+      },
+      {
+        "artist": "Baxter Dury & JGrrey",
+        "title": "Return Of The Sharp Heads",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "FICKA",
+        "plays": 1
+      },
+      {
+        "artist": "Jorja Smith",
+        "title": "The Way I Love You",
+        "plays": 1
+      },
+      {
+        "artist": "Kevin Gates",
+        "title": "Big Lyfe",
+        "plays": 1
+      },
+      {
+        "artist": "Kylie Minogue & YouNotUs",
+        "title": "Someone For Me",
+        "plays": 1
+      },
+      {
+        "artist": "Jonathan Jeremiah & Till Bronner",
+        "title": "We Come Alive",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Manchild",
+        "plays": 1
+      },
+      {
+        "artist": "Ray Vaughn",
+        "title": "Hoe Era",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "amaarae",
+        "title": "S.M.O.",
+        "plays": 1
+      },
+      {
+        "artist": "Tiësto, Charli XCX",
+        "title": "Hot In It",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba x Tokio Hotel",
+        "title": "Fata Morgana",
+        "plays": 1
+      },
+      {
+        "artist": "Finch (feat. Blümchen)",
+        "title": "Herzalarm",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Romy",
+        "title": "Love Who You Love",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Sag Mir Was Du Willst",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "Heathens",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "2 hands",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler & Topic",
+        "title": "Solo Para Ti",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5",
+        "title": "Priceless ft. LISA",
+        "plays": 1
+      },
+      {
+        "artist": "Lauren Spencer-Smith",
+        "title": "Flowers",
+        "plays": 1
+      },
+      {
+        "artist": "Diana Ross & Tame Impala",
+        "title": "Turn Up The Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "THE BLACK CROWES",
+        "title": "Pharmacy Chronicles",
+        "plays": 1
+      },
+      {
+        "artist": "Milky Chance & Jack Johnson",
+        "title": "Don't Let Me Down",
+        "plays": 1
+      },
+      {
+        "artist": "twocolors, Pascal Letoublon",
+        "title": "Break Up",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Oldschool Love",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld",
+        "title": "Abreißen",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "3 Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Cameron",
+        "title": "Best Life",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "plays": 1
+      },
+      {
+        "artist": "Tiësto feat. Tate McRae",
+        "title": "10:35",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
+        "plays": 1
+      },
+      {
+        "artist": "Gestört Aber GeiL x SkinnyJewlz",
+        "title": "Wenn du da bist",
+        "plays": 1
+      },
+      {
+        "artist": "Father John Misty",
+        "title": "She Cleans Up",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shivers",
+        "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "FKA twigs",
+        "title": "Childlike Things",
+        "plays": 1
+      },
+      {
+        "artist": "LAYLA",
+        "title": "Poster Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Kneecap",
+        "title": "Sayōnara feat. Paul Hartnoll",
+        "plays": 1
+      },
+      {
+        "artist": "Paramore",
+        "title": "Hard Times",
+        "plays": 1
+      },
+      {
+        "artist": "Jeremias",
+        "title": "Ich mags",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "CRO, jolle",
+        "title": "Märchenwald",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Run",
+        "plays": 1
+      },
+      {
+        "artist": "SDP & Montez",
+        "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kaleidoskop",
+        "plays": 1
+      },
+      {
+        "artist": "Die Toten Hosen",
+        "title": "Tage wie diese",
+        "plays": 1
+      },
+      {
+        "artist": "Sophia Kennedy",
+        "title": "Rodeo",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Flugmodus",
+        "plays": 1
+      },
+      {
+        "artist": "Mayberg",
+        "title": "Der neue Stil meiner Generation",
+        "plays": 1
+      },
+      {
+        "artist": "RAF Camora, Ufo361",
+        "title": "Ocean",
+        "plays": 1
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Troubles A’ Comin",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "When You're Gone",
+        "plays": 1
+      },
+      {
+        "artist": "The Cribs",
+        "title": "Dark Luck",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "2 Die 4",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Kopf aus",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Tanzen",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Open Hearts",
+        "plays": 1
+      },
+      {
+        "artist": "Blackberry Smoke",
+        "title": "Run Away from It All",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Physical",
+        "plays": 1
+      },
+      {
+        "artist": "NLE The Great",
+        "title": "KO",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn JHart",
+        "title": "PRIDE",
+        "plays": 1
+      },
+      {
+        "artist": "ABBA",
+        "title": "Little Things",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla",
+        "title": "Tyla - IS IT",
+        "plays": 1
+      },
+      {
+        "artist": "Ramon Roselly",
+        "title": "Eine Nacht",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
+        "plays": 1
+      },
+      {
+        "artist": "The Marías",
+        "title": "No One Noticed",
+        "plays": 1
+      },
+      {
+        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
+        "title": "VIEWS",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla",
+        "title": "Been Thinking",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Lucky",
+        "plays": 1
+      },
+      {
+        "artist": "102 Boyz",
+        "title": "Renne",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "With You",
+        "plays": 1
+      },
+      {
+        "artist": "Louis Tomlinson",
+        "title": "Palaces",
+        "plays": 1
+      },
+      {
+        "artist": "Sunrise Avenue",
+        "title": "I Help You Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba & Makko",
+        "title": "Fucked Up feat. makko",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "Attention",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Unsicher",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster, LEA",
+        "title": "Drei Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Easy On Me",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drivers license",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At The Disco",
+        "title": "Middle of a breakup",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "What a Man Gotta Do",
+        "plays": 1
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Twizzler",
+        "plays": 1
+      },
+      {
+        "artist": "James Arthur & You Me At Six",
+        "title": "Lose My Mind",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Remedy",
+        "plays": 1
+      },
+      {
+        "artist": "Chaka Khan",
+        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Only Human",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Ja",
+        "plays": 1
+      },
+      {
+        "artist": "Twocolors & Georgie Keller",
+        "title": "Feel It 2",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Miksu / Macloud/T-low",
+        "title": "Sehnsucht",
+        "plays": 1
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "title": "All You Ever Wanted",
+        "plays": 1
+      },
+      {
+        "artist": "Warhaus",
+        "title": "No Surprise",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Good 4 You",
+        "plays": 1
+      },
+      {
+        "artist": "Dara",
+        "title": "Bangaranga",
+        "plays": 1
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Abracadabra",
+        "plays": 1
+      },
+      {
+        "artist": "Archive",
+        "title": "City Walls",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo feat. DNCE",
+        "title": "Dancing Feet",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Wunderschön",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
+        "plays": 1
+      },
+      {
+        "artist": "Big Thief",
+        "title": "All Night All Day",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran, Lil Baby",
+        "title": "2step (feat. Lil Baby)",
+        "plays": 1
+      },
+      {
+        "artist": "The Beatsteaks",
+        "title": "Against All Logic",
+        "plays": 1
+      },
+      {
+        "artist": "Starley",
+        "title": "Call on Me",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Verdammt ich lieb' dich",
+        "plays": 1
+      },
+      {
+        "artist": "Sophie and the Giants",
+        "title": "Loser",
+        "plays": 1
+      },
+      {
+        "artist": "Portugal. The Man",
+        "title": "Tanana",
+        "plays": 1
+      },
+      {
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
+        "plays": 1
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Schulhof",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "plays": 1
+      },
+      {
+        "artist": "No Angels",
+        "title": "When the Angels Sing",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Less Than Zero",
+        "plays": 1
+      },
+      {
+        "artist": "Roisin Murphy",
+        "title": "You Know Me Better",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Jake Shears",
+        "title": "Fire + Ice (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "2001",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
+        "plays": 1
+      }
+    ],
+    "top_song": {
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 6
+    }
+  }
+}
