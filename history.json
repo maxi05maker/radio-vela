@@ -1852,5 +1852,35 @@
     "played_at": "2026-08-30 23:36:18 +0200",
     "title": "Awake Tonight",
     "artist": "AFROJACK, Sia, David Guetta"
+  },
+  {
+    "key": "2026-08-30 23:39:28 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-08-30 23:39:28 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-30 23:40:03 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-08-30 23:40:03 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-30 23:40:05 +0200|Sweet Dreams (feat. Miguel)|j-hope, Miguel",
+    "played_at": "2026-08-30 23:40:05 +0200",
+    "title": "Sweet Dreams (feat. Miguel)",
+    "artist": "j-hope, Miguel"
+  },
+  {
+    "key": "2026-08-30 23:42:54 +0200|Ex's & Oh's|Elle King",
+    "played_at": "2026-08-30 23:42:54 +0200",
+    "title": "Ex's & Oh's",
+    "artist": "Elle King"
+  },
+  {
+    "key": "2026-08-30 23:46:17 +0200|About You|The 1975",
+    "played_at": "2026-08-30 23:46:17 +0200",
+    "title": "About You",
+    "artist": "The 1975"
   }
 ]

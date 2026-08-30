@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 309,
-    "music_entries": 288,
+    "total_entries": 314,
+    "music_entries": 291,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -1238,6 +1238,21 @@
       {
         "artist": "AFROJACK, Sia, David Guetta",
         "title": "Awake Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "j-hope, Miguel",
+        "title": "Sweet Dreams (feat. Miguel)",
+        "plays": 1
+      },
+      {
+        "artist": "Elle King",
+        "title": "Ex's & Oh's",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "About You",
         "plays": 1
       }
     ],
