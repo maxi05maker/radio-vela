@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 87,
-    "music_entries": 81,
+    "total_entries": 89,
+    "music_entries": 83,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -408,6 +408,16 @@
       {
         "artist": "Djo",
         "title": "Basic Being Basic",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Ja",
+        "plays": 1
+      },
+      {
+        "artist": "Ramon Roselly",
+        "title": "Eine Nacht",
         "plays": 1
       }
     ],
