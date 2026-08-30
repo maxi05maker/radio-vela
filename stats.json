@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 396,
-    "music_entries": 363,
+    "total_entries": 399,
+    "music_entries": 366,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -421,6 +421,11 @@
         "plays": 2
       },
       {
+        "artist": "WILLOW",
+        "title": "it's my fault",
+        "plays": 2
+      },
+      {
         "artist": "Måneskin",
         "title": "I WANNA BE YOUR SLAVE",
         "plays": 2
@@ -428,6 +433,11 @@
       {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
+        "plays": 2
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
         "plays": 2
       },
       {
@@ -901,11 +911,6 @@
         "plays": 1
       },
       {
-        "artist": "WILLOW",
-        "title": "it's my fault",
-        "plays": 1
-      },
-      {
         "artist": "Swedish House Mafia & The Weeknd",
         "title": "Moth To A Flame",
         "plays": 1
@@ -993,11 +998,6 @@
       {
         "artist": "Alex Cameron",
         "title": "Best Life",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Human Being",
         "plays": 1
       },
       {
@@ -1368,6 +1368,11 @@
       {
         "artist": "Lady Gaga",
         "title": "Abracadabra",
+        "plays": 1
+      },
+      {
+        "artist": "Archive",
+        "title": "City Walls",
         "plays": 1
       }
     ],
