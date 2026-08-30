@@ -310,5 +310,17 @@
     "played_at": "2026-08-30 09:40:29 +0200",
     "title": "2 Die 4",
     "artist": "Tove Lo"
+  },
+  {
+    "key": "2026-08-30 09:43:35 +0200|When You're Gone|Shawn Mendes",
+    "played_at": "2026-08-30 09:43:35 +0200",
+    "title": "When You're Gone",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-08-30 09:46:26 +0200|Time To Dance|Paul Kalkbrenner",
+    "played_at": "2026-08-30 09:46:26 +0200",
+    "title": "Time To Dance",
+    "artist": "Paul Kalkbrenner"
   }
 ]
