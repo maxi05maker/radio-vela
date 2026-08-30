@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 386,
-    "music_entries": 353,
+    "total_entries": 388,
+    "music_entries": 355,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -168,6 +168,11 @@
       {
         "artist": "George Ezra",
         "title": "Budapest",
+        "plays": 2
+      },
+      {
+        "artist": "Addison Rae",
+        "title": "Headphones On",
         "plays": 2
       },
       {
@@ -453,11 +458,6 @@
       {
         "artist": "Justin Bieber",
         "title": "Daisies",
-        "plays": 1
-      },
-      {
-        "artist": "Addison Rae",
-        "title": "Headphones On",
         "plays": 1
       },
       {
@@ -1333,6 +1333,11 @@
       {
         "artist": "A1 x J1 & Tion Wayne",
         "title": "Night Away (Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Miksu / Macloud/T-low",
+        "title": "Sehnsucht",
         "plays": 1
       }
     ],
