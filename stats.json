@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 379,
-    "music_entries": 347,
+    "total_entries": 381,
+    "music_entries": 349,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -18,6 +18,11 @@
       {
         "artist": "Coldplay",
         "title": "A Sky Full Of Stars",
+        "plays": 2
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
         "plays": 2
       },
       {
@@ -399,11 +404,6 @@
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
         "plays": 2
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
       },
       {
         "artist": "Gracie Abrams",
@@ -1323,6 +1323,11 @@
       {
         "artist": "CRO",
         "title": "Ja",
+        "plays": 1
+      },
+      {
+        "artist": "Twocolors & Georgie Keller",
+        "title": "Feel It 2",
         "plays": 1
       }
     ],
