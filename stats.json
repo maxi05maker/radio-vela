@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 287,
-    "music_entries": 267,
+    "total_entries": 289,
+    "music_entries": 269,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -1143,6 +1143,16 @@
       {
         "artist": "Stray Kids",
         "title": "RUN IT",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Let it die",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
         "plays": 1
       }
     ],
