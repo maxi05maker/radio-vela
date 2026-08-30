@@ -2,12 +2,17 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 149,
-    "music_entries": 138,
+    "total_entries": 151,
+    "music_entries": 140,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
         "title": "Flowers",
+        "plays": 2
+      },
+      {
+        "artist": "Milky Chance & Jack Johnson",
+        "title": "Don't Let Me Down",
         "plays": 2
       },
       {
@@ -73,11 +78,6 @@
       {
         "artist": "Alvaro Soler & Topic",
         "title": "Solo Para Ti",
-        "plays": 1
-      },
-      {
-        "artist": "Milky Chance & Jack Johnson",
-        "title": "Don't Let Me Down",
         "plays": 1
       },
       {
@@ -658,6 +658,11 @@
       {
         "artist": "Alessia Cara",
         "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
         "plays": 1
       }
     ],
