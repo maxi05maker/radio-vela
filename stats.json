@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 144,
-    "music_entries": 133,
+    "total_entries": 145,
+    "music_entries": 134,
     "songs": [
       {
         "artist": "NLE The Great",
@@ -643,6 +643,11 @@
       {
         "artist": "Foals",
         "title": "2001",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Less Than Zero",
         "plays": 1
       }
     ],
