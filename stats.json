@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 19,
-    "music_entries": 18,
+    "total_entries": 23,
+    "music_entries": 22,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -93,6 +93,26 @@
       {
         "artist": "Die Toten Hosen",
         "title": "Tage wie diese",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "twilight zone",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Tiësto feat. Tate McRae",
+        "title": "10:35",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL & Dawty & Preston Harris",
+        "title": "Loosen Up",
         "plays": 1
       }
     ],
