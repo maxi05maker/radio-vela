@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 353,
-    "music_entries": 322,
+    "total_entries": 355,
+    "music_entries": 324,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1213,6 +1213,16 @@
       {
         "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
         "title": "VIEWS",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla",
+        "title": "Been Thinking",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Lucky",
         "plays": 1
       }
     ],
