@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 342,
-    "music_entries": 315,
+    "total_entries": 344,
+    "music_entries": 317,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -216,6 +216,11 @@
         "plays": 2
       },
       {
+        "artist": "Coldplay X BTS",
+        "title": "My Universe",
+        "plays": 2
+      },
+      {
         "artist": "Iron Maiden",
         "title": "Senjutsu",
         "plays": 2
@@ -223,6 +228,11 @@
       {
         "artist": "OneRepublic",
         "title": "Counting Stars",
+        "plays": 2
+      },
+      {
+        "artist": "Mine",
+        "title": "Elefant",
         "plays": 2
       },
       {
@@ -776,11 +786,6 @@
         "plays": 1
       },
       {
-        "artist": "Coldplay X BTS",
-        "title": "My Universe",
-        "plays": 1
-      },
-      {
         "artist": "Katy Perry",
         "title": "I'M HIS, HE'S MINE ft. Doechii",
         "plays": 1
@@ -813,11 +818,6 @@
       {
         "artist": "Myles Smith",
         "title": "Stay (If You Wanna Dance)",
-        "plays": 1
-      },
-      {
-        "artist": "Mine",
-        "title": "Elefant",
         "plays": 1
       },
       {
