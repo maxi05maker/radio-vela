@@ -34,5 +34,23 @@
     "played_at": "2026-08-30 07:16:46 +0200",
     "title": "Flowers",
     "artist": "Lauren Spencer-Smith"
+  },
+  {
+    "key": "2026-08-30 07:19:24 +0200|Run|OneRepublic",
+    "played_at": "2026-08-30 07:19:24 +0200",
+    "title": "Run",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-08-30 07:22:13 +0200|Movin' To The Sun|HUGEL, Imael Angel, Ultra Naté",
+    "played_at": "2026-08-30 07:22:13 +0200",
+    "title": "Movin' To The Sun",
+    "artist": "HUGEL, Imael Angel, Ultra Naté"
+  },
+  {
+    "key": "2026-08-30 07:24:35 +0200|Solo Para Ti|Alvaro Soler & Topic",
+    "played_at": "2026-08-30 07:24:35 +0200",
+    "title": "Solo Para Ti",
+    "artist": "Alvaro Soler & Topic"
   }
 ]
