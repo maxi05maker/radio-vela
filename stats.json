@@ -2,9 +2,14 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 261,
-    "music_entries": 243,
+    "total_entries": 263,
+    "music_entries": 245,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 3
+      },
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
@@ -111,11 +116,6 @@
         "plays": 2
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 2
-      },
-      {
         "artist": "Måneskin",
         "title": "I WANNA BE YOUR SLAVE",
         "plays": 2
@@ -138,6 +138,11 @@
       {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
+        "plays": 2
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 2
       },
       {
@@ -548,11 +553,6 @@
       {
         "artist": "Jessie Ware",
         "title": "Superbloom",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 1
       },
       {
@@ -1062,8 +1062,8 @@
       }
     ],
     "top_song": {
-      "artist": "Tom Gregory",
-      "title": "Small Steps",
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
       "plays": 3
     }
   }
