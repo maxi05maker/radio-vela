@@ -136,5 +136,17 @@
     "played_at": "2026-08-30 08:07:31 +0200",
     "title": "Loosen Up",
     "artist": "HUGEL & Dawty & Preston Harris"
+  },
+  {
+    "key": "2026-08-30 08:10:31 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-30 08:10:31 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-30 08:13:24 +0200|Herzalarm|Finch (feat. Blümchen)",
+    "played_at": "2026-08-30 08:13:24 +0200",
+    "title": "Herzalarm",
+    "artist": "Finch (feat. Blümchen)"
   }
 ]
