@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 188,
-    "music_entries": 174,
+    "total_entries": 191,
+    "music_entries": 177,
     "songs": [
       {
         "artist": "Clueso",
@@ -778,6 +778,21 @@
       {
         "artist": "OneRepublic",
         "title": "Counting Stars",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "DREAMING ON",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
         "plays": 1
       }
     ],
