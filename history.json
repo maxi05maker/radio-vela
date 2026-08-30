@@ -1888,5 +1888,17 @@
     "played_at": "2026-08-30 23:51:42 +0200",
     "title": "ALL MY LOVE",
     "artist": "Coldplay"
+  },
+  {
+    "key": "2026-08-30 23:55:24 +0200|Moves Like Jagger|Maroon 5 Feat. Christina Aguilera",
+    "played_at": "2026-08-30 23:55:24 +0200",
+    "title": "Moves Like Jagger",
+    "artist": "Maroon 5 Feat. Christina Aguilera"
+  },
+  {
+    "key": "2026-08-30 23:58:46 +0200|Cool Kids|Echosmith",
+    "played_at": "2026-08-30 23:58:46 +0200",
+    "title": "Cool Kids",
+    "artist": "Echosmith"
   }
 ]

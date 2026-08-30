@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 315,
-    "music_entries": 292,
+    "total_entries": 317,
+    "music_entries": 294,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -1258,6 +1258,16 @@
       {
         "artist": "Coldplay",
         "title": "ALL MY LOVE",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5 Feat. Christina Aguilera",
+        "title": "Moves Like Jagger",
+        "plays": 1
+      },
+      {
+        "artist": "Echosmith",
+        "title": "Cool Kids",
         "plays": 1
       }
     ],
