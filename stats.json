@@ -2,13 +2,18 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 409,
-    "music_entries": 375,
+    "total_entries": 412,
+    "music_entries": 378,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 5
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 3
       },
       {
         "artist": "OneRepublic",
@@ -93,11 +98,6 @@
       {
         "artist": "Katy Perry",
         "title": "Firework",
-        "plays": 2
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -1403,6 +1403,16 @@
       {
         "artist": "Michael Schulte",
         "title": "Remember Me",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran, Lil Baby",
+        "title": "2step (feat. Lil Baby)",
+        "plays": 1
+      },
+      {
+        "artist": "The Beatsteaks",
+        "title": "Against All Logic",
         "plays": 1
       }
     ],
