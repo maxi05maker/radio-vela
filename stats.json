@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 433,
-    "music_entries": 396,
+    "total_entries": 435,
+    "music_entries": 398,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -463,6 +463,11 @@
       {
         "artist": "Frans",
         "title": "If I Were Sorry",
+        "plays": 2
+      },
+      {
+        "artist": "The Chainsmokers feat. Daya",
+        "title": "Don't Let Me Down",
         "plays": 2
       },
       {
@@ -1076,11 +1081,6 @@
         "plays": 1
       },
       {
-        "artist": "The Chainsmokers feat. Daya",
-        "title": "Don't Let Me Down",
-        "plays": 1
-      },
-      {
         "artist": "CRO, jolle",
         "title": "Märchenwald",
         "plays": 1
@@ -1478,6 +1478,11 @@
       {
         "artist": "Foals",
         "title": "2001",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
         "plays": 1
       }
     ],
