@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 175,
-    "music_entries": 163,
+    "total_entries": 177,
+    "music_entries": 164,
     "songs": [
       {
         "artist": "Clueso",
@@ -728,6 +728,11 @@
       {
         "artist": "CRO, jolle",
         "title": "Märchenwald",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Lucky",
         "plays": 1
       }
     ],
