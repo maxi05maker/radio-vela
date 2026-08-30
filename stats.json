@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 89,
-    "music_entries": 83,
+    "total_entries": 92,
+    "music_entries": 86,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -418,6 +418,21 @@
       {
         "artist": "Ramon Roselly",
         "title": "Eine Nacht",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Nur dir gehör'n",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster, LEA",
+        "title": "Drei Uhr Nachts",
         "plays": 1
       }
     ],
