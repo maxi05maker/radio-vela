@@ -2,9 +2,14 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 166,
-    "music_entries": 154,
+    "total_entries": 169,
+    "music_entries": 157,
     "songs": [
+      {
+        "artist": "Clueso",
+        "title": "Sag Mir Was Du Willst",
+        "plays": 2
+      },
       {
         "artist": "Lauren Spencer-Smith",
         "title": "Flowers",
@@ -83,11 +88,6 @@
       {
         "artist": "Die P",
         "title": "Off White",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Sag Mir Was Du Willst",
         "plays": 1
       },
       {
@@ -704,11 +704,21 @@
         "artist": "Wallows",
         "title": "Calling After Me",
         "plays": 1
+      },
+      {
+        "artist": "Enchanting",
+        "title": "Track And Field feat. Kaliii",
+        "plays": 1
+      },
+      {
+        "artist": "One-T, YWY, Nika",
+        "title": "The Way To Love (feat. YWY, Nika)",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Lauren Spencer-Smith",
-      "title": "Flowers",
+      "artist": "Clueso",
+      "title": "Sag Mir Was Du Willst",
       "plays": 2
     }
   }
