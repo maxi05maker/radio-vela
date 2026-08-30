@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 31,
-    "music_entries": 29,
+    "total_entries": 32,
+    "music_entries": 30,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -148,6 +148,11 @@
       {
         "artist": "Nico Santos",
         "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shivers",
         "plays": 1
       }
     ],
