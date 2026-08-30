@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 169,
-    "music_entries": 157,
+    "total_entries": 171,
+    "music_entries": 159,
     "songs": [
       {
         "artist": "Clueso",
@@ -713,6 +713,16 @@
       {
         "artist": "One-T, YWY, Nika",
         "title": "The Way To Love (feat. YWY, Nika)",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "Heathens",
+        "plays": 1
+      },
+      {
+        "artist": "Kevin Morby",
+        "title": "Die Young",
         "plays": 1
       }
     ],
