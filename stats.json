@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 99,
-    "music_entries": 93,
+    "total_entries": 101,
+    "music_entries": 94,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -468,6 +468,11 @@
       {
         "artist": "Lana Del Rey",
         "title": "White Feather Hawk Tail Deer Hunter",
+        "plays": 1
+      },
+      {
+        "artist": "Miksu / Macloud/T-low",
+        "title": "Sehnsucht",
         "plays": 1
       }
     ],
