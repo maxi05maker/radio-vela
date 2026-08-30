@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 197,
-    "music_entries": 183,
+    "total_entries": 200,
+    "music_entries": 186,
     "songs": [
       {
         "artist": "Clueso",
@@ -93,6 +93,11 @@
       {
         "artist": "Dua Lipa",
         "title": "Physical",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 2
       },
       {
@@ -428,11 +433,6 @@
       {
         "artist": "1986zig",
         "title": "Nur dir gehör'n",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -823,6 +823,16 @@
       {
         "artist": "Rihanna",
         "title": "Lift Me Up",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Madonna Whore Komplex",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga, Doechii",
+        "title": "Runway",
         "plays": 1
       }
     ],
