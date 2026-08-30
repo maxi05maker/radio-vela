@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 94,
-    "music_entries": 88,
+    "total_entries": 96,
+    "music_entries": 90,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -443,6 +443,16 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "title": "All You Ever Wanted",
+        "plays": 1
+      },
+      {
+        "artist": "amaarae",
+        "title": "S.M.O.",
         "plays": 1
       }
     ],
