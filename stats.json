@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 101,
-    "music_entries": 94,
+    "total_entries": 103,
+    "music_entries": 96,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -473,6 +473,16 @@
       {
         "artist": "Miksu / Macloud/T-low",
         "title": "Sehnsucht",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Baby Blue Movie",
         "plays": 1
       }
     ],
