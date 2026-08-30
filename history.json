@@ -784,5 +784,41 @@
     "played_at": "2026-08-30 13:57:39 +0200",
     "title": "Jingle 80,90er und das Beste von heute",
     "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-30 13:58:15 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-08-30 13:58:15 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-08-30 14:01:49 +0200|3 Uhr Nachts|Nina Chuba",
+    "played_at": "2026-08-30 14:01:49 +0200",
+    "title": "3 Uhr Nachts",
+    "artist": "Nina Chuba"
+  },
+  {
+    "key": "2026-08-30 14:04:01 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-08-30 14:04:01 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-30 14:04:02 +0200|2step (feat. Lil Baby)|Ed Sheeran, Lil Baby",
+    "played_at": "2026-08-30 14:04:02 +0200",
+    "title": "2step (feat. Lil Baby)",
+    "artist": "Ed Sheeran, Lil Baby"
+  },
+  {
+    "key": "2026-08-30 14:06:46 +0200|Together|David Guetta, Hypaton, Bonnie Tyler",
+    "played_at": "2026-08-30 14:06:46 +0200",
+    "title": "Together",
+    "artist": "David Guetta, Hypaton, Bonnie Tyler"
+  },
+  {
+    "key": "2026-08-30 14:09:19 +0200|You Know Me Better|Roisin Murphy",
+    "played_at": "2026-08-30 14:09:19 +0200",
+    "title": "You Know Me Better",
+    "artist": "Roisin Murphy"
   }
 ]

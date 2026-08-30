@@ -2,12 +2,17 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 131,
-    "music_entries": 122,
+    "total_entries": 137,
+    "music_entries": 127,
     "songs": [
       {
         "artist": "Nico Santos",
         "title": "Human Being",
+        "plays": 2
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 2
       },
       {
@@ -273,11 +278,6 @@
       {
         "artist": "Clueso",
         "title": "Tanzen",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 1
       },
       {
@@ -608,6 +608,26 @@
       {
         "artist": "Tate McRae",
         "title": "2 hands",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "3 Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran, Lil Baby",
+        "title": "2step (feat. Lil Baby)",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Hypaton, Bonnie Tyler",
+        "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "Roisin Murphy",
+        "title": "You Know Me Better",
         "plays": 1
       }
     ],
