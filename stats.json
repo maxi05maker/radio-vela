@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 34,
-    "music_entries": 32,
+    "total_entries": 36,
+    "music_entries": 34,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -163,6 +163,16 @@
       {
         "artist": "Gestört Aber GeiL x SkinnyJewlz",
         "title": "Wenn du da bist",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith, YUNGBLUD",
+        "title": "Problems",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld",
+        "title": "Abreißen",
         "plays": 1
       }
     ],
