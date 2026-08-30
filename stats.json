@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 92,
-    "music_entries": 86,
+    "total_entries": 94,
+    "music_entries": 88,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -433,6 +433,16 @@
       {
         "artist": "Mark Forster, LEA",
         "title": "Drei Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "SS26",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 1
       }
     ],
