@@ -484,5 +484,17 @@
     "played_at": "2026-08-30 11:13:07 +0200",
     "title": "A Fragile Thing",
     "artist": "The Cure"
+  },
+  {
+    "key": "2026-08-30 11:17:50 +0200|Señorita|Shawn Mendes & Camila Cabello",
+    "played_at": "2026-08-30 11:17:50 +0200",
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello"
+  },
+  {
+    "key": "2026-08-30 11:21:01 +0200|Been Thinking|Tyla",
+    "played_at": "2026-08-30 11:21:01 +0200",
+    "title": "Been Thinking",
+    "artist": "Tyla"
   }
 ]
