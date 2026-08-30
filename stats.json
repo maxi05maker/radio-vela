@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 118,
-    "music_entries": 110,
+    "total_entries": 120,
+    "music_entries": 112,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -553,6 +553,16 @@
       {
         "artist": "Nina Chuba x Tokio Hotel",
         "title": "Fata Morgana",
+        "plays": 1
+      },
+      {
+        "artist": "Starley",
+        "title": "Call on Me",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Whatever It Takes",
         "plays": 1
       }
     ],
