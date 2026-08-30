@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 36,
-    "music_entries": 34,
+    "total_entries": 38,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -173,6 +173,16 @@
       {
         "artist": "Revolverheld",
         "title": "Abreißen",
+        "plays": 1
+      },
+      {
+        "artist": "SDP & Montez",
+        "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Vergangenheit",
         "plays": 1
       }
     ],
