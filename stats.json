@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 335,
-    "music_entries": 310,
+    "total_entries": 338,
+    "music_entries": 311,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -223,6 +223,11 @@
       {
         "artist": "OneRepublic",
         "title": "Counting Stars",
+        "plays": 2
+      },
+      {
+        "artist": "Sleater-Kinney",
+        "title": "Worry With You",
         "plays": 2
       },
       {
@@ -838,11 +843,6 @@
       {
         "artist": "Lady Gaga, Doechii",
         "title": "Runway",
-        "plays": 1
-      },
-      {
-        "artist": "Sleater-Kinney",
-        "title": "Worry With You",
         "plays": 1
       },
       {
