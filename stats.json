@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 381,
-    "music_entries": 349,
+    "total_entries": 383,
+    "music_entries": 351,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -398,6 +398,16 @@
       {
         "artist": "Hurts/Purple Disco Machine",
         "title": "Wonderful Life '25",
+        "plays": 2
+      },
+      {
+        "artist": "Foals",
+        "title": "2AM",
+        "plays": 2
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Hass auf den letzten Blick",
         "plays": 2
       },
       {
@@ -871,11 +881,6 @@
         "plays": 1
       },
       {
-        "artist": "Foals",
-        "title": "2AM",
-        "plays": 1
-      },
-      {
         "artist": "Nina Chuba x Tokio Hotel",
         "title": "Fata Morgana",
         "plays": 1
@@ -888,11 +893,6 @@
       {
         "artist": "Finch (feat. Blümchen)",
         "title": "Herzalarm",
-        "plays": 1
-      },
-      {
-        "artist": "Wa22ermann",
-        "title": "Hass auf den letzten Blick",
         "plays": 1
       },
       {

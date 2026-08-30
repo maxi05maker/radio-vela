@@ -2284,5 +2284,17 @@
     "played_at": "2026-08-30 03:55:48 +0200",
     "title": "Feel It 2",
     "artist": "Twocolors & Georgie Keller"
+  },
+  {
+    "key": "2026-08-30 03:58:37 +0200|2AM|Foals",
+    "played_at": "2026-08-30 03:58:37 +0200",
+    "title": "2AM",
+    "artist": "Foals"
+  },
+  {
+    "key": "2026-08-30 04:02:21 +0200|Hass auf den letzten Blick|Wa22ermann",
+    "played_at": "2026-08-30 04:02:21 +0200",
+    "title": "Hass auf den letzten Blick",
+    "artist": "Wa22ermann"
   }
 ]
