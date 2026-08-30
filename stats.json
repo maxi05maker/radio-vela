@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 299,
-    "music_entries": 279,
+    "total_entries": 301,
+    "music_entries": 280,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -1198,6 +1198,11 @@
       {
         "artist": "Michael Schulte",
         "title": "Broken Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Yungblud",
+        "title": "Memories",
         "plays": 1
       }
     ],
