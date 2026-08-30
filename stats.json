@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 392,
-    "music_entries": 359,
+    "total_entries": 394,
+    "music_entries": 361,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -418,6 +418,11 @@
       {
         "artist": "Wa22ermann",
         "title": "Hass auf den letzten Blick",
+        "plays": 2
+      },
+      {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
         "plays": 2
       },
       {
@@ -916,11 +921,6 @@
         "plays": 1
       },
       {
-        "artist": "Måneskin",
-        "title": "I WANNA BE YOUR SLAVE",
-        "plays": 1
-      },
-      {
         "artist": "Ed Sheeran",
         "title": "Old Phone",
         "plays": 1
@@ -1353,6 +1353,11 @@
       {
         "artist": "Olivia Rodrigo",
         "title": "Good 4 You",
+        "plays": 1
+      },
+      {
+        "artist": "Dara",
+        "title": "Bangaranga",
         "plays": 1
       }
     ],
