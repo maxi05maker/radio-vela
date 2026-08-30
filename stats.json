@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 376,
-    "music_entries": 344,
+    "total_entries": 379,
+    "music_entries": 347,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1308,6 +1308,21 @@
       {
         "artist": "Leony",
         "title": "Remedy",
+        "plays": 1
+      },
+      {
+        "artist": "Chaka Khan",
+        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Only Human",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Ja",
         "plays": 1
       }
     ],
