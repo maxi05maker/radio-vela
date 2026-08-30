@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 114,
-    "music_entries": 107,
+    "total_entries": 116,
+    "music_entries": 109,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -538,6 +538,16 @@
       {
         "artist": "Ed Sheeran",
         "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
+        "plays": 1
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
         "plays": 1
       }
     ],
