@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 417,
-    "music_entries": 383,
+    "total_entries": 419,
+    "music_entries": 385,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -448,6 +448,11 @@
       {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
+        "plays": 2
+      },
+      {
+        "artist": "Sportfreunde Stiller",
+        "title": "'54, '74, '90, 2006",
         "plays": 2
       },
       {
@@ -946,11 +951,6 @@
         "plays": 1
       },
       {
-        "artist": "Sportfreunde Stiller",
-        "title": "'54, '74, '90, 2006",
-        "plays": 1
-      },
-      {
         "artist": "Maroon 5",
         "title": "Priceless ft. LISA",
         "plays": 1
@@ -1428,6 +1428,11 @@
       {
         "artist": "Mike Singer",
         "title": "Verdammt ich lieb' dich",
+        "plays": 1
+      },
+      {
+        "artist": "Sophie and the Giants",
+        "title": "Loser",
         "plays": 1
       }
     ],
