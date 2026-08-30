@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 193,
-    "music_entries": 179,
+    "total_entries": 195,
+    "music_entries": 181,
     "songs": [
       {
         "artist": "Clueso",
@@ -803,6 +803,16 @@
       {
         "artist": "Myles Smith",
         "title": "Stay (If You Wanna Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Mine",
+        "title": "Elefant",
+        "plays": 1
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Living In A Ghost Town",
         "plays": 1
       }
     ],
