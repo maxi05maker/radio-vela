@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 110,
-    "music_entries": 103,
+    "total_entries": 112,
+    "music_entries": 105,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -518,6 +518,16 @@
       {
         "artist": "Kygo feat. DNCE",
         "title": "Dancing Feet",
+        "plays": 1
+      },
+      {
+        "artist": "Jessie Ware",
+        "title": "Superbloom",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 1
       }
     ],
