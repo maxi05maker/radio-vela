@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 230,
-    "music_entries": 214,
+    "total_entries": 232,
+    "music_entries": 216,
     "songs": [
       {
         "artist": "Clueso",
@@ -128,6 +128,16 @@
       {
         "artist": "Frans",
         "title": "If I Were Sorry",
+        "plays": 2
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Whatever It Takes",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -561,11 +571,6 @@
         "plays": 1
       },
       {
-        "artist": "Imagine Dragons",
-        "title": "Whatever It Takes",
-        "plays": 1
-      },
-      {
         "artist": "Maroon 5",
         "title": "Priceless ft. LISA",
         "plays": 1
@@ -573,11 +578,6 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
