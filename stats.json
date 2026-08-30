@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 257,
-    "music_entries": 239,
+    "total_entries": 259,
+    "music_entries": 241,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -148,6 +148,11 @@
       {
         "artist": "Imagine Dragons",
         "title": "Whatever It Takes",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 2
       },
       {
@@ -578,11 +583,6 @@
       {
         "artist": "Maroon 5",
         "title": "Priceless ft. LISA",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
@@ -1043,6 +1043,11 @@
       {
         "artist": "Montez",
         "title": "Auf & Ab",
+        "plays": 1
+      },
+      {
+        "artist": "Lorde",
+        "title": "What Was That",
         "plays": 1
       }
     ],

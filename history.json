@@ -1540,5 +1540,17 @@
     "played_at": "2026-08-30 20:42:38 +0200",
     "title": "Auf & Ab",
     "artist": "Montez"
+  },
+  {
+    "key": "2026-08-30 20:45:24 +0200|What Was That|Lorde",
+    "played_at": "2026-08-30 20:45:24 +0200",
+    "title": "What Was That",
+    "artist": "Lorde"
+  },
+  {
+    "key": "2026-08-30 20:48:53 +0200|I Ain’t Worried|OneRepublic",
+    "played_at": "2026-08-30 20:48:53 +0200",
+    "title": "I Ain’t Worried",
+    "artist": "OneRepublic"
   }
 ]
