@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 140,
-    "music_entries": 129,
+    "total_entries": 142,
+    "music_entries": 131,
     "songs": [
       {
         "artist": "NLE The Great",
@@ -13,6 +13,11 @@
       {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
+        "plays": 2
+      },
+      {
+        "artist": "Die Toten Hosen",
+        "title": "Tage wie diese",
         "plays": 2
       },
       {
@@ -98,11 +103,6 @@
       {
         "artist": "Tiësto, Charli XCX",
         "title": "Hot In It",
-        "plays": 1
-      },
-      {
-        "artist": "Die Toten Hosen",
-        "title": "Tage wie diese",
         "plays": 1
       },
       {
@@ -628,6 +628,11 @@
       {
         "artist": "Roisin Murphy",
         "title": "You Know Me Better",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Verdammt ich lieb' dich",
         "plays": 1
       }
     ],

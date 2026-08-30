@@ -838,5 +838,17 @@
     "played_at": "2026-08-30 14:20:19 +0200",
     "title": "KO",
     "artist": "NLE The Great"
+  },
+  {
+    "key": "2026-08-30 14:23:49 +0200|Verdammt ich lieb' dich|Mike Singer",
+    "played_at": "2026-08-30 14:23:49 +0200",
+    "title": "Verdammt ich lieb' dich",
+    "artist": "Mike Singer"
+  },
+  {
+    "key": "2026-08-30 14:26:47 +0200|Tage wie diese|Die Toten Hosen",
+    "played_at": "2026-08-30 14:26:47 +0200",
+    "title": "Tage wie diese",
+    "artist": "Die Toten Hosen"
   }
 ]
