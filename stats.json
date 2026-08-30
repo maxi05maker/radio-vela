@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 367,
-    "music_entries": 335,
+    "total_entries": 369,
+    "music_entries": 337,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -63,6 +63,11 @@
       {
         "artist": "Maroon 5 Feat. Christina Aguilera",
         "title": "Moves Like Jagger",
+        "plays": 2
+      },
+      {
+        "artist": "David Guetta & Sia",
+        "title": "Beautiful People",
         "plays": 2
       },
       {
@@ -403,11 +408,6 @@
       {
         "artist": "Lune",
         "title": "Mann im Haus",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta & Sia",
-        "title": "Beautiful People",
         "plays": 1
       },
       {
@@ -1278,6 +1278,11 @@
       {
         "artist": "Adele",
         "title": "Easy On Me",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drivers license",
         "plays": 1
       }
     ],
