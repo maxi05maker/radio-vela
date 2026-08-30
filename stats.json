@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 72,
-    "music_entries": 67,
+    "total_entries": 74,
+    "music_entries": 69,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -338,6 +338,16 @@
       {
         "artist": "Foals",
         "title": "2AM",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "With You",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Dead Dance",
         "plays": 1
       }
     ],

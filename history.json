@@ -430,5 +430,17 @@
     "played_at": "2026-08-30 10:44:11 +0200",
     "title": "2AM",
     "artist": "Foals"
+  },
+  {
+    "key": "2026-08-30 10:47:56 +0200|With You|Michael Schulte",
+    "played_at": "2026-08-30 10:47:56 +0200",
+    "title": "With You",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-08-30 10:51:09 +0200|The Dead Dance|Lady Gaga",
+    "played_at": "2026-08-30 10:51:09 +0200",
+    "title": "The Dead Dance",
+    "artist": "Lady Gaga"
   }
 ]
