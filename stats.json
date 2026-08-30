@@ -2,12 +2,17 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 159,
-    "music_entries": 147,
+    "total_entries": 161,
+    "music_entries": 149,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
         "title": "Flowers",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Run",
         "plays": 2
       },
       {
@@ -73,11 +78,6 @@
       {
         "artist": "Giant Rooks",
         "title": "Mind Control",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "Run",
         "plays": 1
       },
       {
@@ -688,6 +688,11 @@
       {
         "artist": "FKA twigs",
         "title": "Childlike Things",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
         "plays": 1
       }
     ],
