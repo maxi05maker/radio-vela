@@ -1480,5 +1480,17 @@
     "played_at": "2026-08-30 20:13:58 +0200",
     "title": "High Hopes",
     "artist": "Panic! At the Disco"
+  },
+  {
+    "key": "2026-08-30 20:17:09 +0200|Masterplan|Kitty Kat",
+    "played_at": "2026-08-30 20:17:09 +0200",
+    "title": "Masterplan",
+    "artist": "Kitty Kat"
+  },
+  {
+    "key": "2026-08-30 20:20:09 +0200|Wunderschön|Zartmann",
+    "played_at": "2026-08-30 20:20:09 +0200",
+    "title": "Wunderschön",
+    "artist": "Zartmann"
   }
 ]
