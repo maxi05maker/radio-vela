@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 54,
-    "music_entries": 51,
+    "total_entries": 57,
+    "music_entries": 53,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -258,6 +258,16 @@
       {
         "artist": "Paul Kalkbrenner",
         "title": "Time To Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "Atmosphere",
+        "title": "Yearning feat. Yoni Wolf",
         "plays": 1
       }
     ],
