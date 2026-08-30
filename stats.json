@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 399,
-    "music_entries": 366,
+    "total_entries": 401,
+    "music_entries": 368,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1373,6 +1373,16 @@
       {
         "artist": "Archive",
         "title": "City Walls",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo feat. DNCE",
+        "title": "Dancing Feet",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Sunshine",
         "plays": 1
       }
     ],
