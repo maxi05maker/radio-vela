@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 184,
-    "music_entries": 171,
+    "total_entries": 185,
+    "music_entries": 172,
     "songs": [
       {
         "artist": "Clueso",
@@ -763,6 +763,11 @@
       {
         "artist": "Katy Perry",
         "title": "I'M HIS, HE'S MINE ft. Doechii",
+        "plays": 1
+      },
+      {
+        "artist": "Iron Maiden",
+        "title": "Senjutsu",
         "plays": 1
       }
     ],
