@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 96,
-    "music_entries": 90,
+    "total_entries": 99,
+    "music_entries": 93,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -453,6 +453,21 @@
       {
         "artist": "amaarae",
         "title": "S.M.O.",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "WILLOW",
+        "title": "it's my fault",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
         "plays": 1
       }
     ],
