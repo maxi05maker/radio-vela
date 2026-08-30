@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 406,
-    "music_entries": 372,
+    "total_entries": 407,
+    "music_entries": 373,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1398,6 +1398,11 @@
       {
         "artist": "Big Thief",
         "title": "All Night All Day",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
         "plays": 1
       }
     ],
