@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 304,
-    "music_entries": 283,
+    "total_entries": 306,
+    "music_entries": 285,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -188,6 +188,11 @@
       {
         "artist": "Swedish House Mafia & The Weeknd",
         "title": "Moth To A Flame",
+        "plays": 2
+      },
+      {
+        "artist": "Kwam.e & Ove",
+        "title": "Hallow Kitty",
         "plays": 2
       },
       {
@@ -911,11 +916,6 @@
         "plays": 1
       },
       {
-        "artist": "Kwam.e & Ove",
-        "title": "Hallow Kitty",
-        "plays": 1
-      },
-      {
         "artist": "Clueso",
         "title": "Deja-Vu",
         "plays": 1
@@ -1218,6 +1218,11 @@
       {
         "artist": "Ariana Grande",
         "title": "No Tears Left To Cry",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "A Little More",
         "plays": 1
       }
     ],
