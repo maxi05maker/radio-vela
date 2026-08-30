@@ -1744,5 +1744,17 @@
     "played_at": "2026-08-30 22:34:45 +0200",
     "title": "Slow It Down",
     "artist": "Benson Boone"
+  },
+  {
+    "key": "2026-08-30 22:37:26 +0200|Easy On Me|Adele",
+    "played_at": "2026-08-30 22:37:26 +0200",
+    "title": "Easy On Me",
+    "artist": "Adele"
+  },
+  {
+    "key": "2026-08-30 22:41:05 +0200|Rodeo|Sophia Kennedy",
+    "played_at": "2026-08-30 22:41:05 +0200",
+    "title": "Rodeo",
+    "artist": "Sophia Kennedy"
   }
 ]
