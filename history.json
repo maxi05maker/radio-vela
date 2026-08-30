@@ -1330,5 +1330,17 @@
     "played_at": "2026-08-30 18:50:24 +0200",
     "title": "Forgot How To Love",
     "artist": "Alle Farben"
+  },
+  {
+    "key": "2026-08-30 18:52:52 +0200|Dead End|Snail Mail",
+    "played_at": "2026-08-30 18:52:52 +0200",
+    "title": "Dead End",
+    "artist": "Snail Mail"
+  },
+  {
+    "key": "2026-08-30 18:56:57 +0200|Together|Sia",
+    "played_at": "2026-08-30 18:56:57 +0200",
+    "title": "Together",
+    "artist": "Sia"
   }
 ]

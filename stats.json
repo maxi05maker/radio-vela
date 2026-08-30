@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 222,
-    "music_entries": 207,
+    "total_entries": 224,
+    "music_entries": 209,
     "songs": [
       {
         "artist": "Clueso",
@@ -88,6 +88,11 @@
       {
         "artist": "Mayberg",
         "title": "Der neue Stil meiner Generation",
+        "plays": 2
+      },
+      {
+        "artist": "Sia",
+        "title": "Together",
         "plays": 2
       },
       {
@@ -288,11 +293,6 @@
       {
         "artist": "Paul Kalkbrenner",
         "title": "Time To Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Together",
         "plays": 1
       },
       {
@@ -923,6 +923,11 @@
       {
         "artist": "Alle Farben",
         "title": "Forgot How To Love",
+        "plays": 1
+      },
+      {
+        "artist": "Snail Mail",
+        "title": "Dead End",
         "plays": 1
       }
     ],
