@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 259,
-    "music_entries": 241,
+    "total_entries": 261,
+    "music_entries": 243,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -1048,6 +1048,16 @@
       {
         "artist": "Lorde",
         "title": "What Was That",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Doors",
         "plays": 1
       }
     ],
