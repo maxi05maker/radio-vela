@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 285,
-    "music_entries": 265,
+    "total_entries": 287,
+    "music_entries": 267,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -1133,6 +1133,16 @@
       {
         "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
         "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 1
+      },
+      {
+        "artist": "Stray Kids",
+        "title": "RUN IT",
         "plays": 1
       }
     ],
