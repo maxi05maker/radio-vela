@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 49,
-    "music_entries": 46,
+    "total_entries": 52,
+    "music_entries": 49,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -233,6 +233,21 @@
       {
         "artist": "Clueso",
         "title": "Flugmodus",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At The Disco",
+        "title": "Middle of a breakup",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & David Guetta",
+        "title": "Sad Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "2 Die 4",
         "plays": 1
       }
     ],
