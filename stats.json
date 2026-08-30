@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 215,
-    "music_entries": 200,
+    "total_entries": 219,
+    "music_entries": 204,
     "songs": [
       {
         "artist": "Clueso",
@@ -83,6 +83,11 @@
       {
         "artist": "Blackberry Smoke",
         "title": "Run Away from It All",
+        "plays": 2
+      },
+      {
+        "artist": "Mayberg",
+        "title": "Der neue Stil meiner Generation",
         "plays": 2
       },
       {
@@ -238,11 +243,6 @@
       {
         "artist": "Robin Schulz feat. CLOVES",
         "title": "Old Friend (Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "Mayberg",
-        "title": "Der neue Stil meiner Generation",
         "plays": 1
       },
       {
@@ -898,6 +898,21 @@
       {
         "artist": "Rea Garvey feat. Kool Savas",
         "title": "Is It Love?",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Don't Worry",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Love My Life",
+        "plays": 1
+      },
+      {
+        "artist": "Kwam.e & Ove",
+        "title": "Hallow Kitty",
         "plays": 1
       }
     ],
