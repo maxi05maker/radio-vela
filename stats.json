@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 421,
-    "music_entries": 387,
+    "total_entries": 425,
+    "music_entries": 389,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1438,6 +1438,16 @@
       {
         "artist": "Portugal. The Man",
         "title": "Tanana",
+        "plays": 1
+      },
+      {
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
+        "plays": 1
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Schulhof",
         "plays": 1
       }
     ],
