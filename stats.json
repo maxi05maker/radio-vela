@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 45,
-    "music_entries": 42,
+    "total_entries": 47,
+    "music_entries": 44,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -213,6 +213,16 @@
       {
         "artist": "Robin Schulz feat. CLOVES",
         "title": "Old Friend (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Mayberg",
+        "title": "Der neue Stil meiner Generation",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "What a Man Gotta Do",
         "plays": 1
       }
     ],
