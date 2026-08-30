@@ -226,5 +226,17 @@
     "played_at": "2026-08-30 08:56:44 +0200",
     "title": "Vergangenheit",
     "artist": "Bosse"
+  },
+  {
+    "key": "2026-08-30 09:00:06 +0200|Hard Times|Paramore",
+    "played_at": "2026-08-30 09:00:06 +0200",
+    "title": "Hard Times",
+    "artist": "Paramore"
+  },
+  {
+    "key": "2026-08-30 09:03:07 +0200|Poster Girl|LAYLA",
+    "played_at": "2026-08-30 09:03:07 +0200",
+    "title": "Poster Girl",
+    "artist": "LAYLA"
   }
 ]

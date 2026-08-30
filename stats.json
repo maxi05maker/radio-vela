@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 38,
-    "music_entries": 36,
+    "total_entries": 40,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -183,6 +183,16 @@
       {
         "artist": "Bosse",
         "title": "Vergangenheit",
+        "plays": 1
+      },
+      {
+        "artist": "Paramore",
+        "title": "Hard Times",
+        "plays": 1
+      },
+      {
+        "artist": "LAYLA",
+        "title": "Poster Girl",
         "plays": 1
       }
     ],
