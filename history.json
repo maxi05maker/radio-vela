@@ -376,5 +376,17 @@
     "played_at": "2026-08-30 10:13:45 +0200",
     "title": "Physical",
     "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-08-30 10:16:58 +0200|More to Lose|Miley Cyrus",
+    "played_at": "2026-08-30 10:16:58 +0200",
+    "title": "More to Lose",
+    "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-08-30 10:21:40 +0200|Clarity|Justin Jesso",
+    "played_at": "2026-08-30 10:21:40 +0200",
+    "title": "Clarity",
+    "artist": "Justin Jesso"
   }
 ]
