@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 151,
-    "music_entries": 140,
+    "total_entries": 152,
+    "music_entries": 141,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
@@ -663,6 +663,11 @@
       {
         "artist": "The 1975",
         "title": "Part Of The Band",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
         "plays": 1
       }
     ],
