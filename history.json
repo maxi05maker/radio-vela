@@ -2038,5 +2038,17 @@
     "played_at": "2026-08-30 01:52:23 +0200",
     "title": "Run Away from It All",
     "artist": "Blackberry Smoke"
+  },
+  {
+    "key": "2026-08-30 01:56:51 +0200|Physical|Dua Lipa",
+    "played_at": "2026-08-30 01:56:51 +0200",
+    "title": "Physical",
+    "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-08-30 02:00:04 +0200|KO|NLE The Great",
+    "played_at": "2026-08-30 02:00:04 +0200",
+    "title": "KO",
+    "artist": "NLE The Great"
   }
 ]
