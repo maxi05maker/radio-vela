@@ -1258,5 +1258,17 @@
     "played_at": "2026-08-30 18:13:17 +0200",
     "title": "Overpass Graffiti",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-08-30 18:17:14 +0200|Wenn's am schönsten ist|Silbermond",
+    "played_at": "2026-08-30 18:17:14 +0200",
+    "title": "Wenn's am schönsten ist",
+    "artist": "Silbermond"
+  },
+  {
+    "key": "2026-08-30 18:20:44 +0200|Swallow My Tears|Gwen Stefani",
+    "played_at": "2026-08-30 18:20:44 +0200",
+    "title": "Swallow My Tears",
+    "artist": "Gwen Stefani"
   }
 ]

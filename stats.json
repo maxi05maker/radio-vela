@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 210,
-    "music_entries": 195,
+    "total_entries": 212,
+    "music_entries": 197,
     "songs": [
       {
         "artist": "Clueso",
@@ -873,6 +873,16 @@
       {
         "artist": "Ed Sheeran",
         "title": "Overpass Graffiti",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Wenn's am schönsten ist",
+        "plays": 1
+      },
+      {
+        "artist": "Gwen Stefani",
+        "title": "Swallow My Tears",
         "plays": 1
       }
     ],
