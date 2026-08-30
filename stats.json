@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 152,
-    "music_entries": 141,
+    "total_entries": 155,
+    "music_entries": 144,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
@@ -43,6 +43,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
         "plays": 2
       },
       {
@@ -456,11 +461,6 @@
         "plays": 1
       },
       {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
-        "plays": 1
-      },
-      {
         "artist": "WILLOW",
         "title": "it's my fault",
         "plays": 1
@@ -668,6 +668,16 @@
       {
         "artist": "Noah Kahan",
         "title": "The Great Divide",
+        "plays": 1
+      },
+      {
+        "artist": "Sportfreunde Stiller",
+        "title": "'54, '74, '90, 2006",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
         "plays": 1
       }
     ],
