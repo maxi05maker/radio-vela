@@ -2,13 +2,18 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 403,
-    "music_entries": 370,
+    "total_entries": 406,
+    "music_entries": 372,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 5
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 3
       },
       {
         "artist": "Tokio Hotel",
@@ -208,11 +213,6 @@
       {
         "artist": "The 1975",
         "title": "About You",
-        "plays": 2
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
         "plays": 2
       },
       {
@@ -1393,6 +1393,11 @@
       {
         "artist": "The 1975",
         "title": "Part Of The Band",
+        "plays": 1
+      },
+      {
+        "artist": "Big Thief",
+        "title": "All Night All Day",
         "plays": 1
       }
     ],
