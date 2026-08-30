@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 429,
-    "music_entries": 393,
+    "total_entries": 431,
+    "music_entries": 395,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1463,6 +1463,16 @@
       {
         "artist": "The Weeknd",
         "title": "Less Than Zero",
+        "plays": 1
+      },
+      {
+        "artist": "Roisin Murphy",
+        "title": "You Know Me Better",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Jake Shears",
+        "title": "Fire + Ice (Radio Edit)",
         "plays": 1
       }
     ],
