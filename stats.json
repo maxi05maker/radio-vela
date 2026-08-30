@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 355,
-    "music_entries": 324,
+    "total_entries": 358,
+    "music_entries": 327,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1223,6 +1223,21 @@
       {
         "artist": "Halsey",
         "title": "Lucky",
+        "plays": 1
+      },
+      {
+        "artist": "102 Boyz",
+        "title": "Renne",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "With You",
+        "plays": 1
+      },
+      {
+        "artist": "Louis Tomlinson",
+        "title": "Palaces",
         "plays": 1
       }
     ],
