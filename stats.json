@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 297,
-    "music_entries": 277,
+    "total_entries": 299,
+    "music_entries": 279,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -1188,6 +1188,16 @@
       {
         "artist": "Meghan Trainor",
         "title": "All About That Bass",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Broken Sunshine",
         "plays": 1
       }
     ],

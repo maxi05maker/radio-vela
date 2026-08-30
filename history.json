@@ -1780,5 +1780,17 @@
     "played_at": "2026-08-30 22:56:39 +0200",
     "title": "All About That Bass",
     "artist": "Meghan Trainor"
+  },
+  {
+    "key": "2026-08-30 22:59:47 +0200|Strip|Lena",
+    "played_at": "2026-08-30 22:59:47 +0200",
+    "title": "Strip",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-08-30 23:02:34 +0200|Broken Sunshine|Michael Schulte",
+    "played_at": "2026-08-30 23:02:34 +0200",
+    "title": "Broken Sunshine",
+    "artist": "Michael Schulte"
   }
 ]
