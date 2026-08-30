@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 333,
-    "music_entries": 308,
+    "total_entries": 335,
+    "music_entries": 310,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -186,6 +186,11 @@
         "plays": 2
       },
       {
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
+        "plays": 2
+      },
+      {
         "artist": "FKA twigs",
         "title": "Childlike Things",
         "plays": 2
@@ -203,6 +208,11 @@
       {
         "artist": "Joel Corry & Tom Grennan",
         "title": "Lionheart (Fearless)",
+        "plays": 2
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Nevermind",
         "plays": 2
       },
       {
@@ -671,11 +681,6 @@
         "plays": 1
       },
       {
-        "artist": "Swedish House Mafia",
-        "title": "Wait So Long",
-        "plays": 1
-      },
-      {
         "artist": "Foals",
         "title": "2001",
         "plays": 1
@@ -763,11 +768,6 @@
       {
         "artist": "Purple Disco Machine feat. Jake Shears",
         "title": "Fire + Ice (Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "Dennis Lloyd",
-        "title": "Nevermind",
         "plays": 1
       },
       {
