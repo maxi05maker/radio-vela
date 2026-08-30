@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 164,
-    "music_entries": 152,
+    "total_entries": 166,
+    "music_entries": 154,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
@@ -13,6 +13,11 @@
       {
         "artist": "OneRepublic",
         "title": "Run",
+        "plays": 2
+      },
+      {
+        "artist": "Alvaro Soler & Topic",
+        "title": "Solo Para Ti",
         "plays": 2
       },
       {
@@ -93,11 +98,6 @@
       {
         "artist": "HUGEL, Imael Angel, Ultra Naté",
         "title": "Movin' To The Sun",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler & Topic",
-        "title": "Solo Para Ti",
         "plays": 1
       },
       {
@@ -698,6 +698,11 @@
       {
         "artist": "Romy",
         "title": "Love Who You Love",
+        "plays": 1
+      },
+      {
+        "artist": "Wallows",
+        "title": "Calling After Me",
         "plays": 1
       }
     ],
