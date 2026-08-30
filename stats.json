@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 351,
-    "music_entries": 320,
+    "total_entries": 353,
+    "music_entries": 322,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1203,6 +1203,16 @@
       {
         "artist": "Michael Patrick Kelly",
         "title": "Throwback",
+        "plays": 1
+      },
+      {
+        "artist": "The Marías",
+        "title": "No One Noticed",
+        "plays": 1
+      },
+      {
+        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
+        "title": "VIEWS",
         "plays": 1
       }
     ],
