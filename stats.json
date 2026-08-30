@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 348,
-    "music_entries": 317,
+    "total_entries": 351,
+    "music_entries": 320,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1188,6 +1188,21 @@
       {
         "artist": "ABBA",
         "title": "Little Things",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla",
+        "title": "Tyla - IS IT",
+        "plays": 1
+      },
+      {
+        "artist": "Ramon Roselly",
+        "title": "Eine Nacht",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
         "plays": 1
       }
     ],
