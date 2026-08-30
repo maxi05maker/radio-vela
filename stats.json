@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 47,
-    "music_entries": 44,
+    "total_entries": 49,
+    "music_entries": 46,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -223,6 +223,16 @@
       {
         "artist": "Jonas Brothers",
         "title": "What a Man Gotta Do",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, Whitney Houston",
+        "title": "Its Not Right But Its Okay",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Flugmodus",
         "plays": 1
       }
     ],
