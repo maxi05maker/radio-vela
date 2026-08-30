@@ -2,9 +2,14 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 123,
-    "music_entries": 115,
+    "total_entries": 127,
+    "music_entries": 119,
     "songs": [
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 2
+      },
       {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
@@ -143,11 +148,6 @@
       {
         "artist": "CHAPO102 x GUSTAV",
         "title": "WARSCHAU",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Human Being",
         "plays": 1
       },
       {
@@ -579,12 +579,27 @@
         "artist": "Tom Gregory",
         "title": "Small Steps",
         "plays": 1
+      },
+      {
+        "artist": "Farin Urlaub",
+        "title": "Sie (Single Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
+        "plays": 1
+      },
+      {
+        "artist": "Die Nerven",
+        "title": "Achtzehn",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "The Mary Onettes",
-      "title": "Hurricane Heart",
-      "plays": 1
+      "artist": "Nico Santos",
+      "title": "Human Being",
+      "plays": 2
     }
   }
 }
