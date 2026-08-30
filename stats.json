@@ -2,9 +2,14 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 240,
-    "music_entries": 224,
+    "total_entries": 243,
+    "music_entries": 227,
     "songs": [
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 3
+      },
       {
         "artist": "Clueso",
         "title": "Sag Mir Was Du Willst",
@@ -146,8 +151,8 @@
         "plays": 2
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
+        "artist": "FKA twigs",
+        "title": "Childlike Things",
         "plays": 2
       },
       {
@@ -686,11 +691,6 @@
         "plays": 1
       },
       {
-        "artist": "FKA twigs",
-        "title": "Childlike Things",
-        "plays": 1
-      },
-      {
         "artist": "Swedish House Mafia & The Weeknd",
         "title": "Moth To A Flame",
         "plays": 1
@@ -979,12 +979,17 @@
         "artist": "Elton John, Britney Spears",
         "title": "Hold Me Closer",
         "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Clueso",
-      "title": "Sag Mir Was Du Willst",
-      "plays": 2
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
+      "plays": 3
     }
   }
 }
