@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 307,
-    "music_entries": 286,
+    "total_entries": 309,
+    "music_entries": 288,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -1228,6 +1228,16 @@
       {
         "artist": "Lana Del Rey",
         "title": "Happiness Is A Butterfly",
+        "plays": 1
+      },
+      {
+        "artist": "The White Stripes",
+        "title": "My Doorbell",
+        "plays": 1
+      },
+      {
+        "artist": "AFROJACK, Sia, David Guetta",
+        "title": "Awake Tonight",
         "plays": 1
       }
     ],
