@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 173,
-    "music_entries": 161,
+    "total_entries": 175,
+    "music_entries": 163,
     "songs": [
       {
         "artist": "Clueso",
@@ -33,6 +33,11 @@
       {
         "artist": "Diana Ross & Tame Impala",
         "title": "Turn Up The Sunshine",
+        "plays": 2
+      },
+      {
+        "artist": "twocolors, Pascal Letoublon",
+        "title": "Break Up",
         "plays": 2
       },
       {
@@ -113,11 +118,6 @@
       {
         "artist": "Kehlani",
         "title": "Shoulda Never (feat. USHER)",
-        "plays": 1
-      },
-      {
-        "artist": "twocolors, Pascal Letoublon",
-        "title": "Break Up",
         "plays": 1
       },
       {
@@ -723,6 +723,11 @@
       {
         "artist": "Kevin Morby",
         "title": "Die Young",
+        "plays": 1
+      },
+      {
+        "artist": "CRO, jolle",
+        "title": "Märchenwald",
         "plays": 1
       }
     ],
