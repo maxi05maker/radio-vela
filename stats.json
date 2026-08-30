@@ -2,8 +2,8 @@
   "2026-08-29 07:00": {
     "period_start": "2026-08-29T07:00:00+02:00",
     "period_end": "2026-08-30T07:00:00+02:00",
-    "total_entries": 427,
-    "music_entries": 391,
+    "total_entries": 429,
+    "music_entries": 393,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1453,6 +1453,16 @@
       {
         "artist": "Adele",
         "title": "Hello",
+        "plays": 1
+      },
+      {
+        "artist": "No Angels",
+        "title": "When the Angels Sing",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Less Than Zero",
         "plays": 1
       }
     ],
