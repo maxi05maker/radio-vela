@@ -88,5 +88,23 @@
     "played_at": "2026-08-30 07:43:42 +0200",
     "title": "Nur die Musik",
     "artist": "JORIS"
+  },
+  {
+    "key": "2026-08-30 07:47:16 +0200|Hot In It|Tiësto, Charli XCX",
+    "played_at": "2026-08-30 07:47:16 +0200",
+    "title": "Hot In It",
+    "artist": "Tiësto, Charli XCX"
+  },
+  {
+    "key": "2026-08-30 07:49:26 +0200|KO|NLE The Great",
+    "played_at": "2026-08-30 07:49:26 +0200",
+    "title": "KO",
+    "artist": "NLE The Great"
+  },
+  {
+    "key": "2026-08-30 07:52:56 +0200|Rette Mich|Tokio Hotel",
+    "played_at": "2026-08-30 07:52:56 +0200",
+    "title": "Rette Mich",
+    "artist": "Tokio Hotel"
   }
 ]
