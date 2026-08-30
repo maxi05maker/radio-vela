@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 191,
-    "music_entries": 177,
+    "total_entries": 193,
+    "music_entries": 179,
     "songs": [
       {
         "artist": "Clueso",
@@ -793,6 +793,16 @@
       {
         "artist": "Florence + The Machine",
         "title": "Hunger",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Parallelwelt",
+        "plays": 1
+      },
+      {
+        "artist": "Myles Smith",
+        "title": "Stay (If You Wanna Dance)",
         "plays": 1
       }
     ],
