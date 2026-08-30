@@ -1342,5 +1342,17 @@
     "played_at": "2026-08-30 18:56:57 +0200",
     "title": "Together",
     "artist": "Sia"
+  },
+  {
+    "key": "2026-08-30 19:00:26 +0200|Bungalow|Bilderbuch",
+    "played_at": "2026-08-30 19:00:26 +0200",
+    "title": "Bungalow",
+    "artist": "Bilderbuch"
+  },
+  {
+    "key": "2026-08-30 19:04:11 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-30 19:04:11 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]

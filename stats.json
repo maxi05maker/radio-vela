@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 224,
-    "music_entries": 209,
+    "total_entries": 226,
+    "music_entries": 210,
     "songs": [
       {
         "artist": "Clueso",
@@ -928,6 +928,11 @@
       {
         "artist": "Snail Mail",
         "title": "Dead End",
+        "plays": 1
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "Bungalow",
         "plays": 1
       }
     ],
