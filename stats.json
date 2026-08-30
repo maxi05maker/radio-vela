@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 9,
-    "music_entries": 8,
+    "total_entries": 11,
+    "music_entries": 10,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -43,6 +43,16 @@
       {
         "artist": "Alvaro Soler & Topic",
         "title": "Solo Para Ti",
+        "plays": 1
+      },
+      {
+        "artist": "Milky Chance & Jack Johnson",
+        "title": "Don't Let Me Down",
+        "plays": 1
+      },
+      {
+        "artist": "Kehlani",
+        "title": "Shoulda Never (feat. USHER)",
         "plays": 1
       }
     ],
