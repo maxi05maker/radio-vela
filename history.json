@@ -1936,5 +1936,17 @@
     "played_at": "2026-08-31 00:19:20 +0200",
     "title": "Counting Stars",
     "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-08-31 00:23:37 +0200|Euphoria|Loreen",
+    "played_at": "2026-08-31 00:23:37 +0200",
+    "title": "Euphoria",
+    "artist": "Loreen"
+  },
+  {
+    "key": "2026-08-31 00:26:40 +0200|Ego|Halsey",
+    "played_at": "2026-08-31 00:26:40 +0200",
+    "title": "Ego",
+    "artist": "Halsey"
   }
 ]

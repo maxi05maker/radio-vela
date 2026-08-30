@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 323,
-    "music_entries": 299,
+    "total_entries": 325,
+    "music_entries": 301,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -1288,6 +1288,16 @@
       {
         "artist": "Arcade Fire",
         "title": "Year of the Snake",
+        "plays": 1
+      },
+      {
+        "artist": "Loreen",
+        "title": "Euphoria",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Ego",
         "plays": 1
       }
     ],
