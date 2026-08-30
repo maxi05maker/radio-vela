@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 338,
-    "music_entries": 311,
+    "total_entries": 339,
+    "music_entries": 312,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -1313,6 +1313,11 @@
       {
         "artist": "Paramore",
         "title": "The news",
+        "plays": 1
+      },
+      {
+        "artist": "MGMT",
+        "title": "Electric Feel",
         "plays": 1
       }
     ],
