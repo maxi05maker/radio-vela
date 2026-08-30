@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 157,
-    "music_entries": 145,
+    "total_entries": 159,
+    "music_entries": 147,
     "songs": [
       {
         "artist": "Lauren Spencer-Smith",
@@ -13,6 +13,11 @@
       {
         "artist": "Milky Chance & Jack Johnson",
         "title": "Don't Let Me Down",
+        "plays": 2
+      },
+      {
+        "artist": "Diana Ross & Tame Impala",
+        "title": "Turn Up The Sunshine",
         "plays": 2
       },
       {
@@ -88,11 +93,6 @@
       {
         "artist": "Kehlani",
         "title": "Shoulda Never (feat. USHER)",
-        "plays": 1
-      },
-      {
-        "artist": "Diana Ross & Tame Impala",
-        "title": "Turn Up The Sunshine",
         "plays": 1
       },
       {
@@ -683,6 +683,11 @@
       {
         "artist": "Meghan Trainor",
         "title": "Lips Are Movin",
+        "plays": 1
+      },
+      {
+        "artist": "FKA twigs",
+        "title": "Childlike Things",
         "plays": 1
       }
     ],
