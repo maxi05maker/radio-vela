@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 74,
-    "music_entries": 69,
+    "total_entries": 76,
+    "music_entries": 71,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -348,6 +348,16 @@
       {
         "artist": "Lady Gaga",
         "title": "The Dead Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Sunshine",
         "plays": 1
       }
     ],

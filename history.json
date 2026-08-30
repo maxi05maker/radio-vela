@@ -442,5 +442,17 @@
     "played_at": "2026-08-30 10:51:09 +0200",
     "title": "The Dead Dance",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-08-30 10:54:52 +0200|Control|Zoe Wees",
+    "played_at": "2026-08-30 10:54:52 +0200",
+    "title": "Control",
+    "artist": "Zoe Wees"
+  },
+  {
+    "key": "2026-08-30 10:58:43 +0200|Sunshine|OneRepublic",
+    "played_at": "2026-08-30 10:58:43 +0200",
+    "title": "Sunshine",
+    "artist": "OneRepublic"
   }
 ]
