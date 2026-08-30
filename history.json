@@ -1360,5 +1360,23 @@
     "played_at": "2026-08-30 19:07:04 +0200",
     "title": "The Moon Cave",
     "artist": "Gorillaz"
+  },
+  {
+    "key": "2026-08-30 19:12:01 +0200|Schwarz|LEA & Casper",
+    "played_at": "2026-08-30 19:12:01 +0200",
+    "title": "Schwarz",
+    "artist": "LEA & Casper"
+  },
+  {
+    "key": "2026-08-30 19:14:37 +0200|Abreißen|Revolverheld",
+    "played_at": "2026-08-30 19:14:37 +0200",
+    "title": "Abreißen",
+    "artist": "Revolverheld"
+  },
+  {
+    "key": "2026-08-30 19:17:27 +0200|GO|BLACKPINK",
+    "played_at": "2026-08-30 19:17:27 +0200",
+    "title": "GO",
+    "artist": "BLACKPINK"
   }
 ]
