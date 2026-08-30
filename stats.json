@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 129,
-    "music_entries": 121,
+    "total_entries": 131,
+    "music_entries": 122,
     "songs": [
       {
         "artist": "Nico Santos",
@@ -603,6 +603,11 @@
       {
         "artist": "Adele",
         "title": "Hello",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "2 hands",
         "plays": 1
       }
     ],
