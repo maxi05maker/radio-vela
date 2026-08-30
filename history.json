@@ -1168,5 +1168,17 @@
     "played_at": "2026-08-30 17:23:22 +0200",
     "title": "Living In A Ghost Town",
     "artist": "The Rolling Stones"
+  },
+  {
+    "key": "2026-08-30 17:27:29 +0200|Put Up feat. Quavo|Anycia",
+    "played_at": "2026-08-30 17:27:29 +0200",
+    "title": "Put Up feat. Quavo",
+    "artist": "Anycia"
+  },
+  {
+    "key": "2026-08-30 17:29:47 +0200|Lift Me Up|Rihanna",
+    "played_at": "2026-08-30 17:29:47 +0200",
+    "title": "Lift Me Up",
+    "artist": "Rihanna"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 195,
-    "music_entries": 181,
+    "total_entries": 197,
+    "music_entries": 183,
     "songs": [
       {
         "artist": "Clueso",
@@ -813,6 +813,16 @@
       {
         "artist": "The Rolling Stones",
         "title": "Living In A Ghost Town",
+        "plays": 1
+      },
+      {
+        "artist": "Anycia",
+        "title": "Put Up feat. Quavo",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Lift Me Up",
         "plays": 1
       }
     ],
