@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 219,
-    "music_entries": 204,
+    "total_entries": 222,
+    "music_entries": 207,
     "songs": [
       {
         "artist": "Clueso",
@@ -113,6 +113,11 @@
       {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
+        "plays": 2
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
         "plays": 2
       },
       {
@@ -546,11 +551,6 @@
         "plays": 1
       },
       {
-        "artist": "Frans",
-        "title": "If I Were Sorry",
-        "plays": 1
-      },
-      {
         "artist": "Nina Chuba x Tokio Hotel",
         "title": "Fata Morgana",
         "plays": 1
@@ -913,6 +913,16 @@
       {
         "artist": "Kwam.e & Ove",
         "title": "Hallow Kitty",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Deja-Vu",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben",
+        "title": "Forgot How To Love",
         "plays": 1
       }
     ],
