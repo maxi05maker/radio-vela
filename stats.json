@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 216,
-    "music_entries": 196,
+    "total_entries": 219,
+    "music_entries": 199,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -43,6 +43,11 @@
       {
         "artist": "AYLIVA",
         "title": "Renn!",
+        "plays": 2
+      },
+      {
+        "artist": "Mabel",
+        "title": "Mad Love",
         "plays": 2
       },
       {
@@ -323,11 +328,6 @@
       {
         "artist": "Luciano",
         "title": "Beautiful Girl",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel",
-        "title": "Mad Love",
         "plays": 1
       },
       {
@@ -903,6 +903,16 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello",
+        "title": "Godspeed",
+        "plays": 1
+      },
+      {
+        "artist": "Ramon Roselly",
+        "title": "Eine Nacht",
         "plays": 1
       }
     ],
