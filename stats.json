@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 394,
-    "music_entries": 364,
+    "total_entries": 396,
+    "music_entries": 366,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -338,6 +338,11 @@
       {
         "artist": "Mine",
         "title": "Eiscreme",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -991,11 +996,6 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
         "artist": "My Chemical Romance",
         "title": "The Foundations of Decay",
         "plays": 1
@@ -1403,6 +1403,11 @@
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Zach Bryan",
+        "title": "Pink Skies",
         "plays": 1
       }
     ],
