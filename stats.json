@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 204,
-    "music_entries": 185,
+    "total_entries": 207,
+    "music_entries": 188,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -63,6 +63,11 @@
       {
         "artist": "Shygirl",
         "title": "BDE (feat. slowthai)",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 2
       },
       {
@@ -831,11 +836,6 @@
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
         "artist": "Kygo feat. DNCE",
         "title": "Dancing Feet",
         "plays": 1
@@ -868,6 +868,16 @@
       {
         "artist": "Madonna",
         "title": "I Feel So Free",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
         "plays": 1
       }
     ],
