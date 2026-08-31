@@ -808,5 +808,17 @@
     "played_at": "2026-08-31 14:07:25 +0200",
     "title": "Unshatter",
     "artist": "Linkin Park"
+  },
+  {
+    "key": "2026-08-31 14:10:40 +0200|Allein sein|Mario Novembre",
+    "played_at": "2026-08-31 14:10:40 +0200",
+    "title": "Allein sein",
+    "artist": "Mario Novembre"
+  },
+  {
+    "key": "2026-08-31 14:13:40 +0200|Tage wie diese|Die Toten Hosen",
+    "played_at": "2026-08-31 14:13:40 +0200",
+    "title": "Tage wie diese",
+    "artist": "Die Toten Hosen"
   }
 ]
