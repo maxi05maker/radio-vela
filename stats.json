@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 350,
-    "music_entries": 318,
+    "total_entries": 352,
+    "music_entries": 320,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -88,6 +88,11 @@
       {
         "artist": "Mabel",
         "title": "Mad Love",
+        "plays": 2
+      },
+      {
+        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
+        "title": "Rebellion",
         "plays": 2
       },
       {
@@ -421,6 +426,11 @@
         "plays": 2
       },
       {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "plays": 2
+      },
+      {
         "artist": "Olivia Rodrigo",
         "title": "good 4 u",
         "plays": 1
@@ -646,11 +656,6 @@
         "plays": 1
       },
       {
-        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
-        "title": "Rebellion",
-        "plays": 1
-      },
-      {
         "artist": "Michael Schulte",
         "title": "Broken Sunshine",
         "plays": 1
@@ -848,11 +853,6 @@
       {
         "artist": "Felix Jaehn JHart",
         "title": "PRIDE",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes & Camila Cabello",
-        "title": "Señorita",
         "plays": 1
       },
       {
