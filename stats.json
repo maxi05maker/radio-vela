@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 120,
-    "music_entries": 108,
+    "total_entries": 121,
+    "music_entries": 109,
     "songs": [
       {
         "artist": "Clueso",
@@ -538,6 +538,11 @@
       {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Minimum",
         "plays": 1
       }
     ],
