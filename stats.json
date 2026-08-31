@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 281,
-    "music_entries": 256,
+    "total_entries": 282,
+    "music_entries": 257,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -1023,6 +1023,11 @@
       {
         "artist": "Romy",
         "title": "Love Who You Love",
+        "plays": 1
+      },
+      {
+        "artist": "Joe Bonamassa & Ivan Neville",
+        "title": "Ghetto Woman",
         "plays": 1
       }
     ],
