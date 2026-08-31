@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 423,
-    "music_entries": 391,
+    "total_entries": 425,
+    "music_entries": 393,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -13,6 +13,11 @@
       {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
+        "plays": 4
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 4
       },
       {
@@ -33,11 +38,6 @@
       {
         "artist": "Sia",
         "title": "Together",
-        "plays": 3
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 3
       },
       {
@@ -1448,6 +1448,11 @@
       {
         "artist": "Zara Larsson",
         "title": "Midnight Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Its ok Im ok",
         "plays": 1
       }
     ],
