@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 437,
-    "music_entries": 404,
+    "total_entries": 439,
+    "music_entries": 406,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -78,6 +78,11 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 3
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
         "plays": 3
       },
       {
@@ -228,11 +233,6 @@
       {
         "artist": "FKA twigs",
         "title": "Childlike Things",
-        "plays": 2
-      },
-      {
-        "artist": "Swedish House Mafia & The Weeknd",
-        "title": "Moth To A Flame",
         "plays": 2
       },
       {
@@ -443,6 +443,11 @@
       {
         "artist": "Yungblud",
         "title": "Memories",
+        "plays": 2
+      },
+      {
+        "artist": "The White Stripes",
+        "title": "My Doorbell",
         "plays": 2
       },
       {
@@ -1228,11 +1233,6 @@
       {
         "artist": "Lana Del Rey",
         "title": "Happiness Is A Butterfly",
-        "plays": 1
-      },
-      {
-        "artist": "The White Stripes",
-        "title": "My Doorbell",
         "plays": 1
       },
       {
