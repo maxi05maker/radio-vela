@@ -1708,5 +1708,23 @@
     "played_at": "2026-08-31 22:02:11 +0200",
     "title": "Märchenwald",
     "artist": "CRO, jolle"
+  },
+  {
+    "key": "2026-08-31 22:05:14 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-31 22:05:14 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-31 22:08:00 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-08-31 22:08:00 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-31 22:08:36 +0200|Der letzte Tag|Max Giesinger",
+    "played_at": "2026-08-31 22:08:36 +0200",
+    "title": "Der letzte Tag",
+    "artist": "Max Giesinger"
   }
 ]

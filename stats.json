@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 285,
-    "music_entries": 260,
+    "total_entries": 288,
+    "music_entries": 261,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -243,6 +243,11 @@
       {
         "artist": "Shygirl",
         "title": "BDE (feat. slowthai)",
+        "plays": 2
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
         "plays": 2
       },
       {
@@ -653,11 +658,6 @@
       {
         "artist": "LEA & Casper",
         "title": "Schwarz",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger",
-        "title": "Der letzte Tag",
         "plays": 1
       },
       {
