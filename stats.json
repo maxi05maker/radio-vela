@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 235,
-    "music_entries": 214,
+    "total_entries": 237,
+    "music_entries": 216,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -63,6 +63,11 @@
       {
         "artist": "Foals",
         "title": "2001",
+        "plays": 2
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
         "plays": 2
       },
       {
@@ -373,11 +378,6 @@
       {
         "artist": "Michael Schulte",
         "title": "Broken Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "In My Blood",
         "plays": 1
       },
       {
@@ -943,6 +943,11 @@
       {
         "artist": "Halsey",
         "title": "Lucky",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "küss mich doch",
         "plays": 1
       }
     ],
