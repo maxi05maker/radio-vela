@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 207,
-    "music_entries": 188,
+    "total_entries": 209,
+    "music_entries": 190,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -63,6 +63,11 @@
       {
         "artist": "Shygirl",
         "title": "BDE (feat. slowthai)",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -801,11 +806,6 @@
         "plays": 1
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
         "artist": "Busta Rhymes",
         "title": "Luxury Life feat. Coi Leray",
         "plays": 1
@@ -878,6 +878,11 @@
       {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Jeremias",
+        "title": "Ich mags",
         "plays": 1
       }
     ],
