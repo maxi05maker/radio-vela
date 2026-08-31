@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 102,
-    "music_entries": 92,
+    "total_entries": 103,
+    "music_entries": 93,
     "songs": [
       {
         "artist": "Clueso",
@@ -458,6 +458,11 @@
       {
         "artist": "Söhne Mannheims",
         "title": "Das hat die Welt noch nicht gesehen",
+        "plays": 1
+      },
+      {
+        "artist": "King Gizzard & The Lizard Wizard",
+        "title": "Le Risque",
         "plays": 1
       }
     ],
