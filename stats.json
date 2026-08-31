@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 147,
-    "music_entries": 132,
+    "total_entries": 149,
+    "music_entries": 134,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -653,6 +653,16 @@
       {
         "artist": "The Gems",
         "title": "Hot Bait",
+        "plays": 1
+      },
+      {
+        "artist": "Gryffin & OneRepublic",
+        "title": "You Were Loved",
+        "plays": 1
+      },
+      {
+        "artist": "Finch (feat. Blümchen)",
+        "title": "Herzalarm",
         "plays": 1
       }
     ],
