@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 220,
-    "music_entries": 200,
+    "total_entries": 222,
+    "music_entries": 202,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -48,6 +48,11 @@
       {
         "artist": "Mabel",
         "title": "Mad Love",
+        "plays": 2
+      },
+      {
+        "artist": "Foals",
+        "title": "2001",
         "plays": 2
       },
       {
@@ -333,11 +338,6 @@
       {
         "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
         "title": "Rebellion",
-        "plays": 1
-      },
-      {
-        "artist": "Foals",
-        "title": "2001",
         "plays": 1
       },
       {
@@ -918,6 +918,11 @@
       {
         "artist": "Joe Bonamassa",
         "title": "Tattoo'd Lady",
+        "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
         "plays": 1
       }
     ],
