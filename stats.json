@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 288,
-    "music_entries": 261,
+    "total_entries": 290,
+    "music_entries": 263,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -248,6 +248,11 @@
       {
         "artist": "Max Giesinger",
         "title": "Der letzte Tag",
+        "plays": 2
+      },
+      {
+        "artist": "Finch (feat. Blümchen)",
+        "title": "Herzalarm",
         "plays": 2
       },
       {
@@ -671,11 +676,6 @@
         "plays": 1
       },
       {
-        "artist": "Finch (feat. Blümchen)",
-        "title": "Herzalarm",
-        "plays": 1
-      },
-      {
         "artist": "Gracie Abrams",
         "title": "That’s So True",
         "plays": 1
@@ -1033,6 +1033,11 @@
       {
         "artist": "CRO, jolle",
         "title": "Märchenwald",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
         "plays": 1
       }
     ],

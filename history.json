@@ -1726,5 +1726,17 @@
     "played_at": "2026-08-31 22:08:36 +0200",
     "title": "Der letzte Tag",
     "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-08-31 22:11:33 +0200|Wait So Long|Swedish House Mafia",
+    "played_at": "2026-08-31 22:11:33 +0200",
+    "title": "Wait So Long",
+    "artist": "Swedish House Mafia"
+  },
+  {
+    "key": "2026-08-31 22:14:53 +0200|Herzalarm|Finch (feat. Blümchen)",
+    "played_at": "2026-08-31 22:14:53 +0200",
+    "title": "Herzalarm",
+    "artist": "Finch (feat. Blümchen)"
   }
 ]
