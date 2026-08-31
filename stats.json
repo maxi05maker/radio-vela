@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 166,
-    "music_entries": 149,
+    "total_entries": 168,
+    "music_entries": 151,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -728,6 +728,16 @@
       {
         "artist": "Oimara, Melissa Naschenweng",
         "title": "Koa Bergbauernbua",
+        "plays": 1
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
         "plays": 1
       }
     ],
