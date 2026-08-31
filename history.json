@@ -1984,5 +1984,23 @@
     "played_at": "2026-09-01 00:17:03 +0200",
     "title": "Sunshine",
     "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-09-01 00:19:47 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-09-01 00:19:47 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-01 00:19:49 +0200|Nur dir gehör'n|1986zig",
+    "played_at": "2026-09-01 00:19:49 +0200",
+    "title": "Nur dir gehör'n",
+    "artist": "1986zig"
+  },
+  {
+    "key": "2026-09-01 00:22:34 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-01 00:22:34 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
   }
 ]

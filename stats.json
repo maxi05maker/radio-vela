@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 331,
-    "music_entries": 301,
+    "total_entries": 334,
+    "music_entries": 303,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -343,6 +343,11 @@
       {
         "artist": "Rag'n'Bone Man",
         "title": "All You Ever Wanted",
+        "plays": 2
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 2
       },
       {
@@ -816,11 +821,6 @@
         "plays": 1
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
         "artist": "Teddy Swims",
         "title": "Lose Control",
         "plays": 1
@@ -1108,6 +1108,11 @@
       {
         "artist": "Lana Del Rey",
         "title": "White Feather Hawk Tail Deer Hunter",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Nur dir gehör'n",
         "plays": 1
       }
     ],
