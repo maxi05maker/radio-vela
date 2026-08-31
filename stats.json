@@ -2,9 +2,14 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 228,
-    "music_entries": 208,
+    "total_entries": 231,
+    "music_entries": 210,
     "songs": [
+      {
+        "artist": "Eli Preiss",
+        "title": "Was ist der Prei$$",
+        "plays": 3
+      },
       {
         "artist": "Johannes Oerding",
         "title": "Kaleidoskop",
@@ -13,6 +18,11 @@
       {
         "artist": "Adele",
         "title": "Easy On Me",
+        "plays": 2
+      },
+      {
+        "artist": "Purple Disco Machine feat. Jake Shears",
+        "title": "Fire + Ice (Radio Edit)",
         "plays": 2
       },
       {
@@ -93,11 +103,6 @@
       {
         "artist": "Lakeyah",
         "title": "Mind Yo Business feat. Latto",
-        "plays": 2
-      },
-      {
-        "artist": "Eli Preiss",
-        "title": "Was ist der Prei$$",
         "plays": 2
       },
       {
@@ -198,11 +203,6 @@
       {
         "artist": "Charlie Puth feat. Selena Gomez",
         "title": "We Don't Talk Anymore",
-        "plays": 1
-      },
-      {
-        "artist": "Purple Disco Machine feat. Jake Shears",
-        "title": "Fire + Ice (Radio Edit)",
         "plays": 1
       },
       {
@@ -937,9 +937,9 @@
       }
     ],
     "top_song": {
-      "artist": "Johannes Oerding",
-      "title": "Kaleidoskop",
-      "plays": 2
+      "artist": "Eli Preiss",
+      "title": "Was ist der Prei$$",
+      "plays": 3
     }
   }
 }
