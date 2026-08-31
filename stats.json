@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 141,
-    "music_entries": 127,
+    "total_entries": 144,
+    "music_entries": 129,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -628,6 +628,16 @@
       {
         "artist": "Noah Kahan",
         "title": "The Great Divide",
+        "plays": 1
+      },
+      {
+        "artist": "Shygirl",
+        "title": "BDE (feat. slowthai)",
+        "plays": 1
+      },
+      {
+        "artist": "Trettmann",
+        "title": "Haus Aus Zink feat. Luna",
         "plays": 1
       }
     ],
