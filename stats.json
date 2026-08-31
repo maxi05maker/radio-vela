@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 277,
-    "music_entries": 252,
+    "total_entries": 279,
+    "music_entries": 254,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -183,6 +183,11 @@
       {
         "artist": "Dennis Lloyd",
         "title": "Anxious",
+        "plays": 2
+      },
+      {
+        "artist": "Kings Of Leon",
+        "title": "Radioactive",
         "plays": 2
       },
       {
@@ -538,11 +543,6 @@
       {
         "artist": "Twenty One Pilots",
         "title": "The Line",
-        "plays": 1
-      },
-      {
-        "artist": "Kings Of Leon",
-        "title": "Radioactive",
         "plays": 1
       },
       {
@@ -1018,6 +1018,11 @@
       {
         "artist": "Cigarettes After Sex",
         "title": "Baby Blue Movie",
+        "plays": 1
+      },
+      {
+        "artist": "Romy",
+        "title": "Love Who You Love",
         "plays": 1
       }
     ],
