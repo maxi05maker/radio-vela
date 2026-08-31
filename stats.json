@@ -2,12 +2,17 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 352,
-    "music_entries": 320,
+    "total_entries": 354,
+    "music_entries": 322,
     "songs": [
       {
         "artist": "Eli Preiss",
         "title": "Was ist der Prei$$",
+        "plays": 4
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 4
       },
       {
@@ -43,11 +48,6 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
-        "plays": 3
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 3
       },
       {
@@ -323,6 +323,11 @@
       {
         "artist": "Finch (feat. Blümchen)",
         "title": "Herzalarm",
+        "plays": 2
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "No Roots",
         "plays": 2
       },
       {
@@ -783,11 +788,6 @@
       {
         "artist": "Gracie Abrams",
         "title": "That’s So True",
-        "plays": 1
-      },
-      {
-        "artist": "Alice Merton",
-        "title": "No Roots",
         "plays": 1
       },
       {
