@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 377,
-    "music_entries": 348,
+    "total_entries": 379,
+    "music_entries": 350,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -301,8 +301,18 @@
         "plays": 2
       },
       {
+        "artist": "Robbie Williams",
+        "title": "Love My Life",
+        "plays": 2
+      },
+      {
         "artist": "Kwam.e & Ove",
         "title": "Hallow Kitty",
+        "plays": 2
+      },
+      {
+        "artist": "Alle Farben",
+        "title": "Forgot How To Love",
         "plays": 2
       },
       {
@@ -921,18 +931,8 @@
         "plays": 1
       },
       {
-        "artist": "Robbie Williams",
-        "title": "Love My Life",
-        "plays": 1
-      },
-      {
         "artist": "Clueso",
         "title": "Deja-Vu",
-        "plays": 1
-      },
-      {
-        "artist": "Alle Farben",
-        "title": "Forgot How To Love",
         "plays": 1
       },
       {
