@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 170,
-    "music_entries": 153,
+    "total_entries": 173,
+    "music_entries": 155,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -28,6 +28,11 @@
       {
         "artist": "Lakeyah",
         "title": "Mind Yo Business feat. Latto",
+        "plays": 2
+      },
+      {
+        "artist": "Eli Preiss",
+        "title": "Was ist der Prei$$",
         "plays": 2
       },
       {
@@ -586,11 +591,6 @@
         "plays": 1
       },
       {
-        "artist": "Eli Preiss",
-        "title": "Was ist der Prei$$",
-        "plays": 1
-      },
-      {
         "artist": "Lana Del Rey",
         "title": "Arcadia",
         "plays": 1
@@ -743,6 +743,11 @@
       {
         "artist": "The 1975",
         "title": "Part Of The Band",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Wunderschön",
         "plays": 1
       }
     ],
