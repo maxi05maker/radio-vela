@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 273,
-    "music_entries": 248,
+    "total_entries": 275,
+    "music_entries": 250,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -196,6 +196,11 @@
         "plays": 2
       },
       {
+        "artist": "James Blunt",
+        "title": "Love Under Pressure",
+        "plays": 2
+      },
+      {
         "artist": "Stefanie Heinzmann feat. Alle Farben",
         "title": "Build a House",
         "plays": 2
@@ -203,6 +208,11 @@
       {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
+        "plays": 2
+      },
+      {
+        "artist": "Rita Ora Feat. 6Lack",
+        "title": "Only Want You",
         "plays": 2
       },
       {
@@ -556,11 +566,6 @@
         "plays": 1
       },
       {
-        "artist": "James Blunt",
-        "title": "Love Under Pressure",
-        "plays": 1
-      },
-      {
         "artist": "Waving The Guns",
         "title": "Wingsuit",
         "plays": 1
@@ -583,11 +588,6 @@
       {
         "artist": "Dara",
         "title": "Bangaranga",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora Feat. 6Lack",
-        "title": "Only Want You",
         "plays": 1
       },
       {
