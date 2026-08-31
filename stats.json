@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 35,
-    "music_entries": 32,
+    "total_entries": 37,
+    "music_entries": 34,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -163,6 +163,16 @@
       {
         "artist": "AnnenMayKantereit",
         "title": "Du tust mir nie mehr weh",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Du und Ich",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna & Kylie Minogue",
+        "title": "Love Sensation (Afterhours Radio Edit)",
         "plays": 1
       }
     ],
