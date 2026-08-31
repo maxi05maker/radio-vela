@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 28,
-    "music_entries": 25,
+    "total_entries": 31,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -128,6 +128,21 @@
       {
         "artist": "International Music",
         "title": "Im Sommer bin ich dein König",
+        "plays": 1
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Keine Tränen",
+        "plays": 1
+      },
+      {
+        "artist": "Alma",
+        "title": "Dye My Hair",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "DREAMING ON",
         "plays": 1
       }
     ],
