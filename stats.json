@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 414,
-    "music_entries": 382,
+    "total_entries": 416,
+    "music_entries": 384,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -78,6 +78,11 @@
       {
         "artist": "Nicki Minaj",
         "title": "Last Time I Saw You",
+        "plays": 3
+      },
+      {
+        "artist": "Kwam.e & Ove",
+        "title": "Hallow Kitty",
         "plays": 3
       },
       {
@@ -323,11 +328,6 @@
       {
         "artist": "Robbie Williams",
         "title": "Love My Life",
-        "plays": 2
-      },
-      {
-        "artist": "Kwam.e & Ove",
-        "title": "Hallow Kitty",
         "plays": 2
       },
       {
@@ -1433,6 +1433,11 @@
       {
         "artist": "LISA FEAT. DOJA CAT & RAYE",
         "title": "BORN AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Schief in jedem Chor",
         "plays": 1
       }
     ],
