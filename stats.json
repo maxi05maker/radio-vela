@@ -1,1 +1,25 @@
-{}
+{
+  "2026-08-31 07:00": {
+    "period_start": "2026-08-31T07:00:00+02:00",
+    "period_end": "2026-09-01T07:00:00+02:00",
+    "total_entries": 2,
+    "music_entries": 2,
+    "songs": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "Calum Scott",
+        "title": "My World",
+        "plays": 1
+      }
+    ],
+    "top_song": {
+      "artist": "Olivia Rodrigo",
+      "title": "good 4 u",
+      "plays": 1
+    }
+  }
+}

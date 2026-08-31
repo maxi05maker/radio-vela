@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "key": "2026-08-31 07:00:11 +0200|good 4 u|Olivia Rodrigo",
+    "played_at": "2026-08-31 07:00:11 +0200",
+    "title": "good 4 u",
+    "artist": "Olivia Rodrigo"
+  },
+  {
+    "key": "2026-08-31 07:03:09 +0200|My World|Calum Scott",
+    "played_at": "2026-08-31 07:03:09 +0200",
+    "title": "My World",
+    "artist": "Calum Scott"
+  }
+]
