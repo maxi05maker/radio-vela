@@ -130,5 +130,17 @@
     "played_at": "2026-08-31 08:17:14 +0200",
     "title": "Nachrichten & Wetter",
     "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-31 08:20:06 +0200|Bungalow|Bilderbuch",
+    "played_at": "2026-08-31 08:20:06 +0200",
+    "title": "Bungalow",
+    "artist": "Bilderbuch"
+  },
+  {
+    "key": "2026-08-31 08:23:52 +0200|Happiness Is A Butterfly|Lana Del Rey",
+    "played_at": "2026-08-31 08:23:52 +0200",
+    "title": "Happiness Is A Butterfly",
+    "artist": "Lana Del Rey"
   }
 ]
