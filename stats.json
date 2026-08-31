@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 318,
-    "music_entries": 289,
+    "total_entries": 320,
+    "music_entries": 291,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -318,6 +318,11 @@
       {
         "artist": "Michael Schulte",
         "title": "Remember Me",
+        "plays": 2
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
         "plays": 2
       },
       {
@@ -761,11 +766,6 @@
         "plays": 1
       },
       {
-        "artist": "The 1975",
-        "title": "Part Of The Band",
-        "plays": 1
-      },
-      {
         "artist": "Zartmann",
         "title": "Wunderschön",
         "plays": 1
@@ -1088,6 +1088,11 @@
       {
         "artist": "Ed Sheeran",
         "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
         "plays": 1
       }
     ],
