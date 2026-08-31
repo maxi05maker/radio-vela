@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 115,
-    "music_entries": 104,
+    "total_entries": 118,
+    "music_entries": 106,
     "songs": [
       {
         "artist": "Clueso",
@@ -518,6 +518,16 @@
       {
         "artist": "Michael Patrick Kelly",
         "title": "The One",
+        "plays": 1
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Love Under Pressure",
+        "plays": 1
+      },
+      {
+        "artist": "Waving The Guns",
+        "title": "Wingsuit",
         "plays": 1
       }
     ],
