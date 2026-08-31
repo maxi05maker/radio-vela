@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 37,
-    "music_entries": 34,
+    "total_entries": 39,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -173,6 +173,16 @@
       {
         "artist": "Madonna & Kylie Minogue",
         "title": "Love Sensation (Afterhours Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey feat. Kool Savas",
+        "title": "Is It Love?",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Weekend Lover",
         "plays": 1
       }
     ],
