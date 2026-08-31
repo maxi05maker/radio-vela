@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 251,
-    "music_entries": 229,
+    "total_entries": 254,
+    "music_entries": 231,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -153,6 +153,11 @@
       {
         "artist": "Söhne Mannheims",
         "title": "Das hat die Welt noch nicht gesehen",
+        "plays": 2
+      },
+      {
+        "artist": "Lena",
+        "title": "Satellite",
         "plays": 2
       },
       {
@@ -508,11 +513,6 @@
       {
         "artist": "Miley Cyrus",
         "title": "End of the world",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Satellite",
         "plays": 1
       },
       {
@@ -973,6 +973,11 @@
       {
         "artist": "James Arthur & You Me At Six",
         "title": "Lose My Mind",
+        "plays": 1
+      },
+      {
+        "artist": "One-T, YWY, Nika",
+        "title": "The Way To Love (feat. YWY, Nika)",
         "plays": 1
       }
     ],
