@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 435,
-    "music_entries": 402,
+    "total_entries": 437,
+    "music_entries": 404,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -438,6 +438,11 @@
       {
         "artist": "Meghan Trainor",
         "title": "All About That Bass",
+        "plays": 2
+      },
+      {
+        "artist": "Yungblud",
+        "title": "Memories",
         "plays": 2
       },
       {
@@ -1201,11 +1206,6 @@
         "plays": 1
       },
       {
-        "artist": "Yungblud",
-        "title": "Memories",
-        "plays": 1
-      },
-      {
         "artist": "Charlie Puth feat. Selena Gomez",
         "title": "We Don't Talk Anymore",
         "plays": 1
@@ -1468,6 +1468,11 @@
       {
         "artist": "SZA",
         "title": "Kill Bill (Remix) feat. Doja Cat",
+        "plays": 1
+      },
+      {
+        "artist": "Black Country Communion",
+        "title": "Skyway",
         "plays": 1
       }
     ],
