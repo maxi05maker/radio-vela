@@ -250,5 +250,17 @@
     "played_at": "2026-08-31 09:22:03 +0200",
     "title": "Never Give Up",
     "artist": "Sia"
+  },
+  {
+    "key": "2026-08-31 09:25:45 +0200|I WANNA BE YOUR SLAVE|Måneskin",
+    "played_at": "2026-08-31 09:25:45 +0200",
+    "title": "I WANNA BE YOUR SLAVE",
+    "artist": "Måneskin"
+  },
+  {
+    "key": "2026-08-31 09:28:38 +0200|Nicht Perfekt|Monet192",
+    "played_at": "2026-08-31 09:28:38 +0200",
+    "title": "Nicht Perfekt",
+    "artist": "Monet192"
   }
 ]

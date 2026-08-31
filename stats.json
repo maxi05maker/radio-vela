@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 42,
-    "music_entries": 38,
+    "total_entries": 44,
+    "music_entries": 40,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -193,6 +193,16 @@
       {
         "artist": "Sia",
         "title": "Never Give Up",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
         "plays": 1
       }
     ],
