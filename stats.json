@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 18,
-    "music_entries": 17,
+    "total_entries": 19,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -88,6 +88,11 @@
       {
         "artist": "Alvaro Soler",
         "title": "Regalo",
+        "plays": 1
+      },
+      {
+        "artist": "Iron Maiden",
+        "title": "Senjutsu",
         "plays": 1
       }
     ],
