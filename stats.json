@@ -2,9 +2,14 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 282,
-    "music_entries": 257,
+    "total_entries": 285,
+    "music_entries": 260,
     "songs": [
+      {
+        "artist": "Eli Preiss",
+        "title": "Was ist der Prei$$",
+        "plays": 4
+      },
       {
         "artist": "Johannes Oerding",
         "title": "Kaleidoskop",
@@ -13,11 +18,6 @@
       {
         "artist": "Lakeyah",
         "title": "Mind Yo Business feat. Latto",
-        "plays": 3
-      },
-      {
-        "artist": "Eli Preiss",
-        "title": "Was ist der Prei$$",
         "plays": 3
       },
       {
@@ -233,6 +233,11 @@
       {
         "artist": "Lana Del Rey",
         "title": "Arcadia",
+        "plays": 2
+      },
+      {
+        "artist": "Wincent Weiss",
+        "title": "Wer wenn nicht wir",
         "plays": 2
       },
       {
@@ -636,11 +641,6 @@
         "plays": 1
       },
       {
-        "artist": "Wincent Weiss",
-        "title": "Wer wenn nicht wir",
-        "plays": 1
-      },
-      {
         "artist": "Noah Kahan",
         "title": "The Great Divide",
         "plays": 1
@@ -1029,12 +1029,17 @@
         "artist": "Joe Bonamassa & Ivan Neville",
         "title": "Ghetto Woman",
         "plays": 1
+      },
+      {
+        "artist": "CRO, jolle",
+        "title": "Märchenwald",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Johannes Oerding",
-      "title": "Kaleidoskop",
-      "plays": 3
+      "artist": "Eli Preiss",
+      "title": "Was ist der Prei$$",
+      "plays": 4
     }
   }
 }
