@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 245,
-    "music_entries": 224,
+    "total_entries": 246,
+    "music_entries": 225,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -138,6 +138,11 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
+        "plays": 2
+      },
+      {
+        "artist": "Söhne Mannheims",
+        "title": "Das hat die Welt noch nicht gesehen",
         "plays": 2
       },
       {
@@ -478,11 +483,6 @@
       {
         "artist": "Lewis Capaldi",
         "title": "Someone You Loved",
-        "plays": 1
-      },
-      {
-        "artist": "Söhne Mannheims",
-        "title": "Das hat die Welt noch nicht gesehen",
         "plays": 1
       },
       {
