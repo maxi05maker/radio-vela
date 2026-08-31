@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 311,
-    "music_entries": 282,
+    "total_entries": 313,
+    "music_entries": 284,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -18,6 +18,11 @@
       {
         "artist": "Lakeyah",
         "title": "Mind Yo Business feat. Latto",
+        "plays": 3
+      },
+      {
+        "artist": "Shygirl",
+        "title": "BDE (feat. slowthai)",
         "plays": 3
       },
       {
@@ -271,11 +276,6 @@
         "plays": 2
       },
       {
-        "artist": "Shygirl",
-        "title": "BDE (feat. slowthai)",
-        "plays": 2
-      },
-      {
         "artist": "LEA & Casper",
         "title": "Schwarz",
         "plays": 2
@@ -293,6 +293,11 @@
       {
         "artist": "Finch (feat. Blümchen)",
         "title": "Herzalarm",
+        "plays": 2
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
         "plays": 2
       },
       {
@@ -708,11 +713,6 @@
       {
         "artist": "Ennio",
         "title": "Fühlst du gar nichts? feat. Nina Chuba",
-        "plays": 1
-      },
-      {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
         "plays": 1
       },
       {
