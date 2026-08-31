@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 322,
-    "music_entries": 293,
+    "total_entries": 324,
+    "music_entries": 295,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -18,6 +18,11 @@
       {
         "artist": "Adele",
         "title": "Easy On Me",
+        "plays": 3
+      },
+      {
+        "artist": "Blond",
+        "title": "Du und Ich",
         "plays": 3
       },
       {
@@ -43,11 +48,6 @@
       {
         "artist": "Katy Perry",
         "title": "I'M HIS, HE'S MINE ft. Doechii",
-        "plays": 2
-      },
-      {
-        "artist": "Blond",
-        "title": "Du und Ich",
         "plays": 2
       },
       {
@@ -1093,6 +1093,11 @@
       {
         "artist": "HUNTRX",
         "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "plays": 1
+      },
+      {
+        "artist": "Jessie Ware",
+        "title": "Superbloom",
         "plays": 1
       }
     ],
