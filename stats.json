@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 329,
-    "music_entries": 299,
+    "total_entries": 331,
+    "music_entries": 301,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -358,6 +358,11 @@
       {
         "artist": "Dr. Hook",
         "title": "Sexy Eyes",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Sunshine",
         "plays": 2
       },
       {
@@ -826,11 +831,6 @@
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "Sunshine",
-        "plays": 1
-      },
-      {
         "artist": "Stray Kids",
         "title": "RUN IT",
         "plays": 1
@@ -1103,6 +1103,11 @@
       {
         "artist": "Alewya",
         "title": "Maktoub",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
         "plays": 1
       }
     ],
