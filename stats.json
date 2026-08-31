@@ -2,12 +2,17 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 354,
-    "music_entries": 322,
+    "total_entries": 356,
+    "music_entries": 324,
     "songs": [
       {
         "artist": "Eli Preiss",
         "title": "Was ist der Prei$$",
+        "plays": 4
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 4
       },
       {
@@ -43,11 +48,6 @@
       {
         "artist": "Shygirl",
         "title": "BDE (feat. slowthai)",
-        "plays": 3
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 3
       },
       {
@@ -433,6 +433,11 @@
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "Señorita",
+        "plays": 2
+      },
+      {
+        "artist": "NLE The Great",
+        "title": "KO",
         "plays": 2
       },
       {
@@ -893,11 +898,6 @@
       {
         "artist": "ABBA",
         "title": "Little Things",
-        "plays": 1
-      },
-      {
-        "artist": "NLE The Great",
-        "title": "KO",
         "plays": 1
       },
       {
