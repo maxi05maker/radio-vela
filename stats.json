@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 401,
-    "music_entries": 371,
+    "total_entries": 403,
+    "music_entries": 373,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -78,6 +78,11 @@
       {
         "artist": "Nicki Minaj",
         "title": "Last Time I Saw You",
+        "plays": 3
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
         "plays": 3
       },
       {
@@ -353,11 +358,6 @@
       {
         "artist": "Badmómzjay",
         "title": "Keine Tränen",
-        "plays": 2
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
         "plays": 2
       },
       {
@@ -1413,6 +1413,11 @@
       {
         "artist": "Florence + The Machine",
         "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Tonight",
         "plays": 1
       }
     ],
