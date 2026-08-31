@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 357,
-    "music_entries": 329,
+    "total_entries": 359,
+    "music_entries": 331,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -253,6 +253,11 @@
       {
         "artist": "Rihanna",
         "title": "Lift Me Up",
+        "plays": 2
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Madonna Whore Komplex",
         "plays": 2
       },
       {
@@ -851,11 +856,6 @@
         "plays": 1
       },
       {
-        "artist": "Alli Neumann",
-        "title": "Madonna Whore Komplex",
-        "plays": 1
-      },
-      {
         "artist": "Lady Gaga, Doechii",
         "title": "Runway",
         "plays": 1
@@ -1343,6 +1343,11 @@
       {
         "artist": "Rea Garvey",
         "title": "Kids In Love",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Ready For Your Love",
         "plays": 1
       }
     ],
