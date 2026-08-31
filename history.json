@@ -2152,5 +2152,17 @@
     "played_at": "2026-08-31 02:22:35 +0200",
     "title": "Madonna Whore Komplex",
     "artist": "Alli Neumann"
+  },
+  {
+    "key": "2026-08-31 02:26:06 +0200|Whatever It Takes|Imagine Dragons",
+    "played_at": "2026-08-31 02:26:06 +0200",
+    "title": "Whatever It Takes",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-08-31 02:29:28 +0200|Ghost Town|Purple Disco Machine feat. Retrosonix",
+    "played_at": "2026-08-31 02:29:28 +0200",
+    "title": "Ghost Town",
+    "artist": "Purple Disco Machine feat. Retrosonix"
   }
 ]
