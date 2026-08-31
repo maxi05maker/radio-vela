@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 383,
-    "music_entries": 354,
+    "total_entries": 385,
+    "music_entries": 356,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -13,6 +13,11 @@
       {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
+        "plays": 3
+      },
+      {
+        "artist": "Mayberg",
+        "title": "Der neue Stil meiner Generation",
         "plays": 3
       },
       {
@@ -43,6 +48,11 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 3
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 3
       },
       {
@@ -151,11 +161,6 @@
         "plays": 2
       },
       {
-        "artist": "Mayberg",
-        "title": "Der neue Stil meiner Generation",
-        "plays": 2
-      },
-      {
         "artist": "Sia",
         "title": "Together",
         "plays": 2
@@ -173,11 +178,6 @@
       {
         "artist": "Adele",
         "title": "Easy On Me",
-        "plays": 2
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 2
       },
       {
