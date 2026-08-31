@@ -58,5 +58,23 @@
     "played_at": "2026-08-31 07:27:41 +0200",
     "title": "About You",
     "artist": "The 1975"
+  },
+  {
+    "key": "2026-08-31 07:33:06 +0200|Easy On Me|Adele",
+    "played_at": "2026-08-31 07:33:06 +0200",
+    "title": "Easy On Me",
+    "artist": "Adele"
+  },
+  {
+    "key": "2026-08-31 07:36:44 +0200|Doblexxò|J.Balvin, Feid",
+    "played_at": "2026-08-31 07:36:44 +0200",
+    "title": "Doblexxò",
+    "artist": "J.Balvin, Feid"
+  },
+  {
+    "key": "2026-08-31 07:39:39 +0200|Strip|Lena",
+    "played_at": "2026-08-31 07:39:39 +0200",
+    "title": "Strip",
+    "artist": "Lena"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 13,
+    "music_entries": 12,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -48,6 +48,21 @@
       {
         "artist": "The 1975",
         "title": "About You",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Easy On Me",
+        "plays": 1
+      },
+      {
+        "artist": "J.Balvin, Feid",
+        "title": "Doblexxò",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
         "plays": 1
       }
     ],
