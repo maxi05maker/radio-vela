@@ -2,13 +2,13 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 396,
-    "music_entries": 366,
+    "total_entries": 398,
+    "music_entries": 368,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
-        "plays": 4
+        "plays": 5
       },
       {
         "artist": "Tokio Hotel",
@@ -28,6 +28,11 @@
       {
         "artist": "Jonas Brothers",
         "title": "What a Man Gotta Do",
+        "plays": 3
+      },
+      {
+        "artist": "Sia",
+        "title": "Together",
         "plays": 3
       },
       {
@@ -163,11 +168,6 @@
       {
         "artist": "Johannes Oerding",
         "title": "Kaleidoskop",
-        "plays": 2
-      },
-      {
-        "artist": "Sia",
-        "title": "Together",
         "plays": 2
       },
       {
@@ -1414,7 +1414,7 @@
     "top_song": {
       "artist": "Tom Gregory",
       "title": "Small Steps",
-      "plays": 4
+      "plays": 5
     }
   }
 }
