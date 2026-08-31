@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 338,
-    "music_entries": 307,
+    "total_entries": 340,
+    "music_entries": 309,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -23,6 +23,11 @@
       {
         "artist": "Blond",
         "title": "Du und Ich",
+        "plays": 3
+      },
+      {
+        "artist": "Luciano",
+        "title": "Beautiful Girl",
         "plays": 3
       },
       {
@@ -66,8 +71,8 @@
         "plays": 2
       },
       {
-        "artist": "Luciano",
-        "title": "Beautiful Girl",
+        "artist": "Marshmello & Jonas Brothers",
+        "title": "Slow Motion",
         "plays": 2
       },
       {
@@ -613,11 +618,6 @@
       {
         "artist": "Loreen",
         "title": "Euphoria",
-        "plays": 1
-      },
-      {
-        "artist": "Marshmello & Jonas Brothers",
-        "title": "Slow Motion",
         "plays": 1
       },
       {
