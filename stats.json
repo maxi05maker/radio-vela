@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 275,
-    "music_entries": 250,
+    "total_entries": 277,
+    "music_entries": 252,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -218,6 +218,11 @@
       {
         "artist": "Metronomy",
         "title": "The Look",
+        "plays": 2
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Arcadia",
         "plays": 2
       },
       {
@@ -603,11 +608,6 @@
       {
         "artist": "Madonna & Sabrina Carpenter",
         "title": "Bring Your Love",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Arcadia",
         "plays": 1
       },
       {
@@ -1013,6 +1013,11 @@
       {
         "artist": "Sugababes",
         "title": "Jungle",
+        "plays": 1
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Baby Blue Movie",
         "plays": 1
       }
     ],

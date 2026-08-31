@@ -1648,5 +1648,17 @@
     "played_at": "2026-08-31 21:25:12 +0200",
     "title": "Love Under Pressure",
     "artist": "James Blunt"
+  },
+  {
+    "key": "2026-08-31 21:27:52 +0200|Baby Blue Movie|Cigarettes After Sex",
+    "played_at": "2026-08-31 21:27:52 +0200",
+    "title": "Baby Blue Movie",
+    "artist": "Cigarettes After Sex"
+  },
+  {
+    "key": "2026-08-31 21:31:58 +0200|Arcadia|Lana Del Rey",
+    "played_at": "2026-08-31 21:31:58 +0200",
+    "title": "Arcadia",
+    "artist": "Lana Del Rey"
   }
 ]
