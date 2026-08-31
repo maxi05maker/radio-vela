@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 356,
-    "music_entries": 324,
+    "total_entries": 359,
+    "music_entries": 327,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -38,6 +38,11 @@
       {
         "artist": "Luciano",
         "title": "Beautiful Girl",
+        "plays": 3
+      },
+      {
+        "artist": "Mabel",
+        "title": "Mad Love",
         "plays": 3
       },
       {
@@ -83,11 +88,6 @@
       {
         "artist": "Marshmello & Jonas Brothers",
         "title": "Slow Motion",
-        "plays": 2
-      },
-      {
-        "artist": "Mabel",
-        "title": "Mad Love",
         "plays": 2
       },
       {
@@ -433,6 +433,16 @@
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "Señorita",
+        "plays": 2
+      },
+      {
+        "artist": "Jeremias",
+        "title": "Ich mags",
+        "plays": 2
+      },
+      {
+        "artist": "ABBA",
+        "title": "Little Things",
         "plays": 2
       },
       {
@@ -886,18 +896,8 @@
         "plays": 1
       },
       {
-        "artist": "Jeremias",
-        "title": "Ich mags",
-        "plays": 1
-      },
-      {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "ABBA",
-        "title": "Little Things",
         "plays": 1
       },
       {
