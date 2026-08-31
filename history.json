@@ -652,5 +652,17 @@
     "played_at": "2026-08-31 12:42:28 +0200",
     "title": "End of the world",
     "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-08-31 12:46:38 +0200|Satellite|Lena",
+    "played_at": "2026-08-31 12:46:38 +0200",
+    "title": "Satellite",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-08-31 12:49:33 +0200|Supermodel|Måneskin",
+    "played_at": "2026-08-31 12:49:33 +0200",
+    "title": "Supermodel",
+    "artist": "Måneskin"
   }
 ]

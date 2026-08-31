@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 109,
-    "music_entries": 98,
+    "total_entries": 111,
+    "music_entries": 100,
     "songs": [
       {
         "artist": "Clueso",
@@ -488,6 +488,16 @@
       {
         "artist": "Miley Cyrus",
         "title": "End of the world",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Satellite",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "Supermodel",
         "plays": 1
       }
     ],
