@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 347,
-    "music_entries": 316,
+    "total_entries": 350,
+    "music_entries": 318,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -393,6 +393,11 @@
       {
         "artist": "Busta Rhymes",
         "title": "Luxury Life feat. Coi Leray",
+        "plays": 2
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 2
       },
       {
@@ -831,11 +836,6 @@
         "plays": 1
       },
       {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
         "artist": "David Guetta; Teddy Swims; Tones and I",
         "title": "Gone Gone Gone",
         "plays": 1
@@ -1123,6 +1123,11 @@
       {
         "artist": "Lady Gaga",
         "title": "The Dead Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Djo",
+        "title": "Basic Being Basic",
         "plays": 1
       }
     ],
