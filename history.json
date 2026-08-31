@@ -976,5 +976,23 @@
     "played_at": "2026-08-31 15:34:08 +0200",
     "title": "01. Sweet 'Lil Lies (2024)",
     "artist": "Joanne Shaw Taylor"
+  },
+  {
+    "key": "2026-08-31 15:39:26 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-08-31 15:39:26 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-31 15:39:27 +0200|Remedy|Leony",
+    "played_at": "2026-08-31 15:39:27 +0200",
+    "title": "Remedy",
+    "artist": "Leony"
+  },
+  {
+    "key": "2026-08-31 15:41:55 +0200|Koa Bergbauernbua|Oimara, Melissa Naschenweng",
+    "played_at": "2026-08-31 15:41:55 +0200",
+    "title": "Koa Bergbauernbua",
+    "artist": "Oimara, Melissa Naschenweng"
   }
 ]
