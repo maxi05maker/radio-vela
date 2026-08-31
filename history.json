@@ -1894,5 +1894,17 @@
     "played_at": "2026-08-31 23:27:29 +0200",
     "title": "Remember Me",
     "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-08-31 23:31:04 +0200|Old Phone|Ed Sheeran",
+    "played_at": "2026-08-31 23:31:04 +0200",
+    "title": "Old Phone",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-08-31 23:34:44 +0200|All You Ever Wanted|Rag'n'Bone Man",
+    "played_at": "2026-08-31 23:34:44 +0200",
+    "title": "All You Ever Wanted",
+    "artist": "Rag'n'Bone Man"
   }
 ]
