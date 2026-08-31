@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 340,
-    "music_entries": 309,
+    "total_entries": 343,
+    "music_entries": 312,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -38,6 +38,11 @@
       {
         "artist": "Shygirl",
         "title": "BDE (feat. slowthai)",
+        "plays": 3
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 3
       },
       {
@@ -93,6 +98,11 @@
       {
         "artist": "Milow",
         "title": "DeLorean",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Sink Or Swim",
         "plays": 2
       },
       {
@@ -356,6 +366,11 @@
         "plays": 2
       },
       {
+        "artist": "Mark Forster, LEA",
+        "title": "Drei Uhr Nachts",
+        "plays": 2
+      },
+      {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
         "plays": 2
@@ -383,11 +398,6 @@
       {
         "artist": "OneRepublic",
         "title": "Sunshine",
-        "plays": 2
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 2
       },
       {
@@ -631,11 +641,6 @@
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "Sink Or Swim",
-        "plays": 1
-      },
-      {
         "artist": "Fritz Kalkbrenner",
         "title": "It Ain't Over",
         "plays": 1
@@ -803,11 +808,6 @@
       {
         "artist": "Gracie Abrams",
         "title": "Hit the Wall",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster, LEA",
-        "title": "Drei Uhr Nachts",
         "plays": 1
       },
       {
