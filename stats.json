@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 103,
-    "music_entries": 93,
+    "total_entries": 107,
+    "music_entries": 96,
     "songs": [
       {
         "artist": "Clueso",
@@ -463,6 +463,21 @@
       {
         "artist": "King Gizzard & The Lizard Wizard",
         "title": "Le Risque",
+        "plays": 1
+      },
+      {
+        "artist": "Lakeyah",
+        "title": "Mind Yo Business feat. Latto",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Line",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Anxious",
         "plays": 1
       }
     ],
