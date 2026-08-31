@@ -472,5 +472,17 @@
     "played_at": "2026-08-31 11:09:35 +0200",
     "title": "Best Life",
     "artist": "Alex Cameron"
+  },
+  {
+    "key": "2026-08-31 11:12:51 +0200|Shotgun|George Ezra",
+    "played_at": "2026-08-31 11:12:51 +0200",
+    "title": "Shotgun",
+    "artist": "George Ezra"
+  },
+  {
+    "key": "2026-08-31 11:16:12 +0200|Bandaids|Katy Perry",
+    "played_at": "2026-08-31 11:16:12 +0200",
+    "title": "Bandaids",
+    "artist": "Katy Perry"
   }
 ]
