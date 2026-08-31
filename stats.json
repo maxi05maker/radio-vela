@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 178,
-    "music_entries": 160,
+    "total_entries": 180,
+    "music_entries": 162,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -13,6 +13,11 @@
       {
         "artist": "Adele",
         "title": "Easy On Me",
+        "plays": 2
+      },
+      {
+        "artist": "Blond",
+        "title": "Du und Ich",
         "plays": 2
       },
       {
@@ -183,11 +188,6 @@
       {
         "artist": "AnnenMayKantereit",
         "title": "Du tust mir nie mehr weh",
-        "plays": 1
-      },
-      {
-        "artist": "Blond",
-        "title": "Du und Ich",
         "plays": 1
       },
       {
@@ -773,6 +773,11 @@
       {
         "artist": "Imagine Dragons",
         "title": "Whatever It Takes",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "It Girl (feat. Sampagne)",
         "plays": 1
       }
     ],
