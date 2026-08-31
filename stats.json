@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 256,
-    "music_entries": 233,
+    "total_entries": 259,
+    "music_entries": 235,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -58,6 +58,11 @@
       {
         "artist": "AYLIVA",
         "title": "Renn!",
+        "plays": 2
+      },
+      {
+        "artist": "Luciano",
+        "title": "Beautiful Girl",
         "plays": 2
       },
       {
@@ -408,11 +413,6 @@
       {
         "artist": "Marshmello & Jonas Brothers",
         "title": "Slow Motion",
-        "plays": 1
-      },
-      {
-        "artist": "Luciano",
-        "title": "Beautiful Girl",
         "plays": 1
       },
       {
@@ -983,6 +983,11 @@
       {
         "artist": "Massive Attack x Tom Waits",
         "title": "Boots on the Ground",
+        "plays": 1
+      },
+      {
+        "artist": "Mika",
+        "title": "Modern Times",
         "plays": 1
       }
     ],
