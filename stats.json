@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 343,
-    "music_entries": 312,
+    "total_entries": 345,
+    "music_entries": 314,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -363,6 +363,11 @@
       {
         "artist": "Rag'n'Bone Man",
         "title": "All You Ever Wanted",
+        "plays": 2
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
         "plays": 2
       },
       {
@@ -801,11 +806,6 @@
         "plays": 1
       },
       {
-        "artist": "A1 x J1 & Tion Wayne",
-        "title": "Night Away (Dance)",
-        "plays": 1
-      },
-      {
         "artist": "Gracie Abrams",
         "title": "Hit the Wall",
         "plays": 1
@@ -1118,6 +1118,11 @@
       {
         "artist": "amaarae",
         "title": "S.M.O.",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Dead Dance",
         "plays": 1
       }
     ],
