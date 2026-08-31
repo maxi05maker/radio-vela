@@ -2080,5 +2080,17 @@
     "played_at": "2026-08-31 01:46:49 +0200",
     "title": "Lift Me Up",
     "artist": "Rihanna"
+  },
+  {
+    "key": "2026-08-31 01:50:02 +0200|3 Uhr Nachts|Nina Chuba",
+    "played_at": "2026-08-31 01:50:02 +0200",
+    "title": "3 Uhr Nachts",
+    "artist": "Nina Chuba"
+  },
+  {
+    "key": "2026-08-31 01:52:14 +0200|Is It Love?|Rea Garvey feat. Kool Savas",
+    "played_at": "2026-08-31 01:52:14 +0200",
+    "title": "Is It Love?",
+    "artist": "Rea Garvey feat. Kool Savas"
   }
 ]
