@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 302,
-    "music_entries": 275,
+    "total_entries": 305,
+    "music_entries": 278,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -236,6 +236,11 @@
         "plays": 2
       },
       {
+        "artist": "Nickelback",
+        "title": "When We Stand Together",
+        "plays": 2
+      },
+      {
         "artist": "Metronomy",
         "title": "The Look",
         "plays": 2
@@ -283,6 +288,11 @@
       {
         "artist": "Finch (feat. Blümchen)",
         "title": "Herzalarm",
+        "plays": 2
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
         "plays": 2
       },
       {
@@ -641,11 +651,6 @@
         "plays": 1
       },
       {
-        "artist": "Nickelback",
-        "title": "When We Stand Together",
-        "plays": 1
-      },
-      {
         "artist": "Madonna & Sabrina Carpenter",
         "title": "Bring Your Love",
         "plays": 1
@@ -713,11 +718,6 @@
       {
         "artist": "Farin Urlaub",
         "title": "Sie (Single Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "Topic & A7S",
-        "title": "Kernkraft 400 (A Better Day)",
         "plays": 1
       },
       {
@@ -1063,6 +1063,11 @@
       {
         "artist": "Machine Gun Kelly, glaive",
         "title": "More than life",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5",
+        "title": "Priceless ft. LISA",
         "plays": 1
       }
     ],
