@@ -2,9 +2,14 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 242,
-    "music_entries": 221,
+    "total_entries": 245,
+    "music_entries": 224,
     "songs": [
+      {
+        "artist": "Lakeyah",
+        "title": "Mind Yo Business feat. Latto",
+        "plays": 3
+      },
       {
         "artist": "Eli Preiss",
         "title": "Was ist der Prei$$",
@@ -121,6 +126,11 @@
         "plays": 2
       },
       {
+        "artist": "Revolverheld feat. Antje Schomaker",
+        "title": "Liebe auf Distanz",
+        "plays": 2
+      },
+      {
         "artist": "Justin Wellington feat. Small Jam",
         "title": "Iko Iko",
         "plays": 2
@@ -128,11 +138,6 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
-        "plays": 2
-      },
-      {
-        "artist": "Lakeyah",
-        "title": "Mind Yo Business feat. Latto",
         "plays": 2
       },
       {
@@ -458,11 +463,6 @@
       {
         "artist": "Sarah Connor & Sido",
         "title": "Interstellar (Zwischen den Sternen)",
-        "plays": 1
-      },
-      {
-        "artist": "Revolverheld feat. Antje Schomaker",
-        "title": "Liebe auf Distanz",
         "plays": 1
       },
       {
@@ -959,11 +959,16 @@
         "artist": "Zartmann",
         "title": "Weißt du überhaupt noch wer ich bin?",
         "plays": 1
+      },
+      {
+        "artist": "Fontaines D.C.",
+        "title": "Favourite",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Eli Preiss",
-      "title": "Was ist der Prei$$",
+      "artist": "Lakeyah",
+      "title": "Mind Yo Business feat. Latto",
       "plays": 3
     }
   }
