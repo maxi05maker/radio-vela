@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 222,
-    "music_entries": 202,
+    "total_entries": 224,
+    "music_entries": 204,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -58,6 +58,11 @@
       {
         "artist": "Milow",
         "title": "DeLorean",
+        "plays": 2
+      },
+      {
+        "artist": "Juju feat. Henning May",
+        "title": "Vermissen",
         "plays": 2
       },
       {
@@ -353,11 +358,6 @@
       {
         "artist": "OneRepublic",
         "title": "Sink Or Swim",
-        "plays": 1
-      },
-      {
-        "artist": "Juju feat. Henning May",
-        "title": "Vermissen",
         "plays": 1
       },
       {
@@ -923,6 +923,11 @@
       {
         "artist": "Glockenbach",
         "title": "Dirty Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "Betterov",
+        "title": "17. Juli 1989",
         "plays": 1
       }
     ],
