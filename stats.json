@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 262,
-    "music_entries": 238,
+    "total_entries": 263,
+    "music_entries": 239,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -993,6 +993,11 @@
       {
         "artist": "The Bevis Frond",
         "title": "Quietly",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "The Moon Cave",
         "plays": 1
       }
     ],
