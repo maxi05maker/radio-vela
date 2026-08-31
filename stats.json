@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 439,
-    "music_entries": 406,
+    "total_entries": 441,
+    "music_entries": 408,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -403,6 +403,11 @@
       {
         "artist": "St. Lundi",
         "title": "Nights Like This",
+        "plays": 2
+      },
+      {
+        "artist": "Sophie & The Giants",
+        "title": "Golden Nights",
         "plays": 2
       },
       {
@@ -1136,11 +1141,6 @@
         "plays": 1
       },
       {
-        "artist": "Sophie & The Giants",
-        "title": "Golden Nights",
-        "plays": 1
-      },
-      {
         "artist": "Sugababes",
         "title": "Run For Cover",
         "plays": 1
@@ -1473,6 +1473,11 @@
       {
         "artist": "Black Country Communion",
         "title": "Skyway",
+        "plays": 1
+      },
+      {
+        "artist": "Ina Müller",
+        "title": "Weiber-WG",
         "plays": 1
       }
     ],
