@@ -730,5 +730,17 @@
     "played_at": "2026-08-31 13:24:26 +0200",
     "title": "Streets Of Minneapolis",
     "artist": "Bruce Springsteen"
+  },
+  {
+    "key": "2026-08-31 13:28:56 +0200|Kaleidoskop|Johannes Oerding",
+    "played_at": "2026-08-31 13:28:56 +0200",
+    "title": "Kaleidoskop",
+    "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-08-31 13:32:36 +0200|Immer wenn wir uns sehn|LEA",
+    "played_at": "2026-08-31 13:32:36 +0200",
+    "title": "Immer wenn wir uns sehn",
+    "artist": "LEA"
   }
 ]

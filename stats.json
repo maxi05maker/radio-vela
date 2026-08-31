@@ -2,9 +2,14 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 122,
-    "music_entries": 110,
+    "total_entries": 124,
+    "music_entries": 112,
     "songs": [
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kaleidoskop",
+        "plays": 2
+      },
       {
         "artist": "Clueso",
         "title": "Deja-Vu",
@@ -38,11 +43,6 @@
       {
         "artist": "Maroon 5 Feat. Christina Aguilera",
         "title": "Moves Like Jagger",
-        "plays": 1
-      },
-      {
-        "artist": "Johannes Oerding",
-        "title": "Kaleidoskop",
         "plays": 1
       },
       {
@@ -549,11 +549,16 @@
         "artist": "Bruce Springsteen",
         "title": "Streets Of Minneapolis",
         "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Immer wenn wir uns sehn",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Clueso",
-      "title": "Deja-Vu",
+      "artist": "Johannes Oerding",
+      "title": "Kaleidoskop",
       "plays": 2
     }
   }
