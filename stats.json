@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 46,
-    "music_entries": 42,
+    "total_entries": 49,
+    "music_entries": 44,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -213,6 +213,16 @@
       {
         "artist": "Joel Corry & Tom Grennan",
         "title": "Lionheart (Fearless)",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "No Tears Left To Cry",
         "plays": 1
       }
     ],
