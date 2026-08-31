@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 365,
-    "music_entries": 337,
+    "total_entries": 368,
+    "music_entries": 340,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -241,6 +241,11 @@
         "plays": 2
       },
       {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 2
+      },
+      {
         "artist": "Florence + The Machine",
         "title": "Hunger",
         "plays": 2
@@ -283,6 +288,11 @@
       {
         "artist": "Silbermond",
         "title": "Wenn's am schönsten ist",
+        "plays": 2
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
         "plays": 2
       },
       {
@@ -841,11 +851,6 @@
         "plays": 1
       },
       {
-        "artist": "Max Giesinger",
-        "title": "Der letzte Tag",
-        "plays": 1
-      },
-      {
         "artist": "Paul Kalkbrenner",
         "title": "DREAMING ON",
         "plays": 1
@@ -898,11 +903,6 @@
       {
         "artist": "Gwen Stefani",
         "title": "Swallow My Tears",
-        "plays": 1
-      },
-      {
-        "artist": "Daya",
-        "title": "Bad Girl",
         "plays": 1
       },
       {
@@ -1358,6 +1358,11 @@
       {
         "artist": "Swiss & die Andern",
         "title": "Erstmal zu Penny",
+        "plays": 1
+      },
+      {
+        "artist": "Jill Scott",
+        "title": "BPOTY (feat. Too $hort)",
         "plays": 1
       }
     ],
