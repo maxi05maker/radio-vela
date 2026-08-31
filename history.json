@@ -1102,5 +1102,23 @@
     "played_at": "2026-08-31 16:39:19 +0200",
     "title": "Small Steps",
     "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-08-31 16:42:05 +0200|DREAMING ON|Paul Kalkbrenner",
+    "played_at": "2026-08-31 16:42:05 +0200",
+    "title": "DREAMING ON",
+    "artist": "Paul Kalkbrenner"
+  },
+  {
+    "key": "2026-08-31 16:45:55 +0200|Luxury Life feat. Coi Leray|Busta Rhymes",
+    "played_at": "2026-08-31 16:45:55 +0200",
+    "title": "Luxury Life feat. Coi Leray",
+    "artist": "Busta Rhymes"
+  },
+  {
+    "key": "2026-08-31 16:48:14 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-08-31 16:48:14 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
   }
 ]
