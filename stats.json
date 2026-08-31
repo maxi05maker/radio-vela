@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 83,
-    "music_entries": 74,
+    "total_entries": 86,
+    "music_entries": 77,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -373,6 +373,21 @@
       {
         "artist": "MGMT",
         "title": "Electric Feel",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & David Guetta",
+        "title": "Sad Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "SKIN OF MY TEETH",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
         "plays": 1
       }
     ],
