@@ -382,5 +382,17 @@
     "played_at": "2026-08-31 10:26:31 +0200",
     "title": "Mad Love",
     "artist": "Mabel"
+  },
+  {
+    "key": "2026-08-31 10:29:24 +0200|Rebellion|R3HAB, Michael Patrick Kelly, Shaggy",
+    "played_at": "2026-08-31 10:29:24 +0200",
+    "title": "Rebellion",
+    "artist": "R3HAB, Michael Patrick Kelly, Shaggy"
+  },
+  {
+    "key": "2026-08-31 10:31:57 +0200|2001|Foals",
+    "played_at": "2026-08-31 10:31:57 +0200",
+    "title": "2001",
+    "artist": "Foals"
   }
 ]

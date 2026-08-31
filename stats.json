@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 64,
-    "music_entries": 57,
+    "total_entries": 66,
+    "music_entries": 59,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -288,6 +288,16 @@
       {
         "artist": "Mabel",
         "title": "Mad Love",
+        "plays": 1
+      },
+      {
+        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
+        "title": "Rebellion",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "2001",
         "plays": 1
       }
     ],
