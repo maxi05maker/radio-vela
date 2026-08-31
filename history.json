@@ -1396,5 +1396,17 @@
     "played_at": "2026-08-31 19:17:02 +0200",
     "title": "Lucky",
     "artist": "Halsey"
+  },
+  {
+    "key": "2026-08-31 19:20:21 +0200|Safe|Nico Santos",
+    "played_at": "2026-08-31 19:20:21 +0200",
+    "title": "Safe",
+    "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-08-31 19:23:45 +0200|Beautiful Mistakes|Maroon 5 & Megan Thee Stallion",
+    "played_at": "2026-08-31 19:23:45 +0200",
+    "title": "Beautiful Mistakes",
+    "artist": "Maroon 5 & Megan Thee Stallion"
   }
 ]

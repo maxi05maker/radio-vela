@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 233,
-    "music_entries": 212,
+    "total_entries": 235,
+    "music_entries": 214,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -98,6 +98,16 @@
       {
         "artist": "Florence + The Machine",
         "title": "Hunger",
+        "plays": 2
+      },
+      {
+        "artist": "Maroon 5 & Megan Thee Stallion",
+        "title": "Beautiful Mistakes",
+        "plays": 2
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Safe",
         "plays": 2
       },
       {
@@ -416,11 +426,6 @@
         "plays": 1
       },
       {
-        "artist": "Maroon 5 & Megan Thee Stallion",
-        "title": "Beautiful Mistakes",
-        "plays": 1
-      },
-      {
         "artist": "Alli Neumann",
         "title": "Madonna Whore Komplex",
         "plays": 1
@@ -443,11 +448,6 @@
       {
         "artist": "Sarah Connor & Sido",
         "title": "Interstellar (Zwischen den Sternen)",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Safe",
         "plays": 1
       },
       {
