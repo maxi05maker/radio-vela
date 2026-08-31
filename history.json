@@ -1672,5 +1672,17 @@
     "played_at": "2026-08-31 21:41:09 +0200",
     "title": "Love Who You Love",
     "artist": "Romy"
+  },
+  {
+    "key": "2026-08-31 21:45:09 +0200|Immer wenn wir uns sehn|LEA",
+    "played_at": "2026-08-31 21:45:09 +0200",
+    "title": "Immer wenn wir uns sehn",
+    "artist": "LEA"
+  },
+  {
+    "key": "2026-08-31 21:48:11 +0200|Kaleidoskop|Johannes Oerding",
+    "played_at": "2026-08-31 21:48:11 +0200",
+    "title": "Kaleidoskop",
+    "artist": "Johannes Oerding"
   }
 ]

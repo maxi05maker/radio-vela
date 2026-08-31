@@ -2,9 +2,14 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 279,
-    "music_entries": 254,
+    "total_entries": 281,
+    "music_entries": 256,
     "songs": [
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kaleidoskop",
+        "plays": 3
+      },
       {
         "artist": "Lakeyah",
         "title": "Mind Yo Business feat. Latto",
@@ -14,11 +19,6 @@
         "artist": "Eli Preiss",
         "title": "Was ist der Prei$$",
         "plays": 3
-      },
-      {
-        "artist": "Johannes Oerding",
-        "title": "Kaleidoskop",
-        "plays": 2
       },
       {
         "artist": "Adele",
@@ -213,6 +213,11 @@
       {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
+        "plays": 2
+      },
+      {
+        "artist": "LEA",
+        "title": "Immer wenn wir uns sehn",
         "plays": 2
       },
       {
@@ -583,11 +588,6 @@
       {
         "artist": "Bruce Springsteen",
         "title": "Streets Of Minneapolis",
-        "plays": 1
-      },
-      {
-        "artist": "LEA",
-        "title": "Immer wenn wir uns sehn",
         "plays": 1
       },
       {
@@ -1027,8 +1027,8 @@
       }
     ],
     "top_song": {
-      "artist": "Lakeyah",
-      "title": "Mind Yo Business feat. Latto",
+      "artist": "Johannes Oerding",
+      "title": "Kaleidoskop",
       "plays": 3
     }
   }
