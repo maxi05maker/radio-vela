@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 361,
-    "music_entries": 333,
+    "total_entries": 364,
+    "music_entries": 336,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -156,6 +156,11 @@
         "plays": 2
       },
       {
+        "artist": "amaarae",
+        "title": "S.M.O.",
+        "plays": 2
+      },
+      {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
         "plays": 2
@@ -283,6 +288,11 @@
       {
         "artist": "Kwam.e & Ove",
         "title": "Hallow Kitty",
+        "plays": 2
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
         "plays": 2
       },
       {
@@ -588,11 +598,6 @@
       {
         "artist": "Rag'n'Bone Man",
         "title": "All You Ever Wanted",
-        "plays": 1
-      },
-      {
-        "artist": "amaarae",
-        "title": "S.M.O.",
         "plays": 1
       },
       {
@@ -1161,11 +1166,6 @@
         "plays": 1
       },
       {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
-        "plays": 1
-      },
-      {
         "artist": "Sophia Kennedy",
         "title": "Rodeo",
         "plays": 1
@@ -1353,6 +1353,11 @@
       {
         "artist": "Purple Disco Machine feat. Retrosonix",
         "title": "Ghost Town",
+        "plays": 1
+      },
+      {
+        "artist": "Swiss & die Andern",
+        "title": "Erstmal zu Penny",
         "plays": 1
       }
     ],
