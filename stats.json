@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 219,
-    "music_entries": 199,
+    "total_entries": 220,
+    "music_entries": 200,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -913,6 +913,11 @@
       {
         "artist": "Ramon Roselly",
         "title": "Eine Nacht",
+        "plays": 1
+      },
+      {
+        "artist": "Joe Bonamassa",
+        "title": "Tattoo'd Lady",
         "plays": 1
       }
     ],
