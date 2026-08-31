@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 27,
-    "music_entries": 24,
+    "total_entries": 28,
+    "music_entries": 25,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -123,6 +123,11 @@
       {
         "artist": "Echosmith",
         "title": "Cool Kids",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
         "plays": 1
       }
     ],
