@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 389,
-    "music_entries": 360,
+    "total_entries": 391,
+    "music_entries": 362,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -68,6 +68,11 @@
       {
         "artist": "Imagine Dragons",
         "title": "Whatever It Takes",
+        "plays": 3
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Last Time I Saw You",
         "plays": 3
       },
       {
@@ -216,11 +221,6 @@
         "plays": 2
       },
       {
-        "artist": "Nicki Minaj",
-        "title": "Last Time I Saw You",
-        "plays": 2
-      },
-      {
         "artist": "Joel Corry & Tom Grennan",
         "title": "Lionheart (Fearless)",
         "plays": 2
@@ -328,6 +328,11 @@
       {
         "artist": "Luis Fonsi feat. Demi Lovato",
         "title": "Échame La Culpa",
+        "plays": 2
+      },
+      {
+        "artist": "Mine",
+        "title": "Eiscreme",
         "plays": 2
       },
       {
@@ -973,11 +978,6 @@
       {
         "artist": "OG Keemo",
         "title": "Vögel",
-        "plays": 1
-      },
-      {
-        "artist": "Mine",
-        "title": "Eiscreme",
         "plays": 1
       },
       {
