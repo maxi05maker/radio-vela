@@ -1156,5 +1156,23 @@
     "played_at": "2026-08-31 17:06:56 +0200",
     "title": "As It Was",
     "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-08-31 17:09:43 +0200|Dancing Feet|Kygo feat. DNCE",
+    "played_at": "2026-08-31 17:09:43 +0200",
+    "title": "Dancing Feet",
+    "artist": "Kygo feat. DNCE"
+  },
+  {
+    "key": "2026-08-31 17:13:18 +0200|PRIDE|Felix Jaehn JHart",
+    "played_at": "2026-08-31 17:13:18 +0200",
+    "title": "PRIDE",
+    "artist": "Felix Jaehn JHart"
+  },
+  {
+    "key": "2026-08-31 17:15:57 +0200|2AM|Foals",
+    "played_at": "2026-08-31 17:15:57 +0200",
+    "title": "2AM",
+    "artist": "Foals"
   }
 ]
