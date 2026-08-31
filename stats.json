@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 293,
-    "music_entries": 266,
+    "total_entries": 295,
+    "music_entries": 268,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -103,6 +103,11 @@
       {
         "artist": "Alex Cameron",
         "title": "Best Life",
+        "plays": 2
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Shotgun",
         "plays": 2
       },
       {
@@ -533,11 +538,6 @@
       {
         "artist": "Tyla & Zara Larsson",
         "title": "SHE DID IT AGAIN",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Shotgun",
         "plays": 1
       },
       {
@@ -1043,6 +1043,11 @@
       {
         "artist": "David Guetta, Hypaton, Bonnie Tyler",
         "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
         "plays": 1
       }
     ],

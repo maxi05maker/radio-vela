@@ -1756,5 +1756,17 @@
     "played_at": "2026-08-31 22:23:25 +0200",
     "title": "Allein sein",
     "artist": "Mario Novembre"
+  },
+  {
+    "key": "2026-08-31 22:26:25 +0200|Shotgun|George Ezra",
+    "played_at": "2026-08-31 22:26:25 +0200",
+    "title": "Shotgun",
+    "artist": "George Ezra"
+  },
+  {
+    "key": "2026-08-31 22:29:46 +0200|Slow Motion|Alessia Cara",
+    "played_at": "2026-08-31 22:29:46 +0200",
+    "title": "Slow Motion",
+    "artist": "Alessia Cara"
   }
 ]
