@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 137,
-    "music_entries": 123,
+    "total_entries": 139,
+    "music_entries": 125,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -608,6 +608,16 @@
       {
         "artist": "Die Toten Hosen",
         "title": "Tage wie diese",
+        "plays": 1
+      },
+      {
+        "artist": "Doechii",
+        "title": "Anxiety",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
         "plays": 1
       }
     ],
