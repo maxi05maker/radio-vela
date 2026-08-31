@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 149,
-    "music_entries": 134,
+    "total_entries": 151,
+    "music_entries": 136,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -663,6 +663,16 @@
       {
         "artist": "Finch (feat. Blümchen)",
         "title": "Herzalarm",
+        "plays": 1
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "That’s So True",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "No Roots",
         "plays": 1
       }
     ],
