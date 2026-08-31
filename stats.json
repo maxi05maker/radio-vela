@@ -2,9 +2,14 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 370,
-    "music_entries": 342,
+    "total_entries": 372,
+    "music_entries": 344,
     "songs": [
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 4
+      },
       {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
@@ -38,11 +43,6 @@
       {
         "artist": "Imagine Dragons",
         "title": "Whatever It Takes",
-        "plays": 3
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 3
       },
       {
@@ -1369,12 +1369,17 @@
         "artist": "Kylie Minogue & YouNotUs",
         "title": "Someone For Me",
         "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Tokio Hotel",
-      "title": "Rette Mich",
-      "plays": 3
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
+      "plays": 4
     }
   }
 }
