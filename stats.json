@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 203,
-    "music_entries": 184,
+    "total_entries": 204,
+    "music_entries": 185,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -863,6 +863,11 @@
       {
         "artist": "Michael Patrick Kelly",
         "title": "Throwback",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna",
+        "title": "I Feel So Free",
         "plays": 1
       }
     ],
