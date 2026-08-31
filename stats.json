@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 200,
-    "music_entries": 181,
+    "total_entries": 203,
+    "music_entries": 184,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -33,6 +33,11 @@
       {
         "artist": "Clueso",
         "title": "Deja-Vu",
+        "plays": 2
+      },
+      {
+        "artist": "King Gizzard & The Lizard Wizard",
+        "title": "Field of Vision",
         "plays": 2
       },
       {
@@ -258,11 +263,6 @@
       {
         "artist": "Dua Lipa",
         "title": "Physical",
-        "plays": 1
-      },
-      {
-        "artist": "King Gizzard & The Lizard Wizard",
-        "title": "Field of Vision",
         "plays": 1
       },
       {
@@ -853,6 +853,16 @@
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
+        "title": "VIEWS",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
         "plays": 1
       }
     ],
