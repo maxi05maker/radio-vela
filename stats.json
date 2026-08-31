@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 239,
-    "music_entries": 218,
+    "total_entries": 242,
+    "music_entries": 221,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -118,6 +118,16 @@
       {
         "artist": "Nico Santos",
         "title": "Safe",
+        "plays": 2
+      },
+      {
+        "artist": "Justin Wellington feat. Small Jam",
+        "title": "Iko Iko",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -458,16 +468,6 @@
       {
         "artist": "KATSEYE",
         "title": "Internet Girl",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Wellington feat. Small Jam",
-        "title": "Iko Iko",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 1
       },
       {
@@ -953,6 +953,11 @@
       {
         "artist": "Kevin Morby",
         "title": "Die Young",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Weißt du überhaupt noch wer ich bin?",
         "plays": 1
       }
     ],
