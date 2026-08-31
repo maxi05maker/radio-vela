@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 175,
-    "music_entries": 157,
+    "total_entries": 178,
+    "music_entries": 160,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -758,6 +758,21 @@
       {
         "artist": "A1 x J1 & Tion Wayne",
         "title": "Night Away (Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "Hit the Wall",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster, LEA",
+        "title": "Drei Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Whatever It Takes",
         "plays": 1
       }
     ],

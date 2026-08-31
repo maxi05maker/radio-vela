@@ -1048,5 +1048,23 @@
     "played_at": "2026-08-31 16:10:20 +0200",
     "title": "Night Away (Dance)",
     "artist": "A1 x J1 & Tion Wayne"
+  },
+  {
+    "key": "2026-08-31 16:13:16 +0200|Hit the Wall|Gracie Abrams",
+    "played_at": "2026-08-31 16:13:16 +0200",
+    "title": "Hit the Wall",
+    "artist": "Gracie Abrams"
+  },
+  {
+    "key": "2026-08-31 16:16:30 +0200|Drei Uhr Nachts|Mark Forster, LEA",
+    "played_at": "2026-08-31 16:16:30 +0200",
+    "title": "Drei Uhr Nachts",
+    "artist": "Mark Forster, LEA"
+  },
+  {
+    "key": "2026-08-31 16:19:11 +0200|Whatever It Takes|Imagine Dragons",
+    "played_at": "2026-08-31 16:19:11 +0200",
+    "title": "Whatever It Takes",
+    "artist": "Imagine Dragons"
   }
 ]
