@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 126,
-    "music_entries": 114,
+    "total_entries": 131,
+    "music_entries": 118,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -563,6 +563,26 @@
       {
         "artist": "Rita Ora Feat. 6Lack",
         "title": "Only Want You",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "Time To Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Nickelback",
+        "title": "When We Stand Together",
+        "plays": 1
+      },
+      {
+        "artist": "Metronomy",
+        "title": "The Look",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna & Sabrina Carpenter",
+        "title": "Bring Your Love",
         "plays": 1
       }
     ],
