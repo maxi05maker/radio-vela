@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 334,
-    "music_entries": 303,
+    "total_entries": 336,
+    "music_entries": 305,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -263,6 +263,11 @@
       {
         "artist": "Mario Novembre",
         "title": "Allein sein",
+        "plays": 2
+      },
+      {
+        "artist": "Die Toten Hosen",
+        "title": "Tage wie diese",
         "plays": 2
       },
       {
@@ -721,11 +726,6 @@
         "plays": 1
       },
       {
-        "artist": "Die Toten Hosen",
-        "title": "Tage wie diese",
-        "plays": 1
-      },
-      {
         "artist": "Doechii",
         "title": "Anxiety",
         "plays": 1
@@ -1113,6 +1113,11 @@
       {
         "artist": "1986zig",
         "title": "Nur dir gehör'n",
+        "plays": 1
+      },
+      {
+        "artist": "amaarae",
+        "title": "S.M.O.",
         "plays": 1
       }
     ],
