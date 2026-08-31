@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 313,
-    "music_entries": 284,
+    "total_entries": 316,
+    "music_entries": 287,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -301,6 +301,11 @@
         "plays": 2
       },
       {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 2
+      },
+      {
         "artist": "Topic & A7S",
         "title": "Kernkraft 400 (A Better Day)",
         "plays": 2
@@ -308,6 +313,11 @@
       {
         "artist": "Ed Sheeran, Lil Baby",
         "title": "2step (feat. Lil Baby)",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
         "plays": 2
       },
       {
@@ -716,11 +726,6 @@
         "plays": 1
       },
       {
-        "artist": "Leony",
-        "title": "Faded Love",
-        "plays": 1
-      },
-      {
         "artist": "Farin Urlaub",
         "title": "Sie (Single Edit)",
         "plays": 1
@@ -748,11 +753,6 @@
       {
         "artist": "Frans",
         "title": "If I Were Sorry",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Remember Me",
         "plays": 1
       },
       {
@@ -1078,6 +1078,11 @@
       {
         "artist": "Malik Harris",
         "title": "lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "Billy Idol feat. Avril Lavigne",
+        "title": "77",
         "plays": 1
       }
     ],
