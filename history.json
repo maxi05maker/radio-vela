@@ -112,5 +112,23 @@
     "played_at": "2026-08-31 08:02:10 +0200",
     "title": "Senjutsu",
     "artist": "Iron Maiden"
+  },
+  {
+    "key": "2026-08-31 08:10:30 +0200|We Don't Talk Anymore|Charlie Puth feat. Selena Gomez",
+    "played_at": "2026-08-31 08:10:30 +0200",
+    "title": "We Don't Talk Anymore",
+    "artist": "Charlie Puth feat. Selena Gomez"
+  },
+  {
+    "key": "2026-08-31 08:14:07 +0200|Fire + Ice (Radio Edit)|Purple Disco Machine feat. Jake Shears",
+    "played_at": "2026-08-31 08:14:07 +0200",
+    "title": "Fire + Ice (Radio Edit)",
+    "artist": "Purple Disco Machine feat. Jake Shears"
+  },
+  {
+    "key": "2026-08-31 08:17:14 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-31 08:17:14 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
