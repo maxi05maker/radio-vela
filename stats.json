@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 182,
-    "music_entries": 164,
+    "total_entries": 184,
+    "music_entries": 166,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -788,6 +788,16 @@
       {
         "artist": "Avalanche",
         "title": "Down For The Count",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 1
       }
     ],
