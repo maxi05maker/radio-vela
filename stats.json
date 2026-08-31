@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 374,
-    "music_entries": 345,
+    "total_entries": 377,
+    "music_entries": 348,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -33,6 +33,11 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 3
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 3
       },
       {
@@ -153,11 +158,6 @@
       {
         "artist": "Sia",
         "title": "Together",
-        "plays": 2
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
         "plays": 2
       },
       {
@@ -303,6 +303,11 @@
       {
         "artist": "Kwam.e & Ove",
         "title": "Hallow Kitty",
+        "plays": 2
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Keine Tränen",
         "plays": 2
       },
       {
@@ -1111,11 +1116,6 @@
         "plays": 1
       },
       {
-        "artist": "Badmómzjay",
-        "title": "Keine Tränen",
-        "plays": 1
-      },
-      {
         "artist": "Lana Del Rey",
         "title": "Henry, Come On",
         "plays": 1
@@ -1378,6 +1378,11 @@
       {
         "artist": "Die Nerven",
         "title": "BIS ANS MEER",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood",
+        "title": "Secrets",
         "plays": 1
       }
     ],
