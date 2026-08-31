@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 326,
-    "music_entries": 297,
+    "total_entries": 329,
+    "music_entries": 299,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -318,6 +318,16 @@
       {
         "artist": "Ed Sheeran, Lil Baby",
         "title": "2step (feat. Lil Baby)",
+        "plays": 2
+      },
+      {
+        "artist": "Leony",
+        "title": "Remedy",
+        "plays": 2
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
         "plays": 2
       },
       {
@@ -756,18 +766,8 @@
         "plays": 1
       },
       {
-        "artist": "Leony",
-        "title": "Remedy",
-        "plays": 1
-      },
-      {
         "artist": "Oimara, Melissa Naschenweng",
         "title": "Koa Bergbauernbua",
-        "plays": 1
-      },
-      {
-        "artist": "Frans",
-        "title": "If I Were Sorry",
         "plays": 1
       },
       {
