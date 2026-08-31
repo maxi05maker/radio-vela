@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 405,
-    "music_entries": 375,
+    "total_entries": 408,
+    "music_entries": 377,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -358,6 +358,11 @@
       {
         "artist": "Panic! At the Disco",
         "title": "High Hopes",
+        "plays": 2
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Do It Better (feat. Zoe Wees)",
         "plays": 2
       },
       {
@@ -1036,11 +1041,6 @@
         "plays": 1
       },
       {
-        "artist": "Felix Jaehn",
-        "title": "Do It Better (feat. Zoe Wees)",
-        "plays": 1
-      },
-      {
         "artist": "Avalanche",
         "title": "Down For The Count",
         "plays": 1
@@ -1423,6 +1423,11 @@
       {
         "artist": "Ariana Grande",
         "title": "petal",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Frampton, Benmont Tench",
+        "title": "Buried Treasure",
         "plays": 1
       }
     ],
