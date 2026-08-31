@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 425,
-    "music_entries": 393,
+    "total_entries": 428,
+    "music_entries": 396,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -388,6 +388,16 @@
       {
         "artist": "Montez",
         "title": "Auf & Ab",
+        "plays": 2
+      },
+      {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
+        "plays": 2
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Higher Power",
         "plays": 2
       },
       {
@@ -1091,11 +1101,6 @@
         "plays": 1
       },
       {
-        "artist": "David Guetta feat. Sam Martin",
-        "title": "Lovers on the Sun",
-        "plays": 1
-      },
-      {
         "artist": "Kraftklub",
         "title": "Wenn ich tot bin, fang ich wieder an",
         "plays": 1
@@ -1123,11 +1128,6 @@
       {
         "artist": "Sugababes",
         "title": "Run For Cover",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "Higher Power",
         "plays": 1
       },
       {
@@ -1453,6 +1453,11 @@
       {
         "artist": "Tate McRae",
         "title": "Its ok Im ok",
+        "plays": 1
+      },
+      {
+        "artist": "JENNIE, Dua Lipa",
+        "title": "Handlebars",
         "plays": 1
       }
     ],

@@ -2548,5 +2548,23 @@
     "played_at": "2026-08-31 05:56:32 +0200",
     "title": "So Happy It Hurts",
     "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-08-31 06:00:06 +0200|Lovers on the Sun|David Guetta feat. Sam Martin",
+    "played_at": "2026-08-31 06:00:06 +0200",
+    "title": "Lovers on the Sun",
+    "artist": "David Guetta feat. Sam Martin"
+  },
+  {
+    "key": "2026-08-31 06:03:30 +0200|Handlebars|JENNIE, Dua Lipa",
+    "played_at": "2026-08-31 06:03:30 +0200",
+    "title": "Handlebars",
+    "artist": "JENNIE, Dua Lipa"
+  },
+  {
+    "key": "2026-08-31 06:06:35 +0200|Higher Power|Coldplay",
+    "played_at": "2026-08-31 06:06:35 +0200",
+    "title": "Higher Power",
+    "artist": "Coldplay"
   }
 ]
