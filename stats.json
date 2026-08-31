@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 226,
-    "music_entries": 206,
+    "total_entries": 228,
+    "music_entries": 208,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -76,8 +76,18 @@
         "plays": 2
       },
       {
+        "artist": "Alex Cameron",
+        "title": "Best Life",
+        "plays": 2
+      },
+      {
         "artist": "MGMT",
         "title": "Electric Feel",
+        "plays": 2
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
         "plays": 2
       },
       {
@@ -381,11 +391,6 @@
         "plays": 1
       },
       {
-        "artist": "Alex Cameron",
-        "title": "Best Life",
-        "plays": 1
-      },
-      {
         "artist": "George Ezra",
         "title": "Shotgun",
         "plays": 1
@@ -408,11 +413,6 @@
       {
         "artist": "Demi Lovato",
         "title": "SKIN OF MY TEETH",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "Hunger",
         "plays": 1
       },
       {
