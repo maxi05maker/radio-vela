@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 410,
-    "music_entries": 379,
+    "total_entries": 412,
+    "music_entries": 380,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -1428,6 +1428,11 @@
       {
         "artist": "Peter Frampton, Benmont Tench",
         "title": "Buried Treasure",
+        "plays": 1
+      },
+      {
+        "artist": "LISA FEAT. DOJA CAT & RAYE",
+        "title": "BORN AGAIN",
         "plays": 1
       }
     ],
