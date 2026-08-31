@@ -724,5 +724,11 @@
     "played_at": "2026-08-31 13:15:34 +0200",
     "title": "Minimum",
     "artist": "Clueso"
+  },
+  {
+    "key": "2026-08-31 13:24:26 +0200|Streets Of Minneapolis|Bruce Springsteen",
+    "played_at": "2026-08-31 13:24:26 +0200",
+    "title": "Streets Of Minneapolis",
+    "artist": "Bruce Springsteen"
   }
 ]
