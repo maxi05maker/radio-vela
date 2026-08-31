@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 24,
-    "music_entries": 22,
+    "total_entries": 27,
+    "music_entries": 24,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -113,6 +113,16 @@
       {
         "artist": "Lana Del Rey",
         "title": "Happiness Is A Butterfly",
+        "plays": 1
+      },
+      {
+        "artist": "Larkin Poe",
+        "title": "If God Is A Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Echosmith",
+        "title": "Cool Kids",
         "plays": 1
       }
     ],
