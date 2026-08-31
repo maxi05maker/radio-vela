@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 269,
-    "music_entries": 244,
+    "total_entries": 271,
+    "music_entries": 246,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -113,6 +113,11 @@
       {
         "artist": "MGMT",
         "title": "Electric Feel",
+        "plays": 2
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "SKIN OF MY TEETH",
         "plays": 2
       },
       {
@@ -483,11 +488,6 @@
       {
         "artist": "Bebe Rexha & David Guetta",
         "title": "Sad Girls",
-        "plays": 1
-      },
-      {
-        "artist": "Demi Lovato",
-        "title": "SKIN OF MY TEETH",
         "plays": 1
       },
       {
@@ -1008,6 +1008,11 @@
       {
         "artist": "THE SUBWAYS",
         "title": "I Need To Feel You Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Jungle",
         "plays": 1
       }
     ],
