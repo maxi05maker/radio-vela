@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 412,
-    "music_entries": 380,
+    "total_entries": 414,
+    "music_entries": 382,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -361,6 +361,11 @@
         "plays": 2
       },
       {
+        "artist": "CRO",
+        "title": "Fallin",
+        "plays": 2
+      },
+      {
         "artist": "Felix Jaehn",
         "title": "Do It Better (feat. Zoe Wees)",
         "plays": 2
@@ -378,6 +383,11 @@
       {
         "artist": "Badmómzjay",
         "title": "Keine Tränen",
+        "plays": 2
+      },
+      {
+        "artist": "Arcade Fire",
+        "title": "Unconditional I",
         "plays": 2
       },
       {
@@ -1046,11 +1056,6 @@
         "plays": 1
       },
       {
-        "artist": "CRO",
-        "title": "Fallin",
-        "plays": 1
-      },
-      {
         "artist": "Avalanche",
         "title": "Down For The Count",
         "plays": 1
@@ -1168,11 +1173,6 @@
       {
         "artist": "Sophia Kennedy",
         "title": "Rodeo",
-        "plays": 1
-      },
-      {
-        "artist": "Arcade Fire",
-        "title": "Unconditional I",
         "plays": 1
       },
       {
