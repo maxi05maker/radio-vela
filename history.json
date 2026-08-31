@@ -1576,5 +1576,23 @@
     "played_at": "2026-08-31 20:47:51 +0200",
     "title": "The Moon Cave",
     "artist": "Gorillaz"
+  },
+  {
+    "key": "2026-08-31 20:52:49 +0200|Someone You Loved|Lewis Capaldi",
+    "played_at": "2026-08-31 20:52:49 +0200",
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-08-31 20:55:54 +0200|When I'm Gone|Alesso & Katy Perry",
+    "played_at": "2026-08-31 20:55:54 +0200",
+    "title": "When I'm Gone",
+    "artist": "Alesso & Katy Perry"
+  },
+  {
+    "key": "2026-08-31 20:58:35 +0200|I Need To Feel You Closer|THE SUBWAYS",
+    "played_at": "2026-08-31 20:58:35 +0200",
+    "title": "I Need To Feel You Closer",
+    "artist": "THE SUBWAYS"
   }
 ]
