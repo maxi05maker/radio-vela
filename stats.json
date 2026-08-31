@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 295,
-    "music_entries": 268,
+    "total_entries": 297,
+    "music_entries": 270,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -251,6 +251,11 @@
         "plays": 2
       },
       {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
+        "plays": 2
+      },
+      {
         "artist": "Wincent Weiss",
         "title": "Wer wenn nicht wir",
         "plays": 2
@@ -263,6 +268,11 @@
       {
         "artist": "Max Giesinger",
         "title": "Der letzte Tag",
+        "plays": 2
+      },
+      {
+        "artist": "Gryffin & OneRepublic",
+        "title": "You Were Loved",
         "plays": 2
       },
       {
@@ -646,11 +656,6 @@
         "plays": 1
       },
       {
-        "artist": "The Weeknd",
-        "title": "Out Of Time",
-        "plays": 1
-      },
-      {
         "artist": "Noah Kahan",
         "title": "The Great Divide",
         "plays": 1
@@ -668,11 +673,6 @@
       {
         "artist": "The Gems",
         "title": "Hot Bait",
-        "plays": 1
-      },
-      {
-        "artist": "Gryffin & OneRepublic",
-        "title": "You Were Loved",
         "plays": 1
       },
       {
