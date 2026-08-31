@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 352,
-    "music_entries": 325,
+    "total_entries": 355,
+    "music_entries": 327,
     "songs": [
       {
         "artist": "Tokio Hotel",
@@ -233,6 +233,11 @@
       {
         "artist": "OneRepublic",
         "title": "Counting Stars",
+        "plays": 2
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Parallelwelt",
         "plays": 2
       },
       {
@@ -826,11 +831,6 @@
         "plays": 1
       },
       {
-        "artist": "Tim Bendzko",
-        "title": "Parallelwelt",
-        "plays": 1
-      },
-      {
         "artist": "Myles Smith",
         "title": "Stay (If You Wanna Dance)",
         "plays": 1
@@ -1338,6 +1338,11 @@
       {
         "artist": "Sarah Connor",
         "title": "FICKA",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey",
+        "title": "Kids In Love",
         "plays": 1
       }
     ],
