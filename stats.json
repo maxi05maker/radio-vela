@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 209,
-    "music_entries": 190,
+    "total_entries": 211,
+    "music_entries": 191,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -883,6 +883,11 @@
       {
         "artist": "Jeremias",
         "title": "Ich mags",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
         "plays": 1
       }
     ],
