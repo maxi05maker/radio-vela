@@ -1738,5 +1738,23 @@
     "played_at": "2026-08-31 22:14:53 +0200",
     "title": "Herzalarm",
     "artist": "Finch (feat. Blümchen)"
+  },
+  {
+    "key": "2026-08-31 22:18:03 +0200|Open Up|Matt Simons",
+    "played_at": "2026-08-31 22:18:03 +0200",
+    "title": "Open Up",
+    "artist": "Matt Simons"
+  },
+  {
+    "key": "2026-08-31 22:20:51 +0200|Together|David Guetta, Hypaton, Bonnie Tyler",
+    "played_at": "2026-08-31 22:20:51 +0200",
+    "title": "Together",
+    "artist": "David Guetta, Hypaton, Bonnie Tyler"
+  },
+  {
+    "key": "2026-08-31 22:23:25 +0200|Allein sein|Mario Novembre",
+    "played_at": "2026-08-31 22:23:25 +0200",
+    "title": "Allein sein",
+    "artist": "Mario Novembre"
   }
 ]

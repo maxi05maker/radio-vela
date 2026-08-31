@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 290,
-    "music_entries": 263,
+    "total_entries": 293,
+    "music_entries": 266,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -196,6 +196,11 @@
         "plays": 2
       },
       {
+        "artist": "Matt Simons",
+        "title": "Open Up",
+        "plays": 2
+      },
+      {
         "artist": "Radio Karen",
         "title": "Die Beste Musik Nonstop",
         "plays": 2
@@ -233,6 +238,11 @@
       {
         "artist": "Lana Del Rey",
         "title": "Arcadia",
+        "plays": 2
+      },
+      {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
         "plays": 2
       },
       {
@@ -581,11 +591,6 @@
         "plays": 1
       },
       {
-        "artist": "Matt Simons",
-        "title": "Open Up",
-        "plays": 1
-      },
-      {
         "artist": "Michael Patrick Kelly",
         "title": "The One",
         "plays": 1
@@ -628,11 +633,6 @@
       {
         "artist": "Linkin Park",
         "title": "Unshatter",
-        "plays": 1
-      },
-      {
-        "artist": "Mario Novembre",
-        "title": "Allein sein",
         "plays": 1
       },
       {
@@ -1038,6 +1038,11 @@
       {
         "artist": "Swedish House Mafia",
         "title": "Wait So Long",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Hypaton, Bonnie Tyler",
+        "title": "Together",
         "plays": 1
       }
     ],
