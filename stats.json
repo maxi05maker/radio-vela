@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 39,
-    "music_entries": 36,
+    "total_entries": 42,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -183,6 +183,16 @@
       {
         "artist": "Nico Santos",
         "title": "Weekend Lover",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Deja-Vu",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Never Give Up",
         "plays": 1
       }
     ],
