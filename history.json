@@ -2386,5 +2386,23 @@
     "played_at": "2026-08-31 04:31:37 +0200",
     "title": "Small Steps",
     "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-08-31 04:34:23 +0200|And Love|Florence + The Machine",
+    "played_at": "2026-08-31 04:34:23 +0200",
+    "title": "And Love",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "key": "2026-08-31 04:37:08 +0200|Hold Me Closer|Elton John, Britney Spears",
+    "played_at": "2026-08-31 04:37:08 +0200",
+    "title": "Hold Me Closer",
+    "artist": "Elton John, Britney Spears"
+  },
+  {
+    "key": "2026-08-31 04:40:31 +0200|Rette Mich|Tokio Hotel",
+    "played_at": "2026-08-31 04:40:31 +0200",
+    "title": "Rette Mich",
+    "artist": "Tokio Hotel"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 398,
-    "music_entries": 368,
+    "total_entries": 401,
+    "music_entries": 371,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -13,7 +13,7 @@
       {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
-        "plays": 3
+        "plays": 4
       },
       {
         "artist": "Revolverheld",
@@ -338,6 +338,11 @@
       {
         "artist": "Mine",
         "title": "Eiscreme",
+        "plays": 2
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
         "plays": 2
       },
       {
@@ -991,11 +996,6 @@
         "plays": 1
       },
       {
-        "artist": "Elton John, Britney Spears",
-        "title": "Hold Me Closer",
-        "plays": 1
-      },
-      {
         "artist": "My Chemical Romance",
         "title": "The Foundations of Decay",
         "plays": 1
@@ -1408,6 +1408,11 @@
       {
         "artist": "Zach Bryan",
         "title": "Pink Skies",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
         "plays": 1
       }
     ],
