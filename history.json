@@ -1942,5 +1942,17 @@
     "played_at": "2026-08-31 23:55:55 +0200",
     "title": "Du und Ich",
     "artist": "Blond"
+  },
+  {
+    "key": "2026-08-31 23:59:12 +0200|Sexy Eyes|Dr. Hook",
+    "played_at": "2026-08-31 23:59:12 +0200",
+    "title": "Sexy Eyes",
+    "artist": "Dr. Hook"
+  },
+  {
+    "key": "2026-09-01 00:02:10 +0200|Maktoub|Alewya",
+    "played_at": "2026-09-01 00:02:10 +0200",
+    "title": "Maktoub",
+    "artist": "Alewya"
   }
 ]

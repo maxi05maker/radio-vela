@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 324,
-    "music_entries": 295,
+    "total_entries": 326,
+    "music_entries": 297,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -343,6 +343,11 @@
       {
         "artist": "Busta Rhymes",
         "title": "Luxury Life feat. Coi Leray",
+        "plays": 2
+      },
+      {
+        "artist": "Dr. Hook",
+        "title": "Sexy Eyes",
         "plays": 2
       },
       {
@@ -821,11 +826,6 @@
         "plays": 1
       },
       {
-        "artist": "Dr. Hook",
-        "title": "Sexy Eyes",
-        "plays": 1
-      },
-      {
         "artist": "OneRepublic",
         "title": "Sunshine",
         "plays": 1
@@ -1098,6 +1098,11 @@
       {
         "artist": "Jessie Ware",
         "title": "Superbloom",
+        "plays": 1
+      },
+      {
+        "artist": "Alewya",
+        "title": "Maktoub",
         "plays": 1
       }
     ],
