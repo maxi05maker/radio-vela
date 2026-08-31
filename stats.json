@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 2,
-    "music_entries": 2,
+    "total_entries": 4,
+    "music_entries": 4,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -13,6 +13,16 @@
       {
         "artist": "Calum Scott",
         "title": "My World",
+        "plays": 1
+      },
+      {
+        "artist": "Elle King",
+        "title": "Ex's & Oh's",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
         "plays": 1
       }
     ],
