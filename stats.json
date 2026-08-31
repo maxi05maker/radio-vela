@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 17,
-    "music_entries": 16,
+    "total_entries": 18,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -83,6 +83,11 @@
       {
         "artist": "OG Keemo",
         "title": "Vögel",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Regalo",
         "plays": 1
       }
     ],
