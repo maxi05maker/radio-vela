@@ -1174,5 +1174,17 @@
     "played_at": "2026-08-31 17:15:57 +0200",
     "title": "2AM",
     "artist": "Foals"
+  },
+  {
+    "key": "2026-08-31 17:19:41 +0200|Señorita|Shawn Mendes & Camila Cabello",
+    "played_at": "2026-08-31 17:19:41 +0200",
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello"
+  },
+  {
+    "key": "2026-08-31 17:22:52 +0200|I'M HIS, HE'S MINE ft. Doechii|Katy Perry",
+    "played_at": "2026-08-31 17:22:52 +0200",
+    "title": "I'M HIS, HE'S MINE ft. Doechii",
+    "artist": "Katy Perry"
   }
 ]
