@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 259,
-    "music_entries": 235,
+    "total_entries": 262,
+    "music_entries": 238,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -126,6 +126,11 @@
         "plays": 2
       },
       {
+        "artist": "Alli Neumann",
+        "title": "Madonna Whore Komplex",
+        "plays": 2
+      },
+      {
         "artist": "OneRepublic",
         "title": "Run",
         "plays": 2
@@ -168,6 +173,11 @@
       {
         "artist": "Lena",
         "title": "Satellite",
+        "plays": 2
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
         "plays": 2
       },
       {
@@ -466,11 +476,6 @@
         "plays": 1
       },
       {
-        "artist": "Alli Neumann",
-        "title": "Madonna Whore Komplex",
-        "plays": 1
-      },
-      {
         "artist": "Teuterekordz",
         "title": "Teute All-Star",
         "plays": 1
@@ -548,11 +553,6 @@
       {
         "artist": "Waving The Guns",
         "title": "Wingsuit",
-        "plays": 1
-      },
-      {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
         "plays": 1
       },
       {
@@ -988,6 +988,11 @@
       {
         "artist": "Mika",
         "title": "Modern Times",
+        "plays": 1
+      },
+      {
+        "artist": "The Bevis Frond",
+        "title": "Quietly",
         "plays": 1
       }
     ],
