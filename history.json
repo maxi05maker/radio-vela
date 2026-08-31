@@ -2566,5 +2566,17 @@
     "played_at": "2026-08-31 06:06:35 +0200",
     "title": "Higher Power",
     "artist": "Coldplay"
+  },
+  {
+    "key": "2026-08-31 06:10:06 +0200|Ich darf das|Shirin David",
+    "played_at": "2026-08-31 06:10:06 +0200",
+    "title": "Ich darf das",
+    "artist": "Shirin David"
+  },
+  {
+    "key": "2026-08-31 06:12:38 +0200|Make It Right|Tom Gregory & VIZE",
+    "played_at": "2026-08-31 06:12:38 +0200",
+    "title": "Make It Right",
+    "artist": "Tom Gregory & VIZE"
   }
 ]
