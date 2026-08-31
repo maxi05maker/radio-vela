@@ -304,5 +304,41 @@
     "played_at": "2026-08-31 09:48:21 +0200",
     "title": "Physical",
     "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-08-31 09:51:33 +0200|Vom Aufstehen bis zum Feierabend|Jingle",
+    "played_at": "2026-08-31 09:51:33 +0200",
+    "title": "Vom Aufstehen bis zum Feierabend",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-08-31 09:52:09 +0200|Field of Vision|King Gizzard & The Lizard Wizard",
+    "played_at": "2026-08-31 09:52:09 +0200",
+    "title": "Field of Vision",
+    "artist": "King Gizzard & The Lizard Wizard"
+  },
+  {
+    "key": "2026-08-31 09:55:44 +0200|The news|Paramore",
+    "played_at": "2026-08-31 09:55:44 +0200",
+    "title": "The news",
+    "artist": "Paramore"
+  },
+  {
+    "key": "2026-08-31 09:58:52 +0200|My Universe|Coldplay X BTS",
+    "played_at": "2026-08-31 09:58:52 +0200",
+    "title": "My Universe",
+    "artist": "Coldplay X BTS"
+  },
+  {
+    "key": "2026-08-31 10:02:39 +0200|Renn!|AYLIVA",
+    "played_at": "2026-08-31 10:02:39 +0200",
+    "title": "Renn!",
+    "artist": "AYLIVA"
+  },
+  {
+    "key": "2026-08-31 10:05:26 +0200|Worry With You|Sleater-Kinney",
+    "played_at": "2026-08-31 10:05:26 +0200",
+    "title": "Worry With You",
+    "artist": "Sleater-Kinney"
   }
 ]
