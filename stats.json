@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 271,
-    "music_entries": 246,
+    "total_entries": 273,
+    "music_entries": 248,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -136,6 +136,11 @@
         "plays": 2
       },
       {
+        "artist": "Teuterekordz",
+        "title": "Teute All-Star",
+        "plays": 2
+      },
+      {
         "artist": "OneRepublic",
         "title": "Run",
         "plays": 2
@@ -198,6 +203,11 @@
       {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
+        "plays": 2
+      },
+      {
+        "artist": "Metronomy",
+        "title": "The Look",
         "plays": 2
       },
       {
@@ -491,11 +501,6 @@
         "plays": 1
       },
       {
-        "artist": "Teuterekordz",
-        "title": "Teute All-Star",
-        "plays": 1
-      },
-      {
         "artist": "Sarah Connor & Sido",
         "title": "Interstellar (Zwischen den Sternen)",
         "plays": 1
@@ -593,11 +598,6 @@
       {
         "artist": "Nickelback",
         "title": "When We Stand Together",
-        "plays": 1
-      },
-      {
-        "artist": "Metronomy",
-        "title": "The Look",
         "plays": 1
       },
       {
