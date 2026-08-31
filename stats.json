@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 320,
-    "music_entries": 291,
+    "total_entries": 322,
+    "music_entries": 293,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -16,6 +16,11 @@
         "plays": 3
       },
       {
+        "artist": "Adele",
+        "title": "Easy On Me",
+        "plays": 3
+      },
+      {
         "artist": "Lakeyah",
         "title": "Mind Yo Business feat. Latto",
         "plays": 3
@@ -24,11 +29,6 @@
         "artist": "Shygirl",
         "title": "BDE (feat. slowthai)",
         "plays": 3
-      },
-      {
-        "artist": "Adele",
-        "title": "Easy On Me",
-        "plays": 2
       },
       {
         "artist": "Purple Disco Machine feat. Jake Shears",
@@ -293,6 +293,11 @@
       {
         "artist": "Finch (feat. Blümchen)",
         "title": "Herzalarm",
+        "plays": 2
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Autobahn",
         "plays": 2
       },
       {
@@ -723,11 +728,6 @@
       {
         "artist": "Alice Merton",
         "title": "No Roots",
-        "plays": 1
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Autobahn",
         "plays": 1
       },
       {
