@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 391,
-    "music_entries": 362,
+    "total_entries": 394,
+    "music_entries": 364,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -278,6 +278,11 @@
       {
         "artist": "Sleater-Kinney",
         "title": "Worry With You",
+        "plays": 2
+      },
+      {
+        "artist": "Rosalía",
+        "title": "DESPECHÁ RMX",
         "plays": 2
       },
       {
@@ -911,11 +916,6 @@
         "plays": 1
       },
       {
-        "artist": "Rosalía",
-        "title": "DESPECHÁ RMX",
-        "plays": 1
-      },
-      {
         "artist": "SSIO",
         "title": "Alles oder Nix",
         "plays": 1
@@ -1398,6 +1398,11 @@
       {
         "artist": "Revolverheld & Megaloh",
         "title": "Krieg mit mir selbst",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
         "plays": 1
       }
     ],
