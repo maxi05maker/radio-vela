@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 297,
-    "music_entries": 270,
+    "total_entries": 300,
+    "music_entries": 273,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -266,6 +266,11 @@
         "plays": 2
       },
       {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
+        "plays": 2
+      },
+      {
         "artist": "Max Giesinger",
         "title": "Der letzte Tag",
         "plays": 2
@@ -283,6 +288,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 2
+      },
+      {
+        "artist": "Busta Rhymes",
+        "title": "Luxury Life feat. Coi Leray",
         "plays": 2
       },
       {
@@ -666,11 +676,6 @@
         "plays": 1
       },
       {
-        "artist": "LEA & Casper",
-        "title": "Schwarz",
-        "plays": 1
-      },
-      {
         "artist": "The Gems",
         "title": "Hot Bait",
         "plays": 1
@@ -803,11 +808,6 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "Busta Rhymes",
-        "title": "Luxury Life feat. Coi Leray",
         "plays": 1
       },
       {
@@ -1048,6 +1048,11 @@
       {
         "artist": "Alessia Cara",
         "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Oldschool Love",
         "plays": 1
       }
     ],
