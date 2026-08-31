@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 416,
-    "music_entries": 384,
+    "total_entries": 419,
+    "music_entries": 387,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -73,6 +73,11 @@
       {
         "artist": "Imagine Dragons",
         "title": "Whatever It Takes",
+        "plays": 3
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 3
       },
       {
@@ -206,11 +211,6 @@
         "plays": 2
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 2
-      },
-      {
         "artist": "Nina Chuba",
         "title": "3 Uhr Nachts",
         "plays": 2
@@ -333,6 +333,11 @@
       {
         "artist": "Alle Farben",
         "title": "Forgot How To Love",
+        "plays": 2
+      },
+      {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
         "plays": 2
       },
       {
@@ -1001,11 +1006,6 @@
         "plays": 1
       },
       {
-        "artist": "LEA & Casper",
-        "title": "Schwarz",
-        "plays": 1
-      },
-      {
         "artist": "BLACKPINK",
         "title": "GO",
         "plays": 1
@@ -1438,6 +1438,11 @@
       {
         "artist": "Kraftklub",
         "title": "Schief in jedem Chor",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Mehr Glück als Verstand",
         "plays": 1
       }
     ],
