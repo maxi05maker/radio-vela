@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 408,
-    "music_entries": 377,
+    "total_entries": 410,
+    "music_entries": 379,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -363,6 +363,16 @@
       {
         "artist": "Felix Jaehn",
         "title": "Do It Better (feat. Zoe Wees)",
+        "plays": 2
+      },
+      {
+        "artist": "Sia feat. Sean Paul",
+        "title": "Cheap Thrills",
+        "plays": 2
+      },
+      {
+        "artist": "Montez",
+        "title": "Auf & Ab",
         "plays": 2
       },
       {
@@ -1043,16 +1053,6 @@
       {
         "artist": "Avalanche",
         "title": "Down For The Count",
-        "plays": 1
-      },
-      {
-        "artist": "Sia feat. Sean Paul",
-        "title": "Cheap Thrills",
-        "plays": 1
-      },
-      {
-        "artist": "Montez",
-        "title": "Auf & Ab",
         "plays": 1
       },
       {
