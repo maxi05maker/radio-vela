@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 33,
-    "music_entries": 30,
+    "total_entries": 35,
+    "music_entries": 32,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -153,6 +153,16 @@
       {
         "artist": "Pashanim",
         "title": "Sommergewitter",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "I'M HIS, HE'S MINE ft. Doechii",
+        "plays": 1
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Du tust mir nie mehr weh",
         "plays": 1
       }
     ],
