@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 59,
-    "music_entries": 53,
+    "total_entries": 64,
+    "music_entries": 57,
     "songs": [
       {
         "artist": "Olivia Rodrigo",
@@ -268,6 +268,26 @@
       {
         "artist": "Leony",
         "title": "Don't Worry",
+        "plays": 1
+      },
+      {
+        "artist": "Loreen",
+        "title": "Euphoria",
+        "plays": 1
+      },
+      {
+        "artist": "Marshmello & Jonas Brothers",
+        "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Luciano",
+        "title": "Beautiful Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel",
+        "title": "Mad Love",
         "plays": 1
       }
     ],
