@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 158,
-    "music_entries": 142,
+    "total_entries": 161,
+    "music_entries": 145,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -13,6 +13,11 @@
       {
         "artist": "Clueso",
         "title": "Deja-Vu",
+        "plays": 2
+      },
+      {
+        "artist": "Lakeyah",
+        "title": "Mind Yo Business feat. Latto",
         "plays": 2
       },
       {
@@ -466,11 +471,6 @@
         "plays": 1
       },
       {
-        "artist": "Lakeyah",
-        "title": "Mind Yo Business feat. Latto",
-        "plays": 1
-      },
-      {
         "artist": "Twenty One Pilots",
         "title": "The Line",
         "plays": 1
@@ -703,6 +703,16 @@
       {
         "artist": "Topic & A7S",
         "title": "Kernkraft 400 (A Better Day)",
+        "plays": 1
+      },
+      {
+        "artist": "Post Malone",
+        "title": "I Had Some Help (feat. Morgan Wallen)",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran, Lil Baby",
+        "title": "2step (feat. Lil Baby)",
         "plays": 1
       }
     ],
