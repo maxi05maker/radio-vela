@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 249,
-    "music_entries": 227,
+    "total_entries": 251,
+    "music_entries": 229,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -123,6 +123,11 @@
       {
         "artist": "OneRepublic",
         "title": "Run",
+        "plays": 2
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "Rockstars",
         "plays": 2
       },
       {
@@ -458,11 +463,6 @@
       {
         "artist": "Teuterekordz",
         "title": "Teute All-Star",
-        "plays": 1
-      },
-      {
-        "artist": "Malik Harris",
-        "title": "Rockstars",
         "plays": 1
       },
       {
@@ -968,6 +968,11 @@
       {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
+        "plays": 1
+      },
+      {
+        "artist": "James Arthur & You Me At Six",
+        "title": "Lose My Mind",
         "plays": 1
       }
     ],

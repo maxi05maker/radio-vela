@@ -1492,5 +1492,17 @@
     "played_at": "2026-08-31 20:08:20 +0200",
     "title": "Hurricane Heart",
     "artist": "The Mary Onettes"
+  },
+  {
+    "key": "2026-08-31 20:11:25 +0200|Rockstars|Malik Harris",
+    "played_at": "2026-08-31 20:11:25 +0200",
+    "title": "Rockstars",
+    "artist": "Malik Harris"
+  },
+  {
+    "key": "2026-08-31 20:14:25 +0200|Lose My Mind|James Arthur & You Me At Six",
+    "played_at": "2026-08-31 20:14:25 +0200",
+    "title": "Lose My Mind",
+    "artist": "James Arthur & You Me At Six"
   }
 ]
