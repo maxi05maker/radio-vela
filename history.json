@@ -2068,5 +2068,17 @@
     "played_at": "2026-09-01 00:59:13 +0200",
     "title": "The Dead Dance",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-01 01:02:56 +0200|Dancing Feet|Kygo feat. DNCE",
+    "played_at": "2026-09-01 01:02:56 +0200",
+    "title": "Dancing Feet",
+    "artist": "Kygo feat. DNCE"
+  },
+  {
+    "key": "2026-09-01 01:06:31 +0200|Small Steps|Tom Gregory",
+    "played_at": "2026-09-01 01:06:31 +0200",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
   }
 ]

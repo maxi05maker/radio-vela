@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 345,
-    "music_entries": 314,
+    "total_entries": 347,
+    "music_entries": 316,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -38,6 +38,11 @@
       {
         "artist": "Shygirl",
         "title": "BDE (feat. slowthai)",
+        "plays": 3
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 3
       },
       {
@@ -386,11 +391,6 @@
         "plays": 2
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 2
-      },
-      {
         "artist": "Busta Rhymes",
         "title": "Luxury Life feat. Coi Leray",
         "plays": 2
@@ -403,6 +403,11 @@
       {
         "artist": "OneRepublic",
         "title": "Sunshine",
+        "plays": 2
+      },
+      {
+        "artist": "Kygo feat. DNCE",
+        "title": "Dancing Feet",
         "plays": 2
       },
       {
@@ -838,11 +843,6 @@
       {
         "artist": "Stray Kids",
         "title": "RUN IT",
-        "plays": 1
-      },
-      {
-        "artist": "Kygo feat. DNCE",
-        "title": "Dancing Feet",
         "plays": 1
       },
       {
