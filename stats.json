@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 173,
-    "music_entries": 155,
+    "total_entries": 175,
+    "music_entries": 157,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -748,6 +748,16 @@
       {
         "artist": "Zartmann",
         "title": "Wunderschön",
+        "plays": 1
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "title": "All You Ever Wanted",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
         "plays": 1
       }
     ],
