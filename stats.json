@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 237,
-    "music_entries": 216,
+    "total_entries": 239,
+    "music_entries": 218,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -108,6 +108,11 @@
       {
         "artist": "Maroon 5 & Megan Thee Stallion",
         "title": "Beautiful Mistakes",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Run",
         "plays": 2
       },
       {
@@ -433,11 +438,6 @@
       {
         "artist": "Teuterekordz",
         "title": "Teute All-Star",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "Run",
         "plays": 1
       },
       {
@@ -948,6 +948,11 @@
       {
         "artist": "Shirin David",
         "title": "küss mich doch",
+        "plays": 1
+      },
+      {
+        "artist": "Kevin Morby",
+        "title": "Die Young",
         "plays": 1
       }
     ],
