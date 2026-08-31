@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 139,
-    "music_entries": 125,
+    "total_entries": 141,
+    "music_entries": 127,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -618,6 +618,16 @@
       {
         "artist": "The Weeknd",
         "title": "Out Of Time",
+        "plays": 1
+      },
+      {
+        "artist": "Wincent Weiss",
+        "title": "Wer wenn nicht wir",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
         "plays": 1
       }
     ],
