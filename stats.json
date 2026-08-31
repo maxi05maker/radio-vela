@@ -2,12 +2,17 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 161,
-    "music_entries": 145,
+    "total_entries": 163,
+    "music_entries": 147,
     "songs": [
       {
         "artist": "Johannes Oerding",
         "title": "Kaleidoskop",
+        "plays": 2
+      },
+      {
+        "artist": "Adele",
+        "title": "Easy On Me",
         "plays": 2
       },
       {
@@ -58,11 +63,6 @@
       {
         "artist": "The 1975",
         "title": "About You",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Easy On Me",
         "plays": 1
       },
       {
@@ -713,6 +713,11 @@
       {
         "artist": "Ed Sheeran, Lil Baby",
         "title": "2step (feat. Lil Baby)",
+        "plays": 1
+      },
+      {
+        "artist": "Joanne Shaw Taylor",
+        "title": "01. Sweet 'Lil Lies (2024)",
         "plays": 1
       }
     ],
