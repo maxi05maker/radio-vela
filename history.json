@@ -1078,5 +1078,17 @@
     "played_at": "2026-08-31 16:24:56 +0200",
     "title": "Du und Ich",
     "artist": "Blond"
+  },
+  {
+    "key": "2026-08-31 16:28:12 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-08-31 16:28:12 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-08-31 16:32:08 +0200|Down For The Count|Avalanche",
+    "played_at": "2026-08-31 16:32:08 +0200",
+    "title": "Down For The Count",
+    "artist": "Avalanche"
   }
 ]

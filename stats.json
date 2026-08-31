@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 180,
-    "music_entries": 162,
+    "total_entries": 182,
+    "music_entries": 164,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -778,6 +778,16 @@
       {
         "artist": "Shirin David",
         "title": "It Girl (feat. Sampagne)",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Avalanche",
+        "title": "Down For The Count",
         "plays": 1
       }
     ],
