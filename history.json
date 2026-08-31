@@ -2578,5 +2578,23 @@
     "played_at": "2026-08-31 06:12:38 +0200",
     "title": "Make It Right",
     "artist": "Tom Gregory & VIZE"
+  },
+  {
+    "key": "2026-08-31 06:14:58 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-08-31 06:14:58 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-08-31 06:17:50 +0200|Kill Bill (Remix) feat. Doja Cat|SZA",
+    "played_at": "2026-08-31 06:17:50 +0200",
+    "title": "Kill Bill (Remix) feat. Doja Cat",
+    "artist": "SZA"
+  },
+  {
+    "key": "2026-08-31 06:20:46 +0200|Nights Like This|St. Lundi",
+    "played_at": "2026-08-31 06:20:46 +0200",
+    "title": "Nights Like This",
+    "artist": "St. Lundi"
   }
 ]
