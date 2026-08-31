@@ -2152,5 +2152,17 @@
     "played_at": "2026-09-01 01:42:46 +0200",
     "title": "Mad Love",
     "artist": "Mabel"
+  },
+  {
+    "key": "2026-09-01 01:45:39 +0200|SS26|Charli xcx",
+    "played_at": "2026-09-01 01:45:39 +0200",
+    "title": "SS26",
+    "artist": "Charli xcx"
+  },
+  {
+    "key": "2026-09-01 01:48:27 +0200|Meine Kneipe|Von Wegen Lisbeth",
+    "played_at": "2026-09-01 01:48:27 +0200",
+    "title": "Meine Kneipe",
+    "artist": "Von Wegen Lisbeth"
   }
 ]
