@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 300,
-    "music_entries": 273,
+    "total_entries": 302,
+    "music_entries": 275,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -1053,6 +1053,16 @@
       {
         "artist": "Leony",
         "title": "Oldschool Love",
+        "plays": 1
+      },
+      {
+        "artist": "Lune",
+        "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Machine Gun Kelly, glaive",
+        "title": "More than life",
         "plays": 1
       }
     ],
