@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 214,
-    "music_entries": 194,
+    "total_entries": 216,
+    "music_entries": 196,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -43,6 +43,11 @@
       {
         "artist": "AYLIVA",
         "title": "Renn!",
+        "plays": 2
+      },
+      {
+        "artist": "Milow",
+        "title": "DeLorean",
         "plays": 2
       },
       {
@@ -343,11 +348,6 @@
       {
         "artist": "Shawn Mendes",
         "title": "In My Blood",
-        "plays": 1
-      },
-      {
-        "artist": "Milow",
-        "title": "DeLorean",
         "plays": 1
       },
       {
@@ -898,6 +898,11 @@
       {
         "artist": "NLE The Great",
         "title": "KO",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 1
       }
     ],
