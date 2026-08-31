@@ -2,8 +2,8 @@
   "2026-08-30 07:00": {
     "period_start": "2026-08-30T07:00:00+02:00",
     "period_end": "2026-08-31T07:00:00+02:00",
-    "total_entries": 419,
-    "music_entries": 387,
+    "total_entries": 421,
+    "music_entries": 389,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -388,6 +388,11 @@
       {
         "artist": "Badmómzjay",
         "title": "Keine Tränen",
+        "plays": 2
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
         "plays": 2
       },
       {
@@ -1146,11 +1151,6 @@
         "plays": 1
       },
       {
-        "artist": "Imagine Dragons",
-        "title": "Bad Liar",
-        "plays": 1
-      },
-      {
         "artist": "Stray Kids",
         "title": "RUN IT",
         "plays": 1
@@ -1443,6 +1443,11 @@
       {
         "artist": "Johannes Oerding",
         "title": "Mehr Glück als Verstand",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Midnight Sun",
         "plays": 1
       }
     ],
