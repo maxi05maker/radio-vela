@@ -706,5 +706,17 @@
     "played_at": "2026-08-31 13:05:41 +0200",
     "title": "Wingsuit",
     "artist": "Waving The Guns"
+  },
+  {
+    "key": "2026-08-31 13:08:42 +0200|Build a House|Stefanie Heinzmann feat. Alle Farben",
+    "played_at": "2026-08-31 13:08:42 +0200",
+    "title": "Build a House",
+    "artist": "Stefanie Heinzmann feat. Alle Farben"
+  },
+  {
+    "key": "2026-08-31 13:11:44 +0200|Murphy's Law|Róisín Murphy",
+    "played_at": "2026-08-31 13:11:44 +0200",
+    "title": "Murphy's Law",
+    "artist": "Róisín Murphy"
   }
 ]

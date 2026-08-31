@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 118,
-    "music_entries": 106,
+    "total_entries": 120,
+    "music_entries": 108,
     "songs": [
       {
         "artist": "Clueso",
@@ -528,6 +528,16 @@
       {
         "artist": "Waving The Guns",
         "title": "Wingsuit",
+        "plays": 1
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
+        "plays": 1
+      },
+      {
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
         "plays": 1
       }
     ],
