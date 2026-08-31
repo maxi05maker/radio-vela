@@ -1342,5 +1342,17 @@
     "played_at": "2026-08-31 18:48:19 +0200",
     "title": "Vermissen",
     "artist": "Juju feat. Henning May"
+  },
+  {
+    "key": "2026-08-31 18:51:00 +0200|Electric Feel|MGMT",
+    "played_at": "2026-08-31 18:51:00 +0200",
+    "title": "Electric Feel",
+    "artist": "MGMT"
+  },
+  {
+    "key": "2026-08-31 18:54:50 +0200|Drop dead|Olivia Rodrigo",
+    "played_at": "2026-08-31 18:54:50 +0200",
+    "title": "Drop dead",
+    "artist": "Olivia Rodrigo"
   }
 ]

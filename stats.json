@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 224,
-    "music_entries": 204,
+    "total_entries": 226,
+    "music_entries": 206,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -73,6 +73,11 @@
       {
         "artist": "Von Wegen Lisbeth",
         "title": "Meine Kneipe",
+        "plays": 2
+      },
+      {
+        "artist": "MGMT",
+        "title": "Electric Feel",
         "plays": 2
       },
       {
@@ -393,11 +398,6 @@
       {
         "artist": "Rita Ora",
         "title": "Your Song",
-        "plays": 1
-      },
-      {
-        "artist": "MGMT",
-        "title": "Electric Feel",
         "plays": 1
       },
       {
@@ -928,6 +928,11 @@
       {
         "artist": "Betterov",
         "title": "17. Juli 1989",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Drop dead",
         "plays": 1
       }
     ],
