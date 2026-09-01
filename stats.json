@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 288,
-    "music_entries": 270,
+    "total_entries": 291,
+    "music_entries": 273,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -963,6 +963,21 @@
       {
         "artist": "Tate McRae",
         "title": "Revolving door",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Love Again",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Jake Shears",
+        "title": "Fire + Ice (Radio Edit)",
         "plays": 1
       }
     ],
