@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 221,
-    "music_entries": 207,
+    "total_entries": 224,
+    "music_entries": 210,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -141,8 +141,18 @@
         "plays": 2
       },
       {
+        "artist": "Coldplay",
+        "title": "Higher Power",
+        "plays": 2
+      },
+      {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 2
+      },
+      {
+        "artist": "Pashanim",
+        "title": "Sommergewitter",
         "plays": 2
       },
       {
@@ -301,18 +311,8 @@
         "plays": 1
       },
       {
-        "artist": "Coldplay",
-        "title": "Higher Power",
-        "plays": 1
-      },
-      {
         "artist": "Shawn Mendes",
         "title": "Heart Of Gold",
-        "plays": 1
-      },
-      {
-        "artist": "Pashanim",
-        "title": "Sommergewitter",
         "plays": 1
       },
       {
@@ -823,6 +823,11 @@
       {
         "artist": "Ariana Grande",
         "title": "petal",
+        "plays": 1
+      },
+      {
+        "artist": "CHAPO102 x GUSTAV",
+        "title": "WARSCHAU",
         "plays": 1
       }
     ],
