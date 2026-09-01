@@ -2260,5 +2260,23 @@
     "played_at": "2026-09-01 02:37:47 +0200",
     "title": "Hunger",
     "artist": "Florence + The Machine"
+  },
+  {
+    "key": "2026-09-01 02:41:21 +0200|2001|Foals",
+    "played_at": "2026-09-01 02:41:21 +0200",
+    "title": "2001",
+    "artist": "Foals"
+  },
+  {
+    "key": "2026-09-01 02:45:49 +0200|It Ain't Over|Fritz Kalkbrenner",
+    "played_at": "2026-09-01 02:45:49 +0200",
+    "title": "It Ain't Over",
+    "artist": "Fritz Kalkbrenner"
+  },
+  {
+    "key": "2026-09-01 02:49:23 +0200|Safe|Nico Santos",
+    "played_at": "2026-09-01 02:49:23 +0200",
+    "title": "Safe",
+    "artist": "Nico Santos"
   }
 ]

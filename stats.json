@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 377,
-    "music_entries": 344,
+    "total_entries": 380,
+    "music_entries": 347,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -46,6 +46,11 @@
         "plays": 3
       },
       {
+        "artist": "Foals",
+        "title": "2001",
+        "plays": 3
+      },
+      {
         "artist": "Juju feat. Henning May",
         "title": "Vermissen",
         "plays": 3
@@ -63,6 +68,11 @@
       {
         "artist": "OneRepublic",
         "title": "Run",
+        "plays": 3
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Safe",
         "plays": 3
       },
       {
@@ -116,11 +126,6 @@
         "plays": 2
       },
       {
-        "artist": "Foals",
-        "title": "2001",
-        "plays": 2
-      },
-      {
         "artist": "Shawn Mendes",
         "title": "In My Blood",
         "plays": 2
@@ -138,6 +143,11 @@
       {
         "artist": "The Lumineers",
         "title": "Ho Hey",
+        "plays": 2
+      },
+      {
+        "artist": "Fritz Kalkbrenner",
+        "title": "It Ain't Over",
         "plays": 2
       },
       {
@@ -188,11 +198,6 @@
       {
         "artist": "Malik Harris",
         "title": "Rockstars",
-        "plays": 2
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Safe",
         "plays": 2
       },
       {
@@ -718,11 +723,6 @@
       {
         "artist": "Michael Schulte",
         "title": "Broken Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "Fritz Kalkbrenner",
-        "title": "It Ain't Over",
         "plays": 1
       },
       {
