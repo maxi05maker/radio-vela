@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 437,
-    "music_entries": 399,
+    "total_entries": 441,
+    "music_entries": 402,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -188,6 +188,11 @@
       {
         "artist": "AYLIVA",
         "title": "Renn!",
+        "plays": 2
+      },
+      {
+        "artist": "Sleater-Kinney",
+        "title": "Worry With You",
         "plays": 2
       },
       {
@@ -771,11 +776,6 @@
         "plays": 1
       },
       {
-        "artist": "Sleater-Kinney",
-        "title": "Worry With You",
-        "plays": 1
-      },
-      {
         "artist": "Kwam.e & Ove",
         "title": "Hallow Kitty",
         "plays": 1
@@ -1238,6 +1238,16 @@
       {
         "artist": "Inhaler",
         "title": "A Question of You",
+        "plays": 1
+      },
+      {
+        "artist": "Yeat",
+        "title": "Still Countin",
+        "plays": 1
+      },
+      {
+        "artist": "Ufo361 & Nina Chuba",
+        "title": "LIEBE (feat. Nina Chuba) [Explicit]",
         "plays": 1
       }
     ],
