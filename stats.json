@@ -2,13 +2,18 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 441,
-    "music_entries": 402,
+    "total_entries": 445,
+    "music_entries": 406,
     "songs": [
       {
         "artist": "Harry Styles",
         "title": "As It Was",
         "plays": 5
+      },
+      {
+        "artist": "Blond",
+        "title": "Du und Ich",
+        "plays": 4
       },
       {
         "artist": "Luciano",
@@ -53,11 +58,6 @@
       {
         "artist": "Adele",
         "title": "Easy On Me",
-        "plays": 3
-      },
-      {
-        "artist": "Blond",
-        "title": "Du und Ich",
         "plays": 3
       },
       {
@@ -158,6 +158,11 @@
       {
         "artist": "Purple Disco Machine feat. Jake Shears",
         "title": "Fire + Ice (Radio Edit)",
+        "plays": 2
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
         "plays": 2
       },
       {
@@ -663,11 +668,6 @@
       {
         "artist": "Bilderbuch",
         "title": "Bungalow",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Happiness Is A Butterfly",
         "plays": 1
       },
       {
@@ -1248,6 +1248,16 @@
       {
         "artist": "Ufo361 & Nina Chuba",
         "title": "LIEBE (feat. Nina Chuba) [Explicit]",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Joker",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wildberry Lillet",
         "plays": 1
       }
     ],
