@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 119,
-    "music_entries": 111,
+    "total_entries": 121,
+    "music_entries": 113,
     "songs": [
       {
         "artist": "Denzel Curry",
@@ -538,6 +538,16 @@
       {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor & Sido",
+        "title": "Interstellar (Zwischen den Sternen)",
         "plays": 1
       }
     ],
