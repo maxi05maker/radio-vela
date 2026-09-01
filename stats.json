@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 364,
-    "music_entries": 332,
+    "total_entries": 370,
+    "music_entries": 337,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -48,6 +48,11 @@
       {
         "artist": "Von Wegen Lisbeth",
         "title": "Meine Kneipe",
+        "plays": 3
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Run",
         "plays": 3
       },
       {
@@ -131,6 +136,11 @@
         "plays": 2
       },
       {
+        "artist": "Logic",
+        "title": "Bleed It",
+        "plays": 2
+      },
+      {
         "artist": "Alex Cameron",
         "title": "Best Life",
         "plays": 2
@@ -173,11 +183,6 @@
       {
         "artist": "Teuterekordz",
         "title": "Teute All-Star",
-        "plays": 2
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "Run",
         "plays": 2
       },
       {
@@ -446,6 +451,11 @@
         "plays": 2
       },
       {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 2
+      },
+      {
         "artist": "Jeremias",
         "title": "Ich mags",
         "plays": 2
@@ -701,11 +711,6 @@
         "plays": 1
       },
       {
-        "artist": "Logic",
-        "title": "Bleed It",
-        "plays": 1
-      },
-      {
         "artist": "Tyla & Zara Larsson",
         "title": "SHE DID IT AGAIN",
         "plays": 1
@@ -888,11 +893,6 @@
       {
         "artist": "Madonna",
         "title": "I Feel So Free",
-        "plays": 1
-      },
-      {
-        "artist": "Zoe Wees",
-        "title": "Control",
         "plays": 1
       },
       {
@@ -1133,6 +1133,16 @@
       {
         "artist": "Charli xcx",
         "title": "SS26",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba x Tokio Hotel",
+        "title": "Fata Morgana",
+        "plays": 1
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "My Reminder",
         "plays": 1
       }
     ],
