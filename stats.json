@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 316,
-    "music_entries": 297,
+    "total_entries": 318,
+    "music_entries": 299,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1078,6 +1078,16 @@
       {
         "artist": "Wallows",
         "title": "Calling After Me",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Mein Boy",
+        "plays": 1
+      },
+      {
+        "artist": "The FAIM",
+        "title": "Summer Is a Curse",
         "plays": 1
       }
     ],
