@@ -2,9 +2,14 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 87,
-    "music_entries": 81,
+    "total_entries": 94,
+    "music_entries": 87,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 2
+      },
       {
         "artist": "Michael Schulte",
         "title": "You Let Me Walk Alone",
@@ -401,20 +406,40 @@
         "plays": 1
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
+        "artist": "Finn Wolfhard",
+        "title": "Tunnels",
         "plays": 1
       },
       {
-        "artist": "Finn Wolfhard",
-        "title": "Tunnels",
+        "artist": "Alli Neumann",
+        "title": "Monster",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "ROSÉ & Bruno Mars",
+        "title": "APT.",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Fallin",
+        "plays": 1
+      },
+      {
+        "artist": "Massive Attack x Tom Waits",
+        "title": "Boots on the Ground",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Michael Schulte",
-      "title": "You Let Me Walk Alone",
-      "plays": 1
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 2
     }
   }
 }
