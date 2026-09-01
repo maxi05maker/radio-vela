@@ -2590,5 +2590,23 @@
     "played_at": "2026-09-01 05:39:33 +0200",
     "title": "Vermissen",
     "artist": "Juju feat. Henning May"
+  },
+  {
+    "key": "2026-09-01 05:42:15 +0200|Can You Feel It|Floodlights",
+    "played_at": "2026-09-01 05:42:15 +0200",
+    "title": "Can You Feel It",
+    "artist": "Floodlights"
+  },
+  {
+    "key": "2026-09-01 05:46:10 +0200|Your Song|Rita Ora",
+    "played_at": "2026-09-01 05:46:10 +0200",
+    "title": "Your Song",
+    "artist": "Rita Ora"
+  },
+  {
+    "key": "2026-09-01 05:49:11 +0200|Smooth|Cro",
+    "played_at": "2026-09-01 05:49:11 +0200",
+    "title": "Smooth",
+    "artist": "Cro"
   }
 ]

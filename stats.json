@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 432,
-    "music_entries": 394,
+    "total_entries": 435,
+    "music_entries": 397,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -18,6 +18,11 @@
       {
         "artist": "Juju feat. Henning May",
         "title": "Vermissen",
+        "plays": 4
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Your Song",
         "plays": 4
       },
       {
@@ -88,11 +93,6 @@
       {
         "artist": "Alex Cameron",
         "title": "Best Life",
-        "plays": 3
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Your Song",
         "plays": 3
       },
       {
@@ -1223,6 +1223,16 @@
       {
         "artist": "Lena",
         "title": "Wild & Free",
+        "plays": 1
+      },
+      {
+        "artist": "Floodlights",
+        "title": "Can You Feel It",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Smooth",
         "plays": 1
       }
     ],
