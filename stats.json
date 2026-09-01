@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 370,
-    "music_entries": 337,
+    "total_entries": 377,
+    "music_entries": 344,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -46,8 +46,18 @@
         "plays": 3
       },
       {
+        "artist": "Juju feat. Henning May",
+        "title": "Vermissen",
+        "plays": 3
+      },
+      {
         "artist": "Von Wegen Lisbeth",
         "title": "Meine Kneipe",
+        "plays": 3
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
         "plays": 3
       },
       {
@@ -126,11 +136,6 @@
         "plays": 2
       },
       {
-        "artist": "Juju feat. Henning May",
-        "title": "Vermissen",
-        "plays": 2
-      },
-      {
         "artist": "The Lumineers",
         "title": "Ho Hey",
         "plays": 2
@@ -163,11 +168,6 @@
       {
         "artist": "Demi Lovato",
         "title": "SKIN OF MY TEETH",
-        "plays": 2
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "Hunger",
         "plays": 2
       },
       {
@@ -401,6 +401,11 @@
         "plays": 2
       },
       {
+        "artist": "Imagine Dragons",
+        "title": "Whatever It Takes",
+        "plays": 2
+      },
+      {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
         "plays": 2
@@ -446,6 +451,11 @@
         "plays": 2
       },
       {
+        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
+        "title": "VIEWS",
+        "plays": 2
+      },
+      {
         "artist": "Michael Patrick Kelly",
         "title": "Throwback",
         "plays": 2
@@ -473,6 +483,11 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 2
+      },
+      {
+        "artist": "Ramon Roselly",
+        "title": "Eine Nacht",
         "plays": 2
       },
       {
@@ -856,11 +871,6 @@
         "plays": 1
       },
       {
-        "artist": "Imagine Dragons",
-        "title": "Whatever It Takes",
-        "plays": 1
-      },
-      {
         "artist": "Shirin David",
         "title": "It Girl (feat. Sampagne)",
         "plays": 1
@@ -886,11 +896,6 @@
         "plays": 1
       },
       {
-        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
-        "title": "VIEWS",
-        "plays": 1
-      },
-      {
         "artist": "Madonna",
         "title": "I Feel So Free",
         "plays": 1
@@ -908,11 +913,6 @@
       {
         "artist": "Camila Cabello",
         "title": "Godspeed",
-        "plays": 1
-      },
-      {
-        "artist": "Ramon Roselly",
-        "title": "Eine Nacht",
         "plays": 1
       },
       {
@@ -1143,6 +1143,16 @@
       {
         "artist": "Charli XCX",
         "title": "My Reminder",
+        "plays": 1
+      },
+      {
+        "artist": "Rise Against",
+        "title": "Nod",
+        "plays": 1
+      },
+      {
+        "artist": "Yard Act",
+        "title": "New Beginnings",
         "plays": 1
       }
     ],
