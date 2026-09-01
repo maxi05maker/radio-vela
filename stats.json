@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 113,
-    "music_entries": 105,
+    "total_entries": 115,
+    "music_entries": 107,
     "songs": [
       {
         "artist": "Denzel Curry",
@@ -508,6 +508,16 @@
       {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Lonely is the Muse",
         "plays": 1
       }
     ],

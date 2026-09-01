@@ -3400,5 +3400,17 @@
     "played_at": "2026-09-01 13:19:21 +0200",
     "title": "Castle on the Hill",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-01 13:23:42 +0200|Hold Me Closer|Elton John, Britney Spears",
+    "played_at": "2026-09-01 13:23:42 +0200",
+    "title": "Hold Me Closer",
+    "artist": "Elton John, Britney Spears"
+  },
+  {
+    "key": "2026-09-01 13:27:05 +0200|Lonely is the Muse|Halsey",
+    "played_at": "2026-09-01 13:27:05 +0200",
+    "title": "Lonely is the Muse",
+    "artist": "Halsey"
   }
 ]
