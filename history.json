@@ -3652,5 +3652,23 @@
     "played_at": "2026-09-01 15:42:29 +0200",
     "title": "Safe",
     "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-09-01 15:45:52 +0200|Beautiful People|David Guetta & Sia",
+    "played_at": "2026-09-01 15:45:52 +0200",
+    "title": "Beautiful People",
+    "artist": "David Guetta & Sia"
+  },
+  {
+    "key": "2026-09-01 15:48:59 +0200|Billie Eilish|Mike Singer",
+    "played_at": "2026-09-01 15:48:59 +0200",
+    "title": "Billie Eilish",
+    "artist": "Mike Singer"
+  },
+  {
+    "key": "2026-09-01 15:51:29 +0200|Bad Habits|Ed Sheeran",
+    "played_at": "2026-09-01 15:51:29 +0200",
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran"
   }
 ]

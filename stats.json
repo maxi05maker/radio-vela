@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 155,
-    "music_entries": 145,
+    "total_entries": 158,
+    "music_entries": 148,
     "songs": [
       {
         "artist": "The Lathums",
@@ -693,6 +693,21 @@
       {
         "artist": "Nico Santos",
         "title": "Safe",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta & Sia",
+        "title": "Beautiful People",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Billie Eilish",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
         "plays": 1
       }
     ],
