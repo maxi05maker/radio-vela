@@ -3184,5 +3184,23 @@
     "played_at": "2026-09-01 11:19:32 +0200",
     "title": "Golden Nights",
     "artist": "Sophie & The Giants"
+  },
+  {
+    "key": "2026-09-01 11:22:31 +0200|All Night All Day|Big Thief",
+    "played_at": "2026-09-01 11:22:31 +0200",
+    "title": "All Night All Day",
+    "artist": "Big Thief"
+  },
+  {
+    "key": "2026-09-01 11:27:20 +0200|Moth To A Flame|Swedish House Mafia & The Weeknd",
+    "played_at": "2026-09-01 11:27:20 +0200",
+    "title": "Moth To A Flame",
+    "artist": "Swedish House Mafia & The Weeknd"
+  },
+  {
+    "key": "2026-09-01 11:31:14 +0200|Kaleidoskop|Johannes Oerding",
+    "played_at": "2026-09-01 11:31:14 +0200",
+    "title": "Kaleidoskop",
+    "artist": "Johannes Oerding"
   }
 ]
