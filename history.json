@@ -2746,5 +2746,23 @@
     "played_at": "2026-09-01 07:10:31 +0200",
     "title": "My Cleveland Heart",
     "artist": "Jackson Browne"
+  },
+  {
+    "key": "2026-09-01 07:13:51 +0200|Auf das, was da noch kommt|LOTTE & Max Giesinger",
+    "played_at": "2026-09-01 07:13:51 +0200",
+    "title": "Auf das, was da noch kommt",
+    "artist": "LOTTE & Max Giesinger"
+  },
+  {
+    "key": "2026-09-01 07:17:21 +0200|Freier Fall|Clueso",
+    "played_at": "2026-09-01 07:17:21 +0200",
+    "title": "Freier Fall",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-01 07:19:57 +0200|War Of Kings|Europe",
+    "played_at": "2026-09-01 07:19:57 +0200",
+    "title": "War Of Kings",
+    "artist": "Europe"
   }
 ]

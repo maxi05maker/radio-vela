@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 4,
-    "music_entries": 3,
+    "total_entries": 7,
+    "music_entries": 6,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -18,6 +18,21 @@
       {
         "artist": "Jackson Browne",
         "title": "My Cleveland Heart",
+        "plays": 1
+      },
+      {
+        "artist": "LOTTE & Max Giesinger",
+        "title": "Auf das, was da noch kommt",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Freier Fall",
+        "plays": 1
+      },
+      {
+        "artist": "Europe",
+        "title": "War Of Kings",
         "plays": 1
       }
     ],
