@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 218,
-    "music_entries": 204,
+    "total_entries": 221,
+    "music_entries": 207,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -151,6 +151,11 @@
         "plays": 2
       },
       {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
+        "plays": 2
+      },
+      {
         "artist": "Juice WRLD",
         "title": "Sometimes",
         "plays": 2
@@ -178,6 +183,11 @@
       {
         "artist": "Meghan Trainor",
         "title": "All About That Bass",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Patrick Kelly x Rea Garvey",
+        "title": "Best Bad Friend",
         "plays": 2
       },
       {
@@ -311,11 +321,6 @@
         "plays": 1
       },
       {
-        "artist": "Charlie Puth feat. Selena Gomez",
-        "title": "We Don't Talk Anymore",
-        "plays": 1
-      },
-      {
         "artist": "Twenty One Pilots",
         "title": "The Craving (Jenna's version)",
         "plays": 1
@@ -353,11 +358,6 @@
       {
         "artist": "FLO",
         "title": "Check",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly x Rea Garvey",
-        "title": "Best Bad Friend",
         "plays": 1
       },
       {
@@ -818,6 +818,11 @@
       {
         "artist": "Alyzah",
         "title": "Shoot",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "petal",
         "plays": 1
       }
     ],
