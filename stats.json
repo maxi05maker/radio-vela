@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 334,
-    "music_entries": 314,
+    "total_entries": 336,
+    "music_entries": 316,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1148,6 +1148,16 @@
       {
         "artist": "Cro",
         "title": "Alles Dope",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Bandaids",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "Island",
         "plays": 1
       }
     ],
