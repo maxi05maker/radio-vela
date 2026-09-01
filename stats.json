@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 388,
-    "music_entries": 354,
+    "total_entries": 392,
+    "music_entries": 357,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -53,6 +53,11 @@
       {
         "artist": "Foals",
         "title": "2001",
+        "plays": 3
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
         "plays": 3
       },
       {
@@ -133,11 +138,6 @@
       {
         "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
         "title": "Rebellion",
-        "plays": 2
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "In My Blood",
         "plays": 2
       },
       {
@@ -238,6 +238,16 @@
       {
         "artist": "Söhne Mannheims",
         "title": "Das hat die Welt noch nicht gesehen",
+        "plays": 2
+      },
+      {
+        "artist": "King Gizzard & The Lizard Wizard",
+        "title": "Le Risque",
+        "plays": 2
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Line",
         "plays": 2
       },
       {
@@ -758,16 +768,6 @@
       {
         "artist": "KATSEYE",
         "title": "Internet Girl",
-        "plays": 1
-      },
-      {
-        "artist": "King Gizzard & The Lizard Wizard",
-        "title": "Le Risque",
-        "plays": 1
-      },
-      {
-        "artist": "Twenty One Pilots",
-        "title": "The Line",
         "plays": 1
       },
       {
