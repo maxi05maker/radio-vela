@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 241,
-    "music_entries": 226,
+    "total_entries": 245,
+    "music_entries": 230,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -266,8 +266,18 @@
         "plays": 2
       },
       {
+        "artist": "Montez",
+        "title": "Auf & Ab",
+        "plays": 2
+      },
+      {
         "artist": "The 1975",
         "title": "If You're Too Shy (Let Me Know)",
+        "plays": 2
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Do It Better (feat. Zoe Wees)",
         "plays": 2
       },
       {
@@ -461,18 +471,8 @@
         "plays": 1
       },
       {
-        "artist": "Montez",
-        "title": "Auf & Ab",
-        "plays": 1
-      },
-      {
         "artist": "The Weeknd",
         "title": "Cry For Me",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn",
-        "title": "Do It Better (feat. Zoe Wees)",
         "plays": 1
       },
       {
@@ -853,6 +853,16 @@
       {
         "artist": "Stray Kids",
         "title": "RUN IT",
+        "plays": 1
+      },
+      {
+        "artist": "Viagra Boys",
+        "title": "Uno 2",
+        "plays": 1
+      },
+      {
+        "artist": "Zach Bryan",
+        "title": "Pink Skies",
         "plays": 1
       }
     ],
