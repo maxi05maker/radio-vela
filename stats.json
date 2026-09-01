@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 259,
-    "music_entries": 243,
+    "total_entries": 261,
+    "music_entries": 245,
     "songs": [
       {
         "artist": "Soulja Boy",
@@ -236,6 +236,11 @@
         "plays": 2
       },
       {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
+        "plays": 2
+      },
+      {
         "artist": "Drangsal",
         "title": "Will ich nur dich",
         "plays": 2
@@ -443,11 +448,6 @@
       {
         "artist": "Monet192",
         "title": "Nicht Perfekt",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "In My Blood",
         "plays": 1
       },
       {
@@ -883,6 +883,11 @@
       {
         "artist": "LISA FEAT. DOJA CAT & RAYE",
         "title": "BORN AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Doors",
         "plays": 1
       }
     ],
