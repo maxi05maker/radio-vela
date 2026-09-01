@@ -4372,5 +4372,23 @@
     "played_at": "2026-09-01 22:31:46 +0200",
     "title": "No Rain, No Flowers",
     "artist": "The Black Keys"
+  },
+  {
+    "key": "2026-09-01 22:34:58 +0200|With You|Michael Schulte",
+    "played_at": "2026-09-01 22:34:58 +0200",
+    "title": "With You",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-01 22:38:11 +0200|Flugmodus|Clueso",
+    "played_at": "2026-09-01 22:38:11 +0200",
+    "title": "Flugmodus",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-01 22:41:09 +0200|Why Why Why|Shawn Mendes",
+    "played_at": "2026-09-01 22:41:09 +0200",
+    "title": "Why Why Why",
+    "artist": "Shawn Mendes"
   }
 ]
