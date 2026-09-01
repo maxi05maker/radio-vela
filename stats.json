@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 69,
-    "music_entries": 64,
+    "total_entries": 72,
+    "music_entries": 67,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -323,6 +323,21 @@
       {
         "artist": "FLO",
         "title": "Check",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly x Rea Garvey",
+        "title": "Best Bad Friend",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
         "plays": 1
       }
     ],

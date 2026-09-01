@@ -3136,5 +3136,23 @@
     "played_at": "2026-09-01 10:52:27 +0200",
     "title": "Check",
     "artist": "FLO"
+  },
+  {
+    "key": "2026-09-01 10:58:39 +0200|Best Bad Friend|Michael Patrick Kelly x Rea Garvey",
+    "played_at": "2026-09-01 10:58:39 +0200",
+    "title": "Best Bad Friend",
+    "artist": "Michael Patrick Kelly x Rea Garvey"
+  },
+  {
+    "key": "2026-09-01 11:01:28 +0200|Nicht Perfekt|Monet192",
+    "played_at": "2026-09-01 11:01:28 +0200",
+    "title": "Nicht Perfekt",
+    "artist": "Monet192"
+  },
+  {
+    "key": "2026-09-01 11:04:27 +0200|good 4 u|Olivia Rodrigo",
+    "played_at": "2026-09-01 11:04:27 +0200",
+    "title": "good 4 u",
+    "artist": "Olivia Rodrigo"
   }
 ]
