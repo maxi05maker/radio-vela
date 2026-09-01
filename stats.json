@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 301,
-    "music_entries": 283,
+    "total_entries": 304,
+    "music_entries": 285,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1018,6 +1018,16 @@
       {
         "artist": "Revolverheld",
         "title": "Leichter",
+        "plays": 1
+      },
+      {
+        "artist": "Vanessa Mai",
+        "title": "Aus & Vorbei",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Vergangenheit",
         "plays": 1
       }
     ],

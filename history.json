@@ -4528,5 +4528,23 @@
     "played_at": "2026-09-01 23:55:58 +0200",
     "title": "Leichter",
     "artist": "Revolverheld"
+  },
+  {
+    "key": "2026-09-01 23:59:17 +0200|Aus & Vorbei|Vanessa Mai",
+    "played_at": "2026-09-01 23:59:17 +0200",
+    "title": "Aus & Vorbei",
+    "artist": "Vanessa Mai"
+  },
+  {
+    "key": "2026-09-02 00:01:31 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-02 00:01:31 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-02 00:04:16 +0200|Vergangenheit|Bosse",
+    "played_at": "2026-09-02 00:04:16 +0200",
+    "title": "Vergangenheit",
+    "artist": "Bosse"
   }
 ]
