@@ -2,9 +2,14 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 407,
-    "music_entries": 371,
+    "total_entries": 412,
+    "music_entries": 375,
     "songs": [
+      {
+        "artist": "Luciano",
+        "title": "Beautiful Girl",
+        "plays": 4
+      },
       {
         "artist": "Lakeyah",
         "title": "Mind Yo Business feat. Latto",
@@ -41,8 +46,8 @@
         "plays": 3
       },
       {
-        "artist": "Luciano",
-        "title": "Beautiful Girl",
+        "artist": "Marshmello & Jonas Brothers",
+        "title": "Slow Motion",
         "plays": 3
       },
       {
@@ -168,11 +173,6 @@
       {
         "artist": "AYLIVA",
         "title": "Renn!",
-        "plays": 2
-      },
-      {
-        "artist": "Marshmello & Jonas Brothers",
-        "title": "Slow Motion",
         "plays": 2
       },
       {
@@ -1159,11 +1159,21 @@
         "artist": "Drake",
         "title": "Hoe Phase",
         "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Ready For Your Love",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "If You're Too Shy (Let Me Know)",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Lakeyah",
-      "title": "Mind Yo Business feat. Latto",
+      "artist": "Luciano",
+      "title": "Beautiful Girl",
       "plays": 4
     }
   }
