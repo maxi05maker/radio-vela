@@ -2,13 +2,18 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 311,
-    "music_entries": 292,
+    "total_entries": 314,
+    "music_entries": 295,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 5
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 4
       },
       {
         "artist": "Michael Schulte, R3HAB",
@@ -28,11 +33,6 @@
       {
         "artist": "CRO",
         "title": "Fallin",
-        "plays": 3
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 3
       },
       {
@@ -1058,6 +1058,16 @@
       {
         "artist": "The Weeknd",
         "title": "Less Than Zero",
+        "plays": 1
+      },
+      {
+        "artist": "Hundreds",
+        "title": "Fallacies",
+        "plays": 1
+      },
+      {
+        "artist": "Pusha T",
+        "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 1
       }
     ],
