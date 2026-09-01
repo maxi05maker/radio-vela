@@ -3370,5 +3370,35 @@
     "played_at": "2026-09-01 13:03:42 +0200",
     "title": "Die Anderen feat. Blumengarten & Trettmann",
     "artist": "Bazzazian"
+  },
+  {
+    "key": "2026-09-01 13:06:25 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-01 13:06:25 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-01 13:08:54 +0200|High Hopes|Panic! At the Disco",
+    "played_at": "2026-09-01 13:08:54 +0200",
+    "title": "High Hopes",
+    "artist": "Panic! At the Disco"
+  },
+  {
+    "key": "2026-09-01 13:12:05 +0200|Sometimes|Juice WRLD",
+    "played_at": "2026-09-01 13:12:05 +0200",
+    "title": "Sometimes",
+    "artist": "Juice WRLD"
+  },
+  {
+    "key": "2026-09-01 13:16:25 +0200|Watch It Burn|Katy Perry",
+    "played_at": "2026-09-01 13:16:25 +0200",
+    "title": "Watch It Burn",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-09-01 13:19:21 +0200|Castle on the Hill|Ed Sheeran",
+    "played_at": "2026-09-01 13:19:21 +0200",
+    "title": "Castle on the Hill",
+    "artist": "Ed Sheeran"
   }
 ]

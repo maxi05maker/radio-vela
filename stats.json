@@ -2,12 +2,17 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 108,
-    "music_entries": 101,
+    "total_entries": 113,
+    "music_entries": 105,
     "songs": [
       {
         "artist": "Denzel Curry",
         "title": "Walkin",
+        "plays": 2
+      },
+      {
+        "artist": "Juice WRLD",
+        "title": "Sometimes",
         "plays": 2
       },
       {
@@ -266,11 +271,6 @@
         "plays": 1
       },
       {
-        "artist": "Juice WRLD",
-        "title": "Sometimes",
-        "plays": 1
-      },
-      {
         "artist": "Twenty One Pilots",
         "title": "The Craving (Jenna's version)",
         "plays": 1
@@ -493,6 +493,21 @@
       {
         "artist": "Bazzazian",
         "title": "Die Anderen feat. Blumengarten & Trettmann",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
         "plays": 1
       }
     ],
