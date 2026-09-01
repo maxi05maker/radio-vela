@@ -2764,5 +2764,29 @@
     "played_at": "2026-09-01 07:19:57 +0200",
     "title": "War Of Kings",
     "artist": "Europe"
+  },
+  {
+    "key": "2026-09-01 07:24:33 +0200|Mad Love|Mabel",
+    "played_at": "2026-09-01 07:24:33 +0200",
+    "title": "Mad Love",
+    "artist": "Mabel"
+  },
+  {
+    "key": "2026-09-01 07:27:26 +0200|Homewrecker|sombr",
+    "played_at": "2026-09-01 07:27:26 +0200",
+    "title": "Homewrecker",
+    "artist": "sombr"
+  },
+  {
+    "key": "2026-09-01 07:30:55 +0200|Build a House|Stefanie Heinzmann feat. Alle Farben",
+    "played_at": "2026-09-01 07:30:55 +0200",
+    "title": "Build a House",
+    "artist": "Stefanie Heinzmann feat. Alle Farben"
+  },
+  {
+    "key": "2026-09-01 07:33:57 +0200|Say My Name|The Lathums",
+    "played_at": "2026-09-01 07:33:57 +0200",
+    "title": "Say My Name",
+    "artist": "The Lathums"
   }
 ]
