@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 226,
-    "music_entries": 212,
+    "total_entries": 230,
+    "music_entries": 216,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -216,13 +216,28 @@
         "plays": 2
       },
       {
+        "artist": "Johannes Oerding",
+        "title": "Kaleidoskop",
+        "plays": 2
+      },
+      {
         "artist": "Soulja Boy",
         "title": "Metaverse",
         "plays": 2
       },
       {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
+        "plays": 2
+      },
+      {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 2
       },
       {
@@ -391,18 +406,8 @@
         "plays": 1
       },
       {
-        "artist": "Johannes Oerding",
-        "title": "Kaleidoskop",
-        "plays": 1
-      },
-      {
         "artist": "Chaka Khan",
         "title": "Boogie's In My Soul (feat. Snoop Dogg)",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta feat. Sam Martin",
-        "title": "Lovers on the Sun",
         "plays": 1
       },
       {
@@ -423,11 +428,6 @@
       {
         "artist": "Alli Neumann",
         "title": "Monster",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
@@ -833,6 +833,11 @@
       {
         "artist": "Tate McRae",
         "title": "Its ok Im ok",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Ready For Your Love",
         "plays": 1
       }
     ],
