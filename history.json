@@ -2914,5 +2914,23 @@
     "played_at": "2026-09-01 08:48:19 +0200",
     "title": "Tanzen",
     "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-01 08:51:07 +0200|Der letzte Tag|Max Giesinger",
+    "played_at": "2026-09-01 08:51:07 +0200",
+    "title": "Der letzte Tag",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-09-01 08:54:04 +0200|2 hands|Tate McRae",
+    "played_at": "2026-09-01 08:54:04 +0200",
+    "title": "2 hands",
+    "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-09-01 08:57:05 +0200|About You|The 1975",
+    "played_at": "2026-09-01 08:57:05 +0200",
+    "title": "About You",
+    "artist": "The 1975"
   }
 ]

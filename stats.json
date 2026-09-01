@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 32,
-    "music_entries": 29,
+    "total_entries": 35,
+    "music_entries": 32,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -148,6 +148,21 @@
       {
         "artist": "Clueso",
         "title": "Tanzen",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "2 hands",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "About You",
         "plays": 1
       }
     ],
