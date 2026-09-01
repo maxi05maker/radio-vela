@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 188,
-    "music_entries": 176,
+    "total_entries": 198,
+    "music_entries": 185,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -56,6 +56,11 @@
         "plays": 2
       },
       {
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
+        "plays": 2
+      },
+      {
         "artist": "The Rolling Stones",
         "title": "Living In A Ghost Town",
         "plays": 2
@@ -81,6 +86,16 @@
         "plays": 2
       },
       {
+        "artist": "Kelvin Jones",
+        "title": "Cry A Little Less",
+        "plays": 2
+      },
+      {
+        "artist": "Clueso",
+        "title": "Tanzen",
+        "plays": 2
+      },
+      {
         "artist": "Max Giesinger",
         "title": "Der letzte Tag",
         "plays": 2
@@ -91,8 +106,23 @@
         "plays": 2
       },
       {
+        "artist": "ELIF",
+        "title": "WENN ICH STERBE",
+        "plays": 2
+      },
+      {
         "artist": "Denzel Curry",
         "title": "Walkin",
+        "plays": 2
+      },
+      {
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
+        "plays": 2
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 2
       },
       {
@@ -151,11 +181,6 @@
         "plays": 1
       },
       {
-        "artist": "The Kid LAROI & Justin Bieber",
-        "title": "Stay",
-        "plays": 1
-      },
-      {
         "artist": "James Blake",
         "title": "Death Of Love (Live)",
         "plays": 1
@@ -171,11 +196,6 @@
         "plays": 1
       },
       {
-        "artist": "Kelvin Jones",
-        "title": "Cry A Little Less",
-        "plays": 1
-      },
-      {
         "artist": "Måneskin",
         "title": "I WANNA BE YOUR SLAVE",
         "plays": 1
@@ -183,11 +203,6 @@
       {
         "artist": "Joris",
         "title": "Zu Viel Retro",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Tanzen",
         "plays": 1
       },
       {
@@ -206,18 +221,8 @@
         "plays": 1
       },
       {
-        "artist": "ELIF",
-        "title": "WENN ICH STERBE",
-        "plays": 1
-      },
-      {
         "artist": "Mono Inc.",
         "title": "Abendrot",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler feat. Cali Y El Dandee",
-        "title": "Mañana",
         "plays": 1
       },
       {
@@ -248,11 +253,6 @@
       {
         "artist": "Coldplay",
         "title": "Higher Power",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
         "plays": 1
       },
       {
@@ -768,6 +768,21 @@
       {
         "artist": "Tom Gregory & VIZE",
         "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "Myles Smith",
+        "title": "Stay (If You Wanna Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Schief in jedem Chor",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Frampton, Benmont Tench",
+        "title": "Buried Treasure",
         "plays": 1
       }
     ],

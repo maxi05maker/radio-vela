@@ -3850,5 +3850,65 @@
     "played_at": "2026-09-01 17:41:34 +0200",
     "title": "My Cleveland Heart",
     "artist": "Jackson Browne"
+  },
+  {
+    "key": "2026-09-01 17:51:15 +0200|Cry A Little Less|Kelvin Jones",
+    "played_at": "2026-09-01 17:51:15 +0200",
+    "title": "Cry A Little Less",
+    "artist": "Kelvin Jones"
+  },
+  {
+    "key": "2026-09-01 17:54:40 +0200|Stay (If You Wanna Dance)|Myles Smith",
+    "played_at": "2026-09-01 17:54:40 +0200",
+    "title": "Stay (If You Wanna Dance)",
+    "artist": "Myles Smith"
+  },
+  {
+    "key": "2026-09-01 18:02:26 +0200|Tanzen|Clueso",
+    "played_at": "2026-09-01 18:02:26 +0200",
+    "title": "Tanzen",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-01 18:05:14 +0200|Schief in jedem Chor|Kraftklub",
+    "played_at": "2026-09-01 18:05:14 +0200",
+    "title": "Schief in jedem Chor",
+    "artist": "Kraftklub"
+  },
+  {
+    "key": "2026-09-01 18:08:20 +0200|Mañana|Alvaro Soler feat. Cali Y El Dandee",
+    "played_at": "2026-09-01 18:08:20 +0200",
+    "title": "Mañana",
+    "artist": "Alvaro Soler feat. Cali Y El Dandee"
+  },
+  {
+    "key": "2026-09-01 18:11:53 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-01 18:11:53 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-01 18:14:23 +0200|Stay|The Kid LAROI & Justin Bieber",
+    "played_at": "2026-09-01 18:14:23 +0200",
+    "title": "Stay",
+    "artist": "The Kid LAROI & Justin Bieber"
+  },
+  {
+    "key": "2026-09-01 18:16:45 +0200|Buried Treasure|Peter Frampton, Benmont Tench",
+    "played_at": "2026-09-01 18:16:45 +0200",
+    "title": "Buried Treasure",
+    "artist": "Peter Frampton, Benmont Tench"
+  },
+  {
+    "key": "2026-09-01 18:21:31 +0200|WENN ICH STERBE|ELIF",
+    "played_at": "2026-09-01 18:21:31 +0200",
+    "title": "WENN ICH STERBE",
+    "artist": "ELIF"
+  },
+  {
+    "key": "2026-09-01 18:24:32 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-09-01 18:24:32 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
   }
 ]
