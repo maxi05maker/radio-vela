@@ -2836,5 +2836,29 @@
     "played_at": "2026-09-01 07:58:06 +0200",
     "title": "Stay",
     "artist": "The Kid LAROI & Justin Bieber"
+  },
+  {
+    "key": "2026-09-01 08:00:28 +0200|Living In A Ghost Town|The Rolling Stones",
+    "played_at": "2026-09-01 08:00:28 +0200",
+    "title": "Living In A Ghost Town",
+    "artist": "The Rolling Stones"
+  },
+  {
+    "key": "2026-09-01 08:04:35 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-01 08:04:35 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-01 08:07:31 +0200|Death Of Love (Live)|James Blake",
+    "played_at": "2026-09-01 08:07:31 +0200",
+    "title": "Death Of Love (Live)",
+    "artist": "James Blake"
+  },
+  {
+    "key": "2026-09-01 08:10:55 +0200|Senjutsu|Iron Maiden",
+    "played_at": "2026-09-01 08:10:55 +0200",
+    "title": "Senjutsu",
+    "artist": "Iron Maiden"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 19,
-    "music_entries": 17,
+    "total_entries": 23,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -88,6 +88,21 @@
       {
         "artist": "The Kid LAROI & Justin Bieber",
         "title": "Stay",
+        "plays": 1
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Living In A Ghost Town",
+        "plays": 1
+      },
+      {
+        "artist": "James Blake",
+        "title": "Death Of Love (Live)",
+        "plays": 1
+      },
+      {
+        "artist": "Iron Maiden",
+        "title": "Senjutsu",
         "plays": 1
       }
     ],
