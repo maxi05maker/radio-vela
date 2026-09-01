@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 451,
-    "music_entries": 412,
+    "total_entries": 454,
+    "music_entries": 415,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1283,6 +1283,21 @@
       {
         "artist": "Mike Singer",
         "title": "Billie Eilish",
+        "plays": 1
+      },
+      {
+        "artist": "Mumford & Sons",
+        "title": "The Banjo Song",
+        "plays": 1
+      },
+      {
+        "artist": "Soulja Boy",
+        "title": "Metaverse",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "There's Nothing Holdin' Me Back",
         "plays": 1
       }
     ],
