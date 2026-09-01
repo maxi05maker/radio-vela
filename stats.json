@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 327,
-    "music_entries": 307,
+    "total_entries": 330,
+    "music_entries": 310,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1118,6 +1118,21 @@
       {
         "artist": "Shirin David",
         "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Logic",
+        "title": "Bleed It",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Azizam",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Ghost",
         "plays": 1
       }
     ],
