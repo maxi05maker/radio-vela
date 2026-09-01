@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 421,
-    "music_entries": 384,
+    "total_entries": 425,
+    "music_entries": 387,
     "songs": [
       {
         "artist": "Luciano",
@@ -144,6 +144,11 @@
         "artist": "Shygirl",
         "title": "BDE (feat. slowthai)",
         "plays": 3
+      },
+      {
+        "artist": "OG Keemo",
+        "title": "Vögel",
+        "plays": 2
       },
       {
         "artist": "Purple Disco Machine feat. Jake Shears",
@@ -628,11 +633,6 @@
       {
         "artist": "Ellie Goulding",
         "title": "Let it die",
-        "plays": 1
-      },
-      {
-        "artist": "OG Keemo",
-        "title": "Vögel",
         "plays": 1
       },
       {
@@ -1198,6 +1198,16 @@
       {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Beautiful Trauma",
+        "plays": 1
+      },
+      {
+        "artist": "Tori Amos",
+        "title": "Song of Sorrow",
         "plays": 1
       }
     ],
