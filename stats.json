@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 267,
-    "music_entries": 251,
+    "total_entries": 271,
+    "music_entries": 254,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -336,8 +336,18 @@
         "plays": 2
       },
       {
+        "artist": "Lena",
+        "title": "Wild & Free",
+        "plays": 2
+      },
+      {
         "artist": "ROSALÍA",
         "title": "Aute Cuture",
+        "plays": 2
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
         "plays": 2
       },
       {
@@ -571,18 +581,8 @@
         "plays": 1
       },
       {
-        "artist": "Lena",
-        "title": "Wild & Free",
-        "plays": 1
-      },
-      {
         "artist": "The Pretty Reckless",
         "title": "Rollercoaster Of Life",
-        "plays": 1
-      },
-      {
-        "artist": "DJ Snake & J. Balvin Feat. Tyga",
-        "title": "Loco Contigo",
         "plays": 1
       },
       {
@@ -898,6 +898,11 @@
       {
         "artist": "Inhaler",
         "title": "A Question of You",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Joker",
         "plays": 1
       }
     ],
