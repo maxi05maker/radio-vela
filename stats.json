@@ -2,9 +2,14 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 383,
-    "music_entries": 350,
+    "total_entries": 388,
+    "music_entries": 354,
     "songs": [
+      {
+        "artist": "Lakeyah",
+        "title": "Mind Yo Business feat. Latto",
+        "plays": 4
+      },
       {
         "artist": "Eli Preiss",
         "title": "Was ist der Prei$$",
@@ -56,6 +61,11 @@
         "plays": 3
       },
       {
+        "artist": "The Lumineers",
+        "title": "Ho Hey",
+        "plays": 3
+      },
+      {
         "artist": "Von Wegen Lisbeth",
         "title": "Meine Kneipe",
         "plays": 3
@@ -78,11 +88,6 @@
       {
         "artist": "Nico Santos",
         "title": "Safe",
-        "plays": 3
-      },
-      {
-        "artist": "Lakeyah",
-        "title": "Mind Yo Business feat. Latto",
         "plays": 3
       },
       {
@@ -146,11 +151,6 @@
         "plays": 2
       },
       {
-        "artist": "The Lumineers",
-        "title": "Ho Hey",
-        "plays": 2
-      },
-      {
         "artist": "Fritz Kalkbrenner",
         "title": "It Ain't Over",
         "plays": 2
@@ -168,6 +168,11 @@
       {
         "artist": "George Ezra",
         "title": "Shotgun",
+        "plays": 2
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Bandaids",
         "plays": 2
       },
       {
@@ -501,6 +506,11 @@
         "plays": 2
       },
       {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 2
+      },
+      {
         "artist": "James Arthur & You Me At Six",
         "title": "Lose My Mind",
         "plays": 2
@@ -736,11 +746,6 @@
         "plays": 1
       },
       {
-        "artist": "Katy Perry",
-        "title": "Bandaids",
-        "plays": 1
-      },
-      {
         "artist": "Bebe Rexha & David Guetta",
         "title": "Sad Girls",
         "plays": 1
@@ -938,11 +943,6 @@
       {
         "artist": "Olivia Rodrigo",
         "title": "Drop dead",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Jesso",
-        "title": "Clarity",
         "plays": 1
       },
       {
@@ -1157,8 +1157,8 @@
       }
     ],
     "top_song": {
-      "artist": "Eli Preiss",
-      "title": "Was ist der Prei$$",
+      "artist": "Lakeyah",
+      "title": "Mind Yo Business feat. Latto",
       "plays": 4
     }
   }
