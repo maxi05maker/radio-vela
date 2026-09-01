@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 212,
-    "music_entries": 199,
+    "total_entries": 215,
+    "music_entries": 201,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -128,6 +128,11 @@
       {
         "artist": "Max Giesinger",
         "title": "Taxi",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Counting Stars",
         "plays": 2
       },
       {
@@ -268,11 +273,6 @@
       {
         "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
         "title": "Rebellion",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "Counting Stars",
         "plays": 1
       },
       {
@@ -808,6 +808,11 @@
       {
         "artist": "Amyl and The Sniffers",
         "title": "Big Dreams",
+        "plays": 1
+      },
+      {
+        "artist": "Black Country Communion",
+        "title": "Skyway",
         "plays": 1
       }
     ],
