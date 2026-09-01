@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 392,
-    "music_entries": 357,
+    "total_entries": 394,
+    "music_entries": 359,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -81,6 +81,11 @@
         "plays": 3
       },
       {
+        "artist": "Rita Ora",
+        "title": "Your Song",
+        "plays": 3
+      },
+      {
         "artist": "Florence + The Machine",
         "title": "Hunger",
         "plays": 3
@@ -93,6 +98,11 @@
       {
         "artist": "Nico Santos",
         "title": "Safe",
+        "plays": 3
+      },
+      {
+        "artist": "Söhne Mannheims",
+        "title": "Das hat die Welt noch nicht gesehen",
         "plays": 3
       },
       {
@@ -176,11 +186,6 @@
         "plays": 2
       },
       {
-        "artist": "Rita Ora",
-        "title": "Your Song",
-        "plays": 2
-      },
-      {
         "artist": "MGMT",
         "title": "Electric Feel",
         "plays": 2
@@ -233,11 +238,6 @@
       {
         "artist": "Lewis Capaldi",
         "title": "Someone You Loved",
-        "plays": 2
-      },
-      {
-        "artist": "Söhne Mannheims",
-        "title": "Das hat die Welt noch nicht gesehen",
         "plays": 2
       },
       {
