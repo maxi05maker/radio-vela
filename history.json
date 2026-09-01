@@ -2686,5 +2686,23 @@
     "played_at": "2026-09-01 06:31:41 +0200",
     "title": "Diamonds",
     "artist": "Josef Salvat"
+  },
+  {
+    "key": "2026-09-01 06:35:43 +0200|Cold Wars|Giant Rooks",
+    "played_at": "2026-09-01 06:35:43 +0200",
+    "title": "Cold Wars",
+    "artist": "Giant Rooks"
+  },
+  {
+    "key": "2026-09-01 06:39:37 +0200|Billie Eilish|Mike Singer",
+    "played_at": "2026-09-01 06:39:37 +0200",
+    "title": "Billie Eilish",
+    "artist": "Mike Singer"
+  },
+  {
+    "key": "2026-09-01 06:42:06 +0200|Safe|Nico Santos",
+    "played_at": "2026-09-01 06:42:06 +0200",
+    "title": "Safe",
+    "artist": "Nico Santos"
   }
 ]
