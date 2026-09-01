@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 284,
-    "music_entries": 267,
+    "total_entries": 288,
+    "music_entries": 270,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -18,6 +18,16 @@
       {
         "artist": "Soulja Boy",
         "title": "Metaverse",
+        "plays": 3
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 3
+      },
+      {
+        "artist": "CRO",
+        "title": "Fallin",
         "plays": 3
       },
       {
@@ -283,16 +293,6 @@
       {
         "artist": "Alli Neumann",
         "title": "Monster",
-        "plays": 2
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 2
-      },
-      {
-        "artist": "CRO",
-        "title": "Fallin",
         "plays": 2
       },
       {
@@ -958,6 +958,11 @@
       {
         "artist": "Ariana Grande",
         "title": "twilight zone",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Revolving door",
         "plays": 1
       }
     ],
