@@ -2500,5 +2500,23 @@
     "played_at": "2026-09-01 04:42:31 +0200",
     "title": "RUN IT",
     "artist": "Stray Kids"
+  },
+  {
+    "key": "2026-09-01 04:46:01 +0200|Bonfire Heart|James Blunt",
+    "played_at": "2026-09-01 04:46:01 +0200",
+    "title": "Bonfire Heart",
+    "artist": "James Blunt"
+  },
+  {
+    "key": "2026-09-01 04:49:55 +0200|Die schönsten Tage|SDP & Clueso",
+    "played_at": "2026-09-01 04:49:55 +0200",
+    "title": "Die schönsten Tage",
+    "artist": "SDP & Clueso"
+  },
+  {
+    "key": "2026-09-01 04:53:12 +0200|American Girls|Harry Styles",
+    "played_at": "2026-09-01 04:53:12 +0200",
+    "title": "American Girls",
+    "artist": "Harry Styles"
   }
 ]

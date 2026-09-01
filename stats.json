@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 417,
-    "music_entries": 380,
+    "total_entries": 420,
+    "music_entries": 383,
     "songs": [
       {
         "artist": "Luciano",
@@ -1178,6 +1178,21 @@
       {
         "artist": "DJ Snake & J. Balvin Feat. Tyga",
         "title": "Loco Contigo",
+        "plays": 1
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Bonfire Heart",
+        "plays": 1
+      },
+      {
+        "artist": "SDP & Clueso",
+        "title": "Die schönsten Tage",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "American Girls",
         "plays": 1
       }
     ],
