@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 308,
-    "music_entries": 289,
+    "total_entries": 311,
+    "music_entries": 292,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1043,6 +1043,21 @@
       {
         "artist": "Robin Schulz feat. CLOVES",
         "title": "Old Friend (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Real Face",
+        "plays": 1
+      },
+      {
+        "artist": "Spelling",
+        "title": "Portrait Of My Heart",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Less Than Zero",
         "plays": 1
       }
     ],

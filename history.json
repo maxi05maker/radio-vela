@@ -4570,5 +4570,23 @@
     "played_at": "2026-09-02 00:16:21 +0200",
     "title": "Castle on the Hill",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-02 00:20:43 +0200|Real Face|Sofia Portanet",
+    "played_at": "2026-09-02 00:20:43 +0200",
+    "title": "Real Face",
+    "artist": "Sofia Portanet"
+  },
+  {
+    "key": "2026-09-02 00:23:34 +0200|Portrait Of My Heart|Spelling",
+    "played_at": "2026-09-02 00:23:34 +0200",
+    "title": "Portrait Of My Heart",
+    "artist": "Spelling"
+  },
+  {
+    "key": "2026-09-02 00:26:49 +0200|Less Than Zero|The Weeknd",
+    "played_at": "2026-09-02 00:26:49 +0200",
+    "title": "Less Than Zero",
+    "artist": "The Weeknd"
   }
 ]
