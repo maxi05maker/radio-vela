@@ -2,9 +2,14 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 151,
-    "music_entries": 141,
+    "total_entries": 155,
+    "music_entries": 145,
     "songs": [
+      {
+        "artist": "The Lathums",
+        "title": "Say My Name",
+        "plays": 2
+      },
       {
         "artist": "OG Keemo",
         "title": "Vögel",
@@ -18,6 +23,11 @@
       {
         "artist": "Juice WRLD",
         "title": "Sometimes",
+        "plays": 2
+      },
+      {
+        "artist": "Soulja Boy",
+        "title": "Metaverse",
         "plays": 2
       },
       {
@@ -73,11 +83,6 @@
       {
         "artist": "Stefanie Heinzmann feat. Alle Farben",
         "title": "Build a House",
-        "plays": 1
-      },
-      {
-        "artist": "The Lathums",
-        "title": "Say My Name",
         "plays": 1
       },
       {
@@ -391,11 +396,6 @@
         "plays": 1
       },
       {
-        "artist": "Soulja Boy",
-        "title": "Metaverse",
-        "plays": 1
-      },
-      {
         "artist": "David Guetta feat. Sam Martin",
         "title": "Lovers on the Sun",
         "plays": 1
@@ -684,11 +684,21 @@
         "artist": "Josef Salvat",
         "title": "Diamonds",
         "plays": 1
+      },
+      {
+        "artist": "A7S David Guetta Wizkid",
+        "title": "Lighter",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Safe",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "OG Keemo",
-      "title": "Vögel",
+      "artist": "The Lathums",
+      "title": "Say My Name",
       "plays": 2
     }
   }
