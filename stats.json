@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 145,
-    "music_entries": 135,
+    "total_entries": 149,
+    "music_entries": 139,
     "songs": [
       {
         "artist": "OG Keemo",
@@ -653,6 +653,26 @@
       {
         "artist": "Lana Del Rey",
         "title": "Happiness Is A Butterfly",
+        "plays": 1
+      },
+      {
+        "artist": "Elle King",
+        "title": "Ex's & Oh's",
+        "plays": 1
+      },
+      {
+        "artist": "Jorja Smith",
+        "title": "The Way I Love You",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Du und Ich",
         "plays": 1
       }
     ],
