@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 80,
-    "music_entries": 74,
+    "total_entries": 84,
+    "music_entries": 78,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -373,6 +373,26 @@
       {
         "artist": "Johannes Oerding",
         "title": "Kaleidoskop",
+        "plays": 1
+      },
+      {
+        "artist": "Chaka Khan",
+        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+        "plays": 1
+      },
+      {
+        "artist": "Soulja Boy",
+        "title": "Metaverse",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
+        "plays": 1
+      },
+      {
+        "artist": "FKA twigs",
+        "title": "Childlike Things",
         "plays": 1
       }
     ],
