@@ -4348,5 +4348,29 @@
     "played_at": "2026-09-01 22:19:13 +0200",
     "title": "The Joker",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-01 22:22:08 +0200|Do Things My Own Way|Sparks",
+    "played_at": "2026-09-01 22:22:08 +0200",
+    "title": "Do Things My Own Way",
+    "artist": "Sparks"
+  },
+  {
+    "key": "2026-09-01 22:25:49 +0200|Rose Street|Vince Staples",
+    "played_at": "2026-09-01 22:25:49 +0200",
+    "title": "Rose Street",
+    "artist": "Vince Staples"
+  },
+  {
+    "key": "2026-09-01 22:28:23 +0200|Hold Me Closer|Elton John, Britney Spears",
+    "played_at": "2026-09-01 22:28:23 +0200",
+    "title": "Hold Me Closer",
+    "artist": "Elton John, Britney Spears"
+  },
+  {
+    "key": "2026-09-01 22:31:46 +0200|No Rain, No Flowers|The Black Keys",
+    "played_at": "2026-09-01 22:31:46 +0200",
+    "title": "No Rain, No Flowers",
+    "artist": "The Black Keys"
   }
 ]

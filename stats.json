@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 271,
-    "music_entries": 254,
+    "total_entries": 275,
+    "music_entries": 258,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -18,6 +18,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 3
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
         "plays": 3
       },
       {
@@ -313,11 +318,6 @@
       {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
-        "plays": 2
-      },
-      {
-        "artist": "Elton John, Britney Spears",
-        "title": "Hold Me Closer",
         "plays": 2
       },
       {
@@ -903,6 +903,21 @@
       {
         "artist": "Lady Gaga",
         "title": "The Joker",
+        "plays": 1
+      },
+      {
+        "artist": "Sparks",
+        "title": "Do Things My Own Way",
+        "plays": 1
+      },
+      {
+        "artist": "Vince Staples",
+        "title": "Rose Street",
+        "plays": 1
+      },
+      {
+        "artist": "The Black Keys",
+        "title": "No Rain, No Flowers",
         "plays": 1
       }
     ],
