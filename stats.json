@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 238,
-    "music_entries": 223,
+    "total_entries": 241,
+    "music_entries": 226,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -251,8 +251,18 @@
         "plays": 2
       },
       {
+        "artist": "Alli Neumann",
+        "title": "Monster",
+        "plays": 2
+      },
+      {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 2
+      },
+      {
+        "artist": "Sia feat. Sean Paul",
+        "title": "Cheap Thrills",
         "plays": 2
       },
       {
@@ -431,11 +441,6 @@
         "plays": 1
       },
       {
-        "artist": "Alli Neumann",
-        "title": "Monster",
-        "plays": 1
-      },
-      {
         "artist": "ROSÉ & Bruno Mars",
         "title": "APT.",
         "plays": 1
@@ -453,11 +458,6 @@
       {
         "artist": "THE MENZINGERS",
         "title": "Everything I Ever Saw",
-        "plays": 1
-      },
-      {
-        "artist": "Sia feat. Sean Paul",
-        "title": "Cheap Thrills",
         "plays": 1
       },
       {
@@ -848,6 +848,11 @@
       {
         "artist": "Gorillaz",
         "title": "The Moon Cave",
+        "plays": 1
+      },
+      {
+        "artist": "Stray Kids",
+        "title": "RUN IT",
         "plays": 1
       }
     ],
