@@ -3154,5 +3154,35 @@
     "played_at": "2026-09-01 11:04:27 +0200",
     "title": "good 4 u",
     "artist": "Olivia Rodrigo"
+  },
+  {
+    "key": "2026-09-01 11:07:25 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-01 11:07:25 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-01 11:10:09 +0200|In My Blood|Shawn Mendes",
+    "played_at": "2026-09-01 11:10:09 +0200",
+    "title": "In My Blood",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-01 11:13:40 +0200|Fühlst du gar nichts? feat. Nina Chuba|Ennio",
+    "played_at": "2026-09-01 11:13:40 +0200",
+    "title": "Fühlst du gar nichts? feat. Nina Chuba",
+    "artist": "Ennio"
+  },
+  {
+    "key": "2026-09-01 11:17:01 +0200|Will ich nur dich|Drangsal",
+    "played_at": "2026-09-01 11:17:01 +0200",
+    "title": "Will ich nur dich",
+    "artist": "Drangsal"
+  },
+  {
+    "key": "2026-09-01 11:19:32 +0200|Golden Nights|Sophie & The Giants",
+    "played_at": "2026-09-01 11:19:32 +0200",
+    "title": "Golden Nights",
+    "artist": "Sophie & The Giants"
   }
 ]
