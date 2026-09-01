@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 325,
-    "music_entries": 305,
+    "total_entries": 327,
+    "music_entries": 307,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -361,6 +361,11 @@
         "plays": 2
       },
       {
+        "artist": "Clueso",
+        "title": "Deja-Vu",
+        "plays": 2
+      },
+      {
         "artist": "Shirin David",
         "title": "küss mich doch",
         "plays": 1
@@ -588,11 +593,6 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Deja-Vu",
         "plays": 1
       },
       {
@@ -1113,6 +1113,11 @@
       {
         "artist": "Matt Simons",
         "title": "Catch And Release (Deepend Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
         "plays": 1
       }
     ],
