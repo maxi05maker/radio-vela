@@ -2,12 +2,17 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 158,
-    "music_entries": 148,
+    "total_entries": 159,
+    "music_entries": 149,
     "songs": [
       {
         "artist": "The Lathums",
         "title": "Say My Name",
+        "plays": 2
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Living In A Ghost Town",
         "plays": 2
       },
       {
@@ -118,11 +123,6 @@
       {
         "artist": "The Kid LAROI & Justin Bieber",
         "title": "Stay",
-        "plays": 1
-      },
-      {
-        "artist": "The Rolling Stones",
-        "title": "Living In A Ghost Town",
         "plays": 1
       },
       {
