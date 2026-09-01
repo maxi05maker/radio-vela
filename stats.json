@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 414,
-    "music_entries": 377,
+    "total_entries": 417,
+    "music_entries": 380,
     "songs": [
       {
         "artist": "Luciano",
@@ -158,6 +158,11 @@
       {
         "artist": "Katy Perry",
         "title": "I'M HIS, HE'S MINE ft. Doechii",
+        "plays": 2
+      },
+      {
+        "artist": "Rea Garvey feat. Kool Savas",
+        "title": "Is It Love?",
         "plays": 2
       },
       {
@@ -481,6 +486,11 @@
         "plays": 2
       },
       {
+        "artist": "Stray Kids",
+        "title": "RUN IT",
+        "plays": 2
+      },
+      {
         "artist": "Kygo feat. DNCE",
         "title": "Dancing Feet",
         "plays": 2
@@ -696,11 +706,6 @@
         "plays": 1
       },
       {
-        "artist": "Rea Garvey feat. Kool Savas",
-        "title": "Is It Love?",
-        "plays": 1
-      },
-      {
         "artist": "Nico Santos",
         "title": "Weekend Lover",
         "plays": 1
@@ -903,11 +908,6 @@
       {
         "artist": "David Guetta; Teddy Swims; Tones and I",
         "title": "Gone Gone Gone",
-        "plays": 1
-      },
-      {
-        "artist": "Stray Kids",
-        "title": "RUN IT",
         "plays": 1
       },
       {
@@ -1173,6 +1173,11 @@
       {
         "artist": "Travis Scott",
         "title": "Escape Plan",
+        "plays": 1
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
         "plays": 1
       }
     ],
