@@ -3952,5 +3952,29 @@
     "played_at": "2026-09-01 18:46:31 +0200",
     "title": "Augenblick",
     "artist": "Pashanim"
+  },
+  {
+    "key": "2026-09-01 18:48:38 +0200|Dye My Hair|Alma",
+    "played_at": "2026-09-01 18:48:38 +0200",
+    "title": "Dye My Hair",
+    "artist": "Alma"
+  },
+  {
+    "key": "2026-09-01 18:52:06 +0200|Ciao Adios|Anne-Marie",
+    "played_at": "2026-09-01 18:52:06 +0200",
+    "title": "Ciao Adios",
+    "artist": "Anne-Marie"
+  },
+  {
+    "key": "2026-09-01 18:55:26 +0200|Midnight Sun|Zara Larsson",
+    "played_at": "2026-09-01 18:55:26 +0200",
+    "title": "Midnight Sun",
+    "artist": "Zara Larsson"
+  },
+  {
+    "key": "2026-09-01 18:58:38 +0200|I WANNA BE YOUR SLAVE|Måneskin",
+    "played_at": "2026-09-01 18:58:38 +0200",
+    "title": "I WANNA BE YOUR SLAVE",
+    "artist": "Måneskin"
   }
 ]

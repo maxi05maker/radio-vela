@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 205,
-    "music_entries": 192,
+    "total_entries": 209,
+    "music_entries": 196,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -91,6 +91,11 @@
         "plays": 2
       },
       {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
+        "plays": 2
+      },
+      {
         "artist": "Clueso",
         "title": "Tanzen",
         "plays": 2
@@ -126,8 +131,18 @@
         "plays": 2
       },
       {
+        "artist": "Anne-Marie",
+        "title": "Ciao Adios",
+        "plays": 2
+      },
+      {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 2
+      },
+      {
+        "artist": "Alma",
+        "title": "Dye My Hair",
         "plays": 2
       },
       {
@@ -216,11 +231,6 @@
         "plays": 1
       },
       {
-        "artist": "Måneskin",
-        "title": "I WANNA BE YOUR SLAVE",
-        "plays": 1
-      },
-      {
         "artist": "Joris",
         "title": "Zu Viel Retro",
         "plays": 1
@@ -256,11 +266,6 @@
         "plays": 1
       },
       {
-        "artist": "Anne-Marie",
-        "title": "Ciao Adios",
-        "plays": 1
-      },
-      {
         "artist": "David Guetta",
         "title": "Never Going Home Tonight (feat. Alesso & Madison Love)",
         "plays": 1
@@ -278,11 +283,6 @@
       {
         "artist": "Pashanim",
         "title": "Sommergewitter",
-        "plays": 1
-      },
-      {
-        "artist": "Alma",
-        "title": "Dye My Hair",
         "plays": 1
       },
       {
@@ -798,6 +798,11 @@
       {
         "artist": "Pashanim",
         "title": "Augenblick",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Midnight Sun",
         "plays": 1
       }
     ],
