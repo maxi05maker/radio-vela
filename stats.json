@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 149,
-    "music_entries": 139,
+    "total_entries": 151,
+    "music_entries": 141,
     "songs": [
       {
         "artist": "OG Keemo",
@@ -673,6 +673,16 @@
       {
         "artist": "Blond",
         "title": "Du und Ich",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "End of the world",
+        "plays": 1
+      },
+      {
+        "artist": "Josef Salvat",
+        "title": "Diamonds",
         "plays": 1
       }
     ],
