@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 263,
-    "music_entries": 247,
+    "total_entries": 267,
+    "music_entries": 251,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -321,6 +321,11 @@
         "plays": 2
       },
       {
+        "artist": "Rosalía",
+        "title": "DESPECHÁ RMX",
+        "plays": 2
+      },
+      {
         "artist": "P!nk",
         "title": "Beautiful Trauma",
         "plays": 2
@@ -328,6 +333,11 @@
       {
         "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
         "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 2
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "Aute Cuture",
         "plays": 2
       },
       {
@@ -536,11 +546,6 @@
         "plays": 1
       },
       {
-        "artist": "Rosalía",
-        "title": "DESPECHÁ RMX",
-        "plays": 1
-      },
-      {
         "artist": "Tyla & Zara Larsson",
         "title": "SHE DID IT AGAIN",
         "plays": 1
@@ -568,11 +573,6 @@
       {
         "artist": "Lena",
         "title": "Wild & Free",
-        "plays": 1
-      },
-      {
-        "artist": "ROSALÍA",
-        "title": "Aute Cuture",
         "plays": 1
       },
       {
@@ -888,6 +888,16 @@
       {
         "artist": "Noah Kahan",
         "title": "Doors",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "Inhaler",
+        "title": "A Question of You",
         "plays": 1
       }
     ],
