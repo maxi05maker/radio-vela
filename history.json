@@ -3016,5 +3016,23 @@
     "played_at": "2026-09-01 09:46:35 +0200",
     "title": "Lose Control",
     "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-09-01 09:50:05 +0200|Heart Of Gold|Shawn Mendes",
+    "played_at": "2026-09-01 09:50:05 +0200",
+    "title": "Heart Of Gold",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-01 09:52:56 +0200|Sommergewitter|Pashanim",
+    "played_at": "2026-09-01 09:52:56 +0200",
+    "title": "Sommergewitter",
+    "artist": "Pashanim"
+  },
+  {
+    "key": "2026-09-01 09:55:14 +0200|Dye My Hair|Alma",
+    "played_at": "2026-09-01 09:55:14 +0200",
+    "title": "Dye My Hair",
+    "artist": "Alma"
   }
 ]
