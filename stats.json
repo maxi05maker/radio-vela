@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 133,
-    "music_entries": 124,
+    "total_entries": 137,
+    "music_entries": 128,
     "songs": [
       {
         "artist": "OG Keemo",
@@ -598,6 +598,26 @@
       {
         "artist": "SDP & Clueso",
         "title": "Die schönsten Tage",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Your Song",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Autobahn",
+        "plays": 1
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
         "plays": 1
       }
     ],
