@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 215,
-    "music_entries": 201,
+    "total_entries": 218,
+    "music_entries": 204,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -166,6 +166,11 @@
         "plays": 2
       },
       {
+        "artist": "Adele",
+        "title": "Easy On Me",
+        "plays": 2
+      },
+      {
         "artist": "Foals",
         "title": "2001",
         "plays": 2
@@ -178,6 +183,11 @@
       {
         "artist": "Olivia Rodrigo",
         "title": "good 4 u",
+        "plays": 2
+      },
+      {
+        "artist": "Sophie & The Giants",
+        "title": "Golden Nights",
         "plays": 2
       },
       {
@@ -316,11 +326,6 @@
         "plays": 1
       },
       {
-        "artist": "Adele",
-        "title": "Easy On Me",
-        "plays": 1
-      },
-      {
         "artist": "Yungblud",
         "title": "Memories",
         "plays": 1
@@ -373,11 +378,6 @@
       {
         "artist": "Drangsal",
         "title": "Will ich nur dich",
-        "plays": 1
-      },
-      {
-        "artist": "Sophie & The Giants",
-        "title": "Golden Nights",
         "plays": 1
       },
       {
@@ -813,6 +813,11 @@
       {
         "artist": "Black Country Communion",
         "title": "Skyway",
+        "plays": 1
+      },
+      {
+        "artist": "Alyzah",
+        "title": "Shoot",
         "plays": 1
       }
     ],
