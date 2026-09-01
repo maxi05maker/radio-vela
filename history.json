@@ -3286,5 +3286,17 @@
     "played_at": "2026-09-01 12:15:13 +0200",
     "title": "So Happy It Hurts",
     "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-01 12:18:47 +0200|Walkin|Denzel Curry",
+    "played_at": "2026-09-01 12:18:47 +0200",
+    "title": "Walkin",
+    "artist": "Denzel Curry"
+  },
+  {
+    "key": "2026-09-01 12:23:27 +0200|Everything I Ever Saw|THE MENZINGERS",
+    "played_at": "2026-09-01 12:23:27 +0200",
+    "title": "Everything I Ever Saw",
+    "artist": "THE MENZINGERS"
   }
 ]

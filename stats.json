@@ -2,9 +2,14 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 94,
-    "music_entries": 87,
+    "total_entries": 96,
+    "music_entries": 89,
     "songs": [
+      {
+        "artist": "Denzel Curry",
+        "title": "Walkin",
+        "plays": 2
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
@@ -183,11 +188,6 @@
       {
         "artist": "ELIF",
         "title": "WENN ICH STERBE",
-        "plays": 1
-      },
-      {
-        "artist": "Denzel Curry",
-        "title": "Walkin",
         "plays": 1
       },
       {
@@ -434,11 +434,16 @@
         "artist": "Massive Attack x Tom Waits",
         "title": "Boots on the Ground",
         "plays": 1
+      },
+      {
+        "artist": "THE MENZINGERS",
+        "title": "Everything I Ever Saw",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "Denzel Curry",
+      "title": "Walkin",
       "plays": 2
     }
   }
