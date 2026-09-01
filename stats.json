@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 397,
-    "music_entries": 362,
+    "total_entries": 400,
+    "music_entries": 365,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -96,6 +96,11 @@
         "plays": 3
       },
       {
+        "artist": "Maroon 5 & Megan Thee Stallion",
+        "title": "Beautiful Mistakes",
+        "plays": 3
+      },
+      {
         "artist": "OneRepublic",
         "title": "Run",
         "plays": 3
@@ -108,6 +113,11 @@
       {
         "artist": "Revolverheld feat. Antje Schomaker",
         "title": "Liebe auf Distanz",
+        "plays": 3
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 3
       },
       {
@@ -206,11 +216,6 @@
         "plays": 2
       },
       {
-        "artist": "Maroon 5 & Megan Thee Stallion",
-        "title": "Beautiful Mistakes",
-        "plays": 2
-      },
-      {
         "artist": "Alli Neumann",
         "title": "Madonna Whore Komplex",
         "plays": 2
@@ -228,11 +233,6 @@
       {
         "artist": "Justin Wellington feat. Small Jam",
         "title": "Iko Iko",
-        "plays": 2
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -1153,6 +1153,11 @@
       {
         "artist": "Yard Act",
         "title": "New Beginnings",
+        "plays": 1
+      },
+      {
+        "artist": "Drake",
+        "title": "Hoe Phase",
         "plays": 1
       }
     ],
