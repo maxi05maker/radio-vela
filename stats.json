@@ -2,13 +2,18 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 278,
-    "music_entries": 261,
+    "total_entries": 282,
+    "music_entries": 265,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 4
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 3
       },
       {
         "artist": "Soulja Boy",
@@ -73,11 +78,6 @@
       {
         "artist": "Michael Schulte",
         "title": "Remember Me",
-        "plays": 2
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -933,6 +933,21 @@
       {
         "artist": "Shawn Mendes",
         "title": "Why Why Why",
+        "plays": 1
+      },
+      {
+        "artist": "I Prevail",
+        "title": "Fake",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+        "plays": 1
+      },
+      {
+        "artist": "Brendan Benson",
+        "title": "Ain't No Good",
         "plays": 1
       }
     ],

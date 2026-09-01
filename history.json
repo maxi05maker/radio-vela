@@ -4390,5 +4390,29 @@
     "played_at": "2026-09-01 22:41:09 +0200",
     "title": "Why Why Why",
     "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-01 22:43:56 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-09-01 22:43:56 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-09-01 22:46:14 +0200|Fake|I Prevail",
+    "played_at": "2026-09-01 22:46:14 +0200",
+    "title": "Fake",
+    "artist": "I Prevail"
+  },
+  {
+    "key": "2026-09-01 22:49:06 +0200|Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)|Stromae",
+    "played_at": "2026-09-01 22:49:06 +0200",
+    "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+    "artist": "Stromae"
+  },
+  {
+    "key": "2026-09-01 22:51:34 +0200|Ain't No Good|Brendan Benson",
+    "played_at": "2026-09-01 22:51:34 +0200",
+    "title": "Ain't No Good",
+    "artist": "Brendan Benson"
   }
 ]
