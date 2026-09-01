@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 420,
-    "music_entries": 383,
+    "total_entries": 421,
+    "music_entries": 384,
     "songs": [
       {
         "artist": "Luciano",
@@ -1193,6 +1193,11 @@
       {
         "artist": "Harry Styles",
         "title": "American Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
         "plays": 1
       }
     ],
