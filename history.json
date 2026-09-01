@@ -3316,5 +3316,29 @@
     "played_at": "2026-09-01 12:33:22 +0200",
     "title": "Cry For Me",
     "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-09-01 12:37:06 +0200|If You're Too Shy (Let Me Know)|The 1975",
+    "played_at": "2026-09-01 12:37:06 +0200",
+    "title": "If You're Too Shy (Let Me Know)",
+    "artist": "The 1975"
+  },
+  {
+    "key": "2026-09-01 12:41:06 +0200|Do It Better (feat. Zoe Wees)|Felix Jaehn",
+    "played_at": "2026-09-01 12:41:06 +0200",
+    "title": "Do It Better (feat. Zoe Wees)",
+    "artist": "Felix Jaehn"
+  },
+  {
+    "key": "2026-09-01 12:43:54 +0200|Minimum|Clueso",
+    "played_at": "2026-09-01 12:43:54 +0200",
+    "title": "Minimum",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-01 12:46:48 +0200|Bonfire Heart|James Blunt",
+    "played_at": "2026-09-01 12:46:48 +0200",
+    "title": "Bonfire Heart",
+    "artist": "James Blunt"
   }
 ]
