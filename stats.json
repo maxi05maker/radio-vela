@@ -2,22 +2,27 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 261,
-    "music_entries": 245,
+    "total_entries": 263,
+    "music_entries": 247,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 4
+      },
       {
         "artist": "Soulja Boy",
         "title": "Metaverse",
         "plays": 3
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 3
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
+        "artist": "Travis Scott",
+        "title": "Escape Plan",
         "plays": 3
       },
       {
@@ -323,11 +328,6 @@
       {
         "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
         "title": "Don’t Call Me Angel (Charlie’s Angels)",
-        "plays": 2
-      },
-      {
-        "artist": "Travis Scott",
-        "title": "Escape Plan",
         "plays": 2
       },
       {
@@ -892,9 +892,9 @@
       }
     ],
     "top_song": {
-      "artist": "Soulja Boy",
-      "title": "Metaverse",
-      "plays": 3
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 4
     }
   }
 }
