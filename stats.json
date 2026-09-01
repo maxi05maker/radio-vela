@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 42,
-    "music_entries": 38,
+    "total_entries": 46,
+    "music_entries": 42,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -193,6 +193,26 @@
       {
         "artist": "Alvaro Soler feat. Cali Y El Dandee",
         "title": "Mañana",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Taxi",
+        "plays": 1
+      },
+      {
+        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
+        "title": "Rebellion",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Counting Stars",
+        "plays": 1
+      },
+      {
+        "artist": "Anne-Marie",
+        "title": "Ciao Adios",
         "plays": 1
       }
     ],
