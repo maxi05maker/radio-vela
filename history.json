@@ -2362,5 +2362,23 @@
     "played_at": "2026-09-01 03:32:59 +0200",
     "title": "Your Song",
     "artist": "Rita Ora"
+  },
+  {
+    "key": "2026-09-01 03:36:00 +0200|Sad Girls|Bebe Rexha & David Guetta",
+    "played_at": "2026-09-01 03:36:00 +0200",
+    "title": "Sad Girls",
+    "artist": "Bebe Rexha & David Guetta"
+  },
+  {
+    "key": "2026-09-01 03:38:48 +0200|Electric Feel|MGMT",
+    "played_at": "2026-09-01 03:38:48 +0200",
+    "title": "Electric Feel",
+    "artist": "MGMT"
+  },
+  {
+    "key": "2026-09-01 03:42:38 +0200|Liebe auf Distanz|Revolverheld feat. Antje Schomaker",
+    "played_at": "2026-09-01 03:42:38 +0200",
+    "title": "Liebe auf Distanz",
+    "artist": "Revolverheld feat. Antje Schomaker"
   }
 ]
