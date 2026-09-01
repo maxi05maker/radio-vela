@@ -2860,5 +2860,29 @@
     "played_at": "2026-09-01 08:10:55 +0200",
     "title": "Senjutsu",
     "artist": "Iron Maiden"
+  },
+  {
+    "key": "2026-09-01 08:19:15 +0200|Giant|Calvin Harris & Rag'n'Bone Man",
+    "played_at": "2026-09-01 08:19:15 +0200",
+    "title": "Giant",
+    "artist": "Calvin Harris & Rag'n'Bone Man"
+  },
+  {
+    "key": "2026-09-01 08:23:04 +0200|New Religion|Bebe Rexha & Faithless",
+    "played_at": "2026-09-01 08:23:04 +0200",
+    "title": "New Religion",
+    "artist": "Bebe Rexha & Faithless"
+  },
+  {
+    "key": "2026-09-01 08:25:57 +0200|The news|Paramore",
+    "played_at": "2026-09-01 08:25:57 +0200",
+    "title": "The news",
+    "artist": "Paramore"
+  },
+  {
+    "key": "2026-09-01 08:29:04 +0200|Vögel|OG Keemo",
+    "played_at": "2026-09-01 08:29:04 +0200",
+    "title": "Vögel",
+    "artist": "OG Keemo"
   }
 ]

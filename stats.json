@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 23,
-    "music_entries": 20,
+    "total_entries": 27,
+    "music_entries": 24,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -103,6 +103,26 @@
       {
         "artist": "Iron Maiden",
         "title": "Senjutsu",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris & Rag'n'Bone Man",
+        "title": "Giant",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & Faithless",
+        "title": "New Religion",
+        "plays": 1
+      },
+      {
+        "artist": "Paramore",
+        "title": "The news",
+        "plays": 1
+      },
+      {
+        "artist": "OG Keemo",
+        "title": "Vögel",
         "plays": 1
       }
     ],
