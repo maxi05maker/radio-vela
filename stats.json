@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 54,
-    "music_entries": 50,
+    "total_entries": 59,
+    "music_entries": 54,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -253,6 +253,26 @@
       {
         "artist": "Charlie Puth feat. Selena Gomez",
         "title": "We Don't Talk Anymore",
+        "plays": 1
+      },
+      {
+        "artist": "Juice WRLD",
+        "title": "Sometimes",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Craving (Jenna's version)",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Let it die",
         "plays": 1
       }
     ],

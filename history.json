@@ -3046,5 +3046,35 @@
     "played_at": "2026-09-01 10:02:45 +0200",
     "title": "We Don't Talk Anymore",
     "artist": "Charlie Puth feat. Selena Gomez"
+  },
+  {
+    "key": "2026-09-01 10:06:23 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-01 10:06:23 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-01 10:09:21 +0200|Sometimes|Juice WRLD",
+    "played_at": "2026-09-01 10:09:21 +0200",
+    "title": "Sometimes",
+    "artist": "Juice WRLD"
+  },
+  {
+    "key": "2026-09-01 10:13:41 +0200|The Craving (Jenna's version)|Twenty One Pilots",
+    "played_at": "2026-09-01 10:13:41 +0200",
+    "title": "The Craving (Jenna's version)",
+    "artist": "Twenty One Pilots"
+  },
+  {
+    "key": "2026-09-01 10:16:48 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-09-01 10:16:48 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-09-01 10:20:44 +0200|Let it die|Ellie Goulding",
+    "played_at": "2026-09-01 10:20:44 +0200",
+    "title": "Let it die",
+    "artist": "Ellie Goulding"
   }
 ]
