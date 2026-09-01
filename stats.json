@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 137,
-    "music_entries": 128,
+    "total_entries": 141,
+    "music_entries": 132,
     "songs": [
       {
         "artist": "OG Keemo",
@@ -618,6 +618,26 @@
       {
         "artist": "Bruce Springsteen",
         "title": "Streets Of Minneapolis",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
+        "plays": 1
+      },
+      {
+        "artist": "Travis Scott",
+        "title": "Escape Plan",
+        "plays": 1
+      },
+      {
+        "artist": "Marshmello & Jonas Brothers",
+        "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wildberry Lillet",
         "plays": 1
       }
     ],
