@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 332,
-    "music_entries": 312,
+    "total_entries": 334,
+    "music_entries": 314,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -14,6 +14,11 @@
         "artist": "Tom Gregory",
         "title": "Small Steps",
         "plays": 4
+      },
+      {
+        "artist": "Europe",
+        "title": "War Of Kings",
+        "plays": 3
       },
       {
         "artist": "Michael Schulte, R3HAB",
@@ -63,11 +68,6 @@
       {
         "artist": "LOTTE & Max Giesinger",
         "title": "Auf das, was da noch kommt",
-        "plays": 2
-      },
-      {
-        "artist": "Europe",
-        "title": "War Of Kings",
         "plays": 2
       },
       {
@@ -1143,6 +1143,11 @@
       {
         "artist": "Turnstile",
         "title": "NEVER ENOUGH",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Alles Dope",
         "plays": 1
       }
     ],
