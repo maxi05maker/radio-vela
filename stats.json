@@ -2,9 +2,19 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 159,
-    "music_entries": 149,
+    "total_entries": 164,
+    "music_entries": 153,
     "songs": [
+      {
+        "artist": "Europe",
+        "title": "War Of Kings",
+        "plays": 2
+      },
+      {
+        "artist": "Mabel",
+        "title": "Mad Love",
+        "plays": 2
+      },
       {
         "artist": "The Lathums",
         "title": "Say My Name",
@@ -13,6 +23,11 @@
       {
         "artist": "The Rolling Stones",
         "title": "Living In A Ghost Town",
+        "plays": 2
+      },
+      {
+        "artist": "Paramore",
+        "title": "The news",
         "plays": 2
       },
       {
@@ -68,16 +83,6 @@
       {
         "artist": "Clueso",
         "title": "Freier Fall",
-        "plays": 1
-      },
-      {
-        "artist": "Europe",
-        "title": "War Of Kings",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel",
-        "title": "Mad Love",
         "plays": 1
       },
       {
@@ -143,11 +148,6 @@
       {
         "artist": "Bebe Rexha & Faithless",
         "title": "New Religion",
-        "plays": 1
-      },
-      {
-        "artist": "Paramore",
-        "title": "The news",
         "plays": 1
       },
       {
@@ -709,11 +709,16 @@
         "artist": "Ed Sheeran",
         "title": "Bad Habits",
         "plays": 1
+      },
+      {
+        "artist": "Calum Scott",
+        "title": "My World",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "The Lathums",
-      "title": "Say My Name",
+      "artist": "Europe",
+      "title": "War Of Kings",
       "plays": 2
     }
   }
