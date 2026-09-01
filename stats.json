@@ -2,12 +2,17 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 178,
-    "music_entries": 166,
+    "total_entries": 188,
+    "music_entries": 176,
     "songs": [
       {
         "artist": "Michael Schulte",
         "title": "You Let Me Walk Alone",
+        "plays": 2
+      },
+      {
+        "artist": "Jackson Browne",
+        "title": "My Cleveland Heart",
         "plays": 2
       },
       {
@@ -41,6 +46,16 @@
         "plays": 2
       },
       {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 2
+      },
+      {
+        "artist": "Joel Brandenstein",
+        "title": "Gegengift",
+        "plays": 2
+      },
+      {
         "artist": "The Rolling Stones",
         "title": "Living In A Ghost Town",
         "plays": 2
@@ -51,6 +66,11 @@
         "plays": 2
       },
       {
+        "artist": "Calvin Harris & Rag'n'Bone Man",
+        "title": "Giant",
+        "plays": 2
+      },
+      {
         "artist": "Paramore",
         "title": "The news",
         "plays": 2
@@ -58,6 +78,16 @@
       {
         "artist": "OG Keemo",
         "title": "Vögel",
+        "plays": 2
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 2
+      },
+      {
+        "artist": "The 1975",
+        "title": "About You",
         "plays": 2
       },
       {
@@ -86,13 +116,13 @@
         "plays": 2
       },
       {
-        "artist": "Shirin David",
-        "title": "küss mich doch",
-        "plays": 1
+        "artist": "Travis Scott",
+        "title": "Escape Plan",
+        "plays": 2
       },
       {
-        "artist": "Jackson Browne",
-        "title": "My Cleveland Heart",
+        "artist": "Shirin David",
+        "title": "küss mich doch",
         "plays": 1
       },
       {
@@ -111,18 +141,8 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
         "artist": "J Balvin",
         "title": "Rio",
-        "plays": 1
-      },
-      {
-        "artist": "Joel Brandenstein",
-        "title": "Gegengift",
         "plays": 1
       },
       {
@@ -138,11 +158,6 @@
       {
         "artist": "James Blake",
         "title": "Death Of Love (Live)",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris & Rag'n'Bone Man",
-        "title": "Giant",
         "plays": 1
       },
       {
@@ -176,18 +191,8 @@
         "plays": 1
       },
       {
-        "artist": "Max Giesinger",
-        "title": "Der letzte Tag",
-        "plays": 1
-      },
-      {
         "artist": "Tate McRae",
         "title": "2 hands",
-        "plays": 1
-      },
-      {
-        "artist": "The 1975",
-        "title": "About You",
         "plays": 1
       },
       {
@@ -626,11 +631,6 @@
         "plays": 1
       },
       {
-        "artist": "Travis Scott",
-        "title": "Escape Plan",
-        "plays": 1
-      },
-      {
         "artist": "Marshmello & Jonas Brothers",
         "title": "Slow Motion",
         "plays": 1
@@ -753,6 +753,21 @@
       {
         "artist": "Twenty One Pilots",
         "title": "The Line",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
+        "plays": 1
+      },
+      {
+        "artist": "Blue",
+        "title": "Waste My Love",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
         "plays": 1
       }
     ],

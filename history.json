@@ -3790,5 +3790,65 @@
     "played_at": "2026-09-01 17:05:57 +0200",
     "title": "Remember Me",
     "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-01 17:12:07 +0200|Escape Plan|Travis Scott",
+    "played_at": "2026-09-01 17:12:07 +0200",
+    "title": "Escape Plan",
+    "artist": "Travis Scott"
+  },
+  {
+    "key": "2026-09-01 17:14:37 +0200|Im Sommer bin ich dein König|International Music",
+    "played_at": "2026-09-01 17:14:37 +0200",
+    "title": "Im Sommer bin ich dein König",
+    "artist": "International Music"
+  },
+  {
+    "key": "2026-09-01 17:18:52 +0200|Gegengift|Joel Brandenstein",
+    "played_at": "2026-09-01 17:18:52 +0200",
+    "title": "Gegengift",
+    "artist": "Joel Brandenstein"
+  },
+  {
+    "key": "2026-09-01 17:21:45 +0200|About You|The 1975",
+    "played_at": "2026-09-01 17:21:45 +0200",
+    "title": "About You",
+    "artist": "The 1975"
+  },
+  {
+    "key": "2026-09-01 17:27:10 +0200|Waste My Love|Blue",
+    "played_at": "2026-09-01 17:27:10 +0200",
+    "title": "Waste My Love",
+    "artist": "Blue"
+  },
+  {
+    "key": "2026-09-01 17:30:10 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-09-01 17:30:10 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-09-01 17:32:28 +0200|Giant|Calvin Harris & Rag'n'Bone Man",
+    "played_at": "2026-09-01 17:32:28 +0200",
+    "title": "Giant",
+    "artist": "Calvin Harris & Rag'n'Bone Man"
+  },
+  {
+    "key": "2026-09-01 17:36:17 +0200|Make It Right|Tom Gregory & VIZE",
+    "played_at": "2026-09-01 17:36:17 +0200",
+    "title": "Make It Right",
+    "artist": "Tom Gregory & VIZE"
+  },
+  {
+    "key": "2026-09-01 17:38:37 +0200|Der letzte Tag|Max Giesinger",
+    "played_at": "2026-09-01 17:38:37 +0200",
+    "title": "Der letzte Tag",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-09-01 17:41:34 +0200|My Cleveland Heart|Jackson Browne",
+    "played_at": "2026-09-01 17:41:34 +0200",
+    "title": "My Cleveland Heart",
+    "artist": "Jackson Browne"
   }
 ]
