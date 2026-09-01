@@ -4132,5 +4132,23 @@
     "played_at": "2026-09-01 20:22:27 +0200",
     "title": "Schwarz",
     "artist": "LEA & Casper"
+  },
+  {
+    "key": "2026-09-01 20:25:03 +0200|The Moon Cave|Gorillaz",
+    "played_at": "2026-09-01 20:25:03 +0200",
+    "title": "The Moon Cave",
+    "artist": "Gorillaz"
+  },
+  {
+    "key": "2026-09-01 20:30:01 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-01 20:30:01 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-01 20:33:35 +0200|If You're Too Shy (Let Me Know)|The 1975",
+    "played_at": "2026-09-01 20:33:35 +0200",
+    "title": "If You're Too Shy (Let Me Know)",
+    "artist": "The 1975"
   }
 ]
