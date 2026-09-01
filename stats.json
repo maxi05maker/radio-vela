@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 361,
-    "music_entries": 329,
+    "total_entries": 364,
+    "music_entries": 332,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -203,6 +203,11 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
+        "plays": 2
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Craving (Jenna's version)",
         "plays": 2
       },
       {
@@ -436,6 +441,11 @@
         "plays": 2
       },
       {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
+        "plays": 2
+      },
+      {
         "artist": "Jeremias",
         "title": "Ich mags",
         "plays": 2
@@ -448,6 +458,11 @@
       {
         "artist": "NLE The Great",
         "title": "KO",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 2
       },
       {
@@ -716,11 +731,6 @@
         "plays": 1
       },
       {
-        "artist": "Twenty One Pilots",
-        "title": "The Craving (Jenna's version)",
-        "plays": 1
-      },
-      {
         "artist": "King Gizzard & The Lizard Wizard",
         "title": "Le Risque",
         "plays": 1
@@ -876,11 +886,6 @@
         "plays": 1
       },
       {
-        "artist": "Michael Patrick Kelly",
-        "title": "Throwback",
-        "plays": 1
-      },
-      {
         "artist": "Madonna",
         "title": "I Feel So Free",
         "plays": 1
@@ -898,11 +903,6 @@
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
