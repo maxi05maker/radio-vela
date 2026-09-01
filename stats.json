@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 296,
-    "music_entries": 278,
+    "total_entries": 298,
+    "music_entries": 280,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -998,6 +998,16 @@
       {
         "artist": "STARSET, Breaking Benjamin, Judge & Jury",
         "title": "Waiting on the sky to change",
+        "plays": 1
+      },
+      {
+        "artist": "Jonathan Jeremiah",
+        "title": "Kolkata Bear",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith",
+        "title": "Rag Doll",
         "plays": 1
       }
     ],
