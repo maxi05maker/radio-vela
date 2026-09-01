@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 27,
-    "music_entries": 24,
+    "total_entries": 32,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -123,6 +123,31 @@
       {
         "artist": "OG Keemo",
         "title": "Vögel",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Kelvin Jones",
+        "title": "Cry A Little Less",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Tanzen",
         "plays": 1
       }
     ],
