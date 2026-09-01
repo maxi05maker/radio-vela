@@ -3910,5 +3910,47 @@
     "played_at": "2026-09-01 18:24:32 +0200",
     "title": "Lose Control",
     "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-09-01 18:28:02 +0200|Handlebars|JENNIE, Dua Lipa",
+    "played_at": "2026-09-01 18:28:02 +0200",
+    "title": "Handlebars",
+    "artist": "JENNIE, Dua Lipa"
+  },
+  {
+    "key": "2026-09-01 18:31:07 +0200|All About That Bass|Meghan Trainor",
+    "played_at": "2026-09-01 18:31:07 +0200",
+    "title": "All About That Bass",
+    "artist": "Meghan Trainor"
+  },
+  {
+    "key": "2026-09-01 18:34:16 +0200|Taxi|Max Giesinger",
+    "played_at": "2026-09-01 18:34:16 +0200",
+    "title": "Taxi",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-09-01 18:36:55 +0200|Mehr Glück als Verstand|Johannes Oerding",
+    "played_at": "2026-09-01 18:36:55 +0200",
+    "title": "Mehr Glück als Verstand",
+    "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-09-01 18:39:49 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-09-01 18:39:49 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-09-01 18:43:45 +0200|Let it die|Ellie Goulding",
+    "played_at": "2026-09-01 18:43:45 +0200",
+    "title": "Let it die",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "key": "2026-09-01 18:46:31 +0200|Augenblick|Pashanim",
+    "played_at": "2026-09-01 18:46:31 +0200",
+    "title": "Augenblick",
+    "artist": "Pashanim"
   }
 ]

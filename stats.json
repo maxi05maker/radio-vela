@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 198,
-    "music_entries": 185,
+    "total_entries": 205,
+    "music_entries": 192,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -121,6 +121,11 @@
         "plays": 2
       },
       {
+        "artist": "Max Giesinger",
+        "title": "Taxi",
+        "plays": 2
+      },
+      {
         "artist": "Teddy Swims",
         "title": "Lose Control",
         "plays": 2
@@ -128,6 +133,21 @@
       {
         "artist": "Juice WRLD",
         "title": "Sometimes",
+        "plays": 2
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Let it die",
+        "plays": 2
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "All About That Bass",
         "plays": 2
       },
       {
@@ -226,11 +246,6 @@
         "plays": 1
       },
       {
-        "artist": "Max Giesinger",
-        "title": "Taxi",
-        "plays": 1
-      },
-      {
         "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
         "title": "Rebellion",
         "plays": 1
@@ -286,16 +301,6 @@
         "plays": 1
       },
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Let it die",
-        "plays": 1
-      },
-      {
         "artist": "Alvaro Soler",
         "title": "Regalo",
         "plays": 1
@@ -318,11 +323,6 @@
       {
         "artist": "Foals",
         "title": "2001",
-        "plays": 1
-      },
-      {
-        "artist": "Meghan Trainor",
-        "title": "All About That Bass",
         "plays": 1
       },
       {
@@ -783,6 +783,21 @@
       {
         "artist": "Peter Frampton, Benmont Tench",
         "title": "Buried Treasure",
+        "plays": 1
+      },
+      {
+        "artist": "JENNIE, Dua Lipa",
+        "title": "Handlebars",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Mehr Glück als Verstand",
+        "plays": 1
+      },
+      {
+        "artist": "Pashanim",
+        "title": "Augenblick",
         "plays": 1
       }
     ],
