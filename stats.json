@@ -2,9 +2,14 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 248,
-    "music_entries": 233,
+    "total_entries": 252,
+    "music_entries": 236,
     "songs": [
+      {
+        "artist": "Soulja Boy",
+        "title": "Metaverse",
+        "plays": 3
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
@@ -246,11 +251,6 @@
         "plays": 2
       },
       {
-        "artist": "Soulja Boy",
-        "title": "Metaverse",
-        "plays": 2
-      },
-      {
         "artist": "David Guetta feat. Sam Martin",
         "title": "Lovers on the Sun",
         "plays": 2
@@ -288,6 +288,11 @@
       {
         "artist": "Felix Jaehn",
         "title": "Do It Better (feat. Zoe Wees)",
+        "plays": 2
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
         "plays": 2
       },
       {
@@ -513,11 +518,6 @@
       {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
-        "plays": 1
-      },
-      {
-        "artist": "Elton John, Britney Spears",
-        "title": "Hold Me Closer",
         "plays": 1
       },
       {
@@ -869,11 +869,16 @@
         "artist": "Giant Rooks",
         "title": "Cold Wars",
         "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Tonight",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "Soulja Boy",
+      "title": "Metaverse",
       "plays": 3
     }
   }
