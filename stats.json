@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 252,
-    "music_entries": 236,
+    "total_entries": 254,
+    "music_entries": 238,
     "songs": [
       {
         "artist": "Soulja Boy",
@@ -256,6 +256,11 @@
         "plays": 2
       },
       {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
+        "plays": 2
+      },
+      {
         "artist": "Alli Neumann",
         "title": "Monster",
         "plays": 2
@@ -288,6 +293,11 @@
       {
         "artist": "Felix Jaehn",
         "title": "Do It Better (feat. Zoe Wees)",
+        "plays": 2
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
         "plays": 2
       },
       {
@@ -451,11 +461,6 @@
         "plays": 1
       },
       {
-        "artist": "Adel Tawil",
-        "title": "Ist da jemand",
-        "plays": 1
-      },
-      {
         "artist": "Finn Wolfhard",
         "title": "Tunnels",
         "plays": 1
@@ -513,11 +518,6 @@
       {
         "artist": "Katy Perry",
         "title": "Watch It Burn",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Castle on the Hill",
         "plays": 1
       },
       {

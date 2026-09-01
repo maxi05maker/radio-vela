@@ -4234,5 +4234,17 @@
     "played_at": "2026-09-01 21:16:45 +0200",
     "title": "Tonight",
     "artist": "PinkPantheress"
+  },
+  {
+    "key": "2026-09-01 21:19:42 +0200|Castle on the Hill|Ed Sheeran",
+    "played_at": "2026-09-01 21:19:42 +0200",
+    "title": "Castle on the Hill",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-01 21:24:03 +0200|Ist da jemand|Adel Tawil",
+    "played_at": "2026-09-01 21:24:03 +0200",
+    "title": "Ist da jemand",
+    "artist": "Adel Tawil"
   }
 ]
