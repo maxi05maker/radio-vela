@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 209,
-    "music_entries": 196,
+    "total_entries": 212,
+    "music_entries": 199,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -161,8 +161,18 @@
         "plays": 2
       },
       {
+        "artist": "Foals",
+        "title": "2001",
+        "plays": 2
+      },
+      {
         "artist": "Meghan Trainor",
         "title": "All About That Bass",
+        "plays": 2
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
         "plays": 2
       },
       {
@@ -321,11 +331,6 @@
         "plays": 1
       },
       {
-        "artist": "Foals",
-        "title": "2001",
-        "plays": 1
-      },
-      {
         "artist": "HUGEL, Imael Angel, Ultra Naté",
         "title": "Movin' To The Sun",
         "plays": 1
@@ -353,11 +358,6 @@
       {
         "artist": "Monet192",
         "title": "Nicht Perfekt",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "good 4 u",
         "plays": 1
       },
       {
@@ -803,6 +803,11 @@
       {
         "artist": "Zara Larsson",
         "title": "Midnight Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Amyl and The Sniffers",
+        "title": "Big Dreams",
         "plays": 1
       }
     ],

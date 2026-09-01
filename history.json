@@ -3976,5 +3976,23 @@
     "played_at": "2026-09-01 18:58:38 +0200",
     "title": "I WANNA BE YOUR SLAVE",
     "artist": "Måneskin"
+  },
+  {
+    "key": "2026-09-01 19:01:31 +0200|2001|Foals",
+    "played_at": "2026-09-01 19:01:31 +0200",
+    "title": "2001",
+    "artist": "Foals"
+  },
+  {
+    "key": "2026-09-01 19:05:59 +0200|Big Dreams|Amyl and The Sniffers",
+    "played_at": "2026-09-01 19:05:59 +0200",
+    "title": "Big Dreams",
+    "artist": "Amyl and The Sniffers"
+  },
+  {
+    "key": "2026-09-01 19:09:10 +0200|good 4 u|Olivia Rodrigo",
+    "played_at": "2026-09-01 19:09:10 +0200",
+    "title": "good 4 u",
+    "artist": "Olivia Rodrigo"
   }
 ]
