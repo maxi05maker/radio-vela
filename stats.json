@@ -2,12 +2,17 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 245,
-    "music_entries": 230,
+    "total_entries": 248,
+    "music_entries": 233,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 3
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 3
       },
       {
@@ -261,6 +266,11 @@
         "plays": 2
       },
       {
+        "artist": "CRO",
+        "title": "Fallin",
+        "plays": 2
+      },
+      {
         "artist": "Sia feat. Sean Paul",
         "title": "Cheap Thrills",
         "plays": 2
@@ -278,11 +288,6 @@
       {
         "artist": "Felix Jaehn",
         "title": "Do It Better (feat. Zoe Wees)",
-        "plays": 2
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -453,11 +458,6 @@
       {
         "artist": "ROSÉ & Bruno Mars",
         "title": "APT.",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "Fallin",
         "plays": 1
       },
       {
@@ -863,6 +863,11 @@
       {
         "artist": "Zach Bryan",
         "title": "Pink Skies",
+        "plays": 1
+      },
+      {
+        "artist": "Giant Rooks",
+        "title": "Cold Wars",
         "plays": 1
       }
     ],
