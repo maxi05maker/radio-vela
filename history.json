@@ -2932,5 +2932,23 @@
     "played_at": "2026-09-01 08:57:05 +0200",
     "title": "About You",
     "artist": "The 1975"
+  },
+  {
+    "key": "2026-09-01 09:02:30 +0200|Auf Auf|Silbermond",
+    "played_at": "2026-09-01 09:02:30 +0200",
+    "title": "Auf Auf",
+    "artist": "Silbermond"
+  },
+  {
+    "key": "2026-09-01 09:05:15 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-01 09:05:15 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-01 09:08:04 +0200|Savior With A Razor (feat. Slash)|Beth Hart",
+    "played_at": "2026-09-01 09:08:04 +0200",
+    "title": "Savior With A Razor (feat. Slash)",
+    "artist": "Beth Hart"
   }
 ]

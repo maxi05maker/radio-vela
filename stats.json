@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 35,
-    "music_entries": 32,
+    "total_entries": 38,
+    "music_entries": 34,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -163,6 +163,16 @@
       {
         "artist": "The 1975",
         "title": "About You",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Auf Auf",
+        "plays": 1
+      },
+      {
+        "artist": "Beth Hart",
+        "title": "Savior With A Razor (feat. Slash)",
         "plays": 1
       }
     ],
