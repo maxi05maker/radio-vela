@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 46,
-    "music_entries": 42,
+    "total_entries": 49,
+    "music_entries": 45,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -213,6 +213,21 @@
       {
         "artist": "Anne-Marie",
         "title": "Ciao Adios",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta",
+        "title": "Never Going Home Tonight (feat. Alesso & Madison Love)",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Higher Power",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 1
       }
     ],
