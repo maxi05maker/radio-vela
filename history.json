@@ -3298,5 +3298,23 @@
     "played_at": "2026-09-01 12:23:27 +0200",
     "title": "Everything I Ever Saw",
     "artist": "THE MENZINGERS"
+  },
+  {
+    "key": "2026-09-01 12:26:52 +0200|Cheap Thrills|Sia feat. Sean Paul",
+    "played_at": "2026-09-01 12:26:52 +0200",
+    "title": "Cheap Thrills",
+    "artist": "Sia feat. Sean Paul"
+  },
+  {
+    "key": "2026-09-01 12:30:36 +0200|Auf & Ab|Montez",
+    "played_at": "2026-09-01 12:30:36 +0200",
+    "title": "Auf & Ab",
+    "artist": "Montez"
+  },
+  {
+    "key": "2026-09-01 12:33:22 +0200|Cry For Me|The Weeknd",
+    "played_at": "2026-09-01 12:33:22 +0200",
+    "title": "Cry For Me",
+    "artist": "The Weeknd"
   }
 ]

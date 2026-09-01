@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 96,
-    "music_entries": 89,
+    "total_entries": 99,
+    "music_entries": 92,
     "songs": [
       {
         "artist": "Denzel Curry",
@@ -438,6 +438,21 @@
       {
         "artist": "THE MENZINGERS",
         "title": "Everything I Ever Saw",
+        "plays": 1
+      },
+      {
+        "artist": "Sia feat. Sean Paul",
+        "title": "Cheap Thrills",
+        "plays": 1
+      },
+      {
+        "artist": "Montez",
+        "title": "Auf & Ab",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Cry For Me",
         "plays": 1
       }
     ],
