@@ -2,12 +2,22 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 425,
-    "music_entries": 387,
+    "total_entries": 432,
+    "music_entries": 394,
     "songs": [
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 5
+      },
       {
         "artist": "Luciano",
         "title": "Beautiful Girl",
+        "plays": 4
+      },
+      {
+        "artist": "Juju feat. Henning May",
+        "title": "Vermissen",
         "plays": 4
       },
       {
@@ -23,11 +33,6 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
-        "plays": 4
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 4
       },
       {
@@ -68,11 +73,6 @@
       {
         "artist": "Milow",
         "title": "DeLorean",
-        "plays": 3
-      },
-      {
-        "artist": "Juju feat. Henning May",
-        "title": "Vermissen",
         "plays": 3
       },
       {
@@ -143,6 +143,11 @@
       {
         "artist": "Shygirl",
         "title": "BDE (feat. slowthai)",
+        "plays": 3
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Autobahn",
         "plays": 3
       },
       {
@@ -396,11 +401,6 @@
         "plays": 2
       },
       {
-        "artist": "Adel Tawil",
-        "title": "Autobahn",
-        "plays": 2
-      },
-      {
         "artist": "Luis Fonsi feat. Demi Lovato",
         "title": "Échame La Culpa",
         "plays": 2
@@ -553,6 +553,11 @@
       {
         "artist": "Glockenbach",
         "title": "Dirty Dancing",
+        "plays": 2
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Drop dead",
         "plays": 2
       },
       {
@@ -946,11 +951,6 @@
         "plays": 1
       },
       {
-        "artist": "Olivia Rodrigo",
-        "title": "Drop dead",
-        "plays": 1
-      },
-      {
         "artist": "Halsey",
         "title": "Lucky",
         "plays": 1
@@ -1209,12 +1209,27 @@
         "artist": "Tori Amos",
         "title": "Song of Sorrow",
         "plays": 1
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "Aute Cuture",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Doors",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Wild & Free",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Luciano",
-      "title": "Beautiful Girl",
-      "plays": 4
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "plays": 5
     }
   }
 }
