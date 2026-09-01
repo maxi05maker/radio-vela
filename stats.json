@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 141,
-    "music_entries": 132,
+    "total_entries": 145,
+    "music_entries": 135,
     "songs": [
       {
         "artist": "OG Keemo",
@@ -638,6 +638,21 @@
       {
         "artist": "Nina Chuba",
         "title": "Wildberry Lillet",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey feat. Kool Savas",
+        "title": "Is It Love?",
+        "plays": 1
+      },
+      {
+        "artist": "BLACKPINK",
+        "title": "GO",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
         "plays": 1
       }
     ],
