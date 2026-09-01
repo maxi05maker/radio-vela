@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 380,
-    "music_entries": 347,
+    "total_entries": 383,
+    "music_entries": 350,
     "songs": [
       {
         "artist": "Eli Preiss",
@@ -58,6 +58,11 @@
       {
         "artist": "Von Wegen Lisbeth",
         "title": "Meine Kneipe",
+        "plays": 3
+      },
+      {
+        "artist": "Alex Cameron",
+        "title": "Best Life",
         "plays": 3
       },
       {
@@ -156,8 +161,8 @@
         "plays": 2
       },
       {
-        "artist": "Alex Cameron",
-        "title": "Best Life",
+        "artist": "Tyla & Zara Larsson",
+        "title": "SHE DID IT AGAIN",
         "plays": 2
       },
       {
@@ -496,6 +501,11 @@
         "plays": 2
       },
       {
+        "artist": "James Arthur & You Me At Six",
+        "title": "Lose My Mind",
+        "plays": 2
+      },
+      {
         "artist": "Olivia Rodrigo",
         "title": "good 4 u",
         "plays": 1
@@ -723,11 +733,6 @@
       {
         "artist": "Michael Schulte",
         "title": "Broken Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "Tyla & Zara Larsson",
-        "title": "SHE DID IT AGAIN",
         "plays": 1
       },
       {
@@ -968,11 +973,6 @@
       {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
-        "plays": 1
-      },
-      {
-        "artist": "James Arthur & You Me At Six",
-        "title": "Lose My Mind",
         "plays": 1
       },
       {

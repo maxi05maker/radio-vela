@@ -2278,5 +2278,23 @@
     "played_at": "2026-09-01 02:49:23 +0200",
     "title": "Safe",
     "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-09-01 02:52:46 +0200|Best Life|Alex Cameron",
+    "played_at": "2026-09-01 02:52:46 +0200",
+    "title": "Best Life",
+    "artist": "Alex Cameron"
+  },
+  {
+    "key": "2026-09-01 02:56:02 +0200|SHE DID IT AGAIN|Tyla & Zara Larsson",
+    "played_at": "2026-09-01 02:56:02 +0200",
+    "title": "SHE DID IT AGAIN",
+    "artist": "Tyla & Zara Larsson"
+  },
+  {
+    "key": "2026-09-01 02:59:35 +0200|Lose My Mind|James Arthur & You Me At Six",
+    "played_at": "2026-09-01 02:59:35 +0200",
+    "title": "Lose My Mind",
+    "artist": "James Arthur & You Me At Six"
   }
 ]
