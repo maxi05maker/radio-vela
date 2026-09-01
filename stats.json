@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 318,
-    "music_entries": 299,
+    "total_entries": 321,
+    "music_entries": 302,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -158,6 +158,11 @@
       {
         "artist": "The 1975",
         "title": "About You",
+        "plays": 2
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Auf Auf",
         "plays": 2
       },
       {
@@ -398,11 +403,6 @@
       {
         "artist": "Joris",
         "title": "Zu Viel Retro",
-        "plays": 1
-      },
-      {
-        "artist": "Silbermond",
-        "title": "Auf Auf",
         "plays": 1
       },
       {
@@ -1088,6 +1088,16 @@
       {
         "artist": "The FAIM",
         "title": "Summer Is a Curse",
+        "plays": 1
+      },
+      {
+        "artist": "Fynn Kliemann",
+        "title": "TOD",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld feat. Antje Schomaker",
+        "title": "Liebe auf Distanz",
         "plays": 1
       }
     ],

@@ -4630,5 +4630,23 @@
     "played_at": "2026-09-02 00:50:34 +0200",
     "title": "Summer Is a Curse",
     "artist": "The FAIM"
+  },
+  {
+    "key": "2026-09-02 00:53:35 +0200|TOD|Fynn Kliemann",
+    "played_at": "2026-09-02 00:53:35 +0200",
+    "title": "TOD",
+    "artist": "Fynn Kliemann"
+  },
+  {
+    "key": "2026-09-02 00:56:22 +0200|Liebe auf Distanz|Revolverheld feat. Antje Schomaker",
+    "played_at": "2026-09-02 00:56:22 +0200",
+    "title": "Liebe auf Distanz",
+    "artist": "Revolverheld feat. Antje Schomaker"
+  },
+  {
+    "key": "2026-09-02 00:59:39 +0200|Auf Auf|Silbermond",
+    "played_at": "2026-09-02 00:59:39 +0200",
+    "title": "Auf Auf",
+    "artist": "Silbermond"
   }
 ]
