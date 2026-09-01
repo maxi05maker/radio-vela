@@ -2,8 +2,8 @@
   "2026-08-31 07:00": {
     "period_start": "2026-08-31T07:00:00+02:00",
     "period_end": "2026-09-01T07:00:00+02:00",
-    "total_entries": 400,
-    "music_entries": 365,
+    "total_entries": 402,
+    "music_entries": 367,
     "songs": [
       {
         "artist": "Lakeyah",
@@ -126,6 +126,11 @@
         "plays": 3
       },
       {
+        "artist": "Lena",
+        "title": "Satellite",
+        "plays": 3
+      },
+      {
         "artist": "Shygirl",
         "title": "BDE (feat. slowthai)",
         "plays": 3
@@ -231,6 +236,11 @@
         "plays": 2
       },
       {
+        "artist": "Sarah Connor & Sido",
+        "title": "Interstellar (Zwischen den Sternen)",
+        "plays": 2
+      },
+      {
         "artist": "Justin Wellington feat. Small Jam",
         "title": "Iko Iko",
         "plays": 2
@@ -263,11 +273,6 @@
       {
         "artist": "Kings Of Leon",
         "title": "Radioactive",
-        "plays": 2
-      },
-      {
-        "artist": "Lena",
-        "title": "Satellite",
         "plays": 2
       },
       {
@@ -758,11 +763,6 @@
       {
         "artist": "Michael Schulte",
         "title": "Broken Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "Sarah Connor & Sido",
-        "title": "Interstellar (Zwischen den Sternen)",
         "plays": 1
       },
       {
