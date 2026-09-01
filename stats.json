@@ -2,12 +2,17 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 168,
-    "music_entries": 157,
+    "total_entries": 174,
+    "music_entries": 163,
     "songs": [
       {
         "artist": "Michael Schulte",
         "title": "You Let Me Walk Alone",
+        "plays": 2
+      },
+      {
+        "artist": "LOTTE & Max Giesinger",
+        "title": "Auf das, was da noch kommt",
         "plays": 2
       },
       {
@@ -21,6 +26,11 @@
         "plays": 2
       },
       {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
+        "plays": 2
+      },
+      {
         "artist": "The Lathums",
         "title": "Say My Name",
         "plays": 2
@@ -28,6 +38,11 @@
       {
         "artist": "The Rolling Stones",
         "title": "Living In A Ghost Town",
+        "plays": 2
+      },
+      {
+        "artist": "Iron Maiden",
+        "title": "Senjutsu",
         "plays": 2
       },
       {
@@ -76,11 +91,6 @@
         "plays": 1
       },
       {
-        "artist": "LOTTE & Max Giesinger",
-        "title": "Auf das, was da noch kommt",
-        "plays": 1
-      },
-      {
         "artist": "Clueso",
         "title": "Freier Fall",
         "plays": 1
@@ -88,11 +98,6 @@
       {
         "artist": "sombr",
         "title": "Homewrecker",
-        "plays": 1
-      },
-      {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
         "plays": 1
       },
       {
@@ -133,11 +138,6 @@
       {
         "artist": "James Blake",
         "title": "Death Of Love (Live)",
-        "plays": 1
-      },
-      {
-        "artist": "Iron Maiden",
-        "title": "Senjutsu",
         "plays": 1
       },
       {
@@ -728,6 +728,21 @@
       {
         "artist": "King Gizzard & The Lizard Wizard",
         "title": "Field of Vision",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "There's Nothing Holdin' Me Back",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Abracadabra",
+        "plays": 1
+      },
+      {
+        "artist": "Masters Of Reality",
+        "title": "Sugar",
         "plays": 1
       }
     ],
