@@ -3484,5 +3484,41 @@
     "played_at": "2026-09-01 14:11:12 +0200",
     "title": "Aute Cuture",
     "artist": "ROSALÍA"
+  },
+  {
+    "key": "2026-09-01 14:13:40 +0200|Rollercoaster Of Life|The Pretty Reckless",
+    "played_at": "2026-09-01 14:13:40 +0200",
+    "title": "Rollercoaster Of Life",
+    "artist": "The Pretty Reckless"
+  },
+  {
+    "key": "2026-09-01 14:18:06 +0200|Loco Contigo|DJ Snake & J. Balvin Feat. Tyga",
+    "played_at": "2026-09-01 14:18:06 +0200",
+    "title": "Loco Contigo",
+    "artist": "DJ Snake & J. Balvin Feat. Tyga"
+  },
+  {
+    "key": "2026-09-01 14:21:10 +0200|As It Was|Harry Styles",
+    "played_at": "2026-09-01 14:21:10 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-01 14:23:58 +0200|Deja-Vu|Clueso",
+    "played_at": "2026-09-01 14:23:58 +0200",
+    "title": "Deja-Vu",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-01 14:27:19 +0200|Vermissen|Juju feat. Henning May",
+    "played_at": "2026-09-01 14:27:19 +0200",
+    "title": "Vermissen",
+    "artist": "Juju feat. Henning May"
+  },
+  {
+    "key": "2026-09-01 14:30:01 +0200|Die schönsten Tage|SDP & Clueso",
+    "played_at": "2026-09-01 14:30:01 +0200",
+    "title": "Die schönsten Tage",
+    "artist": "SDP & Clueso"
   }
 ]
