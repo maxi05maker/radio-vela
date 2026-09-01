@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 257,
-    "music_entries": 241,
+    "total_entries": 259,
+    "music_entries": 243,
     "songs": [
       {
         "artist": "Soulja Boy",
@@ -316,6 +316,11 @@
         "plays": 2
       },
       {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 2
+      },
+      {
         "artist": "Travis Scott",
         "title": "Escape Plan",
         "plays": 2
@@ -543,11 +548,6 @@
       {
         "artist": "Tokio Hotel",
         "title": "Rette Mich",
-        "plays": 1
-      },
-      {
-        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
-        "title": "Don’t Call Me Angel (Charlie’s Angels)",
         "plays": 1
       },
       {
@@ -878,6 +878,11 @@
       {
         "artist": "Harry Styles",
         "title": "American Girls",
+        "plays": 1
+      },
+      {
+        "artist": "LISA FEAT. DOJA CAT & RAYE",
+        "title": "BORN AGAIN",
         "plays": 1
       }
     ],
