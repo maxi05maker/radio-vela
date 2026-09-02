@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 338,
-    "music_entries": 318,
+    "total_entries": 348,
+    "music_entries": 327,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -23,6 +23,11 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
+        "plays": 3
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 3
       },
       {
@@ -198,11 +203,6 @@
       {
         "artist": "Coldplay",
         "title": "Higher Power",
-        "plays": 2
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
         "plays": 2
       },
       {
@@ -1158,6 +1158,46 @@
       {
         "artist": "Alice Merton",
         "title": "Island",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Warhaus",
+        "title": "Open Window",
+        "plays": 1
+      },
+      {
+        "artist": "Bausa, Philipp Dittberner",
+        "title": "Wolke 4",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Cameron",
+        "title": "Best Life",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Retrosonix",
+        "title": "Ghost Town",
+        "plays": 1
+      },
+      {
+        "artist": "Dove Cameron",
+        "title": "Boyfriend",
+        "plays": 1
+      },
+      {
+        "artist": "Dr. Hook",
+        "title": "Sexy Eyes",
         "plays": 1
       }
     ],
