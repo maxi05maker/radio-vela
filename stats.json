@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 210,
-    "music_entries": 195,
+    "total_entries": 213,
+    "music_entries": 197,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -118,6 +118,11 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 2
       },
       {
@@ -473,11 +478,6 @@
       {
         "artist": "David Guetta, Hypaton, Bonnie Tyler",
         "title": "Together",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 1
       },
       {
@@ -848,6 +848,11 @@
       {
         "artist": "Sophia Kennedy",
         "title": "Rodeo",
+        "plays": 1
+      },
+      {
+        "artist": "LEA x LUNA",
+        "title": "Küsse wie Gift",
         "plays": 1
       }
     ],

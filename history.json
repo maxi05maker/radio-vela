@@ -1258,5 +1258,23 @@
     "played_at": "2026-09-02 17:55:25 +0200",
     "title": "Rodeo",
     "artist": "Sophia Kennedy"
+  },
+  {
+    "key": "2026-09-02 17:59:14 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-09-02 17:59:14 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-09-02 18:03:10 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-02 18:03:10 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-02 18:06:05 +0200|Küsse wie Gift|LEA x LUNA",
+    "played_at": "2026-09-02 18:06:05 +0200",
+    "title": "Küsse wie Gift",
+    "artist": "LEA x LUNA"
   }
 ]
