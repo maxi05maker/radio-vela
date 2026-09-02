@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 170,
-    "music_entries": 158,
+    "total_entries": 172,
+    "music_entries": 160,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -718,6 +718,16 @@
       {
         "artist": "Apache 207",
         "title": "Ein Lied für dich",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Fynn Kliemann",
+        "title": "TOD",
         "plays": 1
       }
     ],
