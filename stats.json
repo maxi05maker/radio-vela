@@ -2,12 +2,17 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 151,
-    "music_entries": 140,
+    "total_entries": 154,
+    "music_entries": 143,
     "songs": [
       {
         "artist": "The FAIM",
         "title": "Summer Is a Curse",
+        "plays": 2
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
         "plays": 2
       },
       {
@@ -43,11 +48,6 @@
       {
         "artist": "AYLIVA",
         "title": "Renn!",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Out Of Time",
         "plays": 1
       },
       {
@@ -683,6 +683,16 @@
       {
         "artist": "Lucinda Williams",
         "title": "Low Life",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
         "plays": 1
       }
     ],

@@ -904,5 +904,23 @@
     "played_at": "2026-09-02 14:49:58 +0200",
     "title": "Designer",
     "artist": "Erica Banks"
+  },
+  {
+    "key": "2026-09-02 14:52:16 +0200|Remember Me|Michael Schulte",
+    "played_at": "2026-09-02 14:52:16 +0200",
+    "title": "Remember Me",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-02 14:55:50 +0200|Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version|Tobee",
+    "played_at": "2026-09-02 14:55:50 +0200",
+    "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+    "artist": "Tobee"
+  },
+  {
+    "key": "2026-09-02 14:59:04 +0200|Out Of Time|The Weeknd",
+    "played_at": "2026-09-02 14:59:04 +0200",
+    "title": "Out Of Time",
+    "artist": "The Weeknd"
   }
 ]
