@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 154,
-    "music_entries": 143,
+    "total_entries": 158,
+    "music_entries": 147,
     "songs": [
       {
         "artist": "The FAIM",
@@ -18,6 +18,21 @@
       {
         "artist": "Matt Simons",
         "title": "Catch And Release (Deepend Remix)",
+        "plays": 2
+      },
+      {
+        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+        "title": "Waiting on the sky to change",
+        "plays": 2
+      },
+      {
+        "artist": "Clueso",
+        "title": "Flugmodus",
+        "plays": 2
+      },
+      {
+        "artist": "CRO",
+        "title": "Fallin",
         "plays": 2
       },
       {
@@ -61,23 +76,8 @@
         "plays": 1
       },
       {
-        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
-        "title": "Waiting on the sky to change",
-        "plays": 1
-      },
-      {
         "artist": "Provinz",
         "title": "Pazifik",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Flugmodus",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "Fallin",
         "plays": 1
       },
       {
@@ -693,6 +693,11 @@
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "twilight zone",
         "plays": 1
       }
     ],
