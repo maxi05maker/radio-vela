@@ -2,9 +2,14 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 135,
-    "music_entries": 125,
+    "total_entries": 143,
+    "music_entries": 132,
     "songs": [
+      {
+        "artist": "The FAIM",
+        "title": "Summer Is a Curse",
+        "plays": 2
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
@@ -23,11 +28,6 @@
       {
         "artist": "Michael Schulte",
         "title": "With You",
-        "plays": 1
-      },
-      {
-        "artist": "The FAIM",
-        "title": "Summer Is a Curse",
         "plays": 1
       },
       {
@@ -624,11 +624,41 @@
         "artist": "Baxter Dury & JGrrey",
         "title": "Return Of The Sharp Heads",
         "plays": 1
+      },
+      {
+        "artist": "Vince Staples",
+        "title": "Rose Street",
+        "plays": 1
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
+        "plays": 1
+      },
+      {
+        "artist": "Jonathan Jeremiah",
+        "title": "Kolkata Bear",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Why Why Why",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Autobahn",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "The FAIM",
+      "title": "Summer Is a Curse",
       "plays": 2
     }
   }
