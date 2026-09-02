@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 172,
-    "music_entries": 160,
+    "total_entries": 177,
+    "music_entries": 164,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -76,6 +76,16 @@
         "plays": 2
       },
       {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
+        "plays": 2
+      },
+      {
         "artist": "Bausa, Philipp Dittberner",
         "title": "Wolke 4",
         "plays": 2
@@ -131,11 +141,6 @@
         "plays": 1
       },
       {
-        "artist": "Mario Novembre",
-        "title": "Allein sein",
-        "plays": 1
-      },
-      {
         "artist": "Twenty One Pilots",
         "title": "The Line",
         "plays": 1
@@ -153,11 +158,6 @@
       {
         "artist": "Lady Gaga",
         "title": "The Dead Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
         "plays": 1
       },
       {
@@ -728,6 +728,16 @@
       {
         "artist": "Fynn Kliemann",
         "title": "TOD",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Azizam",
+        "plays": 1
+      },
+      {
+        "artist": "Dr. Hook",
+        "title": "Sexy Eyes",
         "plays": 1
       }
     ],
