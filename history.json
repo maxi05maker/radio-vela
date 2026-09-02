@@ -676,5 +676,17 @@
     "played_at": "2026-09-02 12:43:58 +0200",
     "title": "Achtzehn",
     "artist": "Die Nerven"
+  },
+  {
+    "key": "2026-09-02 12:48:26 +0200|Habit|Laurell",
+    "played_at": "2026-09-02 12:48:26 +0200",
+    "title": "Habit",
+    "artist": "Laurell"
+  },
+  {
+    "key": "2026-09-02 12:51:27 +0200|Dancing Feet|Kygo feat. DNCE",
+    "played_at": "2026-09-02 12:51:27 +0200",
+    "title": "Dancing Feet",
+    "artist": "Kygo feat. DNCE"
   }
 ]
