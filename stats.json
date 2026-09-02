@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 118,
-    "music_entries": 109,
+    "total_entries": 121,
+    "music_entries": 112,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -543,6 +543,21 @@
       {
         "artist": "Max Giesinger",
         "title": "Irgendwo da draußen",
+        "plays": 1
+      },
+      {
+        "artist": "Floodlights",
+        "title": "Can You Feel It",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "2001",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
         "plays": 1
       }
     ],

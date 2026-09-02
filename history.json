@@ -706,5 +706,23 @@
     "played_at": "2026-09-02 13:00:20 +0200",
     "title": "Irgendwo da draußen",
     "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-09-02 13:03:53 +0200|Can You Feel It|Floodlights",
+    "played_at": "2026-09-02 13:03:53 +0200",
+    "title": "Can You Feel It",
+    "artist": "Floodlights"
+  },
+  {
+    "key": "2026-09-02 13:07:49 +0200|2001|Foals",
+    "played_at": "2026-09-02 13:07:49 +0200",
+    "title": "2001",
+    "artist": "Foals"
+  },
+  {
+    "key": "2026-09-02 13:12:17 +0200|Señorita|Shawn Mendes & Camila Cabello",
+    "played_at": "2026-09-02 13:12:17 +0200",
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello"
   }
 ]
