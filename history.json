@@ -1972,5 +1972,29 @@
     "played_at": "2026-09-03 00:18:58 +0200",
     "title": "Der letzte Tag",
     "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-09-03 00:21:55 +0200|Remember Me|Michael Schulte",
+    "played_at": "2026-09-03 00:21:55 +0200",
+    "title": "Remember Me",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-03 00:25:29 +0200|Everything I Wanted|Armin van Buuren, Malou",
+    "played_at": "2026-09-03 00:25:29 +0200",
+    "title": "Everything I Wanted",
+    "artist": "Armin van Buuren, Malou"
+  },
+  {
+    "key": "2026-09-03 00:28:05 +0200|As It Was|Harry Styles",
+    "played_at": "2026-09-03 00:28:05 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-03 00:30:53 +0200|Build a House|Stefanie Heinzmann feat. Alle Farben",
+    "played_at": "2026-09-03 00:30:53 +0200",
+    "title": "Build a House",
+    "artist": "Stefanie Heinzmann feat. Alle Farben"
   }
 ]

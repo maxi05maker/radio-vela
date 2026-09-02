@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 329,
-    "music_entries": 305,
+    "total_entries": 333,
+    "music_entries": 309,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -23,6 +23,11 @@
       {
         "artist": "Dennis Lloyd",
         "title": "Anxious",
+        "plays": 3
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 3
       },
       {
@@ -156,11 +161,6 @@
         "plays": 2
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 2
-      },
-      {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
         "plays": 2
@@ -198,6 +198,11 @@
       {
         "artist": "Luis Fonsi feat. Demi Lovato",
         "title": "Échame La Culpa",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
         "plays": 2
       },
       {
@@ -708,11 +713,6 @@
       {
         "artist": "Lucinda Williams",
         "title": "Low Life",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Remember Me",
         "plays": 1
       },
       {
@@ -1283,6 +1283,16 @@
       {
         "artist": "Max Giesinger",
         "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Armin van Buuren, Malou",
+        "title": "Everything I Wanted",
+        "plays": 1
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
         "plays": 1
       }
     ],
