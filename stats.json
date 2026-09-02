@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 335,
-    "music_entries": 311,
+    "total_entries": 337,
+    "music_entries": 313,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1303,6 +1303,16 @@
       {
         "artist": "Iron Maiden",
         "title": "Senjutsu",
+        "plays": 1
+      },
+      {
+        "artist": "LOTTE & Max Giesinger",
+        "title": "Auf das, was da noch kommt",
+        "plays": 1
+      },
+      {
+        "artist": "Alyzah",
+        "title": "Shoot",
         "plays": 1
       }
     ],
