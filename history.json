@@ -106,5 +106,41 @@
     "played_at": "2026-09-02 07:54:58 +0200",
     "title": "End of the world",
     "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-09-02 07:59:09 +0200|Schwarz|LEA & Casper",
+    "played_at": "2026-09-02 07:59:09 +0200",
+    "title": "Schwarz",
+    "artist": "LEA & Casper"
+  },
+  {
+    "key": "2026-09-02 08:01:45 +0200|Liebe auf Distanz|Revolverheld feat. Antje Schomaker",
+    "played_at": "2026-09-02 08:01:45 +0200",
+    "title": "Liebe auf Distanz",
+    "artist": "Revolverheld feat. Antje Schomaker"
+  },
+  {
+    "key": "2026-09-02 08:05:01 +0200|SHE DID IT AGAIN|Tyla & Zara Larsson",
+    "played_at": "2026-09-02 08:05:01 +0200",
+    "title": "SHE DID IT AGAIN",
+    "artist": "Tyla & Zara Larsson"
+  },
+  {
+    "key": "2026-09-02 08:08:35 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-02 08:08:35 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-02 08:11:25 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-02 08:11:25 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-02 08:14:59 +0200|Designer|Erica Banks",
+    "played_at": "2026-09-02 08:14:59 +0200",
+    "title": "Designer",
+    "artist": "Erica Banks"
   }
 ]
