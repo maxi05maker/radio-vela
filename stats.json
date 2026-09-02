@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 184,
-    "music_entries": 170,
+    "total_entries": 188,
+    "music_entries": 174,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -98,6 +98,11 @@
       {
         "artist": "Bausa, Philipp Dittberner",
         "title": "Wolke 4",
+        "plays": 2
+      },
+      {
+        "artist": "Ramon Roselly",
+        "title": "Eine Nacht",
         "plays": 2
       },
       {
@@ -491,11 +496,6 @@
         "plays": 1
       },
       {
-        "artist": "Ramon Roselly",
-        "title": "Eine Nacht",
-        "plays": 1
-      },
-      {
         "artist": "Busta Rhymes",
         "title": "Luxury Life feat. Coi Leray",
         "plays": 1
@@ -758,6 +758,21 @@
       {
         "artist": "Ski Aggu",
         "title": "mietfrei (feat. SIRA)",
+        "plays": 1
+      },
+      {
+        "artist": "sombr",
+        "title": "Homewrecker",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Monster",
+        "plays": 1
+      },
+      {
+        "artist": "Lola Young",
+        "title": "One Thing",
         "plays": 1
       }
     ],
