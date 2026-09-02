@@ -4996,5 +4996,47 @@
     "played_at": "2026-09-02 03:58:42 +0200",
     "title": "Henry, Come On",
     "artist": "Lana Del Rey"
+  },
+  {
+    "key": "2026-09-02 04:03:54 +0200|Rockstars|Malik Harris",
+    "played_at": "2026-09-02 04:03:54 +0200",
+    "title": "Rockstars",
+    "artist": "Malik Harris"
+  },
+  {
+    "key": "2026-09-02 04:06:54 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-02 04:06:54 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-02 04:09:35 +0200|No Roots|Alice Merton",
+    "played_at": "2026-09-02 04:09:35 +0200",
+    "title": "No Roots",
+    "artist": "Alice Merton"
+  },
+  {
+    "key": "2026-09-02 04:13:31 +0200|On The Radar Freestyle|Remy Ma",
+    "played_at": "2026-09-02 04:13:31 +0200",
+    "title": "On The Radar Freestyle",
+    "artist": "Remy Ma"
+  },
+  {
+    "key": "2026-09-02 04:15:46 +0200|Die schönsten Tage|SDP & Clueso",
+    "played_at": "2026-09-02 04:15:46 +0200",
+    "title": "Die schönsten Tage",
+    "artist": "SDP & Clueso"
+  },
+  {
+    "key": "2026-09-02 04:19:03 +0200|Eine Nacht|Ramon Roselly",
+    "played_at": "2026-09-02 04:19:03 +0200",
+    "title": "Eine Nacht",
+    "artist": "Ramon Roselly"
+  },
+  {
+    "key": "2026-09-02 04:22:33 +0200|Loosen Up|HUGEL & Dawty & Preston Harris",
+    "played_at": "2026-09-02 04:22:33 +0200",
+    "title": "Loosen Up",
+    "artist": "HUGEL & Dawty & Preston Harris"
   }
 ]
