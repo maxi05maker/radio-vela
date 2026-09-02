@@ -1126,5 +1126,23 @@
     "played_at": "2026-09-02 16:46:00 +0200",
     "title": "One Thing",
     "artist": "Lola Young"
+  },
+  {
+    "key": "2026-09-02 16:49:29 +0200|More than life|Machine Gun Kelly, glaive",
+    "played_at": "2026-09-02 16:49:29 +0200",
+    "title": "More than life",
+    "artist": "Machine Gun Kelly, glaive"
+  },
+  {
+    "key": "2026-09-02 16:52:45 +0200|Murphy's Law|Róisín Murphy",
+    "played_at": "2026-09-02 16:52:45 +0200",
+    "title": "Murphy's Law",
+    "artist": "Róisín Murphy"
+  },
+  {
+    "key": "2026-09-02 16:56:35 +0200|Boogie's In My Soul (feat. Snoop Dogg)|Chaka Khan",
+    "played_at": "2026-09-02 16:56:35 +0200",
+    "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+    "artist": "Chaka Khan"
   }
 ]

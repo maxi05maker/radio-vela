@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 188,
-    "music_entries": 174,
+    "total_entries": 191,
+    "music_entries": 177,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -93,6 +93,11 @@
       {
         "artist": "Europe",
         "title": "War Of Kings",
+        "plays": 2
+      },
+      {
+        "artist": "Machine Gun Kelly, glaive",
+        "title": "More than life",
         "plays": 2
       },
       {
@@ -273,11 +278,6 @@
       {
         "artist": "Rag'n'Bone Man",
         "title": "All You Ever Wanted",
-        "plays": 1
-      },
-      {
-        "artist": "Machine Gun Kelly, glaive",
-        "title": "More than life",
         "plays": 1
       },
       {
@@ -773,6 +773,16 @@
       {
         "artist": "Lola Young",
         "title": "One Thing",
+        "plays": 1
+      },
+      {
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
+        "plays": 1
+      },
+      {
+        "artist": "Chaka Khan",
+        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
         "plays": 1
       }
     ],
