@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 321,
-    "music_entries": 298,
+    "total_entries": 324,
+    "music_entries": 301,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -208,6 +208,11 @@
       {
         "artist": "Liz",
         "title": "Cashflow feat. Big Toe",
+        "plays": 2
+      },
+      {
+        "artist": "Bausa",
+        "title": "Flashbacks feat. LIZ",
         "plays": 2
       },
       {
@@ -1116,11 +1121,6 @@
         "plays": 1
       },
       {
-        "artist": "Bausa",
-        "title": "Flashbacks feat. LIZ",
-        "plays": 1
-      },
-      {
         "artist": "Pashanim",
         "title": "Sommergewitter",
         "plays": 1
@@ -1263,6 +1263,16 @@
       {
         "artist": "Mono Inc.",
         "title": "Abendrot",
+        "plays": 1
+      },
+      {
+        "artist": "Joel Brandenstein",
+        "title": "Gegengift",
+        "plays": 1
+      },
+      {
+        "artist": "Oimara, Melissa Naschenweng",
+        "title": "Koa Bergbauernbua",
         "plays": 1
       }
     ],

@@ -1924,5 +1924,23 @@
     "played_at": "2026-09-02 23:54:25 +0200",
     "title": "Abendrot",
     "artist": "Mono Inc."
+  },
+  {
+    "key": "2026-09-02 23:57:52 +0200|Gegengift|Joel Brandenstein",
+    "played_at": "2026-09-02 23:57:52 +0200",
+    "title": "Gegengift",
+    "artist": "Joel Brandenstein"
+  },
+  {
+    "key": "2026-09-03 00:00:45 +0200|Flashbacks feat. LIZ|Bausa",
+    "played_at": "2026-09-03 00:00:45 +0200",
+    "title": "Flashbacks feat. LIZ",
+    "artist": "Bausa"
+  },
+  {
+    "key": "2026-09-03 00:02:35 +0200|Koa Bergbauernbua|Oimara, Melissa Naschenweng",
+    "played_at": "2026-09-03 00:02:35 +0200",
+    "title": "Koa Bergbauernbua",
+    "artist": "Oimara, Melissa Naschenweng"
   }
 ]
