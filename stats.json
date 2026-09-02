@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 349,
-    "music_entries": 324,
+    "total_entries": 351,
+    "music_entries": 326,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -233,6 +233,11 @@
       {
         "artist": "Lena",
         "title": "Strip",
+        "plays": 2
+      },
+      {
+        "artist": "Thirty Seconds To Mars",
+        "title": "The Kill",
         "plays": 2
       },
       {
@@ -846,11 +851,6 @@
         "plays": 1
       },
       {
-        "artist": "Thirty Seconds To Mars",
-        "title": "The Kill",
-        "plays": 1
-      },
-      {
         "artist": "Sophia Kennedy",
         "title": "Rodeo",
         "plays": 1
@@ -1348,6 +1348,11 @@
       {
         "artist": "Zach Bryan",
         "title": "Pink Skies",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "A Little More",
         "plays": 1
       }
     ],
