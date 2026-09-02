@@ -2104,5 +2104,23 @@
     "played_at": "2026-09-03 01:34:49 +0200",
     "title": "The Kill",
     "artist": "Thirty Seconds To Mars"
+  },
+  {
+    "key": "2026-09-03 01:38:41 +0200|Stay|The Kid LAROI & Justin Bieber",
+    "played_at": "2026-09-03 01:38:41 +0200",
+    "title": "Stay",
+    "artist": "The Kid LAROI & Justin Bieber"
+  },
+  {
+    "key": "2026-09-03 01:41:02 +0200|Kolkata Bear|Jonathan Jeremiah",
+    "played_at": "2026-09-03 01:41:02 +0200",
+    "title": "Kolkata Bear",
+    "artist": "Jonathan Jeremiah"
+  },
+  {
+    "key": "2026-09-03 01:43:48 +0200|Escape Plan|Travis Scott",
+    "played_at": "2026-09-03 01:43:48 +0200",
+    "title": "Escape Plan",
+    "artist": "Travis Scott"
   }
 ]

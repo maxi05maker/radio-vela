@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 351,
-    "music_entries": 326,
+    "total_entries": 354,
+    "music_entries": 329,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -33,6 +33,11 @@
       {
         "artist": "Ramon Roselly",
         "title": "Eine Nacht",
+        "plays": 3
+      },
+      {
+        "artist": "Travis Scott",
+        "title": "Escape Plan",
         "plays": 3
       },
       {
@@ -181,6 +186,11 @@
         "plays": 2
       },
       {
+        "artist": "Jonathan Jeremiah",
+        "title": "Kolkata Bear",
+        "plays": 2
+      },
+      {
         "artist": "Leony",
         "title": "Faded Love",
         "plays": 2
@@ -223,11 +233,6 @@
       {
         "artist": "Herbert Grönemeyer",
         "title": "Lied 1 - Stück vom Himmel",
-        "plays": 2
-      },
-      {
-        "artist": "Travis Scott",
-        "title": "Escape Plan",
         "plays": 2
       },
       {
@@ -703,11 +708,6 @@
       {
         "artist": "Topic & A7S",
         "title": "Kernkraft 400 (A Better Day)",
-        "plays": 1
-      },
-      {
-        "artist": "Jonathan Jeremiah",
-        "title": "Kolkata Bear",
         "plays": 1
       },
       {
@@ -1353,6 +1353,11 @@
       {
         "artist": "Ed Sheeran",
         "title": "A Little More",
+        "plays": 1
+      },
+      {
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
         "plays": 1
       }
     ],
