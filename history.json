@@ -1546,5 +1546,29 @@
     "played_at": "2026-09-02 20:31:19 +0200",
     "title": "Revolving door",
     "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-09-02 20:34:16 +0200|Don’t Call Me Angel (Charlie’s Angels)|Ariana Grande & Miley Cyrus & Lana Del Rey",
+    "played_at": "2026-09-02 20:34:16 +0200",
+    "title": "Don’t Call Me Angel (Charlie’s Angels)",
+    "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey"
+  },
+  {
+    "key": "2026-09-02 20:37:26 +0200|Way Down We Go|Kaleo",
+    "played_at": "2026-09-02 20:37:26 +0200",
+    "title": "Way Down We Go",
+    "artist": "Kaleo"
+  },
+  {
+    "key": "2026-09-02 20:41:08 +0200|Scar On My Guitar|KADAVAR",
+    "played_at": "2026-09-02 20:41:08 +0200",
+    "title": "Scar On My Guitar",
+    "artist": "KADAVAR"
+  },
+  {
+    "key": "2026-09-02 20:44:21 +0200|Schwarz|LEA & Casper",
+    "played_at": "2026-09-02 20:44:21 +0200",
+    "title": "Schwarz",
+    "artist": "LEA & Casper"
   }
 ]

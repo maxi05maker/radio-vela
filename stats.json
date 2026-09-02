@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 258,
-    "music_entries": 239,
+    "total_entries": 262,
+    "music_entries": 243,
     "songs": [
       {
         "artist": "Michael Schulte, R3HAB",
@@ -63,6 +63,11 @@
       {
         "artist": "Dua Lipa",
         "title": "Love Again",
+        "plays": 2
+      },
+      {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
         "plays": 2
       },
       {
@@ -203,11 +208,6 @@
       {
         "artist": "Miley Cyrus",
         "title": "End of the world",
-        "plays": 1
-      },
-      {
-        "artist": "LEA & Casper",
-        "title": "Schwarz",
         "plays": 1
       },
       {
@@ -1013,6 +1013,21 @@
       {
         "artist": "DJ Snake & J. Balvin Feat. Tyga",
         "title": "Loco Contigo",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "Kaleo",
+        "title": "Way Down We Go",
+        "plays": 1
+      },
+      {
+        "artist": "KADAVAR",
+        "title": "Scar On My Guitar",
         "plays": 1
       }
     ],
