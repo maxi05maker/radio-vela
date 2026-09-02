@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 252,
-    "music_entries": 234,
+    "total_entries": 258,
+    "music_entries": 239,
     "songs": [
       {
         "artist": "Michael Schulte, R3HAB",
@@ -158,6 +158,11 @@
       {
         "artist": "Shawn Mendes",
         "title": "Why Why Why",
+        "plays": 2
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Revolving door",
         "plays": 2
       },
       {
@@ -671,11 +676,6 @@
         "plays": 1
       },
       {
-        "artist": "Tate McRae",
-        "title": "Revolving door",
-        "plays": 1
-      },
-      {
         "artist": "Ed Sheeran, Lil Baby",
         "title": "2step (feat. Lil Baby)",
         "plays": 1
@@ -993,6 +993,26 @@
       {
         "artist": "Def Leppard",
         "title": "Rejoice",
+        "plays": 1
+      },
+      {
+        "artist": "BIA",
+        "title": "Millions",
+        "plays": 1
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "Aute Cuture",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. CLOVES",
+        "title": "Old Friend (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
         "plays": 1
       }
     ],

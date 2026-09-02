@@ -1510,5 +1510,41 @@
     "played_at": "2026-09-02 20:15:35 +0200",
     "title": "Rejoice",
     "artist": "Def Leppard"
+  },
+  {
+    "key": "2026-09-02 20:19:56 +0200|Millions|BIA",
+    "played_at": "2026-09-02 20:19:56 +0200",
+    "title": "Millions",
+    "artist": "BIA"
+  },
+  {
+    "key": "2026-09-02 20:22:51 +0200|Aute Cuture|ROSALÍA",
+    "played_at": "2026-09-02 20:22:51 +0200",
+    "title": "Aute Cuture",
+    "artist": "ROSALÍA"
+  },
+  {
+    "key": "2026-09-02 20:25:19 +0200|Old Friend (Radio Edit)|Robin Schulz feat. CLOVES",
+    "played_at": "2026-09-02 20:25:19 +0200",
+    "title": "Old Friend (Radio Edit)",
+    "artist": "Robin Schulz feat. CLOVES"
+  },
+  {
+    "key": "2026-09-02 20:28:14 +0200|Loco Contigo|DJ Snake & J. Balvin Feat. Tyga",
+    "played_at": "2026-09-02 20:28:14 +0200",
+    "title": "Loco Contigo",
+    "artist": "DJ Snake & J. Balvin Feat. Tyga"
+  },
+  {
+    "key": "2026-09-02 20:31:18 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-09-02 20:31:18 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-02 20:31:19 +0200|Revolving door|Tate McRae",
+    "played_at": "2026-09-02 20:31:19 +0200",
+    "title": "Revolving door",
+    "artist": "Tate McRae"
   }
 ]
