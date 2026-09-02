@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 207,
-    "music_entries": 192,
+    "total_entries": 210,
+    "music_entries": 195,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -833,6 +833,21 @@
       {
         "artist": "Katy Perry",
         "title": "LIFETIMES",
+        "plays": 1
+      },
+      {
+        "artist": "Thirty Seconds To Mars",
+        "title": "The Kill",
+        "plays": 1
+      },
+      {
+        "artist": "Liz",
+        "title": "Cashflow feat. Big Toe",
+        "plays": 1
+      },
+      {
+        "artist": "Sophia Kennedy",
+        "title": "Rodeo",
         "plays": 1
       }
     ],
