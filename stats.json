@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 72,
-    "music_entries": 66,
+    "total_entries": 75,
+    "music_entries": 69,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -328,6 +328,21 @@
       {
         "artist": "Marshmello & Jonas Brothers",
         "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Dove Cameron",
+        "title": "Boyfriend",
+        "plays": 1
+      },
+      {
+        "artist": "The Darkness",
+        "title": "The Longest Kiss",
         "plays": 1
       }
     ],

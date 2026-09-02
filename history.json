@@ -430,5 +430,23 @@
     "played_at": "2026-09-02 10:44:33 +0200",
     "title": "Slow Motion",
     "artist": "Marshmello & Jonas Brothers"
+  },
+  {
+    "key": "2026-09-02 10:47:05 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-09-02 10:47:05 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-09-02 10:50:36 +0200|Boyfriend|Dove Cameron",
+    "played_at": "2026-09-02 10:50:36 +0200",
+    "title": "Boyfriend",
+    "artist": "Dove Cameron"
+  },
+  {
+    "key": "2026-09-02 10:53:10 +0200|The Longest Kiss|The Darkness",
+    "played_at": "2026-09-02 10:53:10 +0200",
+    "title": "The Longest Kiss",
+    "artist": "The Darkness"
   }
 ]
