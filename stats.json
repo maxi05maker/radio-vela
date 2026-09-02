@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 75,
-    "music_entries": 69,
+    "total_entries": 77,
+    "music_entries": 71,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -343,6 +343,16 @@
       {
         "artist": "The Darkness",
         "title": "The Longest Kiss",
+        "plays": 1
+      },
+      {
+        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
+        "title": "VIEWS",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 1
       }
     ],

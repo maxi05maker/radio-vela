@@ -448,5 +448,17 @@
     "played_at": "2026-09-02 10:53:10 +0200",
     "title": "The Longest Kiss",
     "artist": "The Darkness"
+  },
+  {
+    "key": "2026-09-02 10:56:00 +0200|VIEWS|Noga Erez feat. Reo Cragun & ROUSSO",
+    "played_at": "2026-09-02 10:56:00 +0200",
+    "title": "VIEWS",
+    "artist": "Noga Erez feat. Reo Cragun & ROUSSO"
+  },
+  {
+    "key": "2026-09-02 10:58:45 +0200|As It Was|Harry Styles",
+    "played_at": "2026-09-02 10:58:45 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
   }
 ]
