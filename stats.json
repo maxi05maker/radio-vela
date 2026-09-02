@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 354,
-    "music_entries": 332,
+    "total_entries": 357,
+    "music_entries": 335,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -361,6 +361,11 @@
         "plays": 2
       },
       {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 2
+      },
+      {
         "artist": "Clueso",
         "title": "Deja-Vu",
         "plays": 2
@@ -593,11 +598,6 @@
       {
         "artist": "The Pretty Reckless",
         "title": "Rollercoaster Of Life",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -1223,6 +1223,16 @@
       {
         "artist": "Quavo & Takeoff",
         "title": "Hotel Lobby",
+        "plays": 1
+      },
+      {
+        "artist": "The Killers",
+        "title": "Bright lights",
+        "plays": 1
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
         "plays": 1
       }
     ],

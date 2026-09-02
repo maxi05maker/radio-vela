@@ -4846,5 +4846,23 @@
     "played_at": "2026-09-02 02:45:33 +0200",
     "title": "Hotel Lobby",
     "artist": "Quavo & Takeoff"
+  },
+  {
+    "key": "2026-09-02 02:47:56 +0200|Bright lights|The Killers",
+    "played_at": "2026-09-02 02:47:56 +0200",
+    "title": "Bright lights",
+    "artist": "The Killers"
+  },
+  {
+    "key": "2026-09-02 02:52:05 +0200|Klippe|Lina",
+    "played_at": "2026-09-02 02:52:05 +0200",
+    "title": "Klippe",
+    "artist": "Lina"
+  },
+  {
+    "key": "2026-09-02 02:54:44 +0200|As It Was|Harry Styles",
+    "played_at": "2026-09-02 02:54:44 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
   }
 ]
