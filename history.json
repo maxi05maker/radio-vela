@@ -28,5 +28,35 @@
     "played_at": "2026-09-02 07:12:59 +0200",
     "title": "Summer Is a Curse",
     "artist": "The FAIM"
+  },
+  {
+    "key": "2026-09-02 07:16:00 +0200|Renn!|AYLIVA",
+    "played_at": "2026-09-02 07:16:00 +0200",
+    "title": "Renn!",
+    "artist": "AYLIVA"
+  },
+  {
+    "key": "2026-09-02 07:18:47 +0200|Out Of Time|The Weeknd",
+    "played_at": "2026-09-02 07:18:47 +0200",
+    "title": "Out Of Time",
+    "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-09-02 07:22:21 +0200|Catch And Release (Deepend Remix)|Matt Simons",
+    "played_at": "2026-09-02 07:22:21 +0200",
+    "title": "Catch And Release (Deepend Remix)",
+    "artist": "Matt Simons"
+  },
+  {
+    "key": "2026-09-02 07:25:37 +0200|CDY|LACAZETTE/Jazeek",
+    "played_at": "2026-09-02 07:25:37 +0200",
+    "title": "CDY",
+    "artist": "LACAZETTE/Jazeek"
+  },
+  {
+    "key": "2026-09-02 07:27:56 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-09-02 07:27:56 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
   }
 ]
