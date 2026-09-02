@@ -574,5 +574,29 @@
     "played_at": "2026-09-02 11:54:26 +0200",
     "title": "Klippe",
     "artist": "Lina"
+  },
+  {
+    "key": "2026-09-02 11:57:04 +0200|New Beginnings|Yard Act",
+    "played_at": "2026-09-02 11:57:04 +0200",
+    "title": "New Beginnings",
+    "artist": "Yard Act"
+  },
+  {
+    "key": "2026-09-02 12:00:31 +0200|When You're Gone|Shawn Mendes",
+    "played_at": "2026-09-02 12:00:31 +0200",
+    "title": "When You're Gone",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-02 12:03:23 +0200|Bleed It|Logic",
+    "played_at": "2026-09-02 12:03:23 +0200",
+    "title": "Bleed It",
+    "artist": "Logic"
+  },
+  {
+    "key": "2026-09-02 12:05:54 +0200|Together|David Guetta, Hypaton, Bonnie Tyler",
+    "played_at": "2026-09-02 12:05:54 +0200",
+    "title": "Together",
+    "artist": "David Guetta, Hypaton, Bonnie Tyler"
   }
 ]
