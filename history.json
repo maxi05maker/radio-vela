@@ -538,5 +538,23 @@
     "played_at": "2026-09-02 11:38:46 +0200",
     "title": "Der Sommer",
     "artist": "Bosse"
+  },
+  {
+    "key": "2026-09-02 11:42:21 +0200|Dai Dai|Shakira & Burna Boy",
+    "played_at": "2026-09-02 11:42:21 +0200",
+    "title": "Dai Dai",
+    "artist": "Shakira & Burna Boy"
+  },
+  {
+    "key": "2026-09-02 11:46:04 +0200|Nur die Musik|JORIS",
+    "played_at": "2026-09-02 11:46:04 +0200",
+    "title": "Nur die Musik",
+    "artist": "JORIS"
+  },
+  {
+    "key": "2026-09-02 11:49:38 +0200|In Your Arms (For An Angel)|Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
+    "played_at": "2026-09-02 11:49:38 +0200",
+    "title": "In Your Arms (For An Angel)",
+    "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk"
   }
 ]
