@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 49,
-    "music_entries": 45,
+    "total_entries": 52,
+    "music_entries": 48,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -223,6 +223,21 @@
       {
         "artist": "The Weeknd",
         "title": "Less Than Zero",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
+        "plays": 1
+      },
+      {
+        "artist": "Vanessa Mai",
+        "title": "Aus & Vorbei",
+        "plays": 1
+      },
+      {
+        "artist": "Warhaus",
+        "title": "Open Window",
         "plays": 1
       }
     ],
