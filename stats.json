@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 242,
-    "music_entries": 225,
+    "total_entries": 244,
+    "music_entries": 227,
     "songs": [
       {
         "artist": "Michael Schulte, R3HAB",
@@ -958,6 +958,16 @@
       {
         "artist": "Dara",
         "title": "Bangaranga",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding & Juice WRLD",
+        "title": "Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "ABBA",
+        "title": "Don't Shut Me Down",
         "plays": 1
       }
     ],

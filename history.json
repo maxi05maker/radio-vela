@@ -1450,5 +1450,17 @@
     "played_at": "2026-09-02 19:43:14 +0200",
     "title": "Bangaranga",
     "artist": "Dara"
+  },
+  {
+    "key": "2026-09-02 19:46:11 +0200|Hate Me|Ellie Goulding & Juice WRLD",
+    "played_at": "2026-09-02 19:46:11 +0200",
+    "title": "Hate Me",
+    "artist": "Ellie Goulding & Juice WRLD"
+  },
+  {
+    "key": "2026-09-02 19:49:17 +0200|Don't Shut Me Down|ABBA",
+    "played_at": "2026-09-02 19:49:17 +0200",
+    "title": "Don't Shut Me Down",
+    "artist": "ABBA"
   }
 ]
