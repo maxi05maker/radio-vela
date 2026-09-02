@@ -2,9 +2,14 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 166,
-    "music_entries": 154,
+    "total_entries": 170,
+    "music_entries": 158,
     "songs": [
+      {
+        "artist": "Gryffin & OneRepublic",
+        "title": "You Were Loved",
+        "plays": 2
+      },
       {
         "artist": "Michael Schulte",
         "title": "With You",
@@ -26,6 +31,11 @@
         "plays": 2
       },
       {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 2
+      },
+      {
         "artist": "STARSET, Breaking Benjamin, Judge & Jury",
         "title": "Waiting on the sky to change",
         "plays": 2
@@ -38,6 +48,11 @@
       {
         "artist": "CRO",
         "title": "Fallin",
+        "plays": 2
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Anxious",
         "plays": 2
       },
       {
@@ -66,11 +81,6 @@
         "plays": 2
       },
       {
-        "artist": "Gryffin & OneRepublic",
-        "title": "You Were Loved",
-        "plays": 1
-      },
-      {
         "artist": "Sarah Connor & Sido",
         "title": "Interstellar (Zwischen den Sternen)",
         "plays": 1
@@ -86,11 +96,6 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
         "artist": "Provinz",
         "title": "Pazifik",
         "plays": 1
@@ -98,11 +103,6 @@
       {
         "artist": "Beak>",
         "title": "Secrets",
-        "plays": 1
-      },
-      {
-        "artist": "Dennis Lloyd",
-        "title": "Anxious",
         "plays": 1
       },
       {
@@ -714,11 +714,16 @@
         "artist": "Billy Idol feat. Avril Lavigne",
         "title": "77",
         "plays": 1
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Ein Lied für dich",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Michael Schulte",
-      "title": "With You",
+      "artist": "Gryffin & OneRepublic",
+      "title": "You Were Loved",
       "plays": 2
     }
   }
