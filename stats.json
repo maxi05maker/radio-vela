@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 115,
-    "music_entries": 106,
+    "total_entries": 118,
+    "music_entries": 109,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -528,6 +528,21 @@
       {
         "artist": "Kygo feat. DNCE",
         "title": "Dancing Feet",
+        "plays": 1
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "Supermodel",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Irgendwo da draußen",
         "plays": 1
       }
     ],
