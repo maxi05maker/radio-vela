@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 346,
-    "music_entries": 321,
+    "total_entries": 349,
+    "music_entries": 324,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -216,6 +216,11 @@
         "plays": 2
       },
       {
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
+        "plays": 2
+      },
+      {
         "artist": "Herbert Grönemeyer",
         "title": "Lied 1 - Stück vom Himmel",
         "plays": 2
@@ -223,6 +228,11 @@
       {
         "artist": "Travis Scott",
         "title": "Escape Plan",
+        "plays": 2
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
         "plays": 2
       },
       {
@@ -796,11 +806,6 @@
         "plays": 1
       },
       {
-        "artist": "Róisín Murphy",
-        "title": "Murphy's Law",
-        "plays": 1
-      },
-      {
         "artist": "Chaka Khan",
         "title": "Boogie's In My Soul (feat. Snoop Dogg)",
         "plays": 1
@@ -813,11 +818,6 @@
       {
         "artist": "FILLY",
         "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Strip",
         "plays": 1
       },
       {
@@ -1343,6 +1343,11 @@
       {
         "artist": "The 1975",
         "title": "If You're Too Shy (Let Me Know)",
+        "plays": 1
+      },
+      {
+        "artist": "Zach Bryan",
+        "title": "Pink Skies",
         "plays": 1
       }
     ],
