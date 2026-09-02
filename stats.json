@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 237,
-    "music_entries": 220,
+    "total_entries": 240,
+    "music_entries": 223,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -938,6 +938,21 @@
       {
         "artist": "Clueso",
         "title": "Sag Mir Was Du Willst",
+        "plays": 1
+      },
+      {
+        "artist": "Ethel Cain",
+        "title": "American Teenager",
+        "plays": 1
+      },
+      {
+        "artist": "Kitty Kat",
+        "title": "Sonne feat. Silla",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
         "plays": 1
       }
     ],

@@ -1420,5 +1420,23 @@
     "played_at": "2026-09-02 19:27:48 +0200",
     "title": "Sag Mir Was Du Willst",
     "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-02 19:30:52 +0200|American Teenager|Ethel Cain",
+    "played_at": "2026-09-02 19:30:52 +0200",
+    "title": "American Teenager",
+    "artist": "Ethel Cain"
+  },
+  {
+    "key": "2026-09-02 19:35:10 +0200|Sonne feat. Silla|Kitty Kat",
+    "played_at": "2026-09-02 19:35:10 +0200",
+    "title": "Sonne feat. Silla",
+    "artist": "Kitty Kat"
+  },
+  {
+    "key": "2026-09-02 19:37:49 +0200|Let You Love Me|Rita Ora",
+    "played_at": "2026-09-02 19:37:49 +0200",
+    "title": "Let You Love Me",
+    "artist": "Rita Ora"
   }
 ]
