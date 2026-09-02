@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 62,
-    "music_entries": 57,
+    "total_entries": 67,
+    "music_entries": 62,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -283,6 +283,31 @@
       {
         "artist": "Silbermond",
         "title": "Auf Auf",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & David Guetta",
+        "title": "Sad Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Ghost",
+        "plays": 1
+      },
+      {
+        "artist": "Bausa, Philipp Dittberner",
+        "title": "Wolke 4",
+        "plays": 1
+      },
+      {
+        "artist": "KAFFKIEZ",
+        "title": "Matilda",
         "plays": 1
       }
     ],
