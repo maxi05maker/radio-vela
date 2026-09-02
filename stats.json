@@ -2,9 +2,14 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 240,
-    "music_entries": 223,
+    "total_entries": 242,
+    "music_entries": 225,
     "songs": [
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 3
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
@@ -33,11 +38,6 @@
       {
         "artist": "Matt Simons",
         "title": "Catch And Release (Deepend Remix)",
-        "plays": 2
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -954,11 +954,16 @@
         "artist": "Rita Ora",
         "title": "Let You Love Me",
         "plays": 1
+      },
+      {
+        "artist": "Dara",
+        "title": "Bangaranga",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "Michael Schulte, R3HAB",
+      "title": "Waterfall",
       "plays": 3
     }
   }
