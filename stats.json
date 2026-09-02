@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 191,
-    "music_entries": 177,
+    "total_entries": 196,
+    "music_entries": 181,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -103,6 +103,11 @@
       {
         "artist": "Bausa, Philipp Dittberner",
         "title": "Wolke 4",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 2
       },
       {
@@ -353,11 +358,6 @@
       {
         "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
         "title": "VIEWS",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -783,6 +783,21 @@
       {
         "artist": "Chaka Khan",
         "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+        "plays": 1
+      },
+      {
+        "artist": "Herbert Grönemeyer",
+        "title": "Lied 1 - Stück vom Himmel",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "Be Mine",
+        "plays": 1
+      },
+      {
+        "artist": "Travis Scott",
+        "title": "Escape Plan",
         "plays": 1
       }
     ],
