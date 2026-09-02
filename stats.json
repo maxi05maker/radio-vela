@@ -2,9 +2,14 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 262,
-    "music_entries": 243,
+    "total_entries": 265,
+    "music_entries": 246,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 4
+      },
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
@@ -13,11 +18,6 @@
       {
         "artist": "Dennis Lloyd",
         "title": "Anxious",
-        "plays": 3
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 3
       },
       {
@@ -1029,12 +1029,22 @@
         "artist": "KADAVAR",
         "title": "Scar On My Guitar",
         "plays": 1
+      },
+      {
+        "artist": "Ray Dalton x Alvaro Soler",
+        "title": "Manila",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Don't Worry",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Michael Schulte, R3HAB",
-      "title": "Waterfall",
-      "plays": 3
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 4
     }
   }
 }

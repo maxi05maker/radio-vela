@@ -1570,5 +1570,23 @@
     "played_at": "2026-09-02 20:44:21 +0200",
     "title": "Schwarz",
     "artist": "LEA & Casper"
+  },
+  {
+    "key": "2026-09-02 20:46:57 +0200|Manila|Ray Dalton x Alvaro Soler",
+    "played_at": "2026-09-02 20:46:57 +0200",
+    "title": "Manila",
+    "artist": "Ray Dalton x Alvaro Soler"
+  },
+  {
+    "key": "2026-09-02 20:49:21 +0200|Don't Worry|Leony",
+    "played_at": "2026-09-02 20:49:21 +0200",
+    "title": "Don't Worry",
+    "artist": "Leony"
+  },
+  {
+    "key": "2026-09-02 20:51:41 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-02 20:51:41 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
   }
 ]
