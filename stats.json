@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 367,
-    "music_entries": 344,
+    "total_entries": 372,
+    "music_entries": 349,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -28,6 +28,11 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 3
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 3
       },
       {
@@ -226,11 +231,6 @@
         "plays": 2
       },
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 2
-      },
-      {
         "artist": "Ellie Goulding",
         "title": "Let it die",
         "plays": 2
@@ -383,6 +383,11 @@
       {
         "artist": "Lady Gaga",
         "title": "The Joker",
+        "plays": 2
+      },
+      {
+        "artist": "Erica Banks",
+        "title": "Designer",
         "plays": 2
       },
       {
@@ -1011,11 +1016,6 @@
         "plays": 1
       },
       {
-        "artist": "Erica Banks",
-        "title": "Designer",
-        "plays": 1
-      },
-      {
         "artist": "Revolverheld",
         "title": "Leichter",
         "plays": 1
@@ -1268,6 +1268,21 @@
       {
         "artist": "Camila Cabello",
         "title": "Godspeed",
+        "plays": 1
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "title": "All You Ever Wanted",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Weißt du überhaupt noch wer ich bin?",
+        "plays": 1
+      },
+      {
+        "artist": "Machine Gun Kelly, glaive",
+        "title": "More than life",
         "plays": 1
       }
     ],
