@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 181,
-    "music_entries": 167,
+    "total_entries": 184,
+    "music_entries": 170,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -743,6 +743,21 @@
       {
         "artist": "NLE The Great",
         "title": "KO",
+        "plays": 1
+      },
+      {
+        "artist": "Helloween",
+        "title": "This Is Tokyo",
+        "plays": 1
+      },
+      {
+        "artist": "Danger Dan",
+        "title": "Lauf Davon",
+        "plays": 1
+      },
+      {
+        "artist": "Ski Aggu",
+        "title": "mietfrei (feat. SIRA)",
         "plays": 1
       }
     ],
