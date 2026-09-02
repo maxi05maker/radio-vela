@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 213,
-    "music_entries": 197,
+    "total_entries": 218,
+    "music_entries": 202,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -86,6 +86,11 @@
         "plays": 2
       },
       {
+        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
+        "title": "Rebellion",
+        "plays": 2
+      },
+      {
         "artist": "Sofia Portanet",
         "title": "Real Face",
         "plays": 2
@@ -118,6 +123,11 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
         "plays": 2
       },
       {
@@ -208,11 +218,6 @@
       {
         "artist": "Lady Gaga",
         "title": "The Dead Dance",
-        "plays": 1
-      },
-      {
-        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
-        "title": "Rebellion",
         "plays": 1
       },
       {
@@ -433,11 +438,6 @@
       {
         "artist": "Bosse",
         "title": "Der Sommer",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
         "plays": 1
       },
       {
@@ -853,6 +853,21 @@
       {
         "artist": "LEA x LUNA",
         "title": "Küsse wie Gift",
+        "plays": 1
+      },
+      {
+        "artist": "Álvaro Soler",
+        "title": "Magia",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Cover Me In Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Sign of the Times",
         "plays": 1
       }
     ],
