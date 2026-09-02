@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 131,
-    "music_entries": 121,
+    "total_entries": 133,
+    "music_entries": 123,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -603,6 +603,16 @@
       {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "More to Lose",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
         "plays": 1
       }
     ],

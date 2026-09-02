@@ -784,5 +784,17 @@
     "played_at": "2026-09-02 13:42:53 +0200",
     "title": "Castle on the Hill",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-02 13:47:15 +0200|More to Lose|Miley Cyrus",
+    "played_at": "2026-09-02 13:47:15 +0200",
+    "title": "More to Lose",
+    "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-09-02 13:51:57 +0200|Part Of The Band|The 1975",
+    "played_at": "2026-09-02 13:51:57 +0200",
+    "title": "Part Of The Band",
+    "artist": "The 1975"
   }
 ]
