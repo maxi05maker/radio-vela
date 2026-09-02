@@ -1768,5 +1768,23 @@
     "played_at": "2026-09-02 22:28:06 +0200",
     "title": "Wenn das so bleibt",
     "artist": "Apache 207"
+  },
+  {
+    "key": "2026-09-02 22:30:47 +0200|What Am I Gonna Do?|Aldous Harding",
+    "played_at": "2026-09-02 22:30:47 +0200",
+    "title": "What Am I Gonna Do?",
+    "artist": "Aldous Harding"
+  },
+  {
+    "key": "2026-09-02 22:34:32 +0200|Don't Let The Light Go Out|Panic! At The Disco",
+    "played_at": "2026-09-02 22:34:32 +0200",
+    "title": "Don't Let The Light Go Out",
+    "artist": "Panic! At The Disco"
+  },
+  {
+    "key": "2026-09-02 22:38:22 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-09-02 22:38:22 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
   }
 ]

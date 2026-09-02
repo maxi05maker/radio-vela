@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 295,
-    "music_entries": 274,
+    "total_entries": 298,
+    "music_entries": 277,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -133,6 +133,11 @@
       {
         "artist": "KAFFKIEZ",
         "title": "Matilda",
+        "plays": 2
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 2
       },
       {
@@ -378,11 +383,6 @@
       {
         "artist": "Marshmello & Jonas Brothers",
         "title": "Slow Motion",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
         "plays": 1
       },
       {
@@ -1168,6 +1168,16 @@
       {
         "artist": "Apache 207",
         "title": "Wenn das so bleibt",
+        "plays": 1
+      },
+      {
+        "artist": "Aldous Harding",
+        "title": "What Am I Gonna Do?",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At The Disco",
+        "title": "Don't Let The Light Go Out",
         "plays": 1
       }
     ],
