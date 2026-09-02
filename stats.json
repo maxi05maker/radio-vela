@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 412,
-    "music_entries": 386,
+    "total_entries": 415,
+    "music_entries": 389,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -23,6 +23,11 @@
       {
         "artist": "Europe",
         "title": "War Of Kings",
+        "plays": 3
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
         "plays": 3
       },
       {
@@ -108,11 +113,6 @@
       {
         "artist": "Delinquent Habits",
         "title": "Ritmo feat. Sick Jacken",
-        "plays": 2
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Remember Me",
         "plays": 2
       },
       {
@@ -1413,6 +1413,16 @@
       {
         "artist": "The 1975",
         "title": "Part Of The Band",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "Supermodel",
+        "plays": 1
+      },
+      {
+        "artist": "NLE The Great",
+        "title": "KO",
         "plays": 1
       }
     ],

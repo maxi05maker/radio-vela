@@ -5194,5 +5194,23 @@
     "played_at": "2026-09-02 05:53:37 +0200",
     "title": "Part Of The Band",
     "artist": "The 1975"
+  },
+  {
+    "key": "2026-09-02 05:57:57 +0200|Supermodel|Måneskin",
+    "played_at": "2026-09-02 05:57:57 +0200",
+    "title": "Supermodel",
+    "artist": "Måneskin"
+  },
+  {
+    "key": "2026-09-02 06:00:21 +0200|KO|NLE The Great",
+    "played_at": "2026-09-02 06:00:21 +0200",
+    "title": "KO",
+    "artist": "NLE The Great"
+  },
+  {
+    "key": "2026-09-02 06:03:51 +0200|Remember Me|Michael Schulte",
+    "played_at": "2026-09-02 06:03:51 +0200",
+    "title": "Remember Me",
+    "artist": "Michael Schulte"
   }
 ]
