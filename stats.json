@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 282,
-    "music_entries": 262,
+    "total_entries": 284,
+    "music_entries": 264,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1108,6 +1108,16 @@
       {
         "artist": "Clueso feat. Andreas Bourani",
         "title": "Willkommen Zuruck",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
+      },
+      {
+        "artist": "Bausa",
+        "title": "Flashbacks feat. LIZ",
         "plays": 1
       }
     ],
