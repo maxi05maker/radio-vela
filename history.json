@@ -1702,5 +1702,23 @@
     "played_at": "2026-09-02 21:52:10 +0200",
     "title": "Flashbacks feat. LIZ",
     "artist": "Bausa"
+  },
+  {
+    "key": "2026-09-02 21:54:00 +0200|Sommergewitter|Pashanim",
+    "played_at": "2026-09-02 21:54:00 +0200",
+    "title": "Sommergewitter",
+    "artist": "Pashanim"
+  },
+  {
+    "key": "2026-09-02 21:56:18 +0200|Doors|Noah Kahan",
+    "played_at": "2026-09-02 21:56:18 +0200",
+    "title": "Doors",
+    "artist": "Noah Kahan"
+  },
+  {
+    "key": "2026-09-02 22:00:09 +0200|Wenn Du Mich Lässt|Lea",
+    "played_at": "2026-09-02 22:00:09 +0200",
+    "title": "Wenn Du Mich Lässt",
+    "artist": "Lea"
   }
 ]
