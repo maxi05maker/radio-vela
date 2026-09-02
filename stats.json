@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 287,
-    "music_entries": 267,
+    "total_entries": 291,
+    "music_entries": 270,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1133,6 +1133,21 @@
       {
         "artist": "Lea",
         "title": "Wenn Du Mich Lässt",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Chemtrails Over The Country Club",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers & Kim Petras",
+        "title": "Don't Lie (HITtipp)",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
         "plays": 1
       }
     ],
