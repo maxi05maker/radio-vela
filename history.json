@@ -1894,5 +1894,17 @@
     "played_at": "2026-09-02 23:38:31 +0200",
     "title": "My Universe",
     "artist": "Coldplay X BTS"
+  },
+  {
+    "key": "2026-09-02 23:42:19 +0200|Auf Auf|Silbermond",
+    "played_at": "2026-09-02 23:42:19 +0200",
+    "title": "Auf Auf",
+    "artist": "Silbermond"
+  },
+  {
+    "key": "2026-09-02 23:45:05 +0200|Streets Of Minneapolis|Bruce Springsteen",
+    "played_at": "2026-09-02 23:45:05 +0200",
+    "title": "Streets Of Minneapolis",
+    "artist": "Bruce Springsteen"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 316,
-    "music_entries": 293,
+    "total_entries": 318,
+    "music_entries": 295,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -123,6 +123,11 @@
       {
         "artist": "Machine Gun Kelly, glaive",
         "title": "More than life",
+        "plays": 2
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Auf Auf",
         "plays": 2
       },
       {
@@ -348,11 +353,6 @@
       {
         "artist": "Frans",
         "title": "If I Were Sorry",
-        "plays": 1
-      },
-      {
-        "artist": "Silbermond",
-        "title": "Auf Auf",
         "plays": 1
       },
       {
@@ -1253,6 +1253,11 @@
       {
         "artist": "Coldplay X BTS",
         "title": "My Universe",
+        "plays": 1
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
         "plays": 1
       }
     ],
