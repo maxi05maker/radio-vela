@@ -232,5 +232,29 @@
     "played_at": "2026-09-02 08:57:50 +0200",
     "title": "Lass mich los",
     "artist": "Madeline Juno"
+  },
+  {
+    "key": "2026-09-02 09:01:41 +0200|Back To Me|The Marías",
+    "played_at": "2026-09-02 09:01:41 +0200",
+    "title": "Back To Me",
+    "artist": "The Marías"
+  },
+  {
+    "key": "2026-09-02 09:05:17 +0200|Jennifer Check|Mia Morgan",
+    "played_at": "2026-09-02 09:05:17 +0200",
+    "title": "Jennifer Check",
+    "artist": "Mia Morgan"
+  },
+  {
+    "key": "2026-09-02 09:09:13 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-02 09:09:13 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-02 09:12:02 +0200|War Of Kings|Europe",
+    "played_at": "2026-09-02 09:12:02 +0200",
+    "title": "War Of Kings",
+    "artist": "Europe"
   }
 ]

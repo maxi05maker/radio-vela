@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 39,
-    "music_entries": 36,
+    "total_entries": 43,
+    "music_entries": 39,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -178,6 +178,21 @@
       {
         "artist": "Madeline Juno",
         "title": "Lass mich los",
+        "plays": 1
+      },
+      {
+        "artist": "The Marías",
+        "title": "Back To Me",
+        "plays": 1
+      },
+      {
+        "artist": "Mia Morgan",
+        "title": "Jennifer Check",
+        "plays": 1
+      },
+      {
+        "artist": "Europe",
+        "title": "War Of Kings",
         "plays": 1
       }
     ],
