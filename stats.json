@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 318,
-    "music_entries": 295,
+    "total_entries": 321,
+    "music_entries": 298,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -136,6 +136,11 @@
         "plays": 2
       },
       {
+        "artist": "Justin Bieber",
+        "title": "Ghost",
+        "plays": 2
+      },
+      {
         "artist": "Bausa, Philipp Dittberner",
         "title": "Wolke 4",
         "plays": 2
@@ -198,6 +203,11 @@
       {
         "artist": "Travis Scott",
         "title": "Escape Plan",
+        "plays": 2
+      },
+      {
+        "artist": "Liz",
+        "title": "Cashflow feat. Big Toe",
         "plays": 2
       },
       {
@@ -358,11 +368,6 @@
       {
         "artist": "Bebe Rexha & David Guetta",
         "title": "Sad Girls",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Bieber",
-        "title": "Ghost",
         "plays": 1
       },
       {
@@ -841,11 +846,6 @@
         "plays": 1
       },
       {
-        "artist": "Liz",
-        "title": "Cashflow feat. Big Toe",
-        "plays": 1
-      },
-      {
         "artist": "Sophia Kennedy",
         "title": "Rodeo",
         "plays": 1
@@ -1258,6 +1258,11 @@
       {
         "artist": "Bruce Springsteen",
         "title": "Streets Of Minneapolis",
+        "plays": 1
+      },
+      {
+        "artist": "Mono Inc.",
+        "title": "Abendrot",
         "plays": 1
       }
     ],
