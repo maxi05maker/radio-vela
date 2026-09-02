@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 401,
-    "music_entries": 375,
+    "total_entries": 405,
+    "music_entries": 379,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -38,6 +38,11 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 3
+      },
+      {
+        "artist": "Foals",
+        "title": "2001",
         "plays": 3
       },
       {
@@ -253,11 +258,6 @@
       {
         "artist": "Yungblud",
         "title": "Memories",
-        "plays": 2
-      },
-      {
-        "artist": "Foals",
-        "title": "2001",
         "plays": 2
       },
       {
@@ -1368,6 +1368,21 @@
       {
         "artist": "Kygo feat. DNCE",
         "title": "Dancing Feet",
+        "plays": 1
+      },
+      {
+        "artist": "Betterov",
+        "title": "In Meinem Zimmer Spielen Sich Dramen Ab",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Irgendwo da draußen",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba & Makko",
+        "title": "Fucked Up feat. makko",
         "plays": 1
       }
     ],
