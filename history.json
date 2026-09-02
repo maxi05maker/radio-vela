@@ -1798,5 +1798,23 @@
     "played_at": "2026-09-02 22:45:39 +0200",
     "title": "Arcadia",
     "artist": "Lana Del Rey"
+  },
+  {
+    "key": "2026-09-02 22:51:24 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-09-02 22:51:24 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-02 22:51:59 +0200|Ego|Halsey",
+    "played_at": "2026-09-02 22:51:59 +0200",
+    "title": "Ego",
+    "artist": "Halsey"
+  },
+  {
+    "key": "2026-09-02 22:55:18 +0200|Play With Fire|Nico Santos",
+    "played_at": "2026-09-02 22:55:18 +0200",
+    "title": "Play With Fire",
+    "artist": "Nico Santos"
   }
 ]

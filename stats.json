@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 300,
-    "music_entries": 279,
+    "total_entries": 303,
+    "music_entries": 281,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1188,6 +1188,16 @@
       {
         "artist": "Lana Del Rey",
         "title": "Arcadia",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Ego",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Play With Fire",
         "plays": 1
       }
     ],
