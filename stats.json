@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 24,
-    "music_entries": 22,
+    "total_entries": 31,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -113,6 +113,41 @@
       {
         "artist": "Erica Banks",
         "title": "Designer",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "SS26",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Line",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "I Prevail",
+        "title": "Fake",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Dead Dance",
         "plays": 1
       }
     ],

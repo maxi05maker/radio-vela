@@ -142,5 +142,47 @@
     "played_at": "2026-09-02 08:14:59 +0200",
     "title": "Designer",
     "artist": "Erica Banks"
+  },
+  {
+    "key": "2026-09-02 08:17:17 +0200|SS26|Charli xcx",
+    "played_at": "2026-09-02 08:17:17 +0200",
+    "title": "SS26",
+    "artist": "Charli xcx"
+  },
+  {
+    "key": "2026-09-02 08:20:04 +0200|Hold Me Closer|Elton John, Britney Spears",
+    "played_at": "2026-09-02 08:20:04 +0200",
+    "title": "Hold Me Closer",
+    "artist": "Elton John, Britney Spears"
+  },
+  {
+    "key": "2026-09-02 08:23:27 +0200|Allein sein|Mario Novembre",
+    "played_at": "2026-09-02 08:23:27 +0200",
+    "title": "Allein sein",
+    "artist": "Mario Novembre"
+  },
+  {
+    "key": "2026-09-02 08:26:27 +0200|The Line|Twenty One Pilots",
+    "played_at": "2026-09-02 08:26:27 +0200",
+    "title": "The Line",
+    "artist": "Twenty One Pilots"
+  },
+  {
+    "key": "2026-09-02 08:29:39 +0200|Sunshine|OneRepublic",
+    "played_at": "2026-09-02 08:29:39 +0200",
+    "title": "Sunshine",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-09-02 08:32:23 +0200|Fake|I Prevail",
+    "played_at": "2026-09-02 08:32:23 +0200",
+    "title": "Fake",
+    "artist": "I Prevail"
+  },
+  {
+    "key": "2026-09-02 08:35:15 +0200|The Dead Dance|Lady Gaga",
+    "played_at": "2026-09-02 08:35:15 +0200",
+    "title": "The Dead Dance",
+    "artist": "Lady Gaga"
   }
 ]
