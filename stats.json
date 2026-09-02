@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 405,
-    "music_entries": 379,
+    "total_entries": 408,
+    "music_entries": 382,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -386,6 +386,11 @@
         "plays": 2
       },
       {
+        "artist": "Adel Tawil",
+        "title": "Autobahn",
+        "plays": 2
+      },
+      {
         "artist": "Blond",
         "title": "Du und Ich",
         "plays": 2
@@ -658,11 +663,6 @@
       {
         "artist": "Rita Ora",
         "title": "Your Song",
-        "plays": 1
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Autobahn",
         "plays": 1
       },
       {
@@ -1383,6 +1383,16 @@
       {
         "artist": "Nina Chuba & Makko",
         "title": "Fucked Up feat. makko",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Good 4 You",
+        "plays": 1
+      },
+      {
+        "artist": "Joe Bonamassa",
+        "title": "Tattoo'd Lady",
         "plays": 1
       }
     ],
