@@ -1786,5 +1786,17 @@
     "played_at": "2026-09-02 22:38:22 +0200",
     "title": "Lose Control",
     "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-09-02 22:41:53 +0200|The Fate of Ophelia|Taylor Swift",
+    "played_at": "2026-09-02 22:41:53 +0200",
+    "title": "The Fate of Ophelia",
+    "artist": "Taylor Swift"
+  },
+  {
+    "key": "2026-09-02 22:45:39 +0200|Arcadia|Lana Del Rey",
+    "played_at": "2026-09-02 22:45:39 +0200",
+    "title": "Arcadia",
+    "artist": "Lana Del Rey"
   }
 ]
