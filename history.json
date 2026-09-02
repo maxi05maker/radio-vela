@@ -976,5 +976,23 @@
     "played_at": "2026-09-02 15:27:40 +0200",
     "title": "77",
     "artist": "Billy Idol feat. Avril Lavigne"
+  },
+  {
+    "key": "2026-09-02 15:30:34 +0200|Love Again|Dua Lipa",
+    "played_at": "2026-09-02 15:30:34 +0200",
+    "title": "Love Again",
+    "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-09-02 15:34:52 +0200|Liebe auf Distanz|Revolverheld feat. Antje Schomaker",
+    "played_at": "2026-09-02 15:34:52 +0200",
+    "title": "Liebe auf Distanz",
+    "artist": "Revolverheld feat. Antje Schomaker"
+  },
+  {
+    "key": "2026-09-02 15:38:09 +0200|Wolke 4|Bausa, Philipp Dittberner",
+    "played_at": "2026-09-02 15:38:09 +0200",
+    "title": "Wolke 4",
+    "artist": "Bausa, Philipp Dittberner"
   }
 ]

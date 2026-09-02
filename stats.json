@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 163,
-    "music_entries": 151,
+    "total_entries": 166,
+    "music_entries": 154,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -41,6 +41,16 @@
         "plays": 2
       },
       {
+        "artist": "Dua Lipa",
+        "title": "Love Again",
+        "plays": 2
+      },
+      {
+        "artist": "Revolverheld feat. Antje Schomaker",
+        "title": "Liebe auf Distanz",
+        "plays": 2
+      },
+      {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 2
@@ -48,6 +58,11 @@
       {
         "artist": "Erica Banks",
         "title": "Designer",
+        "plays": 2
+      },
+      {
+        "artist": "Bausa, Philipp Dittberner",
+        "title": "Wolke 4",
         "plays": 2
       },
       {
@@ -91,11 +106,6 @@
         "plays": 1
       },
       {
-        "artist": "Dua Lipa",
-        "title": "Love Again",
-        "plays": 1
-      },
-      {
         "artist": "Miley Cyrus",
         "title": "End of the world",
         "plays": 1
@@ -103,11 +113,6 @@
       {
         "artist": "LEA & Casper",
         "title": "Schwarz",
-        "plays": 1
-      },
-      {
-        "artist": "Revolverheld feat. Antje Schomaker",
-        "title": "Liebe auf Distanz",
         "plays": 1
       },
       {
@@ -298,11 +303,6 @@
       {
         "artist": "Justin Bieber",
         "title": "Ghost",
-        "plays": 1
-      },
-      {
-        "artist": "Bausa, Philipp Dittberner",
-        "title": "Wolke 4",
         "plays": 1
       },
       {
