@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 337,
-    "music_entries": 313,
+    "total_entries": 339,
+    "music_entries": 315,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1313,6 +1313,16 @@
       {
         "artist": "Alyzah",
         "title": "Shoot",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "There's Nothing Holdin' Me Back",
+        "plays": 1
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "All About That Bass",
         "plays": 1
       }
     ],
