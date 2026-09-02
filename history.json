@@ -628,5 +628,29 @@
     "played_at": "2026-09-02 12:20:37 +0200",
     "title": "Smooth",
     "artist": "Cro"
+  },
+  {
+    "key": "2026-09-02 12:23:38 +0200|Shotgun|George Ezra",
+    "played_at": "2026-09-02 12:23:38 +0200",
+    "title": "Shotgun",
+    "artist": "George Ezra"
+  },
+  {
+    "key": "2026-09-02 12:26:59 +0200|Priceless ft. LISA|Maroon 5",
+    "played_at": "2026-09-02 12:26:59 +0200",
+    "title": "Priceless ft. LISA",
+    "artist": "Maroon 5"
+  },
+  {
+    "key": "2026-09-02 12:29:39 +0200|Eine Nacht|Ramon Roselly",
+    "played_at": "2026-09-02 12:29:39 +0200",
+    "title": "Eine Nacht",
+    "artist": "Ramon Roselly"
+  },
+  {
+    "key": "2026-09-02 12:33:09 +0200|Luxury Life feat. Coi Leray|Busta Rhymes",
+    "played_at": "2026-09-02 12:33:09 +0200",
+    "title": "Luxury Life feat. Coi Leray",
+    "artist": "Busta Rhymes"
   }
 ]
