@@ -2,12 +2,17 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 143,
-    "music_entries": 132,
+    "total_entries": 148,
+    "music_entries": 137,
     "songs": [
       {
         "artist": "The FAIM",
         "title": "Summer Is a Curse",
+        "plays": 2
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Catch And Release (Deepend Remix)",
         "plays": 2
       },
       {
@@ -38,11 +43,6 @@
       {
         "artist": "The Weeknd",
         "title": "Out Of Time",
-        "plays": 1
-      },
-      {
-        "artist": "Matt Simons",
-        "title": "Catch And Release (Deepend Remix)",
         "plays": 1
       },
       {
@@ -653,6 +653,26 @@
       {
         "artist": "Adel Tawil",
         "title": "Autobahn",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld",
+        "title": "Leichter",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Revolving door",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran, Lil Baby",
+        "title": "2step (feat. Lil Baby)",
+        "plays": 1
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
         "plays": 1
       }
     ],
