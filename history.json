@@ -598,5 +598,35 @@
     "played_at": "2026-09-02 12:05:54 +0200",
     "title": "Together",
     "artist": "David Guetta, Hypaton, Bonnie Tyler"
+  },
+  {
+    "key": "2026-09-02 12:08:28 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-09-02 12:08:28 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-09-02 12:12:24 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-02 12:12:24 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-02 12:15:07 +0200|Who's In Your Head|Jonas Brothers",
+    "played_at": "2026-09-02 12:15:07 +0200",
+    "title": "Who's In Your Head",
+    "artist": "Jonas Brothers"
+  },
+  {
+    "key": "2026-09-02 12:18:06 +0200|Sink Or Swim|OneRepublic",
+    "played_at": "2026-09-02 12:18:06 +0200",
+    "title": "Sink Or Swim",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-09-02 12:20:37 +0200|Smooth|Cro",
+    "played_at": "2026-09-02 12:20:37 +0200",
+    "title": "Smooth",
+    "artist": "Cro"
   }
 ]
