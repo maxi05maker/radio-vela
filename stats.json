@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 372,
-    "music_entries": 349,
+    "total_entries": 379,
+    "music_entries": 355,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -103,6 +103,11 @@
       {
         "artist": "Michael Schulte",
         "title": "Remember Me",
+        "plays": 2
+      },
+      {
+        "artist": "J Balvin",
+        "title": "Rio",
         "plays": 2
       },
       {
@@ -403,11 +408,6 @@
       {
         "artist": "sombr",
         "title": "Homewrecker",
-        "plays": 1
-      },
-      {
-        "artist": "J Balvin",
-        "title": "Rio",
         "plays": 1
       },
       {
@@ -1283,6 +1283,31 @@
       {
         "artist": "Machine Gun Kelly, glaive",
         "title": "More than life",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "When You're Gone",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine, Alison Goldfrapp",
+        "title": "Dream Machine",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Who's In Your Head",
+        "plays": 1
+      },
+      {
+        "artist": "The Strumbellas",
+        "title": "Spirits",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Henry, Come On",
         "plays": 1
       }
     ],
