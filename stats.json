@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 218,
-    "music_entries": 202,
+    "total_entries": 221,
+    "music_entries": 205,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -118,6 +118,11 @@
       {
         "artist": "Bausa, Philipp Dittberner",
         "title": "Wolke 4",
+        "plays": 2
+      },
+      {
+        "artist": "KAFFKIEZ",
+        "title": "Matilda",
         "plays": 2
       },
       {
@@ -333,11 +338,6 @@
       {
         "artist": "Justin Bieber",
         "title": "Ghost",
-        "plays": 1
-      },
-      {
-        "artist": "KAFFKIEZ",
-        "title": "Matilda",
         "plays": 1
       },
       {
@@ -868,6 +868,16 @@
       {
         "artist": "Harry Styles",
         "title": "Sign of the Times",
+        "plays": 1
+      },
+      {
+        "artist": "Drangsal",
+        "title": "Will ich nur dich",
+        "plays": 1
+      },
+      {
+        "artist": "Lorde",
+        "title": "What Was That",
         "plays": 1
       }
     ],

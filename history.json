@@ -1306,5 +1306,23 @@
     "played_at": "2026-09-02 18:22:21 +0200",
     "title": "Sign of the Times",
     "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-02 18:28:01 +0200|Will ich nur dich|Drangsal",
+    "played_at": "2026-09-02 18:28:01 +0200",
+    "title": "Will ich nur dich",
+    "artist": "Drangsal"
+  },
+  {
+    "key": "2026-09-02 18:30:33 +0200|What Was That|Lorde",
+    "played_at": "2026-09-02 18:30:33 +0200",
+    "title": "What Was That",
+    "artist": "Lorde"
+  },
+  {
+    "key": "2026-09-02 18:34:02 +0200|Matilda|KAFFKIEZ",
+    "played_at": "2026-09-02 18:34:02 +0200",
+    "title": "Matilda",
+    "artist": "KAFFKIEZ"
   }
 ]
