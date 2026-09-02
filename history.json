@@ -1744,5 +1744,29 @@
     "played_at": "2026-09-02 22:12:48 +0200",
     "title": "Bad Liar",
     "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-02 22:17:09 +0200|Physical|Dua Lipa",
+    "played_at": "2026-09-02 22:17:09 +0200",
+    "title": "Physical",
+    "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-09-02 22:20:21 +0200|Human (feat. Jesse & Joy)|Robbie Williams & Jesse & Joy",
+    "played_at": "2026-09-02 22:20:21 +0200",
+    "title": "Human (feat. Jesse & Joy)",
+    "artist": "Robbie Williams & Jesse & Joy"
+  },
+  {
+    "key": "2026-09-02 22:24:25 +0200|Can We Pretend|P!nk feat. Cash Cash",
+    "played_at": "2026-09-02 22:24:25 +0200",
+    "title": "Can We Pretend",
+    "artist": "P!nk feat. Cash Cash"
+  },
+  {
+    "key": "2026-09-02 22:28:06 +0200|Wenn das so bleibt|Apache 207",
+    "played_at": "2026-09-02 22:28:06 +0200",
+    "title": "Wenn das so bleibt",
+    "artist": "Apache 207"
   }
 ]
