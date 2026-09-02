@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 306,
-    "music_entries": 283,
+    "total_entries": 310,
+    "music_entries": 287,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -123,6 +123,11 @@
       {
         "artist": "Machine Gun Kelly, glaive",
         "title": "More than life",
+        "plays": 2
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
         "plays": 2
       },
       {
@@ -353,11 +358,6 @@
       {
         "artist": "Bebe Rexha & David Guetta",
         "title": "Sad Girls",
-        "plays": 1
-      },
-      {
-        "artist": "Shirin David",
-        "title": "Ich darf das",
         "plays": 1
       },
       {
@@ -1208,6 +1208,21 @@
       {
         "artist": "Camila Cabello",
         "title": "Godspeed",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "Giant Rooks",
+        "title": "Cold Wars",
+        "plays": 1
+      },
+      {
+        "artist": "Jackson Browne",
+        "title": "My Cleveland Heart",
         "plays": 1
       }
     ],
