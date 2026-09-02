@@ -5242,5 +5242,29 @@
     "played_at": "2026-09-02 06:20:09 +0200",
     "title": "Castle on the Hill",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-02 06:24:30 +0200|House featuring John Cale|Charli xcx",
+    "played_at": "2026-09-02 06:24:30 +0200",
+    "title": "House featuring John Cale",
+    "artist": "Charli xcx"
+  },
+  {
+    "key": "2026-09-02 06:27:48 +0200|Kernkraft 400 (A Better Day)|Topic & A7S",
+    "played_at": "2026-09-02 06:27:48 +0200",
+    "title": "Kernkraft 400 (A Better Day)",
+    "artist": "Topic & A7S"
+  },
+  {
+    "key": "2026-09-02 06:30:34 +0200|Faded Love|Leony",
+    "played_at": "2026-09-02 06:30:34 +0200",
+    "title": "Faded Love",
+    "artist": "Leony"
+  },
+  {
+    "key": "2026-09-02 06:33:01 +0200|Goldy|Eels",
+    "played_at": "2026-09-02 06:33:01 +0200",
+    "title": "Goldy",
+    "artist": "Eels"
   }
 ]

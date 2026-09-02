@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 420,
-    "music_entries": 393,
+    "total_entries": 424,
+    "music_entries": 397,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1433,6 +1433,26 @@
       {
         "artist": "Fritz Kalkbrenner",
         "title": "It Ain't Over",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "House featuring John Cale",
+        "plays": 1
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 1
+      },
+      {
+        "artist": "Eels",
+        "title": "Goldy",
         "plays": 1
       }
     ],
