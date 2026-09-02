@@ -5170,5 +5170,17 @@
     "played_at": "2026-09-02 05:37:54 +0200",
     "title": "Tattoo'd Lady",
     "artist": "Joe Bonamassa"
+  },
+  {
+    "key": "2026-09-02 05:43:25 +0200|Drei Uhr Nachts|Mark Forster, LEA",
+    "played_at": "2026-09-02 05:43:25 +0200",
+    "title": "Drei Uhr Nachts",
+    "artist": "Mark Forster, LEA"
+  },
+  {
+    "key": "2026-09-02 05:46:06 +0200|Shotgun|George Ezra",
+    "played_at": "2026-09-02 05:46:06 +0200",
+    "title": "Shotgun",
+    "artist": "George Ezra"
   }
 ]
