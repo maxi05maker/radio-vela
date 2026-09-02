@@ -1324,5 +1324,23 @@
     "played_at": "2026-09-02 18:34:02 +0200",
     "title": "Matilda",
     "artist": "KAFFKIEZ"
+  },
+  {
+    "key": "2026-09-02 18:37:23 +0200|Abreißen|Revolverheld",
+    "played_at": "2026-09-02 18:37:23 +0200",
+    "title": "Abreißen",
+    "artist": "Revolverheld"
+  },
+  {
+    "key": "2026-09-02 18:40:13 +0200|True Believer|Biffy Clyro",
+    "played_at": "2026-09-02 18:40:13 +0200",
+    "title": "True Believer",
+    "artist": "Biffy Clyro"
+  },
+  {
+    "key": "2026-09-02 18:44:40 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-02 18:44:40 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
   }
 ]

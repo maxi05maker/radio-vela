@@ -2,9 +2,14 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 221,
-    "music_entries": 205,
+    "total_entries": 224,
+    "music_entries": 208,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 3
+      },
       {
         "artist": "Gryffin & OneRepublic",
         "title": "You Were Loved",
@@ -63,11 +68,6 @@
       {
         "artist": "Revolverheld feat. Antje Schomaker",
         "title": "Liebe auf Distanz",
-        "plays": 2
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 2
       },
       {
@@ -879,12 +879,22 @@
         "artist": "Lorde",
         "title": "What Was That",
         "plays": 1
+      },
+      {
+        "artist": "Revolverheld",
+        "title": "Abreißen",
+        "plays": 1
+      },
+      {
+        "artist": "Biffy Clyro",
+        "title": "True Believer",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Gryffin & OneRepublic",
-      "title": "You Were Loved",
-      "plays": 2
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 3
     }
   }
 }
