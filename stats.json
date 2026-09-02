@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 386,
-    "music_entries": 361,
+    "total_entries": 392,
+    "music_entries": 367,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -386,6 +386,16 @@
         "plays": 2
       },
       {
+        "artist": "Cro",
+        "title": "Smooth",
+        "plays": 2
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "The Moon Cave",
+        "plays": 2
+      },
+      {
         "artist": "Harry Styles",
         "title": "American Girls",
         "plays": 2
@@ -393,6 +403,11 @@
       {
         "artist": "Lady Gaga",
         "title": "The Joker",
+        "plays": 2
+      },
+      {
+        "artist": "Brendan Benson",
+        "title": "Ain't No Good",
         "plays": 2
       },
       {
@@ -761,11 +776,6 @@
         "plays": 1
       },
       {
-        "artist": "Cro",
-        "title": "Smooth",
-        "plays": 1
-      },
-      {
         "artist": "Twenty One Pilots",
         "title": "The Line",
         "plays": 1
@@ -861,11 +871,6 @@
         "plays": 1
       },
       {
-        "artist": "Gorillaz",
-        "title": "The Moon Cave",
-        "plays": 1
-      },
-      {
         "artist": "Stray Kids",
         "title": "RUN IT",
         "plays": 1
@@ -948,11 +953,6 @@
       {
         "artist": "Stromae",
         "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
-        "plays": 1
-      },
-      {
-        "artist": "Brendan Benson",
-        "title": "Ain't No Good",
         "plays": 1
       },
       {
@@ -1333,6 +1333,21 @@
       {
         "artist": "HUGEL & Dawty & Preston Harris",
         "title": "Loosen Up",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "Laurell",
+        "title": "Habit",
+        "plays": 1
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Baby Blue Movie",
         "plays": 1
       }
     ],
