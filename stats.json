@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 57,
-    "music_entries": 53,
+    "total_entries": 62,
+    "music_entries": 57,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -263,6 +263,26 @@
       {
         "artist": "Rag'n'Bone Man",
         "title": "All You Ever Wanted",
+        "plays": 1
+      },
+      {
+        "artist": "Machine Gun Kelly, glaive",
+        "title": "More than life",
+        "plays": 1
+      },
+      {
+        "artist": "amaarae",
+        "title": "S.M.O.",
+        "plays": 1
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Auf Auf",
         "plays": 1
       }
     ],
