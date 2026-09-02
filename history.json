@@ -82,5 +82,23 @@
     "played_at": "2026-09-02 07:40:18 +0200",
     "title": "Fallin",
     "artist": "CRO"
+  },
+  {
+    "key": "2026-09-02 07:42:49 +0200|Secrets|Beak>",
+    "played_at": "2026-09-02 07:42:49 +0200",
+    "title": "Secrets",
+    "artist": "Beak>"
+  },
+  {
+    "key": "2026-09-02 07:47:43 +0200|Anxious|Dennis Lloyd",
+    "played_at": "2026-09-02 07:47:43 +0200",
+    "title": "Anxious",
+    "artist": "Dennis Lloyd"
+  },
+  {
+    "key": "2026-09-02 07:50:40 +0200|Love Again|Dua Lipa",
+    "played_at": "2026-09-02 07:50:40 +0200",
+    "title": "Love Again",
+    "artist": "Dua Lipa"
   }
 ]
