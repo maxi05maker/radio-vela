@@ -2,13 +2,13 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 336,
-    "music_entries": 316,
+    "total_entries": 338,
+    "music_entries": 318,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
-        "plays": 5
+        "plays": 6
       },
       {
         "artist": "Tom Gregory",
@@ -363,6 +363,11 @@
       {
         "artist": "Clueso",
         "title": "Deja-Vu",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "American Girls",
         "plays": 2
       },
       {
@@ -876,11 +881,6 @@
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "American Girls",
-        "plays": 1
-      },
-      {
         "artist": "LISA FEAT. DOJA CAT & RAYE",
         "title": "BORN AGAIN",
         "plays": 1
@@ -1164,7 +1164,7 @@
     "top_song": {
       "artist": "Bryan Adams",
       "title": "So Happy It Hurts",
-      "plays": 5
+      "plays": 6
     }
   }
 }
