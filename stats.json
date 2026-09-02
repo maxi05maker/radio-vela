@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 398,
-    "music_entries": 373,
+    "total_entries": 401,
+    "music_entries": 375,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -418,6 +418,11 @@
       {
         "artist": "The 1975",
         "title": "Girls",
+        "plays": 2
+      },
+      {
+        "artist": "Muse",
+        "title": "Something Human",
         "plays": 2
       },
       {
@@ -996,11 +1001,6 @@
         "plays": 1
       },
       {
-        "artist": "Muse",
-        "title": "Something Human",
-        "plays": 1
-      },
-      {
         "artist": "STARSET, Breaking Benjamin, Judge & Jury",
         "title": "Waiting on the sky to change",
         "plays": 1
@@ -1363,6 +1363,11 @@
       {
         "artist": "Tori Amos",
         "title": "Song of Sorrow",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo feat. DNCE",
+        "title": "Dancing Feet",
         "plays": 1
       }
     ],
