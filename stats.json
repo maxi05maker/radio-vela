@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 14,
+    "music_entries": 13,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -48,6 +48,26 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+        "title": "Waiting on the sky to change",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Pazifik",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Flugmodus",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Fallin",
         "plays": 1
       }
     ],
