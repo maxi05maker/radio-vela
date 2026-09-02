@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 424,
-    "music_entries": 397,
+    "total_entries": 427,
+    "music_entries": 400,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -406,6 +406,11 @@
         "plays": 2
       },
       {
+        "artist": "Stray Kids",
+        "title": "RUN IT",
+        "plays": 2
+      },
+      {
         "artist": "Harry Styles",
         "title": "American Girls",
         "plays": 2
@@ -438,6 +443,11 @@
       {
         "artist": "Revolverheld",
         "title": "Leichter",
+        "plays": 2
+      },
+      {
+        "artist": "Pusha T",
+        "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 2
       },
       {
@@ -886,11 +896,6 @@
         "plays": 1
       },
       {
-        "artist": "Stray Kids",
-        "title": "RUN IT",
-        "plays": 1
-      },
-      {
         "artist": "Viagra Boys",
         "title": "Uno 2",
         "plays": 1
@@ -1063,11 +1068,6 @@
       {
         "artist": "Hundreds",
         "title": "Fallacies",
-        "plays": 1
-      },
-      {
-        "artist": "Pusha T",
-        "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 1
       },
       {
@@ -1453,6 +1453,11 @@
       {
         "artist": "Eels",
         "title": "Goldy",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran, Lil Baby",
+        "title": "2step (feat. Lil Baby)",
         "plays": 1
       }
     ],
