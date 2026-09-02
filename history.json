@@ -1672,5 +1672,23 @@
     "played_at": "2026-09-02 21:35:56 +0200",
     "title": "My Number",
     "artist": "Foals"
+  },
+  {
+    "key": "2026-09-02 21:39:59 +0200|FICKA|Sarah Connor",
+    "played_at": "2026-09-02 21:39:59 +0200",
+    "title": "FICKA",
+    "artist": "Sarah Connor"
+  },
+  {
+    "key": "2026-09-02 21:42:24 +0200|Easy On Me|Adele",
+    "played_at": "2026-09-02 21:42:24 +0200",
+    "title": "Easy On Me",
+    "artist": "Adele"
+  },
+  {
+    "key": "2026-09-02 21:46:02 +0200|Willkommen Zuruck|Clueso feat. Andreas Bourani",
+    "played_at": "2026-09-02 21:46:02 +0200",
+    "title": "Willkommen Zuruck",
+    "artist": "Clueso feat. Andreas Bourani"
   }
 ]
