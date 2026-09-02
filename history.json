@@ -4,5 +4,29 @@
     "played_at": "2026-09-02 07:00:51 +0200",
     "title": "You Were Loved",
     "artist": "Gryffin & OneRepublic"
+  },
+  {
+    "key": "2026-09-02 07:04:33 +0200|Interstellar (Zwischen den Sternen)|Sarah Connor & Sido",
+    "played_at": "2026-09-02 07:04:33 +0200",
+    "title": "Interstellar (Zwischen den Sternen)",
+    "artist": "Sarah Connor & Sido"
+  },
+  {
+    "key": "2026-09-02 07:07:02 +0200|With You|Michael Schulte",
+    "played_at": "2026-09-02 07:07:02 +0200",
+    "title": "With You",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-02 07:10:15 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-02 07:10:15 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-02 07:12:59 +0200|Summer Is a Curse|The FAIM",
+    "played_at": "2026-09-02 07:12:59 +0200",
+    "title": "Summer Is a Curse",
+    "artist": "The FAIM"
   }
 ]

@@ -2,12 +2,27 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 1,
-    "music_entries": 1,
+    "total_entries": 5,
+    "music_entries": 4,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
         "title": "You Were Loved",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor & Sido",
+        "title": "Interstellar (Zwischen den Sternen)",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "With You",
+        "plays": 1
+      },
+      {
+        "artist": "The FAIM",
+        "title": "Summer Is a Curse",
         "plays": 1
       }
     ],
