@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 177,
-    "music_entries": 164,
+    "total_entries": 181,
+    "music_entries": 167,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -83,6 +83,16 @@
       {
         "artist": "Michael Schulte",
         "title": "Here Goes Nothing",
+        "plays": 2
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Real Face",
+        "plays": 2
+      },
+      {
+        "artist": "Europe",
+        "title": "War Of Kings",
         "plays": 2
       },
       {
@@ -171,11 +181,6 @@
         "plays": 1
       },
       {
-        "artist": "Sofia Portanet",
-        "title": "Real Face",
-        "plays": 1
-      },
-      {
         "artist": "Wynne",
         "title": "Neverstoplovingthisshit",
         "plays": 1
@@ -193,11 +198,6 @@
       {
         "artist": "Mia Morgan",
         "title": "Jennifer Check",
-        "plays": 1
-      },
-      {
-        "artist": "Europe",
-        "title": "War Of Kings",
         "plays": 1
       },
       {
@@ -738,6 +738,11 @@
       {
         "artist": "Dr. Hook",
         "title": "Sexy Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "NLE The Great",
+        "title": "KO",
         "plays": 1
       }
     ],
