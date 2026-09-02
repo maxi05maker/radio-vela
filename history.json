@@ -1876,5 +1876,23 @@
     "played_at": "2026-09-02 23:27:39 +0200",
     "title": "Ciao Adios",
     "artist": "Anne-Marie"
+  },
+  {
+    "key": "2026-09-02 23:30:59 +0200|Mañana|Alvaro Soler feat. Cali Y El Dandee",
+    "played_at": "2026-09-02 23:30:59 +0200",
+    "title": "Mañana",
+    "artist": "Alvaro Soler feat. Cali Y El Dandee"
+  },
+  {
+    "key": "2026-09-02 23:34:31 +0200|The Ghouls|Midlake",
+    "played_at": "2026-09-02 23:34:31 +0200",
+    "title": "The Ghouls",
+    "artist": "Midlake"
+  },
+  {
+    "key": "2026-09-02 23:38:31 +0200|My Universe|Coldplay X BTS",
+    "played_at": "2026-09-02 23:38:31 +0200",
+    "title": "My Universe",
+    "artist": "Coldplay X BTS"
   }
 ]
