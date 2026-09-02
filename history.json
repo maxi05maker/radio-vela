@@ -1174,5 +1174,41 @@
     "played_at": "2026-09-02 17:12:55 +0200",
     "title": "Escape Plan",
     "artist": "Travis Scott"
+  },
+  {
+    "key": "2026-09-02 17:15:24 +0200|Small Steps|Tom Gregory",
+    "played_at": "2026-09-02 17:15:24 +0200",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-09-02 17:18:10 +0200|BELOHNEN  feat. Ski Aggu, Bausa & BUNT.|FILLY",
+    "played_at": "2026-09-02 17:18:10 +0200",
+    "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
+    "artist": "FILLY"
+  },
+  {
+    "key": "2026-09-02 17:20:21 +0200|Strip|Lena",
+    "played_at": "2026-09-02 17:20:21 +0200",
+    "title": "Strip",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-09-02 17:23:08 +0200|Tonight (feat. Ezra Koenig)|Phoenix feat. Ezra Koenig",
+    "played_at": "2026-09-02 17:23:08 +0200",
+    "title": "Tonight (feat. Ezra Koenig)",
+    "artist": "Phoenix feat. Ezra Koenig"
+  },
+  {
+    "key": "2026-09-02 17:27:12 +0200|No One Noticed|The Marías",
+    "played_at": "2026-09-02 17:27:12 +0200",
+    "title": "No One Noticed",
+    "artist": "The Marías"
+  },
+  {
+    "key": "2026-09-02 17:31:09 +0200|Eine gute Nachricht|Danger Dan",
+    "played_at": "2026-09-02 17:31:09 +0200",
+    "title": "Eine gute Nachricht",
+    "artist": "Danger Dan"
   }
 ]

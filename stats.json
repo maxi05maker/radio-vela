@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 196,
-    "music_entries": 181,
+    "total_entries": 202,
+    "music_entries": 187,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -93,6 +93,11 @@
       {
         "artist": "Europe",
         "title": "War Of Kings",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -223,11 +228,6 @@
       {
         "artist": "Blond",
         "title": "Mein Boy",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -798,6 +798,31 @@
       {
         "artist": "Travis Scott",
         "title": "Escape Plan",
+        "plays": 1
+      },
+      {
+        "artist": "FILLY",
+        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
+        "plays": 1
+      },
+      {
+        "artist": "Phoenix feat. Ezra Koenig",
+        "title": "Tonight (feat. Ezra Koenig)",
+        "plays": 1
+      },
+      {
+        "artist": "The Marías",
+        "title": "No One Noticed",
+        "plays": 1
+      },
+      {
+        "artist": "Danger Dan",
+        "title": "Eine gute Nachricht",
         "plays": 1
       }
     ],
