@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 360,
-    "music_entries": 338,
+    "total_entries": 364,
+    "music_entries": 341,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -371,8 +371,18 @@
         "plays": 2
       },
       {
+        "artist": "Blond",
+        "title": "Du und Ich",
+        "plays": 2
+      },
+      {
         "artist": "Harry Styles",
         "title": "American Girls",
+        "plays": 2
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Joker",
         "plays": 2
       },
       {
@@ -676,11 +686,6 @@
         "plays": 1
       },
       {
-        "artist": "Blond",
-        "title": "Du und Ich",
-        "plays": 1
-      },
-      {
         "artist": "Miley Cyrus",
         "title": "End of the world",
         "plays": 1
@@ -898,11 +903,6 @@
       {
         "artist": "Inhaler",
         "title": "A Question of You",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "The Joker",
         "plays": 1
       },
       {
@@ -1248,6 +1248,11 @@
       {
         "artist": "Lil Tjay",
         "title": "In My Head",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
         "plays": 1
       }
     ],
