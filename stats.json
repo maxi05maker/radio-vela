@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 202,
-    "music_entries": 187,
+    "total_entries": 207,
+    "music_entries": 192,
     "songs": [
       {
         "artist": "Gryffin & OneRepublic",
@@ -101,6 +101,11 @@
         "plays": 2
       },
       {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 2
+      },
+      {
         "artist": "Machine Gun Kelly, glaive",
         "title": "More than life",
         "plays": 2
@@ -118,6 +123,16 @@
       {
         "artist": "Ramon Roselly",
         "title": "Eine Nacht",
+        "plays": 2
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 2
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Why Why Why",
         "plays": 2
       },
       {
@@ -263,11 +278,6 @@
       {
         "artist": "Jessie Ware",
         "title": "Superbloom",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
@@ -641,16 +651,6 @@
         "plays": 1
       },
       {
-        "artist": "Leony",
-        "title": "Faded Love",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Why Why Why",
-        "plays": 1
-      },
-      {
         "artist": "Adel Tawil",
         "title": "Autobahn",
         "plays": 1
@@ -823,6 +823,16 @@
       {
         "artist": "Danger Dan",
         "title": "Eine gute Nachricht",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "LIFETIMES",
         "plays": 1
       }
     ],
