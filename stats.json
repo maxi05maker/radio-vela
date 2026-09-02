@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 93,
-    "music_entries": 86,
+    "total_entries": 96,
+    "music_entries": 88,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -428,6 +428,16 @@
       {
         "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
         "title": "In Your Arms (For An Angel)",
+        "plays": 1
+      },
+      {
+        "artist": "Lune",
+        "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
         "plays": 1
       }
     ],
