@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 310,
-    "music_entries": 287,
+    "total_entries": 313,
+    "music_entries": 290,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1223,6 +1223,21 @@
       {
         "artist": "Jackson Browne",
         "title": "My Cleveland Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Sophie & The Giants",
+        "title": "Golden Nights",
+        "plays": 1
+      },
+      {
+        "artist": "Robyn",
+        "title": "Talk To Me",
+        "plays": 1
+      },
+      {
+        "artist": "Anne-Marie",
+        "title": "Ciao Adios",
         "plays": 1
       }
     ],

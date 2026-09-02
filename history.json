@@ -1858,5 +1858,23 @@
     "played_at": "2026-09-02 23:18:00 +0200",
     "title": "My Cleveland Heart",
     "artist": "Jackson Browne"
+  },
+  {
+    "key": "2026-09-02 23:21:20 +0200|Golden Nights|Sophie & The Giants",
+    "played_at": "2026-09-02 23:21:20 +0200",
+    "title": "Golden Nights",
+    "artist": "Sophie & The Giants"
+  },
+  {
+    "key": "2026-09-02 23:24:19 +0200|Talk To Me|Robyn",
+    "played_at": "2026-09-02 23:24:19 +0200",
+    "title": "Talk To Me",
+    "artist": "Robyn"
+  },
+  {
+    "key": "2026-09-02 23:27:39 +0200|Ciao Adios|Anne-Marie",
+    "played_at": "2026-09-02 23:27:39 +0200",
+    "title": "Ciao Adios",
+    "artist": "Anne-Marie"
   }
 ]
