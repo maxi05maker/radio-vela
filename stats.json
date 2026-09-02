@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 392,
-    "music_entries": 367,
+    "total_entries": 395,
+    "music_entries": 370,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -68,6 +68,11 @@
       {
         "artist": "Michael Schulte",
         "title": "You Let Me Walk Alone",
+        "plays": 2
+      },
+      {
+        "artist": "Shirin David",
+        "title": "küss mich doch",
         "plays": 2
       },
       {
@@ -411,14 +416,14 @@
         "plays": 2
       },
       {
-        "artist": "Erica Banks",
-        "title": "Designer",
+        "artist": "The 1975",
+        "title": "Girls",
         "plays": 2
       },
       {
-        "artist": "Shirin David",
-        "title": "küss mich doch",
-        "plays": 1
+        "artist": "Erica Banks",
+        "title": "Designer",
+        "plays": 2
       },
       {
         "artist": "Clueso",
@@ -971,11 +976,6 @@
         "plays": 1
       },
       {
-        "artist": "The 1975",
-        "title": "Girls",
-        "plays": 1
-      },
-      {
         "artist": "Dua Lipa",
         "title": "Love Again",
         "plays": 1
@@ -1348,6 +1348,11 @@
       {
         "artist": "Cigarettes After Sex",
         "title": "Baby Blue Movie",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
         "plays": 1
       }
     ],
