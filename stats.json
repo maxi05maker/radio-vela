@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 36,
-    "music_entries": 34,
+    "total_entries": 39,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -168,6 +168,16 @@
       {
         "artist": "Sofia Portanet",
         "title": "Real Face",
+        "plays": 1
+      },
+      {
+        "artist": "Wynne",
+        "title": "Neverstoplovingthisshit",
+        "plays": 1
+      },
+      {
+        "artist": "Madeline Juno",
+        "title": "Lass mich los",
         "plays": 1
       }
     ],
