@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 230,
-    "music_entries": 213,
+    "total_entries": 234,
+    "music_entries": 217,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -153,6 +153,11 @@
       {
         "artist": "Shawn Mendes",
         "title": "Why Why Why",
+        "plays": 2
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
         "plays": 2
       },
       {
@@ -676,11 +681,6 @@
         "plays": 1
       },
       {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
-        "plays": 1
-      },
-      {
         "artist": "SDP & Clueso",
         "title": "Die schönsten Tage",
         "plays": 1
@@ -908,6 +908,21 @@
       {
         "artist": "Sabrina Carpenter",
         "title": "Busy Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Power",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Safe",
+        "plays": 1
+      },
+      {
+        "artist": "Joe Bonamassa & Ivan Neville",
+        "title": "Ghetto Woman",
         "plays": 1
       }
     ],
