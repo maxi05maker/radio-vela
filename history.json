@@ -1588,5 +1588,23 @@
     "played_at": "2026-09-02 20:51:41 +0200",
     "title": "So Happy It Hurts",
     "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-02 20:55:15 +0200|Escape Plan|Travis Scott",
+    "played_at": "2026-09-02 20:55:15 +0200",
+    "title": "Escape Plan",
+    "artist": "Travis Scott"
+  },
+  {
+    "key": "2026-09-02 20:57:44 +0200|Bandaids|Katy Perry",
+    "played_at": "2026-09-02 20:57:44 +0200",
+    "title": "Bandaids",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-09-02 21:00:49 +0200|Auf & Ab|Montez",
+    "played_at": "2026-09-02 21:00:49 +0200",
+    "title": "Auf & Ab",
+    "artist": "Montez"
   }
 ]

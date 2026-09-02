@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 265,
-    "music_entries": 246,
+    "total_entries": 268,
+    "music_entries": 249,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -178,6 +178,11 @@
       {
         "artist": "Ski Aggu",
         "title": "mietfrei (feat. SIRA)",
+        "plays": 2
+      },
+      {
+        "artist": "Travis Scott",
+        "title": "Escape Plan",
         "plays": 2
       },
       {
@@ -796,11 +801,6 @@
         "plays": 1
       },
       {
-        "artist": "Travis Scott",
-        "title": "Escape Plan",
-        "plays": 1
-      },
-      {
         "artist": "FILLY",
         "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
         "plays": 1
@@ -1038,6 +1038,16 @@
       {
         "artist": "Leony",
         "title": "Don't Worry",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Bandaids",
+        "plays": 1
+      },
+      {
+        "artist": "Montez",
+        "title": "Auf & Ab",
         "plays": 1
       }
     ],
