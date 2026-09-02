@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 67,
-    "music_entries": 62,
+    "total_entries": 72,
+    "music_entries": 66,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -308,6 +308,26 @@
       {
         "artist": "KAFFKIEZ",
         "title": "Matilda",
+        "plays": 1
+      },
+      {
+        "artist": "The Strumbellas",
+        "title": "Spirits",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Die With A Smile (feat. Bruno Mars)",
+        "plays": 1
+      },
+      {
+        "artist": "ClockClock",
+        "title": "Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Marshmello & Jonas Brothers",
+        "title": "Slow Motion",
         "plays": 1
       }
     ],

@@ -400,5 +400,35 @@
     "played_at": "2026-09-02 10:30:05 +0200",
     "title": "Matilda",
     "artist": "KAFFKIEZ"
+  },
+  {
+    "key": "2026-09-02 10:33:26 +0200|Spirits|The Strumbellas",
+    "played_at": "2026-09-02 10:33:26 +0200",
+    "title": "Spirits",
+    "artist": "The Strumbellas"
+  },
+  {
+    "key": "2026-09-02 10:36:51 +0200|Die With A Smile (feat. Bruno Mars)|Lady Gaga",
+    "played_at": "2026-09-02 10:36:51 +0200",
+    "title": "Die With A Smile (feat. Bruno Mars)",
+    "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-02 10:41:01 +0200|Sorry|ClockClock",
+    "played_at": "2026-09-02 10:41:01 +0200",
+    "title": "Sorry",
+    "artist": "ClockClock"
+  },
+  {
+    "key": "2026-09-02 10:43:57 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-09-02 10:43:57 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-02 10:44:33 +0200|Slow Motion|Marshmello & Jonas Brothers",
+    "played_at": "2026-09-02 10:44:33 +0200",
+    "title": "Slow Motion",
+    "artist": "Marshmello & Jonas Brothers"
   }
 ]
