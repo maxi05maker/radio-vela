@@ -1474,5 +1474,41 @@
     "played_at": "2026-09-02 19:56:21 +0200",
     "title": "Lass mich los",
     "artist": "Madeline Juno"
+  },
+  {
+    "key": "2026-09-02 20:00:11 +0200|Power over Me|Dermot Kennedy",
+    "played_at": "2026-09-02 20:00:11 +0200",
+    "title": "Power over Me",
+    "artist": "Dermot Kennedy"
+  },
+  {
+    "key": "2026-09-02 20:03:35 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-02 20:03:35 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-02 20:06:26 +0200|That’s So True|Gracie Abrams",
+    "played_at": "2026-09-02 20:06:26 +0200",
+    "title": "That’s So True",
+    "artist": "Gracie Abrams"
+  },
+  {
+    "key": "2026-09-02 20:09:13 +0200|Anxious|Dennis Lloyd",
+    "played_at": "2026-09-02 20:09:13 +0200",
+    "title": "Anxious",
+    "artist": "Dennis Lloyd"
+  },
+  {
+    "key": "2026-09-02 20:12:09 +0200|Best Friend|Saweetie Feat. Doja Cat & Katja Krasavice",
+    "played_at": "2026-09-02 20:12:09 +0200",
+    "title": "Best Friend",
+    "artist": "Saweetie Feat. Doja Cat & Katja Krasavice"
+  },
+  {
+    "key": "2026-09-02 20:15:35 +0200|Rejoice|Def Leppard",
+    "played_at": "2026-09-02 20:15:35 +0200",
+    "title": "Rejoice",
+    "artist": "Def Leppard"
   }
 ]
