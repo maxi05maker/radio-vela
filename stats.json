@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 415,
-    "music_entries": 389,
+    "total_entries": 420,
+    "music_entries": 393,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -18,6 +18,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 4
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
         "plays": 4
       },
       {
@@ -58,11 +63,6 @@
       {
         "artist": "CRO",
         "title": "Fallin",
-        "plays": 3
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Castle on the Hill",
         "plays": 3
       },
       {
@@ -433,6 +433,11 @@
       {
         "artist": "Erica Banks",
         "title": "Designer",
+        "plays": 2
+      },
+      {
+        "artist": "Revolverheld",
+        "title": "Leichter",
         "plays": 2
       },
       {
@@ -1016,11 +1021,6 @@
         "plays": 1
       },
       {
-        "artist": "Revolverheld",
-        "title": "Leichter",
-        "plays": 1
-      },
-      {
         "artist": "Vanessa Mai",
         "title": "Aus & Vorbei",
         "plays": 1
@@ -1423,6 +1423,16 @@
       {
         "artist": "NLE The Great",
         "title": "KO",
+        "plays": 1
+      },
+      {
+        "artist": "ABBA",
+        "title": "Little Things",
+        "plays": 1
+      },
+      {
+        "artist": "Fritz Kalkbrenner",
+        "title": "It Ain't Over",
         "plays": 1
       }
     ],
