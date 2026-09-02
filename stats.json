@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 277,
-    "music_entries": 257,
+    "total_entries": 279,
+    "music_entries": 259,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1083,6 +1083,16 @@
       {
         "artist": "Madonna",
         "title": "Danceteria",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Beautiful Trauma",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "My Number",
         "plays": 1
       }
     ],
