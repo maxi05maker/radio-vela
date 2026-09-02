@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 148,
-    "music_entries": 137,
+    "total_entries": 151,
+    "music_entries": 140,
     "songs": [
       {
         "artist": "The FAIM",
@@ -18,6 +18,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
+        "artist": "Erica Banks",
+        "title": "Designer",
         "plays": 2
       },
       {
@@ -108,11 +113,6 @@
       {
         "artist": "Tyla & Zara Larsson",
         "title": "SHE DID IT AGAIN",
-        "plays": 1
-      },
-      {
-        "artist": "Erica Banks",
-        "title": "Designer",
         "plays": 1
       },
       {
@@ -673,6 +673,16 @@
       {
         "artist": "Luis Fonsi feat. Demi Lovato",
         "title": "Échame La Culpa",
+        "plays": 1
+      },
+      {
+        "artist": "SDP & Clueso",
+        "title": "Die schönsten Tage",
+        "plays": 1
+      },
+      {
+        "artist": "Lucinda Williams",
+        "title": "Low Life",
         "plays": 1
       }
     ],
