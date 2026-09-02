@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 272,
-    "music_entries": 252,
+    "total_entries": 275,
+    "music_entries": 255,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1058,6 +1058,21 @@
       {
         "artist": "Michael Patrick Kelly x Rea Garvey",
         "title": "Best Bad Friend",
+        "plays": 1
+      },
+      {
+        "artist": "Jeremias",
+        "title": "Ich mags",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
+        "plays": 1
+      },
+      {
+        "artist": "Yungblud",
+        "title": "Memories",
         "plays": 1
       }
     ],
