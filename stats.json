@@ -2,8 +2,8 @@
   "2026-09-01 07:00": {
     "period_start": "2026-09-01T07:00:00+02:00",
     "period_end": "2026-09-02T07:00:00+02:00",
-    "total_entries": 357,
-    "music_entries": 335,
+    "total_entries": 360,
+    "music_entries": 338,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -1233,6 +1233,21 @@
       {
         "artist": "Lina",
         "title": "Klippe",
+        "plays": 1
+      },
+      {
+        "artist": "One-T, YWY, Nika",
+        "title": "The Way To Love (feat. YWY, Nika)",
+        "plays": 1
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Lil Tjay",
+        "title": "In My Head",
         "plays": 1
       }
     ],
