@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 46,
-    "music_entries": 42,
+    "total_entries": 49,
+    "music_entries": 45,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -208,6 +208,21 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Tyler Ballgame",
+        "title": "I Believe In Love",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Less Than Zero",
         "plays": 1
       }
     ],
