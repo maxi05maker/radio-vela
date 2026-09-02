@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 82,
-    "music_entries": 75,
+    "total_entries": 86,
+    "music_entries": 79,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -373,6 +373,26 @@
       {
         "artist": "Remy Ma",
         "title": "On The Radar Freestyle",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "Island",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "3 Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Muse",
+        "title": "Something Human",
         "plays": 1
       }
     ],
