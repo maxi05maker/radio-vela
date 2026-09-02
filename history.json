@@ -1342,5 +1342,23 @@
     "played_at": "2026-09-02 18:44:40 +0200",
     "title": "So Happy It Hurts",
     "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-02 18:48:14 +0200|mietfrei (feat. SIRA)|Ski Aggu",
+    "played_at": "2026-09-02 18:48:14 +0200",
+    "title": "mietfrei (feat. SIRA)",
+    "artist": "Ski Aggu"
+  },
+  {
+    "key": "2026-09-02 18:50:35 +0200|Tyla - IS IT|Tyla",
+    "played_at": "2026-09-02 18:50:35 +0200",
+    "title": "Tyla - IS IT",
+    "artist": "Tyla"
+  },
+  {
+    "key": "2026-09-02 18:53:16 +0200|Maschin|Bilderbuch",
+    "played_at": "2026-09-02 18:53:16 +0200",
+    "title": "Maschin",
+    "artist": "Bilderbuch"
   }
 ]
