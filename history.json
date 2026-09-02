@@ -754,5 +754,23 @@
     "played_at": "2026-09-02 13:26:37 +0200",
     "title": "Slow Motion",
     "artist": "Alessia Cara"
+  },
+  {
+    "key": "2026-09-02 13:30:01 +0200|Rockstars|Malik Harris",
+    "played_at": "2026-09-02 13:30:01 +0200",
+    "title": "Rockstars",
+    "artist": "Malik Harris"
+  },
+  {
+    "key": "2026-09-02 13:33:00 +0200|Rag Doll|Aerosmith",
+    "played_at": "2026-09-02 13:33:00 +0200",
+    "title": "Rag Doll",
+    "artist": "Aerosmith"
+  },
+  {
+    "key": "2026-09-02 13:37:27 +0200|Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)|Stromae",
+    "played_at": "2026-09-02 13:37:27 +0200",
+    "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+    "artist": "Stromae"
   }
 ]
