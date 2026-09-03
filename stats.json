@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 337,
-    "music_entries": 314,
+    "total_entries": 341,
+    "music_entries": 317,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -341,6 +341,11 @@
         "plays": 2
       },
       {
+        "artist": "Alice Merton",
+        "title": "No Roots",
+        "plays": 2
+      },
+      {
         "artist": "Leony",
         "title": "Faded Love",
         "plays": 2
@@ -413,6 +418,11 @@
       {
         "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
         "title": "VIEWS",
+        "plays": 2
+      },
+      {
+        "artist": "ClockClock",
+        "title": "Sorry",
         "plays": 2
       },
       {
@@ -796,11 +806,6 @@
         "plays": 1
       },
       {
-        "artist": "Alice Merton",
-        "title": "No Roots",
-        "plays": 1
-      },
-      {
         "artist": "David Guetta",
         "title": "Never Going Home Tonight (feat. Alesso & Madison Love)",
         "plays": 1
@@ -883,11 +888,6 @@
       {
         "artist": "Halsey",
         "title": "Ego",
-        "plays": 1
-      },
-      {
-        "artist": "ClockClock",
-        "title": "Sorry",
         "plays": 1
       },
       {
@@ -1113,6 +1113,11 @@
       {
         "artist": "Lady Gaga",
         "title": "Die With A Smile (feat. Bruno Mars)",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
         "plays": 1
       }
     ],
