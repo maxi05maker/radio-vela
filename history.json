@@ -952,5 +952,29 @@
     "played_at": "2026-09-03 15:53:19 +0200",
     "title": "So Happy It Hurts",
     "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-03 15:56:53 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-09-03 15:56:53 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-03 15:56:55 +0200|Never Going Home Tonight (feat. Alesso & Madison Love)|David Guetta",
+    "played_at": "2026-09-03 15:56:55 +0200",
+    "title": "Never Going Home Tonight (feat. Alesso & Madison Love)",
+    "artist": "David Guetta"
+  },
+  {
+    "key": "2026-09-03 15:59:39 +0200|Throwback|Michael Patrick Kelly",
+    "played_at": "2026-09-03 15:59:39 +0200",
+    "title": "Throwback",
+    "artist": "Michael Patrick Kelly"
+  },
+  {
+    "key": "2026-09-03 16:02:07 +0200|Rockstars|Malik Harris",
+    "played_at": "2026-09-03 16:02:07 +0200",
+    "title": "Rockstars",
+    "artist": "Malik Harris"
   }
 ]
