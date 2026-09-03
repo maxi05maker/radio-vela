@@ -442,5 +442,29 @@
     "played_at": "2026-09-03 11:06:28 +0200",
     "title": "Confusion",
     "artist": "Electric Light Orchestra"
+  },
+  {
+    "key": "2026-09-03 11:10:09 +0200|Kings & Queens|Ava Max",
+    "played_at": "2026-09-03 11:10:09 +0200",
+    "title": "Kings & Queens",
+    "artist": "Ava Max"
+  },
+  {
+    "key": "2026-09-03 11:12:52 +0200|Beautiful People|David Guetta & Sia",
+    "played_at": "2026-09-03 11:12:52 +0200",
+    "title": "Beautiful People",
+    "artist": "David Guetta & Sia"
+  },
+  {
+    "key": "2026-09-03 11:15:59 +0200|Escapism.|RAYE, 070 Shake",
+    "played_at": "2026-09-03 11:15:59 +0200",
+    "title": "Escapism.",
+    "artist": "RAYE, 070 Shake"
+  },
+  {
+    "key": "2026-09-03 11:20:31 +0200|Follow You|Imagine Dragons",
+    "played_at": "2026-09-03 11:20:31 +0200",
+    "title": "Follow You",
+    "artist": "Imagine Dragons"
   }
 ]
