@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 219,
-    "music_entries": 204,
+    "total_entries": 221,
+    "music_entries": 206,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -18,6 +18,11 @@
       {
         "artist": "Ramon Roselly",
         "title": "Eine Nacht",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -293,11 +298,6 @@
       {
         "artist": "JENNIE, Dua Lipa",
         "title": "Handlebars",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 1
       },
       {
@@ -948,6 +948,11 @@
       {
         "artist": "JORIS",
         "title": "Nur die Musik",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Henry, Come On",
         "plays": 1
       }
     ],
