@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 356,
-    "music_entries": 331,
+    "total_entries": 358,
+    "music_entries": 333,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -186,6 +186,11 @@
         "plays": 2
       },
       {
+        "artist": "Laurell",
+        "title": "Habit",
+        "plays": 2
+      },
+      {
         "artist": "Jonathan Jeremiah",
         "title": "Kolkata Bear",
         "plays": 2
@@ -243,6 +248,11 @@
       {
         "artist": "Lena",
         "title": "Strip",
+        "plays": 2
+      },
+      {
+        "artist": "Phoenix feat. Ezra Koenig",
+        "title": "Tonight (feat. Ezra Koenig)",
         "plays": 2
       },
       {
@@ -601,11 +611,6 @@
         "plays": 1
       },
       {
-        "artist": "Laurell",
-        "title": "Habit",
-        "plays": 1
-      },
-      {
         "artist": "Kygo feat. DNCE",
         "title": "Dancing Feet",
         "plays": 1
@@ -823,11 +828,6 @@
       {
         "artist": "FILLY",
         "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
-        "plays": 1
-      },
-      {
-        "artist": "Phoenix feat. Ezra Koenig",
-        "title": "Tonight (feat. Ezra Koenig)",
         "plays": 1
       },
       {
