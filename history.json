@@ -832,5 +832,23 @@
     "played_at": "2026-09-03 14:46:48 +0200",
     "title": "End of the world",
     "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-09-03 14:50:58 +0200|Kernkraft 400 (A Better Day)|Topic & A7S",
+    "played_at": "2026-09-03 14:50:58 +0200",
+    "title": "Kernkraft 400 (A Better Day)",
+    "artist": "Topic & A7S"
+  },
+  {
+    "key": "2026-09-03 14:53:44 +0200|If I Were Sorry|Frans",
+    "played_at": "2026-09-03 14:53:44 +0200",
+    "title": "If I Were Sorry",
+    "artist": "Frans"
+  },
+  {
+    "key": "2026-09-03 14:56:48 +0200|São Paulo|The Weeknd/Anitta",
+    "played_at": "2026-09-03 14:56:48 +0200",
+    "title": "São Paulo",
+    "artist": "The Weeknd/Anitta"
   }
 ]
