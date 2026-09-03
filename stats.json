@@ -2,9 +2,14 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 134,
-    "music_entries": 125,
+    "total_entries": 139,
+    "music_entries": 130,
     "songs": [
+      {
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
+        "plays": 2
+      },
       {
         "artist": "Shirin David",
         "title": "Ich darf das",
@@ -248,11 +253,6 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Róisín Murphy",
-        "title": "Murphy's Law",
         "plays": 1
       },
       {
@@ -629,12 +629,32 @@
         "artist": "Aerosmith",
         "title": "Rag Doll",
         "plays": 1
+      },
+      {
+        "artist": "Genesis Owusu",
+        "title": "Stampede",
+        "plays": 1
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
+        "plays": 1
+      },
+      {
+        "artist": "Sleater-Kinney",
+        "title": "Worry With You",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "End of the world",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Shirin David",
-      "title": "Ich darf das",
-      "plays": 1
+      "artist": "Róisín Murphy",
+      "title": "Murphy's Law",
+      "plays": 2
     }
   }
 }
