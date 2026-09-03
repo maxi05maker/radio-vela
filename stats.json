@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 303,
-    "music_entries": 281,
+    "total_entries": 307,
+    "music_entries": 285,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -318,6 +318,16 @@
       {
         "artist": "Olivia Rodrigo",
         "title": "Good 4 You",
+        "plays": 2
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 2
+      },
+      {
+        "artist": "Motionless In White",
+        "title": "Another Life",
         "plays": 2
       },
       {
@@ -716,11 +726,6 @@
         "plays": 1
       },
       {
-        "artist": "Leony",
-        "title": "Faded Love",
-        "plays": 1
-      },
-      {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 1
@@ -758,11 +763,6 @@
       {
         "artist": "Jonas Brothers",
         "title": "Who's In Your Head",
-        "plays": 1
-      },
-      {
-        "artist": "Motionless In White",
-        "title": "Another Life",
         "plays": 1
       },
       {
@@ -1063,6 +1063,16 @@
       {
         "artist": "Frank Popp Ensemble",
         "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
+        "plays": 1
+      },
+      {
+        "artist": "Lil Nas X",
+        "title": "Late To Da Party feat YoungBoy NBA",
+        "plays": 1
+      },
+      {
+        "artist": "Fynn Kliemann",
+        "title": "TOD",
         "plays": 1
       }
     ],
