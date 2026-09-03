@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 169,
-    "music_entries": 157,
+    "total_entries": 173,
+    "music_entries": 161,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -758,6 +758,26 @@
       {
         "artist": "Jonas Brothers",
         "title": "Who's In Your Head",
+        "plays": 1
+      },
+      {
+        "artist": "Motionless In White",
+        "title": "Another Life",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "FICKA",
+        "plays": 1
+      },
+      {
+        "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
+        "title": "In Your Arms (For An Angel)",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "When You're Gone",
         "plays": 1
       }
     ],
