@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 257,
-    "music_entries": 240,
+    "total_entries": 259,
+    "music_entries": 242,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -998,6 +998,16 @@
       {
         "artist": "Blues Pills",
         "title": "Bad Choices",
+        "plays": 1
+      },
+      {
+        "artist": "Montez",
+        "title": "Überfall",
+        "plays": 1
+      },
+      {
+        "artist": "The Strumbellas",
+        "title": "Spirits",
         "plays": 1
       }
     ],
