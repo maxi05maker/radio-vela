@@ -2,9 +2,14 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 142,
-    "music_entries": 133,
+    "total_entries": 145,
+    "music_entries": 135,
     "songs": [
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 2
+      },
       {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
@@ -13,11 +18,6 @@
       {
         "artist": "Shirin David",
         "title": "Ich darf das",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -664,11 +664,16 @@
         "artist": "The Weeknd/Anitta",
         "title": "São Paulo",
         "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Róisín Murphy",
-      "title": "Murphy's Law",
+      "artist": "Harry Styles",
+      "title": "As It Was",
       "plays": 2
     }
   }
