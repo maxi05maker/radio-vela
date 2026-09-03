@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 173,
-    "music_entries": 161,
+    "total_entries": 178,
+    "music_entries": 166,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -33,6 +33,11 @@
       {
         "artist": "Shygirl",
         "title": "Coochie (A Bedtime Story)",
+        "plays": 2
+      },
+      {
+        "artist": "Cordae",
+        "title": "Sinister feat. Lil Wayne",
         "plays": 2
       },
       {
@@ -436,11 +441,6 @@
         "plays": 1
       },
       {
-        "artist": "Cordae",
-        "title": "Sinister feat. Lil Wayne",
-        "plays": 1
-      },
-      {
         "artist": "Mayberg",
         "title": "Der neue Stil meiner Generation",
         "plays": 1
@@ -778,6 +778,26 @@
       {
         "artist": "Shawn Mendes",
         "title": "When You're Gone",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "ALL MY LOVE",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Du und Ich",
+        "plays": 1
+      },
+      {
+        "artist": "Lisa",
+        "title": "Rockstar",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Der Sommer",
         "plays": 1
       }
     ],

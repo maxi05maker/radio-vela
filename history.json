@@ -1036,5 +1036,35 @@
     "played_at": "2026-09-03 16:31:33 +0200",
     "title": "When You're Gone",
     "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-03 16:34:24 +0200|ALL MY LOVE|Coldplay",
+    "played_at": "2026-09-03 16:34:24 +0200",
+    "title": "ALL MY LOVE",
+    "artist": "Coldplay"
+  },
+  {
+    "key": "2026-09-03 16:38:07 +0200|Du und Ich|Blond",
+    "played_at": "2026-09-03 16:38:07 +0200",
+    "title": "Du und Ich",
+    "artist": "Blond"
+  },
+  {
+    "key": "2026-09-03 16:41:23 +0200|Sinister feat. Lil Wayne|Cordae",
+    "played_at": "2026-09-03 16:41:23 +0200",
+    "title": "Sinister feat. Lil Wayne",
+    "artist": "Cordae"
+  },
+  {
+    "key": "2026-09-03 16:43:49 +0200|Rockstar|Lisa",
+    "played_at": "2026-09-03 16:43:49 +0200",
+    "title": "Rockstar",
+    "artist": "Lisa"
+  },
+  {
+    "key": "2026-09-03 16:46:07 +0200|Der Sommer|Bosse",
+    "played_at": "2026-09-03 16:46:07 +0200",
+    "title": "Der Sommer",
+    "artist": "Bosse"
   }
 ]
