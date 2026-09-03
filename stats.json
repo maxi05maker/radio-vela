@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 254,
-    "music_entries": 237,
+    "total_entries": 257,
+    "music_entries": 240,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -171,8 +171,18 @@
         "plays": 2
       },
       {
+        "artist": "Capital Cities",
+        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
+        "plays": 2
+      },
+      {
         "artist": "Travis Scott",
         "title": "Escape Plan",
+        "plays": 2
+      },
+      {
+        "artist": "Moderat",
+        "title": "Bad Kingdom",
         "plays": 2
       },
       {
@@ -506,11 +516,6 @@
         "plays": 1
       },
       {
-        "artist": "Capital Cities",
-        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
-        "plays": 1
-      },
-      {
         "artist": "L.A. Edwards",
         "title": "El Camino",
         "plays": 1
@@ -528,11 +533,6 @@
       {
         "artist": "Dennis Lloyd",
         "title": "Anxious",
-        "plays": 1
-      },
-      {
-        "artist": "Moderat",
-        "title": "Bad Kingdom",
         "plays": 1
       },
       {
@@ -993,6 +993,11 @@
       {
         "artist": "Shawn Mendes",
         "title": "Heart Of Gold",
+        "plays": 1
+      },
+      {
+        "artist": "Blues Pills",
+        "title": "Bad Choices",
         "plays": 1
       }
     ],

@@ -1522,5 +1522,23 @@
     "played_at": "2026-09-03 20:45:22 +0200",
     "title": "Only the Strong Survive",
     "artist": "Bruce Springsteen"
+  },
+  {
+    "key": "2026-09-03 20:48:22 +0200|Bad Choices|Blues Pills",
+    "played_at": "2026-09-03 20:48:22 +0200",
+    "title": "Bad Choices",
+    "artist": "Blues Pills"
+  },
+  {
+    "key": "2026-09-03 20:51:48 +0200|Bad Kingdom|Moderat",
+    "played_at": "2026-09-03 20:51:48 +0200",
+    "title": "Bad Kingdom",
+    "artist": "Moderat"
+  },
+  {
+    "key": "2026-09-03 20:56:11 +0200|Save & Sound [Tommie Sunshine & Live City Remix]|Capital Cities",
+    "played_at": "2026-09-03 20:56:11 +0200",
+    "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
+    "artist": "Capital Cities"
   }
 ]
