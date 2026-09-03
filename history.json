@@ -1432,5 +1432,35 @@
     "played_at": "2026-09-03 19:58:48 +0200",
     "title": "Broken Bells",
     "artist": "Greta Van Fleet"
+  },
+  {
+    "key": "2026-09-03 20:04:37 +0200|Rodeo|Sophia Kennedy",
+    "played_at": "2026-09-03 20:04:37 +0200",
+    "title": "Rodeo",
+    "artist": "Sophia Kennedy"
+  },
+  {
+    "key": "2026-09-03 20:08:26 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-03 20:08:26 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-03 20:11:14 +0200|Here Goes Nothing|Michael Schulte",
+    "played_at": "2026-09-03 20:11:14 +0200",
+    "title": "Here Goes Nothing",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-03 20:14:25 +0200|Beverly Hills|Weezer",
+    "played_at": "2026-09-03 20:14:25 +0200",
+    "title": "Beverly Hills",
+    "artist": "Weezer"
+  },
+  {
+    "key": "2026-09-03 20:17:45 +0200|Rebellion|R3HAB, Michael Patrick Kelly, Shaggy",
+    "played_at": "2026-09-03 20:17:45 +0200",
+    "title": "Rebellion",
+    "artist": "R3HAB, Michael Patrick Kelly, Shaggy"
   }
 ]

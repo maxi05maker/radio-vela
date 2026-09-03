@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 239,
-    "music_entries": 223,
+    "total_entries": 244,
+    "music_entries": 227,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -14,6 +14,16 @@
         "artist": "Tom Gregory",
         "title": "Small Steps",
         "plays": 3
+      },
+      {
+        "artist": "Sophia Kennedy",
+        "title": "Rodeo",
+        "plays": 2
+      },
+      {
+        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
+        "title": "Rebellion",
+        "plays": 2
       },
       {
         "artist": "Ramon Roselly",
@@ -96,6 +106,11 @@
         "plays": 2
       },
       {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
+        "plays": 2
+      },
+      {
         "artist": "Charli xcx",
         "title": "party 4 u",
         "plays": 2
@@ -123,6 +138,11 @@
       {
         "artist": "Travis Scott",
         "title": "Escape Plan",
+        "plays": 2
+      },
+      {
+        "artist": "Weezer",
+        "title": "Beverly Hills",
         "plays": 2
       },
       {
@@ -261,11 +281,6 @@
         "plays": 1
       },
       {
-        "artist": "Sophia Kennedy",
-        "title": "Rodeo",
-        "plays": 1
-      },
-      {
         "artist": "Max Giesinger",
         "title": "Der letzte Tag",
         "plays": 1
@@ -273,11 +288,6 @@
       {
         "artist": "The 1975",
         "title": "If You're Too Shy (Let Me Know)",
-        "plays": 1
-      },
-      {
-        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
-        "title": "Rebellion",
         "plays": 1
       },
       {
@@ -421,11 +431,6 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
-        "plays": 1
-      },
-      {
         "artist": "Maggie Rogers",
         "title": "In The Living Room",
         "plays": 1
@@ -538,11 +543,6 @@
       {
         "artist": "Lady Gaga",
         "title": "The Joker",
-        "plays": 1
-      },
-      {
-        "artist": "Weezer",
-        "title": "Beverly Hills",
         "plays": 1
       },
       {
