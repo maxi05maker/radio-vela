@@ -766,5 +766,41 @@
     "played_at": "2026-09-03 14:09:40 +0200",
     "title": "Real Face",
     "artist": "Sofia Portanet"
+  },
+  {
+    "key": "2026-09-03 14:12:31 +0200|Love Again|Dua Lipa",
+    "played_at": "2026-09-03 14:12:31 +0200",
+    "title": "Love Again",
+    "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-09-03 14:16:49 +0200|Unsicher|Nina Chuba",
+    "played_at": "2026-09-03 14:16:49 +0200",
+    "title": "Unsicher",
+    "artist": "Nina Chuba"
+  },
+  {
+    "key": "2026-09-03 14:19:08 +0200|Only the Strong Survive|Bruce Springsteen",
+    "played_at": "2026-09-03 14:19:08 +0200",
+    "title": "Only the Strong Survive",
+    "artist": "Bruce Springsteen"
+  },
+  {
+    "key": "2026-09-03 14:22:07 +0200|Drei Uhr Nachts|Mark Forster, LEA",
+    "played_at": "2026-09-03 14:22:07 +0200",
+    "title": "Drei Uhr Nachts",
+    "artist": "Mark Forster, LEA"
+  },
+  {
+    "key": "2026-09-03 14:24:48 +0200|Zu Viel Retro|Joris",
+    "played_at": "2026-09-03 14:24:48 +0200",
+    "title": "Zu Viel Retro",
+    "artist": "Joris"
+  },
+  {
+    "key": "2026-09-03 14:28:00 +0200|Rag Doll|Aerosmith",
+    "played_at": "2026-09-03 14:28:00 +0200",
+    "title": "Rag Doll",
+    "artist": "Aerosmith"
   }
 ]

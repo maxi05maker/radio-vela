@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 128,
-    "music_entries": 119,
+    "total_entries": 134,
+    "music_entries": 125,
     "songs": [
       {
         "artist": "Shirin David",
@@ -598,6 +598,36 @@
       {
         "artist": "Sofia Portanet",
         "title": "Real Face",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Love Again",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Unsicher",
+        "plays": 1
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Only the Strong Survive",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster, LEA",
+        "title": "Drei Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith",
+        "title": "Rag Doll",
         "plays": 1
       }
     ],
