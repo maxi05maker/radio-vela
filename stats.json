@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 333,
-    "music_entries": 310,
+    "total_entries": 337,
+    "music_entries": 314,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -346,6 +346,11 @@
         "plays": 2
       },
       {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
         "artist": "Michael Patrick Kelly",
         "title": "Throwback",
         "plays": 2
@@ -396,8 +401,23 @@
         "plays": 2
       },
       {
+        "artist": "Alex Cameron",
+        "title": "Best Life",
+        "plays": 2
+      },
+      {
         "artist": "Dennis Lloyd",
         "title": "Nevermind",
+        "plays": 2
+      },
+      {
+        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
+        "title": "VIEWS",
+        "plays": 2
+      },
+      {
+        "artist": "Tierra Whack",
+        "title": "Siren",
         "plays": 2
       },
       {
@@ -781,11 +801,6 @@
         "plays": 1
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
         "artist": "David Guetta",
         "title": "Never Going Home Tonight (feat. Alesso & Madison Love)",
         "plays": 1
@@ -856,11 +871,6 @@
         "plays": 1
       },
       {
-        "artist": "Alex Cameron",
-        "title": "Best Life",
-        "plays": 1
-      },
-      {
         "artist": "ROSÉ & Bruno Mars",
         "title": "APT.",
         "plays": 1
@@ -868,11 +878,6 @@
       {
         "artist": "Sugababes",
         "title": "Run For Cover",
-        "plays": 1
-      },
-      {
-        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
-        "title": "VIEWS",
         "plays": 1
       },
       {
@@ -908,11 +913,6 @@
       {
         "artist": "Alice Merton",
         "title": "Island",
-        "plays": 1
-      },
-      {
-        "artist": "Tierra Whack",
-        "title": "Siren",
         "plays": 1
       },
       {
