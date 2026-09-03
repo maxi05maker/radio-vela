@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 277,
-    "music_entries": 258,
+    "total_entries": 280,
+    "music_entries": 261,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -236,8 +236,18 @@
         "plays": 2
       },
       {
+        "artist": "Sofia Portanet",
+        "title": "Real Face",
+        "plays": 2
+      },
+      {
         "artist": "Bruce Springsteen",
         "title": "Only the Strong Survive",
+        "plays": 2
+      },
+      {
+        "artist": "Mark Forster, LEA",
+        "title": "Drei Uhr Nachts",
         "plays": 2
       },
       {
@@ -606,11 +616,6 @@
         "plays": 1
       },
       {
-        "artist": "Sofia Portanet",
-        "title": "Real Face",
-        "plays": 1
-      },
-      {
         "artist": "Dua Lipa",
         "title": "Love Again",
         "plays": 1
@@ -618,11 +623,6 @@
       {
         "artist": "Nina Chuba",
         "title": "Unsicher",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster, LEA",
-        "title": "Drei Uhr Nachts",
         "plays": 1
       },
       {
@@ -1033,6 +1033,11 @@
       {
         "artist": "Spelling",
         "title": "Portrait Of My Heart",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Sink Or Swim",
         "plays": 1
       }
     ],

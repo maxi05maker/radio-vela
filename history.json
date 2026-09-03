@@ -1660,5 +1660,23 @@
     "played_at": "2026-09-03 21:54:42 +0200",
     "title": "Sinister feat. Lil Wayne",
     "artist": "Cordae"
+  },
+  {
+    "key": "2026-09-03 21:57:08 +0200|Real Face|Sofia Portanet",
+    "played_at": "2026-09-03 21:57:08 +0200",
+    "title": "Real Face",
+    "artist": "Sofia Portanet"
+  },
+  {
+    "key": "2026-09-03 21:59:59 +0200|Sink Or Swim|OneRepublic",
+    "played_at": "2026-09-03 21:59:59 +0200",
+    "title": "Sink Or Swim",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-09-03 22:02:30 +0200|Drei Uhr Nachts|Mark Forster, LEA",
+    "played_at": "2026-09-03 22:02:30 +0200",
+    "title": "Drei Uhr Nachts",
+    "artist": "Mark Forster, LEA"
   }
 ]
