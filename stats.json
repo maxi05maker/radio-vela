@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 288,
-    "music_entries": 268,
+    "total_entries": 292,
+    "music_entries": 271,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -278,6 +278,11 @@
       {
         "artist": "Frans",
         "title": "If I Were Sorry",
+        "plays": 2
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
         "plays": 2
       },
       {
@@ -666,11 +671,6 @@
         "plays": 1
       },
       {
-        "artist": "The 1975",
-        "title": "Part Of The Band",
-        "plays": 1
-      },
-      {
         "artist": "THE BLACK CROWES",
         "title": "It's Like That",
         "plays": 1
@@ -1043,6 +1043,16 @@
       {
         "artist": "AYLIVA",
         "title": "Wie?",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Azizam",
+        "plays": 1
+      },
+      {
+        "artist": "Calum Scott",
+        "title": "My World",
         "plays": 1
       }
     ],
