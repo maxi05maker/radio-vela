@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 327,
-    "music_entries": 304,
+    "total_entries": 329,
+    "music_entries": 306,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -14,6 +14,11 @@
         "artist": "Tom Gregory",
         "title": "Small Steps",
         "plays": 4
+      },
+      {
+        "artist": "Ramon Roselly",
+        "title": "Eine Nacht",
+        "plays": 3
       },
       {
         "artist": "Róisín Murphy",
@@ -58,11 +63,6 @@
       {
         "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
         "title": "Rebellion",
-        "plays": 2
-      },
-      {
-        "artist": "Ramon Roselly",
-        "title": "Eine Nacht",
         "plays": 2
       },
       {
@@ -378,6 +378,11 @@
       {
         "artist": "Blond",
         "title": "Du und Ich",
+        "plays": 2
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
         "plays": 2
       },
       {
@@ -823,11 +828,6 @@
       {
         "artist": "Kygo feat. DNCE",
         "title": "Dancing Feet",
-        "plays": 1
-      },
-      {
-        "artist": "Lina",
-        "title": "Klippe",
         "plays": 1
       },
       {

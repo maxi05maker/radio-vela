@@ -1960,5 +1960,17 @@
     "played_at": "2026-09-04 00:29:39 +0200",
     "title": "More to Lose",
     "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-09-04 00:34:21 +0200|Eine Nacht|Ramon Roselly",
+    "played_at": "2026-09-04 00:34:21 +0200",
+    "title": "Eine Nacht",
+    "artist": "Ramon Roselly"
+  },
+  {
+    "key": "2026-09-04 00:37:51 +0200|Klippe|Lina",
+    "played_at": "2026-09-04 00:37:51 +0200",
+    "title": "Klippe",
+    "artist": "Lina"
   }
 ]
