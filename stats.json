@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 325,
-    "music_entries": 302,
+    "total_entries": 327,
+    "music_entries": 304,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -378,6 +378,11 @@
       {
         "artist": "Blond",
         "title": "Du und Ich",
+        "plays": 2
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Nevermind",
         "plays": 2
       },
       {
@@ -861,11 +866,6 @@
         "plays": 1
       },
       {
-        "artist": "Dennis Lloyd",
-        "title": "Nevermind",
-        "plays": 1
-      },
-      {
         "artist": "Sugababes",
         "title": "Run For Cover",
         "plays": 1
@@ -1098,6 +1098,11 @@
       {
         "artist": "Floodlights",
         "title": "Can You Feel It",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "More to Lose",
         "plays": 1
       }
     ],
