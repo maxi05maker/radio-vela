@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 264,
-    "music_entries": 245,
+    "total_entries": 266,
+    "music_entries": 247,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -123,6 +123,11 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 2
+      },
+      {
+        "artist": "Revolverheld feat. Antje Schomaker",
+        "title": "Liebe auf Distanz",
         "plays": 2
       },
       {
@@ -463,11 +468,6 @@
       {
         "artist": "David Guetta & Sia",
         "title": "Beautiful People",
-        "plays": 1
-      },
-      {
-        "artist": "Revolverheld feat. Antje Schomaker",
-        "title": "Liebe auf Distanz",
         "plays": 1
       },
       {
@@ -1013,6 +1013,11 @@
       {
         "artist": "Larkin Poe",
         "title": "If God Is A Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Shook",
         "plays": 1
       }
     ],
