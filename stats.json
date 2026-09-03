@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 332,
-    "music_entries": 309,
+    "total_entries": 333,
+    "music_entries": 310,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1108,6 +1108,11 @@
       {
         "artist": "The Darkness",
         "title": "The Longest Kiss",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Die With A Smile (feat. Bruno Mars)",
         "plays": 1
       }
     ],
