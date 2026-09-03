@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 234,
-    "music_entries": 218,
+    "total_entries": 236,
+    "music_entries": 220,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -103,6 +103,11 @@
       {
         "artist": "Nico & Vinz",
         "title": "Am I Wrong",
+        "plays": 2
+      },
+      {
+        "artist": "BOY",
+        "title": "Fit Back In",
         "plays": 2
       },
       {
@@ -433,11 +438,6 @@
       {
         "artist": "Greta Van Fleet",
         "title": "Broken Bells",
-        "plays": 1
-      },
-      {
-        "artist": "BOY",
-        "title": "Fit Back In",
         "plays": 1
       },
       {
@@ -973,6 +973,11 @@
       {
         "artist": "Swedish House Mafia  (feat. Alicia Keys)",
         "title": "Finally",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Shotgun",
         "plays": 1
       }
     ],
