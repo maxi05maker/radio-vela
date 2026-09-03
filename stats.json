@@ -2,13 +2,13 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 379,
-    "music_entries": 353,
+    "total_entries": 385,
+    "music_entries": 358,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
-        "plays": 4
+        "plays": 5
       },
       {
         "artist": "Michael Schulte, R3HAB",
@@ -313,6 +313,16 @@
       {
         "artist": "Ethel Cain",
         "title": "American Teenager",
+        "plays": 2
+      },
+      {
+        "artist": "BIA",
+        "title": "Millions",
+        "plays": 2
+      },
+      {
+        "artist": "Kaleo",
+        "title": "Way Down We Go",
         "plays": 2
       },
       {
@@ -1001,11 +1011,6 @@
         "plays": 1
       },
       {
-        "artist": "BIA",
-        "title": "Millions",
-        "plays": 1
-      },
-      {
         "artist": "ROSALÍA",
         "title": "Aute Cuture",
         "plays": 1
@@ -1023,11 +1028,6 @@
       {
         "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
         "title": "Don’t Call Me Angel (Charlie’s Angels)",
-        "plays": 1
-      },
-      {
-        "artist": "Kaleo",
-        "title": "Way Down We Go",
         "plays": 1
       },
       {
@@ -1389,12 +1389,22 @@
         "artist": "Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood",
         "title": "Secrets",
         "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Joker",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Bryan Adams",
       "title": "So Happy It Hurts",
-      "plays": 4
+      "plays": 5
     }
   }
 }
