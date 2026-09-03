@@ -2,12 +2,17 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 149,
-    "music_entries": 139,
+    "total_entries": 153,
+    "music_entries": 143,
     "songs": [
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -138,11 +143,6 @@
       {
         "artist": "Silbermond",
         "title": "Auf Auf",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -683,6 +683,21 @@
       {
         "artist": "Devin Townsend",
         "title": "Jainism",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Good 4 You",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Ready For Your Love",
         "plays": 1
       }
     ],
