@@ -1384,5 +1384,23 @@
     "played_at": "2026-09-03 19:31:29 +0200",
     "title": "Busy Woman",
     "artist": "Sabrina Carpenter"
+  },
+  {
+    "key": "2026-09-03 19:34:35 +0200|Follow You|Imagine Dragons",
+    "played_at": "2026-09-03 19:34:35 +0200",
+    "title": "Follow You",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-03 19:37:31 +0200|party 4 u|Charli xcx",
+    "played_at": "2026-09-03 19:37:31 +0200",
+    "title": "party 4 u",
+    "artist": "Charli xcx"
+  },
+  {
+    "key": "2026-09-03 19:42:27 +0200|Finally|Swedish House Mafia  (feat. Alicia Keys)",
+    "played_at": "2026-09-03 19:42:27 +0200",
+    "title": "Finally",
+    "artist": "Swedish House Mafia  (feat. Alicia Keys)"
   }
 ]

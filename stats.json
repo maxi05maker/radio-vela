@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 231,
-    "music_entries": 215,
+    "total_entries": 234,
+    "music_entries": 218,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -88,6 +88,16 @@
       {
         "artist": "RAYE, 070 Shake",
         "title": "Escapism.",
+        "plays": 2
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Follow You",
+        "plays": 2
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "party 4 u",
         "plays": 2
       },
       {
@@ -381,11 +391,6 @@
         "plays": 1
       },
       {
-        "artist": "Imagine Dragons",
-        "title": "Follow You",
-        "plays": 1
-      },
-      {
         "artist": "B For Better",
         "title": "In My Hood",
         "plays": 1
@@ -408,11 +413,6 @@
       {
         "artist": "Michael Schulte",
         "title": "Here Goes Nothing",
-        "plays": 1
-      },
-      {
-        "artist": "Charli xcx",
-        "title": "party 4 u",
         "plays": 1
       },
       {
@@ -968,6 +968,11 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia  (feat. Alicia Keys)",
+        "title": "Finally",
         "plays": 1
       }
     ],
