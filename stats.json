@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 71,
-    "music_entries": 67,
+    "total_entries": 74,
+    "music_entries": 69,
     "songs": [
       {
         "artist": "Shirin David",
@@ -338,6 +338,16 @@
       {
         "artist": "ROSALÍA",
         "title": "LLYLM",
+        "plays": 1
+      },
+      {
+        "artist": "DIIV",
+        "title": "Frog In Boiling Water",
+        "plays": 1
+      },
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Confusion",
         "plays": 1
       }
     ],
