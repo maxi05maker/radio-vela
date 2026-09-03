@@ -2308,5 +2308,29 @@
     "played_at": "2026-09-03 03:28:09 +0200",
     "title": "The Joker",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-03 03:31:04 +0200|Power|Ellie Goulding",
+    "played_at": "2026-09-03 03:31:04 +0200",
+    "title": "Power",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "key": "2026-09-03 03:34:16 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-09-03 03:34:16 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-09-03 03:36:34 +0200|Tonight|PinkPantheress",
+    "played_at": "2026-09-03 03:36:34 +0200",
+    "title": "Tonight",
+    "artist": "PinkPantheress"
+  },
+  {
+    "key": "2026-09-03 03:39:31 +0200|Abreißen|Revolverheld",
+    "played_at": "2026-09-03 03:39:31 +0200",
+    "title": "Abreißen",
+    "artist": "Revolverheld"
   }
 ]

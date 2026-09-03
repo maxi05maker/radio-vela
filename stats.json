@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 385,
-    "music_entries": 358,
+    "total_entries": 389,
+    "music_entries": 362,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -13,7 +13,7 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
-        "plays": 3
+        "plays": 4
       },
       {
         "artist": "STARSET, Breaking Benjamin, Judge & Jury",
@@ -306,8 +306,18 @@
         "plays": 2
       },
       {
+        "artist": "Revolverheld",
+        "title": "Abreißen",
+        "plays": 2
+      },
+      {
         "artist": "Bilderbuch",
         "title": "Maschin",
+        "plays": 2
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Power",
         "plays": 2
       },
       {
@@ -906,11 +916,6 @@
         "plays": 1
       },
       {
-        "artist": "Revolverheld",
-        "title": "Abreißen",
-        "plays": 1
-      },
-      {
         "artist": "Biffy Clyro",
         "title": "True Believer",
         "plays": 1
@@ -928,11 +933,6 @@
       {
         "artist": "Sabrina Carpenter",
         "title": "Busy Woman",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Power",
         "plays": 1
       },
       {
@@ -1398,6 +1398,11 @@
       {
         "artist": "Lady Gaga",
         "title": "The Joker",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Tonight",
         "plays": 1
       }
     ],
