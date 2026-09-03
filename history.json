@@ -658,5 +658,23 @@
     "played_at": "2026-09-03 13:08:49 +0200",
     "title": "Bad Kingdom",
     "artist": "Moderat"
+  },
+  {
+    "key": "2026-09-03 13:13:12 +0200|Ghost Town|Purple Disco Machine feat. Retrosonix",
+    "played_at": "2026-09-03 13:13:12 +0200",
+    "title": "Ghost Town",
+    "artist": "Purple Disco Machine feat. Retrosonix"
+  },
+  {
+    "key": "2026-09-03 13:16:59 +0200|Transparent Soul|Willow & Travis Barker",
+    "played_at": "2026-09-03 13:16:59 +0200",
+    "title": "Transparent Soul",
+    "artist": "Willow & Travis Barker"
+  },
+  {
+    "key": "2026-09-03 13:19:47 +0200|Flugmodus|Clueso",
+    "played_at": "2026-09-03 13:19:47 +0200",
+    "title": "Flugmodus",
+    "artist": "Clueso"
   }
 ]
