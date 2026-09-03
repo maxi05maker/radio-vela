@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 392,
-    "music_entries": 365,
+    "total_entries": 395,
+    "music_entries": 368,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -31,8 +31,18 @@
         "plays": 3
       },
       {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 3
+      },
+      {
         "artist": "Machine Gun Kelly, glaive",
         "title": "More than life",
+        "plays": 3
+      },
+      {
+        "artist": "Bausa, Philipp Dittberner",
+        "title": "Wolke 4",
         "plays": 3
       },
       {
@@ -151,11 +161,6 @@
         "plays": 2
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 2
-      },
-      {
         "artist": "Silbermond",
         "title": "Auf Auf",
         "plays": 2
@@ -168,11 +173,6 @@
       {
         "artist": "Justin Bieber",
         "title": "Ghost",
-        "plays": 2
-      },
-      {
-        "artist": "Bausa, Philipp Dittberner",
-        "title": "Wolke 4",
         "plays": 2
       },
       {
@@ -338,6 +338,11 @@
       {
         "artist": "Kaleo",
         "title": "Way Down We Go",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Patrick Kelly x Rea Garvey",
+        "title": "Best Bad Friend",
         "plays": 2
       },
       {
@@ -1058,11 +1063,6 @@
       {
         "artist": "Johannes Oerding",
         "title": "Mehr Glück als Verstand",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly x Rea Garvey",
-        "title": "Best Bad Friend",
         "plays": 1
       },
       {
