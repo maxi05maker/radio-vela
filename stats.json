@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 198,
-    "music_entries": 184,
+    "total_entries": 201,
+    "music_entries": 187,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -878,6 +878,21 @@
       {
         "artist": "ClockClock",
         "title": "Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Midlake",
+        "title": "The Ghouls",
+        "plays": 1
+      },
+      {
+        "artist": "Dove Cameron",
+        "title": "Boyfriend",
+        "plays": 1
+      },
+      {
+        "artist": "Dr. Hook",
+        "title": "Sexy Eyes",
         "plays": 1
       }
     ],
