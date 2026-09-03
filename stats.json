@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 284,
-    "music_entries": 264,
+    "total_entries": 288,
+    "music_entries": 268,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,6 +13,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 3
+      },
+      {
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
         "plays": 3
       },
       {
@@ -58,11 +63,6 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
-        "plays": 2
-      },
-      {
-        "artist": "Róisín Murphy",
-        "title": "Murphy's Law",
         "plays": 2
       },
       {
@@ -153,6 +153,11 @@
       {
         "artist": "Charli xcx",
         "title": "party 4 u",
+        "plays": 2
+      },
+      {
+        "artist": "Billy Idol",
+        "title": "Bitter Taste",
         "plays": 2
       },
       {
@@ -263,6 +268,11 @@
       {
         "artist": "Mark Forster, LEA",
         "title": "Drei Uhr Nachts",
+        "plays": 2
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
         "plays": 2
       },
       {
@@ -531,11 +541,6 @@
         "plays": 1
       },
       {
-        "artist": "Billy Idol",
-        "title": "Bitter Taste",
-        "plays": 1
-      },
-      {
         "artist": "Obongjayar",
         "title": "Sweet Danger",
         "plays": 1
@@ -653,11 +658,6 @@
       {
         "artist": "Miley Cyrus",
         "title": "End of the world",
-        "plays": 1
-      },
-      {
-        "artist": "Topic & A7S",
-        "title": "Kernkraft 400 (A Better Day)",
         "plays": 1
       },
       {
@@ -1038,6 +1038,11 @@
       {
         "artist": "OneRepublic",
         "title": "Sink Or Swim",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA",
+        "title": "Wie?",
         "plays": 1
       }
     ],

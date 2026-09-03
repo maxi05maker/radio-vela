@@ -1702,5 +1702,29 @@
     "played_at": "2026-09-03 22:14:18 +0200",
     "title": "Love Again",
     "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-09-03 22:18:36 +0200|Bitter Taste|Billy Idol",
+    "played_at": "2026-09-03 22:18:36 +0200",
+    "title": "Bitter Taste",
+    "artist": "Billy Idol"
+  },
+  {
+    "key": "2026-09-03 22:23:04 +0200|Wie?|AYLIVA",
+    "played_at": "2026-09-03 22:23:04 +0200",
+    "title": "Wie?",
+    "artist": "AYLIVA"
+  },
+  {
+    "key": "2026-09-03 22:25:57 +0200|Kernkraft 400 (A Better Day)|Topic & A7S",
+    "played_at": "2026-09-03 22:25:57 +0200",
+    "title": "Kernkraft 400 (A Better Day)",
+    "artist": "Topic & A7S"
+  },
+  {
+    "key": "2026-09-03 22:28:43 +0200|Murphy's Law|Róisín Murphy",
+    "played_at": "2026-09-03 22:28:43 +0200",
+    "title": "Murphy's Law",
+    "artist": "Róisín Murphy"
   }
 ]
