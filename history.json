@@ -1276,5 +1276,23 @@
     "played_at": "2026-09-03 18:28:44 +0200",
     "title": "Castle on the Hill",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-03 18:33:06 +0200|LLYLM|ROSALÍA",
+    "played_at": "2026-09-03 18:33:06 +0200",
+    "title": "LLYLM",
+    "artist": "ROSALÍA"
+  },
+  {
+    "key": "2026-09-03 18:35:59 +0200|Forbidden Road (From Better Man Original Motion Picture Soundtrack)|Robbie Williams",
+    "played_at": "2026-09-03 18:35:59 +0200",
+    "title": "Forbidden Road (From Better Man Original Motion Picture Soundtrack)",
+    "artist": "Robbie Williams"
+  },
+  {
+    "key": "2026-09-03 18:39:08 +0200|Deja Vu|Mike Singer",
+    "played_at": "2026-09-03 18:39:08 +0200",
+    "title": "Deja Vu",
+    "artist": "Mike Singer"
   }
 ]

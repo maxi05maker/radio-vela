@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 213,
-    "music_entries": 198,
+    "total_entries": 216,
+    "music_entries": 201,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -43,6 +43,16 @@
       {
         "artist": "Purple Disco Machine/Sophie and the Giants",
         "title": "In The Dark",
+        "plays": 2
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
+        "plays": 2
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "LLYLM",
         "plays": 2
       },
       {
@@ -338,16 +348,6 @@
       {
         "artist": "Felix Jaehn, Whitney Houston",
         "title": "Its Not Right But Its Okay",
-        "plays": 1
-      },
-      {
-        "artist": "Mike Singer",
-        "title": "Deja Vu",
-        "plays": 1
-      },
-      {
-        "artist": "ROSALÍA",
-        "title": "LLYLM",
         "plays": 1
       },
       {
@@ -933,6 +933,11 @@
       {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Forbidden Road (From Better Man Original Motion Picture Soundtrack)",
         "plays": 1
       }
     ],
