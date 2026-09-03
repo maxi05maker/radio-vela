@@ -1882,5 +1882,17 @@
     "played_at": "2026-09-03 23:51:57 +0200",
     "title": "77",
     "artist": "Billy Idol feat. Avril Lavigne"
+  },
+  {
+    "key": "2026-09-03 23:54:51 +0200|Rockstars|Malik Harris",
+    "played_at": "2026-09-03 23:54:51 +0200",
+    "title": "Rockstars",
+    "artist": "Malik Harris"
+  },
+  {
+    "key": "2026-09-03 23:57:50 +0200|Throwback|Michael Patrick Kelly",
+    "played_at": "2026-09-03 23:57:50 +0200",
+    "title": "Throwback",
+    "artist": "Michael Patrick Kelly"
   }
 ]

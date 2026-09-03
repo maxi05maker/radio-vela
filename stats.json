@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 314,
-    "music_entries": 292,
+    "total_entries": 316,
+    "music_entries": 294,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -333,6 +333,16 @@
       {
         "artist": "Leony",
         "title": "Faded Love",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
+        "plays": 2
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "Rockstars",
         "plays": 2
       },
       {
@@ -738,16 +748,6 @@
       {
         "artist": "David Guetta",
         "title": "Never Going Home Tonight (feat. Alesso & Madison Love)",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Throwback",
-        "plays": 1
-      },
-      {
-        "artist": "Malik Harris",
-        "title": "Rockstars",
         "plays": 1
       },
       {
