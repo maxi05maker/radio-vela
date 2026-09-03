@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 163,
-    "music_entries": 152,
+    "total_entries": 169,
+    "music_entries": 157,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,6 +13,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 2
+      },
+      {
+        "artist": "Ramon Roselly",
+        "title": "Eine Nacht",
         "plays": 2
       },
       {
@@ -243,11 +248,6 @@
       {
         "artist": "Katy Perry",
         "title": "LIFETIMES",
-        "plays": 1
-      },
-      {
-        "artist": "Ramon Roselly",
-        "title": "Eine Nacht",
         "plays": 1
       },
       {
@@ -738,6 +738,26 @@
       {
         "artist": "Malik Harris",
         "title": "Rockstars",
+        "plays": 1
+      },
+      {
+        "artist": "Warhaus",
+        "title": "No Surprise",
+        "plays": 1
+      },
+      {
+        "artist": "Laurell",
+        "title": "Habit",
+        "plays": 1
+      },
+      {
+        "artist": "Remy Ma",
+        "title": "On The Radar Freestyle",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Who's In Your Head",
         "plays": 1
       }
     ],
