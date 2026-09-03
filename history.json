@@ -208,5 +208,23 @@
     "played_at": "2026-09-03 08:58:32 +0200",
     "title": "Rebellion",
     "artist": "R3HAB, Michael Patrick Kelly, Shaggy"
+  },
+  {
+    "key": "2026-09-03 09:01:05 +0200|Ciao Adios|Anne-Marie",
+    "played_at": "2026-09-03 09:01:05 +0200",
+    "title": "Ciao Adios",
+    "artist": "Anne-Marie"
+  },
+  {
+    "key": "2026-09-03 09:04:25 +0200|The Kill|Thirty Seconds To Mars",
+    "played_at": "2026-09-03 09:04:25 +0200",
+    "title": "The Kill",
+    "artist": "Thirty Seconds To Mars"
+  },
+  {
+    "key": "2026-09-03 09:08:17 +0200|Abracadabra|Lady Gaga",
+    "played_at": "2026-09-03 09:08:17 +0200",
+    "title": "Abracadabra",
+    "artist": "Lady Gaga"
   }
 ]
