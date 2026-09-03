@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 269,
-    "music_entries": 250,
+    "total_entries": 272,
+    "music_entries": 253,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -186,6 +186,11 @@
         "plays": 2
       },
       {
+        "artist": "Dennis Lloyd",
+        "title": "Anxious",
+        "plays": 2
+      },
+      {
         "artist": "Moderat",
         "title": "Bad Kingdom",
         "plays": 2
@@ -208,6 +213,11 @@
       {
         "artist": "Ed Sheeran",
         "title": "Bad Habits",
+        "plays": 2
+      },
+      {
+        "artist": "CRO",
+        "title": "Fallin",
         "plays": 2
       },
       {
@@ -546,11 +556,6 @@
         "plays": 1
       },
       {
-        "artist": "Dennis Lloyd",
-        "title": "Anxious",
-        "plays": 1
-      },
-      {
         "artist": "Purple Disco Machine feat. Retrosonix",
         "title": "Ghost Town",
         "plays": 1
@@ -573,11 +578,6 @@
       {
         "artist": "Samara Cyn",
         "title": "Brand New Teeth feat. Smino",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "Fallin",
         "plays": 1
       },
       {
@@ -1023,6 +1023,11 @@
       {
         "artist": "Tate McRae",
         "title": "Just Keep Watching",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn JHart",
+        "title": "PRIDE",
         "plays": 1
       }
     ],

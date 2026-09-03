@@ -1612,5 +1612,23 @@
     "played_at": "2026-09-03 21:32:39 +0200",
     "title": "If I Were Sorry",
     "artist": "Frans"
+  },
+  {
+    "key": "2026-09-03 21:35:43 +0200|PRIDE|Felix Jaehn JHart",
+    "played_at": "2026-09-03 21:35:43 +0200",
+    "title": "PRIDE",
+    "artist": "Felix Jaehn JHart"
+  },
+  {
+    "key": "2026-09-03 21:38:21 +0200|Fallin|CRO",
+    "played_at": "2026-09-03 21:38:21 +0200",
+    "title": "Fallin",
+    "artist": "CRO"
+  },
+  {
+    "key": "2026-09-03 21:40:52 +0200|Anxious|Dennis Lloyd",
+    "played_at": "2026-09-03 21:40:52 +0200",
+    "title": "Anxious",
+    "artist": "Dennis Lloyd"
   }
 ]
