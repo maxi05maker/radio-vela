@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 249,
-    "music_entries": 232,
+    "total_entries": 254,
+    "music_entries": 237,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -14,6 +14,11 @@
         "artist": "Tom Gregory",
         "title": "Small Steps",
         "plays": 3
+      },
+      {
+        "artist": "FILLY",
+        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
+        "plays": 2
       },
       {
         "artist": "Sophia Kennedy",
@@ -156,6 +161,16 @@
         "plays": 2
       },
       {
+        "artist": "Felix Jaehn",
+        "title": "Do It Better (feat. Zoe Wees)",
+        "plays": 2
+      },
+      {
+        "artist": "Clueso",
+        "title": "Tanzen",
+        "plays": 2
+      },
+      {
         "artist": "Travis Scott",
         "title": "Escape Plan",
         "plays": 2
@@ -168,6 +183,11 @@
       {
         "artist": "Weezer",
         "title": "Beverly Hills",
+        "plays": 2
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Only the Strong Survive",
         "plays": 2
       },
       {
@@ -248,11 +268,6 @@
       {
         "artist": "Jeremias",
         "title": "Ich mags",
-        "plays": 1
-      },
-      {
-        "artist": "FILLY",
-        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
         "plays": 1
       },
       {
@@ -481,16 +496,6 @@
         "plays": 1
       },
       {
-        "artist": "Felix Jaehn",
-        "title": "Do It Better (feat. Zoe Wees)",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Tanzen",
-        "plays": 1
-      },
-      {
         "artist": "Avalanche",
         "title": "Down For The Count",
         "plays": 1
@@ -608,11 +613,6 @@
       {
         "artist": "Nina Chuba",
         "title": "Unsicher",
-        "plays": 1
-      },
-      {
-        "artist": "Bruce Springsteen",
-        "title": "Only the Strong Survive",
         "plays": 1
       },
       {
@@ -988,6 +988,11 @@
       {
         "artist": "Doechii",
         "title": "Bitch I'm Nice",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heart Of Gold",
         "plays": 1
       }
     ],

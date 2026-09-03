@@ -1492,5 +1492,35 @@
     "played_at": "2026-09-03 20:31:15 +0200",
     "title": "Lose Control",
     "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-09-03 20:34:45 +0200|Heart Of Gold|Shawn Mendes",
+    "played_at": "2026-09-03 20:34:45 +0200",
+    "title": "Heart Of Gold",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-03 20:37:36 +0200|Tanzen|Clueso",
+    "played_at": "2026-09-03 20:37:36 +0200",
+    "title": "Tanzen",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-03 20:40:24 +0200|Do It Better (feat. Zoe Wees)|Felix Jaehn",
+    "played_at": "2026-09-03 20:40:24 +0200",
+    "title": "Do It Better (feat. Zoe Wees)",
+    "artist": "Felix Jaehn"
+  },
+  {
+    "key": "2026-09-03 20:43:12 +0200|BELOHNEN  feat. Ski Aggu, Bausa & BUNT.|FILLY",
+    "played_at": "2026-09-03 20:43:12 +0200",
+    "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
+    "artist": "FILLY"
+  },
+  {
+    "key": "2026-09-03 20:45:22 +0200|Only the Strong Survive|Bruce Springsteen",
+    "played_at": "2026-09-03 20:45:22 +0200",
+    "title": "Only the Strong Survive",
+    "artist": "Bruce Springsteen"
   }
 ]
