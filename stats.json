@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 299,
-    "music_entries": 278,
+    "total_entries": 303,
+    "music_entries": 281,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -256,6 +256,11 @@
         "plays": 2
       },
       {
+        "artist": "Alli Neumann",
+        "title": "Monster",
+        "plays": 2
+      },
+      {
         "artist": "Sofia Portanet",
         "title": "Real Face",
         "plays": 2
@@ -283,6 +288,11 @@
       {
         "artist": "Luis Fonsi feat. Demi Lovato",
         "title": "Échame La Culpa",
+        "plays": 2
+      },
+      {
+        "artist": "Sleater-Kinney",
+        "title": "Worry With You",
         "plays": 2
       },
       {
@@ -636,11 +646,6 @@
         "plays": 1
       },
       {
-        "artist": "Alli Neumann",
-        "title": "Monster",
-        "plays": 1
-      },
-      {
         "artist": "Danger Dan",
         "title": "Lauf Davon",
         "plays": 1
@@ -663,11 +668,6 @@
       {
         "artist": "Genesis Owusu",
         "title": "Stampede",
-        "plays": 1
-      },
-      {
-        "artist": "Sleater-Kinney",
-        "title": "Worry With You",
         "plays": 1
       },
       {
@@ -1058,6 +1058,11 @@
       {
         "artist": "Shirin David",
         "title": "It Girl (feat. Sampagne)",
+        "plays": 1
+      },
+      {
+        "artist": "Frank Popp Ensemble",
+        "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
         "plays": 1
       }
     ],
