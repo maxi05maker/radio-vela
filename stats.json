@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 259,
-    "music_entries": 242,
+    "total_entries": 264,
+    "music_entries": 245,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,6 +13,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 3
+      },
+      {
+        "artist": "Travis Scott",
+        "title": "Escape Plan",
         "plays": 3
       },
       {
@@ -176,11 +181,6 @@
         "plays": 2
       },
       {
-        "artist": "Travis Scott",
-        "title": "Escape Plan",
-        "plays": 2
-      },
-      {
         "artist": "Moderat",
         "title": "Bad Kingdom",
         "plays": 2
@@ -193,6 +193,11 @@
       {
         "artist": "Weezer",
         "title": "Beverly Hills",
+        "plays": 2
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
         "plays": 2
       },
       {
@@ -553,11 +558,6 @@
       {
         "artist": "The Weeknd",
         "title": "Open Hearts",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Bad Habits",
         "plays": 1
       },
       {
@@ -1008,6 +1008,11 @@
       {
         "artist": "The Strumbellas",
         "title": "Spirits",
+        "plays": 1
+      },
+      {
+        "artist": "Larkin Poe",
+        "title": "If God Is A Woman",
         "plays": 1
       }
     ],
