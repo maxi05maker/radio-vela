@@ -868,5 +868,29 @@
     "played_at": "2026-09-03 15:07:26 +0200",
     "title": "Part Of The Band",
     "artist": "The 1975"
+  },
+  {
+    "key": "2026-09-03 15:11:47 +0200|It's Like That|THE BLACK CROWES",
+    "played_at": "2026-09-03 15:11:47 +0200",
+    "title": "It's Like That",
+    "artist": "THE BLACK CROWES"
+  },
+  {
+    "key": "2026-09-03 15:15:07 +0200|Allein sein|Mario Novembre",
+    "played_at": "2026-09-03 15:15:07 +0200",
+    "title": "Allein sein",
+    "artist": "Mario Novembre"
+  },
+  {
+    "key": "2026-09-03 15:18:08 +0200|Coochie (A Bedtime Story)|Shygirl",
+    "played_at": "2026-09-03 15:18:08 +0200",
+    "title": "Coochie (A Bedtime Story)",
+    "artist": "Shygirl"
+  },
+  {
+    "key": "2026-09-03 15:21:31 +0200|Jainism|Devin Townsend",
+    "played_at": "2026-09-03 15:21:31 +0200",
+    "title": "Jainism",
+    "artist": "Devin Townsend"
   }
 ]

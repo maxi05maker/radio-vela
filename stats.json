@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 145,
-    "music_entries": 135,
+    "total_entries": 149,
+    "music_entries": 139,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,6 +13,11 @@
       {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
+        "plays": 2
+      },
+      {
+        "artist": "Shygirl",
+        "title": "Coochie (A Bedtime Story)",
         "plays": 2
       },
       {
@@ -298,11 +303,6 @@
       {
         "artist": "Calvin Harris & Clementine Douglas",
         "title": "Blessings",
-        "plays": 1
-      },
-      {
-        "artist": "Shygirl",
-        "title": "Coochie (A Bedtime Story)",
         "plays": 1
       },
       {
@@ -668,6 +668,21 @@
       {
         "artist": "The 1975",
         "title": "Part Of The Band",
+        "plays": 1
+      },
+      {
+        "artist": "THE BLACK CROWES",
+        "title": "It's Like That",
+        "plays": 1
+      },
+      {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
+        "plays": 1
+      },
+      {
+        "artist": "Devin Townsend",
+        "title": "Jainism",
         "plays": 1
       }
     ],
