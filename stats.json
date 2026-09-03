@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 106,
-    "music_entries": 100,
+    "total_entries": 110,
+    "music_entries": 103,
     "songs": [
       {
         "artist": "Shirin David",
@@ -503,6 +503,21 @@
       {
         "artist": "Clueso",
         "title": "Sag Mir Was Du Willst",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Craving (Jenna's version)",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Anxious",
+        "plays": 1
+      },
+      {
+        "artist": "Moderat",
+        "title": "Bad Kingdom",
         "plays": 1
       }
     ],
