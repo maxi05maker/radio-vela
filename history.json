@@ -1084,5 +1084,17 @@
     "played_at": "2026-09-03 16:55:37 +0200",
     "title": "Dancing Feet",
     "artist": "Kygo feat. DNCE"
+  },
+  {
+    "key": "2026-09-03 16:59:12 +0200|Klippe|Lina",
+    "played_at": "2026-09-03 16:59:12 +0200",
+    "title": "Klippe",
+    "artist": "Lina"
+  },
+  {
+    "key": "2026-09-03 17:01:51 +0200|Lucky|Halsey",
+    "played_at": "2026-09-03 17:01:51 +0200",
+    "title": "Lucky",
+    "artist": "Halsey"
   }
 ]
