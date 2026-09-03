@@ -2,17 +2,17 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 292,
-    "music_entries": 271,
+    "total_entries": 294,
+    "music_entries": 273,
     "songs": [
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 3
-      },
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 4
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 3
       },
       {
@@ -283,6 +283,11 @@
       {
         "artist": "The 1975",
         "title": "Part Of The Band",
+        "plays": 2
+      },
+      {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
         "plays": 2
       },
       {
@@ -676,11 +681,6 @@
         "plays": 1
       },
       {
-        "artist": "Mario Novembre",
-        "title": "Allein sein",
-        "plays": 1
-      },
-      {
         "artist": "Devin Townsend",
         "title": "Jainism",
         "plays": 1
@@ -1057,9 +1057,9 @@
       }
     ],
     "top_song": {
-      "artist": "Harry Styles",
-      "title": "As It Was",
-      "plays": 3
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
+      "plays": 4
     }
   }
 }

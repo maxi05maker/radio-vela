@@ -1750,5 +1750,17 @@
     "played_at": "2026-09-03 22:39:34 +0200",
     "title": "My World",
     "artist": "Calum Scott"
+  },
+  {
+    "key": "2026-09-03 22:42:57 +0200|Allein sein|Mario Novembre",
+    "played_at": "2026-09-03 22:42:57 +0200",
+    "title": "Allein sein",
+    "artist": "Mario Novembre"
+  },
+  {
+    "key": "2026-09-03 22:45:58 +0200|Small Steps|Tom Gregory",
+    "played_at": "2026-09-03 22:45:58 +0200",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
   }
 ]
