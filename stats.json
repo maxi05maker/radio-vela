@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 183,
-    "music_entries": 171,
+    "total_entries": 190,
+    "music_entries": 177,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -823,6 +823,36 @@
       {
         "artist": "Halsey",
         "title": "Lucky",
+        "plays": 1
+      },
+      {
+        "artist": "Lil Tjay",
+        "title": "In My Head",
+        "plays": 1
+      },
+      {
+        "artist": "AJR",
+        "title": "The DJ Is Crying For Help",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "The One",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "Supermodel",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Cameron",
+        "title": "Best Life",
+        "plays": 1
+      },
+      {
+        "artist": "ROSÉ & Bruno Mars",
+        "title": "APT.",
         "plays": 1
       }
     ],
