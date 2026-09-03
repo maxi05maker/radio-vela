@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 61,
-    "music_entries": 57,
+    "total_entries": 65,
+    "music_entries": 61,
     "songs": [
       {
         "artist": "Shirin David",
@@ -288,6 +288,26 @@
       {
         "artist": "Tyla",
         "title": "Tyla - IS IT",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "There's Nothing Holdin' Me Back",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris & Clementine Douglas",
+        "title": "Blessings",
+        "plays": 1
+      },
+      {
+        "artist": "Shygirl",
+        "title": "Coochie (A Bedtime Story)",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5 feat. Cardi B",
+        "title": "Girls Like You",
         "plays": 1
       }
     ],
