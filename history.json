@@ -520,5 +520,17 @@
     "played_at": "2026-09-03 11:53:45 +0200",
     "title": "Am I Wrong",
     "artist": "Nico & Vinz"
+  },
+  {
+    "key": "2026-09-03 11:57:52 +0200|Sweet Danger|Obongjayar",
+    "played_at": "2026-09-03 11:57:52 +0200",
+    "title": "Sweet Danger",
+    "artist": "Obongjayar"
+  },
+  {
+    "key": "2026-09-03 12:00:33 +0200|Broken Bells|Greta Van Fleet",
+    "played_at": "2026-09-03 12:00:33 +0200",
+    "title": "Broken Bells",
+    "artist": "Greta Van Fleet"
   }
 ]
