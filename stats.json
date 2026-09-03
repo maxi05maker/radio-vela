@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 374,
-    "music_entries": 348,
+    "total_entries": 377,
+    "music_entries": 351,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -33,6 +33,11 @@
       {
         "artist": "Machine Gun Kelly, glaive",
         "title": "More than life",
+        "plays": 3
+      },
+      {
+        "artist": "KAFFKIEZ",
+        "title": "Matilda",
         "plays": 3
       },
       {
@@ -171,11 +176,6 @@
         "plays": 2
       },
       {
-        "artist": "KAFFKIEZ",
-        "title": "Matilda",
-        "plays": 2
-      },
-      {
         "artist": "Teddy Swims",
         "title": "Lose Control",
         "plays": 2
@@ -293,6 +293,11 @@
       {
         "artist": "P!nk",
         "title": "Cover Me In Sunshine",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Sign of the Times",
         "plays": 2
       },
       {
@@ -881,11 +886,6 @@
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "Sign of the Times",
-        "plays": 1
-      },
-      {
         "artist": "Lorde",
         "title": "What Was That",
         "plays": 1
@@ -1378,6 +1378,11 @@
       {
         "artist": "Paul Kalkbrenner & Stromae",
         "title": "QUE CE SOIT CLAIR",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "I'M HIS, HE'S MINE ft. Doechii",
         "plays": 1
       }
     ],
