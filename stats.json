@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 208,
-    "music_entries": 193,
+    "total_entries": 213,
+    "music_entries": 198,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,7 +13,7 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
-        "plays": 2
+        "plays": 3
       },
       {
         "artist": "Ramon Roselly",
@@ -38,6 +38,11 @@
       {
         "artist": "Shygirl",
         "title": "Coochie (A Bedtime Story)",
+        "plays": 2
+      },
+      {
+        "artist": "Purple Disco Machine/Sophie and the Giants",
+        "title": "In The Dark",
         "plays": 2
       },
       {
@@ -323,11 +328,6 @@
       {
         "artist": "International Music",
         "title": "Im Sommer bin ich dein König",
-        "plays": 1
-      },
-      {
-        "artist": "Purple Disco Machine/Sophie and the Giants",
-        "title": "In The Dark",
         "plays": 1
       },
       {
@@ -918,6 +918,21 @@
       {
         "artist": "KAFFKIEZ",
         "title": "Matilda",
+        "plays": 1
+      },
+      {
+        "artist": "Black Stone Cherry",
+        "title": "Deep",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
         "plays": 1
       }
     ],
