@@ -298,5 +298,17 @@
     "played_at": "2026-09-03 09:46:59 +0200",
     "title": "Way Down We Go",
     "artist": "Kaleo"
+  },
+  {
+    "key": "2026-09-03 09:50:41 +0200|Handlebars|JENNIE, Dua Lipa",
+    "played_at": "2026-09-03 09:50:41 +0200",
+    "title": "Handlebars",
+    "artist": "JENNIE, Dua Lipa"
+  },
+  {
+    "key": "2026-09-03 09:53:46 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-09-03 09:53:46 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
   }
 ]
