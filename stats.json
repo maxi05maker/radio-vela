@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 11,
-    "music_entries": 10,
+    "total_entries": 16,
+    "music_entries": 15,
     "songs": [
       {
         "artist": "Shirin David",
@@ -53,6 +53,31 @@
       {
         "artist": "Jackson Browne",
         "title": "My Cleveland Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Ski Aggu",
+        "title": "mietfrei (feat. SIRA)",
+        "plays": 1
+      },
+      {
+        "artist": "Chaka Khan",
+        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "Herbert Grönemeyer",
+        "title": "Lied 1 - Stück vom Himmel",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna & Kylie Minogue",
+        "title": "Love Sensation (Afterhours Radio Edit)",
         "plays": 1
       }
     ],
