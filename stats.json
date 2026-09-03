@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 316,
-    "music_entries": 294,
+    "total_entries": 321,
+    "music_entries": 299,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -33,6 +33,11 @@
       {
         "artist": "FILLY",
         "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
+        "plays": 2
+      },
+      {
+        "artist": "Kamrad",
+        "title": "Be Mine",
         "plays": 2
       },
       {
@@ -356,6 +361,21 @@
         "plays": 2
       },
       {
+        "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
+        "title": "In Your Arms (For An Angel)",
+        "plays": 2
+      },
+      {
+        "artist": "Blond",
+        "title": "Du und Ich",
+        "plays": 2
+      },
+      {
+        "artist": "Doechii",
+        "title": "Bitch I'm Nice",
+        "plays": 2
+      },
+      {
         "artist": "Shirin David",
         "title": "Ich darf das",
         "plays": 1
@@ -443,11 +463,6 @@
       {
         "artist": "Phoenix feat. Ezra Koenig",
         "title": "Tonight (feat. Ezra Koenig)",
-        "plays": 1
-      },
-      {
-        "artist": "Kamrad",
-        "title": "Be Mine",
         "plays": 1
       },
       {
@@ -771,11 +786,6 @@
         "plays": 1
       },
       {
-        "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
-        "title": "In Your Arms (For An Angel)",
-        "plays": 1
-      },
-      {
         "artist": "Shawn Mendes",
         "title": "When You're Gone",
         "plays": 1
@@ -783,11 +793,6 @@
       {
         "artist": "Coldplay",
         "title": "ALL MY LOVE",
-        "plays": 1
-      },
-      {
-        "artist": "Blond",
-        "title": "Du und Ich",
         "plays": 1
       },
       {
@@ -986,11 +991,6 @@
         "plays": 1
       },
       {
-        "artist": "Doechii",
-        "title": "Bitch I'm Nice",
-        "plays": 1
-      },
-      {
         "artist": "Shawn Mendes",
         "title": "Heart Of Gold",
         "plays": 1
@@ -1088,6 +1088,11 @@
       {
         "artist": "Billy Idol feat. Avril Lavigne",
         "title": "77",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Why Why Why",
         "plays": 1
       }
     ],
