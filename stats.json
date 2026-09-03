@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 244,
-    "music_entries": 227,
+    "total_entries": 249,
+    "music_entries": 232,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -106,6 +106,16 @@
         "plays": 2
       },
       {
+        "artist": "B For Better",
+        "title": "In My Hood",
+        "plays": 2
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 2
+      },
+      {
         "artist": "Michael Schulte",
         "title": "Here Goes Nothing",
         "plays": 2
@@ -136,8 +146,23 @@
         "plays": 2
       },
       {
+        "artist": "Mayberg",
+        "title": "Der neue Stil meiner Generation",
+        "plays": 2
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
+        "plays": 2
+      },
+      {
         "artist": "Travis Scott",
         "title": "Escape Plan",
+        "plays": 2
+      },
+      {
+        "artist": "Willow & Travis Barker",
+        "title": "Transparent Soul",
         "plays": 2
       },
       {
@@ -411,16 +436,6 @@
         "plays": 1
       },
       {
-        "artist": "B For Better",
-        "title": "In My Hood",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
         "artist": "Revolverheld feat. Antje Schomaker",
         "title": "Liebe auf Distanz",
         "plays": 1
@@ -451,18 +466,8 @@
         "plays": 1
       },
       {
-        "artist": "Mayberg",
-        "title": "Der neue Stil meiner Generation",
-        "plays": 1
-      },
-      {
         "artist": "Fontaines D.C.",
         "title": "Favourite",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Strip",
         "plays": 1
       },
       {
@@ -528,11 +533,6 @@
       {
         "artist": "Purple Disco Machine feat. Retrosonix",
         "title": "Ghost Town",
-        "plays": 1
-      },
-      {
-        "artist": "Willow & Travis Barker",
-        "title": "Transparent Soul",
         "plays": 1
       },
       {
