@@ -1138,5 +1138,23 @@
     "played_at": "2026-09-03 17:22:28 +0200",
     "title": "APT.",
     "artist": "ROSÉ & Bruno Mars"
+  },
+  {
+    "key": "2026-09-03 17:25:18 +0200|Escape Plan|Travis Scott",
+    "played_at": "2026-09-03 17:25:18 +0200",
+    "title": "Escape Plan",
+    "artist": "Travis Scott"
+  },
+  {
+    "key": "2026-09-03 17:27:48 +0200|Nevermind|Dennis Lloyd",
+    "played_at": "2026-09-03 17:27:48 +0200",
+    "title": "Nevermind",
+    "artist": "Dennis Lloyd"
+  },
+  {
+    "key": "2026-09-03 17:30:25 +0200|Run For Cover|Sugababes",
+    "played_at": "2026-09-03 17:30:25 +0200",
+    "title": "Run For Cover",
+    "artist": "Sugababes"
   }
 ]
