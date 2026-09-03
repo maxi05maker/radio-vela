@@ -16,5 +16,53 @@
     "played_at": "2026-09-03 07:07:34 +0200",
     "title": "Homewrecker",
     "artist": "sombr"
+  },
+  {
+    "key": "2026-09-03 07:11:03 +0200|Senjutsu|Iron Maiden",
+    "played_at": "2026-09-03 07:11:03 +0200",
+    "title": "Senjutsu",
+    "artist": "Iron Maiden"
+  },
+  {
+    "key": "2026-09-03 07:19:23 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-03 07:19:23 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-03 07:22:19 +0200|Play With Fire|Nico Santos",
+    "played_at": "2026-09-03 07:22:19 +0200",
+    "title": "Play With Fire",
+    "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-09-03 07:25:52 +0200|Buried Treasure|Peter Frampton, Benmont Tench",
+    "played_at": "2026-09-03 07:25:52 +0200",
+    "title": "Buried Treasure",
+    "artist": "Peter Frampton, Benmont Tench"
+  },
+  {
+    "key": "2026-09-03 07:30:39 +0200|Golden Nights|Sophie & The Giants",
+    "played_at": "2026-09-03 07:30:39 +0200",
+    "title": "Golden Nights",
+    "artist": "Sophie & The Giants"
+  },
+  {
+    "key": "2026-09-03 07:33:38 +0200|Mañana|Alvaro Soler feat. Cali Y El Dandee",
+    "played_at": "2026-09-03 07:33:38 +0200",
+    "title": "Mañana",
+    "artist": "Alvaro Soler feat. Cali Y El Dandee"
+  },
+  {
+    "key": "2026-09-03 07:37:10 +0200|petal|Ariana Grande",
+    "played_at": "2026-09-03 07:37:10 +0200",
+    "title": "petal",
+    "artist": "Ariana Grande"
+  },
+  {
+    "key": "2026-09-03 07:40:14 +0200|My Cleveland Heart|Jackson Browne",
+    "played_at": "2026-09-03 07:40:14 +0200",
+    "title": "My Cleveland Heart",
+    "artist": "Jackson Browne"
   }
 ]
