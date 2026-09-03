@@ -556,5 +556,29 @@
     "played_at": "2026-09-03 12:16:47 +0200",
     "title": "Sinister feat. Lil Wayne",
     "artist": "Cordae"
+  },
+  {
+    "key": "2026-09-03 12:19:13 +0200|Der neue Stil meiner Generation|Mayberg",
+    "played_at": "2026-09-03 12:19:13 +0200",
+    "title": "Der neue Stil meiner Generation",
+    "artist": "Mayberg"
+  },
+  {
+    "key": "2026-09-03 12:21:37 +0200|Favourite|Fontaines D.C.",
+    "played_at": "2026-09-03 12:21:37 +0200",
+    "title": "Favourite",
+    "artist": "Fontaines D.C."
+  },
+  {
+    "key": "2026-09-03 12:25:53 +0200|Strip|Lena",
+    "played_at": "2026-09-03 12:25:53 +0200",
+    "title": "Strip",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-09-03 12:28:40 +0200|Spectrum (Say My Name)|Florence And The Machine",
+    "played_at": "2026-09-03 12:28:40 +0200",
+    "title": "Spectrum (Say My Name)",
+    "artist": "Florence And The Machine"
   }
 ]
