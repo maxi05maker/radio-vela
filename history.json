@@ -1840,5 +1840,23 @@
     "played_at": "2026-09-03 23:27:44 +0200",
     "title": "Another Life",
     "artist": "Motionless In White"
+  },
+  {
+    "key": "2026-09-03 23:31:09 +0200|New Beginnings|Yard Act",
+    "played_at": "2026-09-03 23:31:09 +0200",
+    "title": "New Beginnings",
+    "artist": "Yard Act"
+  },
+  {
+    "key": "2026-09-03 23:34:37 +0200|Señorita|Shawn Mendes & Camila Cabello",
+    "played_at": "2026-09-03 23:34:37 +0200",
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello"
+  },
+  {
+    "key": "2026-09-03 23:37:48 +0200|Control|Zoe Wees",
+    "played_at": "2026-09-03 23:37:48 +0200",
+    "title": "Control",
+    "artist": "Zoe Wees"
   }
 ]

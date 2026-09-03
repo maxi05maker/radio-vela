@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 307,
-    "music_entries": 285,
+    "total_entries": 310,
+    "music_entries": 288,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -316,8 +316,18 @@
         "plays": 2
       },
       {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "plays": 2
+      },
+      {
         "artist": "Olivia Rodrigo",
         "title": "Good 4 You",
+        "plays": 2
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
         "plays": 2
       },
       {
@@ -701,18 +711,8 @@
         "plays": 1
       },
       {
-        "artist": "Shawn Mendes & Camila Cabello",
-        "title": "Señorita",
-        "plays": 1
-      },
-      {
         "artist": "Felix Jaehn",
         "title": "Ready For Your Love",
-        "plays": 1
-      },
-      {
-        "artist": "Zoe Wees",
-        "title": "Control",
         "plays": 1
       },
       {
@@ -1073,6 +1073,11 @@
       {
         "artist": "Fynn Kliemann",
         "title": "TOD",
+        "plays": 1
+      },
+      {
+        "artist": "Yard Act",
+        "title": "New Beginnings",
         "plays": 1
       }
     ],
