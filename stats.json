@@ -2,13 +2,13 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 389,
-    "music_entries": 362,
+    "total_entries": 392,
+    "music_entries": 365,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
-        "plays": 5
+        "plays": 6
       },
       {
         "artist": "Michael Schulte, R3HAB",
@@ -318,6 +318,11 @@
       {
         "artist": "Ellie Goulding",
         "title": "Power",
+        "plays": 2
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Safe",
         "plays": 2
       },
       {
@@ -936,11 +941,6 @@
         "plays": 1
       },
       {
-        "artist": "Nico Santos",
-        "title": "Safe",
-        "plays": 1
-      },
-      {
         "artist": "Joe Bonamassa & Ivan Neville",
         "title": "Ghetto Woman",
         "plays": 1
@@ -1404,12 +1404,17 @@
         "artist": "PinkPantheress",
         "title": "Tonight",
         "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "DREAMING ON",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Bryan Adams",
       "title": "So Happy It Hurts",
-      "plays": 5
+      "plays": 6
     }
   }
 }

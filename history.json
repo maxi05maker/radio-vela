@@ -2332,5 +2332,23 @@
     "played_at": "2026-09-03 03:39:31 +0200",
     "title": "Abreißen",
     "artist": "Revolverheld"
+  },
+  {
+    "key": "2026-09-03 03:42:21 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-03 03:42:21 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-03 03:45:55 +0200|DREAMING ON|Paul Kalkbrenner",
+    "played_at": "2026-09-03 03:45:55 +0200",
+    "title": "DREAMING ON",
+    "artist": "Paul Kalkbrenner"
+  },
+  {
+    "key": "2026-09-03 03:49:45 +0200|Safe|Nico Santos",
+    "played_at": "2026-09-03 03:49:45 +0200",
+    "title": "Safe",
+    "artist": "Nico Santos"
   }
 ]
