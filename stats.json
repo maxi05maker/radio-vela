@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 113,
-    "music_entries": 106,
+    "total_entries": 117,
+    "music_entries": 109,
     "songs": [
       {
         "artist": "Shirin David",
@@ -533,6 +533,21 @@
       {
         "artist": "Clueso",
         "title": "Flugmodus",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Joker",
+        "plays": 1
+      },
+      {
+        "artist": "Weezer",
+        "title": "Beverly Hills",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Open Hearts",
         "plays": 1
       }
     ],

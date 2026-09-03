@@ -676,5 +676,29 @@
     "played_at": "2026-09-03 13:19:47 +0200",
     "title": "Flugmodus",
     "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-03 13:22:45 +0200|The Joker|Lady Gaga",
+    "played_at": "2026-09-03 13:22:45 +0200",
+    "title": "The Joker",
+    "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-03 13:25:40 +0200|Ganztagsradio|Jingle",
+    "played_at": "2026-09-03 13:25:40 +0200",
+    "title": "Ganztagsradio",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-03 13:26:21 +0200|Beverly Hills|Weezer",
+    "played_at": "2026-09-03 13:26:21 +0200",
+    "title": "Beverly Hills",
+    "artist": "Weezer"
+  },
+  {
+    "key": "2026-09-03 13:29:41 +0200|Open Hearts|The Weeknd",
+    "played_at": "2026-09-03 13:29:41 +0200",
+    "title": "Open Hearts",
+    "artist": "The Weeknd"
   }
 ]
