@@ -2176,5 +2176,47 @@
     "played_at": "2026-09-03 02:11:39 +0200",
     "title": "More to Lose",
     "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-09-03 02:16:21 +0200|Monster|Alli Neumann",
+    "played_at": "2026-09-03 02:16:21 +0200",
+    "title": "Monster",
+    "artist": "Alli Neumann"
+  },
+  {
+    "key": "2026-09-03 02:20:02 +0200|Eine gute Nachricht|Danger Dan",
+    "played_at": "2026-09-03 02:20:02 +0200",
+    "title": "Eine gute Nachricht",
+    "artist": "Danger Dan"
+  },
+  {
+    "key": "2026-09-03 02:23:22 +0200|Sweet Life feat. Emmamaelo|Bangerfabrique x Miss Marla",
+    "played_at": "2026-09-03 02:23:22 +0200",
+    "title": "Sweet Life feat. Emmamaelo",
+    "artist": "Bangerfabrique x Miss Marla"
+  },
+  {
+    "key": "2026-09-03 02:25:39 +0200|Faded Love|Leony",
+    "played_at": "2026-09-03 02:25:39 +0200",
+    "title": "Faded Love",
+    "artist": "Leony"
+  },
+  {
+    "key": "2026-09-03 02:28:06 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-09-03 02:28:06 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-09-03 02:32:02 +0200|The Subway|Chappell Roan",
+    "played_at": "2026-09-03 02:32:02 +0200",
+    "title": "The Subway",
+    "artist": "Chappell Roan"
+  },
+  {
+    "key": "2026-09-03 02:36:14 +0200|Cover Me In Sunshine|P!nk",
+    "played_at": "2026-09-03 02:36:14 +0200",
+    "title": "Cover Me In Sunshine",
+    "artist": "P!nk"
   }
 ]

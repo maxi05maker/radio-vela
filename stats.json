@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 363,
-    "music_entries": 337,
+    "total_entries": 370,
+    "music_entries": 344,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -41,8 +41,18 @@
         "plays": 3
       },
       {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 3
+      },
+      {
         "artist": "Ramon Roselly",
         "title": "Eine Nacht",
+        "plays": 3
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
         "plays": 3
       },
       {
@@ -176,11 +186,6 @@
         "plays": 2
       },
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 2
-      },
-      {
         "artist": "Cro",
         "title": "Smooth",
         "plays": 2
@@ -198,11 +203,6 @@
       {
         "artist": "Jonathan Jeremiah",
         "title": "Kolkata Bear",
-        "plays": 2
-      },
-      {
-        "artist": "Leony",
-        "title": "Faded Love",
         "plays": 2
       },
       {
@@ -241,6 +241,11 @@
         "plays": 2
       },
       {
+        "artist": "Alli Neumann",
+        "title": "Monster",
+        "plays": 2
+      },
+      {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
         "plays": 2
@@ -261,6 +266,11 @@
         "plays": 2
       },
       {
+        "artist": "Danger Dan",
+        "title": "Eine gute Nachricht",
+        "plays": 2
+      },
+      {
         "artist": "Swedish House Mafia & The Weeknd",
         "title": "Moth To A Flame",
         "plays": 2
@@ -273,6 +283,11 @@
       {
         "artist": "Liz",
         "title": "Cashflow feat. Big Toe",
+        "plays": 2
+      },
+      {
+        "artist": "P!nk",
+        "title": "Cover Me In Sunshine",
         "plays": 2
       },
       {
@@ -811,11 +826,6 @@
         "plays": 1
       },
       {
-        "artist": "Alli Neumann",
-        "title": "Monster",
-        "plays": 1
-      },
-      {
         "artist": "Lola Young",
         "title": "One Thing",
         "plays": 1
@@ -841,11 +851,6 @@
         "plays": 1
       },
       {
-        "artist": "Danger Dan",
-        "title": "Eine gute Nachricht",
-        "plays": 1
-      },
-      {
         "artist": "Katy Perry",
         "title": "LIFETIMES",
         "plays": 1
@@ -863,11 +868,6 @@
       {
         "artist": "Álvaro Soler",
         "title": "Magia",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Cover Me In Sunshine",
         "plays": 1
       },
       {
@@ -1363,6 +1363,16 @@
       {
         "artist": "Justin Bieber",
         "title": "Daisies",
+        "plays": 1
+      },
+      {
+        "artist": "Bangerfabrique x Miss Marla",
+        "title": "Sweet Life feat. Emmamaelo",
+        "plays": 1
+      },
+      {
+        "artist": "Chappell Roan",
+        "title": "The Subway",
         "plays": 1
       }
     ],
