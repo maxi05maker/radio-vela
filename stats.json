@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 266,
-    "music_entries": 247,
+    "total_entries": 269,
+    "music_entries": 250,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -196,6 +196,11 @@
         "plays": 2
       },
       {
+        "artist": "Clueso",
+        "title": "Flugmodus",
+        "plays": 2
+      },
+      {
         "artist": "Weezer",
         "title": "Beverly Hills",
         "plays": 2
@@ -208,6 +213,11 @@
       {
         "artist": "Bruce Springsteen",
         "title": "Only the Strong Survive",
+        "plays": 2
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
         "plays": 2
       },
       {
@@ -546,11 +556,6 @@
         "plays": 1
       },
       {
-        "artist": "Clueso",
-        "title": "Flugmodus",
-        "plays": 1
-      },
-      {
         "artist": "Lady Gaga",
         "title": "The Joker",
         "plays": 1
@@ -653,11 +658,6 @@
       {
         "artist": "Topic & A7S",
         "title": "Kernkraft 400 (A Better Day)",
-        "plays": 1
-      },
-      {
-        "artist": "Frans",
-        "title": "If I Were Sorry",
         "plays": 1
       },
       {
@@ -1018,6 +1018,11 @@
       {
         "artist": "Sugababes",
         "title": "Shook",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Just Keep Watching",
         "plays": 1
       }
     ],
