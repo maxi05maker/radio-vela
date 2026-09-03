@@ -226,5 +226,35 @@
     "played_at": "2026-09-03 09:08:17 +0200",
     "title": "Abracadabra",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-03 09:12:46 +0200|Auf das, was da noch kommt|LOTTE & Max Giesinger",
+    "played_at": "2026-09-03 09:12:46 +0200",
+    "title": "Auf das, was da noch kommt",
+    "artist": "LOTTE & Max Giesinger"
+  },
+  {
+    "key": "2026-09-03 09:16:16 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-03 09:16:16 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-03 09:19:00 +0200|Ghost|Justin Bieber",
+    "played_at": "2026-09-03 09:19:00 +0200",
+    "title": "Ghost",
+    "artist": "Justin Bieber"
+  },
+  {
+    "key": "2026-09-03 09:21:33 +0200|Wolke 4|Bausa, Philipp Dittberner",
+    "played_at": "2026-09-03 09:21:33 +0200",
+    "title": "Wolke 4",
+    "artist": "Bausa, Philipp Dittberner"
+  },
+  {
+    "key": "2026-09-03 09:23:50 +0200|Remember Me|Michael Schulte",
+    "played_at": "2026-09-03 09:23:50 +0200",
+    "title": "Remember Me",
+    "artist": "Michael Schulte"
   }
 ]

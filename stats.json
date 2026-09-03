@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 38,
-    "music_entries": 36,
+    "total_entries": 43,
+    "music_entries": 40,
     "songs": [
       {
         "artist": "Shirin David",
@@ -183,6 +183,26 @@
       {
         "artist": "Lady Gaga",
         "title": "Abracadabra",
+        "plays": 1
+      },
+      {
+        "artist": "LOTTE & Max Giesinger",
+        "title": "Auf das, was da noch kommt",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Ghost",
+        "plays": 1
+      },
+      {
+        "artist": "Bausa, Philipp Dittberner",
+        "title": "Wolke 4",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
         "plays": 1
       }
     ],
