@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 310,
-    "music_entries": 288,
+    "total_entries": 311,
+    "music_entries": 289,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -1078,6 +1078,11 @@
       {
         "artist": "Yard Act",
         "title": "New Beginnings",
+        "plays": 1
+      },
+      {
+        "artist": "Die Nerven",
+        "title": "BIS ANS MEER",
         "plays": 1
       }
     ],
