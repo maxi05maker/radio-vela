@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 178,
-    "music_entries": 166,
+    "total_entries": 181,
+    "music_entries": 169,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -798,6 +798,21 @@
       {
         "artist": "Bosse",
         "title": "Der Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Thunder",
+        "plays": 1
+      },
+      {
+        "artist": "Louis Tomlinson",
+        "title": "Palaces",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo feat. DNCE",
+        "title": "Dancing Feet",
         "plays": 1
       }
     ],

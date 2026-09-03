@@ -1066,5 +1066,23 @@
     "played_at": "2026-09-03 16:46:07 +0200",
     "title": "Der Sommer",
     "artist": "Bosse"
+  },
+  {
+    "key": "2026-09-03 16:49:42 +0200|Thunder|Imagine Dragons",
+    "played_at": "2026-09-03 16:49:42 +0200",
+    "title": "Thunder",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-03 16:52:50 +0200|Palaces|Louis Tomlinson",
+    "played_at": "2026-09-03 16:52:50 +0200",
+    "title": "Palaces",
+    "artist": "Louis Tomlinson"
+  },
+  {
+    "key": "2026-09-03 16:55:37 +0200|Dancing Feet|Kygo feat. DNCE",
+    "played_at": "2026-09-03 16:55:37 +0200",
+    "title": "Dancing Feet",
+    "artist": "Kygo feat. DNCE"
   }
 ]
