@@ -154,5 +154,41 @@
     "played_at": "2026-09-03 08:28:38 +0200",
     "title": "No One Noticed",
     "artist": "The Marías"
+  },
+  {
+    "key": "2026-09-03 08:32:35 +0200|Auf Auf|Silbermond",
+    "played_at": "2026-09-03 08:32:35 +0200",
+    "title": "Auf Auf",
+    "artist": "Silbermond"
+  },
+  {
+    "key": "2026-09-03 08:35:20 +0200|Small Steps|Tom Gregory",
+    "played_at": "2026-09-03 08:35:20 +0200",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-09-03 08:38:07 +0200|One Thing|Lola Young",
+    "played_at": "2026-09-03 08:38:07 +0200",
+    "title": "One Thing",
+    "artist": "Lola Young"
+  },
+  {
+    "key": "2026-09-03 08:41:35 +0200|Millions|BIA",
+    "played_at": "2026-09-03 08:41:35 +0200",
+    "title": "Millions",
+    "artist": "BIA"
+  },
+  {
+    "key": "2026-09-03 08:44:30 +0200|More than life|Machine Gun Kelly, glaive",
+    "played_at": "2026-09-03 08:44:30 +0200",
+    "title": "More than life",
+    "artist": "Machine Gun Kelly, glaive"
+  },
+  {
+    "key": "2026-09-03 08:47:47 +0200|Rodeo|Sophia Kennedy",
+    "played_at": "2026-09-03 08:47:47 +0200",
+    "title": "Rodeo",
+    "artist": "Sophia Kennedy"
   }
 ]
