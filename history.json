@@ -580,5 +580,29 @@
     "played_at": "2026-09-03 12:28:40 +0200",
     "title": "Spectrum (Say My Name)",
     "artist": "Florence And The Machine"
+  },
+  {
+    "key": "2026-09-03 12:32:14 +0200|Want It Back|Giant Rooks",
+    "played_at": "2026-09-03 12:32:14 +0200",
+    "title": "Want It Back",
+    "artist": "Giant Rooks"
+  },
+  {
+    "key": "2026-09-03 12:35:41 +0200|Do It Better (feat. Zoe Wees)|Felix Jaehn",
+    "played_at": "2026-09-03 12:35:41 +0200",
+    "title": "Do It Better (feat. Zoe Wees)",
+    "artist": "Felix Jaehn"
+  },
+  {
+    "key": "2026-09-03 12:38:29 +0200|Tanzen|Clueso",
+    "played_at": "2026-09-03 12:38:29 +0200",
+    "title": "Tanzen",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-03 12:41:17 +0200|Down For The Count|Avalanche",
+    "played_at": "2026-09-03 12:41:17 +0200",
+    "title": "Down For The Count",
+    "artist": "Avalanche"
   }
 ]
