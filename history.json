@@ -1972,5 +1972,23 @@
     "played_at": "2026-09-04 00:37:51 +0200",
     "title": "Klippe",
     "artist": "Lina"
+  },
+  {
+    "key": "2026-09-04 00:40:29 +0200|The Longest Kiss|The Darkness",
+    "played_at": "2026-09-04 00:40:29 +0200",
+    "title": "The Longest Kiss",
+    "artist": "The Darkness"
+  },
+  {
+    "key": "2026-09-04 00:43:19 +0200|Der Sommer|Bosse",
+    "played_at": "2026-09-04 00:43:19 +0200",
+    "title": "Der Sommer",
+    "artist": "Bosse"
+  },
+  {
+    "key": "2026-09-04 00:46:54 +0200|The DJ Is Crying For Help|AJR",
+    "played_at": "2026-09-04 00:46:54 +0200",
+    "title": "The DJ Is Crying For Help",
+    "artist": "AJR"
   }
 ]

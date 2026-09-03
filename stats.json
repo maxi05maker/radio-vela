@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 329,
-    "music_entries": 306,
+    "total_entries": 332,
+    "music_entries": 309,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -381,8 +381,18 @@
         "plays": 2
       },
       {
+        "artist": "Bosse",
+        "title": "Der Sommer",
+        "plays": 2
+      },
+      {
         "artist": "Lina",
         "title": "Klippe",
+        "plays": 2
+      },
+      {
+        "artist": "AJR",
+        "title": "The DJ Is Crying For Help",
         "plays": 2
       },
       {
@@ -811,11 +821,6 @@
         "plays": 1
       },
       {
-        "artist": "Bosse",
-        "title": "Der Sommer",
-        "plays": 1
-      },
-      {
         "artist": "Imagine Dragons",
         "title": "Thunder",
         "plays": 1
@@ -838,11 +843,6 @@
       {
         "artist": "Lil Tjay",
         "title": "In My Head",
-        "plays": 1
-      },
-      {
-        "artist": "AJR",
-        "title": "The DJ Is Crying For Help",
         "plays": 1
       },
       {
@@ -1103,6 +1103,11 @@
       {
         "artist": "Miley Cyrus",
         "title": "More to Lose",
+        "plays": 1
+      },
+      {
+        "artist": "The Darkness",
+        "title": "The Longest Kiss",
         "plays": 1
       }
     ],
