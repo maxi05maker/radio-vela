@@ -118,5 +118,41 @@
     "played_at": "2026-09-03 08:08:55 +0200",
     "title": "Waiting on the sky to change",
     "artist": "STARSET, Breaking Benjamin, Judge & Jury"
+  },
+  {
+    "key": "2026-09-03 08:13:01 +0200|Tonight (feat. Ezra Koenig)|Phoenix feat. Ezra Koenig",
+    "played_at": "2026-09-03 08:13:01 +0200",
+    "title": "Tonight (feat. Ezra Koenig)",
+    "artist": "Phoenix feat. Ezra Koenig"
+  },
+  {
+    "key": "2026-09-03 08:17:05 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-03 08:17:05 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-03 08:19:49 +0200|Be Mine|Kamrad",
+    "played_at": "2026-09-03 08:19:49 +0200",
+    "title": "Be Mine",
+    "artist": "Kamrad"
+  },
+  {
+    "key": "2026-09-03 08:22:43 +0200|Gegengift|Joel Brandenstein",
+    "played_at": "2026-09-03 08:22:43 +0200",
+    "title": "Gegengift",
+    "artist": "Joel Brandenstein"
+  },
+  {
+    "key": "2026-09-03 08:25:36 +0200|Wenn Du Mich Lässt|Lea",
+    "played_at": "2026-09-03 08:25:36 +0200",
+    "title": "Wenn Du Mich Lässt",
+    "artist": "Lea"
+  },
+  {
+    "key": "2026-09-03 08:28:38 +0200|No One Noticed|The Marías",
+    "played_at": "2026-09-03 08:28:38 +0200",
+    "title": "No One Noticed",
+    "artist": "The Marías"
   }
 ]
