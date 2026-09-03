@@ -328,5 +328,41 @@
     "played_at": "2026-09-03 10:03:23 +0200",
     "title": "Hallow Kitty",
     "artist": "Kwam.e & Ove"
+  },
+  {
+    "key": "2026-09-03 10:06:50 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-09-03 10:06:50 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-09-03 10:10:46 +0200|Busy Woman|Sabrina Carpenter",
+    "played_at": "2026-09-03 10:10:46 +0200",
+    "title": "Busy Woman",
+    "artist": "Sabrina Carpenter"
+  },
+  {
+    "key": "2026-09-03 10:13:53 +0200|Stay|The Kid LAROI & Justin Bieber",
+    "played_at": "2026-09-03 10:13:53 +0200",
+    "title": "Stay",
+    "artist": "The Kid LAROI & Justin Bieber"
+  },
+  {
+    "key": "2026-09-03 10:16:15 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-03 10:16:15 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-03 10:19:03 +0200|Will ich nur dich|Drangsal",
+    "played_at": "2026-09-03 10:19:03 +0200",
+    "title": "Will ich nur dich",
+    "artist": "Drangsal"
+  },
+  {
+    "key": "2026-09-03 10:21:34 +0200|Tyla - IS IT|Tyla",
+    "played_at": "2026-09-03 10:21:34 +0200",
+    "title": "Tyla - IS IT",
+    "artist": "Tyla"
   }
 ]
