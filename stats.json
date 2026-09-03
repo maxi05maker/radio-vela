@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 341,
-    "music_entries": 317,
+    "total_entries": 343,
+    "music_entries": 319,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -383,6 +383,11 @@
       {
         "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
         "title": "In Your Arms (For An Angel)",
+        "plays": 2
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "When You're Gone",
         "plays": 2
       },
       {
@@ -826,11 +831,6 @@
         "plays": 1
       },
       {
-        "artist": "Shawn Mendes",
-        "title": "When You're Gone",
-        "plays": 1
-      },
-      {
         "artist": "Coldplay",
         "title": "ALL MY LOVE",
         "plays": 1
@@ -1118,6 +1118,11 @@
       {
         "artist": "HUNTRX",
         "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
         "plays": 1
       }
     ],
