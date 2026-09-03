@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 156,
-    "music_entries": 146,
+    "total_entries": 159,
+    "music_entries": 149,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -18,6 +18,11 @@
       {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
+        "plays": 2
+      },
+      {
+        "artist": "Lorde",
+        "title": "What Was That",
         "plays": 2
       },
       {
@@ -258,11 +263,6 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Lorde",
-        "title": "What Was That",
         "plays": 1
       },
       {
@@ -713,6 +713,16 @@
       {
         "artist": "Alice Merton",
         "title": "No Roots",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 1
       }
     ],

@@ -934,5 +934,23 @@
     "played_at": "2026-09-03 15:43:27 +0200",
     "title": "No Roots",
     "artist": "Alice Merton"
+  },
+  {
+    "key": "2026-09-03 15:47:23 +0200|Faded Love|Leony",
+    "played_at": "2026-09-03 15:47:23 +0200",
+    "title": "Faded Love",
+    "artist": "Leony"
+  },
+  {
+    "key": "2026-09-03 15:49:50 +0200|What Was That|Lorde",
+    "played_at": "2026-09-03 15:49:50 +0200",
+    "title": "What Was That",
+    "artist": "Lorde"
+  },
+  {
+    "key": "2026-09-03 15:53:19 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-03 15:53:19 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
   }
 ]
