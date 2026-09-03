@@ -190,5 +190,23 @@
     "played_at": "2026-09-03 08:47:47 +0200",
     "title": "Rodeo",
     "artist": "Sophia Kennedy"
+  },
+  {
+    "key": "2026-09-03 08:51:35 +0200|Der letzte Tag|Max Giesinger",
+    "played_at": "2026-09-03 08:51:35 +0200",
+    "title": "Der letzte Tag",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-09-03 08:54:33 +0200|If You're Too Shy (Let Me Know)|The 1975",
+    "played_at": "2026-09-03 08:54:33 +0200",
+    "title": "If You're Too Shy (Let Me Know)",
+    "artist": "The 1975"
+  },
+  {
+    "key": "2026-09-03 08:58:32 +0200|Rebellion|R3HAB, Michael Patrick Kelly, Shaggy",
+    "played_at": "2026-09-03 08:58:32 +0200",
+    "title": "Rebellion",
+    "artist": "R3HAB, Michael Patrick Kelly, Shaggy"
   }
 ]
