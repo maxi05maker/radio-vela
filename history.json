@@ -1156,5 +1156,35 @@
     "played_at": "2026-09-03 17:30:25 +0200",
     "title": "Run For Cover",
     "artist": "Sugababes"
+  },
+  {
+    "key": "2026-09-03 17:34:12 +0200|VIEWS|Noga Erez feat. Reo Cragun & ROUSSO",
+    "played_at": "2026-09-03 17:34:12 +0200",
+    "title": "VIEWS",
+    "artist": "Noga Erez feat. Reo Cragun & ROUSSO"
+  },
+  {
+    "key": "2026-09-03 17:36:57 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-09-03 17:36:57 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-03 17:37:33 +0200|Ego|Halsey",
+    "played_at": "2026-09-03 17:37:33 +0200",
+    "title": "Ego",
+    "artist": "Halsey"
+  },
+  {
+    "key": "2026-09-03 17:40:51 +0200|As It Was|Harry Styles",
+    "played_at": "2026-09-03 17:40:51 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-03 17:43:38 +0200|Sorry|ClockClock",
+    "played_at": "2026-09-03 17:43:38 +0200",
+    "title": "Sorry",
+    "artist": "ClockClock"
   }
 ]

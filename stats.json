@@ -2,13 +2,13 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 193,
-    "music_entries": 180,
+    "total_entries": 198,
+    "music_entries": 184,
     "songs": [
       {
         "artist": "Harry Styles",
         "title": "As It Was",
-        "plays": 2
+        "plays": 3
       },
       {
         "artist": "Tom Gregory",
@@ -864,12 +864,27 @@
         "artist": "Sugababes",
         "title": "Run For Cover",
         "plays": 1
+      },
+      {
+        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
+        "title": "VIEWS",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Ego",
+        "plays": 1
+      },
+      {
+        "artist": "ClockClock",
+        "title": "Sorry",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Harry Styles",
       "title": "As It Was",
-      "plays": 2
+      "plays": 3
     }
   }
 }
