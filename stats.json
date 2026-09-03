@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 294,
-    "music_entries": 273,
+    "total_entries": 296,
+    "music_entries": 275,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -246,6 +246,11 @@
         "plays": 2
       },
       {
+        "artist": "Samara Cyn",
+        "title": "Brand New Teeth feat. Smino",
+        "plays": 2
+      },
+      {
         "artist": "CRO",
         "title": "Fallin",
         "plays": 2
@@ -268,6 +273,11 @@
       {
         "artist": "Mark Forster, LEA",
         "title": "Drei Uhr Nachts",
+        "plays": 2
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
         "plays": 2
       },
       {
@@ -606,11 +616,6 @@
         "plays": 1
       },
       {
-        "artist": "Samara Cyn",
-        "title": "Brand New Teeth feat. Smino",
-        "plays": 1
-      },
-      {
         "artist": "Clueso",
         "title": "Wenn du liebst [feat. Kat Frankie]",
         "plays": 1
@@ -653,11 +658,6 @@
       {
         "artist": "Genesis Owusu",
         "title": "Stampede",
-        "plays": 1
-      },
-      {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
         "plays": 1
       },
       {
