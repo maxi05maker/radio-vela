@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 348,
-    "music_entries": 324,
+    "total_entries": 350,
+    "music_entries": 326,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -23,6 +23,11 @@
       {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
+        "plays": 3
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 3
       },
       {
@@ -73,11 +78,6 @@
       {
         "artist": "Lorde",
         "title": "What Was That",
-        "plays": 2
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 2
       },
       {
@@ -443,6 +443,11 @@
       {
         "artist": "ClockClock",
         "title": "Sorry",
+        "plays": 2
+      },
+      {
+        "artist": "Dove Cameron",
+        "title": "Boyfriend",
         "plays": 2
       },
       {
@@ -898,11 +903,6 @@
       {
         "artist": "Midlake",
         "title": "The Ghouls",
-        "plays": 1
-      },
-      {
-        "artist": "Dove Cameron",
-        "title": "Boyfriend",
         "plays": 1
       },
       {
