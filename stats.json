@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 377,
-    "music_entries": 351,
+    "total_entries": 379,
+    "music_entries": 353,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -303,6 +303,11 @@
       {
         "artist": "Drangsal",
         "title": "Will ich nur dich",
+        "plays": 2
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "Maschin",
         "plays": 2
       },
       {
@@ -906,11 +911,6 @@
         "plays": 1
       },
       {
-        "artist": "Bilderbuch",
-        "title": "Maschin",
-        "plays": 1
-      },
-      {
         "artist": "Robin Schulz feat. Alida",
         "title": "In Your Eyes",
         "plays": 1
@@ -1383,6 +1383,11 @@
       {
         "artist": "Katy Perry",
         "title": "I'M HIS, HE'S MINE ft. Doechii",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood",
+        "title": "Secrets",
         "plays": 1
       }
     ],

@@ -2260,5 +2260,17 @@
     "played_at": "2026-09-03 02:59:26 +0200",
     "title": "Sign of the Times",
     "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-03 03:05:06 +0200|Secrets|Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood",
+    "played_at": "2026-09-03 03:05:06 +0200",
+    "title": "Secrets",
+    "artist": "Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood"
+  },
+  {
+    "key": "2026-09-03 03:08:56 +0200|Maschin|Bilderbuch",
+    "played_at": "2026-09-03 03:08:56 +0200",
+    "title": "Maschin",
+    "artist": "Bilderbuch"
   }
 ]
