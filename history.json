@@ -700,5 +700,23 @@
     "played_at": "2026-09-03 13:29:41 +0200",
     "title": "Open Hearts",
     "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-09-03 13:33:10 +0200|Bad Habits|Ed Sheeran",
+    "played_at": "2026-09-03 13:33:10 +0200",
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-03 13:37:01 +0200|Dancing With A Stranger|Sam Smith & Normani",
+    "played_at": "2026-09-03 13:37:01 +0200",
+    "title": "Dancing With A Stranger",
+    "artist": "Sam Smith & Normani"
+  },
+  {
+    "key": "2026-09-03 13:39:52 +0200|Brand New Teeth feat. Smino|Samara Cyn",
+    "played_at": "2026-09-03 13:39:52 +0200",
+    "title": "Brand New Teeth feat. Smino",
+    "artist": "Samara Cyn"
   }
 ]
