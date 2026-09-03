@@ -490,5 +490,23 @@
     "played_at": "2026-09-03 11:33:13 +0200",
     "title": "DELUSIONAL (Main Version)",
     "artist": "Kesha"
+  },
+  {
+    "key": "2026-09-03 11:36:47 +0200|Here Goes Nothing|Michael Schulte",
+    "played_at": "2026-09-03 11:36:47 +0200",
+    "title": "Here Goes Nothing",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-03 11:39:57 +0200|party 4 u|Charli xcx",
+    "played_at": "2026-09-03 11:39:57 +0200",
+    "title": "party 4 u",
+    "artist": "Charli xcx"
+  },
+  {
+    "key": "2026-09-03 11:44:54 +0200|In The Living Room|Maggie Rogers",
+    "played_at": "2026-09-03 11:44:54 +0200",
+    "title": "In The Living Room",
+    "artist": "Maggie Rogers"
   }
 ]
