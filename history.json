@@ -730,5 +730,17 @@
     "played_at": "2026-09-03 13:46:50 +0200",
     "title": "Wenn du liebst [feat. Kat Frankie]",
     "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-03 13:50:52 +0200|28|Zach Bryan",
+    "played_at": "2026-09-03 13:50:52 +0200",
+    "title": "28",
+    "artist": "Zach Bryan"
+  },
+  {
+    "key": "2026-09-03 13:54:45 +0200|Monster|Alli Neumann",
+    "played_at": "2026-09-03 13:54:45 +0200",
+    "title": "Monster",
+    "artist": "Alli Neumann"
   }
 ]
