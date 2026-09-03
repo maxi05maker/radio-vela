@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 370,
-    "music_entries": 344,
+    "total_entries": 374,
+    "music_entries": 348,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -286,8 +286,23 @@
         "plays": 2
       },
       {
+        "artist": "LEA x LUNA",
+        "title": "Küsse wie Gift",
+        "plays": 2
+      },
+      {
         "artist": "P!nk",
         "title": "Cover Me In Sunshine",
+        "plays": 2
+      },
+      {
+        "artist": "Drangsal",
+        "title": "Will ich nur dich",
+        "plays": 2
+      },
+      {
+        "artist": "Ethel Cain",
+        "title": "American Teenager",
         "plays": 2
       },
       {
@@ -861,11 +876,6 @@
         "plays": 1
       },
       {
-        "artist": "LEA x LUNA",
-        "title": "Küsse wie Gift",
-        "plays": 1
-      },
-      {
         "artist": "Álvaro Soler",
         "title": "Magia",
         "plays": 1
@@ -873,11 +883,6 @@
       {
         "artist": "Harry Styles",
         "title": "Sign of the Times",
-        "plays": 1
-      },
-      {
-        "artist": "Drangsal",
-        "title": "Will ich nur dich",
         "plays": 1
       },
       {
@@ -943,11 +948,6 @@
       {
         "artist": "Clueso",
         "title": "Sag Mir Was Du Willst",
-        "plays": 1
-      },
-      {
-        "artist": "Ethel Cain",
-        "title": "American Teenager",
         "plays": 1
       },
       {
@@ -1373,6 +1373,11 @@
       {
         "artist": "Chappell Roan",
         "title": "The Subway",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner & Stromae",
+        "title": "QUE CE SOIT CLAIR",
         "plays": 1
       }
     ],
