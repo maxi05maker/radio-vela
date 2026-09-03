@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 221,
-    "music_entries": 206,
+    "total_entries": 224,
+    "music_entries": 209,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -63,6 +63,16 @@
       {
         "artist": "Electric Light Orchestra",
         "title": "Confusion",
+        "plays": 2
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Kings & Queens",
+        "plays": 2
+      },
+      {
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
         "plays": 2
       },
       {
@@ -361,18 +371,8 @@
         "plays": 1
       },
       {
-        "artist": "Ava Max",
-        "title": "Kings & Queens",
-        "plays": 1
-      },
-      {
         "artist": "David Guetta & Sia",
         "title": "Beautiful People",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE, 070 Shake",
-        "title": "Escapism.",
         "plays": 1
       },
       {
@@ -953,6 +953,11 @@
       {
         "artist": "Lana Del Rey",
         "title": "Henry, Come On",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine, Alison Goldfrapp",
+        "title": "Dream Machine",
         "plays": 1
       }
     ],
