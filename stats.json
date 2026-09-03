@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 78,
-    "music_entries": 73,
+    "total_entries": 82,
+    "music_entries": 77,
     "songs": [
       {
         "artist": "Shirin David",
@@ -368,6 +368,26 @@
       {
         "artist": "Imagine Dragons",
         "title": "Follow You",
+        "plays": 1
+      },
+      {
+        "artist": "B For Better",
+        "title": "In My Hood",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld feat. Antje Schomaker",
+        "title": "Liebe auf Distanz",
+        "plays": 1
+      },
+      {
+        "artist": "Kesha",
+        "title": "DELUSIONAL (Main Version)",
         "plays": 1
       }
     ],

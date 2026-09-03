@@ -466,5 +466,29 @@
     "played_at": "2026-09-03 11:20:31 +0200",
     "title": "Follow You",
     "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-03 11:23:27 +0200|In My Hood|B For Better",
+    "played_at": "2026-09-03 11:23:27 +0200",
+    "title": "In My Hood",
+    "artist": "B For Better"
+  },
+  {
+    "key": "2026-09-03 11:26:25 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-09-03 11:26:25 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-09-03 11:29:56 +0200|Liebe auf Distanz|Revolverheld feat. Antje Schomaker",
+    "played_at": "2026-09-03 11:29:56 +0200",
+    "title": "Liebe auf Distanz",
+    "artist": "Revolverheld feat. Antje Schomaker"
+  },
+  {
+    "key": "2026-09-03 11:33:13 +0200|DELUSIONAL (Main Version)|Kesha",
+    "played_at": "2026-09-03 11:33:13 +0200",
+    "title": "DELUSIONAL (Main Version)",
+    "artist": "Kesha"
   }
 ]
