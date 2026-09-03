@@ -2,8 +2,8 @@
   "2026-09-02 07:00": {
     "period_start": "2026-09-02T07:00:00+02:00",
     "period_end": "2026-09-03T07:00:00+02:00",
-    "total_entries": 358,
-    "music_entries": 333,
+    "total_entries": 363,
+    "music_entries": 337,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -23,6 +23,11 @@
       {
         "artist": "Dennis Lloyd",
         "title": "Anxious",
+        "plays": 3
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 3
       },
       {
@@ -131,11 +136,6 @@
         "plays": 2
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 2
-      },
-      {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
         "plays": 2
@@ -188,6 +188,11 @@
       {
         "artist": "Laurell",
         "title": "Habit",
+        "plays": 2
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "More to Lose",
         "plays": 2
       },
       {
@@ -253,6 +258,11 @@
       {
         "artist": "Phoenix feat. Ezra Koenig",
         "title": "Tonight (feat. Ezra Koenig)",
+        "plays": 2
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
         "plays": 2
       },
       {
@@ -691,11 +701,6 @@
         "plays": 1
       },
       {
-        "artist": "Miley Cyrus",
-        "title": "More to Lose",
-        "plays": 1
-      },
-      {
         "artist": "The 1975",
         "title": "Part Of The Band",
         "plays": 1
@@ -838,11 +843,6 @@
       {
         "artist": "Danger Dan",
         "title": "Eine gute Nachricht",
-        "plays": 1
-      },
-      {
-        "artist": "Swedish House Mafia & The Weeknd",
-        "title": "Moth To A Flame",
         "plays": 1
       },
       {
@@ -1358,6 +1358,11 @@
       {
         "artist": "The Kid LAROI & Justin Bieber",
         "title": "Stay",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Daisies",
         "plays": 1
       }
     ],
