@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 201,
-    "music_entries": 187,
+    "total_entries": 208,
+    "music_entries": 193,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -28,6 +28,11 @@
       {
         "artist": "Lorde",
         "title": "What Was That",
+        "plays": 2
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 2
       },
       {
@@ -278,11 +283,6 @@
       {
         "artist": "Kwam.e & Ove",
         "title": "Hallow Kitty",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 1
       },
       {
@@ -893,6 +893,31 @@
       {
         "artist": "Dr. Hook",
         "title": "Sexy Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Wunderschön",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "Island",
+        "plays": 1
+      },
+      {
+        "artist": "Tierra Whack",
+        "title": "Siren",
+        "plays": 1
+      },
+      {
+        "artist": "Muse",
+        "title": "Something Human",
+        "plays": 1
+      },
+      {
+        "artist": "KAFFKIEZ",
+        "title": "Matilda",
         "plays": 1
       }
     ],
