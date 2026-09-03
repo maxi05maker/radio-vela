@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 280,
-    "music_entries": 261,
+    "total_entries": 284,
+    "music_entries": 264,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -33,6 +33,11 @@
       {
         "artist": "The Marías",
         "title": "No One Noticed",
+        "plays": 2
+      },
+      {
+        "artist": "Lola Young",
+        "title": "One Thing",
         "plays": 2
       },
       {
@@ -231,6 +236,11 @@
         "plays": 2
       },
       {
+        "artist": "Sam Smith & Normani",
+        "title": "Dancing With A Stranger",
+        "plays": 2
+      },
+      {
         "artist": "CRO",
         "title": "Fallin",
         "plays": 2
@@ -238,6 +248,11 @@
       {
         "artist": "Sofia Portanet",
         "title": "Real Face",
+        "plays": 2
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Love Again",
         "plays": 2
       },
       {
@@ -363,11 +378,6 @@
       {
         "artist": "Silbermond",
         "title": "Auf Auf",
-        "plays": 1
-      },
-      {
-        "artist": "Lola Young",
-        "title": "One Thing",
         "plays": 1
       },
       {
@@ -581,11 +591,6 @@
         "plays": 1
       },
       {
-        "artist": "Sam Smith & Normani",
-        "title": "Dancing With A Stranger",
-        "plays": 1
-      },
-      {
         "artist": "Samara Cyn",
         "title": "Brand New Teeth feat. Smino",
         "plays": 1
@@ -613,11 +618,6 @@
       {
         "artist": "Def Leppard",
         "title": "Rejoice",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "Love Again",
         "plays": 1
       },
       {
