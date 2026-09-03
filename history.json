@@ -1294,5 +1294,23 @@
     "played_at": "2026-09-03 18:39:08 +0200",
     "title": "Deja Vu",
     "artist": "Mike Singer"
+  },
+  {
+    "key": "2026-09-03 18:42:19 +0200|Confusion|Electric Light Orchestra",
+    "played_at": "2026-09-03 18:42:19 +0200",
+    "title": "Confusion",
+    "artist": "Electric Light Orchestra"
+  },
+  {
+    "key": "2026-09-03 18:46:00 +0200|Guess|Charli xcx feat. Billie Eilish",
+    "played_at": "2026-09-03 18:46:00 +0200",
+    "title": "Guess",
+    "artist": "Charli xcx feat. Billie Eilish"
+  },
+  {
+    "key": "2026-09-03 18:48:24 +0200|Nur die Musik|JORIS",
+    "played_at": "2026-09-03 18:48:24 +0200",
+    "title": "Nur die Musik",
+    "artist": "JORIS"
   }
 ]

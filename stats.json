@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 216,
-    "music_entries": 201,
+    "total_entries": 219,
+    "music_entries": 204,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -53,6 +53,11 @@
       {
         "artist": "ROSALÍA",
         "title": "LLYLM",
+        "plays": 2
+      },
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Confusion",
         "plays": 2
       },
       {
@@ -353,11 +358,6 @@
       {
         "artist": "DIIV",
         "title": "Frog In Boiling Water",
-        "plays": 1
-      },
-      {
-        "artist": "Electric Light Orchestra",
-        "title": "Confusion",
         "plays": 1
       },
       {
@@ -938,6 +938,16 @@
       {
         "artist": "Robbie Williams",
         "title": "Forbidden Road (From Better Man Original Motion Picture Soundtrack)",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx feat. Billie Eilish",
+        "title": "Guess",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
         "plays": 1
       }
     ],
