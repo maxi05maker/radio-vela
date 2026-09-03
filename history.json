@@ -256,5 +256,23 @@
     "played_at": "2026-09-03 09:23:50 +0200",
     "title": "Remember Me",
     "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-03 09:27:24 +0200|Smooth|Cro",
+    "played_at": "2026-09-03 09:27:24 +0200",
+    "title": "Smooth",
+    "artist": "Cro"
+  },
+  {
+    "key": "2026-09-03 09:30:26 +0200|Krieg mit mir selbst|Revolverheld & Megaloh",
+    "played_at": "2026-09-03 09:30:26 +0200",
+    "title": "Krieg mit mir selbst",
+    "artist": "Revolverheld & Megaloh"
+  },
+  {
+    "key": "2026-09-03 09:33:46 +0200|Maschin|Bilderbuch",
+    "played_at": "2026-09-03 09:33:46 +0200",
+    "title": "Maschin",
+    "artist": "Bilderbuch"
   }
 ]
