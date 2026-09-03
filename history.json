@@ -2068,5 +2068,23 @@
     "played_at": "2026-09-04 01:27:33 +0200",
     "title": "Thunder",
     "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-04 01:32:56 +0200|Island|Alice Merton",
+    "played_at": "2026-09-04 01:32:56 +0200",
+    "title": "Island",
+    "artist": "Alice Merton"
+  },
+  {
+    "key": "2026-09-04 01:36:03 +0200|Supermodel|Måneskin",
+    "played_at": "2026-09-04 01:36:03 +0200",
+    "title": "Supermodel",
+    "artist": "Måneskin"
+  },
+  {
+    "key": "2026-09-04 01:38:27 +0200|Revolving door|Tate McRae",
+    "played_at": "2026-09-04 01:38:27 +0200",
+    "title": "Revolving door",
+    "artist": "Tate McRae"
   }
 ]

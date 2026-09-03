@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 345,
-    "music_entries": 321,
+    "total_entries": 348,
+    "music_entries": 324,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -421,6 +421,11 @@
         "plays": 2
       },
       {
+        "artist": "Måneskin",
+        "title": "Supermodel",
+        "plays": 2
+      },
+      {
         "artist": "Alex Cameron",
         "title": "Best Life",
         "plays": 2
@@ -438,6 +443,11 @@
       {
         "artist": "ClockClock",
         "title": "Sorry",
+        "plays": 2
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "Island",
         "plays": 2
       },
       {
@@ -871,11 +881,6 @@
         "plays": 1
       },
       {
-        "artist": "Måneskin",
-        "title": "Supermodel",
-        "plays": 1
-      },
-      {
         "artist": "ROSÉ & Bruno Mars",
         "title": "APT.",
         "plays": 1
@@ -908,11 +913,6 @@
       {
         "artist": "Zartmann",
         "title": "Wunderschön",
-        "plays": 1
-      },
-      {
-        "artist": "Alice Merton",
-        "title": "Island",
         "plays": 1
       },
       {
@@ -1123,6 +1123,11 @@
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Revolving door",
         "plays": 1
       }
     ],
