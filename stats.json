@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 124,
-    "music_entries": 116,
+    "total_entries": 128,
+    "music_entries": 119,
     "songs": [
       {
         "artist": "Shirin David",
@@ -583,6 +583,21 @@
       {
         "artist": "Alli Neumann",
         "title": "Monster",
+        "plays": 1
+      },
+      {
+        "artist": "Danger Dan",
+        "title": "Lauf Davon",
+        "plays": 1
+      },
+      {
+        "artist": "Def Leppard",
+        "title": "Rejoice",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Real Face",
         "plays": 1
       }
     ],
