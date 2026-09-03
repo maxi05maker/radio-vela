@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 321,
-    "music_entries": 299,
+    "total_entries": 325,
+    "music_entries": 302,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -266,6 +266,11 @@
         "plays": 2
       },
       {
+        "artist": "Danger Dan",
+        "title": "Lauf Davon",
+        "plays": 2
+      },
+      {
         "artist": "Sofia Portanet",
         "title": "Real Face",
         "plays": 2
@@ -353,6 +358,11 @@
       {
         "artist": "Laurell",
         "title": "Habit",
+        "plays": 2
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Who's In Your Head",
         "plays": 2
       },
       {
@@ -696,11 +706,6 @@
         "plays": 1
       },
       {
-        "artist": "Danger Dan",
-        "title": "Lauf Davon",
-        "plays": 1
-      },
-      {
         "artist": "Def Leppard",
         "title": "Rejoice",
         "plays": 1
@@ -773,11 +778,6 @@
       {
         "artist": "Remy Ma",
         "title": "On The Radar Freestyle",
-        "plays": 1
-      },
-      {
-        "artist": "Jonas Brothers",
-        "title": "Who's In Your Head",
         "plays": 1
       },
       {
@@ -1093,6 +1093,11 @@
       {
         "artist": "Shawn Mendes",
         "title": "Why Why Why",
+        "plays": 1
+      },
+      {
+        "artist": "Floodlights",
+        "title": "Can You Feel It",
         "plays": 1
       }
     ],
