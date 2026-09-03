@@ -310,5 +310,23 @@
     "played_at": "2026-09-03 09:53:46 +0200",
     "title": "Waterfall",
     "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-09-03 09:56:04 +0200|Murphy's Law|Róisín Murphy",
+    "played_at": "2026-09-03 09:56:04 +0200",
+    "title": "Murphy's Law",
+    "artist": "Róisín Murphy"
+  },
+  {
+    "key": "2026-09-03 09:59:54 +0200|What Was That|Lorde",
+    "played_at": "2026-09-03 09:59:54 +0200",
+    "title": "What Was That",
+    "artist": "Lorde"
+  },
+  {
+    "key": "2026-09-03 10:03:23 +0200|Hallow Kitty|Kwam.e & Ove",
+    "played_at": "2026-09-03 10:03:23 +0200",
+    "title": "Hallow Kitty",
+    "artist": "Kwam.e & Ove"
   }
 ]
