@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 274,
-    "music_entries": 255,
+    "total_entries": 277,
+    "music_entries": 258,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,6 +13,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 3
+      },
+      {
+        "artist": "Cordae",
+        "title": "Sinister feat. Lil Wayne",
         "plays": 3
       },
       {
@@ -161,11 +166,6 @@
         "plays": 2
       },
       {
-        "artist": "Cordae",
-        "title": "Sinister feat. Lil Wayne",
-        "plays": 2
-      },
-      {
         "artist": "Mayberg",
         "title": "Der neue Stil meiner Generation",
         "plays": 2
@@ -188,6 +188,11 @@
       {
         "artist": "Clueso",
         "title": "Tanzen",
+        "plays": 2
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
         "plays": 2
       },
       {
@@ -533,11 +538,6 @@
       {
         "artist": "Avalanche",
         "title": "Down For The Count",
-        "plays": 1
-      },
-      {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
         "plays": 1
       },
       {
@@ -1028,6 +1028,11 @@
       {
         "artist": "Felix Jaehn JHart",
         "title": "PRIDE",
+        "plays": 1
+      },
+      {
+        "artist": "Spelling",
+        "title": "Portrait Of My Heart",
         "plays": 1
       }
     ],
