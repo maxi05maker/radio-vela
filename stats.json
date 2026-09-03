@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 224,
-    "music_entries": 209,
+    "total_entries": 228,
+    "music_entries": 212,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -46,8 +46,18 @@
         "plays": 2
       },
       {
+        "artist": "Maroon 5 feat. Cardi B",
+        "title": "Girls Like You",
+        "plays": 2
+      },
+      {
         "artist": "Purple Disco Machine/Sophie and the Giants",
         "title": "In The Dark",
+        "plays": 2
+      },
+      {
+        "artist": "La Roux",
+        "title": "Uptight Downtown",
         "plays": 2
       },
       {
@@ -346,18 +356,8 @@
         "plays": 1
       },
       {
-        "artist": "Maroon 5 feat. Cardi B",
-        "title": "Girls Like You",
-        "plays": 1
-      },
-      {
         "artist": "International Music",
         "title": "Im Sommer bin ich dein König",
-        "plays": 1
-      },
-      {
-        "artist": "La Roux",
-        "title": "Uptight Downtown",
         "plays": 1
       },
       {
@@ -958,6 +958,11 @@
       {
         "artist": "Purple Disco Machine, Alison Goldfrapp",
         "title": "Dream Machine",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
         "plays": 1
       }
     ],

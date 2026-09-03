@@ -1342,5 +1342,29 @@
     "played_at": "2026-09-03 19:06:42 +0200",
     "title": "Dream Machine",
     "artist": "Purple Disco Machine, Alison Goldfrapp"
+  },
+  {
+    "key": "2026-09-03 19:10:04 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-03 19:10:04 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-03 19:12:53 +0200|Girls Like You|Maroon 5 feat. Cardi B",
+    "played_at": "2026-09-03 19:12:53 +0200",
+    "title": "Girls Like You",
+    "artist": "Maroon 5 feat. Cardi B"
+  },
+  {
+    "key": "2026-09-03 19:16:49 +0200|Uptight Downtown|La Roux",
+    "played_at": "2026-09-03 19:16:49 +0200",
+    "title": "Uptight Downtown",
+    "artist": "La Roux"
+  },
+  {
+    "key": "2026-09-03 19:21:11 +0200|Dai Dai|Shakira & Burna Boy",
+    "played_at": "2026-09-03 19:21:11 +0200",
+    "title": "Dai Dai",
+    "artist": "Shakira & Burna Boy"
   }
 ]
