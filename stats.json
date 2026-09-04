@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 42,
-    "music_entries": 39,
+    "total_entries": 46,
+    "music_entries": 43,
     "songs": [
       {
         "artist": "Dean Lewis",
@@ -198,6 +198,26 @@
       {
         "artist": "Coldplay X BTS",
         "title": "My Universe",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben & James Blunt",
+        "title": "Walk Away",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Pazifik",
+        "plays": 1
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Only the Strong Survive",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
         "plays": 1
       }
     ],

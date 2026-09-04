@@ -250,5 +250,29 @@
     "played_at": "2026-09-04 09:12:29 +0200",
     "title": "My Universe",
     "artist": "Coldplay X BTS"
+  },
+  {
+    "key": "2026-09-04 09:16:17 +0200|Walk Away|Alle Farben & James Blunt",
+    "played_at": "2026-09-04 09:16:17 +0200",
+    "title": "Walk Away",
+    "artist": "Alle Farben & James Blunt"
+  },
+  {
+    "key": "2026-09-04 09:19:30 +0200|Pazifik|Provinz",
+    "played_at": "2026-09-04 09:19:30 +0200",
+    "title": "Pazifik",
+    "artist": "Provinz"
+  },
+  {
+    "key": "2026-09-04 09:22:31 +0200|Only the Strong Survive|Bruce Springsteen",
+    "played_at": "2026-09-04 09:22:31 +0200",
+    "title": "Only the Strong Survive",
+    "artist": "Bruce Springsteen"
+  },
+  {
+    "key": "2026-09-04 09:25:30 +0200|Mañana|Alvaro Soler feat. Cali Y El Dandee",
+    "played_at": "2026-09-04 09:25:30 +0200",
+    "title": "Mañana",
+    "artist": "Alvaro Soler feat. Cali Y El Dandee"
   }
 ]
