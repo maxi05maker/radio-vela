@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 165,
-    "music_entries": 154,
+    "total_entries": 168,
+    "music_entries": 157,
     "songs": [
       {
         "artist": "The 1975",
@@ -13,6 +13,11 @@
       {
         "artist": "Muse",
         "title": "Something Human",
+        "plays": 2
+      },
+      {
+        "artist": "Mine",
+        "title": "Eiscreme",
         "plays": 2
       },
       {
@@ -33,6 +38,16 @@
       {
         "artist": "Rag'n'Bone Man",
         "title": "Human",
+        "plays": 2
+      },
+      {
+        "artist": "LINKIN PARK & Kiiara",
+        "title": "Heavy",
+        "plays": 2
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Planufer",
         "plays": 2
       },
       {
@@ -73,11 +88,6 @@
       {
         "artist": "Ava Max",
         "title": "Dancing’s Done",
-        "plays": 1
-      },
-      {
-        "artist": "Mine",
-        "title": "Eiscreme",
         "plays": 1
       },
       {
@@ -128,16 +138,6 @@
       {
         "artist": "RAYE, 070 Shake",
         "title": "Escapism.",
-        "plays": 1
-      },
-      {
-        "artist": "LINKIN PARK & Kiiara",
-        "title": "Heavy",
-        "plays": 1
-      },
-      {
-        "artist": "Wa22ermann",
-        "title": "Planufer",
         "plays": 1
       },
       {
