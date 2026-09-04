@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 302,
-    "music_entries": 281,
+    "total_entries": 307,
+    "music_entries": 286,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -958,6 +958,31 @@
       {
         "artist": "Five Finger Death Punch",
         "title": "The End",
+        "plays": 1
+      },
+      {
+        "artist": "Finn Wolfhard",
+        "title": "Tunnels",
+        "plays": 1
+      },
+      {
+        "artist": "Milky Chance",
+        "title": "Synchronize",
+        "plays": 1
+      },
+      {
+        "artist": "Pusha T",
+        "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Hypaton, Bonnie Tyler",
+        "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heartbeat",
         "plays": 1
       }
     ],
