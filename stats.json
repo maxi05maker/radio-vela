@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 333,
-    "music_entries": 310,
+    "total_entries": 335,
+    "music_entries": 312,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1058,6 +1058,16 @@
       {
         "artist": "Mabel X Jax Jones X Galatis",
         "title": "Good Luck",
+        "plays": 1
+      },
+      {
+        "artist": "Joe Bonamassa & Ivan Neville",
+        "title": "Ghetto Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
         "plays": 1
       }
     ],
