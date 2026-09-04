@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 319,
-    "music_entries": 297,
+    "total_entries": 321,
+    "music_entries": 299,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -386,6 +386,11 @@
         "plays": 2
       },
       {
+        "artist": "Lorde",
+        "title": "What Was That",
+        "plays": 2
+      },
+      {
         "artist": "DJ Snake & J. Balvin Feat. Tyga",
         "title": "Loco Contigo",
         "plays": 2
@@ -583,11 +588,6 @@
       {
         "artist": "Peter Frampton feat.Tom Morello",
         "title": "Lions At The Gate",
-        "plays": 1
-      },
-      {
-        "artist": "Lorde",
-        "title": "What Was That",
         "plays": 1
       },
       {
@@ -1018,6 +1018,11 @@
       {
         "artist": "Prezident",
         "title": "Zwiebel",
+        "plays": 1
+      },
+      {
+        "artist": "Kummer",
+        "title": "Es tut wieder weh",
         "plays": 1
       }
     ],
