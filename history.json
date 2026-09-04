@@ -1984,5 +1984,17 @@
     "played_at": "2026-09-05 00:31:21 +0200",
     "title": "It's Raining",
     "artist": "Ziggy in tha House"
+  },
+  {
+    "key": "2026-09-05 00:35:17 +0200|Moscow Mule|Bad Bunny",
+    "played_at": "2026-09-05 00:35:17 +0200",
+    "title": "Moscow Mule",
+    "artist": "Bad Bunny"
+  },
+  {
+    "key": "2026-09-05 00:39:23 +0200|Good Luck|Mabel X Jax Jones X Galatis",
+    "played_at": "2026-09-05 00:39:23 +0200",
+    "title": "Good Luck",
+    "artist": "Mabel X Jax Jones X Galatis"
   }
 ]

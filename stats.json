@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 331,
-    "music_entries": 308,
+    "total_entries": 333,
+    "music_entries": 310,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1048,6 +1048,16 @@
       {
         "artist": "Jax Jones Feat. MNEK",
         "title": "Where Did You Go?",
+        "plays": 1
+      },
+      {
+        "artist": "Bad Bunny",
+        "title": "Moscow Mule",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel X Jax Jones X Galatis",
+        "title": "Good Luck",
         "plays": 1
       }
     ],
