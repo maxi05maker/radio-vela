@@ -2,13 +2,18 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 174,
-    "music_entries": 162,
+    "total_entries": 178,
+    "music_entries": 166,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
         "plays": 3
+      },
+      {
+        "artist": "Dean Lewis",
+        "title": "Looks Like Me",
+        "plays": 2
       },
       {
         "artist": "The 1975",
@@ -38,6 +43,16 @@
       {
         "artist": "Jonas Brothers",
         "title": "Only Human",
+        "plays": 2
+      },
+      {
+        "artist": "Alex Cameron",
+        "title": "Best Life",
+        "plays": 2
+      },
+      {
+        "artist": "BOY",
+        "title": "Fit Back In",
         "plays": 2
       },
       {
@@ -74,11 +89,6 @@
         "artist": "SZA",
         "title": "Kill Bill (Remix) feat. Doja Cat",
         "plays": 2
-      },
-      {
-        "artist": "Dean Lewis",
-        "title": "Looks Like Me",
-        "plays": 1
       },
       {
         "artist": "Ina Müller",
@@ -121,18 +131,8 @@
         "plays": 1
       },
       {
-        "artist": "Alex Cameron",
-        "title": "Best Life",
-        "plays": 1
-      },
-      {
         "artist": "Tate McRae",
         "title": "Just Keep Watching",
-        "plays": 1
-      },
-      {
-        "artist": "BOY",
-        "title": "Fit Back In",
         "plays": 1
       },
       {
@@ -738,6 +738,11 @@
       {
         "artist": "The Marías",
         "title": "No One Noticed",
+        "plays": 1
+      },
+      {
+        "artist": "Kevin Morby",
+        "title": "Die Young",
         "plays": 1
       }
     ],
