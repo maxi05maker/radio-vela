@@ -2188,5 +2188,29 @@
     "played_at": "2026-09-04 02:25:52 +0200",
     "title": "Deja Vu",
     "artist": "Mike Singer"
+  },
+  {
+    "key": "2026-09-04 02:29:03 +0200|Escapism.|RAYE, 070 Shake",
+    "played_at": "2026-09-04 02:29:03 +0200",
+    "title": "Escapism.",
+    "artist": "RAYE, 070 Shake"
+  },
+  {
+    "key": "2026-09-04 02:33:35 +0200|Slow Motion|Alessia Cara",
+    "played_at": "2026-09-04 02:33:35 +0200",
+    "title": "Slow Motion",
+    "artist": "Alessia Cara"
+  },
+  {
+    "key": "2026-09-04 02:36:59 +0200|Kings & Queens|Ava Max",
+    "played_at": "2026-09-04 02:36:59 +0200",
+    "title": "Kings & Queens",
+    "artist": "Ava Max"
+  },
+  {
+    "key": "2026-09-04 02:39:41 +0200|Girls Like You|Maroon 5 feat. Cardi B",
+    "played_at": "2026-09-04 02:39:41 +0200",
+    "title": "Girls Like You",
+    "artist": "Maroon 5 feat. Cardi B"
   }
 ]

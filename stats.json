@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 365,
-    "music_entries": 339,
+    "total_entries": 369,
+    "music_entries": 343,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -36,6 +36,11 @@
         "plays": 3
       },
       {
+        "artist": "Maroon 5 feat. Cardi B",
+        "title": "Girls Like You",
+        "plays": 3
+      },
+      {
         "artist": "Purple Disco Machine/Sophie and the Giants",
         "title": "In The Dark",
         "plays": 3
@@ -43,6 +48,16 @@
       {
         "artist": "Mike Singer",
         "title": "Deja Vu",
+        "plays": 3
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Kings & Queens",
+        "plays": 3
+      },
+      {
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
         "plays": 3
       },
       {
@@ -106,11 +121,6 @@
         "plays": 2
       },
       {
-        "artist": "Maroon 5 feat. Cardi B",
-        "title": "Girls Like You",
-        "plays": 2
-      },
-      {
         "artist": "La Roux",
         "title": "Uptight Downtown",
         "plays": 2
@@ -123,16 +133,6 @@
       {
         "artist": "Electric Light Orchestra",
         "title": "Confusion",
-        "plays": 2
-      },
-      {
-        "artist": "Ava Max",
-        "title": "Kings & Queens",
-        "plays": 2
-      },
-      {
-        "artist": "RAYE, 070 Shake",
-        "title": "Escapism.",
         "plays": 2
       },
       {
@@ -1158,6 +1158,11 @@
       {
         "artist": "Ed Sheeran",
         "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
         "plays": 1
       }
     ],
