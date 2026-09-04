@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 158,
-    "music_entries": 147,
+    "total_entries": 162,
+    "music_entries": 151,
     "songs": [
       {
         "artist": "The 1975",
@@ -688,6 +688,26 @@
       {
         "artist": "Aerosmith, YUNGBLUD",
         "title": "Wild Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
+        "plays": 1
+      },
+      {
+        "artist": "Conchita Wurst",
+        "title": "Dirty Maria",
+        "plays": 1
+      },
+      {
+        "artist": "JENNIE, Dua Lipa",
+        "title": "Handlebars",
+        "plays": 1
+      },
+      {
+        "artist": "Laurell",
+        "title": "Habit",
         "plays": 1
       }
     ],
