@@ -1780,5 +1780,17 @@
     "played_at": "2026-09-04 22:47:34 +0200",
     "title": "The news",
     "artist": "Paramore"
+  },
+  {
+    "key": "2026-09-04 22:50:42 +0200|High (feat. Claudia Valentina)|CRO",
+    "played_at": "2026-09-04 22:50:42 +0200",
+    "title": "High (feat. Claudia Valentina)",
+    "artist": "CRO"
+  },
+  {
+    "key": "2026-09-04 22:53:30 +0200|Human (feat. Jesse & Joy)|Robbie Williams & Jesse & Joy",
+    "played_at": "2026-09-04 22:53:30 +0200",
+    "title": "Human (feat. Jesse & Joy)",
+    "artist": "Robbie Williams & Jesse & Joy"
   }
 ]
