@@ -784,5 +784,35 @@
     "played_at": "2026-09-04 13:56:34 +0200",
     "title": "Follow You",
     "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-04 13:59:29 +0200|One Thing|Lola Young",
+    "played_at": "2026-09-04 13:59:29 +0200",
+    "title": "One Thing",
+    "artist": "Lola Young"
+  },
+  {
+    "key": "2026-09-04 14:02:58 +0200|Don't Shut Me Down|ABBA",
+    "played_at": "2026-09-04 14:02:58 +0200",
+    "title": "Don't Shut Me Down",
+    "artist": "ABBA"
+  },
+  {
+    "key": "2026-09-04 14:06:55 +0200|I'm Not Here To Make Friends|Sam Smith",
+    "played_at": "2026-09-04 14:06:55 +0200",
+    "title": "I'm Not Here To Make Friends",
+    "artist": "Sam Smith"
+  },
+  {
+    "key": "2026-09-04 14:10:44 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-04 14:10:44 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-04 14:13:22 +0200|Blessings|Calvin Harris & Clementine Douglas",
+    "played_at": "2026-09-04 14:13:22 +0200",
+    "title": "Blessings",
+    "artist": "Calvin Harris & Clementine Douglas"
   }
 ]

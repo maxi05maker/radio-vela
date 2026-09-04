@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 131,
-    "music_entries": 122,
+    "total_entries": 136,
+    "music_entries": 126,
     "songs": [
       {
         "artist": "The 1975",
@@ -588,6 +588,26 @@
       {
         "artist": "Maroon 5 feat. Cardi B",
         "title": "Girls Like You",
+        "plays": 1
+      },
+      {
+        "artist": "Lola Young",
+        "title": "One Thing",
+        "plays": 1
+      },
+      {
+        "artist": "ABBA",
+        "title": "Don't Shut Me Down",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "I'm Not Here To Make Friends",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris & Clementine Douglas",
+        "title": "Blessings",
         "plays": 1
       }
     ],
