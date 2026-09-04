@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 418,
-    "music_entries": 388,
+    "total_entries": 422,
+    "music_entries": 392,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -98,6 +98,11 @@
       {
         "artist": "Charli xcx",
         "title": "party 4 u",
+        "plays": 3
+      },
+      {
+        "artist": "Billy Idol",
+        "title": "Bitter Taste",
         "plays": 3
       },
       {
@@ -243,11 +248,6 @@
       {
         "artist": "Maggie Rogers",
         "title": "In The Living Room",
-        "plays": 2
-      },
-      {
-        "artist": "Billy Idol",
-        "title": "Bitter Taste",
         "plays": 2
       },
       {
@@ -1233,6 +1233,21 @@
       {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Tainy",
+        "title": "Summer Of Love",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "I'm Not Here To Make Friends",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & Faithless",
+        "title": "New Religion",
         "plays": 1
       }
     ],
