@@ -736,5 +736,23 @@
     "played_at": "2026-09-04 13:30:08 +0200",
     "title": "Lions At The Gate",
     "artist": "Peter Frampton feat.Tom Morello"
+  },
+  {
+    "key": "2026-09-04 13:34:18 +0200|Memories|Yungblud",
+    "played_at": "2026-09-04 13:34:18 +0200",
+    "title": "Memories",
+    "artist": "Yungblud"
+  },
+  {
+    "key": "2026-09-04 13:36:54 +0200|I Don’t Think That I Like Her|Charlie Puth",
+    "played_at": "2026-09-04 13:36:54 +0200",
+    "title": "I Don’t Think That I Like Her",
+    "artist": "Charlie Puth"
+  },
+  {
+    "key": "2026-09-04 13:40:02 +0200|What Was That|Lorde",
+    "played_at": "2026-09-04 13:40:02 +0200",
+    "title": "What Was That",
+    "artist": "Lorde"
   }
 ]

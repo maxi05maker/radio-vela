@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 123,
-    "music_entries": 114,
+    "total_entries": 126,
+    "music_entries": 117,
     "songs": [
       {
         "artist": "The 1975",
@@ -553,6 +553,21 @@
       {
         "artist": "Peter Frampton feat.Tom Morello",
         "title": "Lions At The Gate",
+        "plays": 1
+      },
+      {
+        "artist": "Yungblud",
+        "title": "Memories",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "I Don’t Think That I Like Her",
+        "plays": 1
+      },
+      {
+        "artist": "Lorde",
+        "title": "What Was That",
         "plays": 1
       }
     ],
