@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 106,
-    "music_entries": 99,
+    "total_entries": 113,
+    "music_entries": 105,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -483,6 +483,36 @@
       {
         "artist": "P!nk",
         "title": "Beautiful Trauma",
+        "plays": 1
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Hass auf den letzten Blick",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Sag Mir Was Du Willst",
+        "plays": 1
+      },
+      {
+        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
+        "title": "Best Friend",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Betterov",
+        "title": "17. Juli 1989",
         "plays": 1
       }
     ],
