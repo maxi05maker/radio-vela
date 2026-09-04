@@ -1516,5 +1516,29 @@
     "played_at": "2026-09-04 20:31:28 +0200",
     "title": "LIFETIMES",
     "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-09-04 20:34:40 +0200|Girls Like You|Maroon 5 feat. Cardi B",
+    "played_at": "2026-09-04 20:34:40 +0200",
+    "title": "Girls Like You",
+    "artist": "Maroon 5 feat. Cardi B"
+  },
+  {
+    "key": "2026-09-04 20:38:35 +0200|Schwarz|LEA & Casper",
+    "played_at": "2026-09-04 20:38:35 +0200",
+    "title": "Schwarz",
+    "artist": "LEA & Casper"
+  },
+  {
+    "key": "2026-09-04 20:41:11 +0200|Mr. Know It All|Teddy Swims",
+    "played_at": "2026-09-04 20:41:11 +0200",
+    "title": "Mr. Know It All",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-09-04 20:44:27 +0200|Herzalarm|Finch (feat. Blümchen)",
+    "played_at": "2026-09-04 20:44:27 +0200",
+    "title": "Herzalarm",
+    "artist": "Finch (feat. Blümchen)"
   }
 ]

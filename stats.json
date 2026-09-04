@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 253,
-    "music_entries": 236,
+    "total_entries": 257,
+    "music_entries": 240,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -281,13 +281,28 @@
         "plays": 2
       },
       {
+        "artist": "Finch (feat. Blümchen)",
+        "title": "Herzalarm",
+        "plays": 2
+      },
+      {
         "artist": "Sophie & The Giants",
         "title": "Golden Nights",
         "plays": 2
       },
       {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
+        "plays": 2
+      },
+      {
         "artist": "Kwam.e & Ove",
         "title": "Hallow Kitty",
+        "plays": 2
+      },
+      {
+        "artist": "Maroon 5 feat. Cardi B",
+        "title": "Girls Like You",
         "plays": 2
       },
       {
@@ -456,11 +471,6 @@
         "plays": 1
       },
       {
-        "artist": "Finch (feat. Blümchen)",
-        "title": "Herzalarm",
-        "plays": 1
-      },
-      {
         "artist": "Beabadoobee",
         "title": "Ever Seen",
         "plays": 1
@@ -473,11 +483,6 @@
       {
         "artist": "Zartmann",
         "title": "tau mich auf",
-        "plays": 1
-      },
-      {
-        "artist": "LEA & Casper",
-        "title": "Schwarz",
         "plays": 1
       },
       {
@@ -583,11 +588,6 @@
       {
         "artist": "Sarah Connor & Sido",
         "title": "Interstellar (Zwischen den Sternen)",
-        "plays": 1
-      },
-      {
-        "artist": "Maroon 5 feat. Cardi B",
-        "title": "Girls Like You",
         "plays": 1
       },
       {
@@ -868,6 +868,11 @@
       {
         "artist": "Katy Perry",
         "title": "LIFETIMES",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
         "plays": 1
       }
     ],
