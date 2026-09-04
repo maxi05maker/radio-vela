@@ -2368,5 +2368,29 @@
     "played_at": "2026-09-04 04:14:32 +0200",
     "title": "In The Living Room",
     "artist": "Maggie Rogers"
+  },
+  {
+    "key": "2026-09-04 04:18:56 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-04 04:18:56 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-04 04:21:41 +0200|Beverly Hills|Weezer",
+    "played_at": "2026-09-04 04:21:41 +0200",
+    "title": "Beverly Hills",
+    "artist": "Weezer"
+  },
+  {
+    "key": "2026-09-04 04:25:01 +0200|Sag Mir Was Du Willst|Clueso",
+    "played_at": "2026-09-04 04:25:01 +0200",
+    "title": "Sag Mir Was Du Willst",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-04 04:28:05 +0200|Wenn das Liebe ist|Nina Chuba",
+    "played_at": "2026-09-04 04:28:05 +0200",
+    "title": "Wenn das Liebe ist",
+    "artist": "Nina Chuba"
   }
 ]

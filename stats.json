@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 395,
-    "music_entries": 368,
+    "total_entries": 399,
+    "music_entries": 371,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -136,6 +136,11 @@
         "plays": 3
       },
       {
+        "artist": "Weezer",
+        "title": "Beverly Hills",
+        "plays": 3
+      },
+      {
         "artist": "Samara Cyn",
         "title": "Brand New Teeth feat. Smino",
         "plays": 3
@@ -256,6 +261,11 @@
         "plays": 2
       },
       {
+        "artist": "Clueso",
+        "title": "Sag Mir Was Du Willst",
+        "plays": 2
+      },
+      {
         "artist": "Twenty One Pilots",
         "title": "The Craving (Jenna's version)",
         "plays": 2
@@ -273,11 +283,6 @@
       {
         "artist": "Clueso",
         "title": "Flugmodus",
-        "plays": 2
-      },
-      {
-        "artist": "Weezer",
-        "title": "Beverly Hills",
         "plays": 2
       },
       {
@@ -786,11 +791,6 @@
         "plays": 1
       },
       {
-        "artist": "Clueso",
-        "title": "Sag Mir Was Du Willst",
-        "plays": 1
-      },
-      {
         "artist": "Purple Disco Machine feat. Retrosonix",
         "title": "Ghost Town",
         "plays": 1
@@ -1168,6 +1168,11 @@
       {
         "artist": "Bosse",
         "title": "Vergangenheit",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wenn das Liebe ist",
         "plays": 1
       }
     ],
