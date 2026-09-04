@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 181,
-    "music_entries": 169,
+    "total_entries": 184,
+    "music_entries": 172,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -38,6 +38,11 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
         "plays": 2
       },
       {
@@ -91,6 +96,11 @@
         "plays": 2
       },
       {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 2
+      },
+      {
         "artist": "Bilderbuch",
         "title": "Bungalow",
         "plays": 2
@@ -123,11 +133,6 @@
       {
         "artist": "Harry Styles",
         "title": "Aperture",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Throwback",
         "plays": 1
       },
       {
@@ -263,11 +268,6 @@
       {
         "artist": "Ziggy in tha House",
         "title": "It's Raining",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Bad Liar",
         "plays": 1
       },
       {
@@ -748,6 +748,11 @@
       {
         "artist": "Teuterekordz",
         "title": "Teute All-Star",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "petal",
         "plays": 1
       }
     ],
