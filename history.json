@@ -1426,5 +1426,41 @@
     "played_at": "2026-09-04 19:47:39 +0200",
     "title": "Wrecked",
     "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-04 19:51:42 +0200|Sommergewitter|Pashanim",
+    "played_at": "2026-09-04 19:51:42 +0200",
+    "title": "Sommergewitter",
+    "artist": "Pashanim"
+  },
+  {
+    "key": "2026-09-04 19:54:01 +0200|What Am I Gonna Do?|Aldous Harding",
+    "played_at": "2026-09-04 19:54:01 +0200",
+    "title": "What Am I Gonna Do?",
+    "artist": "Aldous Harding"
+  },
+  {
+    "key": "2026-09-04 19:57:46 +0200|Manila|Ray Dalton x Alvaro Soler",
+    "played_at": "2026-09-04 19:57:46 +0200",
+    "title": "Manila",
+    "artist": "Ray Dalton x Alvaro Soler"
+  },
+  {
+    "key": "2026-09-04 20:00:10 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-09-04 20:00:10 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-04 20:00:12 +0200|Death Of Love (Live)|James Blake",
+    "played_at": "2026-09-04 20:00:12 +0200",
+    "title": "Death Of Love (Live)",
+    "artist": "James Blake"
+  },
+  {
+    "key": "2026-09-04 20:03:36 +0200|If You're Too Shy (Let Me Know)|The 1975",
+    "played_at": "2026-09-04 20:03:36 +0200",
+    "title": "If You're Too Shy (Let Me Know)",
+    "artist": "The 1975"
   }
 ]
