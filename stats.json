@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 186,
-    "music_entries": 174,
+    "total_entries": 189,
+    "music_entries": 177,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -23,6 +23,11 @@
       {
         "artist": "Muse",
         "title": "Something Human",
+        "plays": 2
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Dancing’s Done",
         "plays": 2
       },
       {
@@ -68,6 +73,11 @@
       {
         "artist": "Rag'n'Bone Man",
         "title": "Human",
+        "plays": 2
+      },
+      {
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
         "plays": 2
       },
       {
@@ -126,11 +136,6 @@
         "plays": 1
       },
       {
-        "artist": "Ava Max",
-        "title": "Dancing’s Done",
-        "plays": 1
-      },
-      {
         "artist": "Robbie Williams",
         "title": "All My Life",
         "plays": 1
@@ -153,11 +158,6 @@
       {
         "artist": "Alli Neumann",
         "title": "Ein Herz kann man nicht reparieren",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE, 070 Shake",
-        "title": "Escapism.",
         "plays": 1
       },
       {
@@ -758,6 +758,11 @@
       {
         "artist": "sombr",
         "title": "Homewrecker",
+        "plays": 1
+      },
+      {
+        "artist": "Giant Rooks",
+        "title": "Want It Back",
         "plays": 1
       }
     ],
