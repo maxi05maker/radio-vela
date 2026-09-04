@@ -1690,5 +1690,35 @@
     "played_at": "2026-09-04 22:04:04 +0200",
     "title": "Something Human",
     "artist": "Muse"
+  },
+  {
+    "key": "2026-09-04 22:07:50 +0200|I Don’t Think That I Like Her|Charlie Puth",
+    "played_at": "2026-09-04 22:07:50 +0200",
+    "title": "I Don’t Think That I Like Her",
+    "artist": "Charlie Puth"
+  },
+  {
+    "key": "2026-09-04 22:10:58 +0200|Ein Herz kann man nicht reparieren|Alli Neumann",
+    "played_at": "2026-09-04 22:10:58 +0200",
+    "title": "Ein Herz kann man nicht reparieren",
+    "artist": "Alli Neumann"
+  },
+  {
+    "key": "2026-09-04 22:14:17 +0200|Heavy|LINKIN PARK & Kiiara",
+    "played_at": "2026-09-04 22:14:17 +0200",
+    "title": "Heavy",
+    "artist": "LINKIN PARK & Kiiara"
+  },
+  {
+    "key": "2026-09-04 22:17:05 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-04 22:17:05 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-04 22:19:54 +0200|Loco Contigo|DJ Snake & J. Balvin Feat. Tyga",
+    "played_at": "2026-09-04 22:19:54 +0200",
+    "title": "Loco Contigo",
+    "artist": "DJ Snake & J. Balvin Feat. Tyga"
   }
 ]

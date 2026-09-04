@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 282,
-    "music_entries": 263,
+    "total_entries": 287,
+    "music_entries": 267,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -33,6 +33,11 @@
       {
         "artist": "Rag'n'Bone Man",
         "title": "Human",
+        "plays": 3
+      },
+      {
+        "artist": "LINKIN PARK & Kiiara",
+        "title": "Heavy",
         "plays": 3
       },
       {
@@ -96,13 +101,13 @@
         "plays": 2
       },
       {
-        "artist": "RAYE, 070 Shake",
-        "title": "Escapism.",
+        "artist": "Alli Neumann",
+        "title": "Ein Herz kann man nicht reparieren",
         "plays": 2
       },
       {
-        "artist": "LINKIN PARK & Kiiara",
-        "title": "Heavy",
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
         "plays": 2
       },
       {
@@ -366,6 +371,16 @@
         "plays": 2
       },
       {
+        "artist": "Charlie Puth",
+        "title": "I Don’t Think That I Like Her",
+        "plays": 2
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
+        "plays": 2
+      },
+      {
         "artist": "Maroon 5 feat. Cardi B",
         "title": "Girls Like You",
         "plays": 2
@@ -388,11 +403,6 @@
       {
         "artist": "Tate McRae",
         "title": "Just Keep Watching",
-        "plays": 1
-      },
-      {
-        "artist": "Alli Neumann",
-        "title": "Ein Herz kann man nicht reparieren",
         "plays": 1
       },
       {
@@ -566,18 +576,8 @@
         "plays": 1
       },
       {
-        "artist": "Charlie Puth",
-        "title": "I Don’t Think That I Like Her",
-        "plays": 1
-      },
-      {
         "artist": "Lorde",
         "title": "What Was That",
-        "plays": 1
-      },
-      {
-        "artist": "DJ Snake & J. Balvin Feat. Tyga",
-        "title": "Loco Contigo",
         "plays": 1
       },
       {
