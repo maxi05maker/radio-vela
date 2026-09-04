@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 34,
-    "music_entries": 32,
+    "total_entries": 37,
+    "music_entries": 35,
     "songs": [
       {
         "artist": "Dean Lewis",
@@ -163,6 +163,21 @@
       {
         "artist": "Mitski",
         "title": "That White Cat",
+        "plays": 1
+      },
+      {
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Devin Townsend",
+        "title": "Jainism",
         "plays": 1
       }
     ],
