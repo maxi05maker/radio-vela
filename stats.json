@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 356,
-    "music_entries": 332,
+    "total_entries": 365,
+    "music_entries": 339,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -38,6 +38,16 @@
       {
         "artist": "Purple Disco Machine/Sophie and the Giants",
         "title": "In The Dark",
+        "plays": 3
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
+        "plays": 3
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Follow You",
         "plays": 3
       },
       {
@@ -106,11 +116,6 @@
         "plays": 2
       },
       {
-        "artist": "Mike Singer",
-        "title": "Deja Vu",
-        "plays": 2
-      },
-      {
         "artist": "ROSALÍA",
         "title": "LLYLM",
         "plays": 2
@@ -128,11 +133,6 @@
       {
         "artist": "RAYE, 070 Shake",
         "title": "Escapism.",
-        "plays": 2
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Follow You",
         "plays": 2
       },
       {
@@ -413,6 +413,11 @@
       {
         "artist": "Lina",
         "title": "Klippe",
+        "plays": 2
+      },
+      {
+        "artist": "Lil Tjay",
+        "title": "In My Head",
         "plays": 2
       },
       {
@@ -886,11 +891,6 @@
         "plays": 1
       },
       {
-        "artist": "Lil Tjay",
-        "title": "In My Head",
-        "plays": 1
-      },
-      {
         "artist": "Michael Patrick Kelly",
         "title": "The One",
         "plays": 1
@@ -1138,6 +1138,26 @@
       {
         "artist": "Leony",
         "title": "Oldschool Love",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Nur dir gehör'n",
+        "plays": 1
+      },
+      {
+        "artist": "Don Toliver",
+        "title": "Fast Lane (feat. Lil Durk & Latto)",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5",
+        "title": "Priceless ft. LISA",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
         "plays": 1
       }
     ],
