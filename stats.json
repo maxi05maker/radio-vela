@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 388,
-    "music_entries": 361,
+    "total_entries": 391,
+    "music_entries": 364,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -81,6 +81,11 @@
         "plays": 3
       },
       {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
+        "plays": 3
+      },
+      {
         "artist": "Charli xcx",
         "title": "party 4 u",
         "plays": 3
@@ -103,6 +108,11 @@
       {
         "artist": "Cordae",
         "title": "Sinister feat. Lil Wayne",
+        "plays": 3
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
         "plays": 3
       },
       {
@@ -201,11 +211,6 @@
         "plays": 2
       },
       {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
-        "plays": 2
-      },
-      {
         "artist": "Billy Idol",
         "title": "Bitter Taste",
         "plays": 2
@@ -213,11 +218,6 @@
       {
         "artist": "Mayberg",
         "title": "Der neue Stil meiner Generation",
-        "plays": 2
-      },
-      {
-        "artist": "Lena",
-        "title": "Strip",
         "plays": 2
       },
       {
@@ -243,6 +243,11 @@
       {
         "artist": "Capital Cities",
         "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
+        "plays": 2
+      },
+      {
+        "artist": "L.A. Edwards",
+        "title": "El Camino",
         "plays": 2
       },
       {
@@ -773,11 +778,6 @@
       {
         "artist": "Avalanche",
         "title": "Down For The Count",
-        "plays": 1
-      },
-      {
-        "artist": "L.A. Edwards",
-        "title": "El Camino",
         "plays": 1
       },
       {
