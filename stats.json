@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 350,
-    "music_entries": 326,
+    "total_entries": 352,
+    "music_entries": 328,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -43,6 +43,11 @@
       {
         "artist": "Rag'n'Bone Man",
         "title": "Human",
+        "plays": 3
+      },
+      {
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
         "plays": 3
       },
       {
@@ -133,11 +138,6 @@
       {
         "artist": "Alli Neumann",
         "title": "Ein Herz kann man nicht reparieren",
-        "plays": 2
-      },
-      {
-        "artist": "RAYE, 070 Shake",
-        "title": "Escapism.",
         "plays": 2
       },
       {
@@ -1113,6 +1113,11 @@
       {
         "artist": "JORIS",
         "title": "das leben ist... [Explicit]",
+        "plays": 1
+      },
+      {
+        "artist": "Disturbed",
+        "title": "The Sound Of Silence",
         "plays": 1
       }
     ],
