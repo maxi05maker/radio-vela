@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 372,
-    "music_entries": 346,
+    "total_entries": 374,
+    "music_entries": 348,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -71,6 +71,11 @@
         "plays": 3
       },
       {
+        "artist": "Greta Van Fleet",
+        "title": "Broken Bells",
+        "plays": 3
+      },
+      {
         "artist": "Cordae",
         "title": "Sinister feat. Lil Wayne",
         "plays": 3
@@ -78,6 +83,11 @@
       {
         "artist": "Travis Scott",
         "title": "Escape Plan",
+        "plays": 3
+      },
+      {
+        "artist": "Samara Cyn",
+        "title": "Brand New Teeth feat. Smino",
         "plays": 3
       },
       {
@@ -176,11 +186,6 @@
         "plays": 2
       },
       {
-        "artist": "Greta Van Fleet",
-        "title": "Broken Bells",
-        "plays": 2
-      },
-      {
         "artist": "BOY",
         "title": "Fit Back In",
         "plays": 2
@@ -253,11 +258,6 @@
       {
         "artist": "Sam Smith & Normani",
         "title": "Dancing With A Stranger",
-        "plays": 2
-      },
-      {
-        "artist": "Samara Cyn",
-        "title": "Brand New Teeth feat. Smino",
         "plays": 2
       },
       {
