@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 386,
-    "music_entries": 359,
+    "total_entries": 388,
+    "music_entries": 361,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -33,6 +33,11 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 3
+      },
+      {
+        "artist": "Shygirl",
+        "title": "Coochie (A Bedtime Story)",
         "plays": 3
       },
       {
@@ -78,6 +83,11 @@
       {
         "artist": "Charli xcx",
         "title": "party 4 u",
+        "plays": 3
+      },
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
         "plays": 3
       },
       {
@@ -156,11 +166,6 @@
         "plays": 2
       },
       {
-        "artist": "Shygirl",
-        "title": "Coochie (A Bedtime Story)",
-        "plays": 2
-      },
-      {
         "artist": "International Music",
         "title": "Im Sommer bin ich dein König",
         "plays": 2
@@ -203,11 +208,6 @@
       {
         "artist": "Billy Idol",
         "title": "Bitter Taste",
-        "plays": 2
-      },
-      {
-        "artist": "Nico & Vinz",
-        "title": "Am I Wrong",
         "plays": 2
       },
       {
