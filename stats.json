@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 379,
-    "music_entries": 352,
+    "total_entries": 381,
+    "music_entries": 354,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -43,6 +43,11 @@
       {
         "artist": "Purple Disco Machine/Sophie and the Giants",
         "title": "In The Dark",
+        "plays": 3
+      },
+      {
+        "artist": "La Roux",
+        "title": "Uptight Downtown",
         "plays": 3
       },
       {
@@ -143,11 +148,6 @@
       {
         "artist": "International Music",
         "title": "Im Sommer bin ich dein König",
-        "plays": 2
-      },
-      {
-        "artist": "La Roux",
-        "title": "Uptight Downtown",
         "plays": 2
       },
       {
@@ -1163,6 +1163,11 @@
       {
         "artist": "Alessia Cara",
         "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Vergangenheit",
         "plays": 1
       }
     ],

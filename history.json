@@ -2272,5 +2272,17 @@
     "played_at": "2026-09-04 03:18:11 +0200",
     "title": "Shotgun",
     "artist": "George Ezra"
+  },
+  {
+    "key": "2026-09-04 03:21:33 +0200|Vergangenheit|Bosse",
+    "played_at": "2026-09-04 03:21:33 +0200",
+    "title": "Vergangenheit",
+    "artist": "Bosse"
+  },
+  {
+    "key": "2026-09-04 03:24:55 +0200|Uptight Downtown|La Roux",
+    "played_at": "2026-09-04 03:24:55 +0200",
+    "title": "Uptight Downtown",
+    "artist": "La Roux"
   }
 ]
