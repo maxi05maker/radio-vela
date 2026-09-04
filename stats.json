@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 353,
-    "music_entries": 329,
+    "total_entries": 356,
+    "music_entries": 332,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -21,6 +21,11 @@
         "plays": 3
       },
       {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 3
+      },
+      {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
         "plays": 3
@@ -28,6 +33,11 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 3
+      },
+      {
+        "artist": "Purple Disco Machine/Sophie and the Giants",
+        "title": "In The Dark",
         "plays": 3
       },
       {
@@ -71,11 +81,6 @@
         "plays": 2
       },
       {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 2
-      },
-      {
         "artist": "Lorde",
         "title": "What Was That",
         "plays": 2
@@ -93,11 +98,6 @@
       {
         "artist": "Maroon 5 feat. Cardi B",
         "title": "Girls Like You",
-        "plays": 2
-      },
-      {
-        "artist": "Purple Disco Machine/Sophie and the Giants",
-        "title": "In The Dark",
         "plays": 2
       },
       {
@@ -1133,6 +1133,11 @@
       {
         "artist": "Lune",
         "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Oldschool Love",
         "plays": 1
       }
     ],
