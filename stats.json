@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 200,
-    "music_entries": 187,
+    "total_entries": 203,
+    "music_entries": 190,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -131,6 +131,11 @@
         "plays": 2
       },
       {
+        "artist": "Sofia Portanet",
+        "title": "Unstoppable",
+        "plays": 2
+      },
+      {
         "artist": "Iron Maiden",
         "title": "Senjutsu",
         "plays": 2
@@ -243,11 +248,6 @@
       {
         "artist": "TWICE",
         "title": "Strategy (feat. Megan Thee Stallion)",
-        "plays": 1
-      },
-      {
-        "artist": "Sofia Portanet",
-        "title": "Unstoppable",
         "plays": 1
       },
       {
@@ -778,6 +778,16 @@
       {
         "artist": "International Music",
         "title": "Im Sommer bin ich dein König",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "Willow & Travis Barker",
+        "title": "Transparent Soul",
         "plays": 1
       }
     ],
