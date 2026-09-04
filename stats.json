@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 315,
-    "music_entries": 294,
+    "total_entries": 319,
+    "music_entries": 297,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -43,6 +43,11 @@
       {
         "artist": "Tate McRae",
         "title": "she's all i wanna be",
+        "plays": 3
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 3
       },
       {
@@ -256,11 +261,6 @@
         "plays": 2
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 2
-      },
-      {
         "artist": "Pashanim",
         "title": "Sommergewitter",
         "plays": 2
@@ -398,6 +398,11 @@
       {
         "artist": "Kygo & Dean Lewis",
         "title": "Lost Without You (with Dean Lewis)",
+        "plays": 2
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wildberry Lillet",
         "plays": 2
       },
       {
@@ -643,11 +648,6 @@
       {
         "artist": "The Weeknd",
         "title": "Take My Breath",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Wildberry Lillet",
         "plays": 1
       },
       {
@@ -1013,6 +1013,11 @@
       {
         "artist": "Ennio",
         "title": "Fühlst du gar nichts? feat. Nina Chuba",
+        "plays": 1
+      },
+      {
+        "artist": "Prezident",
+        "title": "Zwiebel",
         "plays": 1
       }
     ],
