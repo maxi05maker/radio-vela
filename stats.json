@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 116,
-    "music_entries": 108,
+    "total_entries": 120,
+    "music_entries": 111,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -528,6 +528,21 @@
       {
         "artist": "Zartmann",
         "title": "Weißt du überhaupt noch wer ich bin?",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. Alida",
+        "title": "In Your Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "Montez",
+        "title": "Auf & Ab",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Abracadabra",
         "plays": 1
       }
     ],
