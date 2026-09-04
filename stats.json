@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 424,
-    "music_entries": 394,
+    "total_entries": 426,
+    "music_entries": 396,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -156,8 +156,18 @@
         "plays": 3
       },
       {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
+        "plays": 3
+      },
+      {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 3
+      },
+      {
+        "artist": "Laurell",
+        "title": "Habit",
         "plays": 3
       },
       {
@@ -371,11 +381,6 @@
         "plays": 2
       },
       {
-        "artist": "Frans",
-        "title": "If I Were Sorry",
-        "plays": 2
-      },
-      {
         "artist": "The 1975",
         "title": "Part Of The Band",
         "plays": 2
@@ -418,11 +423,6 @@
       {
         "artist": "Malik Harris",
         "title": "Rockstars",
-        "plays": 2
-      },
-      {
-        "artist": "Laurell",
-        "title": "Habit",
         "plays": 2
       },
       {
