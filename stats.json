@@ -2,18 +2,18 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 234,
-    "music_entries": 219,
+    "total_entries": 236,
+    "music_entries": 221,
     "songs": [
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 4
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 4
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 3
       },
       {
         "artist": "Tom Gregory",
@@ -98,6 +98,11 @@
       {
         "artist": "Joel Corry & Tom Grennan",
         "title": "Lionheart (Fearless)",
+        "plays": 2
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "LLYLM",
         "plays": 2
       },
       {
@@ -278,11 +283,6 @@
       {
         "artist": "Alli Neumann",
         "title": "Ein Herz kann man nicht reparieren",
-        "plays": 1
-      },
-      {
-        "artist": "ROSALÍA",
-        "title": "LLYLM",
         "plays": 1
       },
       {
@@ -842,8 +842,8 @@
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "Harry Styles",
+      "title": "As It Was",
       "plays": 4
     }
   }
