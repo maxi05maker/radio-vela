@@ -2,12 +2,17 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 86,
-    "music_entries": 81,
+    "total_entries": 89,
+    "music_entries": 84,
     "songs": [
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 2
       },
       {
@@ -153,11 +158,6 @@
       {
         "artist": "Silbermond",
         "title": "Auf Auf",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 1
       },
       {
@@ -403,6 +403,16 @@
       {
         "artist": "ROSALÍA",
         "title": "Aute Cuture",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Minimum",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso feat. Andreas Bourani",
+        "title": "Willkommen Zuruck",
         "plays": 1
       }
     ],
