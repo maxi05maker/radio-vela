@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 407,
-    "music_entries": 379,
+    "total_entries": 410,
+    "music_entries": 381,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -33,6 +33,11 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 3
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
         "plays": 3
       },
       {
@@ -146,6 +151,11 @@
         "plays": 3
       },
       {
+        "artist": "Bosse",
+        "title": "Der Sommer",
+        "plays": 3
+      },
+      {
         "artist": "Lina",
         "title": "Klippe",
         "plays": 3
@@ -183,11 +193,6 @@
       {
         "artist": "Lorde",
         "title": "What Was That",
-        "plays": 2
-      },
-      {
-        "artist": "Sabrina Carpenter",
-        "title": "Busy Woman",
         "plays": 2
       },
       {
@@ -438,11 +443,6 @@
       {
         "artist": "Blond",
         "title": "Du und Ich",
-        "plays": 2
-      },
-      {
-        "artist": "Bosse",
-        "title": "Der Sommer",
         "plays": 2
       },
       {
