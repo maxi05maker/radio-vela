@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 11,
-    "music_entries": 10,
+    "total_entries": 14,
+    "music_entries": 13,
     "songs": [
       {
         "artist": "Dean Lewis",
@@ -53,6 +53,21 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Aperture",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Only Human",
         "plays": 1
       }
     ],
