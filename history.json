@@ -580,5 +580,35 @@
     "played_at": "2026-09-04 12:14:30 +0200",
     "title": "Herzalarm",
     "artist": "Finch (feat. Blümchen)"
+  },
+  {
+    "key": "2026-09-04 12:17:40 +0200|Ever Seen|Beabadoobee",
+    "played_at": "2026-09-04 12:17:40 +0200",
+    "title": "Ever Seen",
+    "artist": "Beabadoobee"
+  },
+  {
+    "key": "2026-09-04 12:20:57 +0200|Don’t Call Me Angel (Charlie’s Angels)|Ariana Grande & Miley Cyrus & Lana Del Rey",
+    "played_at": "2026-09-04 12:20:57 +0200",
+    "title": "Don’t Call Me Angel (Charlie’s Angels)",
+    "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey"
+  },
+  {
+    "key": "2026-09-04 12:24:07 +0200|Golden Nights|Sophie & The Giants",
+    "played_at": "2026-09-04 12:24:07 +0200",
+    "title": "Golden Nights",
+    "artist": "Sophie & The Giants"
+  },
+  {
+    "key": "2026-09-04 12:27:06 +0200|tau mich auf|Zartmann",
+    "played_at": "2026-09-04 12:27:06 +0200",
+    "title": "tau mich auf",
+    "artist": "Zartmann"
+  },
+  {
+    "key": "2026-09-04 12:28:57 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-09-04 12:28:57 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
   }
 ]
