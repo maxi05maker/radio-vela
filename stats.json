@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 172,
-    "music_entries": 161,
+    "total_entries": 174,
+    "music_entries": 162,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -733,6 +733,11 @@
       {
         "artist": "Clueso",
         "title": "Freier Fall",
+        "plays": 1
+      },
+      {
+        "artist": "The Marías",
+        "title": "No One Noticed",
         "plays": 1
       }
     ],
