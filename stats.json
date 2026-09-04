@@ -2,17 +2,17 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 217,
-    "music_entries": 203,
+    "total_entries": 220,
+    "music_entries": 206,
     "songs": [
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 3
-      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 4
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 3
       },
       {
@@ -181,6 +181,11 @@
         "plays": 2
       },
       {
+        "artist": "Lana Del Rey",
+        "title": "Arcadia",
+        "plays": 2
+      },
+      {
         "artist": "Bilderbuch",
         "title": "Bungalow",
         "plays": 2
@@ -318,11 +323,6 @@
       {
         "artist": "Sam Smith",
         "title": "My Guy",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Arcadia",
         "plays": 1
       },
       {
@@ -809,12 +809,17 @@
         "artist": "Bebe Rexha & David Guetta",
         "title": "Sad Girls",
         "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wenn das Liebe ist",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Harry Styles",
-      "title": "As It Was",
-      "plays": 3
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 4
     }
   }
 }

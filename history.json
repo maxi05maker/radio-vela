@@ -1300,5 +1300,23 @@
     "played_at": "2026-09-04 18:39:11 +0200",
     "title": "Ich darf das",
     "artist": "Shirin David"
+  },
+  {
+    "key": "2026-09-04 18:41:43 +0200|Wenn das Liebe ist|Nina Chuba",
+    "played_at": "2026-09-04 18:41:43 +0200",
+    "title": "Wenn das Liebe ist",
+    "artist": "Nina Chuba"
+  },
+  {
+    "key": "2026-09-04 18:44:28 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-04 18:44:28 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-04 18:48:02 +0200|Arcadia|Lana Del Rey",
+    "played_at": "2026-09-04 18:48:02 +0200",
+    "title": "Arcadia",
+    "artist": "Lana Del Rey"
   }
 ]
