@@ -1762,5 +1762,23 @@
     "played_at": "2026-09-04 22:39:56 +0200",
     "title": "Nichts mehr zu sagen",
     "artist": "Max Giesinger & Quarterhead"
+  },
+  {
+    "key": "2026-09-04 22:42:28 +0200|Remedy|Leony",
+    "played_at": "2026-09-04 22:42:28 +0200",
+    "title": "Remedy",
+    "artist": "Leony"
+  },
+  {
+    "key": "2026-09-04 22:44:55 +0200|SWIM|BTS",
+    "played_at": "2026-09-04 22:44:55 +0200",
+    "title": "SWIM",
+    "artist": "BTS"
+  },
+  {
+    "key": "2026-09-04 22:47:34 +0200|The news|Paramore",
+    "played_at": "2026-09-04 22:47:34 +0200",
+    "title": "The news",
+    "artist": "Paramore"
   }
 ]

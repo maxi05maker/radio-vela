@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 294,
-    "music_entries": 274,
+    "total_entries": 297,
+    "music_entries": 277,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -923,6 +923,21 @@
       {
         "artist": "Max Giesinger & Quarterhead",
         "title": "Nichts mehr zu sagen",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Remedy",
+        "plays": 1
+      },
+      {
+        "artist": "BTS",
+        "title": "SWIM",
+        "plays": 1
+      },
+      {
+        "artist": "Paramore",
+        "title": "The news",
         "plays": 1
       }
     ],
