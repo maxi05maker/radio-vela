@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 244,
-    "music_entries": 228,
+    "total_entries": 245,
+    "music_entries": 229,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -216,6 +216,11 @@
         "plays": 2
       },
       {
+        "artist": "Dua Lipa",
+        "title": "Physical",
+        "plays": 2
+      },
+      {
         "artist": "Sportfreunde Stiller",
         "title": "'54, '74, '90, 2006",
         "plays": 2
@@ -373,11 +378,6 @@
       {
         "artist": "Stromae",
         "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "Physical",
         "plays": 1
       },
       {
