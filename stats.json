@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 273,
-    "music_entries": 254,
+    "total_entries": 275,
+    "music_entries": 256,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -301,6 +301,11 @@
         "plays": 2
       },
       {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 2
+      },
+      {
         "artist": "Sophie & The Giants",
         "title": "Golden Nights",
         "plays": 2
@@ -493,11 +498,6 @@
       {
         "artist": "Beabadoobee",
         "title": "Ever Seen",
-        "plays": 1
-      },
-      {
-        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
-        "title": "Don’t Call Me Angel (Charlie’s Angels)",
         "plays": 1
       },
       {
@@ -893,6 +893,11 @@
       {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Bush",
+        "title": "The Land Of Milk And Honey",
         "plays": 1
       }
     ],
