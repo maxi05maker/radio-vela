@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 250,
-    "music_entries": 233,
+    "total_entries": 253,
+    "music_entries": 236,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -281,6 +281,16 @@
         "plays": 2
       },
       {
+        "artist": "Sophie & The Giants",
+        "title": "Golden Nights",
+        "plays": 2
+      },
+      {
+        "artist": "Kwam.e & Ove",
+        "title": "Hallow Kitty",
+        "plays": 2
+      },
+      {
         "artist": "Ina Müller",
         "title": "Weiber-WG",
         "plays": 1
@@ -461,11 +471,6 @@
         "plays": 1
       },
       {
-        "artist": "Sophie & The Giants",
-        "title": "Golden Nights",
-        "plays": 1
-      },
-      {
         "artist": "Zartmann",
         "title": "tau mich auf",
         "plays": 1
@@ -543,11 +548,6 @@
       {
         "artist": "Lady Gaga",
         "title": "Abracadabra",
-        "plays": 1
-      },
-      {
-        "artist": "Kwam.e & Ove",
-        "title": "Hallow Kitty",
         "plays": 1
       },
       {
@@ -863,6 +863,11 @@
       {
         "artist": "Jill Scott",
         "title": "BPOTY (feat. Too $hort)",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "LIFETIMES",
         "plays": 1
       }
     ],
