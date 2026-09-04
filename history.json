@@ -2428,5 +2428,17 @@
     "played_at": "2026-09-04 04:46:11 +0200",
     "title": "Eden",
     "artist": "Avalon Emerson"
+  },
+  {
+    "key": "2026-09-04 04:50:19 +0200|American Teenager|Ethel Cain",
+    "played_at": "2026-09-04 04:50:19 +0200",
+    "title": "American Teenager",
+    "artist": "Ethel Cain"
+  },
+  {
+    "key": "2026-09-04 04:54:37 +0200|I Don’t Think That I Like Her|Charlie Puth",
+    "played_at": "2026-09-04 04:54:37 +0200",
+    "title": "I Don’t Think That I Like Her",
+    "artist": "Charlie Puth"
   }
 ]
