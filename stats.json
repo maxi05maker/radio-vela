@@ -2,17 +2,17 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 369,
-    "music_entries": 343,
+    "total_entries": 372,
+    "music_entries": 346,
     "songs": [
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 4
-      },
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 5
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 4
       },
       {
@@ -48,6 +48,11 @@
       {
         "artist": "Mike Singer",
         "title": "Deja Vu",
+        "plays": 3
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "LLYLM",
         "plays": 3
       },
       {
@@ -126,8 +131,8 @@
         "plays": 2
       },
       {
-        "artist": "ROSALÍA",
-        "title": "LLYLM",
+        "artist": "Felix Jaehn, Whitney Houston",
+        "title": "Its Not Right But Its Okay",
         "plays": 2
       },
       {
@@ -711,11 +716,6 @@
         "plays": 1
       },
       {
-        "artist": "Felix Jaehn, Whitney Houston",
-        "title": "Its Not Right But Its Okay",
-        "plays": 1
-      },
-      {
         "artist": "DIIV",
         "title": "Frog In Boiling Water",
         "plays": 1
@@ -1167,9 +1167,9 @@
       }
     ],
     "top_song": {
-      "artist": "Harry Styles",
-      "title": "As It Was",
-      "plays": 4
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
+      "plays": 5
     }
   }
 }
