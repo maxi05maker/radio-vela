@@ -2,9 +2,14 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 64,
-    "music_entries": 60,
+    "total_entries": 68,
+    "music_entries": 64,
     "songs": [
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 2
+      },
       {
         "artist": "Dean Lewis",
         "title": "Looks Like Me",
@@ -48,11 +53,6 @@
       {
         "artist": "Imagine Dragons",
         "title": "Follow You",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -304,12 +304,27 @@
         "artist": "Lana Del Rey",
         "title": "Arcadia",
         "plays": 1
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "Bungalow",
+        "plays": 1
+      },
+      {
+        "artist": "Lisa",
+        "title": "Rockstar",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "she's all i wanna be",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Dean Lewis",
-      "title": "Looks Like Me",
-      "plays": 1
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "plays": 2
     }
   }
 }
