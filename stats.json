@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 271,
-    "music_entries": 252,
+    "total_entries": 273,
+    "music_entries": 254,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -58,6 +58,11 @@
       {
         "artist": "Imagine Dragons",
         "title": "Follow You",
+        "plays": 2
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Aperture",
         "plays": 2
       },
       {
@@ -306,6 +311,11 @@
         "plays": 2
       },
       {
+        "artist": "Clueso",
+        "title": "Sag Mir Was Du Willst",
+        "plays": 2
+      },
+      {
         "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
         "title": "Best Friend",
         "plays": 2
@@ -343,11 +353,6 @@
       {
         "artist": "Robbie Williams",
         "title": "All My Life",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "Aperture",
         "plays": 1
       },
       {
@@ -513,11 +518,6 @@
       {
         "artist": "Wa22ermann",
         "title": "Hass auf den letzten Blick",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Sag Mir Was Du Willst",
         "plays": 1
       },
       {
