@@ -142,5 +142,41 @@
     "played_at": "2026-09-04 08:19:32 +0200",
     "title": "Heavy",
     "artist": "LINKIN PARK & Kiiara"
+  },
+  {
+    "key": "2026-09-04 08:22:20 +0200|Planufer|Wa22ermann",
+    "played_at": "2026-09-04 08:22:20 +0200",
+    "title": "Planufer",
+    "artist": "Wa22ermann"
+  },
+  {
+    "key": "2026-09-04 08:24:20 +0200|Lionheart (Fearless)|Joel Corry & Tom Grennan",
+    "played_at": "2026-09-04 08:24:20 +0200",
+    "title": "Lionheart (Fearless)",
+    "artist": "Joel Corry & Tom Grennan"
+  },
+  {
+    "key": "2026-09-04 08:27:27 +0200|LLYLM|ROSALÍA",
+    "played_at": "2026-09-04 08:27:27 +0200",
+    "title": "LLYLM",
+    "artist": "ROSALÍA"
+  },
+  {
+    "key": "2026-09-04 08:30:20 +0200|VERLIEBT IN MICH|FAYAN (feat. Dalton)",
+    "played_at": "2026-09-04 08:30:20 +0200",
+    "title": "VERLIEBT IN MICH",
+    "artist": "FAYAN (feat. Dalton)"
+  },
+  {
+    "key": "2026-09-04 08:32:30 +0200|I Don't Care|Kyle Pearce",
+    "played_at": "2026-09-04 08:32:30 +0200",
+    "title": "I Don't Care",
+    "artist": "Kyle Pearce"
+  },
+  {
+    "key": "2026-09-04 08:35:39 +0200|Frei|Alli Neumann",
+    "played_at": "2026-09-04 08:35:39 +0200",
+    "title": "Frei",
+    "artist": "Alli Neumann"
   }
 ]

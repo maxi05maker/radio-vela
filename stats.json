@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 24,
-    "music_entries": 22,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Dean Lewis",
@@ -113,6 +113,36 @@
       {
         "artist": "LINKIN PARK & Kiiara",
         "title": "Heavy",
+        "plays": 1
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Planufer",
+        "plays": 1
+      },
+      {
+        "artist": "Joel Corry & Tom Grennan",
+        "title": "Lionheart (Fearless)",
+        "plays": 1
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "LLYLM",
+        "plays": 1
+      },
+      {
+        "artist": "FAYAN (feat. Dalton)",
+        "title": "VERLIEBT IN MICH",
+        "plays": 1
+      },
+      {
+        "artist": "Kyle Pearce",
+        "title": "I Don't Care",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Frei",
         "plays": 1
       }
     ],
