@@ -1228,5 +1228,35 @@
     "played_at": "2026-09-04 18:01:39 +0200",
     "title": "Midnight Sun",
     "artist": "Zara Larsson"
+  },
+  {
+    "key": "2026-09-04 18:04:51 +0200|Forget me|Lewis Capaldi",
+    "played_at": "2026-09-04 18:04:51 +0200",
+    "title": "Forget me",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-09-04 18:08:11 +0200|Good 4 You|Olivia Rodrigo",
+    "played_at": "2026-09-04 18:08:11 +0200",
+    "title": "Good 4 You",
+    "artist": "Olivia Rodrigo"
+  },
+  {
+    "key": "2026-09-04 18:11:10 +0200|twilight zone|Ariana Grande",
+    "played_at": "2026-09-04 18:11:10 +0200",
+    "title": "twilight zone",
+    "artist": "Ariana Grande"
+  },
+  {
+    "key": "2026-09-04 18:14:28 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-04 18:14:28 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-04 18:17:21 +0200|Slow It Down|Benson Boone",
+    "played_at": "2026-09-04 18:17:21 +0200",
+    "title": "Slow It Down",
+    "artist": "Benson Boone"
   }
 ]

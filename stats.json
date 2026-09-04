@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 205,
-    "music_entries": 192,
+    "total_entries": 210,
+    "music_entries": 196,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -116,6 +116,11 @@
         "plays": 2
       },
       {
+        "artist": "Olivia Rodrigo",
+        "title": "Good 4 You",
+        "plays": 2
+      },
+      {
         "artist": "Alle Farben & James Blunt",
         "title": "Walk Away",
         "plays": 2
@@ -146,8 +151,18 @@
         "plays": 2
       },
       {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 2
+      },
+      {
         "artist": "Imagine Dragons",
         "title": "Bad Liar",
+        "plays": 2
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Forget me",
         "plays": 2
       },
       {
@@ -231,11 +246,6 @@
         "plays": 1
       },
       {
-        "artist": "Olivia Rodrigo",
-        "title": "Good 4 You",
-        "plays": 1
-      },
-      {
         "artist": "ROSÉ & Bruno Mars",
         "title": "APT.",
         "plays": 1
@@ -261,18 +271,8 @@
         "plays": 1
       },
       {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
-        "plays": 1
-      },
-      {
         "artist": "Ziggy in tha House",
         "title": "It's Raining",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Forget me",
         "plays": 1
       },
       {
@@ -793,6 +793,11 @@
       {
         "artist": "Zara Larsson",
         "title": "Midnight Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "twilight zone",
         "plays": 1
       }
     ],
