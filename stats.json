@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 328,
-    "music_entries": 305,
+    "total_entries": 331,
+    "music_entries": 308,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -208,6 +208,11 @@
       {
         "artist": "Benson Boone",
         "title": "Slow It Down",
+        "plays": 2
+      },
+      {
+        "artist": "Ziggy in tha House",
+        "title": "It's Raining",
         "plays": 2
       },
       {
@@ -468,11 +473,6 @@
       {
         "artist": "PinkPantheress",
         "title": "Tonight",
-        "plays": 1
-      },
-      {
-        "artist": "Ziggy in tha House",
-        "title": "It's Raining",
         "plays": 1
       },
       {
@@ -1038,6 +1038,16 @@
       {
         "artist": "Crawlers",
         "title": "Come Over (Again)",
+        "plays": 1
+      },
+      {
+        "artist": "Mayberg",
+        "title": "Der neue Stil meiner Generation",
+        "plays": 1
+      },
+      {
+        "artist": "Jax Jones Feat. MNEK",
+        "title": "Where Did You Go?",
         "plays": 1
       }
     ],
