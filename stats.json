@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 291,
-    "music_entries": 271,
+    "total_entries": 294,
+    "music_entries": 274,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -38,6 +38,11 @@
       {
         "artist": "LINKIN PARK & Kiiara",
         "title": "Heavy",
+        "plays": 3
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "she's all i wanna be",
         "plays": 3
       },
       {
@@ -238,11 +243,6 @@
       {
         "artist": "Bilderbuch",
         "title": "Bungalow",
-        "plays": 2
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "she's all i wanna be",
         "plays": 2
       },
       {
@@ -913,6 +913,16 @@
       {
         "artist": "1986zig",
         "title": "Kopf aus",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger & Quarterhead",
+        "title": "Nichts mehr zu sagen",
         "plays": 1
       }
     ],
