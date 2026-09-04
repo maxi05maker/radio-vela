@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 61,
-    "music_entries": 57,
+    "total_entries": 64,
+    "music_entries": 60,
     "songs": [
       {
         "artist": "Dean Lewis",
@@ -288,6 +288,21 @@
       {
         "artist": "Jackson Browne",
         "title": "My Cleveland Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "My Guy",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Arcadia",
         "plays": 1
       }
     ],

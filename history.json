@@ -364,5 +364,23 @@
     "played_at": "2026-09-04 10:19:00 +0200",
     "title": "My Cleveland Heart",
     "artist": "Jackson Browne"
+  },
+  {
+    "key": "2026-09-04 10:22:20 +0200|Bad Habits|Ed Sheeran",
+    "played_at": "2026-09-04 10:22:20 +0200",
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-04 10:26:11 +0200|My Guy|Sam Smith",
+    "played_at": "2026-09-04 10:26:11 +0200",
+    "title": "My Guy",
+    "artist": "Sam Smith"
+  },
+  {
+    "key": "2026-09-04 10:30:01 +0200|Arcadia|Lana Del Rey",
+    "played_at": "2026-09-04 10:30:01 +0200",
+    "title": "Arcadia",
+    "artist": "Lana Del Rey"
   }
 ]
