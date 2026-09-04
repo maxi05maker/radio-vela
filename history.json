@@ -2614,5 +2614,23 @@
     "played_at": "2026-09-04 06:24:04 +0200",
     "title": "Girls Like You",
     "artist": "Maroon 5 feat. Cardi B"
+  },
+  {
+    "key": "2026-09-04 06:27:59 +0200|LIFETIMES|Katy Perry",
+    "played_at": "2026-09-04 06:27:59 +0200",
+    "title": "LIFETIMES",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-09-04 06:31:11 +0200|Remember Me|Michael Schulte",
+    "played_at": "2026-09-04 06:31:11 +0200",
+    "title": "Remember Me",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-04 06:34:46 +0200|Nights Like This|St. Lundi",
+    "played_at": "2026-09-04 06:34:46 +0200",
+    "title": "Nights Like This",
+    "artist": "St. Lundi"
   }
 ]

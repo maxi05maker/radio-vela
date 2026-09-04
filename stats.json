@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 436,
-    "music_entries": 404,
+    "total_entries": 439,
+    "music_entries": 407,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -218,6 +218,16 @@
       {
         "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
         "title": "Rebellion",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
+        "plays": 2
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "LIFETIMES",
         "plays": 2
       },
       {
@@ -696,11 +706,6 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte",
-        "title": "Remember Me",
-        "plays": 1
-      },
-      {
         "artist": "Cro",
         "title": "Smooth",
         "plays": 1
@@ -718,11 +723,6 @@
       {
         "artist": "Stefanie Heinzmann feat. Alle Farben",
         "title": "Build a House",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "LIFETIMES",
         "plays": 1
       },
       {
@@ -1283,6 +1283,11 @@
       {
         "artist": "Tyla & Zara Larsson",
         "title": "SHE DID IT AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "St. Lundi",
+        "title": "Nights Like This",
         "plays": 1
       }
     ],
