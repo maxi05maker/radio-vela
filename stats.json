@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 391,
-    "music_entries": 364,
+    "total_entries": 395,
+    "music_entries": 368,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -81,6 +81,11 @@
         "plays": 3
       },
       {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 3
+      },
+      {
         "artist": "Michael Schulte",
         "title": "Here Goes Nothing",
         "plays": 3
@@ -108,6 +113,11 @@
       {
         "artist": "Cordae",
         "title": "Sinister feat. Lil Wayne",
+        "plays": 3
+      },
+      {
+        "artist": "Mayberg",
+        "title": "Der neue Stil meiner Generation",
         "plays": 3
       },
       {
@@ -196,11 +206,6 @@
         "plays": 2
       },
       {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 2
-      },
-      {
         "artist": "Revolverheld feat. Antje Schomaker",
         "title": "Liebe auf Distanz",
         "plays": 2
@@ -211,13 +216,13 @@
         "plays": 2
       },
       {
-        "artist": "Billy Idol",
-        "title": "Bitter Taste",
+        "artist": "Maggie Rogers",
+        "title": "In The Living Room",
         "plays": 2
       },
       {
-        "artist": "Mayberg",
-        "title": "Der neue Stil meiner Generation",
+        "artist": "Billy Idol",
+        "title": "Bitter Taste",
         "plays": 2
       },
       {
@@ -248,6 +253,11 @@
       {
         "artist": "L.A. Edwards",
         "title": "El Camino",
+        "plays": 2
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Craving (Jenna's version)",
         "plays": 2
       },
       {
@@ -751,11 +761,6 @@
         "plays": 1
       },
       {
-        "artist": "Maggie Rogers",
-        "title": "In The Living Room",
-        "plays": 1
-      },
-      {
         "artist": "Obongjayar",
         "title": "Sweet Danger",
         "plays": 1
@@ -783,11 +788,6 @@
       {
         "artist": "Clueso",
         "title": "Sag Mir Was Du Willst",
-        "plays": 1
-      },
-      {
-        "artist": "Twenty One Pilots",
-        "title": "The Craving (Jenna's version)",
         "plays": 1
       },
       {
