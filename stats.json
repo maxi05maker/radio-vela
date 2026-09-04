@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 430,
-    "music_entries": 399,
+    "total_entries": 436,
+    "music_entries": 404,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -13,6 +13,11 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 4
+      },
+      {
+        "artist": "Maroon 5 feat. Cardi B",
+        "title": "Girls Like You",
         "plays": 4
       },
       {
@@ -43,11 +48,6 @@
       {
         "artist": "Shygirl",
         "title": "Coochie (A Bedtime Story)",
-        "plays": 3
-      },
-      {
-        "artist": "Maroon 5 feat. Cardi B",
-        "title": "Girls Like You",
         "plays": 3
       },
       {
@@ -138,6 +138,11 @@
       {
         "artist": "Lena",
         "title": "Strip",
+        "plays": 3
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Do It Better (feat. Zoe Wees)",
         "plays": 3
       },
       {
@@ -263,11 +268,6 @@
       {
         "artist": "Florence And The Machine",
         "title": "Spectrum (Say My Name)",
-        "plays": 2
-      },
-      {
-        "artist": "Felix Jaehn",
-        "title": "Do It Better (feat. Zoe Wees)",
         "plays": 2
       },
       {
@@ -1268,6 +1268,21 @@
       {
         "artist": "Kygo & Dean Lewis",
         "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "Samy Deluxe",
+        "title": "Damn Conductor",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith, Kim Petras",
+        "title": "Unholy (feat. Kim Petras)",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla & Zara Larsson",
+        "title": "SHE DID IT AGAIN",
         "plays": 1
       }
     ],
