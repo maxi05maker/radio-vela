@@ -2074,5 +2074,17 @@
     "played_at": "2026-09-05 01:24:32 +0200",
     "title": "I'm Not Here To Make Friends",
     "artist": "Sam Smith"
+  },
+  {
+    "key": "2026-09-05 01:28:22 +0200|Down For The Count|Avalanche",
+    "played_at": "2026-09-05 01:28:22 +0200",
+    "title": "Down For The Count",
+    "artist": "Avalanche"
+  },
+  {
+    "key": "2026-09-05 01:31:58 +0200|Frozen|Lil Baby",
+    "played_at": "2026-09-05 01:31:58 +0200",
+    "title": "Frozen",
+    "artist": "Lil Baby"
   }
 ]

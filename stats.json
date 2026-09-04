@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 346,
-    "music_entries": 322,
+    "total_entries": 348,
+    "music_entries": 324,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1093,6 +1093,16 @@
       {
         "artist": "THE MENZINGERS",
         "title": "Everything I Ever Saw",
+        "plays": 1
+      },
+      {
+        "artist": "Avalanche",
+        "title": "Down For The Count",
+        "plays": 1
+      },
+      {
+        "artist": "Lil Baby",
+        "title": "Frozen",
         "plays": 1
       }
     ],
