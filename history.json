@@ -2284,5 +2284,23 @@
     "played_at": "2026-09-04 03:24:55 +0200",
     "title": "Uptight Downtown",
     "artist": "La Roux"
+  },
+  {
+    "key": "2026-09-04 03:29:17 +0200|Castle on the Hill|Ed Sheeran",
+    "played_at": "2026-09-04 03:29:17 +0200",
+    "title": "Castle on the Hill",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-04 03:33:38 +0200|DELUSIONAL (Main Version)|Kesha",
+    "played_at": "2026-09-04 03:33:38 +0200",
+    "title": "DELUSIONAL (Main Version)",
+    "artist": "Kesha"
+  },
+  {
+    "key": "2026-09-04 03:37:12 +0200|party 4 u|Charli xcx",
+    "played_at": "2026-09-04 03:37:12 +0200",
+    "title": "party 4 u",
+    "artist": "Charli xcx"
   }
 ]

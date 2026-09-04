@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 381,
-    "music_entries": 354,
+    "total_entries": 384,
+    "music_entries": 357,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -73,6 +73,11 @@
       {
         "artist": "Imagine Dragons",
         "title": "Follow You",
+        "plays": 3
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "party 4 u",
         "plays": 3
       },
       {
@@ -176,13 +181,13 @@
         "plays": 2
       },
       {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
+        "artist": "Kesha",
+        "title": "DELUSIONAL (Main Version)",
         "plays": 2
       },
       {
-        "artist": "Charli xcx",
-        "title": "party 4 u",
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
         "plays": 2
       },
       {
@@ -486,6 +491,11 @@
         "plays": 2
       },
       {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
+        "plays": 2
+      },
+      {
         "artist": "JORIS",
         "title": "Nur die Musik",
         "plays": 2
@@ -736,11 +746,6 @@
         "plays": 1
       },
       {
-        "artist": "Kesha",
-        "title": "DELUSIONAL (Main Version)",
-        "plays": 1
-      },
-      {
         "artist": "Maggie Rogers",
         "title": "In The Living Room",
         "plays": 1
@@ -943,11 +948,6 @@
       {
         "artist": "Monet192",
         "title": "Nicht Perfekt",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Castle on the Hill",
         "plays": 1
       },
       {
