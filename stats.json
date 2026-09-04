@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 68,
-    "music_entries": 64,
+    "total_entries": 71,
+    "music_entries": 67,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -318,6 +318,21 @@
       {
         "artist": "Tate McRae",
         "title": "she's all i wanna be",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Physical",
+        "plays": 1
+      },
+      {
+        "artist": "Sportfreunde Stiller",
+        "title": "'54, '74, '90, 2006",
         "plays": 1
       }
     ],
