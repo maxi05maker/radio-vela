@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 268,
-    "music_entries": 249,
+    "total_entries": 271,
+    "music_entries": 252,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -306,6 +306,16 @@
         "plays": 2
       },
       {
+        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
+        "title": "Best Friend",
+        "plays": 2
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
+        "plays": 2
+      },
+      {
         "artist": "Kwam.e & Ove",
         "title": "Hallow Kitty",
         "plays": 2
@@ -511,18 +521,8 @@
         "plays": 1
       },
       {
-        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
-        "title": "Best Friend",
-        "plays": 1
-      },
-      {
         "artist": "Tom Gregory",
         "title": "Dance With Me",
-        "plays": 1
-      },
-      {
-        "artist": "Frans",
-        "title": "If I Were Sorry",
         "plays": 1
       },
       {
@@ -888,6 +888,11 @@
       {
         "artist": "LISA FEAT. DOJA CAT & RAYE",
         "title": "BORN AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "The Mary Onettes",
+        "title": "Hurricane Heart",
         "plays": 1
       }
     ],
