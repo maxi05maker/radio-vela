@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "key": "2026-09-04 07:02:44 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-04 07:02:44 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-04 07:05:39 +0200|Looks Like Me|Dean Lewis",
+    "played_at": "2026-09-04 07:05:39 +0200",
+    "title": "Looks Like Me",
+    "artist": "Dean Lewis"
+  },
+  {
+    "key": "2026-09-04 07:08:50 +0200|Weiber-WG|Ina Müller",
+    "played_at": "2026-09-04 07:08:50 +0200",
+    "title": "Weiber-WG",
+    "artist": "Ina Müller"
+  },
+  {
+    "key": "2026-09-04 07:12:04 +0200|If You're Too Shy (Let Me Know)|The 1975",
+    "played_at": "2026-09-04 07:12:04 +0200",
+    "title": "If You're Too Shy (Let Me Know)",
+    "artist": "The 1975"
+  },
+  {
+    "key": "2026-09-04 07:16:04 +0200|Something Human|Muse",
+    "played_at": "2026-09-04 07:16:04 +0200",
+    "title": "Something Human",
+    "artist": "Muse"
+  }
+]
