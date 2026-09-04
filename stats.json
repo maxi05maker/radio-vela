@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 410,
-    "music_entries": 381,
+    "total_entries": 414,
+    "music_entries": 385,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -148,6 +148,11 @@
       {
         "artist": "Samara Cyn",
         "title": "Brand New Teeth feat. Smino",
+        "plays": 3
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 3
       },
       {
@@ -398,11 +403,6 @@
       {
         "artist": "Leony",
         "title": "Faded Love",
-        "plays": 2
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 2
       },
       {
@@ -1208,6 +1208,21 @@
       {
         "artist": "Charlie Puth",
         "title": "I Don’t Think That I Like Her",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Take My Breath",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Wrecked",
         "plays": 1
       }
     ],
