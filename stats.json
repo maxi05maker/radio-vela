@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 384,
-    "music_entries": 357,
+    "total_entries": 386,
+    "music_entries": 359,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -101,6 +101,11 @@
         "plays": 3
       },
       {
+        "artist": "Willow & Travis Barker",
+        "title": "Transparent Soul",
+        "plays": 3
+      },
+      {
         "artist": "Samara Cyn",
         "title": "Brand New Teeth feat. Smino",
         "plays": 3
@@ -143,6 +148,11 @@
       {
         "artist": "Sabrina Carpenter",
         "title": "Busy Woman",
+        "plays": 2
+      },
+      {
+        "artist": "Calvin Harris & Clementine Douglas",
+        "title": "Blessings",
         "plays": 2
       },
       {
@@ -243,11 +253,6 @@
       {
         "artist": "Moderat",
         "title": "Bad Kingdom",
-        "plays": 2
-      },
-      {
-        "artist": "Willow & Travis Barker",
-        "title": "Transparent Soul",
         "plays": 2
       },
       {
@@ -728,11 +733,6 @@
       {
         "artist": "Shawn Mendes",
         "title": "There's Nothing Holdin' Me Back",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris & Clementine Douglas",
-        "title": "Blessings",
         "plays": 1
       },
       {
