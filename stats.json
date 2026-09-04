@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 49,
-    "music_entries": 46,
+    "total_entries": 51,
+    "music_entries": 48,
     "songs": [
       {
         "artist": "Dean Lewis",
@@ -233,6 +233,16 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "Iron Maiden",
+        "title": "Senjutsu",
         "plays": 1
       }
     ],
