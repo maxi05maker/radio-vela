@@ -1468,5 +1468,35 @@
     "played_at": "2026-09-04 20:07:36 +0200",
     "title": "Physical",
     "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-09-04 20:10:48 +0200|Scabby the Rat|Shellac",
+    "played_at": "2026-09-04 20:10:48 +0200",
+    "title": "Scabby the Rat",
+    "artist": "Shellac"
+  },
+  {
+    "key": "2026-09-04 20:12:32 +0200|Aute Cuture|ROSALÍA",
+    "played_at": "2026-09-04 20:12:32 +0200",
+    "title": "Aute Cuture",
+    "artist": "ROSALÍA"
+  },
+  {
+    "key": "2026-09-04 20:15:00 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-04 20:15:00 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-04 20:17:38 +0200|American Teenager|Ethel Cain",
+    "played_at": "2026-09-04 20:17:38 +0200",
+    "title": "American Teenager",
+    "artist": "Ethel Cain"
+  },
+  {
+    "key": "2026-09-04 20:21:57 +0200|BPOTY (feat. Too $hort)|Jill Scott",
+    "played_at": "2026-09-04 20:21:57 +0200",
+    "title": "BPOTY (feat. Too $hort)",
+    "artist": "Jill Scott"
   }
 ]

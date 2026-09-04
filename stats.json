@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 245,
-    "music_entries": 229,
+    "total_entries": 250,
+    "music_entries": 233,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -256,6 +256,16 @@
         "plays": 2
       },
       {
+        "artist": "Ethel Cain",
+        "title": "American Teenager",
+        "plays": 2
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "Aute Cuture",
+        "plays": 2
+      },
+      {
         "artist": "Ray Dalton x Alvaro Soler",
         "title": "Manila",
         "plays": 2
@@ -401,11 +411,6 @@
         "plays": 1
       },
       {
-        "artist": "Ethel Cain",
-        "title": "American Teenager",
-        "plays": 1
-      },
-      {
         "artist": "Jeremias",
         "title": "Ich mags",
         "plays": 1
@@ -413,11 +418,6 @@
       {
         "artist": "Kesha",
         "title": "DELUSIONAL (Main Version)",
-        "plays": 1
-      },
-      {
-        "artist": "ROSALÍA",
-        "title": "Aute Cuture",
         "plays": 1
       },
       {
@@ -853,6 +853,16 @@
       {
         "artist": "James Blake",
         "title": "Death Of Love (Live)",
+        "plays": 1
+      },
+      {
+        "artist": "Shellac",
+        "title": "Scabby the Rat",
+        "plays": 1
+      },
+      {
+        "artist": "Jill Scott",
+        "title": "BPOTY (feat. Too $hort)",
         "plays": 1
       }
     ],
