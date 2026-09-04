@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 224,
-    "music_entries": 210,
+    "total_entries": 228,
+    "music_entries": 213,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -126,6 +126,11 @@
         "plays": 2
       },
       {
+        "artist": "Coldplay X BTS",
+        "title": "My Universe",
+        "plays": 2
+      },
+      {
         "artist": "Alle Farben & James Blunt",
         "title": "Walk Away",
         "plays": 2
@@ -216,6 +221,11 @@
         "plays": 2
       },
       {
+        "artist": "Billy Idol",
+        "title": "Bitter Taste",
+        "plays": 2
+      },
+      {
         "artist": "Ina Müller",
         "title": "Weiber-WG",
         "plays": 1
@@ -283,11 +293,6 @@
       {
         "artist": "ROSÉ & Bruno Mars",
         "title": "APT.",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay X BTS",
-        "title": "My Universe",
         "plays": 1
       },
       {
@@ -438,11 +443,6 @@
       {
         "artist": "Jonathan Jeremiah",
         "title": "Kolkata Bear",
-        "plays": 1
-      },
-      {
-        "artist": "Billy Idol",
-        "title": "Bitter Taste",
         "plays": 1
       },
       {
@@ -823,6 +823,11 @@
       {
         "artist": "Sabrina Carpenter",
         "title": "Busy Woman",
+        "plays": 1
+      },
+      {
+        "artist": "CHAPO102 x GUSTAV",
+        "title": "WARSCHAU",
         "plays": 1
       }
     ],
