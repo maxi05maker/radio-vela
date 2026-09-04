@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 184,
-    "music_entries": 172,
+    "total_entries": 186,
+    "music_entries": 174,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -78,6 +78,11 @@
       {
         "artist": "Wa22ermann",
         "title": "Planufer",
+        "plays": 2
+      },
+      {
+        "artist": "Kyle Pearce",
+        "title": "I Don't Care",
         "plays": 2
       },
       {
@@ -168,11 +173,6 @@
       {
         "artist": "FAYAN (feat. Dalton)",
         "title": "VERLIEBT IN MICH",
-        "plays": 1
-      },
-      {
-        "artist": "Kyle Pearce",
-        "title": "I Don't Care",
         "plays": 1
       },
       {
@@ -753,6 +753,11 @@
       {
         "artist": "Ariana Grande",
         "title": "petal",
+        "plays": 1
+      },
+      {
+        "artist": "sombr",
+        "title": "Homewrecker",
         "plays": 1
       }
     ],
