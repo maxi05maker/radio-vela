@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 335,
-    "music_entries": 312,
+    "total_entries": 337,
+    "music_entries": 314,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -43,6 +43,11 @@
       {
         "artist": "Joel Corry & Tom Grennan",
         "title": "Lionheart (Fearless)",
+        "plays": 3
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "LLYLM",
         "plays": 3
       },
       {
@@ -133,11 +138,6 @@
       {
         "artist": "Wa22ermann",
         "title": "Planufer",
-        "plays": 2
-      },
-      {
-        "artist": "ROSALÍA",
-        "title": "LLYLM",
         "plays": 2
       },
       {
@@ -1068,6 +1068,11 @@
       {
         "artist": "Walking On Cars",
         "title": "Speeding Cars",
+        "plays": 1
+      },
+      {
+        "artist": "Obongjayar",
+        "title": "Sweet Danger",
         "plays": 1
       }
     ],
