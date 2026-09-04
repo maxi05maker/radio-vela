@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 374,
-    "music_entries": 348,
+    "total_entries": 376,
+    "music_entries": 350,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -133,6 +133,11 @@
       {
         "artist": "Shygirl",
         "title": "Coochie (A Bedtime Story)",
+        "plays": 2
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
         "plays": 2
       },
       {
@@ -481,6 +486,11 @@
         "plays": 2
       },
       {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
+        "plays": 2
+      },
+      {
         "artist": "Doechii",
         "title": "Bitch I'm Nice",
         "plays": 2
@@ -708,11 +718,6 @@
       {
         "artist": "Calvin Harris & Clementine Douglas",
         "title": "Blessings",
-        "plays": 1
-      },
-      {
-        "artist": "International Music",
-        "title": "Im Sommer bin ich dein König",
         "plays": 1
       },
       {
@@ -948,11 +953,6 @@
       {
         "artist": "Charli xcx feat. Billie Eilish",
         "title": "Guess",
-        "plays": 1
-      },
-      {
-        "artist": "JORIS",
-        "title": "Nur die Musik",
         "plays": 1
       },
       {

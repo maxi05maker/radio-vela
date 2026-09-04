@@ -2242,5 +2242,17 @@
     "played_at": "2026-09-04 02:57:17 +0200",
     "title": "Broken Bells",
     "artist": "Greta Van Fleet"
+  },
+  {
+    "key": "2026-09-04 03:03:07 +0200|Nur die Musik|JORIS",
+    "played_at": "2026-09-04 03:03:07 +0200",
+    "title": "Nur die Musik",
+    "artist": "JORIS"
+  },
+  {
+    "key": "2026-09-04 03:06:41 +0200|Im Sommer bin ich dein König|International Music",
+    "played_at": "2026-09-04 03:06:41 +0200",
+    "title": "Im Sommer bin ich dein König",
+    "artist": "International Music"
   }
 ]
