@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 279,
-    "music_entries": 260,
+    "total_entries": 282,
+    "music_entries": 263,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -26,6 +26,11 @@
         "plays": 3
       },
       {
+        "artist": "Muse",
+        "title": "Something Human",
+        "plays": 3
+      },
+      {
         "artist": "Rag'n'Bone Man",
         "title": "Human",
         "plays": 3
@@ -41,8 +46,8 @@
         "plays": 2
       },
       {
-        "artist": "Muse",
-        "title": "Something Human",
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
         "plays": 2
       },
       {
@@ -281,6 +286,11 @@
         "plays": 2
       },
       {
+        "artist": "Clueso feat. Andreas Bourani",
+        "title": "Willkommen Zuruck",
+        "plays": 2
+      },
+      {
         "artist": "Revolverheld feat. Antje Schomaker",
         "title": "Liebe auf Distanz",
         "plays": 2
@@ -363,11 +373,6 @@
       {
         "artist": "Ina Müller",
         "title": "Weiber-WG",
-        "plays": 1
-      },
-      {
-        "artist": "Swedish House Mafia",
-        "title": "Wait So Long",
         "plays": 1
       },
       {
@@ -488,11 +493,6 @@
       {
         "artist": "Clueso",
         "title": "Minimum",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso feat. Andreas Bourani",
-        "title": "Willkommen Zuruck",
         "plays": 1
       },
       {

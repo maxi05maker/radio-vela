@@ -1672,5 +1672,23 @@
     "played_at": "2026-09-04 21:55:20 +0200",
     "title": "Human Being",
     "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-09-04 21:58:14 +0200|Willkommen Zuruck|Clueso feat. Andreas Bourani",
+    "played_at": "2026-09-04 21:58:14 +0200",
+    "title": "Willkommen Zuruck",
+    "artist": "Clueso feat. Andreas Bourani"
+  },
+  {
+    "key": "2026-09-04 22:00:44 +0200|Wait So Long|Swedish House Mafia",
+    "played_at": "2026-09-04 22:00:44 +0200",
+    "title": "Wait So Long",
+    "artist": "Swedish House Mafia"
+  },
+  {
+    "key": "2026-09-04 22:04:04 +0200|Something Human|Muse",
+    "played_at": "2026-09-04 22:04:04 +0200",
+    "title": "Something Human",
+    "artist": "Muse"
   }
 ]
