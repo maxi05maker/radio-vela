@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 71,
-    "music_entries": 67,
+    "total_entries": 74,
+    "music_entries": 70,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -333,6 +333,21 @@
       {
         "artist": "Sportfreunde Stiller",
         "title": "'54, '74, '90, 2006",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "I Never Loved You",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Pashanim",
+        "title": "Sommergewitter",
         "plays": 1
       }
     ],

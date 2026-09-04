@@ -424,5 +424,23 @@
     "played_at": "2026-09-04 10:53:44 +0200",
     "title": "'54, '74, '90, 2006",
     "artist": "Sportfreunde Stiller"
+  },
+  {
+    "key": "2026-09-04 10:56:52 +0200|I Never Loved You|Halsey",
+    "played_at": "2026-09-04 10:56:52 +0200",
+    "title": "I Never Loved You",
+    "artist": "Halsey"
+  },
+  {
+    "key": "2026-09-04 11:01:01 +0200|I Ain’t Worried|OneRepublic",
+    "played_at": "2026-09-04 11:01:01 +0200",
+    "title": "I Ain’t Worried",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-09-04 11:03:28 +0200|Sommergewitter|Pashanim",
+    "played_at": "2026-09-04 11:03:28 +0200",
+    "title": "Sommergewitter",
+    "artist": "Pashanim"
   }
 ]
