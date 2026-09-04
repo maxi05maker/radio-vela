@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 313,
-    "music_entries": 292,
+    "total_entries": 315,
+    "music_entries": 294,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -396,6 +396,11 @@
         "plays": 2
       },
       {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 2
+      },
+      {
         "artist": "Ina Müller",
         "title": "Weiber-WG",
         "plays": 1
@@ -628,11 +633,6 @@
       {
         "artist": "Sophia Kennedy",
         "title": "Rodeo",
-        "plays": 1
-      },
-      {
-        "artist": "Kygo & Dean Lewis",
-        "title": "Lost Without You (with Dean Lewis)",
         "plays": 1
       },
       {
@@ -1008,6 +1008,11 @@
       {
         "artist": "Elton John, Britney Spears",
         "title": "Hold Me Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Ennio",
+        "title": "Fühlst du gar nichts? feat. Nina Chuba",
         "plays": 1
       }
     ],
