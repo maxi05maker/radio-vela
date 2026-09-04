@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 348,
-    "music_entries": 324,
+    "total_entries": 350,
+    "music_entries": 326,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1103,6 +1103,16 @@
       {
         "artist": "Lil Baby",
         "title": "Frozen",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Mein Boy",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "das leben ist... [Explicit]",
         "plays": 1
       }
     ],
