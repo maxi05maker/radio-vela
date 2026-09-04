@@ -2,9 +2,14 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 189,
-    "music_entries": 177,
+    "total_entries": 194,
+    "music_entries": 181,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 3
+      },
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
@@ -91,13 +96,18 @@
         "plays": 2
       },
       {
+        "artist": "Joel Corry & Tom Grennan",
+        "title": "Lionheart (Fearless)",
+        "plays": 2
+      },
+      {
         "artist": "Kyle Pearce",
         "title": "I Don't Care",
         "plays": 2
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
+        "artist": "Silbermond",
+        "title": "Auf Auf",
         "plays": 2
       },
       {
@@ -161,11 +171,6 @@
         "plays": 1
       },
       {
-        "artist": "Joel Corry & Tom Grennan",
-        "title": "Lionheart (Fearless)",
-        "plays": 1
-      },
-      {
         "artist": "ROSALÍA",
         "title": "LLYLM",
         "plays": 1
@@ -183,11 +188,6 @@
       {
         "artist": "The Cribs",
         "title": "Dark Luck",
-        "plays": 1
-      },
-      {
-        "artist": "Silbermond",
-        "title": "Auf Auf",
         "plays": 1
       },
       {
@@ -764,11 +764,16 @@
         "artist": "Giant Rooks",
         "title": "Want It Back",
         "plays": 1
+      },
+      {
+        "artist": "King Gizzard & The Lizard Wizard",
+        "title": "Field of Vision",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Tom Gregory",
-      "title": "Small Steps",
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
       "plays": 3
     }
   }
