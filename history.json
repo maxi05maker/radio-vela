@@ -676,5 +676,23 @@
     "played_at": "2026-09-04 12:57:12 +0200",
     "title": "17. Juli 1989",
     "artist": "Betterov"
+  },
+  {
+    "key": "2026-09-04 13:00:44 +0200|Anxious|Dennis Lloyd",
+    "played_at": "2026-09-04 13:00:44 +0200",
+    "title": "Anxious",
+    "artist": "Dennis Lloyd"
+  },
+  {
+    "key": "2026-09-04 13:03:41 +0200|Power over Me|Dermot Kennedy",
+    "played_at": "2026-09-04 13:03:41 +0200",
+    "title": "Power over Me",
+    "artist": "Dermot Kennedy"
+  },
+  {
+    "key": "2026-09-04 13:07:04 +0200|Weißt du überhaupt noch wer ich bin?|Zartmann",
+    "played_at": "2026-09-04 13:07:04 +0200",
+    "title": "Weißt du überhaupt noch wer ich bin?",
+    "artist": "Zartmann"
   }
 ]
