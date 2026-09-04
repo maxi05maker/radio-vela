@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 287,
-    "music_entries": 267,
+    "total_entries": 291,
+    "music_entries": 271,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -93,6 +93,11 @@
       {
         "artist": "Alex Cameron",
         "title": "Best Life",
+        "plays": 2
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Just Keep Watching",
         "plays": 2
       },
       {
@@ -356,6 +361,11 @@
         "plays": 2
       },
       {
+        "artist": "Dennis Lloyd",
+        "title": "Anxious",
+        "plays": 2
+      },
+      {
         "artist": "Robin Schulz feat. Alida",
         "title": "In Your Eyes",
         "plays": 2
@@ -398,11 +408,6 @@
       {
         "artist": "Giant Rooks",
         "title": "Mind Control",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "Just Keep Watching",
         "plays": 1
       },
       {
@@ -543,11 +548,6 @@
       {
         "artist": "Betterov",
         "title": "17. Juli 1989",
-        "plays": 1
-      },
-      {
-        "artist": "Dennis Lloyd",
-        "title": "Anxious",
         "plays": 1
       },
       {
@@ -903,6 +903,16 @@
       {
         "artist": "International Music",
         "title": "Kieselwege",
+        "plays": 1
+      },
+      {
+        "artist": "Celo Minati",
+        "title": "Ich Will Dich Nicht Mehr feat. Charisma",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Kopf aus",
         "plays": 1
       }
     ],
