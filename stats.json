@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 325,
-    "music_entries": 302,
+    "total_entries": 328,
+    "music_entries": 305,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -408,6 +408,11 @@
       {
         "artist": "Nina Chuba",
         "title": "Wildberry Lillet",
+        "plays": 2
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
         "plays": 2
       },
       {
@@ -836,11 +841,6 @@
         "plays": 1
       },
       {
-        "artist": "Lana Del Rey",
-        "title": "White Feather Hawk Tail Deer Hunter",
-        "plays": 1
-      },
-      {
         "artist": "Bebe Rexha & Faithless",
         "title": "New Religion",
         "plays": 1
@@ -1028,6 +1028,16 @@
       {
         "artist": "Shakira, Burna Boy",
         "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Oliver Tree x Robin Schulz",
+        "title": "Miss You",
+        "plays": 1
+      },
+      {
+        "artist": "Crawlers",
+        "title": "Come Over (Again)",
         "plays": 1
       }
     ],
