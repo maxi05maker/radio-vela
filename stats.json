@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 403,
-    "music_entries": 375,
+    "total_entries": 405,
+    "music_entries": 377,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -143,6 +143,11 @@
       {
         "artist": "Samara Cyn",
         "title": "Brand New Teeth feat. Smino",
+        "plays": 3
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
         "plays": 3
       },
       {
@@ -448,11 +453,6 @@
       {
         "artist": "Kygo feat. DNCE",
         "title": "Dancing Feet",
-        "plays": 2
-      },
-      {
-        "artist": "Lina",
-        "title": "Klippe",
         "plays": 2
       },
       {
@@ -1193,6 +1193,11 @@
       {
         "artist": "Swedish House Mafia & The Weeknd",
         "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Avalon Emerson",
+        "title": "Eden",
         "plays": 1
       }
     ],

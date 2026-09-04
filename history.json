@@ -2416,5 +2416,17 @@
     "played_at": "2026-09-04 04:39:39 +0200",
     "title": "Moth To A Flame",
     "artist": "Swedish House Mafia & The Weeknd"
+  },
+  {
+    "key": "2026-09-04 04:43:33 +0200|Klippe|Lina",
+    "played_at": "2026-09-04 04:43:33 +0200",
+    "title": "Klippe",
+    "artist": "Lina"
+  },
+  {
+    "key": "2026-09-04 04:46:11 +0200|Eden|Avalon Emerson",
+    "played_at": "2026-09-04 04:46:11 +0200",
+    "title": "Eden",
+    "artist": "Avalon Emerson"
   }
 ]
