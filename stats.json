@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 231,
-    "music_entries": 216,
+    "total_entries": 234,
+    "music_entries": 219,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -186,6 +186,11 @@
         "plays": 2
       },
       {
+        "artist": "Jackson Browne",
+        "title": "My Cleveland Heart",
+        "plays": 2
+      },
+      {
         "artist": "Ed Sheeran",
         "title": "Bad Habits",
         "plays": 2
@@ -213,6 +218,11 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 2
+      },
+      {
+        "artist": "Adele",
+        "title": "Easy On Me",
         "plays": 2
       },
       {
@@ -336,11 +346,6 @@
         "plays": 1
       },
       {
-        "artist": "Jackson Browne",
-        "title": "My Cleveland Heart",
-        "plays": 1
-      },
-      {
         "artist": "Sam Smith",
         "title": "My Guy",
         "plays": 1
@@ -378,11 +383,6 @@
       {
         "artist": "Imagine Dragons",
         "title": "Wrecked",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Easy On Me",
         "plays": 1
       },
       {
@@ -833,6 +833,11 @@
       {
         "artist": "Blue",
         "title": "Waste My Love",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
         "plays": 1
       }
     ],
