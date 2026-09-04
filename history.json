@@ -334,5 +334,35 @@
     "played_at": "2026-09-04 10:05:11 +0200",
     "title": "Nachrichten & Wetter",
     "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-04 10:08:02 +0200|Scar On My Guitar|KADAVAR",
+    "played_at": "2026-09-04 10:08:02 +0200",
+    "title": "Scar On My Guitar",
+    "artist": "KADAVAR"
+  },
+  {
+    "key": "2026-09-04 10:11:15 +0200|Ich darf das|Shirin David",
+    "played_at": "2026-09-04 10:11:15 +0200",
+    "title": "Ich darf das",
+    "artist": "Shirin David"
+  },
+  {
+    "key": "2026-09-04 10:13:47 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-09-04 10:13:47 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-09-04 10:16:05 +0200|QUE CE SOIT CLAIR|Paul Kalkbrenner & Stromae",
+    "played_at": "2026-09-04 10:16:05 +0200",
+    "title": "QUE CE SOIT CLAIR",
+    "artist": "Paul Kalkbrenner & Stromae"
+  },
+  {
+    "key": "2026-09-04 10:19:00 +0200|My Cleveland Heart|Jackson Browne",
+    "played_at": "2026-09-04 10:19:00 +0200",
+    "title": "My Cleveland Heart",
+    "artist": "Jackson Browne"
   }
 ]
