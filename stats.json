@@ -2,12 +2,17 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 129,
-    "music_entries": 120,
+    "total_entries": 131,
+    "music_entries": 122,
     "songs": [
       {
         "artist": "The 1975",
         "title": "If You're Too Shy (Let Me Know)",
+        "plays": 2
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Follow You",
         "plays": 2
       },
       {
@@ -58,11 +63,6 @@
       {
         "artist": "Robbie Williams",
         "title": "All My Life",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Follow You",
         "plays": 1
       },
       {
@@ -583,6 +583,11 @@
       {
         "artist": "Sarah Connor & Sido",
         "title": "Interstellar (Zwischen den Sternen)",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5 feat. Cardi B",
+        "title": "Girls Like You",
         "plays": 1
       }
     ],

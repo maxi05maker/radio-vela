@@ -772,5 +772,17 @@
     "played_at": "2026-09-04 13:50:10 +0200",
     "title": "Interstellar (Zwischen den Sternen)",
     "artist": "Sarah Connor & Sido"
+  },
+  {
+    "key": "2026-09-04 13:52:38 +0200|Girls Like You|Maroon 5 feat. Cardi B",
+    "played_at": "2026-09-04 13:52:38 +0200",
+    "title": "Girls Like You",
+    "artist": "Maroon 5 feat. Cardi B"
+  },
+  {
+    "key": "2026-09-04 13:56:34 +0200|Follow You|Imagine Dragons",
+    "played_at": "2026-09-04 13:56:34 +0200",
+    "title": "Follow You",
+    "artist": "Imagine Dragons"
   }
 ]
