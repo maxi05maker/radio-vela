@@ -2,13 +2,13 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 307,
-    "music_entries": 286,
+    "total_entries": 311,
+    "music_entries": 290,
     "songs": [
       {
         "artist": "Harry Styles",
         "title": "As It Was",
-        "plays": 4
+        "plays": 5
       },
       {
         "artist": "Bryan Adams",
@@ -984,12 +984,27 @@
         "artist": "Shawn Mendes",
         "title": "Heartbeat",
         "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Taxi",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Schief in jedem Chor",
+        "plays": 1
+      },
+      {
+        "artist": "Tiësto feat. Tate McRae",
+        "title": "10:35",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Harry Styles",
       "title": "As It Was",
-      "plays": 4
+      "plays": 5
     }
   }
 }
