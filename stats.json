@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 414,
-    "music_entries": 385,
+    "total_entries": 418,
+    "music_entries": 388,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -198,6 +198,11 @@
       {
         "artist": "Lorde",
         "title": "What Was That",
+        "plays": 2
+      },
+      {
+        "artist": "Kwam.e & Ove",
+        "title": "Hallow Kitty",
         "plays": 2
       },
       {
@@ -731,11 +736,6 @@
         "plays": 1
       },
       {
-        "artist": "Kwam.e & Ove",
-        "title": "Hallow Kitty",
-        "plays": 1
-      },
-      {
         "artist": "The Kid LAROI & Justin Bieber",
         "title": "Stay",
         "plays": 1
@@ -1223,6 +1223,16 @@
       {
         "artist": "Imagine Dragons",
         "title": "Wrecked",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
+        "plays": 1
+      },
+      {
+        "artist": "The Mary Onettes",
+        "title": "Hurricane Heart",
         "plays": 1
       }
     ],
