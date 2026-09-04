@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 102,
-    "music_entries": 95,
+    "total_entries": 106,
+    "music_entries": 99,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,6 +13,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -183,11 +188,6 @@
       {
         "artist": "Olivia Rodrigo",
         "title": "Good 4 You",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -468,6 +468,21 @@
       {
         "artist": "Zartmann",
         "title": "tau mich auf",
+        "plays": 1
+      },
+      {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
+        "plays": 1
+      },
+      {
+        "artist": "Damiano David, Tyla, Nile Rodgers",
+        "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Beautiful Trauma",
         "plays": 1
       }
     ],
