@@ -718,5 +718,23 @@
     "played_at": "2026-09-04 13:18:11 +0200",
     "title": "Abracadabra",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-04 13:22:40 +0200|If You're Too Shy (Let Me Know)|The 1975",
+    "played_at": "2026-09-04 13:22:40 +0200",
+    "title": "If You're Too Shy (Let Me Know)",
+    "artist": "The 1975"
+  },
+  {
+    "key": "2026-09-04 13:26:40 +0200|Hallow Kitty|Kwam.e & Ove",
+    "played_at": "2026-09-04 13:26:40 +0200",
+    "title": "Hallow Kitty",
+    "artist": "Kwam.e & Ove"
+  },
+  {
+    "key": "2026-09-04 13:30:08 +0200|Lions At The Gate|Peter Frampton feat.Tom Morello",
+    "played_at": "2026-09-04 13:30:08 +0200",
+    "title": "Lions At The Gate",
+    "artist": "Peter Frampton feat.Tom Morello"
   }
 ]
