@@ -2530,5 +2530,17 @@
     "played_at": "2026-09-04 05:42:39 +0200",
     "title": "Bitter Taste",
     "artist": "Billy Idol"
+  },
+  {
+    "key": "2026-09-04 05:47:07 +0200|Wildberry Lillet|Nina Chuba",
+    "played_at": "2026-09-04 05:47:07 +0200",
+    "title": "Wildberry Lillet",
+    "artist": "Nina Chuba"
+  },
+  {
+    "key": "2026-09-04 05:49:18 +0200|What Am I Gonna Do?|Aldous Harding",
+    "played_at": "2026-09-04 05:49:18 +0200",
+    "title": "What Am I Gonna Do?",
+    "artist": "Aldous Harding"
   }
 ]

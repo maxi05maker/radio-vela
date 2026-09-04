@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 422,
-    "music_entries": 392,
+    "total_entries": 424,
+    "music_entries": 394,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -1248,6 +1248,16 @@
       {
         "artist": "Bebe Rexha & Faithless",
         "title": "New Religion",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wildberry Lillet",
+        "plays": 1
+      },
+      {
+        "artist": "Aldous Harding",
+        "title": "What Am I Gonna Do?",
         "plays": 1
       }
     ],
