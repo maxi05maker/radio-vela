@@ -970,5 +970,23 @@
     "played_at": "2026-09-04 15:35:55 +0200",
     "title": "Habit",
     "artist": "Laurell"
+  },
+  {
+    "key": "2026-09-04 15:38:55 +0200|Nights Like This|St. Lundi",
+    "played_at": "2026-09-04 15:38:55 +0200",
+    "title": "Nights Like This",
+    "artist": "St. Lundi"
+  },
+  {
+    "key": "2026-09-04 15:42:06 +0200|Boogie's In My Soul (feat. Snoop Dogg)|Chaka Khan",
+    "played_at": "2026-09-04 15:42:06 +0200",
+    "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+    "artist": "Chaka Khan"
+  },
+  {
+    "key": "2026-09-04 15:45:45 +0200|Mr. November|The National",
+    "played_at": "2026-09-04 15:45:45 +0200",
+    "title": "Mr. November",
+    "artist": "The National"
   }
 ]
