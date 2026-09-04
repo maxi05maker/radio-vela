@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 321,
-    "music_entries": 299,
+    "total_entries": 325,
+    "music_entries": 302,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,7 +13,7 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
-        "plays": 4
+        "plays": 5
       },
       {
         "artist": "Tom Gregory",
@@ -38,6 +38,11 @@
       {
         "artist": "LINKIN PARK & Kiiara",
         "title": "Heavy",
+        "plays": 3
+      },
+      {
+        "artist": "Joel Corry & Tom Grennan",
+        "title": "Lionheart (Fearless)",
         "plays": 3
       },
       {
@@ -128,11 +133,6 @@
       {
         "artist": "Wa22ermann",
         "title": "Planufer",
-        "plays": 2
-      },
-      {
-        "artist": "Joel Corry & Tom Grennan",
-        "title": "Lionheart (Fearless)",
         "plays": 2
       },
       {
@@ -1023,6 +1023,11 @@
       {
         "artist": "Kummer",
         "title": "Es tut wieder weh",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira, Burna Boy",
+        "title": "Dai Dai",
         "plays": 1
       }
     ],
