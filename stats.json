@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 261,
-    "music_entries": 244,
+    "total_entries": 265,
+    "music_entries": 247,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -28,6 +28,11 @@
       {
         "artist": "Rag'n'Bone Man",
         "title": "Human",
+        "plays": 3
+      },
+      {
+        "artist": "SZA",
+        "title": "Kill Bill (Remix) feat. Doja Cat",
         "plays": 3
       },
       {
@@ -248,11 +253,6 @@
       {
         "artist": "Dean Lewis",
         "title": "Be Alright",
-        "plays": 2
-      },
-      {
-        "artist": "SZA",
-        "title": "Kill Bill (Remix) feat. Doja Cat",
         "plays": 2
       },
       {
@@ -878,6 +878,16 @@
       {
         "artist": "Madonna & Kylie Minogue",
         "title": "Love Sensation (Afterhours Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla & Zara Larsson",
+        "title": "SHE DID IT AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "LISA FEAT. DOJA CAT & RAYE",
+        "title": "BORN AGAIN",
         "plays": 1
       }
     ],
