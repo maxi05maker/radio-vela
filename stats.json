@@ -2,9 +2,14 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 194,
-    "music_entries": 181,
+    "total_entries": 198,
+    "music_entries": 185,
     "songs": [
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 3
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
@@ -43,11 +48,6 @@
       {
         "artist": "Imagine Dragons",
         "title": "Follow You",
-        "plays": 2
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 2
       },
       {
@@ -111,8 +111,18 @@
         "plays": 2
       },
       {
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
+        "plays": 2
+      },
+      {
         "artist": "Alle Farben & James Blunt",
         "title": "Walk Away",
+        "plays": 2
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Only the Strong Survive",
         "plays": 2
       },
       {
@@ -196,11 +206,6 @@
         "plays": 1
       },
       {
-        "artist": "Lea",
-        "title": "Wenn Du Mich Lässt",
-        "plays": 1
-      },
-      {
         "artist": "Nico Santos",
         "title": "Human Being",
         "plays": 1
@@ -228,11 +233,6 @@
       {
         "artist": "Provinz",
         "title": "Pazifik",
-        "plays": 1
-      },
-      {
-        "artist": "Bruce Springsteen",
-        "title": "Only the Strong Survive",
         "plays": 1
       },
       {
@@ -769,11 +769,16 @@
         "artist": "King Gizzard & The Lizard Wizard",
         "title": "Field of Vision",
         "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Line",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "Harry Styles",
+      "title": "As It Was",
       "plays": 3
     }
   }

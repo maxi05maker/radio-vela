@@ -1162,5 +1162,29 @@
     "played_at": "2026-09-04 17:26:50 +0200",
     "title": "Auf Auf",
     "artist": "Silbermond"
+  },
+  {
+    "key": "2026-09-04 17:29:35 +0200|As It Was|Harry Styles",
+    "played_at": "2026-09-04 17:29:35 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-04 17:32:23 +0200|The Line|Twenty One Pilots",
+    "played_at": "2026-09-04 17:32:23 +0200",
+    "title": "The Line",
+    "artist": "Twenty One Pilots"
+  },
+  {
+    "key": "2026-09-04 17:35:35 +0200|Only the Strong Survive|Bruce Springsteen",
+    "played_at": "2026-09-04 17:35:35 +0200",
+    "title": "Only the Strong Survive",
+    "artist": "Bruce Springsteen"
+  },
+  {
+    "key": "2026-09-04 17:38:34 +0200|Wenn Du Mich Lässt|Lea",
+    "played_at": "2026-09-04 17:38:34 +0200",
+    "title": "Wenn Du Mich Lässt",
+    "artist": "Lea"
   }
 ]
