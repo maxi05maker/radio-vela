@@ -496,5 +496,23 @@
     "played_at": "2026-09-04 11:32:09 +0200",
     "title": "American Teenager",
     "artist": "Ethel Cain"
+  },
+  {
+    "key": "2026-09-04 11:36:28 +0200|Ich mags|Jeremias",
+    "played_at": "2026-09-04 11:36:28 +0200",
+    "title": "Ich mags",
+    "artist": "Jeremias"
+  },
+  {
+    "key": "2026-09-04 11:39:10 +0200|DELUSIONAL (Main Version)|Kesha",
+    "played_at": "2026-09-04 11:39:10 +0200",
+    "title": "DELUSIONAL (Main Version)",
+    "artist": "Kesha"
+  },
+  {
+    "key": "2026-09-04 11:42:44 +0200|Aute Cuture|ROSALÍA",
+    "played_at": "2026-09-04 11:42:44 +0200",
+    "title": "Aute Cuture",
+    "artist": "ROSALÍA"
   }
 ]
