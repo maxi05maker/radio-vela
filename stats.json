@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 343,
-    "music_entries": 319,
+    "total_entries": 346,
+    "music_entries": 322,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -28,6 +28,11 @@
       {
         "artist": "Muse",
         "title": "Something Human",
+        "plays": 3
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Dancing’s Done",
         "plays": 3
       },
       {
@@ -83,11 +88,6 @@
       {
         "artist": "Swedish House Mafia",
         "title": "Wait So Long",
-        "plays": 2
-      },
-      {
-        "artist": "Ava Max",
-        "title": "Dancing’s Done",
         "plays": 2
       },
       {
@@ -406,6 +406,11 @@
         "plays": 2
       },
       {
+        "artist": "Sam Smith",
+        "title": "I'm Not Here To Make Friends",
+        "plays": 2
+      },
+      {
         "artist": "Kygo & Dean Lewis",
         "title": "Lost Without You (with Dean Lewis)",
         "plays": 2
@@ -613,11 +618,6 @@
       {
         "artist": "ABBA",
         "title": "Don't Shut Me Down",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith",
-        "title": "I'm Not Here To Make Friends",
         "plays": 1
       },
       {
@@ -1088,6 +1088,11 @@
       {
         "artist": "Sabrina Carpenter",
         "title": "Manchild",
+        "plays": 1
+      },
+      {
+        "artist": "THE MENZINGERS",
+        "title": "Everything I Ever Saw",
         "plays": 1
       }
     ],
