@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 198,
-    "music_entries": 185,
+    "total_entries": 200,
+    "music_entries": 187,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -126,6 +126,11 @@
         "plays": 2
       },
       {
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
+        "plays": 2
+      },
+      {
         "artist": "Iron Maiden",
         "title": "Senjutsu",
         "plays": 2
@@ -233,11 +238,6 @@
       {
         "artist": "Provinz",
         "title": "Pazifik",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler feat. Cali Y El Dandee",
-        "title": "Mañana",
         "plays": 1
       },
       {
@@ -773,6 +773,11 @@
       {
         "artist": "Twenty One Pilots",
         "title": "The Line",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
         "plays": 1
       }
     ],
