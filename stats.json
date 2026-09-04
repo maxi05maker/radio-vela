@@ -2,8 +2,8 @@
   "2026-09-03 07:00": {
     "period_start": "2026-09-03T07:00:00+02:00",
     "period_end": "2026-09-04T07:00:00+02:00",
-    "total_entries": 399,
-    "music_entries": 371,
+    "total_entries": 403,
+    "music_entries": 375,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -1173,6 +1173,26 @@
       {
         "artist": "Nina Chuba",
         "title": "Wenn das Liebe ist",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Sportfreunde Stiller",
+        "title": "'54, '74, '90, 2006",
+        "plays": 1
+      },
+      {
+        "artist": "Linkin Park",
+        "title": "Heavy Is the Crown",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
         "plays": 1
       }
     ],
