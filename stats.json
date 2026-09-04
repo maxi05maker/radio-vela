@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 221,
-    "music_entries": 207,
+    "total_entries": 224,
+    "music_entries": 210,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -191,6 +191,11 @@
         "plays": 2
       },
       {
+        "artist": "Tate McRae",
+        "title": "she's all i wanna be",
+        "plays": 2
+      },
+      {
         "artist": "Sportfreunde Stiller",
         "title": "'54, '74, '90, 2006",
         "plays": 2
@@ -203,6 +208,11 @@
       {
         "artist": "SZA",
         "title": "Kill Bill (Remix) feat. Doja Cat",
+        "plays": 2
+      },
+      {
+        "artist": "Bausa",
+        "title": "Flashbacks feat. LIZ",
         "plays": 2
       },
       {
@@ -331,11 +341,6 @@
         "plays": 1
       },
       {
-        "artist": "Tate McRae",
-        "title": "she's all i wanna be",
-        "plays": 1
-      },
-      {
         "artist": "Stromae",
         "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
         "plays": 1
@@ -428,11 +433,6 @@
       {
         "artist": "Ray Dalton x Alvaro Soler",
         "title": "Manila",
-        "plays": 1
-      },
-      {
-        "artist": "Bausa",
-        "title": "Flashbacks feat. LIZ",
         "plays": 1
       },
       {
@@ -818,6 +818,11 @@
       {
         "artist": "Avalon Emerson",
         "title": "Eden",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
         "plays": 1
       }
     ],
