@@ -94,5 +94,23 @@
     "played_at": "2026-09-04 07:51:59 +0200",
     "title": "Lose Control",
     "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-09-04 07:55:30 +0200|Best Life|Alex Cameron",
+    "played_at": "2026-09-04 07:55:30 +0200",
+    "title": "Best Life",
+    "artist": "Alex Cameron"
+  },
+  {
+    "key": "2026-09-04 07:58:45 +0200|Just Keep Watching|Tate McRae",
+    "played_at": "2026-09-04 07:58:45 +0200",
+    "title": "Just Keep Watching",
+    "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-09-04 08:01:08 +0200|Fit Back In|BOY",
+    "played_at": "2026-09-04 08:01:08 +0200",
+    "title": "Fit Back In",
+    "artist": "BOY"
   }
 ]
