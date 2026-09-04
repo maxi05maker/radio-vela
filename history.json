@@ -1282,5 +1282,23 @@
     "played_at": "2026-09-04 18:29:15 +0200",
     "title": "Bad Habits",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-04 18:33:06 +0200|Sad Girls|Bebe Rexha & David Guetta",
+    "played_at": "2026-09-04 18:33:06 +0200",
+    "title": "Sad Girls",
+    "artist": "Bebe Rexha & David Guetta"
+  },
+  {
+    "key": "2026-09-04 18:35:54 +0200|Be Alright|Dean Lewis",
+    "played_at": "2026-09-04 18:35:54 +0200",
+    "title": "Be Alright",
+    "artist": "Dean Lewis"
+  },
+  {
+    "key": "2026-09-04 18:39:11 +0200|Ich darf das|Shirin David",
+    "played_at": "2026-09-04 18:39:11 +0200",
+    "title": "Ich darf das",
+    "artist": "Shirin David"
   }
 ]

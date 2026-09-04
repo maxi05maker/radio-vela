@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 214,
-    "music_entries": 200,
+    "total_entries": 217,
+    "music_entries": 203,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -171,6 +171,11 @@
         "plays": 2
       },
       {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 2
+      },
+      {
         "artist": "Ed Sheeran",
         "title": "Bad Habits",
         "plays": 2
@@ -183,6 +188,11 @@
       {
         "artist": "Sportfreunde Stiller",
         "title": "'54, '74, '90, 2006",
+        "plays": 2
+      },
+      {
+        "artist": "Dean Lewis",
+        "title": "Be Alright",
         "plays": 2
       },
       {
@@ -291,11 +301,6 @@
         "plays": 1
       },
       {
-        "artist": "Shirin David",
-        "title": "Ich darf das",
-        "plays": 1
-      },
-      {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
         "plays": 1
@@ -373,11 +378,6 @@
       {
         "artist": "Robin Schulz feat. CLOVES",
         "title": "Old Friend (Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "Dean Lewis",
-        "title": "Be Alright",
         "plays": 1
       },
       {
@@ -803,6 +803,11 @@
       {
         "artist": "L.A. Edwards",
         "title": "El Camino",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & David Guetta",
+        "title": "Sad Girls",
         "plays": 1
       }
     ],
