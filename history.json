@@ -82,5 +82,17 @@
     "played_at": "2026-09-04 07:46:20 +0200",
     "title": "Only Human",
     "artist": "Jonas Brothers"
+  },
+  {
+    "key": "2026-09-04 07:49:23 +0200|Mind Control|Giant Rooks",
+    "played_at": "2026-09-04 07:49:23 +0200",
+    "title": "Mind Control",
+    "artist": "Giant Rooks"
+  },
+  {
+    "key": "2026-09-04 07:51:59 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-09-04 07:51:59 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
   }
 ]
