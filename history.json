@@ -274,5 +274,23 @@
     "played_at": "2026-09-04 09:25:30 +0200",
     "title": "Mañana",
     "artist": "Alvaro Soler feat. Cali Y El Dandee"
+  },
+  {
+    "key": "2026-09-04 09:29:02 +0200|Strategy (feat. Megan Thee Stallion)|TWICE",
+    "played_at": "2026-09-04 09:29:02 +0200",
+    "title": "Strategy (feat. Megan Thee Stallion)",
+    "artist": "TWICE"
+  },
+  {
+    "key": "2026-09-04 09:32:26 +0200|Unstoppable|Sofia Portanet",
+    "played_at": "2026-09-04 09:32:26 +0200",
+    "title": "Unstoppable",
+    "artist": "Sofia Portanet"
+  },
+  {
+    "key": "2026-09-04 09:35:38 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-09-04 09:35:38 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
   }
 ]

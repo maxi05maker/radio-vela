@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 46,
-    "music_entries": 43,
+    "total_entries": 49,
+    "music_entries": 46,
     "songs": [
       {
         "artist": "Dean Lewis",
@@ -218,6 +218,21 @@
       {
         "artist": "Alvaro Soler feat. Cali Y El Dandee",
         "title": "Mañana",
+        "plays": 1
+      },
+      {
+        "artist": "TWICE",
+        "title": "Strategy (feat. Megan Thee Stallion)",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 1
       }
     ],
