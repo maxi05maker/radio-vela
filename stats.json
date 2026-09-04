@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 5,
-    "music_entries": 4,
+    "total_entries": 8,
+    "music_entries": 7,
     "songs": [
       {
         "artist": "Dean Lewis",
@@ -23,6 +23,21 @@
       {
         "artist": "Muse",
         "title": "Something Human",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
+        "plays": 1
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Dancing’s Done",
+        "plays": 1
+      },
+      {
+        "artist": "Mine",
+        "title": "Eiscreme",
         "plays": 1
       }
     ],
