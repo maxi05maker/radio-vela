@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 136,
-    "music_entries": 126,
+    "total_entries": 142,
+    "music_entries": 132,
     "songs": [
       {
         "artist": "The 1975",
@@ -21,6 +21,11 @@
         "plays": 2
       },
       {
+        "artist": "Rag'n'Bone Man",
+        "title": "Human",
+        "plays": 2
+      },
+      {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 2
@@ -28,6 +33,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 2
+      },
+      {
+        "artist": "SZA",
+        "title": "Kill Bill (Remix) feat. Doja Cat",
         "plays": 2
       },
       {
@@ -103,11 +113,6 @@
       {
         "artist": "BOY",
         "title": "Fit Back In",
-        "plays": 1
-      },
-      {
-        "artist": "Rag'n'Bone Man",
-        "title": "Human",
         "plays": 1
       },
       {
@@ -376,11 +381,6 @@
         "plays": 1
       },
       {
-        "artist": "SZA",
-        "title": "Kill Bill (Remix) feat. Doja Cat",
-        "plays": 1
-      },
-      {
         "artist": "Michael Patrick Kelly",
         "title": "The One",
         "plays": 1
@@ -608,6 +608,26 @@
       {
         "artist": "Calvin Harris & Clementine Douglas",
         "title": "Blessings",
+        "plays": 1
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
+        "plays": 1
+      },
+      {
+        "artist": "Linkin Park",
+        "title": "The Emptiness Machine",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Sophia Kennedy",
+        "title": "Rodeo",
         "plays": 1
       }
     ],
