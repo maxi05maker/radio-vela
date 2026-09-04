@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 299,
-    "music_entries": 279,
+    "total_entries": 302,
+    "music_entries": 281,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -948,6 +948,16 @@
       {
         "artist": "Robbie Williams & Jesse & Joy",
         "title": "Human (feat. Jesse & Joy)",
+        "plays": 1
+      },
+      {
+        "artist": "Gestört Aber GeiL x SkinnyJewlz",
+        "title": "Wenn du da bist",
+        "plays": 1
+      },
+      {
+        "artist": "Five Finger Death Punch",
+        "title": "The End",
         "plays": 1
       }
     ],
