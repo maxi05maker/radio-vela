@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 126,
-    "music_entries": 117,
+    "total_entries": 129,
+    "music_entries": 120,
     "songs": [
       {
         "artist": "The 1975",
@@ -568,6 +568,21 @@
       {
         "artist": "Lorde",
         "title": "What Was That",
+        "plays": 1
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Der Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor & Sido",
+        "title": "Interstellar (Zwischen den Sternen)",
         "plays": 1
       }
     ],

@@ -754,5 +754,23 @@
     "played_at": "2026-09-04 13:40:02 +0200",
     "title": "What Was That",
     "artist": "Lorde"
+  },
+  {
+    "key": "2026-09-04 13:43:31 +0200|Loco Contigo|DJ Snake & J. Balvin Feat. Tyga",
+    "played_at": "2026-09-04 13:43:31 +0200",
+    "title": "Loco Contigo",
+    "artist": "DJ Snake & J. Balvin Feat. Tyga"
+  },
+  {
+    "key": "2026-09-04 13:46:35 +0200|Der Sommer|Bosse",
+    "played_at": "2026-09-04 13:46:35 +0200",
+    "title": "Der Sommer",
+    "artist": "Bosse"
+  },
+  {
+    "key": "2026-09-04 13:50:10 +0200|Interstellar (Zwischen den Sternen)|Sarah Connor & Sido",
+    "played_at": "2026-09-04 13:50:10 +0200",
+    "title": "Interstellar (Zwischen den Sternen)",
+    "artist": "Sarah Connor & Sido"
   }
 ]
