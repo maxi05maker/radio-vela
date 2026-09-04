@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 53,
-    "music_entries": 50,
+    "total_entries": 56,
+    "music_entries": 52,
     "songs": [
       {
         "artist": "Dean Lewis",
@@ -253,6 +253,16 @@
       {
         "artist": "Ziggy in tha House",
         "title": "It's Raining",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Forget me",
         "plays": 1
       }
     ],

@@ -316,5 +316,23 @@
     "played_at": "2026-09-04 09:53:33 +0200",
     "title": "It's Raining",
     "artist": "Ziggy in tha House"
+  },
+  {
+    "key": "2026-09-04 09:57:30 +0200|Bad Liar|Imagine Dragons",
+    "played_at": "2026-09-04 09:57:30 +0200",
+    "title": "Bad Liar",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-04 10:01:51 +0200|Forget me|Lewis Capaldi",
+    "played_at": "2026-09-04 10:01:51 +0200",
+    "title": "Forget me",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-09-04 10:05:11 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-04 10:05:11 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
