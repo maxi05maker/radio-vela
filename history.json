@@ -1864,5 +1864,17 @@
     "played_at": "2026-09-04 23:28:57 +0200",
     "title": "As It Was",
     "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-04 23:31:44 +0200|The Great Divide|Noah Kahan",
+    "played_at": "2026-09-04 23:31:44 +0200",
+    "title": "The Great Divide",
+    "artist": "Noah Kahan"
+  },
+  {
+    "key": "2026-09-04 23:37:02 +0200|Hold Me Closer|Elton John, Britney Spears",
+    "played_at": "2026-09-04 23:37:02 +0200",
+    "title": "Hold Me Closer",
+    "artist": "Elton John, Britney Spears"
   }
 ]
