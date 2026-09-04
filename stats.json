@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 142,
-    "music_entries": 132,
+    "total_entries": 146,
+    "music_entries": 136,
     "songs": [
       {
         "artist": "The 1975",
@@ -18,6 +18,11 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Only Human",
         "plays": 2
       },
       {
@@ -83,11 +88,6 @@
       {
         "artist": "Michael Patrick Kelly",
         "title": "Throwback",
-        "plays": 1
-      },
-      {
-        "artist": "Jonas Brothers",
-        "title": "Only Human",
         "plays": 1
       },
       {
@@ -628,6 +628,21 @@
       {
         "artist": "Sophia Kennedy",
         "title": "Rodeo",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "Be Mine",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Take My Breath",
         "plays": 1
       }
     ],
