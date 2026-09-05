@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 163,
-    "music_entries": 150,
+    "total_entries": 166,
+    "music_entries": 153,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -26,6 +26,11 @@
         "plays": 2
       },
       {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 2
+      },
+      {
         "artist": "Tiësto feat. Tate McRae",
         "title": "10:35",
         "plays": 2
@@ -38,6 +43,11 @@
       {
         "artist": "Nina Chuba",
         "title": "Wildberry Lillet",
+        "plays": 2
+      },
+      {
+        "artist": "Milky Chance",
+        "title": "Synchronize",
         "plays": 2
       },
       {
@@ -81,11 +91,6 @@
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
         "artist": "Def Leppard",
         "title": "Rejoice",
         "plays": 1
@@ -98,11 +103,6 @@
       {
         "artist": "Phoenix",
         "title": "Alpha Zulu",
-        "plays": 1
-      },
-      {
-        "artist": "Milky Chance",
-        "title": "Synchronize",
         "plays": 1
       },
       {
@@ -693,6 +693,11 @@
       {
         "artist": "Robbie Williams & Jesse & Joy",
         "title": "Human (feat. Jesse & Joy)",
+        "plays": 1
+      },
+      {
+        "artist": "Baxter Dury & JGrrey",
+        "title": "Return Of The Sharp Heads",
         "plays": 1
       }
     ],
