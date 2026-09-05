@@ -2470,5 +2470,17 @@
     "played_at": "2026-09-05 04:51:46 +0200",
     "title": "Who's In Your Head",
     "artist": "Jonas Brothers"
+  },
+  {
+    "key": "2026-09-05 04:54:45 +0200|Señorita|Shawn Mendes & Camila Cabello",
+    "played_at": "2026-09-05 04:54:45 +0200",
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello"
+  },
+  {
+    "key": "2026-09-05 04:57:56 +0200|Bitter Taste|Billy Idol",
+    "played_at": "2026-09-05 04:57:56 +0200",
+    "title": "Bitter Taste",
+    "artist": "Billy Idol"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 412,
-    "music_entries": 383,
+    "total_entries": 414,
+    "music_entries": 385,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -93,6 +93,11 @@
       {
         "artist": "SZA",
         "title": "Kill Bill (Remix) feat. Doja Cat",
+        "plays": 3
+      },
+      {
+        "artist": "Billy Idol",
+        "title": "Bitter Taste",
         "plays": 3
       },
       {
@@ -333,11 +338,6 @@
       {
         "artist": "Bausa",
         "title": "Flashbacks feat. LIZ",
-        "plays": 2
-      },
-      {
-        "artist": "Billy Idol",
-        "title": "Bitter Taste",
         "plays": 2
       },
       {
@@ -1323,6 +1323,11 @@
       {
         "artist": "Jonas Brothers",
         "title": "Who's In Your Head",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
         "plays": 1
       }
     ],
