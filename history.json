@@ -346,5 +346,35 @@
     "played_at": "2026-09-05 09:55:54 +0200",
     "title": "Island",
     "artist": "Alice Merton"
+  },
+  {
+    "key": "2026-09-05 09:59:01 +0200|77|Billy Idol feat. Avril Lavigne",
+    "played_at": "2026-09-05 09:59:01 +0200",
+    "title": "77",
+    "artist": "Billy Idol feat. Avril Lavigne"
+  },
+  {
+    "key": "2026-09-05 10:01:55 +0200|Vaderz feat. Bktherula|Rico Nasty",
+    "played_at": "2026-09-05 10:01:55 +0200",
+    "title": "Vaderz feat. Bktherula",
+    "artist": "Rico Nasty"
+  },
+  {
+    "key": "2026-09-05 10:03:59 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-05 10:03:59 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-05 10:06:38 +0200|Take My Breath|The Weeknd",
+    "played_at": "2026-09-05 10:06:38 +0200",
+    "title": "Take My Breath",
+    "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-09-05 10:10:23 +0200|Draconian|SOEN",
+    "played_at": "2026-09-05 10:10:23 +0200",
+    "title": "Draconian",
+    "artist": "SOEN"
   }
 ]

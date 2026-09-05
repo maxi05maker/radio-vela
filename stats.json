@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 58,
-    "music_entries": 54,
+    "total_entries": 63,
+    "music_entries": 58,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -273,6 +273,26 @@
       {
         "artist": "Alice Merton",
         "title": "Island",
+        "plays": 1
+      },
+      {
+        "artist": "Billy Idol feat. Avril Lavigne",
+        "title": "77",
+        "plays": 1
+      },
+      {
+        "artist": "Rico Nasty",
+        "title": "Vaderz feat. Bktherula",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Take My Breath",
+        "plays": 1
+      },
+      {
+        "artist": "SOEN",
+        "title": "Draconian",
         "plays": 1
       }
     ],
