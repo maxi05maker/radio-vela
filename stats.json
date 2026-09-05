@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 425,
-    "music_entries": 395,
+    "total_entries": 427,
+    "music_entries": 397,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1363,6 +1363,16 @@
       {
         "artist": "Dry Cleaning",
         "title": "Let Me Grow and You'll See the Fruit",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
+        "plays": 1
+      },
+      {
+        "artist": "We Are Scientists",
+        "title": "Less from You",
         "plays": 1
       }
     ],
