@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 396,
-    "music_entries": 368,
+    "total_entries": 400,
+    "music_entries": 371,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -401,6 +401,11 @@
         "plays": 2
       },
       {
+        "artist": "Bosse",
+        "title": "Der Sommer",
+        "plays": 2
+      },
+      {
         "artist": "Maroon 5 feat. Cardi B",
         "title": "Girls Like You",
         "plays": 2
@@ -628,11 +633,6 @@
       {
         "artist": "Peter Frampton feat.Tom Morello",
         "title": "Lions At The Gate",
-        "plays": 1
-      },
-      {
-        "artist": "Bosse",
-        "title": "Der Sommer",
         "plays": 1
       },
       {
@@ -1268,6 +1268,16 @@
       {
         "artist": "D4vd",
         "title": "Here With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Filow & Ikkimel",
+        "title": "Jiggy",
+        "plays": 1
+      },
+      {
+        "artist": "Danger Dan",
+        "title": "Lauf Davon",
         "plays": 1
       }
     ],
