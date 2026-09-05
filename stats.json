@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 146,
-    "music_entries": 134,
+    "total_entries": 150,
+    "music_entries": 138,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -638,6 +638,26 @@
       {
         "artist": "Olivia Rodrigo",
         "title": "Good 4 You",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Taxi",
+        "plays": 1
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
+        "plays": 1
+      },
+      {
+        "artist": "Calum Scott",
+        "title": "My World",
         "plays": 1
       }
     ],
