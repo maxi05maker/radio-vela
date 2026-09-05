@@ -898,5 +898,17 @@
     "played_at": "2026-09-05 14:42:08 +0200",
     "title": "My World",
     "artist": "Calum Scott"
+  },
+  {
+    "key": "2026-09-05 14:45:31 +0200|she's all i wanna be|Tate McRae",
+    "played_at": "2026-09-05 14:45:31 +0200",
+    "title": "she's all i wanna be",
+    "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-09-05 14:48:58 +0200|Lost Without You (with Dean Lewis)|Kygo & Dean Lewis",
+    "played_at": "2026-09-05 14:48:58 +0200",
+    "title": "Lost Without You (with Dean Lewis)",
+    "artist": "Kygo & Dean Lewis"
   }
 ]

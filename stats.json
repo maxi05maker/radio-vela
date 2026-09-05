@@ -2,13 +2,18 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 150,
-    "music_entries": 138,
+    "total_entries": 152,
+    "music_entries": 140,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
         "plays": 3
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "she's all i wanna be",
+        "plays": 2
       },
       {
         "artist": "Five Finger Death Punch",
@@ -34,11 +39,6 @@
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 2
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "she's all i wanna be",
-        "plays": 1
       },
       {
         "artist": "1986zig",
@@ -658,6 +658,11 @@
       {
         "artist": "Calum Scott",
         "title": "My World",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
         "plays": 1
       }
     ],
