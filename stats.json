@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 168,
-    "music_entries": 155,
+    "total_entries": 170,
+    "music_entries": 157,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -698,6 +698,16 @@
       {
         "artist": "Baxter Dury & JGrrey",
         "title": "Return Of The Sharp Heads",
+        "plays": 1
+      },
+      {
+        "artist": "Foo Fighters",
+        "title": "Of All People",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
         "plays": 1
       }
     ],

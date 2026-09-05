@@ -1006,5 +1006,17 @@
     "played_at": "2026-09-05 15:36:54 +0200",
     "title": "Hold Me Closer",
     "artist": "Elton John, Britney Spears"
+  },
+  {
+    "key": "2026-09-05 15:40:16 +0200|Of All People|Foo Fighters",
+    "played_at": "2026-09-05 15:40:16 +0200",
+    "title": "Of All People",
+    "artist": "Foo Fighters"
+  },
+  {
+    "key": "2026-09-05 15:42:50 +0200|Out Of Time|The Weeknd",
+    "played_at": "2026-09-05 15:42:50 +0200",
+    "title": "Out Of Time",
+    "artist": "The Weeknd"
   }
 ]
