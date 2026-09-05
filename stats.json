@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 172,
-    "music_entries": 159,
+    "total_entries": 174,
+    "music_entries": 161,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -13,6 +13,11 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 3
+      },
+      {
+        "artist": "Nura",
+        "title": "Ich War's Nicht",
         "plays": 3
       },
       {
@@ -66,8 +71,8 @@
         "plays": 2
       },
       {
-        "artist": "Nura",
-        "title": "Ich War's Nicht",
+        "artist": "Disturbed",
+        "title": "The Sound Of Silence",
         "plays": 2
       },
       {
@@ -163,11 +168,6 @@
       {
         "artist": "Ava Max",
         "title": "Dancing’s Done",
-        "plays": 1
-      },
-      {
-        "artist": "Disturbed",
-        "title": "The Sound Of Silence",
         "plays": 1
       },
       {

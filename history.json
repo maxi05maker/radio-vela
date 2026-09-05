@@ -1030,5 +1030,17 @@
     "played_at": "2026-09-05 15:50:16 +0200",
     "title": "Azizam",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-05 15:52:55 +0200|Ich War's Nicht|Nura",
+    "played_at": "2026-09-05 15:52:55 +0200",
+    "title": "Ich War's Nicht",
+    "artist": "Nura"
+  },
+  {
+    "key": "2026-09-05 15:55:24 +0200|The Sound Of Silence|Disturbed",
+    "played_at": "2026-09-05 15:55:24 +0200",
+    "title": "The Sound Of Silence",
+    "artist": "Disturbed"
   }
 ]
