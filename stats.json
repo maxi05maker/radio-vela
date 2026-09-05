@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 442,
-    "music_entries": 410,
+    "total_entries": 446,
+    "music_entries": 414,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -496,6 +496,11 @@
         "plays": 2
       },
       {
+        "artist": "CRO",
+        "title": "High (feat. Claudia Valentina)",
+        "plays": 2
+      },
+      {
         "artist": "Gestört Aber GeiL x SkinnyJewlz",
         "title": "Wenn du da bist",
         "plays": 2
@@ -503,6 +508,11 @@
       {
         "artist": "Pusha T",
         "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
+        "plays": 2
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Taxi",
         "plays": 2
       },
       {
@@ -951,11 +961,6 @@
         "plays": 1
       },
       {
-        "artist": "CRO",
-        "title": "High (feat. Claudia Valentina)",
-        "plays": 1
-      },
-      {
         "artist": "Robbie Williams & Jesse & Joy",
         "title": "Human (feat. Jesse & Joy)",
         "plays": 1
@@ -983,11 +988,6 @@
       {
         "artist": "Shawn Mendes",
         "title": "Heartbeat",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger",
-        "title": "Taxi",
         "plays": 1
       },
       {
@@ -1408,6 +1408,16 @@
       {
         "artist": "Kraftklub, Domiziana",
         "title": "Unsterblich sein ( ) feat. Domiziana",
+        "plays": 1
+      },
+      {
+        "artist": "Myles Smith",
+        "title": "Stay (If You Wanna Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Nevermind",
         "plays": 1
       }
     ],
