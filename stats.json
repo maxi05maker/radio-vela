@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 77,
-    "music_entries": 72,
+    "total_entries": 80,
+    "music_entries": 74,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -363,6 +363,16 @@
       {
         "artist": "Blond",
         "title": "Du und Ich",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
+        "plays": 1
+      },
+      {
+        "artist": "Lauren Spencer-Smith",
+        "title": "Flowers",
         "plays": 1
       }
     ],
