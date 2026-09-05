@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 47,
-    "music_entries": 43,
+    "total_entries": 50,
+    "music_entries": 46,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -218,6 +218,21 @@
       {
         "artist": "Floodlights",
         "title": "Can You Feel It",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "I'm Not Here To Make Friends",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Mein Boy",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
         "plays": 1
       }
     ],
