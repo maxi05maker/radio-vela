@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 404,
-    "music_entries": 375,
+    "total_entries": 407,
+    "music_entries": 378,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1293,6 +1293,21 @@
       {
         "artist": "Doechii",
         "title": "Bitch I'm Nice",
+        "plays": 1
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "Rockstars",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Stay With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia  (feat. Alicia Keys)",
+        "title": "Finally",
         "plays": 1
       }
     ],
