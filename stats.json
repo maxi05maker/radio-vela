@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 41,
-    "music_entries": 38,
+    "total_entries": 44,
+    "music_entries": 40,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -193,6 +193,16 @@
       {
         "artist": "Charlie Puth",
         "title": "I Don’t Think That I Like Her",
+        "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "Midlake",
+        "title": "The Ghouls",
         "plays": 1
       }
     ],
