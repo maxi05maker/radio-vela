@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 99,
-    "music_entries": 92,
+    "total_entries": 103,
+    "music_entries": 95,
     "songs": [
       {
         "artist": "Nura",
@@ -458,6 +458,21 @@
       {
         "artist": "D4vd",
         "title": "Here With Me",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA",
+        "title": "Wie?",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Overpass Graffiti",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Beams",
         "plays": 1
       }
     ],
