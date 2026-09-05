@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 373,
-    "music_entries": 348,
+    "total_entries": 375,
+    "music_entries": 350,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1188,6 +1188,16 @@
       {
         "artist": "Baxter Dury & JGrrey",
         "title": "Return Of The Sharp Heads",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "Island",
+        "plays": 1
+      },
+      {
+        "artist": "Wet Leg",
+        "title": "Mangetout",
         "plays": 1
       }
     ],
