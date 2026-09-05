@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 364,
-    "music_entries": 339,
+    "total_entries": 370,
+    "music_entries": 345,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -68,6 +68,11 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 3
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 3
       },
       {
@@ -233,11 +238,6 @@
       {
         "artist": "Shirin David",
         "title": "Ich darf das",
-        "plays": 2
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -1153,6 +1153,31 @@
       {
         "artist": "Blond",
         "title": "Du und Ich",
+        "plays": 1
+      },
+      {
+        "artist": "AJR",
+        "title": "The DJ Is Crying For Help",
+        "plays": 1
+      },
+      {
+        "artist": "Foo Fighters",
+        "title": "Of All People",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Daisies",
+        "plays": 1
+      },
+      {
+        "artist": "LOTTE & Max Giesinger",
+        "title": "Auf das, was da noch kommt",
         "plays": 1
       }
     ],
