@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 263,
-    "music_entries": 242,
+    "total_entries": 265,
+    "music_entries": 244,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -28,6 +28,11 @@
       {
         "artist": "Nura",
         "title": "Ich War's Nicht",
+        "plays": 3
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 3
       },
       {
@@ -106,11 +111,6 @@
         "plays": 2
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 2
-      },
-      {
         "artist": "Archive",
         "title": "City Walls",
         "plays": 2
@@ -148,6 +148,11 @@
       {
         "artist": "CRO",
         "title": "High (feat. Claudia Valentina)",
+        "plays": 2
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
         "plays": 2
       },
       {
@@ -713,11 +718,6 @@
       {
         "artist": "Foo Fighters",
         "title": "Of All People",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Out Of Time",
         "plays": 1
       },
       {
