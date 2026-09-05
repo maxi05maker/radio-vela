@@ -1336,5 +1336,17 @@
     "played_at": "2026-09-05 18:38:33 +0200",
     "title": "Voices",
     "artist": "Damiano David"
+  },
+  {
+    "key": "2026-09-05 18:42:06 +0200|Thank You|Lena",
+    "played_at": "2026-09-05 18:42:06 +0200",
+    "title": "Thank You",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-09-05 18:45:20 +0200|Heartbeat|Shawn Mendes",
+    "played_at": "2026-09-05 18:45:20 +0200",
+    "title": "Heartbeat",
+    "artist": "Shawn Mendes"
   }
 ]

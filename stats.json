@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 223,
-    "music_entries": 206,
+    "total_entries": 225,
+    "music_entries": 208,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -23,6 +23,11 @@
       {
         "artist": "Tate McRae",
         "title": "she's all i wanna be",
+        "plays": 2
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heartbeat",
         "plays": 2
       },
       {
@@ -123,11 +128,6 @@
       {
         "artist": "1986zig",
         "title": "Nur dir gehör'n",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Heartbeat",
         "plays": 1
       },
       {
@@ -903,6 +903,11 @@
       {
         "artist": "Damiano David",
         "title": "Voices",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Thank You",
         "plays": 1
       }
     ],
