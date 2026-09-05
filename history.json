@@ -2596,5 +2596,35 @@
     "played_at": "2026-09-05 05:57:54 +0200",
     "title": "Kopf aus",
     "artist": "1986zig"
+  },
+  {
+    "key": "2026-09-05 06:00:11 +0200|Enough Is Enough|The Hives",
+    "played_at": "2026-09-05 06:00:11 +0200",
+    "title": "Enough Is Enough",
+    "artist": "The Hives"
+  },
+  {
+    "key": "2026-09-05 06:02:57 +0200|Small Steps|Tom Gregory",
+    "played_at": "2026-09-05 06:02:57 +0200",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-09-05 06:05:43 +0200|Nichts mehr zu sagen|Max Giesinger & Quarterhead",
+    "played_at": "2026-09-05 06:05:43 +0200",
+    "title": "Nichts mehr zu sagen",
+    "artist": "Max Giesinger & Quarterhead"
+  },
+  {
+    "key": "2026-09-05 06:08:14 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-05 06:08:14 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-05 06:10:58 +0200|Zu Viel Retro|Joris",
+    "played_at": "2026-09-05 06:10:58 +0200",
+    "title": "Zu Viel Retro",
+    "artist": "Joris"
   }
 ]

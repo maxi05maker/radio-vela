@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 433,
-    "music_entries": 402,
+    "total_entries": 438,
+    "music_entries": 406,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -18,7 +18,7 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
-        "plays": 4
+        "plays": 5
       },
       {
         "artist": "The 1975",
@@ -486,6 +486,11 @@
         "plays": 2
       },
       {
+        "artist": "Max Giesinger & Quarterhead",
+        "title": "Nichts mehr zu sagen",
+        "plays": 2
+      },
+      {
         "artist": "Pusha T",
         "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 2
@@ -923,11 +928,6 @@
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger & Quarterhead",
-        "title": "Nichts mehr zu sagen",
         "plays": 1
       },
       {
@@ -1388,6 +1388,16 @@
       {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
+        "plays": 1
+      },
+      {
+        "artist": "The Hives",
+        "title": "Enough Is Enough",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
         "plays": 1
       }
     ],
