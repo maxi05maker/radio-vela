@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 289,
-    "music_entries": 264,
+    "total_entries": 294,
+    "music_entries": 268,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -1113,6 +1113,26 @@
       {
         "artist": "Lana Del Rey",
         "title": "Arcadia",
+        "plays": 1
+      },
+      {
+        "artist": "Ozzy Osbourne",
+        "title": "Let Me Hear You Scream",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Illegal",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben & Ilira",
+        "title": "Fading",
+        "plays": 1
+      },
+      {
+        "artist": "Alanis Morissette",
+        "title": "You Oughta Know",
         "plays": 1
       }
     ],
