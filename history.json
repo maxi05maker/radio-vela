@@ -2290,5 +2290,23 @@
     "played_at": "2026-09-05 03:18:05 +0200",
     "title": "Streets Of Minneapolis",
     "artist": "Bruce Springsteen"
+  },
+  {
+    "key": "2026-09-05 03:22:34 +0200|Beverly Hills|Weezer",
+    "played_at": "2026-09-05 03:22:34 +0200",
+    "title": "Beverly Hills",
+    "artist": "Weezer"
+  },
+  {
+    "key": "2026-09-05 03:25:55 +0200|Bad Habits|Ed Sheeran",
+    "played_at": "2026-09-05 03:25:55 +0200",
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-05 03:29:46 +0200|Awake Tonight|AFROJACK, Sia, David Guetta",
+    "played_at": "2026-09-05 03:29:46 +0200",
+    "title": "Awake Tonight",
+    "artist": "AFROJACK, Sia, David Guetta"
   }
 ]

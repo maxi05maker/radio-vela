@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 382,
-    "music_entries": 355,
+    "total_entries": 385,
+    "music_entries": 358,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -73,6 +73,11 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
+        "plays": 3
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
         "plays": 3
       },
       {
@@ -248,11 +253,6 @@
       {
         "artist": "Jackson Browne",
         "title": "My Cleveland Heart",
-        "plays": 2
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Bad Habits",
         "plays": 2
       },
       {
@@ -1213,6 +1213,16 @@
       {
         "artist": "Bruce Springsteen",
         "title": "Streets Of Minneapolis",
+        "plays": 1
+      },
+      {
+        "artist": "Weezer",
+        "title": "Beverly Hills",
+        "plays": 1
+      },
+      {
+        "artist": "AFROJACK, Sia, David Guetta",
+        "title": "Awake Tonight",
         "plays": 1
       }
     ],
