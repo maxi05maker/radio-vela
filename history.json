@@ -154,5 +154,35 @@
     "played_at": "2026-09-05 08:12:12 +0200",
     "title": "Good Luck",
     "artist": "Mabel X Jax Jones X Galatis"
+  },
+  {
+    "key": "2026-09-05 08:16:07 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-09-05 08:16:07 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-09-05 08:19:38 +0200|Mann im Haus|Lune",
+    "played_at": "2026-09-05 08:19:38 +0200",
+    "title": "Mann im Haus",
+    "artist": "Lune"
+  },
+  {
+    "key": "2026-09-05 08:21:53 +0200|Come Over (Again)|Crawlers",
+    "played_at": "2026-09-05 08:21:53 +0200",
+    "title": "Come Over (Again)",
+    "artist": "Crawlers"
+  },
+  {
+    "key": "2026-09-05 08:26:07 +0200|Miss You|Oliver Tree x Robin Schulz",
+    "played_at": "2026-09-05 08:26:07 +0200",
+    "title": "Miss You",
+    "artist": "Oliver Tree x Robin Schulz"
+  },
+  {
+    "key": "2026-09-05 08:29:33 +0200|Satisfy|Calvin Harris,Jazzy",
+    "played_at": "2026-09-05 08:29:33 +0200",
+    "title": "Satisfy",
+    "artist": "Calvin Harris,Jazzy"
   }
 ]

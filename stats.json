@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 26,
-    "music_entries": 24,
+    "total_entries": 31,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -123,6 +123,31 @@
       {
         "artist": "Mabel X Jax Jones X Galatis",
         "title": "Good Luck",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Lune",
+        "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Crawlers",
+        "title": "Come Over (Again)",
+        "plays": 1
+      },
+      {
+        "artist": "Oliver Tree x Robin Schulz",
+        "title": "Miss You",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
         "plays": 1
       }
     ],
