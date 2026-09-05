@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 249,
-    "music_entries": 229,
+    "total_entries": 251,
+    "music_entries": 231,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -108,6 +108,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
+        "artist": "Archive",
+        "title": "City Walls",
         "plays": 2
       },
       {
@@ -298,11 +303,6 @@
       {
         "artist": "RAYE, 070 Shake",
         "title": "Escapism.",
-        "plays": 1
-      },
-      {
-        "artist": "Archive",
-        "title": "City Walls",
         "plays": 1
       },
       {
@@ -978,6 +978,11 @@
       {
         "artist": "Shawn Mendes",
         "title": "Treat You Better",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kreise",
         "plays": 1
       }
     ],
