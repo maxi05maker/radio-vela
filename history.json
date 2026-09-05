@@ -1348,5 +1348,17 @@
     "played_at": "2026-09-05 18:45:20 +0200",
     "title": "Heartbeat",
     "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-05 18:47:41 +0200|SS26|Charli xcx",
+    "played_at": "2026-09-05 18:47:41 +0200",
+    "title": "SS26",
+    "artist": "Charli xcx"
+  },
+  {
+    "key": "2026-09-05 18:50:29 +0200|Survival Mode (Intro)|Badmómzjay",
+    "played_at": "2026-09-05 18:50:29 +0200",
+    "title": "Survival Mode (Intro)",
+    "artist": "Badmómzjay"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 225,
-    "music_entries": 208,
+    "total_entries": 227,
+    "music_entries": 210,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -123,6 +123,11 @@
       {
         "artist": "CRO",
         "title": "High (feat. Claudia Valentina)",
+        "plays": 2
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Survival Mode (Intro)",
         "plays": 2
       },
       {
@@ -751,11 +756,6 @@
         "plays": 1
       },
       {
-        "artist": "Badmómzjay",
-        "title": "Survival Mode (Intro)",
-        "plays": 1
-      },
-      {
         "artist": "Ayron Jones",
         "title": "Take Your Time",
         "plays": 1
@@ -908,6 +908,11 @@
       {
         "artist": "Lena",
         "title": "Thank You",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "SS26",
         "plays": 1
       }
     ],
