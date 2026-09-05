@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 427,
-    "music_entries": 397,
+    "total_entries": 430,
+    "music_entries": 399,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -446,6 +446,11 @@
         "plays": 2
       },
       {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
+        "plays": 2
+      },
+      {
         "artist": "Laurell",
         "title": "Habit",
         "plays": 2
@@ -713,11 +718,6 @@
       {
         "artist": "FILLY",
         "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
-        "plays": 1
-      },
-      {
-        "artist": "Mario Novembre",
-        "title": "Allein sein",
         "plays": 1
       },
       {
@@ -1373,6 +1373,11 @@
       {
         "artist": "We Are Scientists",
         "title": "Less from You",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
         "plays": 1
       }
     ],

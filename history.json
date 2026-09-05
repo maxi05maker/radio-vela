@@ -2560,5 +2560,23 @@
     "played_at": "2026-09-05 05:42:20 +0200",
     "title": "Less from You",
     "artist": "We Are Scientists"
+  },
+  {
+    "key": "2026-09-05 05:46:02 +0200|Old Phone|Ed Sheeran",
+    "played_at": "2026-09-05 05:46:02 +0200",
+    "title": "Old Phone",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-05 05:49:42 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-09-05 05:49:42 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-05 05:50:18 +0200|Allein sein|Mario Novembre",
+    "played_at": "2026-09-05 05:50:18 +0200",
+    "title": "Allein sein",
+    "artist": "Mario Novembre"
   }
 ]
