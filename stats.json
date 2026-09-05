@@ -2,13 +2,13 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 407,
-    "music_entries": 378,
+    "total_entries": 410,
+    "music_entries": 381,
     "songs": [
       {
         "artist": "Harry Styles",
         "title": "As It Was",
-        "plays": 5
+        "plays": 6
       },
       {
         "artist": "Bryan Adams",
@@ -178,6 +178,11 @@
       {
         "artist": "Silbermond",
         "title": "Auf Auf",
+        "plays": 2
+      },
+      {
+        "artist": "Mitski",
+        "title": "That White Cat",
         "plays": 2
       },
       {
@@ -488,11 +493,6 @@
       {
         "artist": "The Cribs",
         "title": "Dark Luck",
-        "plays": 1
-      },
-      {
-        "artist": "Mitski",
-        "title": "That White Cat",
         "plays": 1
       },
       {
@@ -1309,12 +1309,17 @@
         "artist": "Swedish House Mafia  (feat. Alicia Keys)",
         "title": "Finally",
         "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Overpass Graffiti",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Harry Styles",
       "title": "As It Was",
-      "plays": 5
+      "plays": 6
     }
   }
 }
