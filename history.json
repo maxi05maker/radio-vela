@@ -376,5 +376,23 @@
     "played_at": "2026-09-05 10:10:23 +0200",
     "title": "Draconian",
     "artist": "SOEN"
+  },
+  {
+    "key": "2026-09-05 10:15:00 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-09-05 10:15:00 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-09-05 10:17:18 +0200|Sag Mir Was Du Willst|Clueso",
+    "played_at": "2026-09-05 10:17:18 +0200",
+    "title": "Sag Mir Was Du Willst",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-05 10:20:22 +0200|Rollercoaster Of Life|The Pretty Reckless",
+    "played_at": "2026-09-05 10:20:22 +0200",
+    "title": "Rollercoaster Of Life",
+    "artist": "The Pretty Reckless"
   }
 ]

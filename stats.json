@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 63,
-    "music_entries": 58,
+    "total_entries": 66,
+    "music_entries": 61,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -293,6 +293,21 @@
       {
         "artist": "SOEN",
         "title": "Draconian",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Sag Mir Was Du Willst",
+        "plays": 1
+      },
+      {
+        "artist": "The Pretty Reckless",
+        "title": "Rollercoaster Of Life",
         "plays": 1
       }
     ],
