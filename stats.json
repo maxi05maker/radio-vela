@@ -2,9 +2,14 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 321,
-    "music_entries": 294,
+    "total_entries": 323,
+    "music_entries": 296,
     "songs": [
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 4
+      },
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
@@ -28,11 +33,6 @@
       {
         "artist": "Kummer",
         "title": "Es tut wieder weh",
-        "plays": 3
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 3
       },
       {
@@ -78,6 +78,11 @@
       {
         "artist": "Nina Chuba",
         "title": "Wildberry Lillet",
+        "plays": 2
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Ein Herz kann man nicht reparieren",
         "plays": 2
       },
       {
@@ -223,11 +228,6 @@
       {
         "artist": "Def Leppard",
         "title": "Rejoice",
-        "plays": 1
-      },
-      {
-        "artist": "Alli Neumann",
-        "title": "Ein Herz kann man nicht reparieren",
         "plays": 1
       },
       {
@@ -1232,9 +1232,9 @@
       }
     ],
     "top_song": {
-      "artist": "Tom Gregory",
-      "title": "Small Steps",
-      "plays": 3
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "plays": 4
     }
   }
 }
