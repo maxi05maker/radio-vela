@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 311,
-    "music_entries": 284,
+    "total_entries": 314,
+    "music_entries": 287,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -183,6 +183,11 @@
       {
         "artist": "Lizzo",
         "title": "Grrrls",
+        "plays": 2
+      },
+      {
+        "artist": "ScHoolboy Q",
+        "title": "Soccer Dad",
         "plays": 2
       },
       {
@@ -1001,11 +1006,6 @@
         "plays": 1
       },
       {
-        "artist": "ScHoolboy Q",
-        "title": "Soccer Dad",
-        "plays": 1
-      },
-      {
         "artist": "Owl City",
         "title": "Fireflies",
         "plays": 1
@@ -1198,6 +1198,16 @@
       {
         "artist": "Lady Gaga",
         "title": "Abracadabra",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "Black Country Communion",
+        "title": "Skyway",
         "plays": 1
       }
     ],
