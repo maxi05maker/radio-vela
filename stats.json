@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 370,
-    "music_entries": 345,
+    "total_entries": 373,
+    "music_entries": 348,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -416,6 +416,11 @@
         "plays": 2
       },
       {
+        "artist": "The Weeknd",
+        "title": "Take My Breath",
+        "plays": 2
+      },
+      {
         "artist": "Nina Chuba",
         "title": "Wildberry Lillet",
         "plays": 2
@@ -663,11 +668,6 @@
       {
         "artist": "Kamrad",
         "title": "Be Mine",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Take My Breath",
         "plays": 1
       },
       {
@@ -1178,6 +1178,16 @@
       {
         "artist": "LOTTE & Max Giesinger",
         "title": "Auf das, was da noch kommt",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
+        "plays": 1
+      },
+      {
+        "artist": "Baxter Dury & JGrrey",
+        "title": "Return Of The Sharp Heads",
         "plays": 1
       }
     ],
