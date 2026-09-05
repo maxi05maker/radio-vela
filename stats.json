@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 189,
-    "music_entries": 174,
+    "total_entries": 191,
+    "music_entries": 176,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -753,6 +753,16 @@
       {
         "artist": "Badmómzjay",
         "title": "Survival Mode (Intro)",
+        "plays": 1
+      },
+      {
+        "artist": "Ayron Jones",
+        "title": "Take Your Time",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "Skinny Ape",
         "plays": 1
       }
     ],
