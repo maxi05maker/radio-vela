@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 193,
-    "music_entries": 178,
+    "total_entries": 197,
+    "music_entries": 181,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -773,6 +773,21 @@
       {
         "artist": "The Chainsmokers feat. Daya",
         "title": "Don't Let Me Down",
+        "plays": 1
+      },
+      {
+        "artist": "Ke$ha",
+        "title": "TiK ToK",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Mehr Glück als Verstand",
+        "plays": 1
+      },
+      {
+        "artist": "Herbert Grönemeyer",
+        "title": "Lied 1 - Stück vom Himmel",
         "plays": 1
       }
     ],
