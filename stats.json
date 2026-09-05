@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 56,
-    "music_entries": 52,
+    "total_entries": 58,
+    "music_entries": 54,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -263,6 +263,16 @@
       {
         "artist": "Archive",
         "title": "City Walls",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith, Kim Petras",
+        "title": "Unholy (feat. Kim Petras)",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "Island",
         "plays": 1
       }
     ],

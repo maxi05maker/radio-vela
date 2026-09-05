@@ -334,5 +334,17 @@
     "played_at": "2026-09-05 09:49:49 +0200",
     "title": "City Walls",
     "artist": "Archive"
+  },
+  {
+    "key": "2026-09-05 09:53:17 +0200|Unholy (feat. Kim Petras)|Sam Smith, Kim Petras",
+    "played_at": "2026-09-05 09:53:17 +0200",
+    "title": "Unholy (feat. Kim Petras)",
+    "artist": "Sam Smith, Kim Petras"
+  },
+  {
+    "key": "2026-09-05 09:55:54 +0200|Island|Alice Merton",
+    "played_at": "2026-09-05 09:55:54 +0200",
+    "title": "Island",
+    "artist": "Alice Merton"
   }
 ]
