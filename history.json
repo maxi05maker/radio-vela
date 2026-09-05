@@ -532,5 +532,17 @@
     "played_at": "2026-09-05 11:35:56 +0200",
     "title": "Stay With Me",
     "artist": "Sam Smith"
+  },
+  {
+    "key": "2026-09-05 11:38:49 +0200|Wenn das Liebe ist|Nina Chuba",
+    "played_at": "2026-09-05 11:38:49 +0200",
+    "title": "Wenn das Liebe ist",
+    "artist": "Nina Chuba"
+  },
+  {
+    "key": "2026-09-05 11:41:34 +0200|Bitter Taste|Billy Idol",
+    "played_at": "2026-09-05 11:41:34 +0200",
+    "title": "Bitter Taste",
+    "artist": "Billy Idol"
   }
 ]
