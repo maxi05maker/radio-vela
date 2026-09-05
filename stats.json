@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 210,
-    "music_entries": 194,
+    "total_entries": 213,
+    "music_entries": 196,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -848,6 +848,16 @@
       {
         "artist": "Pashanim",
         "title": "Sommergewitter",
+        "plays": 1
+      },
+      {
+        "artist": "Wallows",
+        "title": "Calling After Me",
+        "plays": 1
+      },
+      {
+        "artist": "Drangsal",
+        "title": "Urlaub Von Mir",
         "plays": 1
       }
     ],
