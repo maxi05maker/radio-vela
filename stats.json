@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 282,
-    "music_entries": 258,
+    "total_entries": 284,
+    "music_entries": 260,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -38,6 +38,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 3
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Survival Mode (Intro)",
         "plays": 3
       },
       {
@@ -121,6 +126,11 @@
         "plays": 2
       },
       {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 2
+      },
+      {
         "artist": "Chappell Roan",
         "title": "The Subway",
         "plays": 2
@@ -158,11 +168,6 @@
       {
         "artist": "The Weeknd",
         "title": "Out Of Time",
-        "plays": 2
-      },
-      {
-        "artist": "Badmómzjay",
-        "title": "Survival Mode (Intro)",
         "plays": 2
       },
       {
@@ -388,11 +393,6 @@
       {
         "artist": "Alessia Cara",
         "title": "Slow Motion",
-        "plays": 1
-      },
-      {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
         "plays": 1
       },
       {
