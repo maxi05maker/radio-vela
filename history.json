@@ -40,5 +40,29 @@
     "played_at": "2026-09-05 07:17:06 +0200",
     "title": "Hold Me Closer",
     "artist": "Elton John, Britney Spears"
+  },
+  {
+    "key": "2026-09-05 07:20:28 +0200|The End|Five Finger Death Punch",
+    "played_at": "2026-09-05 07:20:28 +0200",
+    "title": "The End",
+    "artist": "Five Finger Death Punch"
+  },
+  {
+    "key": "2026-09-05 07:24:12 +0200|Alter Becher Neuer Drink|Bonez MC",
+    "played_at": "2026-09-05 07:24:12 +0200",
+    "title": "Alter Becher Neuer Drink",
+    "artist": "Bonez MC"
+  },
+  {
+    "key": "2026-09-05 07:25:58 +0200|I Ain’t Worried|OneRepublic",
+    "played_at": "2026-09-05 07:25:58 +0200",
+    "title": "I Ain’t Worried",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-09-05 07:28:25 +0200|10:35|Tiësto feat. Tate McRae",
+    "played_at": "2026-09-05 07:28:25 +0200",
+    "title": "10:35",
+    "artist": "Tiësto feat. Tate McRae"
   }
 ]

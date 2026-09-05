@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 7,
-    "music_entries": 6,
+    "total_entries": 11,
+    "music_entries": 10,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -33,6 +33,26 @@
       {
         "artist": "Elton John, Britney Spears",
         "title": "Hold Me Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Five Finger Death Punch",
+        "title": "The End",
+        "plays": 1
+      },
+      {
+        "artist": "Bonez MC",
+        "title": "Alter Becher Neuer Drink",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Tiësto feat. Tate McRae",
+        "title": "10:35",
         "plays": 1
       }
     ],
