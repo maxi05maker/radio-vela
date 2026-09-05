@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 191,
-    "music_entries": 176,
+    "total_entries": 193,
+    "music_entries": 178,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -763,6 +763,16 @@
       {
         "artist": "Gorillaz",
         "title": "Skinny Ape",
+        "plays": 1
+      },
+      {
+        "artist": "Armin van Buuren, Malou",
+        "title": "Everything I Wanted",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers feat. Daya",
+        "title": "Don't Let Me Down",
         "plays": 1
       }
     ],
