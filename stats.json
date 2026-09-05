@@ -2,9 +2,14 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 127,
-    "music_entries": 116,
+    "total_entries": 130,
+    "music_entries": 119,
     "songs": [
+      {
+        "artist": "Lil Nas X",
+        "title": "Late To Da Party feat YoungBoy NBA",
+        "plays": 2
+      },
       {
         "artist": "Harry Styles",
         "title": "As It Was",
@@ -103,11 +108,6 @@
       {
         "artist": "Kummer",
         "title": "Es tut wieder weh",
-        "plays": 1
-      },
-      {
-        "artist": "Lil Nas X",
-        "title": "Late To Da Party feat YoungBoy NBA",
         "plays": 1
       },
       {
@@ -574,11 +574,21 @@
         "artist": "1986zig",
         "title": "Kopf aus",
         "plays": 1
+      },
+      {
+        "artist": "Frank Popp Ensemble",
+        "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
+        "plays": 1
+      },
+      {
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Harry Styles",
-      "title": "As It Was",
+      "artist": "Lil Nas X",
+      "title": "Late To Da Party feat YoungBoy NBA",
       "plays": 2
     }
   }
