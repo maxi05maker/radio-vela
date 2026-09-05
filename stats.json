@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 259,
-    "music_entries": 238,
+    "total_entries": 263,
+    "music_entries": 242,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -133,6 +133,11 @@
       {
         "artist": "Kraftklub",
         "title": "Schief in jedem Chor",
+        "plays": 2
+      },
+      {
+        "artist": "1986zig",
+        "title": "Kopf aus",
         "plays": 2
       },
       {
@@ -591,11 +596,6 @@
         "plays": 1
       },
       {
-        "artist": "1986zig",
-        "title": "Kopf aus",
-        "plays": 1
-      },
-      {
         "artist": "Frank Popp Ensemble",
         "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
         "plays": 1
@@ -1018,6 +1018,21 @@
       {
         "artist": "Scissor Sisters",
         "title": "I Dont Feel Like Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Perfect",
+        "plays": 1
+      },
+      {
+        "artist": "Eels",
+        "title": "Goldy",
         "plays": 1
       }
     ],
