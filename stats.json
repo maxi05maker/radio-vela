@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 166,
-    "music_entries": 153,
+    "total_entries": 168,
+    "music_entries": 155,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -18,6 +18,11 @@
       {
         "artist": "Tate McRae",
         "title": "she's all i wanna be",
+        "plays": 2
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
         "plays": 2
       },
       {
@@ -56,6 +61,11 @@
         "plays": 2
       },
       {
+        "artist": "George Ezra",
+        "title": "Anyone For You",
+        "plays": 2
+      },
+      {
         "artist": "Nura",
         "title": "Ich War's Nicht",
         "plays": 2
@@ -78,11 +88,6 @@
       {
         "artist": "Cigarettes After Sex",
         "title": "Twizzler",
-        "plays": 1
-      },
-      {
-        "artist": "Elton John, Britney Spears",
-        "title": "Hold Me Closer",
         "plays": 1
       },
       {
@@ -118,11 +123,6 @@
       {
         "artist": "Purple Disco Machine feat. Jake Shears",
         "title": "Fire + Ice (Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Anyone For You",
         "plays": 1
       },
       {
