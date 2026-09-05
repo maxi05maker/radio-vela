@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 35,
-    "music_entries": 33,
+    "total_entries": 39,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -168,6 +168,21 @@
       {
         "artist": "Doechii",
         "title": "Bitch I'm Nice",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Revolving door",
+        "plays": 1
+      },
+      {
+        "artist": "Jax Jones Feat. MNEK",
+        "title": "Where Did You Go?",
+        "plays": 1
+      },
+      {
+        "artist": "Pink",
+        "title": "So what",
         "plays": 1
       }
     ],
