@@ -1798,5 +1798,17 @@
     "played_at": "2026-09-05 22:36:08 +0200",
     "title": "Aute Cuture",
     "artist": "ROSALÍA"
+  },
+  {
+    "key": "2026-09-05 22:38:36 +0200|Club Song|The Pussycat Dolls",
+    "played_at": "2026-09-05 22:38:36 +0200",
+    "title": "Club Song",
+    "artist": "The Pussycat Dolls"
+  },
+  {
+    "key": "2026-09-05 22:41:04 +0200|Wrecked|Imagine Dragons",
+    "played_at": "2026-09-05 22:41:04 +0200",
+    "title": "Wrecked",
+    "artist": "Imagine Dragons"
   }
 ]

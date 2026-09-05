@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 300,
-    "music_entries": 274,
+    "total_entries": 302,
+    "music_entries": 276,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -1153,6 +1153,16 @@
       {
         "artist": "ROSALÍA",
         "title": "Aute Cuture",
+        "plays": 1
+      },
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "Club Song",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Wrecked",
         "plays": 1
       }
     ],
