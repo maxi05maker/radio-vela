@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 319,
-    "music_entries": 292,
+    "total_entries": 321,
+    "music_entries": 294,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -123,6 +123,11 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
         "plays": 2
       },
       {
@@ -333,11 +338,6 @@
       {
         "artist": "HUGEL & Dawty & Preston Harris",
         "title": "Loosen Up",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE, 070 Shake",
-        "title": "Escapism.",
         "plays": 1
       },
       {
@@ -1223,6 +1223,11 @@
       {
         "artist": "One-T, YWY, Nika",
         "title": "The Way To Love (feat. YWY, Nika)",
+        "plays": 1
+      },
+      {
+        "artist": "Joe Bonamassa & Ivan Neville",
+        "title": "Ghetto Woman",
         "plays": 1
       }
     ],
