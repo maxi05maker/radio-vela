@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 21,
-    "music_entries": 20,
+    "total_entries": 26,
+    "music_entries": 24,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -103,6 +103,26 @@
       {
         "artist": "Purple Disco Machine feat. Jake Shears",
         "title": "Fire + Ice (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Anyone For You",
+        "plays": 1
+      },
+      {
+        "artist": "Turnstile",
+        "title": "Birds",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel X Jax Jones X Galatis",
+        "title": "Good Luck",
         "plays": 1
       }
     ],
