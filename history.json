@@ -1882,5 +1882,17 @@
     "played_at": "2026-09-05 23:19:22 +0200",
     "title": "Skyway",
     "artist": "Black Country Communion"
+  },
+  {
+    "key": "2026-09-05 23:23:50 +0200|Wenn Du Mich Lässt|Lea",
+    "played_at": "2026-09-05 23:23:50 +0200",
+    "title": "Wenn Du Mich Lässt",
+    "artist": "Lea"
+  },
+  {
+    "key": "2026-09-05 23:26:52 +0200|Transparent Soul|Willow & Travis Barker",
+    "played_at": "2026-09-05 23:26:52 +0200",
+    "title": "Transparent Soul",
+    "artist": "Willow & Travis Barker"
   }
 ]
