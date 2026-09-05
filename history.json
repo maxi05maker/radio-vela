@@ -1672,5 +1672,23 @@
     "played_at": "2026-09-05 21:30:43 +0200",
     "title": "Temporal",
     "artist": "Katatonia"
+  },
+  {
+    "key": "2026-09-05 21:34:53 +0200|Sommer|Beatzarre & Djorkaeff/LEA/Capital Bra",
+    "played_at": "2026-09-05 21:34:53 +0200",
+    "title": "Sommer",
+    "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra"
+  },
+  {
+    "key": "2026-09-05 21:37:53 +0200|Der neue Stil meiner Generation|Mayberg",
+    "played_at": "2026-09-05 21:37:53 +0200",
+    "title": "Der neue Stil meiner Generation",
+    "artist": "Mayberg"
+  },
+  {
+    "key": "2026-09-05 21:40:17 +0200|Savior With A Razor (feat. Slash)|Beth Hart",
+    "played_at": "2026-09-05 21:40:17 +0200",
+    "title": "Savior With A Razor (feat. Slash)",
+    "artist": "Beth Hart"
   }
 ]
