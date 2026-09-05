@@ -1180,5 +1180,29 @@
     "played_at": "2026-09-05 17:11:05 +0200",
     "title": "Lied 1 - Stück vom Himmel",
     "artist": "Herbert Grönemeyer"
+  },
+  {
+    "key": "2026-09-05 17:15:11 +0200|Oxígeno|Alvaro Soler",
+    "played_at": "2026-09-05 17:15:11 +0200",
+    "title": "Oxígeno",
+    "artist": "Alvaro Soler"
+  },
+  {
+    "key": "2026-09-05 17:17:46 +0200|peu à peu|Bosse",
+    "played_at": "2026-09-05 17:17:46 +0200",
+    "title": "peu à peu",
+    "artist": "Bosse"
+  },
+  {
+    "key": "2026-09-05 17:20:41 +0200|Grrrls|Lizzo",
+    "played_at": "2026-09-05 17:20:41 +0200",
+    "title": "Grrrls",
+    "artist": "Lizzo"
+  },
+  {
+    "key": "2026-09-05 17:22:42 +0200|Here Goes Nothing|Michael Schulte",
+    "played_at": "2026-09-05 17:22:42 +0200",
+    "title": "Here Goes Nothing",
+    "artist": "Michael Schulte"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 197,
-    "music_entries": 181,
+    "total_entries": 201,
+    "music_entries": 185,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -788,6 +788,26 @@
       {
         "artist": "Herbert Grönemeyer",
         "title": "Lied 1 - Stück vom Himmel",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Oxígeno",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "peu à peu",
+        "plays": 1
+      },
+      {
+        "artist": "Lizzo",
+        "title": "Grrrls",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
         "plays": 1
       }
     ],
