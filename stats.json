@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 84,
-    "music_entries": 78,
+    "total_entries": 86,
+    "music_entries": 80,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -393,6 +393,16 @@
       {
         "artist": "ClockClock",
         "title": "Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Ina Müller",
+        "title": "Weiber-WG",
+        "plays": 1
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
         "plays": 1
       }
     ],
