@@ -2,12 +2,17 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 227,
-    "music_entries": 210,
+    "total_entries": 230,
+    "music_entries": 213,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 3
+      },
+      {
+        "artist": "Milky Chance",
+        "title": "Synchronize",
         "plays": 3
       },
       {
@@ -66,11 +71,6 @@
         "plays": 2
       },
       {
-        "artist": "Milky Chance",
-        "title": "Synchronize",
-        "plays": 2
-      },
-      {
         "artist": "Kummer",
         "title": "Es tut wieder weh",
         "plays": 2
@@ -118,6 +118,11 @@
       {
         "artist": "Malik Harris",
         "title": "Rockstars",
+        "plays": 2
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Schief in jedem Chor",
         "plays": 2
       },
       {
@@ -571,11 +576,6 @@
         "plays": 1
       },
       {
-        "artist": "Kraftklub",
-        "title": "Schief in jedem Chor",
-        "plays": 1
-      },
-      {
         "artist": "Mario Novembre",
         "title": "Allein sein",
         "plays": 1
@@ -913,6 +913,11 @@
       {
         "artist": "Charli xcx",
         "title": "SS26",
+        "plays": 1
+      },
+      {
+        "artist": "Lost Frequencies & James Arthur",
+        "title": "Questions",
         "plays": 1
       }
     ],
