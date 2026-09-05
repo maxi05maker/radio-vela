@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 201,
-    "music_entries": 185,
+    "total_entries": 203,
+    "music_entries": 187,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -808,6 +808,16 @@
       {
         "artist": "Michael Schulte",
         "title": "Here Goes Nothing",
+        "plays": 1
+      },
+      {
+        "artist": "DIIV",
+        "title": "Frog In Boiling Water",
+        "plays": 1
+      },
+      {
+        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
+        "title": "Best Friend",
         "plays": 1
       }
     ],

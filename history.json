@@ -1204,5 +1204,17 @@
     "played_at": "2026-09-05 17:22:42 +0200",
     "title": "Here Goes Nothing",
     "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-05 17:25:52 +0200|Frog In Boiling Water|DIIV",
+    "played_at": "2026-09-05 17:25:52 +0200",
+    "title": "Frog In Boiling Water",
+    "artist": "DIIV"
+  },
+  {
+    "key": "2026-09-05 17:29:50 +0200|Best Friend|Saweetie Feat. Doja Cat & Katja Krasavice",
+    "played_at": "2026-09-05 17:29:50 +0200",
+    "title": "Best Friend",
+    "artist": "Saweetie Feat. Doja Cat & Katja Krasavice"
   }
 ]
