@@ -2,12 +2,17 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 159,
-    "music_entries": 146,
+    "total_entries": 163,
+    "music_entries": 150,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 3
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 3
       },
       {
@@ -31,13 +36,13 @@
         "plays": 2
       },
       {
-        "artist": "Lil Nas X",
-        "title": "Late To Da Party feat YoungBoy NBA",
+        "artist": "Nina Chuba",
+        "title": "Wildberry Lillet",
         "plays": 2
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
+        "artist": "Lil Nas X",
+        "title": "Late To Da Party feat YoungBoy NBA",
         "plays": 2
       },
       {
@@ -83,11 +88,6 @@
       {
         "artist": "Def Leppard",
         "title": "Rejoice",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Wildberry Lillet",
         "plays": 1
       },
       {
@@ -683,6 +683,16 @@
       {
         "artist": "Motionless In White",
         "title": "Another Life",
+        "plays": 1
+      },
+      {
+        "artist": "A-F-R-O",
+        "title": "Blue Steel",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams & Jesse & Joy",
+        "title": "Human (feat. Jesse & Joy)",
         "plays": 1
       }
     ],
