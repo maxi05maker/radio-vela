@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 410,
-    "music_entries": 381,
+    "total_entries": 412,
+    "music_entries": 383,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1313,6 +1313,16 @@
       {
         "artist": "Ed Sheeran",
         "title": "Overpass Graffiti",
+        "plays": 1
+      },
+      {
+        "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
+        "title": "In Your Arms (For An Angel)",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Who's In Your Head",
         "plays": 1
       }
     ],
