@@ -1780,5 +1780,23 @@
     "played_at": "2026-09-05 22:26:14 +0200",
     "title": "Es tut wieder weh",
     "artist": "Kummer"
+  },
+  {
+    "key": "2026-09-05 22:29:18 +0200|Minimum|Clueso",
+    "played_at": "2026-09-05 22:29:18 +0200",
+    "title": "Minimum",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-05 22:32:12 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-09-05 22:32:12 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-09-05 22:36:08 +0200|Aute Cuture|ROSALÍA",
+    "played_at": "2026-09-05 22:36:08 +0200",
+    "title": "Aute Cuture",
+    "artist": "ROSALÍA"
   }
 ]
