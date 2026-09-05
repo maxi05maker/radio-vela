@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 244,
-    "music_entries": 224,
+    "total_entries": 247,
+    "music_entries": 227,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -128,6 +128,11 @@
       {
         "artist": "Kraftklub",
         "title": "Schief in jedem Chor",
+        "plays": 2
+      },
+      {
+        "artist": "Gestört Aber GeiL x SkinnyJewlz",
+        "title": "Wenn du da bist",
         "plays": 2
       },
       {
@@ -636,11 +641,6 @@
         "plays": 1
       },
       {
-        "artist": "Gestört Aber GeiL x SkinnyJewlz",
-        "title": "Wenn du da bist",
-        "plays": 1
-      },
-      {
         "artist": "Pile",
         "title": "Uneasy",
         "plays": 1
@@ -958,6 +958,16 @@
       {
         "artist": "Tim Bendzko",
         "title": "Parallelwelt",
+        "plays": 1
+      },
+      {
+        "artist": "Beabadoobee",
+        "title": "Ever Seen",
+        "plays": 1
+      },
+      {
+        "artist": "Juju feat. Henning May",
+        "title": "Vermissen",
         "plays": 1
       }
     ],
