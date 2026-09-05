@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 388,
-    "music_entries": 361,
+    "total_entries": 392,
+    "music_entries": 364,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1238,6 +1238,21 @@
       {
         "artist": "Felix Jaehn JHart",
         "title": "PRIDE",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo feat. DNCE",
+        "title": "Dancing Feet",
+        "plays": 1
+      },
+      {
+        "artist": "Bonez MC",
+        "title": "Alter Becher Neuer Drink",
+        "plays": 1
+      },
+      {
+        "artist": "ClockClock",
+        "title": "Sorry",
         "plays": 1
       }
     ],
