@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 44,
-    "music_entries": 40,
+    "total_entries": 47,
+    "music_entries": 43,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -203,6 +203,21 @@
       {
         "artist": "Midlake",
         "title": "The Ghouls",
+        "plays": 1
+      },
+      {
+        "artist": "Joel Corry & Tom Grennan",
+        "title": "Lionheart (Fearless)",
+        "plays": 1
+      },
+      {
+        "artist": "Nura",
+        "title": "Ich War's Nicht",
+        "plays": 1
+      },
+      {
+        "artist": "Floodlights",
+        "title": "Can You Feel It",
         "plays": 1
       }
     ],
