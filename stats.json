@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 355,
-    "music_entries": 326,
+    "total_entries": 357,
+    "music_entries": 328,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -156,6 +156,11 @@
         "plays": 2
       },
       {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 2
+      },
+      {
         "artist": "Radio Karen",
         "title": "Die Beste Musik Nonstop",
         "plays": 2
@@ -258,6 +263,11 @@
       {
         "artist": "Ellie Goulding",
         "title": "Something In The Way You Move",
+        "plays": 2
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
         "plays": 2
       },
       {
@@ -438,11 +448,6 @@
       {
         "artist": "LOTTE & Max Giesinger",
         "title": "Auf das, was da noch kommt",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
         "plays": 1
       },
       {
@@ -873,11 +878,6 @@
       {
         "artist": "Adele",
         "title": "Easy On Me",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Castle on the Hill",
         "plays": 1
       },
       {
