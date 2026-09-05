@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 353,
-    "music_entries": 324,
+    "total_entries": 355,
+    "music_entries": 326,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -228,6 +228,11 @@
       {
         "artist": "Gorillaz",
         "title": "Skinny Ape",
+        "plays": 2
+      },
+      {
+        "artist": "The Chainsmokers feat. Daya",
+        "title": "Don't Let Me Down",
         "plays": 2
       },
       {
@@ -801,11 +806,6 @@
         "plays": 1
       },
       {
-        "artist": "The Chainsmokers feat. Daya",
-        "title": "Don't Let Me Down",
-        "plays": 1
-      },
-      {
         "artist": "Johannes Oerding",
         "title": "Mehr Glück als Verstand",
         "plays": 1
@@ -1298,6 +1298,11 @@
       {
         "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
         "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "Molly Santana",
+        "title": "Can't Touch This",
         "plays": 1
       }
     ],
