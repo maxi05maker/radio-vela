@@ -1408,5 +1408,23 @@
     "played_at": "2026-09-05 19:13:26 +0200",
     "title": "Die beste Musik aus allen Jahrzenten",
     "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-05 19:14:01 +0200|I Feel So Free|Madonna",
+    "played_at": "2026-09-05 19:14:01 +0200",
+    "title": "I Feel So Free",
+    "artist": "Madonna"
+  },
+  {
+    "key": "2026-09-05 19:18:58 +0200|Natural|Imagine Dragons",
+    "played_at": "2026-09-05 19:18:58 +0200",
+    "title": "Natural",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-05 19:22:07 +0200|I Ain’t Worried|OneRepublic",
+    "played_at": "2026-09-05 19:22:07 +0200",
+    "title": "I Ain’t Worried",
+    "artist": "OneRepublic"
   }
 ]
