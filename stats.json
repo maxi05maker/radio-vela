@@ -2,18 +2,18 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 323,
-    "music_entries": 296,
+    "total_entries": 325,
+    "music_entries": 298,
     "songs": [
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 4
+      },
       {
         "artist": "Harry Styles",
         "title": "As It Was",
         "plays": 4
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 3
       },
       {
         "artist": "OneRepublic",
@@ -1229,11 +1229,16 @@
         "artist": "Joe Bonamassa & Ivan Neville",
         "title": "Ghetto Woman",
         "plays": 1
+      },
+      {
+        "artist": "Kyle Pearce",
+        "title": "I Don't Care",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Harry Styles",
-      "title": "As It Was",
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
       "plays": 4
     }
   }

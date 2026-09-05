@@ -1936,5 +1936,17 @@
     "played_at": "2026-09-05 23:50:08 +0200",
     "title": "Ein Herz kann man nicht reparieren",
     "artist": "Alli Neumann"
+  },
+  {
+    "key": "2026-09-05 23:53:27 +0200|I Don't Care|Kyle Pearce",
+    "played_at": "2026-09-05 23:53:27 +0200",
+    "title": "I Don't Care",
+    "artist": "Kyle Pearce"
+  },
+  {
+    "key": "2026-09-05 23:56:36 +0200|Small Steps|Tom Gregory",
+    "played_at": "2026-09-05 23:56:36 +0200",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
   }
 ]
