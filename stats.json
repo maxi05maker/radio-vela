@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 16,
-    "music_entries": 15,
+    "total_entries": 21,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -78,6 +78,31 @@
       {
         "artist": "Phoenix",
         "title": "Alpha Zulu",
+        "plays": 1
+      },
+      {
+        "artist": "Milky Chance",
+        "title": "Synchronize",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "küss mich doch",
+        "plays": 1
+      },
+      {
+        "artist": "Kummer",
+        "title": "Es tut wieder weh",
+        "plays": 1
+      },
+      {
+        "artist": "Lil Nas X",
+        "title": "Late To Da Party feat YoungBoy NBA",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Jake Shears",
+        "title": "Fire + Ice (Radio Edit)",
         "plays": 1
       }
     ],

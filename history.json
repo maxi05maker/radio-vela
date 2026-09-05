@@ -94,5 +94,35 @@
     "played_at": "2026-09-05 07:43:33 +0200",
     "title": "Alpha Zulu",
     "artist": "Phoenix"
+  },
+  {
+    "key": "2026-09-05 07:46:24 +0200|Synchronize|Milky Chance",
+    "played_at": "2026-09-05 07:46:24 +0200",
+    "title": "Synchronize",
+    "artist": "Milky Chance"
+  },
+  {
+    "key": "2026-09-05 07:49:08 +0200|küss mich doch|Shirin David",
+    "played_at": "2026-09-05 07:49:08 +0200",
+    "title": "küss mich doch",
+    "artist": "Shirin David"
+  },
+  {
+    "key": "2026-09-05 07:51:34 +0200|Es tut wieder weh|Kummer",
+    "played_at": "2026-09-05 07:51:34 +0200",
+    "title": "Es tut wieder weh",
+    "artist": "Kummer"
+  },
+  {
+    "key": "2026-09-05 07:54:38 +0200|Late To Da Party feat YoungBoy NBA|Lil Nas X",
+    "played_at": "2026-09-05 07:54:38 +0200",
+    "title": "Late To Da Party feat YoungBoy NBA",
+    "artist": "Lil Nas X"
+  },
+  {
+    "key": "2026-09-05 07:58:03 +0200|Fire + Ice (Radio Edit)|Purple Disco Machine feat. Jake Shears",
+    "played_at": "2026-09-05 07:58:03 +0200",
+    "title": "Fire + Ice (Radio Edit)",
+    "artist": "Purple Disco Machine feat. Jake Shears"
   }
 ]
