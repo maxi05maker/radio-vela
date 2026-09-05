@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 414,
-    "music_entries": 385,
+    "total_entries": 418,
+    "music_entries": 388,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,7 +13,7 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
-        "plays": 5
+        "plays": 6
       },
       {
         "artist": "Tom Gregory",
@@ -1328,6 +1328,16 @@
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Vergangenheit",
+        "plays": 1
+      },
+      {
+        "artist": "Sleater-Kinney",
+        "title": "Worry With You",
         "plays": 1
       }
     ],

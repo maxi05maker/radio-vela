@@ -2482,5 +2482,29 @@
     "played_at": "2026-09-05 04:57:56 +0200",
     "title": "Bitter Taste",
     "artist": "Billy Idol"
+  },
+  {
+    "key": "2026-09-05 05:02:24 +0200|Vergangenheit|Bosse",
+    "played_at": "2026-09-05 05:02:24 +0200",
+    "title": "Vergangenheit",
+    "artist": "Bosse"
+  },
+  {
+    "key": "2026-09-05 05:05:46 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-05 05:05:46 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-05 05:08:29 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-05 05:08:29 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-05 05:12:03 +0200|Worry With You|Sleater-Kinney",
+    "played_at": "2026-09-05 05:12:03 +0200",
+    "title": "Worry With You",
+    "artist": "Sleater-Kinney"
   }
 ]
