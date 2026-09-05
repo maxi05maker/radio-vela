@@ -2098,5 +2098,23 @@
     "played_at": "2026-09-06 01:23:45 +0200",
     "title": "Lied 1 - Stück vom Himmel",
     "artist": "Herbert Grönemeyer"
+  },
+  {
+    "key": "2026-09-06 01:27:51 +0200|Don’t Call Me Angel (Charlie’s Angels)|Ariana Grande & Miley Cyrus & Lana Del Rey",
+    "played_at": "2026-09-06 01:27:51 +0200",
+    "title": "Don’t Call Me Angel (Charlie’s Angels)",
+    "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey"
+  },
+  {
+    "key": "2026-09-06 01:31:01 +0200|Together|David Guetta, Hypaton, Bonnie Tyler",
+    "played_at": "2026-09-06 01:31:01 +0200",
+    "title": "Together",
+    "artist": "David Guetta, Hypaton, Bonnie Tyler"
+  },
+  {
+    "key": "2026-09-06 01:33:35 +0200|Rockstars|Malik Harris",
+    "played_at": "2026-09-06 01:33:35 +0200",
+    "title": "Rockstars",
+    "artist": "Malik Harris"
   }
 ]

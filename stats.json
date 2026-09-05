@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 350,
-    "music_entries": 321,
+    "total_entries": 353,
+    "music_entries": 324,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -53,6 +53,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 3
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "Rockstars",
         "plays": 3
       },
       {
@@ -181,11 +186,6 @@
         "plays": 2
       },
       {
-        "artist": "Malik Harris",
-        "title": "Rockstars",
-        "plays": 2
-      },
-      {
         "artist": "Kraftklub",
         "title": "Schief in jedem Chor",
         "plays": 2
@@ -208,6 +208,11 @@
       {
         "artist": "CRO",
         "title": "High (feat. Claudia Valentina)",
+        "plays": 2
+      },
+      {
+        "artist": "David Guetta, Hypaton, Bonnie Tyler",
+        "title": "Together",
         "plays": 2
       },
       {
@@ -723,11 +728,6 @@
       {
         "artist": "Ennio",
         "title": "Fühlst du gar nichts? feat. Nina Chuba",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta, Hypaton, Bonnie Tyler",
-        "title": "Together",
         "plays": 1
       },
       {
@@ -1293,6 +1293,11 @@
       {
         "artist": "Betterov",
         "title": "17. Juli 1989",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
         "plays": 1
       }
     ],
