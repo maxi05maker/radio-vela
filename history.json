@@ -1654,5 +1654,23 @@
     "played_at": "2026-09-05 21:22:20 +0200",
     "title": "Problems",
     "artist": "Aerosmith, YUNGBLUD"
+  },
+  {
+    "key": "2026-09-05 21:26:43 +0200|Bye Bye|Cro",
+    "played_at": "2026-09-05 21:26:43 +0200",
+    "title": "Bye Bye",
+    "artist": "Cro"
+  },
+  {
+    "key": "2026-09-05 21:30:07 +0200|Vom Aufstehen bis zum Feierabend|Jingle",
+    "played_at": "2026-09-05 21:30:07 +0200",
+    "title": "Vom Aufstehen bis zum Feierabend",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-05 21:30:43 +0200|Temporal|Katatonia",
+    "played_at": "2026-09-05 21:30:43 +0200",
+    "title": "Temporal",
+    "artist": "Katatonia"
   }
 ]
