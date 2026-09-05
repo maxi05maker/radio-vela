@@ -1996,5 +1996,17 @@
     "played_at": "2026-09-06 00:25:43 +0200",
     "title": "Aperture",
     "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-06 00:30:56 +0200|Mañana|Alvaro Soler feat. Cali Y El Dandee",
+    "played_at": "2026-09-06 00:30:56 +0200",
+    "title": "Mañana",
+    "artist": "Alvaro Soler feat. Cali Y El Dandee"
+  },
+  {
+    "key": "2026-09-06 00:34:28 +0200|Bad Liar|Imagine Dragons",
+    "played_at": "2026-09-06 00:34:28 +0200",
+    "title": "Bad Liar",
+    "artist": "Imagine Dragons"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 333,
-    "music_entries": 305,
+    "total_entries": 335,
+    "music_entries": 307,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -1258,6 +1258,16 @@
       {
         "artist": "Harry Styles",
         "title": "Aperture",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
         "plays": 1
       }
     ],
