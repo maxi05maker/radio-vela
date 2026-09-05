@@ -2674,5 +2674,23 @@
     "played_at": "2026-09-05 06:33:25 +0200",
     "title": "Taxi",
     "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-09-05 06:36:03 +0200|Priceless ft. LISA|Maroon 5",
+    "played_at": "2026-09-05 06:36:03 +0200",
+    "title": "Priceless ft. LISA",
+    "artist": "Maroon 5"
+  },
+  {
+    "key": "2026-09-05 06:38:44 +0200|The news|Paramore",
+    "played_at": "2026-09-05 06:38:44 +0200",
+    "title": "The news",
+    "artist": "Paramore"
+  },
+  {
+    "key": "2026-09-05 06:41:51 +0200|Vaderz feat. Bktherula|Rico Nasty",
+    "played_at": "2026-09-05 06:41:51 +0200",
+    "title": "Vaderz feat. Bktherula",
+    "artist": "Rico Nasty"
   }
 ]

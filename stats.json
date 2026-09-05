@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 446,
-    "music_entries": 414,
+    "total_entries": 449,
+    "music_entries": 417,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -496,6 +496,11 @@
         "plays": 2
       },
       {
+        "artist": "Paramore",
+        "title": "The news",
+        "plays": 2
+      },
+      {
         "artist": "CRO",
         "title": "High (feat. Claudia Valentina)",
         "plays": 2
@@ -956,11 +961,6 @@
         "plays": 1
       },
       {
-        "artist": "Paramore",
-        "title": "The news",
-        "plays": 1
-      },
-      {
         "artist": "Robbie Williams & Jesse & Joy",
         "title": "Human (feat. Jesse & Joy)",
         "plays": 1
@@ -1418,6 +1418,16 @@
       {
         "artist": "Dennis Lloyd",
         "title": "Nevermind",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5",
+        "title": "Priceless ft. LISA",
+        "plays": 1
+      },
+      {
+        "artist": "Rico Nasty",
+        "title": "Vaderz feat. Bktherula",
         "plays": 1
       }
     ],
