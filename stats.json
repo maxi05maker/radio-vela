@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 394,
-    "music_entries": 366,
+    "total_entries": 396,
+    "music_entries": 368,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1258,6 +1258,16 @@
       {
         "artist": "Joe Bonamassa",
         "title": "Tattoo'd Lady",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "When You're Gone",
+        "plays": 1
+      },
+      {
+        "artist": "D4vd",
+        "title": "Here With Me",
         "plays": 1
       }
     ],
