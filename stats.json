@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 3,
-    "music_entries": 3,
+    "total_entries": 7,
+    "music_entries": 6,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -18,6 +18,21 @@
       {
         "artist": "Shawn Mendes",
         "title": "Heartbeat",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Twizzler",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
         "plays": 1
       }
     ],
