@@ -514,5 +514,23 @@
     "played_at": "2026-09-05 11:23:38 +0200",
     "title": "Speeding Cars",
     "artist": "Walking On Cars"
+  },
+  {
+    "key": "2026-09-05 11:30:32 +0200|Watch It Burn|Katy Perry",
+    "played_at": "2026-09-05 11:30:32 +0200",
+    "title": "Watch It Burn",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-09-05 11:33:27 +0200|Ich War's Nicht|Nura",
+    "played_at": "2026-09-05 11:33:27 +0200",
+    "title": "Ich War's Nicht",
+    "artist": "Nura"
+  },
+  {
+    "key": "2026-09-05 11:35:56 +0200|Stay With Me|Sam Smith",
+    "played_at": "2026-09-05 11:35:56 +0200",
+    "title": "Stay With Me",
+    "artist": "Sam Smith"
   }
 ]

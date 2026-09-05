@@ -2,9 +2,14 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 86,
-    "music_entries": 80,
+    "total_entries": 89,
+    "music_entries": 83,
     "songs": [
+      {
+        "artist": "Nura",
+        "title": "Ich War's Nicht",
+        "plays": 2
+      },
       {
         "artist": "Tate McRae",
         "title": "she's all i wanna be",
@@ -211,11 +216,6 @@
         "plays": 1
       },
       {
-        "artist": "Nura",
-        "title": "Ich War's Nicht",
-        "plays": 1
-      },
-      {
         "artist": "Floodlights",
         "title": "Can You Feel It",
         "plays": 1
@@ -404,12 +404,22 @@
         "artist": "Walking On Cars",
         "title": "Speeding Cars",
         "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Stay With Me",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Tate McRae",
-      "title": "she's all i wanna be",
-      "plays": 1
+      "artist": "Nura",
+      "title": "Ich War's Nicht",
+      "plays": 2
     }
   }
 }
