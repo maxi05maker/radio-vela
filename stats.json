@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 39,
-    "music_entries": 36,
+    "total_entries": 41,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -183,6 +183,16 @@
       {
         "artist": "Pink",
         "title": "So what",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "More to Lose",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "I Don’t Think That I Like Her",
         "plays": 1
       }
     ],
