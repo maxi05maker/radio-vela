@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 188,
-    "music_entries": 173,
+    "total_entries": 189,
+    "music_entries": 174,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -103,6 +103,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
+        "artist": "Chappell Roan",
+        "title": "The Subway",
         "plays": 2
       },
       {
@@ -348,11 +353,6 @@
       {
         "artist": "Pusha T",
         "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
-        "plays": 1
-      },
-      {
-        "artist": "Chappell Roan",
-        "title": "The Subway",
         "plays": 1
       },
       {
