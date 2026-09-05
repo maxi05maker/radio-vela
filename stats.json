@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 238,
-    "music_entries": 219,
+    "total_entries": 240,
+    "music_entries": 221,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -113,6 +113,11 @@
       {
         "artist": "Chappell Roan",
         "title": "The Subway",
+        "plays": 2
+      },
+      {
+        "artist": "ClockClock",
+        "title": "Sorry",
         "plays": 2
       },
       {
@@ -408,11 +413,6 @@
       {
         "artist": "JORIS",
         "title": "Nur die Musik",
-        "plays": 1
-      },
-      {
-        "artist": "ClockClock",
-        "title": "Sorry",
         "plays": 1
       },
       {
@@ -943,6 +943,11 @@
       {
         "artist": "Imagine Dragons",
         "title": "Natural",
+        "plays": 1
+      },
+      {
+        "artist": "Hundreds",
+        "title": "Fallacies",
         "plays": 1
       }
     ],
