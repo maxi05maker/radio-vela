@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 255,
-    "music_entries": 234,
+    "total_entries": 259,
+    "music_entries": 238,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -998,6 +998,26 @@
       {
         "artist": "Alex Warren",
         "title": "FEVER DREAM",
+        "plays": 1
+      },
+      {
+        "artist": "ScHoolboy Q",
+        "title": "Soccer Dad",
+        "plays": 1
+      },
+      {
+        "artist": "Owl City",
+        "title": "Fireflies",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Pretty Face",
+        "plays": 1
+      },
+      {
+        "artist": "Scissor Sisters",
+        "title": "I Dont Feel Like Dancing",
         "plays": 1
       }
     ],
