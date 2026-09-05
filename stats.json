@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 208,
-    "music_entries": 192,
+    "total_entries": 210,
+    "music_entries": 194,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -108,6 +108,11 @@
       {
         "artist": "Chappell Roan",
         "title": "The Subway",
+        "plays": 2
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "Rockstars",
         "plays": 2
       },
       {
@@ -448,11 +453,6 @@
       {
         "artist": "Kamrad",
         "title": "Be Mine",
-        "plays": 1
-      },
-      {
-        "artist": "Malik Harris",
-        "title": "Rockstars",
         "plays": 1
       },
       {
@@ -843,6 +843,11 @@
       {
         "artist": "Charli xcx",
         "title": "House featuring John Cale",
+        "plays": 1
+      },
+      {
+        "artist": "Pashanim",
+        "title": "Sommergewitter",
         "plays": 1
       }
     ],
