@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 140,
-    "music_entries": 128,
+    "total_entries": 146,
+    "music_entries": 134,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -28,6 +28,11 @@
       {
         "artist": "Nura",
         "title": "Ich War's Nicht",
+        "plays": 2
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 2
       },
       {
@@ -238,11 +243,6 @@
       {
         "artist": "AJR",
         "title": "The DJ Is Crying For Help",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 1
       },
       {
@@ -613,6 +613,31 @@
       {
         "artist": "Max Giesinger & Quarterhead",
         "title": "Nichts mehr zu sagen",
+        "plays": 1
+      },
+      {
+        "artist": "Yard Act",
+        "title": "New Beginnings",
+        "plays": 1
+      },
+      {
+        "artist": "Gestört Aber GeiL x SkinnyJewlz",
+        "title": "Wenn du da bist",
+        "plays": 1
+      },
+      {
+        "artist": "Pile",
+        "title": "Uneasy",
+        "plays": 1
+      },
+      {
+        "artist": "Lil Baby",
+        "title": "Frozen",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Good 4 You",
         "plays": 1
       }
     ],
