@@ -742,5 +742,23 @@
     "played_at": "2026-09-05 13:19:39 +0200",
     "title": "Señorita",
     "artist": "Shawn Mendes & Camila Cabello"
+  },
+  {
+    "key": "2026-09-05 13:22:50 +0200|Schief in jedem Chor|Kraftklub",
+    "played_at": "2026-09-05 13:22:50 +0200",
+    "title": "Schief in jedem Chor",
+    "artist": "Kraftklub"
+  },
+  {
+    "key": "2026-09-05 13:25:56 +0200|Allein sein|Mario Novembre",
+    "played_at": "2026-09-05 13:25:56 +0200",
+    "title": "Allein sein",
+    "artist": "Mario Novembre"
+  },
+  {
+    "key": "2026-09-05 13:28:57 +0200|Kopf aus|1986zig",
+    "played_at": "2026-09-05 13:28:57 +0200",
+    "title": "Kopf aus",
+    "artist": "1986zig"
   }
 ]

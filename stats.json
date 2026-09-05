@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 124,
-    "music_entries": 113,
+    "total_entries": 127,
+    "music_entries": 116,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -558,6 +558,21 @@
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Schief in jedem Chor",
+        "plays": 1
+      },
+      {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Kopf aus",
         "plays": 1
       }
     ],
