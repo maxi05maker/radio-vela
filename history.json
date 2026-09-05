@@ -1042,5 +1042,35 @@
     "played_at": "2026-09-05 15:55:24 +0200",
     "title": "The Sound Of Silence",
     "artist": "Disturbed"
+  },
+  {
+    "key": "2026-09-05 15:59:32 +0200|Oldschool Love|Leony",
+    "played_at": "2026-09-05 15:59:32 +0200",
+    "title": "Oldschool Love",
+    "artist": "Leony"
+  },
+  {
+    "key": "2026-09-05 16:02:15 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-09-05 16:02:15 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-09-05 16:05:46 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-09-05 16:05:46 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-05 16:05:48 +0200|What Was That|Lorde",
+    "played_at": "2026-09-05 16:05:48 +0200",
+    "title": "What Was That",
+    "artist": "Lorde"
+  },
+  {
+    "key": "2026-09-05 16:09:17 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-05 16:09:17 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]

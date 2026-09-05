@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 174,
-    "music_entries": 161,
+    "total_entries": 179,
+    "music_entries": 164,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -68,6 +68,11 @@
       {
         "artist": "George Ezra",
         "title": "Anyone For You",
+        "plays": 2
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 2
       },
       {
@@ -138,11 +143,6 @@
       {
         "artist": "Mabel X Jax Jones X Galatis",
         "title": "Good Luck",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
         "plays": 1
       },
       {
@@ -718,6 +718,16 @@
       {
         "artist": "Ed Sheeran",
         "title": "Azizam",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Oldschool Love",
+        "plays": 1
+      },
+      {
+        "artist": "Lorde",
+        "title": "What Was That",
         "plays": 1
       }
     ],
