@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 179,
-    "music_entries": 164,
+    "total_entries": 183,
+    "music_entries": 168,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -56,6 +56,11 @@
         "plays": 2
       },
       {
+        "artist": "Phoenix",
+        "title": "Alpha Zulu",
+        "plays": 2
+      },
+      {
         "artist": "Milky Chance",
         "title": "Synchronize",
         "plays": 2
@@ -73,6 +78,16 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 2
+      },
+      {
+        "artist": "Oliver Tree x Robin Schulz",
+        "title": "Miss You",
+        "plays": 2
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Dancing’s Done",
         "plays": 2
       },
       {
@@ -116,11 +131,6 @@
         "plays": 1
       },
       {
-        "artist": "Phoenix",
-        "title": "Alpha Zulu",
-        "plays": 1
-      },
-      {
         "artist": "Shirin David",
         "title": "küss mich doch",
         "plays": 1
@@ -156,18 +166,8 @@
         "plays": 1
       },
       {
-        "artist": "Oliver Tree x Robin Schulz",
-        "title": "Miss You",
-        "plays": 1
-      },
-      {
         "artist": "Calvin Harris,Jazzy",
         "title": "Satisfy",
-        "plays": 1
-      },
-      {
-        "artist": "Ava Max",
-        "title": "Dancing’s Done",
         "plays": 1
       },
       {
@@ -728,6 +728,11 @@
       {
         "artist": "Lorde",
         "title": "What Was That",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira, Burna Boy",
+        "title": "Dai Dai",
         "plays": 1
       }
     ],
