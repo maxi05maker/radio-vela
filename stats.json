@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 449,
-    "music_entries": 417,
+    "total_entries": 451,
+    "music_entries": 419,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1428,6 +1428,16 @@
       {
         "artist": "Rico Nasty",
         "title": "Vaderz feat. Bktherula",
+        "plays": 1
+      },
+      {
+        "artist": "Paula Stellar",
+        "title": "Pretty Pretty Lies",
+        "plays": 1
+      },
+      {
+        "artist": "Motionless In White",
+        "title": "Another Life",
         "plays": 1
       }
     ],
