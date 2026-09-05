@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 385,
-    "music_entries": 358,
+    "total_entries": 388,
+    "music_entries": 361,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1223,6 +1223,21 @@
       {
         "artist": "AFROJACK, Sia, David Guetta",
         "title": "Awake Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "Lil Tjay",
+        "title": "In My Head",
+        "plays": 1
+      },
+      {
+        "artist": "Dove Cameron",
+        "title": "Boyfriend",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn JHart",
+        "title": "PRIDE",
         "plays": 1
       }
     ],
