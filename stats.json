@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 418,
-    "music_entries": 388,
+    "total_entries": 422,
+    "music_entries": 392,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -446,6 +446,11 @@
         "plays": 2
       },
       {
+        "artist": "Laurell",
+        "title": "Habit",
+        "plays": 2
+      },
+      {
         "artist": "Lana Del Rey",
         "title": "White Feather Hawk Tail Deer Hunter",
         "plays": 2
@@ -463,6 +468,11 @@
       {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
+        "plays": 2
+      },
+      {
+        "artist": "Celo Minati",
+        "title": "Ich Will Dich Nicht Mehr feat. Charisma",
         "plays": 2
       },
       {
@@ -731,11 +741,6 @@
         "plays": 1
       },
       {
-        "artist": "Laurell",
-        "title": "Habit",
-        "plays": 1
-      },
-      {
         "artist": "St. Lundi",
         "title": "Nights Like This",
         "plays": 1
@@ -908,11 +913,6 @@
       {
         "artist": "International Music",
         "title": "Kieselwege",
-        "plays": 1
-      },
-      {
-        "artist": "Celo Minati",
-        "title": "Ich Will Dich Nicht Mehr feat. Charisma",
         "plays": 1
       },
       {
@@ -1338,6 +1338,16 @@
       {
         "artist": "Sleater-Kinney",
         "title": "Worry With You",
+        "plays": 1
+      },
+      {
+        "artist": "Fritz Kalkbrenner",
+        "title": "It Ain't Over",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Monster",
         "plays": 1
       }
     ],
