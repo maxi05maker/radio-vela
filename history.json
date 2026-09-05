@@ -394,5 +394,23 @@
     "played_at": "2026-09-05 10:20:22 +0200",
     "title": "Rollercoaster Of Life",
     "artist": "The Pretty Reckless"
+  },
+  {
+    "key": "2026-09-05 10:24:48 +0200|Auf das, was da noch kommt|LOTTE & Max Giesinger",
+    "played_at": "2026-09-05 10:24:48 +0200",
+    "title": "Auf das, was da noch kommt",
+    "artist": "LOTTE & Max Giesinger"
+  },
+  {
+    "key": "2026-09-05 10:28:18 +0200|Bad Habits|Ed Sheeran",
+    "played_at": "2026-09-05 10:28:18 +0200",
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-05 10:32:09 +0200|Dai Dai|Shakira & Burna Boy",
+    "played_at": "2026-09-05 10:32:09 +0200",
+    "title": "Dai Dai",
+    "artist": "Shakira & Burna Boy"
   }
 ]
