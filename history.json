@@ -2068,5 +2068,23 @@
     "played_at": "2026-09-06 01:08:22 +0200",
     "title": "Nachrichten & Wetter",
     "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-06 01:11:03 +0200|Watch It Burn|Katy Perry",
+    "played_at": "2026-09-06 01:11:03 +0200",
+    "title": "Watch It Burn",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-09-06 01:13:59 +0200|Here Goes Nothing|Michael Schulte",
+    "played_at": "2026-09-06 01:13:59 +0200",
+    "title": "Here Goes Nothing",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-06 01:17:09 +0200|Something In The Way You Move|Ellie Goulding",
+    "played_at": "2026-09-06 01:17:09 +0200",
+    "title": "Something In The Way You Move",
+    "artist": "Ellie Goulding"
   }
 ]

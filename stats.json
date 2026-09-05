@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 345,
-    "music_entries": 316,
+    "total_entries": 348,
+    "music_entries": 319,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -166,6 +166,11 @@
         "plays": 2
       },
       {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 2
+      },
+      {
         "artist": "Billy Idol",
         "title": "Bitter Taste",
         "plays": 2
@@ -223,6 +228,16 @@
       {
         "artist": "Lizzo",
         "title": "Grrrls",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
+        "plays": 2
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Something In The Way You Move",
         "plays": 2
       },
       {
@@ -473,11 +488,6 @@
       {
         "artist": "Walking On Cars",
         "title": "Speeding Cars",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Watch It Burn",
         "plays": 1
       },
       {
@@ -811,11 +821,6 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
-        "plays": 1
-      },
-      {
         "artist": "DIIV",
         "title": "Frog In Boiling Water",
         "plays": 1
@@ -823,11 +828,6 @@
       {
         "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
         "title": "Best Friend",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Something In The Way You Move",
         "plays": 1
       },
       {
