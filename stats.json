@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 213,
-    "music_entries": 196,
+    "total_entries": 216,
+    "music_entries": 199,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -858,6 +858,21 @@
       {
         "artist": "Drangsal",
         "title": "Urlaub Von Mir",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA",
+        "title": "Renn!",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Easy On Me",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
         "plays": 1
       }
     ],
