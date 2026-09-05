@@ -1318,5 +1318,23 @@
     "played_at": "2026-09-05 18:29:48 +0200",
     "title": "Goner",
     "artist": "Wavves"
+  },
+  {
+    "key": "2026-09-05 18:32:34 +0200|High (feat. Claudia Valentina)|CRO",
+    "played_at": "2026-09-05 18:32:34 +0200",
+    "title": "High (feat. Claudia Valentina)",
+    "artist": "CRO"
+  },
+  {
+    "key": "2026-09-05 18:35:22 +0200|High Hopes|Panic! At the Disco",
+    "played_at": "2026-09-05 18:35:22 +0200",
+    "title": "High Hopes",
+    "artist": "Panic! At the Disco"
+  },
+  {
+    "key": "2026-09-05 18:38:33 +0200|Voices|Damiano David",
+    "played_at": "2026-09-05 18:38:33 +0200",
+    "title": "Voices",
+    "artist": "Damiano David"
   }
 ]
