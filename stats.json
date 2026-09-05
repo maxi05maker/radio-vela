@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 328,
-    "music_entries": 300,
+    "total_entries": 331,
+    "music_entries": 303,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -38,6 +38,11 @@
       {
         "artist": "Kummer",
         "title": "Es tut wieder weh",
+        "plays": 3
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 3
       },
       {
@@ -98,11 +103,6 @@
       {
         "artist": "George Ezra",
         "title": "Anyone For You",
-        "plays": 2
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
         "plays": 2
       },
       {
@@ -1238,6 +1238,16 @@
       {
         "artist": "Rapsody",
         "title": "Black Love feat. Malice",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Auf Auf",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Drop dead",
         "plays": 1
       }
     ],

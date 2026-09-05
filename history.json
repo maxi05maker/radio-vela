@@ -1966,5 +1966,23 @@
     "played_at": "2026-09-06 00:08:25 +0200",
     "title": "Nachrichten & Wetter",
     "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-06 00:11:12 +0200|Auf Auf|Silbermond",
+    "played_at": "2026-09-06 00:11:12 +0200",
+    "title": "Auf Auf",
+    "artist": "Silbermond"
+  },
+  {
+    "key": "2026-09-06 00:13:57 +0200|Drop dead|Olivia Rodrigo",
+    "played_at": "2026-09-06 00:13:57 +0200",
+    "title": "Drop dead",
+    "artist": "Olivia Rodrigo"
+  },
+  {
+    "key": "2026-09-06 00:17:39 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-09-06 00:17:39 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
   }
 ]
