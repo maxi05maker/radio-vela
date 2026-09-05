@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 130,
-    "music_entries": 119,
+    "total_entries": 132,
+    "music_entries": 121,
     "songs": [
       {
         "artist": "Lil Nas X",
@@ -583,6 +583,16 @@
       {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
         "plays": 1
       }
     ],
