@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "key": "2026-09-05 07:00:12 +0200|she's all i wanna be|Tate McRae",
+    "played_at": "2026-09-05 07:00:12 +0200",
+    "title": "she's all i wanna be",
+    "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-09-05 07:03:39 +0200|Nur dir gehör'n|1986zig",
+    "played_at": "2026-09-05 07:03:39 +0200",
+    "title": "Nur dir gehör'n",
+    "artist": "1986zig"
+  },
+  {
+    "key": "2026-09-05 07:06:24 +0200|Heartbeat|Shawn Mendes",
+    "played_at": "2026-09-05 07:06:24 +0200",
+    "title": "Heartbeat",
+    "artist": "Shawn Mendes"
+  }
+]
