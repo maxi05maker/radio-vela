@@ -1234,5 +1234,17 @@
     "played_at": "2026-09-05 17:40:01 +0200",
     "title": "Loco Contigo",
     "artist": "DJ Snake & J. Balvin Feat. Tyga"
+  },
+  {
+    "key": "2026-09-05 17:43:05 +0200|Shake It Out|Florence + the Machine",
+    "played_at": "2026-09-05 17:43:05 +0200",
+    "title": "Shake It Out",
+    "artist": "Florence + the Machine"
+  },
+  {
+    "key": "2026-09-05 17:47:43 +0200|House featuring John Cale|Charli xcx",
+    "played_at": "2026-09-05 17:47:43 +0200",
+    "title": "House featuring John Cale",
+    "artist": "Charli xcx"
   }
 ]
