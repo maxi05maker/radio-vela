@@ -556,5 +556,17 @@
     "played_at": "2026-09-05 11:50:13 +0200",
     "title": "Shoulda Never (feat. USHER)",
     "artist": "Kehlani"
+  },
+  {
+    "key": "2026-09-05 11:53:18 +0200|Der Sommer|Bosse",
+    "played_at": "2026-09-05 11:53:18 +0200",
+    "title": "Der Sommer",
+    "artist": "Bosse"
+  },
+  {
+    "key": "2026-09-05 11:56:52 +0200|Tonight (feat. Ezra Koenig)|Phoenix feat. Ezra Koenig",
+    "played_at": "2026-09-05 11:56:52 +0200",
+    "title": "Tonight (feat. Ezra Koenig)",
+    "artist": "Phoenix feat. Ezra Koenig"
   }
 ]
