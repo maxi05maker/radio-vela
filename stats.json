@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 438,
-    "music_entries": 406,
+    "total_entries": 442,
+    "music_entries": 410,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -491,6 +491,16 @@
         "plays": 2
       },
       {
+        "artist": "Leony",
+        "title": "Remedy",
+        "plays": 2
+      },
+      {
+        "artist": "Gestört Aber GeiL x SkinnyJewlz",
+        "title": "Wenn du da bist",
+        "plays": 2
+      },
+      {
         "artist": "Pusha T",
         "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 2
@@ -931,11 +941,6 @@
         "plays": 1
       },
       {
-        "artist": "Leony",
-        "title": "Remedy",
-        "plays": 1
-      },
-      {
         "artist": "BTS",
         "title": "SWIM",
         "plays": 1
@@ -953,11 +958,6 @@
       {
         "artist": "Robbie Williams & Jesse & Joy",
         "title": "Human (feat. Jesse & Joy)",
-        "plays": 1
-      },
-      {
-        "artist": "Gestört Aber GeiL x SkinnyJewlz",
-        "title": "Wenn du da bist",
         "plays": 1
       },
       {
@@ -1398,6 +1398,16 @@
       {
         "artist": "Joris",
         "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub, Domiziana",
+        "title": "Unsterblich sein ( ) feat. Domiziana",
         "plays": 1
       }
     ],
