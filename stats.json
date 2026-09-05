@@ -2,13 +2,13 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 134,
-    "music_entries": 123,
+    "total_entries": 136,
+    "music_entries": 125,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
-        "plays": 2
+        "plays": 3
       },
       {
         "artist": "Lil Nas X",
@@ -599,12 +599,17 @@
         "artist": "BTS",
         "title": "SWIM",
         "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Tom Gregory",
       "title": "Small Steps",
-      "plays": 2
+      "plays": 3
     }
   }
 }
