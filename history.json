@@ -2578,5 +2578,23 @@
     "played_at": "2026-09-05 05:50:18 +0200",
     "title": "Allein sein",
     "artist": "Mario Novembre"
+  },
+  {
+    "key": "2026-09-05 05:53:18 +0200|Siren|Tierra Whack",
+    "played_at": "2026-09-05 05:53:18 +0200",
+    "title": "Siren",
+    "artist": "Tierra Whack"
+  },
+  {
+    "key": "2026-09-05 05:54:04 +0200|Murphy's Law|Róisín Murphy",
+    "played_at": "2026-09-05 05:54:04 +0200",
+    "title": "Murphy's Law",
+    "artist": "Róisín Murphy"
+  },
+  {
+    "key": "2026-09-05 05:57:54 +0200|Kopf aus|1986zig",
+    "played_at": "2026-09-05 05:57:54 +0200",
+    "title": "Kopf aus",
+    "artist": "1986zig"
   }
 ]

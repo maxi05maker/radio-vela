@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 430,
-    "music_entries": 399,
+    "total_entries": 433,
+    "music_entries": 402,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -481,6 +481,11 @@
         "plays": 2
       },
       {
+        "artist": "1986zig",
+        "title": "Kopf aus",
+        "plays": 2
+      },
+      {
         "artist": "Pusha T",
         "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 2
@@ -913,11 +918,6 @@
       {
         "artist": "International Music",
         "title": "Kieselwege",
-        "plays": 1
-      },
-      {
-        "artist": "1986zig",
-        "title": "Kopf aus",
         "plays": 1
       },
       {
@@ -1378,6 +1378,16 @@
       {
         "artist": "Ed Sheeran",
         "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "Tierra Whack",
+        "title": "Siren",
+        "plays": 1
+      },
+      {
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
         "plays": 1
       }
     ],
