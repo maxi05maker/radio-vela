@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 356,
-    "music_entries": 332,
+    "total_entries": 364,
+    "music_entries": 339,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -421,8 +421,23 @@
         "plays": 2
       },
       {
+        "artist": "Sam Smith, Kim Petras",
+        "title": "Unholy (feat. Kim Petras)",
+        "plays": 2
+      },
+      {
         "artist": "Lana Del Rey",
         "title": "White Feather Hawk Tail Deer Hunter",
+        "plays": 2
+      },
+      {
+        "artist": "Tyla & Zara Larsson",
+        "title": "SHE DID IT AGAIN",
+        "plays": 2
+      },
+      {
+        "artist": "Pusha T",
+        "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 2
       },
       {
@@ -671,11 +686,6 @@
         "plays": 1
       },
       {
-        "artist": "Sam Smith, Kim Petras",
-        "title": "Unholy (feat. Kim Petras)",
-        "plays": 1
-      },
-      {
         "artist": "Felix Jaehn",
         "title": "Do It Better (feat. Zoe Wees)",
         "plays": 1
@@ -881,11 +891,6 @@
         "plays": 1
       },
       {
-        "artist": "Tyla & Zara Larsson",
-        "title": "SHE DID IT AGAIN",
-        "plays": 1
-      },
-      {
         "artist": "LISA FEAT. DOJA CAT & RAYE",
         "title": "BORN AGAIN",
         "plays": 1
@@ -968,11 +973,6 @@
       {
         "artist": "Milky Chance",
         "title": "Synchronize",
-        "plays": 1
-      },
-      {
-        "artist": "Pusha T",
-        "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 1
       },
       {
@@ -1133,6 +1133,26 @@
       {
         "artist": "Shawn Mendes",
         "title": "Heart Of Gold",
+        "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "Pink",
+        "title": "So what",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba & Makko",
+        "title": "Fucked Up feat. makko",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Du und Ich",
         "plays": 1
       }
     ],
