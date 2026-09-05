@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 302,
-    "music_entries": 276,
+    "total_entries": 305,
+    "music_entries": 279,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -1163,6 +1163,21 @@
       {
         "artist": "Imagine Dragons",
         "title": "Wrecked",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Forget me",
+        "plays": 1
+      },
+      {
+        "artist": "The Bevis Frond",
+        "title": "Quietly",
+        "plays": 1
+      },
+      {
+        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
+        "title": "The Drop",
         "plays": 1
       }
     ],
