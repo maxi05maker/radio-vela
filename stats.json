@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 348,
-    "music_entries": 319,
+    "total_entries": 350,
+    "music_entries": 321,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -161,6 +161,11 @@
         "plays": 2
       },
       {
+        "artist": "Finn Wolfhard",
+        "title": "Tunnels",
+        "plays": 2
+      },
+      {
         "artist": "ClockClock",
         "title": "Sorry",
         "plays": 2
@@ -223,6 +228,11 @@
       {
         "artist": "Ke$ha",
         "title": "TiK ToK",
+        "plays": 2
+      },
+      {
+        "artist": "Herbert Grönemeyer",
+        "title": "Lied 1 - Stück vom Himmel",
         "plays": 2
       },
       {
@@ -468,11 +478,6 @@
       {
         "artist": "Lina",
         "title": "Klippe",
-        "plays": 1
-      },
-      {
-        "artist": "Finn Wolfhard",
-        "title": "Tunnels",
         "plays": 1
       },
       {
@@ -803,11 +808,6 @@
       {
         "artist": "Johannes Oerding",
         "title": "Mehr Glück als Verstand",
-        "plays": 1
-      },
-      {
-        "artist": "Herbert Grönemeyer",
-        "title": "Lied 1 - Stück vom Himmel",
         "plays": 1
       },
       {
