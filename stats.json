@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 422,
-    "music_entries": 392,
+    "total_entries": 425,
+    "music_entries": 395,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1348,6 +1348,21 @@
       {
         "artist": "Alli Neumann",
         "title": "Monster",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 1
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
+        "plays": 1
+      },
+      {
+        "artist": "Dry Cleaning",
+        "title": "Let Me Grow and You'll See the Fruit",
         "plays": 1
       }
     ],
