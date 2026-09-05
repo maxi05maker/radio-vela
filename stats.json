@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 316,
-    "music_entries": 289,
+    "total_entries": 319,
+    "music_entries": 292,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -116,6 +116,11 @@
         "plays": 2
       },
       {
+        "artist": "Joel Corry & Tom Grennan",
+        "title": "Lionheart (Fearless)",
+        "plays": 2
+      },
+      {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
         "plays": 2
@@ -123,6 +128,11 @@
       {
         "artist": "Archive",
         "title": "City Walls",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -296,11 +306,6 @@
         "plays": 1
       },
       {
-        "artist": "Joel Corry & Tom Grennan",
-        "title": "Lionheart (Fearless)",
-        "plays": 1
-      },
-      {
         "artist": "Floodlights",
         "title": "Can You Feel It",
         "plays": 1
@@ -363,11 +368,6 @@
       {
         "artist": "SOEN",
         "title": "Draconian",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 1
       },
       {
@@ -1218,6 +1218,11 @@
       {
         "artist": "Willow & Travis Barker",
         "title": "Transparent Soul",
+        "plays": 1
+      },
+      {
+        "artist": "One-T, YWY, Nika",
+        "title": "The Way To Love (feat. YWY, Nika)",
         "plays": 1
       }
     ],
