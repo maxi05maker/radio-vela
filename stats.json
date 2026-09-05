@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 216,
-    "music_entries": 199,
+    "total_entries": 220,
+    "music_entries": 203,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -873,6 +873,26 @@
       {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Ein Lied für dich",
+        "plays": 1
+      },
+      {
+        "artist": "Finch (feat. Blümchen)",
+        "title": "Herzalarm",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Physical",
+        "plays": 1
+      },
+      {
+        "artist": "Wavves",
+        "title": "Goner",
         "plays": 1
       }
     ],

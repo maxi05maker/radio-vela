@@ -1294,5 +1294,29 @@
     "played_at": "2026-09-05 18:16:02 +0200",
     "title": "Castle on the Hill",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-05 18:20:23 +0200|Ein Lied für dich|Apache 207",
+    "played_at": "2026-09-05 18:20:23 +0200",
+    "title": "Ein Lied für dich",
+    "artist": "Apache 207"
+  },
+  {
+    "key": "2026-09-05 18:23:26 +0200|Herzalarm|Finch (feat. Blümchen)",
+    "played_at": "2026-09-05 18:23:26 +0200",
+    "title": "Herzalarm",
+    "artist": "Finch (feat. Blümchen)"
+  },
+  {
+    "key": "2026-09-05 18:26:36 +0200|Physical|Dua Lipa",
+    "played_at": "2026-09-05 18:26:36 +0200",
+    "title": "Physical",
+    "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-09-05 18:29:48 +0200|Goner|Wavves",
+    "played_at": "2026-09-05 18:29:48 +0200",
+    "title": "Goner",
+    "artist": "Wavves"
   }
 ]
