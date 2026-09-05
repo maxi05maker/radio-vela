@@ -2,8 +2,8 @@
   "2026-09-04 07:00": {
     "period_start": "2026-09-04T07:00:00+02:00",
     "period_end": "2026-09-05T07:00:00+02:00",
-    "total_entries": 400,
-    "music_entries": 371,
+    "total_entries": 404,
+    "music_entries": 375,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -446,6 +446,11 @@
         "plays": 2
       },
       {
+        "artist": "James Blake",
+        "title": "Death Of Love (Live)",
+        "plays": 2
+      },
+      {
         "artist": "Tyla & Zara Larsson",
         "title": "SHE DID IT AGAIN",
         "plays": 2
@@ -866,11 +871,6 @@
         "plays": 1
       },
       {
-        "artist": "James Blake",
-        "title": "Death Of Love (Live)",
-        "plays": 1
-      },
-      {
         "artist": "Shellac",
         "title": "Scabby the Rat",
         "plays": 1
@@ -1278,6 +1278,21 @@
       {
         "artist": "Danger Dan",
         "title": "Lauf Davon",
+        "plays": 1
+      },
+      {
+        "artist": "The Marías",
+        "title": "Back To Me",
+        "plays": 1
+      },
+      {
+        "artist": "Thirty Seconds To Mars",
+        "title": "The Kill",
+        "plays": 1
+      },
+      {
+        "artist": "Doechii",
+        "title": "Bitch I'm Nice",
         "plays": 1
       }
     ],
