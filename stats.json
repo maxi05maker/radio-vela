@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 120,
-    "music_entries": 109,
+    "total_entries": 124,
+    "music_entries": 113,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -538,6 +538,26 @@
       {
         "artist": "Leony",
         "title": "Faded Love",
+        "plays": 1
+      },
+      {
+        "artist": "Laurell",
+        "title": "Habit",
+        "plays": 1
+      },
+      {
+        "artist": "Dara",
+        "title": "Bangaranga",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Nevermind",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
         "plays": 1
       }
     ],
