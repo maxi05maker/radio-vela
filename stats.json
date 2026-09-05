@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 46,
+    "total_entries": 52,
+    "music_entries": 48,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -233,6 +233,16 @@
       {
         "artist": "HUNTRX",
         "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "plays": 1
+      },
+      {
+        "artist": "AJR",
+        "title": "The DJ Is Crying For Help",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 1
       }
     ],
