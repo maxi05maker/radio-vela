@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 325,
-    "music_entries": 298,
+    "total_entries": 328,
+    "music_entries": 300,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -14,6 +14,11 @@
         "artist": "Harry Styles",
         "title": "As It Was",
         "plays": 4
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "she's all i wanna be",
+        "plays": 3
       },
       {
         "artist": "OneRepublic",
@@ -49,11 +54,6 @@
         "artist": "Badmómzjay",
         "title": "Survival Mode (Intro)",
         "plays": 3
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "she's all i wanna be",
-        "plays": 2
       },
       {
         "artist": "Shawn Mendes",
@@ -1233,6 +1233,11 @@
       {
         "artist": "Kyle Pearce",
         "title": "I Don't Care",
+        "plays": 1
+      },
+      {
+        "artist": "Rapsody",
+        "title": "Black Love feat. Malice",
         "plays": 1
       }
     ],

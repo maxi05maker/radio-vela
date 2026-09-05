@@ -1948,5 +1948,23 @@
     "played_at": "2026-09-05 23:56:36 +0200",
     "title": "Small Steps",
     "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-09-05 23:59:22 +0200|Black Love feat. Malice|Rapsody",
+    "played_at": "2026-09-05 23:59:22 +0200",
+    "title": "Black Love feat. Malice",
+    "artist": "Rapsody"
+  },
+  {
+    "key": "2026-09-06 00:04:58 +0200|she's all i wanna be|Tate McRae",
+    "played_at": "2026-09-06 00:04:58 +0200",
+    "title": "she's all i wanna be",
+    "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-09-06 00:08:25 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-06 00:08:25 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
