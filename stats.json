@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 69,
-    "music_entries": 64,
+    "total_entries": 72,
+    "music_entries": 67,
     "songs": [
       {
         "artist": "Tate McRae",
@@ -323,6 +323,21 @@
       {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Weezer",
+        "title": "Beverly Hills",
+        "plays": 1
+      },
+      {
+        "artist": "Dove Cameron",
+        "title": "Boyfriend",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
         "plays": 1
       }
     ],
