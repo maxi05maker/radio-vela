@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 155,
-    "music_entries": 143,
+    "total_entries": 159,
+    "music_entries": 146,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -23,6 +23,11 @@
       {
         "artist": "Tiësto feat. Tate McRae",
         "title": "10:35",
+        "plays": 2
+      },
+      {
+        "artist": "Mayberg",
+        "title": "Der neue Stil meiner Generation",
         "plays": 2
       },
       {
@@ -78,11 +83,6 @@
       {
         "artist": "Def Leppard",
         "title": "Rejoice",
-        "plays": 1
-      },
-      {
-        "artist": "Mayberg",
-        "title": "Der neue Stil meiner Generation",
         "plays": 1
       },
       {
@@ -673,6 +673,16 @@
       {
         "artist": "CRO",
         "title": "High (feat. Claudia Valentina)",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Hypaton, Bonnie Tyler",
+        "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "Motionless In White",
+        "title": "Another Life",
         "plays": 1
       }
     ],
