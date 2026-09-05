@@ -2,13 +2,18 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 136,
-    "music_entries": 125,
+    "total_entries": 140,
+    "music_entries": 128,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
         "plays": 3
+      },
+      {
+        "artist": "Five Finger Death Punch",
+        "title": "The End",
+        "plays": 2
       },
       {
         "artist": "Lil Nas X",
@@ -48,11 +53,6 @@
       {
         "artist": "Elton John, Britney Spears",
         "title": "Hold Me Closer",
-        "plays": 1
-      },
-      {
-        "artist": "Five Finger Death Punch",
-        "title": "The End",
         "plays": 1
       },
       {
@@ -603,6 +603,16 @@
       {
         "artist": "The 1975",
         "title": "Part Of The Band",
+        "plays": 1
+      },
+      {
+        "artist": "Die Nerven",
+        "title": "BIS ANS MEER",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger & Quarterhead",
+        "title": "Nichts mehr zu sagen",
         "plays": 1
       }
     ],
