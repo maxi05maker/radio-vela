@@ -1714,5 +1714,23 @@
     "played_at": "2026-09-05 21:52:18 +0200",
     "title": "Golden Nights",
     "artist": "Sophie & The Giants"
+  },
+  {
+    "key": "2026-09-05 21:55:17 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-09-05 21:55:17 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-05 21:55:53 +0200|Daisies|Justin Bieber",
+    "played_at": "2026-09-05 21:55:53 +0200",
+    "title": "Daisies",
+    "artist": "Justin Bieber"
+  },
+  {
+    "key": "2026-09-05 21:58:49 +0200|Arcadia|Lana Del Rey",
+    "played_at": "2026-09-05 21:58:49 +0200",
+    "title": "Arcadia",
+    "artist": "Lana Del Rey"
   }
 ]

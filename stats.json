@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 286,
-    "music_entries": 262,
+    "total_entries": 289,
+    "music_entries": 264,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -1103,6 +1103,16 @@
       {
         "artist": "Sophie & The Giants",
         "title": "Golden Nights",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Daisies",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Arcadia",
         "plays": 1
       }
     ],
