@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 337,
-    "music_entries": 309,
+    "total_entries": 339,
+    "music_entries": 311,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -163,6 +163,11 @@
       {
         "artist": "ClockClock",
         "title": "Sorry",
+        "plays": 2
+      },
+      {
+        "artist": "Billy Idol",
+        "title": "Bitter Taste",
         "plays": 2
       },
       {
@@ -473,11 +478,6 @@
       {
         "artist": "Nina Chuba",
         "title": "Wenn das Liebe ist",
-        "plays": 1
-      },
-      {
-        "artist": "Billy Idol",
-        "title": "Bitter Taste",
         "plays": 1
       },
       {
@@ -1273,6 +1273,11 @@
       {
         "artist": "Nina Chuba & Makko",
         "title": "Fucked Up feat. makko",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor & Sido",
+        "title": "Interstellar (Zwischen den Sternen)",
         "plays": 1
       }
     ],
