@@ -2,9 +2,14 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 113,
-    "music_entries": 104,
+    "total_entries": 116,
+    "music_entries": 106,
     "songs": [
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 2
+      },
       {
         "artist": "Nura",
         "title": "Ich War's Nicht",
@@ -108,11 +113,6 @@
       {
         "artist": "Purple Disco Machine feat. Jake Shears",
         "title": "Fire + Ice (Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
         "plays": 1
       },
       {
@@ -519,11 +519,16 @@
         "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
         "title": "In Your Arms (For An Angel)",
         "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Why Why Why",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Nura",
-      "title": "Ich War's Nicht",
+      "artist": "Harry Styles",
+      "title": "As It Was",
       "plays": 2
     }
   }
