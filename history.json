@@ -1378,5 +1378,35 @@
     "played_at": "2026-09-05 19:00:05 +0200",
     "title": "Synchronize",
     "artist": "Milky Chance"
+  },
+  {
+    "key": "2026-09-05 19:02:50 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-05 19:02:50 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-05 19:05:28 +0200|Liebe auf Distanz|Revolverheld feat. Antje Schomaker",
+    "played_at": "2026-09-05 19:05:28 +0200",
+    "title": "Liebe auf Distanz",
+    "artist": "Revolverheld feat. Antje Schomaker"
+  },
+  {
+    "key": "2026-09-05 19:08:45 +0200|Love Me Better|Joji",
+    "played_at": "2026-09-05 19:08:45 +0200",
+    "title": "Love Me Better",
+    "artist": "Joji"
+  },
+  {
+    "key": "2026-09-05 19:10:38 +0200|Heavy|LINKIN PARK & Kiiara",
+    "played_at": "2026-09-05 19:10:38 +0200",
+    "title": "Heavy",
+    "artist": "LINKIN PARK & Kiiara"
+  },
+  {
+    "key": "2026-09-05 19:13:26 +0200|Die beste Musik aus allen Jahrzenten|Jingle",
+    "played_at": "2026-09-05 19:13:26 +0200",
+    "title": "Die beste Musik aus allen Jahrzenten",
+    "artist": "Jingle"
   }
 ]

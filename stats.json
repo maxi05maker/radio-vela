@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 230,
-    "music_entries": 213,
+    "total_entries": 235,
+    "music_entries": 216,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -918,6 +918,21 @@
       {
         "artist": "Lost Frequencies & James Arthur",
         "title": "Questions",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld feat. Antje Schomaker",
+        "title": "Liebe auf Distanz",
+        "plays": 1
+      },
+      {
+        "artist": "Joji",
+        "title": "Love Me Better",
+        "plays": 1
+      },
+      {
+        "artist": "LINKIN PARK & Kiiara",
+        "title": "Heavy",
         "plays": 1
       }
     ],
