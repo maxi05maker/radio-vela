@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 170,
-    "music_entries": 157,
+    "total_entries": 172,
+    "music_entries": 159,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -708,6 +708,16 @@
       {
         "artist": "The Weeknd",
         "title": "Out Of Time",
+        "plays": 1
+      },
+      {
+        "artist": "Thirty Seconds To Mars",
+        "title": "The Kill",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Azizam",
         "plays": 1
       }
     ],
