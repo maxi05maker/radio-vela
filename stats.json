@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 116,
-    "music_entries": 106,
+    "total_entries": 120,
+    "music_entries": 109,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -523,6 +523,21 @@
       {
         "artist": "Shawn Mendes",
         "title": "Why Why Why",
+        "plays": 1
+      },
+      {
+        "artist": "Paramore",
+        "title": "The news",
+        "plays": 1
+      },
+      {
+        "artist": "Celo Minati",
+        "title": "Ich Will Dich Nicht Mehr feat. Charisma",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
         "plays": 1
       }
     ],
