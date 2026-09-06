@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 87,
-    "music_entries": 81,
+    "total_entries": 90,
+    "music_entries": 84,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -403,6 +403,21 @@
       {
         "artist": "Matt Simons",
         "title": "Catch And Release (Deepend Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
         "plays": 1
       }
     ],
