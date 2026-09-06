@@ -2,13 +2,13 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 237,
-    "music_entries": 219,
+    "total_entries": 239,
+    "music_entries": 221,
     "songs": [
       {
         "artist": "Harry Styles",
         "title": "As It Was",
-        "plays": 2
+        "plays": 3
       },
       {
         "artist": "Kraftklub",
@@ -989,12 +989,17 @@
         "artist": "Ed Sheeran",
         "title": "Overpass Graffiti",
         "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Harry Styles",
       "title": "As It Was",
-      "plays": 2
+      "plays": 3
     }
   }
 }
