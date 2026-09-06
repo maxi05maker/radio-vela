@@ -4294,5 +4294,23 @@
     "played_at": "2026-09-06 21:07:19 +0200",
     "title": "Firework",
     "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-09-06 21:11:08 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-06 21:11:08 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-06 21:14:01 +0200|Heart Of Gold|Shawn Mendes",
+    "played_at": "2026-09-06 21:14:01 +0200",
+    "title": "Heart Of Gold",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-06 21:16:51 +0200|You Were Loved|Gryffin & OneRepublic",
+    "played_at": "2026-09-06 21:16:51 +0200",
+    "title": "You Were Loved",
+    "artist": "Gryffin & OneRepublic"
   }
 ]

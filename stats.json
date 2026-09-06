@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 263,
-    "music_entries": 243,
+    "total_entries": 266,
+    "music_entries": 245,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -88,6 +88,11 @@
       {
         "artist": "Lana Del Rey",
         "title": "Arcadia",
+        "plays": 2
+      },
+      {
+        "artist": "Gryffin & OneRepublic",
+        "title": "You Were Loved",
         "plays": 2
       },
       {
@@ -468,11 +473,6 @@
       {
         "artist": "The Gems",
         "title": "Hot Bait",
-        "plays": 1
-      },
-      {
-        "artist": "Gryffin & OneRepublic",
-        "title": "You Were Loved",
         "plays": 1
       },
       {
@@ -1033,6 +1033,11 @@
       {
         "artist": "Lucinda Williams",
         "title": "Low Life",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heart Of Gold",
         "plays": 1
       }
     ],
