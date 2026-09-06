@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 446,
-    "music_entries": 407,
+    "total_entries": 450,
+    "music_entries": 411,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -68,6 +68,11 @@
       {
         "artist": "Nura",
         "title": "Ich War's Nicht",
+        "plays": 3
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
         "plays": 3
       },
       {
@@ -191,11 +196,6 @@
         "plays": 2
       },
       {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 2
-      },
-      {
         "artist": "Pusha T",
         "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 2
@@ -301,6 +301,11 @@
         "plays": 2
       },
       {
+        "artist": "DIIV",
+        "title": "Frog In Boiling Water",
+        "plays": 2
+      },
+      {
         "artist": "Ellie Goulding",
         "title": "Something In The Way You Move",
         "plays": 2
@@ -396,6 +401,11 @@
         "plays": 2
       },
       {
+        "artist": "Johannes Oerding",
+        "title": "Kreise",
+        "plays": 2
+      },
+      {
         "artist": "The Strumbellas",
         "title": "Spirits",
         "plays": 2
@@ -433,6 +443,11 @@
       {
         "artist": "Coldplay X BTS",
         "title": "My Universe",
+        "plays": 2
+      },
+      {
+        "artist": "Muse",
+        "title": "Something Human",
         "plays": 2
       },
       {
@@ -991,11 +1006,6 @@
         "plays": 1
       },
       {
-        "artist": "DIIV",
-        "title": "Frog In Boiling Water",
-        "plays": 1
-      },
-      {
         "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
         "title": "Best Friend",
         "plays": 1
@@ -1066,11 +1076,6 @@
         "plays": 1
       },
       {
-        "artist": "Johannes Oerding",
-        "title": "Kreise",
-        "plays": 1
-      },
-      {
         "artist": "Alex Warren",
         "title": "FEVER DREAM",
         "plays": 1
@@ -1088,11 +1093,6 @@
       {
         "artist": "JJerome87",
         "title": "Mr. Alligator",
-        "plays": 1
-      },
-      {
-        "artist": "Muse",
-        "title": "Something Human",
         "plays": 1
       },
       {

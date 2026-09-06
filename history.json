@@ -2674,5 +2674,29 @@
     "played_at": "2026-09-06 06:31:07 +0200",
     "title": "Forget me",
     "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-09-06 06:34:28 +0200|Kreise|Johannes Oerding",
+    "played_at": "2026-09-06 06:34:28 +0200",
+    "title": "Kreise",
+    "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-09-06 06:38:09 +0200|Frog In Boiling Water|DIIV",
+    "played_at": "2026-09-06 06:38:09 +0200",
+    "title": "Frog In Boiling Water",
+    "artist": "DIIV"
+  },
+  {
+    "key": "2026-09-06 06:42:07 +0200|Die Beste Musik Nonstop|Radio Karen",
+    "played_at": "2026-09-06 06:42:07 +0200",
+    "title": "Die Beste Musik Nonstop",
+    "artist": "Radio Karen"
+  },
+  {
+    "key": "2026-09-06 06:42:14 +0200|Something Human|Muse",
+    "played_at": "2026-09-06 06:42:14 +0200",
+    "title": "Something Human",
+    "artist": "Muse"
   }
 ]
