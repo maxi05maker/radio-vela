@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 400,
-    "music_entries": 367,
+    "total_entries": 403,
+    "music_entries": 370,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -306,6 +306,11 @@
         "plays": 2
       },
       {
+        "artist": "Adele",
+        "title": "Easy On Me",
+        "plays": 2
+      },
+      {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
         "plays": 2
@@ -358,6 +363,11 @@
       {
         "artist": "Shawn Mendes",
         "title": "Treat You Better",
+        "plays": 2
+      },
+      {
+        "artist": "P!nk",
+        "title": "Beautiful Trauma",
         "plays": 2
       },
       {
@@ -926,11 +936,6 @@
         "plays": 1
       },
       {
-        "artist": "Adele",
-        "title": "Easy On Me",
-        "plays": 1
-      },
-      {
         "artist": "Apache 207",
         "title": "Ein Lied für dich",
         "plays": 1
@@ -993,11 +998,6 @@
       {
         "artist": "The Strumbellas",
         "title": "Spirits",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Beautiful Trauma",
         "plays": 1
       },
       {
@@ -1363,6 +1363,11 @@
       {
         "artist": "Swedish House Mafia",
         "title": "Wait So Long",
+        "plays": 1
+      },
+      {
+        "artist": "Zach Bryan",
+        "title": "Pink Skies",
         "plays": 1
       }
     ],
