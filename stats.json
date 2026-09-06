@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 309,
-    "music_entries": 283,
+    "total_entries": 312,
+    "music_entries": 286,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -281,8 +281,18 @@
         "plays": 2
       },
       {
+        "artist": "Emiliana Torrini",
+        "title": "Jungle Drum",
+        "plays": 2
+      },
+      {
         "artist": "Luis Fonsi feat. Demi Lovato",
         "title": "Échame La Culpa",
+        "plays": 2
+      },
+      {
+        "artist": "1986zig",
+        "title": "Kopf aus",
         "plays": 2
       },
       {
@@ -746,11 +756,6 @@
         "plays": 1
       },
       {
-        "artist": "Emiliana Torrini",
-        "title": "Jungle Drum",
-        "plays": 1
-      },
-      {
         "artist": "Mabel",
         "title": "Mad Love",
         "plays": 1
@@ -768,11 +773,6 @@
       {
         "artist": "Rosalía",
         "title": "La Perla (with Yahritza y su Esencia)",
-        "plays": 1
-      },
-      {
-        "artist": "1986zig",
-        "title": "Kopf aus",
         "plays": 1
       },
       {
@@ -1108,6 +1108,11 @@
       {
         "artist": "Snail Mail",
         "title": "Dead End",
+        "plays": 1
+      },
+      {
+        "artist": "Calum Scott",
+        "title": "My World",
         "plays": 1
       }
     ],
