@@ -3322,5 +3322,23 @@
     "played_at": "2026-09-06 12:28:23 +0200",
     "title": "Sharks",
     "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-06 12:31:34 +0200|Wonderful Life '25|Hurts/Purple Disco Machine",
+    "played_at": "2026-09-06 12:31:34 +0200",
+    "title": "Wonderful Life '25",
+    "artist": "Hurts/Purple Disco Machine"
+  },
+  {
+    "key": "2026-09-06 12:34:33 +0200|Let You Love Me|Rita Ora",
+    "played_at": "2026-09-06 12:34:33 +0200",
+    "title": "Let You Love Me",
+    "artist": "Rita Ora"
+  },
+  {
+    "key": "2026-09-06 12:37:40 +0200|Call on Me|Starley",
+    "played_at": "2026-09-06 12:37:40 +0200",
+    "title": "Call on Me",
+    "artist": "Starley"
   }
 ]
