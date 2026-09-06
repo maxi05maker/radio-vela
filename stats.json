@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 239,
-    "music_entries": 221,
+    "total_entries": 244,
+    "music_entries": 226,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -88,6 +88,26 @@
       {
         "artist": "Stefanie Heinzmann feat. Alle Farben",
         "title": "Build a House",
+        "plays": 2
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 2
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
+        "plays": 2
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
+        "plays": 2
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
         "plays": 2
       },
       {
@@ -431,18 +451,8 @@
         "plays": 1
       },
       {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 1
-      },
-      {
         "artist": "Bruce Springsteen",
         "title": "Streets Of Minneapolis",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Bad Habits",
         "plays": 1
       },
       {
@@ -471,11 +481,6 @@
         "plays": 1
       },
       {
-        "artist": "A1 x J1 & Tion Wayne",
-        "title": "Night Away (Dance)",
-        "plays": 1
-      },
-      {
         "artist": "Lady Gaga, Doechii",
         "title": "Runway",
         "plays": 1
@@ -493,11 +498,6 @@
       {
         "artist": "Hurts/Purple Disco Machine",
         "title": "Wonderful Life '25",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
         "plays": 1
       },
       {
@@ -993,6 +993,11 @@
       {
         "artist": "Noah Kahan",
         "title": "The Great Divide",
+        "plays": 1
+      },
+      {
+        "artist": "Evanescence",
+        "title": "Fight Like A Girl (feat. K.Flay)",
         "plays": 1
       }
     ],
