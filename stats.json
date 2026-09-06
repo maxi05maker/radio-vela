@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 190,
-    "music_entries": 174,
+    "total_entries": 194,
+    "music_entries": 178,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -33,6 +33,11 @@
       {
         "artist": "Juice WRLD",
         "title": "Face 2 face",
+        "plays": 2
+      },
+      {
+        "artist": "Nura",
+        "title": "Ich War's Nicht",
         "plays": 2
       },
       {
@@ -671,11 +676,6 @@
         "plays": 1
       },
       {
-        "artist": "Nura",
-        "title": "Ich War's Nicht",
-        "plays": 1
-      },
-      {
         "artist": "Portugal. The Man",
         "title": "Tanana",
         "plays": 1
@@ -838,6 +838,21 @@
       {
         "artist": "Sam Smith",
         "title": "Stay With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub, Domiziana",
+        "title": "Unsterblich sein ( ) feat. Domiziana",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Who's In Your Head",
+        "plays": 1
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
         "plays": 1
       }
     ],
