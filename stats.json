@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 345,
-    "music_entries": 317,
+    "total_entries": 347,
+    "music_entries": 319,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -28,6 +28,11 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 3
+      },
+      {
+        "artist": "Mia Morgan",
+        "title": "Jennifer Check",
         "plays": 3
       },
       {
@@ -78,11 +83,6 @@
       {
         "artist": "OneRepublic",
         "title": "Run",
-        "plays": 2
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Jennifer Check",
         "plays": 2
       },
       {
@@ -1143,6 +1143,11 @@
       {
         "artist": "AYLIVA",
         "title": "Wie?",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Beams",
         "plays": 1
       }
     ],
