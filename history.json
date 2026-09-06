@@ -3016,5 +3016,17 @@
     "played_at": "2026-09-06 09:45:24 +0200",
     "title": "Shake It Out",
     "artist": "Florence + the Machine"
+  },
+  {
+    "key": "2026-09-06 09:50:02 +0200|Herzalarm|Finch (feat. Blümchen)",
+    "played_at": "2026-09-06 09:50:02 +0200",
+    "title": "Herzalarm",
+    "artist": "Finch (feat. Blümchen)"
+  },
+  {
+    "key": "2026-09-06 09:53:12 +0200|Temporal|Katatonia",
+    "played_at": "2026-09-06 09:53:12 +0200",
+    "title": "Temporal",
+    "artist": "Katatonia"
   }
 ]
