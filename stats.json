@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 15,
-    "music_entries": 14,
+    "total_entries": 18,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "CHAPO102 x GUSTAV",
@@ -73,6 +73,21 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
+        "plays": 1
+      },
+      {
+        "artist": "Wavves",
+        "title": "Goner",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
         "plays": 1
       }
     ],

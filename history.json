@@ -2806,5 +2806,23 @@
     "played_at": "2026-09-06 07:53:13 +0200",
     "title": "As It Was",
     "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-06 07:56:00 +0200|Wenn Du Mich Lässt|Lea",
+    "played_at": "2026-09-06 07:56:00 +0200",
+    "title": "Wenn Du Mich Lässt",
+    "artist": "Lea"
+  },
+  {
+    "key": "2026-09-06 07:59:02 +0200|Goner|Wavves",
+    "played_at": "2026-09-06 07:59:02 +0200",
+    "title": "Goner",
+    "artist": "Wavves"
+  },
+  {
+    "key": "2026-09-06 08:01:48 +0200|Mañana|Alvaro Soler feat. Cali Y El Dandee",
+    "played_at": "2026-09-06 08:01:48 +0200",
+    "title": "Mañana",
+    "artist": "Alvaro Soler feat. Cali Y El Dandee"
   }
 ]
