@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 221,
-    "music_entries": 204,
+    "total_entries": 223,
+    "music_entries": 206,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -948,6 +948,16 @@
       {
         "artist": "Weezer",
         "title": "Beverly Hills",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo feat. DNCE",
+        "title": "Dancing Feet",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Daisies",
         "plays": 1
       }
     ],
