@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 386,
-    "music_entries": 355,
+    "total_entries": 388,
+    "music_entries": 357,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -246,6 +246,11 @@
         "plays": 2
       },
       {
+        "artist": "Ayron Jones",
+        "title": "Take Your Time",
+        "plays": 2
+      },
+      {
         "artist": "Gorillaz",
         "title": "Skinny Ape",
         "plays": 2
@@ -323,6 +328,11 @@
       {
         "artist": "LINKIN PARK & Kiiara",
         "title": "Heavy",
+        "plays": 2
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Parallelwelt",
         "plays": 2
       },
       {
@@ -851,11 +861,6 @@
         "plays": 1
       },
       {
-        "artist": "Ayron Jones",
-        "title": "Take Your Time",
-        "plays": 1
-      },
-      {
         "artist": "Armin van Buuren, Malou",
         "title": "Everything I Wanted",
         "plays": 1
@@ -963,11 +968,6 @@
       {
         "artist": "No Angels",
         "title": "When the Angels Sing",
-        "plays": 1
-      },
-      {
-        "artist": "Tim Bendzko",
-        "title": "Parallelwelt",
         "plays": 1
       },
       {
