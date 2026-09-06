@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 324,
-    "music_entries": 297,
+    "total_entries": 327,
+    "music_entries": 300,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -18,6 +18,11 @@
       {
         "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
         "title": "Best Friend",
+        "plays": 3
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 3
       },
       {
@@ -43,11 +48,6 @@
       {
         "artist": "Armin van Buuren, Malou",
         "title": "Everything I Wanted",
-        "plays": 2
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 2
       },
       {
@@ -261,6 +261,11 @@
         "plays": 2
       },
       {
+        "artist": "Rea Garvey",
+        "title": "Kids In Love",
+        "plays": 2
+      },
+      {
         "artist": "The Weeknd",
         "title": "Sacrifice",
         "plays": 2
@@ -278,6 +283,11 @@
       {
         "artist": "Mabel X Jax Jones X Galatis",
         "title": "Good Luck",
+        "plays": 2
+      },
+      {
+        "artist": "Adele",
+        "title": "Easy On Me",
         "plays": 2
       },
       {
@@ -701,11 +711,6 @@
         "plays": 1
       },
       {
-        "artist": "Rea Garvey",
-        "title": "Kids In Love",
-        "plays": 1
-      },
-      {
         "artist": "Myles Smith",
         "title": "Stay (If You Wanna Dance)",
         "plays": 1
@@ -718,11 +723,6 @@
       {
         "artist": "SDP",
         "title": "ADAC (feat. Tream)",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Easy On Me",
         "plays": 1
       },
       {
