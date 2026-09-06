@@ -3094,5 +3094,29 @@
     "played_at": "2026-09-06 10:30:43 +0200",
     "title": "Heartbeat",
     "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-06 10:33:03 +0200|DUMM|Juju",
+    "played_at": "2026-09-06 10:33:03 +0200",
+    "title": "DUMM",
+    "artist": "Juju"
+  },
+  {
+    "key": "2026-09-06 10:35:41 +0200|it's my fault|WILLOW",
+    "played_at": "2026-09-06 10:35:41 +0200",
+    "title": "it's my fault",
+    "artist": "WILLOW"
+  },
+  {
+    "key": "2026-09-06 10:38:20 +0200|Cry A Little Less|Kelvin Jones",
+    "played_at": "2026-09-06 10:38:20 +0200",
+    "title": "Cry A Little Less",
+    "artist": "Kelvin Jones"
+  },
+  {
+    "key": "2026-09-06 10:41:45 +0200|LIEBE (feat. Nina Chuba) [Explicit]|Ufo361 & Nina Chuba",
+    "played_at": "2026-09-06 10:41:45 +0200",
+    "title": "LIEBE (feat. Nina Chuba) [Explicit]",
+    "artist": "Ufo361 & Nina Chuba"
   }
 ]
