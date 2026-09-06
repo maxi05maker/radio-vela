@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 364,
-    "music_entries": 334,
+    "total_entries": 371,
+    "music_entries": 341,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -63,6 +63,11 @@
       {
         "artist": "Badmómzjay",
         "title": "Survival Mode (Intro)",
+        "plays": 3
+      },
+      {
+        "artist": "Lizzo",
+        "title": "Grrrls",
         "plays": 3
       },
       {
@@ -211,6 +216,11 @@
         "plays": 2
       },
       {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
+        "plays": 2
+      },
+      {
         "artist": "CRO",
         "title": "High (feat. Claudia Valentina)",
         "plays": 2
@@ -256,11 +266,6 @@
         "plays": 2
       },
       {
-        "artist": "Lizzo",
-        "title": "Grrrls",
-        "plays": 2
-      },
-      {
         "artist": "Michael Schulte",
         "title": "Here Goes Nothing",
         "plays": 2
@@ -288,6 +293,26 @@
       {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
+        "plays": 2
+      },
+      {
+        "artist": "Finch (feat. Blümchen)",
+        "title": "Herzalarm",
+        "plays": 2
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Physical",
+        "plays": 2
+      },
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
+        "plays": 2
+      },
+      {
+        "artist": "Lost Frequencies & James Arthur",
+        "title": "Questions",
         "plays": 2
       },
       {
@@ -731,11 +756,6 @@
         "plays": 1
       },
       {
-        "artist": "Noah Kahan",
-        "title": "The Great Divide",
-        "plays": 1
-      },
-      {
         "artist": "Max Giesinger",
         "title": "Taxi",
         "plays": 1
@@ -886,23 +906,8 @@
         "plays": 1
       },
       {
-        "artist": "Finch (feat. Blümchen)",
-        "title": "Herzalarm",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "Physical",
-        "plays": 1
-      },
-      {
         "artist": "Wavves",
         "title": "Goner",
-        "plays": 1
-      },
-      {
-        "artist": "Panic! At the Disco",
-        "title": "High Hopes",
         "plays": 1
       },
       {
@@ -918,11 +923,6 @@
       {
         "artist": "Charli xcx",
         "title": "SS26",
-        "plays": 1
-      },
-      {
-        "artist": "Lost Frequencies & James Arthur",
-        "title": "Questions",
         "plays": 1
       },
       {
@@ -1313,6 +1313,11 @@
       {
         "artist": "TEMPERS",
         "title": "Who Says",
+        "plays": 1
+      },
+      {
+        "artist": "Inhaler",
+        "title": "A Question of You",
         "plays": 1
       }
     ],
