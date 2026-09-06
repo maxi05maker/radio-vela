@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 305,
-    "music_entries": 279,
+    "total_entries": 307,
+    "music_entries": 281,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -263,6 +263,11 @@
       {
         "artist": "Nura",
         "title": "Ich War's Nicht",
+        "plays": 2
+      },
+      {
+        "artist": "Max Giesinger & Quarterhead",
+        "title": "Nichts mehr zu sagen",
         "plays": 2
       },
       {
@@ -721,11 +726,6 @@
         "plays": 1
       },
       {
-        "artist": "Max Giesinger & Quarterhead",
-        "title": "Nichts mehr zu sagen",
-        "plays": 1
-      },
-      {
         "artist": "Alex Cameron",
         "title": "Best Life",
         "plays": 1
@@ -1103,6 +1103,11 @@
       {
         "artist": "Badmómzjay",
         "title": "OMG",
+        "plays": 1
+      },
+      {
+        "artist": "Snail Mail",
+        "title": "Dead End",
         "plays": 1
       }
     ],

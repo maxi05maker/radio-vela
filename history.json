@@ -4546,5 +4546,17 @@
     "played_at": "2026-09-06 23:18:00 +0200",
     "title": "West Coast",
     "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-09-06 23:21:47 +0200|Dead End|Snail Mail",
+    "played_at": "2026-09-06 23:21:47 +0200",
+    "title": "Dead End",
+    "artist": "Snail Mail"
+  },
+  {
+    "key": "2026-09-06 23:25:52 +0200|Nichts mehr zu sagen|Max Giesinger & Quarterhead",
+    "played_at": "2026-09-06 23:25:52 +0200",
+    "title": "Nichts mehr zu sagen",
+    "artist": "Max Giesinger & Quarterhead"
   }
 ]
