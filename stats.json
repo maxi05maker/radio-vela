@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 281,
-    "music_entries": 258,
+    "total_entries": 286,
+    "music_entries": 262,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -91,6 +91,11 @@
         "plays": 2
       },
       {
+        "artist": "The Gems",
+        "title": "Hot Bait",
+        "plays": 2
+      },
+      {
         "artist": "Gryffin & OneRepublic",
         "title": "You Were Loved",
         "plays": 2
@@ -166,6 +171,11 @@
         "plays": 2
       },
       {
+        "artist": "Mayberg",
+        "title": "Der neue Stil meiner Generation",
+        "plays": 2
+      },
+      {
         "artist": "The Weeknd (feat. Daft Punk)",
         "title": "I Feel It Coming",
         "plays": 2
@@ -193,6 +203,11 @@
       {
         "artist": "Lewis Capaldi",
         "title": "Someone You Loved",
+        "plays": 2
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
         "plays": 2
       },
       {
@@ -506,11 +521,6 @@
         "plays": 1
       },
       {
-        "artist": "The Gems",
-        "title": "Hot Bait",
-        "plays": 1
-      },
-      {
         "artist": "Sabrina Carpenter",
         "title": "Manchild",
         "plays": 1
@@ -576,11 +586,6 @@
         "plays": 1
       },
       {
-        "artist": "Mayberg",
-        "title": "Der neue Stil meiner Generation",
-        "plays": 1
-      },
-      {
         "artist": "Alvaro Soler",
         "title": "Apágame",
         "plays": 1
@@ -608,11 +613,6 @@
       {
         "artist": "Clean Bandit & Anne-Marie & David Guetta",
         "title": "Cry Baby (SUNSHINE-BANGER)",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Jesso",
-        "title": "Clarity",
         "plays": 1
       },
       {
@@ -1063,6 +1063,11 @@
       {
         "artist": "Finn Wolfhard",
         "title": "Tunnels",
+        "plays": 1
+      },
+      {
+        "artist": "Dara",
+        "title": "Bangaranga",
         "plays": 1
       }
     ],

@@ -4402,5 +4402,35 @@
     "played_at": "2026-09-06 21:56:25 +0200",
     "title": "Someone You Loved",
     "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-09-06 21:59:30 +0200|Der neue Stil meiner Generation|Mayberg",
+    "played_at": "2026-09-06 21:59:30 +0200",
+    "title": "Der neue Stil meiner Generation",
+    "artist": "Mayberg"
+  },
+  {
+    "key": "2026-09-06 22:01:54 +0200|Hot Bait|The Gems",
+    "played_at": "2026-09-06 22:01:54 +0200",
+    "title": "Hot Bait",
+    "artist": "The Gems"
+  },
+  {
+    "key": "2026-09-06 22:04:51 +0200|Clarity|Justin Jesso",
+    "played_at": "2026-09-06 22:04:51 +0200",
+    "title": "Clarity",
+    "artist": "Justin Jesso"
+  },
+  {
+    "key": "2026-09-06 22:08:07 +0200|Ganztagsradio|Jingle",
+    "played_at": "2026-09-06 22:08:07 +0200",
+    "title": "Ganztagsradio",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-06 22:08:48 +0200|Bangaranga|Dara",
+    "played_at": "2026-09-06 22:08:48 +0200",
+    "title": "Bangaranga",
+    "artist": "Dara"
   }
 ]
