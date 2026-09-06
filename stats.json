@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 276,
-    "music_entries": 253,
+    "total_entries": 278,
+    "music_entries": 255,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -163,6 +163,11 @@
       {
         "artist": "SDP",
         "title": "Du hast gehofft",
+        "plays": 2
+      },
+      {
+        "artist": "The Weeknd (feat. Daft Punk)",
+        "title": "I Feel It Coming",
         "plays": 2
       },
       {
@@ -568,11 +573,6 @@
       {
         "artist": "Alvaro Soler",
         "title": "Apágame",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd (feat. Daft Punk)",
-        "title": "I Feel It Coming",
         "plays": 1
       },
       {
@@ -1053,6 +1053,11 @@
       {
         "artist": "Aerosmith, YUNGBLUD",
         "title": "Wild Woman",
+        "plays": 1
+      },
+      {
+        "artist": "BTS",
+        "title": "SWIM",
         "plays": 1
       }
     ],
