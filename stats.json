@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 397,
-    "music_entries": 365,
+    "total_entries": 400,
+    "music_entries": 367,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -63,6 +63,11 @@
       {
         "artist": "Nura",
         "title": "Ich War's Nicht",
+        "plays": 3
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 3
       },
       {
@@ -143,11 +148,6 @@
       {
         "artist": "Joel Corry & Tom Grennan",
         "title": "Lionheart (Fearless)",
-        "plays": 2
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 2
       },
       {
@@ -1358,6 +1358,11 @@
       {
         "artist": "Paul Kalkbrenner",
         "title": "DREAMING ON",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
         "plays": 1
       }
     ],
