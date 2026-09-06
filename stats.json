@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 388,
-    "music_entries": 357,
+    "total_entries": 391,
+    "music_entries": 360,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -28,6 +28,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 4
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Survival Mode (Intro)",
         "plays": 4
       },
       {
@@ -73,11 +78,6 @@
       {
         "artist": "CRO",
         "title": "High (feat. Claudia Valentina)",
-        "plays": 3
-      },
-      {
-        "artist": "Badmómzjay",
-        "title": "Survival Mode (Intro)",
         "plays": 3
       },
       {
@@ -328,6 +328,11 @@
       {
         "artist": "LINKIN PARK & Kiiara",
         "title": "Heavy",
+        "plays": 2
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Natural",
         "plays": 2
       },
       {
@@ -956,11 +961,6 @@
         "plays": 1
       },
       {
-        "artist": "Imagine Dragons",
-        "title": "Natural",
-        "plays": 1
-      },
-      {
         "artist": "Hundreds",
         "title": "Fallacies",
         "plays": 1
@@ -1343,6 +1343,11 @@
       {
         "artist": "L.A. Edwards",
         "title": "El Camino",
+        "plays": 1
+      },
+      {
+        "artist": "Jill Scott",
+        "title": "BPOTY (feat. Too $hort)",
         "plays": 1
       }
     ],
