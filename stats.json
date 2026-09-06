@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 180,
-    "music_entries": 165,
+    "total_entries": 182,
+    "music_entries": 167,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -803,6 +803,16 @@
       {
         "artist": "Stormzy",
         "title": "Mel Made Me Do It",
+        "plays": 1
+      },
+      {
+        "artist": "Disturbed",
+        "title": "Hey You",
+        "plays": 1
+      },
+      {
+        "artist": "Avalanche",
+        "title": "Down For The Count",
         "plays": 1
       }
     ],
