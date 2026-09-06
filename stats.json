@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 184,
-    "music_entries": 169,
+    "total_entries": 187,
+    "music_entries": 172,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -26,8 +26,18 @@
         "plays": 2
       },
       {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
         "artist": "Juice WRLD",
         "title": "Face 2 face",
+        "plays": 2
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 2
       },
       {
@@ -288,11 +298,6 @@
       {
         "artist": "Lost Frequencies & James Arthur",
         "title": "Questions",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 1
       },
       {
@@ -766,11 +771,6 @@
         "plays": 1
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
         "artist": "Topic & A7S",
         "title": "Kernkraft 400 (A Better Day)",
         "plays": 1
@@ -823,6 +823,11 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "That’s So True",
         "plays": 1
       }
     ],
