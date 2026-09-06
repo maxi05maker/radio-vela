@@ -4720,5 +4720,23 @@
     "played_at": "2026-09-07 00:50:18 +0200",
     "title": "2 hands",
     "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-09-07 00:53:19 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-07 00:53:19 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-07 00:56:53 +0200|Señorita|Shawn Mendes & Camila Cabello",
+    "played_at": "2026-09-07 00:56:53 +0200",
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello"
+  },
+  {
+    "key": "2026-09-07 01:00:04 +0200|It Girl (feat. Sampagne)|Shirin David",
+    "played_at": "2026-09-07 01:00:04 +0200",
+    "title": "It Girl (feat. Sampagne)",
+    "artist": "Shirin David"
   }
 ]
