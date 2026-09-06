@@ -2,12 +2,17 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 96,
-    "music_entries": 89,
+    "total_entries": 98,
+    "music_entries": 91,
     "songs": [
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -158,11 +163,6 @@
       {
         "artist": "Zara Larsson",
         "title": "Midnight Sun",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 1
       },
       {
@@ -443,6 +443,11 @@
       {
         "artist": "Robin Schulz feat. CLOVES",
         "title": "Old Friend (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
         "plays": 1
       }
     ],
