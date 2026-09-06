@@ -3898,5 +3898,23 @@
     "played_at": "2026-09-06 17:30:29 +0200",
     "title": "Rockstars",
     "artist": "Malik Harris"
+  },
+  {
+    "key": "2026-09-06 17:33:29 +0200|Voices|Damiano David",
+    "played_at": "2026-09-06 17:33:29 +0200",
+    "title": "Voices",
+    "artist": "Damiano David"
+  },
+  {
+    "key": "2026-09-06 17:37:02 +0200|Nur die Musik|JORIS",
+    "played_at": "2026-09-06 17:37:02 +0200",
+    "title": "Nur die Musik",
+    "artist": "JORIS"
+  },
+  {
+    "key": "2026-09-06 17:40:36 +0200|Señorita|Shawn Mendes & Camila Cabello",
+    "played_at": "2026-09-06 17:40:36 +0200",
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello"
   }
 ]
