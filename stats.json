@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 270,
-    "music_entries": 248,
+    "total_entries": 274,
+    "music_entries": 251,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -173,6 +173,11 @@
       {
         "artist": "Tiësto feat. Tate McRae",
         "title": "10:35",
+        "plays": 2
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Real Face",
         "plays": 2
       },
       {
@@ -588,11 +593,6 @@
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "Sofia Portanet",
-        "title": "Real Face",
         "plays": 1
       },
       {
@@ -1043,6 +1043,16 @@
       {
         "artist": "David Guetta, Hypaton, Bonnie Tyler",
         "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Just Keep Watching",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith, YUNGBLUD",
+        "title": "Wild Woman",
         "plays": 1
       }
     ],

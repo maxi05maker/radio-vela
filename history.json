@@ -4336,5 +4336,29 @@
     "played_at": "2026-09-06 21:26:01 +0200",
     "title": "Thank You",
     "artist": "Lena"
+  },
+  {
+    "key": "2026-09-06 21:29:15 +0200|Just Keep Watching|Tate McRae",
+    "played_at": "2026-09-06 21:29:15 +0200",
+    "title": "Just Keep Watching",
+    "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-09-06 21:31:38 +0200|Real Face|Sofia Portanet",
+    "played_at": "2026-09-06 21:31:38 +0200",
+    "title": "Real Face",
+    "artist": "Sofia Portanet"
+  },
+  {
+    "key": "2026-09-06 21:34:30 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-09-06 21:34:30 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-06 21:35:05 +0200|Wild Woman|Aerosmith, YUNGBLUD",
+    "played_at": "2026-09-06 21:35:05 +0200",
+    "title": "Wild Woman",
+    "artist": "Aerosmith, YUNGBLUD"
   }
 ]
