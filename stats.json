@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 337,
-    "music_entries": 310,
+    "total_entries": 341,
+    "music_entries": 314,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,6 +13,11 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
+        "plays": 3
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 3
       },
       {
@@ -48,11 +53,6 @@
       {
         "artist": "Kraftklub",
         "title": "Schief in jedem Chor",
-        "plays": 2
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -286,6 +286,11 @@
         "plays": 2
       },
       {
+        "artist": "Myles Smith",
+        "title": "Stay (If You Wanna Dance)",
+        "plays": 2
+      },
+      {
         "artist": "Johannes Oerding",
         "title": "Kreise",
         "plays": 2
@@ -383,6 +388,16 @@
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "Señorita",
+        "plays": 2
+      },
+      {
+        "artist": "Lauren Spencer-Smith",
+        "title": "Flowers",
+        "plays": 2
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
         "plays": 2
       },
       {
@@ -736,11 +751,6 @@
         "plays": 1
       },
       {
-        "artist": "Myles Smith",
-        "title": "Stay (If You Wanna Dance)",
-        "plays": 1
-      },
-      {
         "artist": "Built To Spill",
         "title": "Gonna Lose",
         "plays": 1
@@ -908,16 +918,6 @@
       {
         "artist": "Malik Harris",
         "title": "lie to me",
-        "plays": 1
-      },
-      {
-        "artist": "Lauren Spencer-Smith",
-        "title": "Flowers",
-        "plays": 1
-      },
-      {
-        "artist": "Lina",
-        "title": "Klippe",
         "plays": 1
       },
       {
