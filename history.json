@@ -3190,5 +3190,23 @@
     "played_at": "2026-09-06 11:20:28 +0200",
     "title": "Arcadia",
     "artist": "Lana Del Rey"
+  },
+  {
+    "key": "2026-09-06 11:26:13 +0200|Hot Bait|The Gems",
+    "played_at": "2026-09-06 11:26:13 +0200",
+    "title": "Hot Bait",
+    "artist": "The Gems"
+  },
+  {
+    "key": "2026-09-06 11:29:09 +0200|Vom Aufstehen bis zum Feierabend|Jingle",
+    "played_at": "2026-09-06 11:29:09 +0200",
+    "title": "Vom Aufstehen bis zum Feierabend",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-06 11:29:45 +0200|You Were Loved|Gryffin & OneRepublic",
+    "played_at": "2026-09-06 11:29:45 +0200",
+    "title": "You Were Loved",
+    "artist": "Gryffin & OneRepublic"
   }
 ]
