@@ -2,12 +2,17 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 376,
-    "music_entries": 346,
+    "total_entries": 378,
+    "music_entries": 348,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 4
+      },
+      {
+        "artist": "Milky Chance",
+        "title": "Synchronize",
         "plays": 4
       },
       {
@@ -33,11 +38,6 @@
       {
         "artist": "Mayberg",
         "title": "Der neue Stil meiner Generation",
-        "plays": 3
-      },
-      {
-        "artist": "Milky Chance",
-        "title": "Synchronize",
         "plays": 3
       },
       {
@@ -313,6 +313,11 @@
       {
         "artist": "Lost Frequencies & James Arthur",
         "title": "Questions",
+        "plays": 2
+      },
+      {
+        "artist": "LINKIN PARK & Kiiara",
+        "title": "Heavy",
         "plays": 2
       },
       {
@@ -933,11 +938,6 @@
       {
         "artist": "Joji",
         "title": "Love Me Better",
-        "plays": 1
-      },
-      {
-        "artist": "LINKIN PARK & Kiiara",
-        "title": "Heavy",
         "plays": 1
       },
       {

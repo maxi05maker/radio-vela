@@ -2254,5 +2254,17 @@
     "played_at": "2026-09-06 02:49:15 +0200",
     "title": "We Come Alive",
     "artist": "Jonathan Jeremiah & Till Bronner"
+  },
+  {
+    "key": "2026-09-06 02:55:17 +0200|Heavy|LINKIN PARK & Kiiara",
+    "played_at": "2026-09-06 02:55:17 +0200",
+    "title": "Heavy",
+    "artist": "LINKIN PARK & Kiiara"
+  },
+  {
+    "key": "2026-09-06 02:58:05 +0200|Synchronize|Milky Chance",
+    "played_at": "2026-09-06 02:58:05 +0200",
+    "title": "Synchronize",
+    "artist": "Milky Chance"
   }
 ]
