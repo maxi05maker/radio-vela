@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 176,
-    "music_entries": 161,
+    "total_entries": 179,
+    "music_entries": 164,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -783,6 +783,21 @@
       {
         "artist": "Alex Warren",
         "title": "FEVER DREAM",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
+        "plays": 1
+      },
+      {
+        "artist": "D4vd",
+        "title": "Here With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna",
+        "title": "Danceteria",
         "plays": 1
       }
     ],
