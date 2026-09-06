@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 134,
-    "music_entries": 122,
+    "total_entries": 139,
+    "music_entries": 127,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -603,6 +603,31 @@
       {
         "artist": "Nicki Minaj",
         "title": "Super Freaky Girl",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "High (feat. Claudia Valentina)",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey",
+        "title": "Kids In Love",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Sacrifice",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
+        "plays": 1
+      },
+      {
+        "artist": "Myles Smith",
+        "title": "Stay (If You Wanna Dance)",
         "plays": 1
       }
     ],
