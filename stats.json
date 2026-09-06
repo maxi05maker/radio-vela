@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 5,
-    "music_entries": 4,
+    "total_entries": 8,
+    "music_entries": 7,
     "songs": [
       {
         "artist": "CHAPO102 x GUSTAV",
@@ -23,6 +23,21 @@
       {
         "artist": "Farin Urlaub",
         "title": "Sie (Single Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Wrecked",
+        "plays": 1
+      },
+      {
+        "artist": "Avalon Emerson",
+        "title": "Eden",
         "plays": 1
       }
     ],
