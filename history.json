@@ -3226,5 +3226,17 @@
     "played_at": "2026-09-06 11:40:03 +0200",
     "title": "As It Was",
     "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-06 11:42:50 +0200|Abracadabra|Lady Gaga",
+    "played_at": "2026-09-06 11:42:50 +0200",
+    "title": "Abracadabra",
+    "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-06 11:47:20 +0200|Catch And Release (Deepend Remix)|Matt Simons",
+    "played_at": "2026-09-06 11:47:20 +0200",
+    "title": "Catch And Release (Deepend Remix)",
+    "artist": "Matt Simons"
   }
 ]
