@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 450,
-    "music_entries": 411,
+    "total_entries": 453,
+    "music_entries": 414,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -108,6 +108,11 @@
       {
         "artist": "Lizzo",
         "title": "Grrrls",
+        "plays": 3
+      },
+      {
+        "artist": "Aminé",
+        "title": "Charmander",
         "plays": 3
       },
       {
@@ -491,8 +496,8 @@
         "plays": 2
       },
       {
-        "artist": "Aminé",
-        "title": "Charmander",
+        "artist": "Alli Neumann",
+        "title": "Frei",
         "plays": 2
       },
       {
@@ -1186,11 +1191,6 @@
         "plays": 1
       },
       {
-        "artist": "Alli Neumann",
-        "title": "Frei",
-        "plays": 1
-      },
-      {
         "artist": "Damiano David, Tyla, Nile Rodgers",
         "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
         "plays": 1
@@ -1418,6 +1418,11 @@
       {
         "artist": "Harry Styles",
         "title": "American Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Blue",
+        "title": "Waste My Love",
         "plays": 1
       }
     ],

@@ -2698,5 +2698,23 @@
     "played_at": "2026-09-06 06:42:14 +0200",
     "title": "Something Human",
     "artist": "Muse"
+  },
+  {
+    "key": "2026-09-06 06:46:00 +0200|Waste My Love|Blue",
+    "played_at": "2026-09-06 06:46:00 +0200",
+    "title": "Waste My Love",
+    "artist": "Blue"
+  },
+  {
+    "key": "2026-09-06 06:49:01 +0200|Frei|Alli Neumann",
+    "played_at": "2026-09-06 06:49:01 +0200",
+    "title": "Frei",
+    "artist": "Alli Neumann"
+  },
+  {
+    "key": "2026-09-06 06:51:38 +0200|Charmander|Aminé",
+    "played_at": "2026-09-06 06:51:38 +0200",
+    "title": "Charmander",
+    "artist": "Aminé"
   }
 ]
