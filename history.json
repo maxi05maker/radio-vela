@@ -2140,5 +2140,23 @@
     "played_at": "2026-09-06 01:46:53 +0200",
     "title": "Dai Dai",
     "artist": "Shakira & Burna Boy"
+  },
+  {
+    "key": "2026-09-06 01:50:36 +0200|Loco Contigo|DJ Snake & J. Balvin Feat. Tyga",
+    "played_at": "2026-09-06 01:50:36 +0200",
+    "title": "Loco Contigo",
+    "artist": "DJ Snake & J. Balvin Feat. Tyga"
+  },
+  {
+    "key": "2026-09-06 01:53:40 +0200|Oxígeno|Alvaro Soler",
+    "played_at": "2026-09-06 01:53:40 +0200",
+    "title": "Oxígeno",
+    "artist": "Alvaro Soler"
+  },
+  {
+    "key": "2026-09-06 01:56:15 +0200|Cold Wars|Giant Rooks",
+    "played_at": "2026-09-06 01:56:15 +0200",
+    "title": "Cold Wars",
+    "artist": "Giant Rooks"
   }
 ]
