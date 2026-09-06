@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 139,
-    "music_entries": 127,
+    "total_entries": 144,
+    "music_entries": 132,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -628,6 +628,31 @@
       {
         "artist": "Myles Smith",
         "title": "Stay (If You Wanna Dance)",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kreise",
+        "plays": 1
+      },
+      {
+        "artist": "Built To Spill",
+        "title": "Gonna Lose",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "ADAC (feat. Tream)",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel X Jax Jones X Galatis",
+        "title": "Good Luck",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Easy On Me",
         "plays": 1
       }
     ],
