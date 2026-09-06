@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 307,
-    "music_entries": 281,
+    "total_entries": 309,
+    "music_entries": 283,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -211,6 +211,11 @@
         "plays": 2
       },
       {
+        "artist": "The Last Dinner Party",
+        "title": "The Scythe",
+        "plays": 2
+      },
+      {
         "artist": "Tiësto feat. Tate McRae",
         "title": "10:35",
         "plays": 2
@@ -273,6 +278,11 @@
       {
         "artist": "Kygo & Dean Lewis",
         "title": "Lost Without You (with Dean Lewis)",
+        "plays": 2
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
         "plays": 2
       },
       {
@@ -631,11 +641,6 @@
         "plays": 1
       },
       {
-        "artist": "The Last Dinner Party",
-        "title": "The Scythe",
-        "plays": 1
-      },
-      {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
         "plays": 1
@@ -753,11 +758,6 @@
       {
         "artist": "Yard Act",
         "title": "New Beginnings",
-        "plays": 1
-      },
-      {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
         "plays": 1
       },
       {
