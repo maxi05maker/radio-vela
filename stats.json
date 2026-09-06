@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 292,
-    "music_entries": 267,
+    "total_entries": 294,
+    "music_entries": 269,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1078,6 +1078,16 @@
       {
         "artist": "Shawn Mendes",
         "title": "Why Why Why",
+        "plays": 1
+      },
+      {
+        "artist": "Masters Of Reality",
+        "title": "Sugar",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Madonna Whore Komplex",
         "plays": 1
       }
     ],
