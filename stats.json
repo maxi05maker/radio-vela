@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 289,
-    "music_entries": 264,
+    "total_entries": 292,
+    "music_entries": 267,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -18,6 +18,11 @@
       {
         "artist": "Juice WRLD",
         "title": "Face 2 face",
+        "plays": 3
+      },
+      {
+        "artist": "Stormzy",
+        "title": "Mel Made Me Do It",
         "plays": 3
       },
       {
@@ -226,6 +231,11 @@
         "plays": 2
       },
       {
+        "artist": "Johannes Oerding",
+        "title": "Kreise",
+        "plays": 2
+      },
+      {
         "artist": "Nura",
         "title": "Ich War's Nicht",
         "plays": 2
@@ -233,11 +243,6 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
-        "plays": 2
-      },
-      {
-        "artist": "Stormzy",
-        "title": "Mel Made Me Do It",
         "plays": 2
       },
       {
@@ -643,11 +648,6 @@
       {
         "artist": "Myles Smith",
         "title": "Stay (If You Wanna Dance)",
-        "plays": 1
-      },
-      {
-        "artist": "Johannes Oerding",
-        "title": "Kreise",
         "plays": 1
       },
       {
@@ -1073,6 +1073,11 @@
       {
         "artist": "Five Finger Death Punch",
         "title": "The End",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Why Why Why",
         "plays": 1
       }
     ],
