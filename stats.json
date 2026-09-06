@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 413,
-    "music_entries": 379,
+    "total_entries": 416,
+    "music_entries": 382,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -376,6 +376,11 @@
         "plays": 2
       },
       {
+        "artist": "The Strumbellas",
+        "title": "Spirits",
+        "plays": 2
+      },
+      {
         "artist": "P!nk",
         "title": "Beautiful Trauma",
         "plays": 2
@@ -388,6 +393,11 @@
       {
         "artist": "Rita Ora",
         "title": "Let You Love Me",
+        "plays": 2
+      },
+      {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
         "plays": 2
       },
       {
@@ -1006,11 +1016,6 @@
         "plays": 1
       },
       {
-        "artist": "The Strumbellas",
-        "title": "Spirits",
-        "plays": 1
-      },
-      {
         "artist": "Alex Warren",
         "title": "FEVER DREAM",
         "plays": 1
@@ -1063,11 +1068,6 @@
       {
         "artist": "Electric Light Orchestra",
         "title": "Confusion",
-        "plays": 1
-      },
-      {
-        "artist": "LEA & Casper",
-        "title": "Schwarz",
         "plays": 1
       },
       {
@@ -1378,6 +1378,11 @@
       {
         "artist": "Teddy Swims",
         "title": "Mr. Know It All",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
         "plays": 1
       }
     ],
