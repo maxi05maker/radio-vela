@@ -2,12 +2,17 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 244,
-    "music_entries": 226,
+    "total_entries": 248,
+    "music_entries": 229,
     "songs": [
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 3
+      },
+      {
+        "artist": "Juice WRLD",
+        "title": "Face 2 face",
         "plays": 3
       },
       {
@@ -61,6 +66,11 @@
         "plays": 2
       },
       {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Black Summer",
+        "plays": 2
+      },
+      {
         "artist": "Mark Forster",
         "title": "Sowieso",
         "plays": 2
@@ -73,11 +83,6 @@
       {
         "artist": "Capital Cities",
         "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
-        "plays": 2
-      },
-      {
-        "artist": "Juice WRLD",
-        "title": "Face 2 face",
         "plays": 2
       },
       {
@@ -408,11 +413,6 @@
       {
         "artist": "Charli XCX",
         "title": "My Reminder",
-        "plays": 1
-      },
-      {
-        "artist": "Red Hot Chili Peppers",
-        "title": "Black Summer",
         "plays": 1
       },
       {
@@ -998,6 +998,11 @@
       {
         "artist": "Evanescence",
         "title": "Fight Like A Girl (feat. K.Flay)",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "House featuring John Cale",
         "plays": 1
       }
     ],
