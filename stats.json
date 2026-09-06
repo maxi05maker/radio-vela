@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 300,
-    "music_entries": 275,
+    "total_entries": 305,
+    "music_entries": 279,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -196,6 +196,11 @@
         "plays": 2
       },
       {
+        "artist": "OneRepublic",
+        "title": "West Coast",
+        "plays": 2
+      },
+      {
         "artist": "Pusha T",
         "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 2
@@ -236,6 +241,11 @@
         "plays": 2
       },
       {
+        "artist": "The Weeknd",
+        "title": "Sacrifice",
+        "plays": 2
+      },
+      {
         "artist": "Michael Schulte",
         "title": "Remember Me",
         "plays": 2
@@ -253,6 +263,11 @@
       {
         "artist": "Nura",
         "title": "Ich War's Nicht",
+        "plays": 2
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
         "plays": 2
       },
       {
@@ -606,11 +621,6 @@
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "West Coast",
-        "plays": 1
-      },
-      {
         "artist": "Zartmann",
         "title": "Weißt du überhaupt noch wer ich bin?",
         "plays": 1
@@ -643,11 +653,6 @@
       {
         "artist": "Rea Garvey",
         "title": "Kids In Love",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Sacrifice",
         "plays": 1
       },
       {
@@ -728,11 +733,6 @@
       {
         "artist": "Massive Attack x Tom Waits",
         "title": "Boots on the Ground",
-        "plays": 1
-      },
-      {
-        "artist": "Kygo & Dean Lewis",
-        "title": "Lost Without You (with Dean Lewis)",
         "plays": 1
       },
       {
@@ -1098,6 +1098,11 @@
       {
         "artist": "Madonna",
         "title": "I Feel So Free",
+        "plays": 1
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "OMG",
         "plays": 1
       }
     ],
