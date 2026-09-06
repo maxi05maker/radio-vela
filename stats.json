@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 428,
-    "music_entries": 391,
+    "total_entries": 431,
+    "music_entries": 393,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -413,6 +413,11 @@
       {
         "artist": "Rita Ora",
         "title": "Let You Love Me",
+        "plays": 2
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Perfect",
         "plays": 2
       },
       {
@@ -1041,11 +1046,6 @@
         "plays": 1
       },
       {
-        "artist": "Ed Sheeran",
-        "title": "Perfect",
-        "plays": 1
-      },
-      {
         "artist": "Eels",
         "title": "Goldy",
         "plays": 1
@@ -1398,6 +1398,11 @@
       {
         "artist": "Bebe Rexha & Faithless",
         "title": "New Religion",
+        "plays": 1
+      },
+      {
+        "artist": "Chaka Khan",
+        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
         "plays": 1
       }
     ],
