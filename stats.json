@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 436,
-    "music_entries": 398,
+    "total_entries": 439,
+    "music_entries": 400,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -226,6 +226,11 @@
         "plays": 2
       },
       {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 2
+      },
+      {
         "artist": "Olivia Rodrigo",
         "title": "Good 4 You",
         "plays": 2
@@ -438,6 +443,11 @@
       {
         "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
         "title": "Sommer",
+        "plays": 2
+      },
+      {
+        "artist": "Alle Farben & Ilira",
+        "title": "Fading",
         "plays": 2
       },
       {
@@ -831,11 +841,6 @@
         "plays": 1
       },
       {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
         "artist": "Luis Fonsi feat. Demi Lovato",
         "title": "Échame La Culpa",
         "plays": 1
@@ -1128,11 +1133,6 @@
       {
         "artist": "PinkPantheress",
         "title": "Illegal",
-        "plays": 1
-      },
-      {
-        "artist": "Alle Farben & Ilira",
-        "title": "Fading",
         "plays": 1
       },
       {

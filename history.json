@@ -2614,5 +2614,23 @@
     "played_at": "2026-09-06 05:58:11 +0200",
     "title": "My Universe",
     "artist": "Coldplay X BTS"
+  },
+  {
+    "key": "2026-09-06 06:01:58 +0200|Fading|Alle Farben & Ilira",
+    "played_at": "2026-09-06 06:01:58 +0200",
+    "title": "Fading",
+    "artist": "Alle Farben & Ilira"
+  },
+  {
+    "key": "2026-09-06 06:05:25 +0200|Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version|Tobee",
+    "played_at": "2026-09-06 06:05:25 +0200",
+    "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+    "artist": "Tobee"
+  },
+  {
+    "key": "2026-09-06 06:08:40 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-06 06:08:40 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
