@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 443,
-    "music_entries": 404,
+    "total_entries": 446,
+    "music_entries": 407,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -456,6 +456,11 @@
         "plays": 2
       },
       {
+        "artist": "Ozzy Osbourne",
+        "title": "Let Me Hear You Scream",
+        "plays": 2
+      },
+      {
         "artist": "Alle Farben & Ilira",
         "title": "Fading",
         "plays": 2
@@ -463,6 +468,11 @@
       {
         "artist": "Shirin David",
         "title": "Ich darf das",
+        "plays": 2
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Forget me",
         "plays": 2
       },
       {
@@ -1131,11 +1141,6 @@
         "plays": 1
       },
       {
-        "artist": "Ozzy Osbourne",
-        "title": "Let Me Hear You Scream",
-        "plays": 1
-      },
-      {
         "artist": "PinkPantheress",
         "title": "Illegal",
         "plays": 1
@@ -1168,11 +1173,6 @@
       {
         "artist": "Imagine Dragons",
         "title": "Wrecked",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Forget me",
         "plays": 1
       },
       {
@@ -1413,6 +1413,11 @@
       {
         "artist": "International Music",
         "title": "Im Sommer bin ich dein König",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "American Girls",
         "plays": 1
       }
     ],
