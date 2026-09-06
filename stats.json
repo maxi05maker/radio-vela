@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 234,
-    "music_entries": 216,
+    "total_entries": 235,
+    "music_entries": 217,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -63,6 +63,11 @@
       {
         "artist": "Nathan Evans",
         "title": "Told You So",
+        "plays": 2
+      },
+      {
+        "artist": "Capital Cities",
+        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
         "plays": 2
       },
       {
@@ -393,11 +398,6 @@
       {
         "artist": "FILLY",
         "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
-        "plays": 1
-      },
-      {
-        "artist": "Capital Cities",
-        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
         "plays": 1
       },
       {
