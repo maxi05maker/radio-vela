@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 228,
-    "music_entries": 210,
+    "total_entries": 231,
+    "music_entries": 213,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -43,6 +43,11 @@
       {
         "artist": "Kelvin Jones",
         "title": "Cry A Little Less",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Run",
         "plays": 2
       },
       {
@@ -363,11 +368,6 @@
       {
         "artist": "Ufo361 & Nina Chuba",
         "title": "LIEBE (feat. Nina Chuba) [Explicit]",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "Run",
         "plays": 1
       },
       {
@@ -968,6 +968,16 @@
       {
         "artist": "Die Nerven",
         "title": "BIS ANS MEER",
+        "plays": 1
+      },
+      {
+        "artist": "Ziggy in tha House",
+        "title": "It's Raining",
+        "plays": 1
+      },
+      {
+        "artist": "Lil Tjay",
+        "title": "In My Head",
         "plays": 1
       }
     ],
