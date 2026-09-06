@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 210,
-    "music_entries": 193,
+    "total_entries": 213,
+    "music_entries": 196,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -33,6 +33,16 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "Kelvin Jones",
+        "title": "Cry A Little Less",
+        "plays": 2
+      },
+      {
+        "artist": "Mia Morgan",
+        "title": "Jennifer Check",
         "plays": 2
       },
       {
@@ -331,11 +341,6 @@
         "plays": 1
       },
       {
-        "artist": "Kelvin Jones",
-        "title": "Cry A Little Less",
-        "plays": 1
-      },
-      {
         "artist": "Ufo361 & Nina Chuba",
         "title": "LIEBE (feat. Nina Chuba) [Explicit]",
         "plays": 1
@@ -343,11 +348,6 @@
       {
         "artist": "OneRepublic",
         "title": "Run",
-        "plays": 1
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Jennifer Check",
         "plays": 1
       },
       {
@@ -918,6 +918,11 @@
       {
         "artist": "Lina",
         "title": "Klippe",
+        "plays": 1
+      },
+      {
+        "artist": "Turnstile",
+        "title": "Birds",
         "plays": 1
       }
     ],
