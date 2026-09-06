@@ -3580,5 +3580,23 @@
     "played_at": "2026-09-06 14:40:08 +0200",
     "title": "Easy On Me",
     "artist": "Adele"
+  },
+  {
+    "key": "2026-09-06 14:43:46 +0200|Rollercoaster Of Life|The Pretty Reckless",
+    "played_at": "2026-09-06 14:43:46 +0200",
+    "title": "Rollercoaster Of Life",
+    "artist": "The Pretty Reckless"
+  },
+  {
+    "key": "2026-09-06 14:48:13 +0200|When You're Gone|Shawn Mendes",
+    "played_at": "2026-09-06 14:48:13 +0200",
+    "title": "When You're Gone",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-06 14:51:04 +0200|Ich War's Nicht|Nura",
+    "played_at": "2026-09-06 14:51:04 +0200",
+    "title": "Ich War's Nicht",
+    "artist": "Nura"
   }
 ]
