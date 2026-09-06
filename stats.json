@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 315,
-    "music_entries": 289,
+    "total_entries": 317,
+    "music_entries": 291,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -241,6 +241,11 @@
         "plays": 2
       },
       {
+        "artist": "Clueso",
+        "title": "Achterbahn",
+        "plays": 2
+      },
+      {
         "artist": "Nicki Minaj",
         "title": "Super Freaky Girl",
         "plays": 2
@@ -308,6 +313,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 2
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
         "plays": 2
       },
       {
@@ -666,11 +676,6 @@
         "plays": 1
       },
       {
-        "artist": "Clueso",
-        "title": "Achterbahn",
-        "plays": 1
-      },
-      {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
         "plays": 1
@@ -773,11 +778,6 @@
       {
         "artist": "Rosalía",
         "title": "La Perla (with Yahritza y su Esencia)",
-        "plays": 1
-      },
-      {
-        "artist": "Topic & A7S",
-        "title": "Kernkraft 400 (A Better Day)",
         "plays": 1
       },
       {
