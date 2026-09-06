@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 71,
-    "music_entries": 67,
+    "total_entries": 75,
+    "music_entries": 70,
     "songs": [
       {
         "artist": "CHAPO102 x GUSTAV",
@@ -338,6 +338,21 @@
       {
         "artist": "Red Hot Chili Peppers",
         "title": "Black Summer",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster",
+        "title": "Sowieso",
+        "plays": 1
+      },
+      {
+        "artist": "FILLY",
+        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
+        "plays": 1
+      },
+      {
+        "artist": "Nathan Evans",
+        "title": "Told You So",
         "plays": 1
       }
     ],
