@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 194,
-    "music_entries": 178,
+    "total_entries": 197,
+    "music_entries": 181,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,6 +13,11 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -203,11 +208,6 @@
       {
         "artist": "Shellac",
         "title": "Scabby the Rat",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -853,6 +853,16 @@
       {
         "artist": "Walking On Cars",
         "title": "Speeding Cars",
+        "plays": 1
+      },
+      {
+        "artist": "Jorja Smith",
+        "title": "The Way I Love You",
+        "plays": 1
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "Rockstars",
         "plays": 1
       }
     ],
