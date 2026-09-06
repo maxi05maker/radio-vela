@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 360,
-    "music_entries": 331,
+    "total_entries": 364,
+    "music_entries": 334,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -273,6 +273,16 @@
       {
         "artist": "DJ Snake & J. Balvin Feat. Tyga",
         "title": "Loco Contigo",
+        "plays": 2
+      },
+      {
+        "artist": "Florence + the Machine",
+        "title": "Shake It Out",
+        "plays": 2
+      },
+      {
+        "artist": "Pashanim",
+        "title": "Sommergewitter",
         "plays": 2
       },
       {
@@ -846,18 +856,8 @@
         "plays": 1
       },
       {
-        "artist": "Florence + the Machine",
-        "title": "Shake It Out",
-        "plays": 1
-      },
-      {
         "artist": "Charli xcx",
         "title": "House featuring John Cale",
-        "plays": 1
-      },
-      {
-        "artist": "Pashanim",
-        "title": "Sommergewitter",
         "plays": 1
       },
       {
@@ -1308,6 +1308,11 @@
       {
         "artist": "Giant Rooks",
         "title": "Cold Wars",
+        "plays": 1
+      },
+      {
+        "artist": "TEMPERS",
+        "title": "Who Says",
         "plays": 1
       }
     ],
