@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 160,
-    "music_entries": 146,
+    "total_entries": 163,
+    "music_entries": 149,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -18,6 +18,11 @@
       {
         "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
         "title": "Best Friend",
+        "plays": 2
+      },
+      {
+        "artist": "Juice WRLD",
+        "title": "Face 2 face",
         "plays": 2
       },
       {
@@ -363,11 +368,6 @@
       {
         "artist": "One-T, YWY, Nika",
         "title": "The Way To Love (feat. YWY, Nika)",
-        "plays": 1
-      },
-      {
-        "artist": "Juice WRLD",
-        "title": "Face 2 face",
         "plays": 1
       },
       {
@@ -718,6 +718,16 @@
       {
         "artist": "Massive Attack x Tom Waits",
         "title": "Boots on the Ground",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Retrosonix",
+        "title": "Ghost Town",
         "plays": 1
       }
     ],
