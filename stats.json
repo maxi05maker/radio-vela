@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 125,
-    "music_entries": 114,
+    "total_entries": 130,
+    "music_entries": 119,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -563,6 +563,31 @@
       {
         "artist": "Tiësto feat. Tate McRae",
         "title": "10:35",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Real Face",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit & Anne-Marie & David Guetta",
+        "title": "Cry Baby (SUNSHINE-BANGER)",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
         "plays": 1
       }
     ],
