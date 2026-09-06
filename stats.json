@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 411,
-    "music_entries": 377,
+    "total_entries": 413,
+    "music_entries": 379,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -383,6 +383,16 @@
       {
         "artist": "ScHoolboy Q",
         "title": "Soccer Dad",
+        "plays": 2
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 2
+      },
+      {
+        "artist": "Aminé",
+        "title": "Charmander",
         "plays": 2
       },
       {
@@ -1021,11 +1031,6 @@
         "plays": 1
       },
       {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
-        "plays": 1
-      },
-      {
         "artist": "Ed Sheeran",
         "title": "Perfect",
         "plays": 1
@@ -1278,11 +1283,6 @@
       {
         "artist": "Sarah Connor & Sido",
         "title": "Interstellar (Zwischen den Sternen)",
-        "plays": 1
-      },
-      {
-        "artist": "Aminé",
-        "title": "Charmander",
         "plays": 1
       },
       {
