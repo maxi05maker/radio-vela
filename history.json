@@ -4228,5 +4228,23 @@
     "played_at": "2026-09-06 20:32:16 +0200",
     "title": "Finally",
     "artist": "Swedish House Mafia  (feat. Alicia Keys)"
+  },
+  {
+    "key": "2026-09-06 20:36:18 +0200|Whatever|Cro",
+    "played_at": "2026-09-06 20:36:18 +0200",
+    "title": "Whatever",
+    "artist": "Cro"
+  },
+  {
+    "key": "2026-09-06 20:39:31 +0200|Raindrops (feat. Leony)|Katja Krasavice",
+    "played_at": "2026-09-06 20:39:31 +0200",
+    "title": "Raindrops (feat. Leony)",
+    "artist": "Katja Krasavice"
+  },
+  {
+    "key": "2026-09-06 20:41:50 +0200|This Is Tokyo|Helloween",
+    "played_at": "2026-09-06 20:41:50 +0200",
+    "title": "This Is Tokyo",
+    "artist": "Helloween"
   }
 ]
