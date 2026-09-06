@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 349,
-    "music_entries": 321,
+    "total_entries": 351,
+    "music_entries": 323,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -168,6 +168,11 @@
       {
         "artist": "Katy Perry",
         "title": "Firework",
+        "plays": 2
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Sharks",
         "plays": 2
       },
       {
@@ -721,11 +726,6 @@
         "plays": 1
       },
       {
-        "artist": "Imagine Dragons",
-        "title": "Sharks",
-        "plays": 1
-      },
-      {
         "artist": "Hurts/Purple Disco Machine",
         "title": "Wonderful Life '25",
         "plays": 1
@@ -1148,6 +1148,11 @@
       {
         "artist": "Arlo Parks",
         "title": "Beams",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla",
+        "title": "Tyla - IS IT",
         "plays": 1
       }
     ],
