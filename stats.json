@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 312,
-    "music_entries": 286,
+    "total_entries": 315,
+    "music_entries": 289,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -133,6 +133,11 @@
       {
         "artist": "Cro",
         "title": "Whatever",
+        "plays": 2
+      },
+      {
+        "artist": "James Arthur & You Me At Six",
+        "title": "Lose My Mind",
         "plays": 2
       },
       {
@@ -283,6 +288,11 @@
       {
         "artist": "Emiliana Torrini",
         "title": "Jungle Drum",
+        "plays": 2
+      },
+      {
+        "artist": "Mabel",
+        "title": "Mad Love",
         "plays": 2
       },
       {
@@ -601,11 +611,6 @@
         "plays": 1
       },
       {
-        "artist": "James Arthur & You Me At Six",
-        "title": "Lose My Mind",
-        "plays": 1
-      },
-      {
         "artist": "Robin Schulz feat. CLOVES",
         "title": "Old Friend (Radio Edit)",
         "plays": 1
@@ -753,11 +758,6 @@
       {
         "artist": "Purple Disco Machine feat. Retrosonix",
         "title": "Ghost Town",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel",
-        "title": "Mad Love",
         "plays": 1
       },
       {
@@ -1113,6 +1113,11 @@
       {
         "artist": "Calum Scott",
         "title": "My World",
+        "plays": 1
+      },
+      {
+        "artist": "Fynn Kliemann",
+        "title": "TOD",
         "plays": 1
       }
     ],
