@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 266,
-    "music_entries": 245,
+    "total_entries": 270,
+    "music_entries": 248,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -163,6 +163,16 @@
       {
         "artist": "Pusha T",
         "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
+        "plays": 2
+      },
+      {
+        "artist": "Lena",
+        "title": "Thank You",
+        "plays": 2
+      },
+      {
+        "artist": "Tiësto feat. Tate McRae",
+        "title": "10:35",
         "plays": 2
       },
       {
@@ -571,18 +581,8 @@
         "plays": 1
       },
       {
-        "artist": "Lena",
-        "title": "Thank You",
-        "plays": 1
-      },
-      {
         "artist": "The Last Dinner Party",
         "title": "The Scythe",
-        "plays": 1
-      },
-      {
-        "artist": "Tiësto feat. Tate McRae",
-        "title": "10:35",
         "plays": 1
       },
       {
@@ -1038,6 +1038,11 @@
       {
         "artist": "Shawn Mendes",
         "title": "Heart Of Gold",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Hypaton, Bonnie Tyler",
+        "title": "Together",
         "plays": 1
       }
     ],
