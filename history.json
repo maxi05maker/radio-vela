@@ -2926,5 +2926,23 @@
     "played_at": "2026-09-06 08:56:54 +0200",
     "title": "Dance Monkey",
     "artist": "Tones and I"
+  },
+  {
+    "key": "2026-09-06 09:00:22 +0200|Scabby the Rat|Shellac",
+    "played_at": "2026-09-06 09:00:22 +0200",
+    "title": "Scabby the Rat",
+    "artist": "Shellac"
+  },
+  {
+    "key": "2026-09-06 09:02:06 +0200|Small Steps|Tom Gregory",
+    "played_at": "2026-09-06 09:02:06 +0200",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-09-06 09:04:52 +0200|Here Goes Nothing|Michael Schulte",
+    "played_at": "2026-09-06 09:04:52 +0200",
+    "title": "Here Goes Nothing",
+    "artist": "Michael Schulte"
   }
 ]

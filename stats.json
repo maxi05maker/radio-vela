@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 35,
-    "music_entries": 33,
+    "total_entries": 38,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "CHAPO102 x GUSTAV",
@@ -168,6 +168,21 @@
       {
         "artist": "Tones and I",
         "title": "Dance Monkey",
+        "plays": 1
+      },
+      {
+        "artist": "Shellac",
+        "title": "Scabby the Rat",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
         "plays": 1
       }
     ],
