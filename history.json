@@ -4384,5 +4384,23 @@
     "played_at": "2026-09-06 21:46:20 +0200",
     "title": "I Feel It Coming",
     "artist": "The Weeknd (feat. Daft Punk)"
+  },
+  {
+    "key": "2026-09-06 21:50:49 +0200|High (feat. Claudia Valentina)|CRO",
+    "played_at": "2026-09-06 21:50:49 +0200",
+    "title": "High (feat. Claudia Valentina)",
+    "artist": "CRO"
+  },
+  {
+    "key": "2026-09-06 21:53:37 +0200|Tunnels|Finn Wolfhard",
+    "played_at": "2026-09-06 21:53:37 +0200",
+    "title": "Tunnels",
+    "artist": "Finn Wolfhard"
+  },
+  {
+    "key": "2026-09-06 21:56:25 +0200|Someone You Loved|Lewis Capaldi",
+    "played_at": "2026-09-06 21:56:25 +0200",
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi"
   }
 ]

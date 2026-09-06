@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 278,
-    "music_entries": 255,
+    "total_entries": 281,
+    "music_entries": 258,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -191,8 +191,18 @@
         "plays": 2
       },
       {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "plays": 2
+      },
+      {
         "artist": "Nicki Minaj",
         "title": "Super Freaky Girl",
+        "plays": 2
+      },
+      {
+        "artist": "CRO",
+        "title": "High (feat. Claudia Valentina)",
         "plays": 2
       },
       {
@@ -596,11 +606,6 @@
         "plays": 1
       },
       {
-        "artist": "Lewis Capaldi",
-        "title": "Someone You Loved",
-        "plays": 1
-      },
-      {
         "artist": "Clean Bandit & Anne-Marie & David Guetta",
         "title": "Cry Baby (SUNSHINE-BANGER)",
         "plays": 1
@@ -618,11 +623,6 @@
       {
         "artist": "Shakira & Burna Boy",
         "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "High (feat. Claudia Valentina)",
         "plays": 1
       },
       {
@@ -1058,6 +1058,11 @@
       {
         "artist": "BTS",
         "title": "SWIM",
+        "plays": 1
+      },
+      {
+        "artist": "Finn Wolfhard",
+        "title": "Tunnels",
         "plays": 1
       }
     ],
