@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 395,
-    "music_entries": 363,
+    "total_entries": 397,
+    "music_entries": 365,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -301,6 +301,11 @@
         "plays": 2
       },
       {
+        "artist": "Drangsal",
+        "title": "Urlaub Von Mir",
+        "plays": 2
+      },
+      {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
         "plays": 2
@@ -323,6 +328,11 @@
       {
         "artist": "Lost Frequencies & James Arthur",
         "title": "Questions",
+        "plays": 2
+      },
+      {
+        "artist": "Revolverheld feat. Antje Schomaker",
+        "title": "Liebe auf Distanz",
         "plays": 2
       },
       {
@@ -911,11 +921,6 @@
         "plays": 1
       },
       {
-        "artist": "Drangsal",
-        "title": "Urlaub Von Mir",
-        "plays": 1
-      },
-      {
         "artist": "AYLIVA",
         "title": "Renn!",
         "plays": 1
@@ -948,11 +953,6 @@
       {
         "artist": "Charli xcx",
         "title": "SS26",
-        "plays": 1
-      },
-      {
-        "artist": "Revolverheld feat. Antje Schomaker",
-        "title": "Liebe auf Distanz",
         "plays": 1
       },
       {
