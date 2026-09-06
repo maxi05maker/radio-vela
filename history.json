@@ -2824,5 +2824,41 @@
     "played_at": "2026-09-06 08:01:48 +0200",
     "title": "Mañana",
     "artist": "Alvaro Soler feat. Cali Y El Dandee"
+  },
+  {
+    "key": "2026-09-06 08:05:20 +0200|I Don't Care|Kyle Pearce",
+    "played_at": "2026-09-06 08:05:20 +0200",
+    "title": "I Don't Care",
+    "artist": "Kyle Pearce"
+  },
+  {
+    "key": "2026-09-06 08:08:30 +0200|Schief in jedem Chor|Kraftklub",
+    "played_at": "2026-09-06 08:08:30 +0200",
+    "title": "Schief in jedem Chor",
+    "artist": "Kraftklub"
+  },
+  {
+    "key": "2026-09-06 08:11:36 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-06 08:11:36 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-06 08:14:29 +0200|Throwback|Michael Patrick Kelly",
+    "played_at": "2026-09-06 08:14:29 +0200",
+    "title": "Throwback",
+    "artist": "Michael Patrick Kelly"
+  },
+  {
+    "key": "2026-09-06 08:16:58 +0200|Skinny Ape|Gorillaz",
+    "played_at": "2026-09-06 08:16:58 +0200",
+    "title": "Skinny Ape",
+    "artist": "Gorillaz"
+  },
+  {
+    "key": "2026-09-06 08:21:40 +0200|The Line|Twenty One Pilots",
+    "played_at": "2026-09-06 08:21:40 +0200",
+    "title": "The Line",
+    "artist": "Twenty One Pilots"
   }
 ]

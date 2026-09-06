@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 18,
-    "music_entries": 17,
+    "total_entries": 24,
+    "music_entries": 22,
     "songs": [
       {
         "artist": "CHAPO102 x GUSTAV",
@@ -88,6 +88,31 @@
       {
         "artist": "Alvaro Soler feat. Cali Y El Dandee",
         "title": "Mañana",
+        "plays": 1
+      },
+      {
+        "artist": "Kyle Pearce",
+        "title": "I Don't Care",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Schief in jedem Chor",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "Skinny Ape",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Line",
         "plays": 1
       }
     ],
