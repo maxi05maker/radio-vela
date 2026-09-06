@@ -4618,5 +4618,23 @@
     "played_at": "2026-09-06 23:56:17 +0200",
     "title": "Achterbahn",
     "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-06 23:59:48 +0200|CASA CUBA|Cave, Amo",
+    "played_at": "2026-09-06 23:59:48 +0200",
+    "title": "CASA CUBA",
+    "artist": "Cave, Amo"
+  },
+  {
+    "key": "2026-09-07 00:02:29 +0200|Part Of The Band|The 1975",
+    "played_at": "2026-09-07 00:02:29 +0200",
+    "title": "Part Of The Band",
+    "artist": "The 1975"
+  },
+  {
+    "key": "2026-09-07 00:06:50 +0200|Monster|Alli Neumann",
+    "played_at": "2026-09-07 00:06:50 +0200",
+    "title": "Monster",
+    "artist": "Alli Neumann"
   }
 ]
