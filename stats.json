@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 54,
-    "music_entries": 51,
+    "total_entries": 59,
+    "music_entries": 55,
     "songs": [
       {
         "artist": "CHAPO102 x GUSTAV",
@@ -258,6 +258,26 @@
       {
         "artist": "Dua Lipa",
         "title": "Physical",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Mehr Glück als Verstand",
+        "plays": 1
+      },
+      {
+        "artist": "Billy Idol",
+        "title": "Bitter Taste",
+        "plays": 1
+      },
+      {
+        "artist": "Pashanim",
+        "title": "Sommergewitter",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
         "plays": 1
       }
     ],
