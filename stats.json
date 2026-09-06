@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 179,
-    "music_entries": 164,
+    "total_entries": 180,
+    "music_entries": 165,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -798,6 +798,11 @@
       {
         "artist": "Madonna",
         "title": "Danceteria",
+        "plays": 1
+      },
+      {
+        "artist": "Stormzy",
+        "title": "Mel Made Me Do It",
         "plays": 1
       }
     ],
