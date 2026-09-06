@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 294,
-    "music_entries": 269,
+    "total_entries": 296,
+    "music_entries": 271,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,6 +13,11 @@
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
+        "plays": 3
+      },
+      {
+        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
+        "title": "Best Friend",
         "plays": 3
       },
       {
@@ -38,11 +43,6 @@
       {
         "artist": "Armin van Buuren, Malou",
         "title": "Everything I Wanted",
-        "plays": 2
-      },
-      {
-        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
-        "title": "Best Friend",
         "plays": 2
       },
       {
@@ -118,6 +118,11 @@
       {
         "artist": "Radio Karen",
         "title": "Die Beste Musik Nonstop",
+        "plays": 2
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
         "plays": 2
       },
       {
@@ -538,11 +543,6 @@
       {
         "artist": "Lady Gaga",
         "title": "Abracadabra",
-        "plays": 1
-      },
-      {
-        "artist": "Bruce Springsteen",
-        "title": "Streets Of Minneapolis",
         "plays": 1
       },
       {
