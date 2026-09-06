@@ -3130,5 +3130,17 @@
     "played_at": "2026-09-06 10:47:45 +0200",
     "title": "Jennifer Check",
     "artist": "Mia Morgan"
+  },
+  {
+    "key": "2026-09-06 10:51:42 +0200|My Reminder|Charli XCX",
+    "played_at": "2026-09-06 10:51:42 +0200",
+    "title": "My Reminder",
+    "artist": "Charli XCX"
+  },
+  {
+    "key": "2026-09-06 10:55:15 +0200|Black Summer|Red Hot Chili Peppers",
+    "played_at": "2026-09-06 10:55:15 +0200",
+    "title": "Black Summer",
+    "artist": "Red Hot Chili Peppers"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 69,
-    "music_entries": 65,
+    "total_entries": 71,
+    "music_entries": 67,
     "songs": [
       {
         "artist": "CHAPO102 x GUSTAV",
@@ -328,6 +328,16 @@
       {
         "artist": "Mia Morgan",
         "title": "Jennifer Check",
+        "plays": 1
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "My Reminder",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Black Summer",
         "plays": 1
       }
     ],
