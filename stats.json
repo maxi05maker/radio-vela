@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 90,
-    "music_entries": 84,
+    "total_entries": 96,
+    "music_entries": 89,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -418,6 +418,31 @@
       {
         "artist": "Ed Sheeran",
         "title": "Bad Habits",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Whatever",
+        "plays": 1
+      },
+      {
+        "artist": "Saja Boys",
+        "title": "Soda Pop",
+        "plays": 1
+      },
+      {
+        "artist": "James Arthur & You Me At Six",
+        "title": "Lose My Mind",
+        "plays": 1
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. CLOVES",
+        "title": "Old Friend (Radio Edit)",
         "plays": 1
       }
     ],

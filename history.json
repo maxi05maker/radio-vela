@@ -3256,5 +3256,41 @@
     "played_at": "2026-09-06 11:55:12 +0200",
     "title": "Bad Habits",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-06 11:59:03 +0200|Whatever|Cro",
+    "played_at": "2026-09-06 11:59:03 +0200",
+    "title": "Whatever",
+    "artist": "Cro"
+  },
+  {
+    "key": "2026-09-06 12:02:16 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-06 12:02:16 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-06 12:05:07 +0200|Soda Pop|Saja Boys",
+    "played_at": "2026-09-06 12:05:07 +0200",
+    "title": "Soda Pop",
+    "artist": "Saja Boys"
+  },
+  {
+    "key": "2026-09-06 12:07:34 +0200|Lose My Mind|James Arthur & You Me At Six",
+    "played_at": "2026-09-06 12:07:34 +0200",
+    "title": "Lose My Mind",
+    "artist": "James Arthur & You Me At Six"
+  },
+  {
+    "key": "2026-09-06 12:10:54 +0200|Slow It Down|Benson Boone",
+    "played_at": "2026-09-06 12:10:54 +0200",
+    "title": "Slow It Down",
+    "artist": "Benson Boone"
+  },
+  {
+    "key": "2026-09-06 12:13:36 +0200|Old Friend (Radio Edit)|Robin Schulz feat. CLOVES",
+    "played_at": "2026-09-06 12:13:36 +0200",
+    "title": "Old Friend (Radio Edit)",
+    "artist": "Robin Schulz feat. CLOVES"
   }
 ]
