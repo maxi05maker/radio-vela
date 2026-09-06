@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 130,
-    "music_entries": 119,
+    "total_entries": 134,
+    "music_entries": 122,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -588,6 +588,21 @@
       {
         "artist": "Justin Jesso",
         "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Achterbahn",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Super Freaky Girl",
         "plays": 1
       }
     ],
