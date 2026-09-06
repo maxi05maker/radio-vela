@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 260,
-    "music_entries": 240,
+    "total_entries": 263,
+    "music_entries": 243,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -121,6 +121,11 @@
         "plays": 2
       },
       {
+        "artist": "Katy Perry",
+        "title": "Firework",
+        "plays": 2
+      },
+      {
         "artist": "Rita Ora",
         "title": "Let You Love Me",
         "plays": 2
@@ -128,6 +133,11 @@
       {
         "artist": "Starley",
         "title": "Call on Me",
+        "plays": 2
+      },
+      {
+        "artist": "Ravi Kuma",
+        "title": "Backbone",
         "plays": 2
       },
       {
@@ -506,11 +516,6 @@
         "plays": 1
       },
       {
-        "artist": "Katy Perry",
-        "title": "Firework",
-        "plays": 1
-      },
-      {
         "artist": "Imagine Dragons",
         "title": "Sharks",
         "plays": 1
@@ -523,11 +528,6 @@
       {
         "artist": "Twenty One Pilots",
         "title": "Drum Show",
-        "plays": 1
-      },
-      {
-        "artist": "Ravi Kuma",
-        "title": "Backbone",
         "plays": 1
       },
       {
@@ -1028,6 +1028,11 @@
       {
         "artist": "Ennio",
         "title": "Fühlst du gar nichts? feat. Nina Chuba",
+        "plays": 1
+      },
+      {
+        "artist": "Lucinda Williams",
+        "title": "Low Life",
         "plays": 1
       }
     ],
