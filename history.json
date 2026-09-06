@@ -2344,5 +2344,29 @@
     "played_at": "2026-09-06 03:39:53 +0200",
     "title": "Natural",
     "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-06 03:43:02 +0200|Make You Mine|Madison Beer",
+    "played_at": "2026-09-06 03:43:02 +0200",
+    "title": "Make You Mine",
+    "artist": "Madison Beer"
+  },
+  {
+    "key": "2026-09-06 03:46:44 +0200|Treat You Better|Shawn Mendes",
+    "played_at": "2026-09-06 03:46:44 +0200",
+    "title": "Treat You Better",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-06 03:49:52 +0200|Die beste Musik aus allen Jahrzenten|Jingle",
+    "played_at": "2026-09-06 03:49:52 +0200",
+    "title": "Die beste Musik aus allen Jahrzenten",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-06 03:50:27 +0200|DREAMING ON|Paul Kalkbrenner",
+    "played_at": "2026-09-06 03:50:27 +0200",
+    "title": "DREAMING ON",
+    "artist": "Paul Kalkbrenner"
   }
 ]

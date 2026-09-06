@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 391,
-    "music_entries": 360,
+    "total_entries": 395,
+    "music_entries": 363,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -343,6 +343,11 @@
       {
         "artist": "Juju feat. Henning May",
         "title": "Vermissen",
+        "plays": 2
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Treat You Better",
         "plays": 2
       },
       {
@@ -981,11 +986,6 @@
         "plays": 1
       },
       {
-        "artist": "Shawn Mendes",
-        "title": "Treat You Better",
-        "plays": 1
-      },
-      {
         "artist": "Johannes Oerding",
         "title": "Kreise",
         "plays": 1
@@ -1348,6 +1348,16 @@
       {
         "artist": "Jill Scott",
         "title": "BPOTY (feat. Too $hort)",
+        "plays": 1
+      },
+      {
+        "artist": "Madison Beer",
+        "title": "Make You Mine",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "DREAMING ON",
         "plays": 1
       }
     ],
