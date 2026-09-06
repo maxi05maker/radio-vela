@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 213,
-    "music_entries": 196,
+    "total_entries": 216,
+    "music_entries": 199,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -33,6 +33,11 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "WILLOW",
+        "title": "it's my fault",
         "plays": 2
       },
       {
@@ -333,11 +338,6 @@
       {
         "artist": "Juju",
         "title": "DUMM",
-        "plays": 1
-      },
-      {
-        "artist": "WILLOW",
-        "title": "it's my fault",
         "plays": 1
       },
       {
@@ -923,6 +923,16 @@
       {
         "artist": "Turnstile",
         "title": "Birds",
+        "plays": 1
+      },
+      {
+        "artist": "LISA FEAT. DOJA CAT & RAYE",
+        "title": "BORN AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "We Are Scientists",
+        "title": "Less from You",
         "plays": 1
       }
     ],
