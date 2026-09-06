@@ -4054,5 +4054,17 @@
     "played_at": "2026-09-06 18:55:36 +0200",
     "title": "Daisies",
     "artist": "Justin Bieber"
+  },
+  {
+    "key": "2026-09-06 18:58:31 +0200|Arcadia|Lana Del Rey",
+    "played_at": "2026-09-06 18:58:31 +0200",
+    "title": "Arcadia",
+    "artist": "Lana Del Rey"
+  },
+  {
+    "key": "2026-09-06 19:04:16 +0200|Boyfriend|Dove Cameron",
+    "played_at": "2026-09-06 19:04:16 +0200",
+    "title": "Boyfriend",
+    "artist": "Dove Cameron"
   }
 ]

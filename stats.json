@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 223,
-    "music_entries": 206,
+    "total_entries": 225,
+    "music_entries": 208,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -58,6 +58,11 @@
       {
         "artist": "Juice WRLD",
         "title": "Face 2 face",
+        "plays": 2
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Arcadia",
         "plays": 2
       },
       {
@@ -388,11 +393,6 @@
       {
         "artist": "One-T, YWY, Nika",
         "title": "The Way To Love (feat. YWY, Nika)",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Arcadia",
         "plays": 1
       },
       {
@@ -958,6 +958,11 @@
       {
         "artist": "Justin Bieber",
         "title": "Daisies",
+        "plays": 1
+      },
+      {
+        "artist": "Dove Cameron",
+        "title": "Boyfriend",
         "plays": 1
       }
     ],
