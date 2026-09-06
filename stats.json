@@ -2,12 +2,17 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 235,
-    "music_entries": 217,
+    "total_entries": 237,
+    "music_entries": 219,
     "songs": [
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 2
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Schief in jedem Chor",
         "plays": 2
       },
       {
@@ -193,11 +198,6 @@
       {
         "artist": "Kyle Pearce",
         "title": "I Don't Care",
-        "plays": 1
-      },
-      {
-        "artist": "Kraftklub",
-        "title": "Schief in jedem Chor",
         "plays": 1
       },
       {
@@ -983,6 +983,11 @@
       {
         "artist": "Lola Young",
         "title": "One Thing",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Overpass Graffiti",
         "plays": 1
       }
     ],
