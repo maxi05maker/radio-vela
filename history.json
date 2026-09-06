@@ -3004,5 +3004,17 @@
     "played_at": "2026-09-06 09:38:54 +0200",
     "title": "Best Friend",
     "artist": "Saweetie Feat. Doja Cat & Katja Krasavice"
+  },
+  {
+    "key": "2026-09-06 09:42:20 +0200|petal|Ariana Grande",
+    "played_at": "2026-09-06 09:42:20 +0200",
+    "title": "petal",
+    "artist": "Ariana Grande"
+  },
+  {
+    "key": "2026-09-06 09:45:24 +0200|Shake It Out|Florence + the Machine",
+    "played_at": "2026-09-06 09:45:24 +0200",
+    "title": "Shake It Out",
+    "artist": "Florence + the Machine"
   }
 ]

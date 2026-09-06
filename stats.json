@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 48,
-    "music_entries": 45,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "CHAPO102 x GUSTAV",
@@ -228,6 +228,16 @@
       {
         "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
         "title": "Best Friend",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "petal",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + the Machine",
+        "title": "Shake It Out",
         "plays": 1
       }
     ],
