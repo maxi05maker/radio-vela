@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 296,
-    "music_entries": 271,
+    "total_entries": 298,
+    "music_entries": 273,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -238,6 +238,11 @@
       {
         "artist": "Johannes Oerding",
         "title": "Kreise",
+        "plays": 2
+      },
+      {
+        "artist": "Mabel X Jax Jones X Galatis",
+        "title": "Good Luck",
         "plays": 2
       },
       {
@@ -658,11 +663,6 @@
       {
         "artist": "SDP",
         "title": "ADAC (feat. Tream)",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel X Jax Jones X Galatis",
-        "title": "Good Luck",
         "plays": 1
       },
       {
@@ -1088,6 +1088,11 @@
       {
         "artist": "Alli Neumann",
         "title": "Madonna Whore Komplex",
+        "plays": 1
+      },
+      {
+        "artist": "Frank Popp Ensemble",
+        "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
         "plays": 1
       }
     ],
