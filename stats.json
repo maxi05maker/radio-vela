@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 255,
-    "music_entries": 236,
+    "total_entries": 258,
+    "music_entries": 238,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -128,6 +128,11 @@
       {
         "artist": "Katja Krasavice",
         "title": "Raindrops (feat. Leony)",
+        "plays": 2
+      },
+      {
+        "artist": "SDP",
+        "title": "Du hast gehofft",
         "plays": 2
       },
       {
@@ -528,11 +533,6 @@
       {
         "artist": "Gracie Abrams",
         "title": "Hit the Wall",
-        "plays": 1
-      },
-      {
-        "artist": "SDP",
-        "title": "Du hast gehofft",
         "plays": 1
       },
       {
@@ -1023,6 +1023,11 @@
       {
         "artist": "Helloween",
         "title": "This Is Tokyo",
+        "plays": 1
+      },
+      {
+        "artist": "Ennio",
+        "title": "Fühlst du gar nichts? feat. Nina Chuba",
         "plays": 1
       }
     ],

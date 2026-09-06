@@ -4246,5 +4246,23 @@
     "played_at": "2026-09-06 20:41:50 +0200",
     "title": "This Is Tokyo",
     "artist": "Helloween"
+  },
+  {
+    "key": "2026-09-06 20:46:04 +0200|Du hast gehofft|SDP",
+    "played_at": "2026-09-06 20:46:04 +0200",
+    "title": "Du hast gehofft",
+    "artist": "SDP"
+  },
+  {
+    "key": "2026-09-06 20:49:45 +0200|Vom Aufstehen bis zum Feierabend|Jingle",
+    "played_at": "2026-09-06 20:49:45 +0200",
+    "title": "Vom Aufstehen bis zum Feierabend",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-06 20:50:21 +0200|Fühlst du gar nichts? feat. Nina Chuba|Ennio",
+    "played_at": "2026-09-06 20:50:21 +0200",
+    "title": "Fühlst du gar nichts? feat. Nina Chuba",
+    "artist": "Ennio"
   }
 ]
