@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 330,
-    "music_entries": 303,
+    "total_entries": 332,
+    "music_entries": 305,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -298,6 +298,11 @@
       {
         "artist": "Nura",
         "title": "Ich War's Nicht",
+        "plays": 2
+      },
+      {
+        "artist": "Phoenix",
+        "title": "Alpha Zulu",
         "plays": 2
       },
       {
@@ -771,11 +776,6 @@
         "plays": 1
       },
       {
-        "artist": "Phoenix",
-        "title": "Alpha Zulu",
-        "plays": 1
-      },
-      {
         "artist": "Michael Schulte",
         "title": "Broken Sunshine",
         "plays": 1
@@ -1123,6 +1123,11 @@
       {
         "artist": "Cave, Amo",
         "title": "CASA CUBA",
+        "plays": 1
+      },
+      {
+        "artist": "Missink",
+        "title": "DGAF",
         "plays": 1
       }
     ],
