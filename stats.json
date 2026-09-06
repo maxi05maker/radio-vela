@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 248,
-    "music_entries": 229,
+    "total_entries": 252,
+    "music_entries": 233,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -113,6 +113,11 @@
       {
         "artist": "Rita Ora",
         "title": "Let You Love Me",
+        "plays": 2
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
         "plays": 2
       },
       {
@@ -513,11 +518,6 @@
       {
         "artist": "Ravi Kuma",
         "title": "Backbone",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Out Of Time",
         "plays": 1
       },
       {
@@ -1003,6 +1003,21 @@
       {
         "artist": "Charli xcx",
         "title": "House featuring John Cale",
+        "plays": 1
+      },
+      {
+        "artist": "Trettmann",
+        "title": "Haus Aus Zink feat. Luna",
+        "plays": 1
+      },
+      {
+        "artist": "Phoenix feat. Ezra Koenig",
+        "title": "Tonight (feat. Ezra Koenig)",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia  (feat. Alicia Keys)",
+        "title": "Finally",
         "plays": 1
       }
     ],
