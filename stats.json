@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 403,
-    "music_entries": 370,
+    "total_entries": 407,
+    "music_entries": 374,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -81,8 +81,18 @@
         "plays": 3
       },
       {
+        "artist": "1986zig",
+        "title": "Kopf aus",
+        "plays": 3
+      },
+      {
         "artist": "CRO",
         "title": "High (feat. Claudia Valentina)",
+        "plays": 3
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
         "plays": 3
       },
       {
@@ -206,11 +216,6 @@
         "plays": 2
       },
       {
-        "artist": "1986zig",
-        "title": "Kopf aus",
-        "plays": 2
-      },
-      {
         "artist": "Gestört Aber GeiL x SkinnyJewlz",
         "title": "Wenn du da bist",
         "plays": 2
@@ -228,11 +233,6 @@
       {
         "artist": "David Guetta, Hypaton, Bonnie Tyler",
         "title": "Together",
-        "plays": 2
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Out Of Time",
         "plays": 2
       },
       {
@@ -328,6 +328,11 @@
       {
         "artist": "Panic! At the Disco",
         "title": "High Hopes",
+        "plays": 2
+      },
+      {
+        "artist": "Lena",
+        "title": "Thank You",
         "plays": 2
       },
       {
@@ -951,11 +956,6 @@
         "plays": 1
       },
       {
-        "artist": "Lena",
-        "title": "Thank You",
-        "plays": 1
-      },
-      {
         "artist": "Charli xcx",
         "title": "SS26",
         "plays": 1
@@ -1368,6 +1368,11 @@
       {
         "artist": "Zach Bryan",
         "title": "Pink Skies",
+        "plays": 1
+      },
+      {
+        "artist": "Giant Rooks",
+        "title": "Want It Back",
         "plays": 1
       }
     ],
