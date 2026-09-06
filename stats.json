@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 13,
-    "music_entries": 12,
+    "total_entries": 15,
+    "music_entries": 14,
     "songs": [
       {
         "artist": "CHAPO102 x GUSTAV",
@@ -63,6 +63,16 @@
       {
         "artist": "ROSALÍA",
         "title": "Aute Cuture",
+        "plays": 1
+      },
+      {
+        "artist": "The Cribs",
+        "title": "Dark Luck",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 1
       }
     ],
