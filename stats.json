@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 425,
-    "music_entries": 388,
+    "total_entries": 428,
+    "music_entries": 391,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -406,6 +406,11 @@
         "plays": 2
       },
       {
+        "artist": "Scissor Sisters",
+        "title": "I Dont Feel Like Dancing",
+        "plays": 2
+      },
+      {
         "artist": "Rita Ora",
         "title": "Let You Love Me",
         "plays": 2
@@ -413,6 +418,11 @@
       {
         "artist": "LEA & Casper",
         "title": "Schwarz",
+        "plays": 2
+      },
+      {
+        "artist": "Cro",
+        "title": "Bye Bye",
         "plays": 2
       },
       {
@@ -1031,11 +1041,6 @@
         "plays": 1
       },
       {
-        "artist": "Scissor Sisters",
-        "title": "I Dont Feel Like Dancing",
-        "plays": 1
-      },
-      {
         "artist": "Ed Sheeran",
         "title": "Perfect",
         "plays": 1
@@ -1078,11 +1083,6 @@
       {
         "artist": "Aerosmith, YUNGBLUD",
         "title": "Problems",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Bye Bye",
         "plays": 1
       },
       {
@@ -1393,6 +1393,11 @@
       {
         "artist": "King Gizzard & The Lizard Wizard",
         "title": "Field of Vision",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & Faithless",
+        "title": "New Religion",
         "plays": 1
       }
     ],
