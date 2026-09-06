@@ -3940,5 +3940,41 @@
     "played_at": "2026-09-06 17:52:36 +0200",
     "title": "Bandaids",
     "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-09-06 17:55:42 +0200|Follow You|Imagine Dragons",
+    "played_at": "2026-09-06 17:55:42 +0200",
+    "title": "Follow You",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-06 17:58:37 +0200|Super Freaky Girl|Nicki Minaj",
+    "played_at": "2026-09-06 17:58:37 +0200",
+    "title": "Super Freaky Girl",
+    "artist": "Nicki Minaj"
+  },
+  {
+    "key": "2026-09-06 18:01:28 +0200|lie to me|Malik Harris",
+    "played_at": "2026-09-06 18:01:28 +0200",
+    "title": "lie to me",
+    "artist": "Malik Harris"
+  },
+  {
+    "key": "2026-09-06 18:04:23 +0200|Flowers|Lauren Spencer-Smith",
+    "played_at": "2026-09-06 18:04:23 +0200",
+    "title": "Flowers",
+    "artist": "Lauren Spencer-Smith"
+  },
+  {
+    "key": "2026-09-06 18:07:00 +0200|Klippe|Lina",
+    "played_at": "2026-09-06 18:07:00 +0200",
+    "title": "Klippe",
+    "artist": "Lina"
+  },
+  {
+    "key": "2026-09-06 18:09:38 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-06 18:09:38 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
