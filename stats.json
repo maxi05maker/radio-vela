@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 434,
-    "music_entries": 396,
+    "total_entries": 436,
+    "music_entries": 398,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -418,6 +418,11 @@
       {
         "artist": "Ed Sheeran",
         "title": "Perfect",
+        "plays": 2
+      },
+      {
+        "artist": "Coldplay X BTS",
+        "title": "My Universe",
         "plays": 2
       },
       {
@@ -1061,11 +1066,6 @@
         "plays": 1
       },
       {
-        "artist": "Coldplay X BTS",
-        "title": "My Universe",
-        "plays": 1
-      },
-      {
         "artist": "Muse",
         "title": "Something Human",
         "plays": 1
@@ -1408,6 +1408,11 @@
       {
         "artist": "Katy Perry",
         "title": "LIFETIMES",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
         "plays": 1
       }
     ],
