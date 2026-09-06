@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 439,
-    "music_entries": 400,
+    "total_entries": 443,
+    "music_entries": 404,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -36,6 +36,11 @@
         "plays": 4
       },
       {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 4
+      },
+      {
         "artist": "Badmómzjay",
         "title": "Survival Mode (Intro)",
         "plays": 4
@@ -63,11 +68,6 @@
       {
         "artist": "Nura",
         "title": "Ich War's Nicht",
-        "plays": 3
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 3
       },
       {
@@ -321,6 +321,11 @@
         "plays": 2
       },
       {
+        "artist": "Wallows",
+        "title": "Calling After Me",
+        "plays": 2
+      },
+      {
         "artist": "Drangsal",
         "title": "Urlaub Von Mir",
         "plays": 2
@@ -446,8 +451,18 @@
         "plays": 2
       },
       {
+        "artist": "Sophie & The Giants",
+        "title": "Golden Nights",
+        "plays": 2
+      },
+      {
         "artist": "Alle Farben & Ilira",
         "title": "Fading",
+        "plays": 2
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
         "plays": 2
       },
       {
@@ -986,11 +1001,6 @@
         "plays": 1
       },
       {
-        "artist": "Wallows",
-        "title": "Calling After Me",
-        "plays": 1
-      },
-      {
         "artist": "AYLIVA",
         "title": "Renn!",
         "plays": 1
@@ -1111,11 +1121,6 @@
         "plays": 1
       },
       {
-        "artist": "Sophie & The Giants",
-        "title": "Golden Nights",
-        "plays": 1
-      },
-      {
         "artist": "Justin Bieber",
         "title": "Daisies",
         "plays": 1
@@ -1143,11 +1148,6 @@
       {
         "artist": "Lady Gaga, Doechii",
         "title": "Runway",
-        "plays": 1
-      },
-      {
-        "artist": "Shirin David",
-        "title": "Ich darf das",
         "plays": 1
       },
       {
