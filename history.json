@@ -4762,5 +4762,29 @@
     "played_at": "2026-09-07 01:10:50 +0200",
     "title": "Small Steps",
     "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-09-07 01:13:36 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-09-07 01:13:36 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-09-07 01:17:07 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-07 01:17:07 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-07 01:19:56 +0200|Wie?|AYLIVA",
+    "played_at": "2026-09-07 01:19:56 +0200",
+    "title": "Wie?",
+    "artist": "AYLIVA"
+  },
+  {
+    "key": "2026-09-07 01:22:50 +0200|Neck & Wrist feat. Jay-Z & Pharrell Williams|Pusha T",
+    "played_at": "2026-09-07 01:22:50 +0200",
+    "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
+    "artist": "Pusha T"
   }
 ]
