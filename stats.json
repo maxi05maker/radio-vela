@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 431,
-    "music_entries": 393,
+    "total_entries": 434,
+    "music_entries": 396,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -18,6 +18,11 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 4
+      },
+      {
+        "artist": "Mayberg",
+        "title": "Der neue Stil meiner Generation",
         "plays": 4
       },
       {
@@ -43,11 +48,6 @@
       {
         "artist": "Shawn Mendes",
         "title": "Heartbeat",
-        "plays": 3
-      },
-      {
-        "artist": "Mayberg",
-        "title": "Der neue Stil meiner Generation",
         "plays": 3
       },
       {
@@ -428,6 +428,11 @@
       {
         "artist": "Cro",
         "title": "Bye Bye",
+        "plays": 2
+      },
+      {
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
         "plays": 2
       },
       {
@@ -1091,11 +1096,6 @@
         "plays": 1
       },
       {
-        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
-        "title": "Sommer",
-        "plays": 1
-      },
-      {
         "artist": "Beth Hart",
         "title": "Savior With A Razor (feat. Slash)",
         "plays": 1
@@ -1403,6 +1403,11 @@
       {
         "artist": "Chaka Khan",
         "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "LIFETIMES",
         "plays": 1
       }
     ],

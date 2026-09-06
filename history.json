@@ -2584,5 +2584,23 @@
     "played_at": "2026-09-06 05:40:56 +0200",
     "title": "Perfect",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-06 05:45:20 +0200|Der neue Stil meiner Generation|Mayberg",
+    "played_at": "2026-09-06 05:45:20 +0200",
+    "title": "Der neue Stil meiner Generation",
+    "artist": "Mayberg"
+  },
+  {
+    "key": "2026-09-06 05:47:44 +0200|LIFETIMES|Katy Perry",
+    "played_at": "2026-09-06 05:47:44 +0200",
+    "title": "LIFETIMES",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-09-06 05:50:56 +0200|Sommer|Beatzarre & Djorkaeff/LEA/Capital Bra",
+    "played_at": "2026-09-06 05:50:56 +0200",
+    "title": "Sommer",
+    "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra"
   }
 ]
