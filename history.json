@@ -2224,5 +2224,35 @@
     "played_at": "2026-09-06 02:33:51 +0200",
     "title": "Questions",
     "artist": "Lost Frequencies & James Arthur"
+  },
+  {
+    "key": "2026-09-06 02:36:48 +0200|Bungalow|Bilderbuch",
+    "played_at": "2026-09-06 02:36:48 +0200",
+    "title": "Bungalow",
+    "artist": "Bilderbuch"
+  },
+  {
+    "key": "2026-09-06 02:40:33 +0200|SHE DID IT AGAIN|Tyla & Zara Larsson",
+    "played_at": "2026-09-06 02:40:33 +0200",
+    "title": "SHE DID IT AGAIN",
+    "artist": "Tyla & Zara Larsson"
+  },
+  {
+    "key": "2026-09-06 02:44:07 +0200|High (feat. Claudia Valentina)|CRO",
+    "played_at": "2026-09-06 02:44:07 +0200",
+    "title": "High (feat. Claudia Valentina)",
+    "artist": "CRO"
+  },
+  {
+    "key": "2026-09-06 02:46:55 +0200|Heartbeat|Shawn Mendes",
+    "played_at": "2026-09-06 02:46:55 +0200",
+    "title": "Heartbeat",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-06 02:49:15 +0200|We Come Alive|Jonathan Jeremiah & Till Bronner",
+    "played_at": "2026-09-06 02:49:15 +0200",
+    "title": "We Come Alive",
+    "artist": "Jonathan Jeremiah & Till Bronner"
   }
 ]

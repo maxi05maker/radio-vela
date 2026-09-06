@@ -2,8 +2,8 @@
   "2026-09-05 07:00": {
     "period_start": "2026-09-05T07:00:00+02:00",
     "period_end": "2026-09-06T07:00:00+02:00",
-    "total_entries": 371,
-    "music_entries": 341,
+    "total_entries": 376,
+    "music_entries": 346,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -18,6 +18,11 @@
       {
         "artist": "Tate McRae",
         "title": "she's all i wanna be",
+        "plays": 3
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heartbeat",
         "plays": 3
       },
       {
@@ -61,6 +66,11 @@
         "plays": 3
       },
       {
+        "artist": "CRO",
+        "title": "High (feat. Claudia Valentina)",
+        "plays": 3
+      },
+      {
         "artist": "Badmómzjay",
         "title": "Survival Mode (Intro)",
         "plays": 3
@@ -69,11 +79,6 @@
         "artist": "Lizzo",
         "title": "Grrrls",
         "plays": 3
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Heartbeat",
-        "plays": 2
       },
       {
         "artist": "Elton John, Britney Spears",
@@ -218,11 +223,6 @@
       {
         "artist": "Noah Kahan",
         "title": "The Great Divide",
-        "plays": 2
-      },
-      {
-        "artist": "CRO",
-        "title": "High (feat. Claudia Valentina)",
         "plays": 2
       },
       {
@@ -1318,6 +1318,21 @@
       {
         "artist": "Inhaler",
         "title": "A Question of You",
+        "plays": 1
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "Bungalow",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla & Zara Larsson",
+        "title": "SHE DID IT AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Jonathan Jeremiah & Till Bronner",
+        "title": "We Come Alive",
         "plays": 1
       }
     ],
