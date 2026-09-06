@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 225,
-    "music_entries": 208,
+    "total_entries": 228,
+    "music_entries": 210,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -63,6 +63,11 @@
       {
         "artist": "Lana Del Rey",
         "title": "Arcadia",
+        "plays": 2
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
         "plays": 2
       },
       {
@@ -408,11 +413,6 @@
       {
         "artist": "Sabrina Carpenter",
         "title": "Manchild",
-        "plays": 1
-      },
-      {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
         "plays": 1
       },
       {
@@ -963,6 +963,11 @@
       {
         "artist": "Dove Cameron",
         "title": "Boyfriend",
+        "plays": 1
+      },
+      {
+        "artist": "Die Nerven",
+        "title": "BIS ANS MEER",
         "plays": 1
       }
     ],
