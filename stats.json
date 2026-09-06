@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 75,
-    "music_entries": 70,
+    "total_entries": 79,
+    "music_entries": 74,
     "songs": [
       {
         "artist": "CHAPO102 x GUSTAV",
@@ -353,6 +353,26 @@
       {
         "artist": "Nathan Evans",
         "title": "Told You So",
+        "plays": 1
+      },
+      {
+        "artist": "Capital Cities",
+        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
+        "plays": 1
+      },
+      {
+        "artist": "One-T, YWY, Nika",
+        "title": "The Way To Love (feat. YWY, Nika)",
+        "plays": 1
+      },
+      {
+        "artist": "Juice WRLD",
+        "title": "Face 2 face",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Arcadia",
         "plays": 1
       }
     ],
