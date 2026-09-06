@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 149,
-    "music_entries": 137,
+    "total_entries": 154,
+    "music_entries": 140,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -678,6 +678,21 @@
       {
         "artist": "Porridge Radio",
         "title": "The Rip",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Mit dir",
+        "plays": 1
+      },
+      {
+        "artist": "FAYAN (feat. Dalton)",
+        "title": "VERLIEBT IN MICH",
+        "plays": 1
+      },
+      {
+        "artist": "Evanescence",
+        "title": "Who Will You Follow",
         "plays": 1
       }
     ],
