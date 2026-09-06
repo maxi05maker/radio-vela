@@ -3694,5 +3694,23 @@
     "played_at": "2026-09-06 15:37:12 +0200",
     "title": "Ghost Town",
     "artist": "Purple Disco Machine feat. Retrosonix"
+  },
+  {
+    "key": "2026-09-06 15:40:59 +0200|Jungle Drum|Emiliana Torrini",
+    "played_at": "2026-09-06 15:40:59 +0200",
+    "title": "Jungle Drum",
+    "artist": "Emiliana Torrini"
+  },
+  {
+    "key": "2026-09-06 15:43:12 +0200|Mad Love|Mabel",
+    "played_at": "2026-09-06 15:43:12 +0200",
+    "title": "Mad Love",
+    "artist": "Mabel"
+  },
+  {
+    "key": "2026-09-06 15:46:05 +0200|New Beginnings|Yard Act",
+    "played_at": "2026-09-06 15:46:05 +0200",
+    "title": "New Beginnings",
+    "artist": "Yard Act"
   }
 ]
