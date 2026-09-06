@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 327,
-    "music_entries": 300,
+    "total_entries": 330,
+    "music_entries": 303,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -34,6 +34,11 @@
         "artist": "Stormzy",
         "title": "Mel Made Me Do It",
         "plays": 3
+      },
+      {
+        "artist": "Wavves",
+        "title": "Goner",
+        "plays": 2
       },
       {
         "artist": "Kraftklub",
@@ -356,6 +361,16 @@
         "plays": 2
       },
       {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 2
+      },
+      {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
+        "plays": 2
+      },
+      {
         "artist": "CHAPO102 x GUSTAV",
         "title": "WARSCHAU",
         "plays": 1
@@ -423,11 +438,6 @@
       {
         "artist": "Lea",
         "title": "Wenn Du Mich Lässt",
-        "plays": 1
-      },
-      {
-        "artist": "Wavves",
-        "title": "Goner",
         "plays": 1
       },
       {
@@ -821,11 +831,6 @@
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
         "artist": "Gracie Abrams",
         "title": "That’s So True",
         "plays": 1
@@ -868,11 +873,6 @@
       {
         "artist": "Damiano David",
         "title": "Voices",
-        "plays": 1
-      },
-      {
-        "artist": "JORIS",
-        "title": "Nur die Musik",
         "plays": 1
       },
       {
