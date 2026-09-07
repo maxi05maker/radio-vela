@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 367,
-    "music_entries": 338,
+    "total_entries": 373,
+    "music_entries": 344,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -63,6 +63,11 @@
       {
         "artist": "Stefanie Heinzmann feat. Alle Farben",
         "title": "Build a House",
+        "plays": 3
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
         "plays": 3
       },
       {
@@ -138,11 +143,6 @@
       {
         "artist": "Matt Simons",
         "title": "Catch And Release (Deepend Remix)",
-        "plays": 2
-      },
-      {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
         "plays": 2
       },
       {
@@ -396,6 +396,11 @@
         "plays": 2
       },
       {
+        "artist": "D4vd",
+        "title": "Here With Me",
+        "plays": 2
+      },
+      {
         "artist": "Disturbed",
         "title": "Hey You",
         "plays": 2
@@ -441,6 +446,11 @@
         "plays": 2
       },
       {
+        "artist": "Blond",
+        "title": "Du und Ich",
+        "plays": 2
+      },
+      {
         "artist": "Lauren Spencer-Smith",
         "title": "Flowers",
         "plays": 2
@@ -453,6 +463,11 @@
       {
         "artist": "Kygo feat. DNCE",
         "title": "Dancing Feet",
+        "plays": 2
+      },
+      {
+        "artist": "Lil Tjay",
+        "title": "In My Head",
         "plays": 2
       },
       {
@@ -856,11 +871,6 @@
         "plays": 1
       },
       {
-        "artist": "D4vd",
-        "title": "Here With Me",
-        "plays": 1
-      },
-      {
         "artist": "Madonna",
         "title": "Danceteria",
         "plays": 1
@@ -903,11 +913,6 @@
       {
         "artist": "Tate McRae",
         "title": "Its ok Im ok",
-        "plays": 1
-      },
-      {
-        "artist": "Blond",
-        "title": "Du und Ich",
         "plays": 1
       },
       {
@@ -973,11 +978,6 @@
       {
         "artist": "Ziggy in tha House",
         "title": "It's Raining",
-        "plays": 1
-      },
-      {
-        "artist": "Lil Tjay",
-        "title": "In My Head",
         "plays": 1
       },
       {
@@ -1163,6 +1163,16 @@
       {
         "artist": "Chappell Roan",
         "title": "The Subway",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
         "plays": 1
       }
     ],

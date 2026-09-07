@@ -4918,5 +4918,41 @@
     "played_at": "2026-09-07 02:42:15 +0200",
     "title": "Sowieso",
     "artist": "Mark Forster"
+  },
+  {
+    "key": "2026-09-07 02:45:22 +0200|In My Head|Lil Tjay",
+    "played_at": "2026-09-07 02:45:22 +0200",
+    "title": "In My Head",
+    "artist": "Lil Tjay"
+  },
+  {
+    "key": "2026-09-07 02:47:37 +0200|Watch It Burn|Katy Perry",
+    "played_at": "2026-09-07 02:47:37 +0200",
+    "title": "Watch It Burn",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-09-07 02:50:33 +0200|Du und Ich|Blond",
+    "played_at": "2026-09-07 02:50:33 +0200",
+    "title": "Du und Ich",
+    "artist": "Blond"
+  },
+  {
+    "key": "2026-09-07 02:53:49 +0200|Die Beste Musik Nonstop|Radio Karen",
+    "played_at": "2026-09-07 02:53:49 +0200",
+    "title": "Die Beste Musik Nonstop",
+    "artist": "Radio Karen"
+  },
+  {
+    "key": "2026-09-07 02:53:56 +0200|Slow Motion|Alessia Cara",
+    "played_at": "2026-09-07 02:53:56 +0200",
+    "title": "Slow Motion",
+    "artist": "Alessia Cara"
+  },
+  {
+    "key": "2026-09-07 02:57:19 +0200|Here With Me|D4vd",
+    "played_at": "2026-09-07 02:57:19 +0200",
+    "title": "Here With Me",
+    "artist": "D4vd"
   }
 ]
