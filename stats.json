@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 114,
-    "music_entries": 104,
+    "total_entries": 118,
+    "music_entries": 108,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -518,6 +518,26 @@
       {
         "artist": "Tori Amos",
         "title": "Song of Sorrow",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Marlboro Mann",
+        "plays": 1
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Survival Mode (Intro)",
         "plays": 1
       }
     ],

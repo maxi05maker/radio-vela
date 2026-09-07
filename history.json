@@ -682,5 +682,29 @@
     "played_at": "2026-09-07 13:17:25 +0200",
     "title": "Song of Sorrow",
     "artist": "Tori Amos"
+  },
+  {
+    "key": "2026-09-07 13:23:41 +0200|Let You Love Me|Rita Ora",
+    "played_at": "2026-09-07 13:23:41 +0200",
+    "title": "Let You Love Me",
+    "artist": "Rita Ora"
+  },
+  {
+    "key": "2026-09-07 13:26:48 +0200|Ich darf das|Shirin David",
+    "played_at": "2026-09-07 13:26:48 +0200",
+    "title": "Ich darf das",
+    "artist": "Shirin David"
+  },
+  {
+    "key": "2026-09-07 13:29:21 +0200|Marlboro Mann|Kraftklub",
+    "played_at": "2026-09-07 13:29:21 +0200",
+    "title": "Marlboro Mann",
+    "artist": "Kraftklub"
+  },
+  {
+    "key": "2026-09-07 13:32:17 +0200|Survival Mode (Intro)|Badmómzjay",
+    "played_at": "2026-09-07 13:32:17 +0200",
+    "title": "Survival Mode (Intro)",
+    "artist": "Badmómzjay"
   }
 ]
