@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 414,
-    "music_entries": 382,
+    "total_entries": 418,
+    "music_entries": 386,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -403,6 +403,11 @@
       {
         "artist": "Luis Fonsi feat. Demi Lovato",
         "title": "Échame La Culpa",
+        "plays": 2
+      },
+      {
+        "artist": "Rosalía",
+        "title": "La Perla (with Yahritza y su Esencia)",
         "plays": 2
       },
       {
@@ -896,11 +901,6 @@
         "plays": 1
       },
       {
-        "artist": "Rosalía",
-        "title": "La Perla (with Yahritza y su Esencia)",
-        "plays": 1
-      },
-      {
         "artist": "Madonna",
         "title": "Danceteria",
         "plays": 1
@@ -1238,6 +1238,21 @@
       {
         "artist": "Panic! At the Disco",
         "title": "High Hopes",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Stitches",
+        "plays": 1
+      },
+      {
+        "artist": "Warhaus",
+        "title": "No Surprise",
         "plays": 1
       }
     ],

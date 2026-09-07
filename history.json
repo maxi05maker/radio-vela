@@ -5200,5 +5200,29 @@
     "played_at": "2026-09-07 05:21:29 +0200",
     "title": "High Hopes",
     "artist": "Panic! At the Disco"
+  },
+  {
+    "key": "2026-09-07 05:24:40 +0200|La Perla (with Yahritza y su Esencia)|Rosalía",
+    "played_at": "2026-09-07 05:24:40 +0200",
+    "title": "La Perla (with Yahritza y su Esencia)",
+    "artist": "Rosalía"
+  },
+  {
+    "key": "2026-09-07 05:27:56 +0200|Human Being|Nico Santos",
+    "played_at": "2026-09-07 05:27:56 +0200",
+    "title": "Human Being",
+    "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-09-07 05:30:50 +0200|Stitches|Shawn Mendes",
+    "played_at": "2026-09-07 05:30:50 +0200",
+    "title": "Stitches",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-07 05:34:17 +0200|No Surprise|Warhaus",
+    "played_at": "2026-09-07 05:34:17 +0200",
+    "title": "No Surprise",
+    "artist": "Warhaus"
   }
 ]
