@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 383,
-    "music_entries": 353,
+    "total_entries": 386,
+    "music_entries": 356,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -81,6 +81,11 @@
         "plays": 3
       },
       {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
+        "plays": 3
+      },
+      {
         "artist": "A1 x J1 & Tion Wayne",
         "title": "Night Away (Dance)",
         "plays": 3
@@ -126,6 +131,11 @@
         "plays": 2
       },
       {
+        "artist": "Ufo361 & Nina Chuba",
+        "title": "LIEBE (feat. Nina Chuba) [Explicit]",
+        "plays": 2
+      },
+      {
         "artist": "OneRepublic",
         "title": "Run",
         "plays": 2
@@ -163,11 +173,6 @@
       {
         "artist": "Bruce Springsteen",
         "title": "Streets Of Minneapolis",
-        "plays": 2
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Bad Habits",
         "plays": 2
       },
       {
@@ -471,6 +476,11 @@
         "plays": 2
       },
       {
+        "artist": "Weezer",
+        "title": "Beverly Hills",
+        "plays": 2
+      },
+      {
         "artist": "Kygo feat. DNCE",
         "title": "Dancing Feet",
         "plays": 2
@@ -736,11 +746,6 @@
         "plays": 1
       },
       {
-        "artist": "Ufo361 & Nina Chuba",
-        "title": "LIEBE (feat. Nina Chuba) [Explicit]",
-        "plays": 1
-      },
-      {
         "artist": "FILLY",
         "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
         "plays": 1
@@ -953,11 +958,6 @@
       {
         "artist": "Bosse",
         "title": "peu à peu",
-        "plays": 1
-      },
-      {
-        "artist": "Weezer",
-        "title": "Beverly Hills",
         "plays": 1
       },
       {
