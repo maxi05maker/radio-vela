@@ -2,13 +2,23 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 154,
-    "music_entries": 140,
+    "total_entries": 158,
+    "music_entries": 144,
     "songs": [
       {
         "artist": "Coi Leray",
         "title": "Anxiety",
         "plays": 3
+      },
+      {
+        "artist": "Adele",
+        "title": "Rolling In The Deep",
+        "plays": 2
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
+        "plays": 2
       },
       {
         "artist": "Foster The People",
@@ -41,18 +51,8 @@
         "plays": 1
       },
       {
-        "artist": "Adele",
-        "title": "Rolling In The Deep",
-        "plays": 1
-      },
-      {
         "artist": "Cigarettes After Sex",
         "title": "Twizzler",
-        "plays": 1
-      },
-      {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
         "plays": 1
       },
       {
@@ -678,6 +678,16 @@
       {
         "artist": "Peter Fox",
         "title": "Haus am See",
+        "plays": 1
+      },
+      {
+        "artist": "Bastille",
+        "title": "Seasons & Narcissus",
+        "plays": 1
+      },
+      {
+        "artist": "Ice Spice",
+        "title": "Big Guy",
         "plays": 1
       }
     ],
