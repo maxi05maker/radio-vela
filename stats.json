@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 354,
-    "music_entries": 326,
+    "total_entries": 356,
+    "music_entries": 328,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -428,6 +428,11 @@
       {
         "artist": "Lina",
         "title": "Klippe",
+        "plays": 2
+      },
+      {
+        "artist": "Kygo feat. DNCE",
+        "title": "Dancing Feet",
         "plays": 2
       },
       {
@@ -951,11 +956,6 @@
         "plays": 1
       },
       {
-        "artist": "Kygo feat. DNCE",
-        "title": "Dancing Feet",
-        "plays": 1
-      },
-      {
         "artist": "Justin Bieber",
         "title": "Daisies",
         "plays": 1
@@ -1153,6 +1153,11 @@
       {
         "artist": "Tyla",
         "title": "Tyla - IS IT",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams & Jesse & Joy",
+        "title": "Human (feat. Jesse & Joy)",
         "plays": 1
       }
     ],
