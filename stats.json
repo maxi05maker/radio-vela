@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 421,
-    "music_entries": 389,
+    "total_entries": 423,
+    "music_entries": 391,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1268,6 +1268,16 @@
       {
         "artist": "The Marías",
         "title": "No One Noticed",
+        "plays": 1
+      },
+      {
+        "artist": "Josef Salvat",
+        "title": "Diamonds",
+        "plays": 1
+      },
+      {
+        "artist": "Jessie J feat. B.O.B.",
+        "title": "Price Tag",
         "plays": 1
       }
     ],

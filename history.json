@@ -5242,5 +5242,17 @@
     "played_at": "2026-09-07 05:46:51 +0200",
     "title": "No One Noticed",
     "artist": "The Marías"
+  },
+  {
+    "key": "2026-09-07 05:50:48 +0200|Diamonds|Josef Salvat",
+    "played_at": "2026-09-07 05:50:48 +0200",
+    "title": "Diamonds",
+    "artist": "Josef Salvat"
+  },
+  {
+    "key": "2026-09-07 05:54:49 +0200|Price Tag|Jessie J feat. B.O.B.",
+    "played_at": "2026-09-07 05:54:49 +0200",
+    "title": "Price Tag",
+    "artist": "Jessie J feat. B.O.B."
   }
 ]
