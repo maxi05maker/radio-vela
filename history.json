@@ -442,5 +442,35 @@
     "played_at": "2026-09-07 11:03:31 +0200",
     "title": "Anxiety",
     "artist": "Coi Leray"
+  },
+  {
+    "key": "2026-09-07 11:06:37 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-07 11:06:37 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-07 11:09:16 +0200|The Dead Dance|Lady Gaga",
+    "played_at": "2026-09-07 11:09:16 +0200",
+    "title": "The Dead Dance",
+    "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-07 11:12:59 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-09-07 11:12:59 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-09-07 11:16:55 +0200|The Drop|Dimitri Vegas, David Guetta & Nicole Scherzinger",
+    "played_at": "2026-09-07 11:16:55 +0200",
+    "title": "The Drop",
+    "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger"
+  },
+  {
+    "key": "2026-09-07 11:18:57 +0200|Buried Treasure|Peter Frampton, Benmont Tench",
+    "played_at": "2026-09-07 11:18:57 +0200",
+    "title": "Buried Treasure",
+    "artist": "Peter Frampton, Benmont Tench"
   }
 ]
