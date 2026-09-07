@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 434,
-    "music_entries": 401,
+    "total_entries": 437,
+    "music_entries": 404,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1313,6 +1313,21 @@
       {
         "artist": "Airbourne",
         "title": "Kid In A Candy Store",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Beautiful Trauma",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld feat. Antje Schomaker",
+        "title": "Liebe auf Distanz",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
         "plays": 1
       }
     ],
