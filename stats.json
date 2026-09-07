@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 118,
-    "music_entries": 108,
+    "total_entries": 121,
+    "music_entries": 111,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -538,6 +538,21 @@
       {
         "artist": "Badmómzjay",
         "title": "Survival Mode (Intro)",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Bye Bye",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Minimum",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld feat. Antje Schomaker",
+        "title": "Liebe auf Distanz",
         "plays": 1
       }
     ],
