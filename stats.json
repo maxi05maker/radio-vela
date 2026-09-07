@@ -2,9 +2,34 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 1,
-    "music_entries": 0,
-    "songs": [],
-    "top_song": null
+    "total_entries": 5,
+    "music_entries": 4,
+    "songs": [
+      {
+        "artist": "Death Cab for Cutie",
+        "title": "You Are A Tourist",
+        "plays": 1
+      },
+      {
+        "artist": "Coi Leray",
+        "title": "Anxiety",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "plays": 1
+      }
+    ],
+    "top_song": {
+      "artist": "Death Cab for Cutie",
+      "title": "You Are A Tourist",
+      "plays": 1
+    }
   }
 }
