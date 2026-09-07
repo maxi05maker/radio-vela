@@ -2,12 +2,17 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 168,
-    "music_entries": 153,
+    "total_entries": 178,
+    "music_entries": 163,
     "songs": [
       {
         "artist": "Coi Leray",
         "title": "Anxiety",
+        "plays": 3
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 3
       },
       {
@@ -58,11 +63,6 @@
       {
         "artist": "Imagine Dragons",
         "title": "Bad Liar",
-        "plays": 2
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 2
       },
       {
@@ -703,6 +703,51 @@
       {
         "artist": "Warhaus",
         "title": "No Surprise",
+        "plays": 1
+      },
+      {
+        "artist": "David Gilmour",
+        "title": "In Any Tongue",
+        "plays": 1
+      },
+      {
+        "artist": "Fever Ray",
+        "title": "Carbon Dioxide",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba & Makko",
+        "title": "Fucked Up feat. makko",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wildberry Lillet",
+        "plays": 1
+      },
+      {
+        "artist": "Farin Urlaub",
+        "title": "Sie (Single Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Lost - XXV",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Forget me",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Manchild",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Remedy",
         "plays": 1
       }
     ],
