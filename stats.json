@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 139,
-    "music_entries": 127,
+    "total_entries": 142,
+    "music_entries": 130,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -633,6 +633,21 @@
       {
         "artist": "Halsey",
         "title": "Lonely is the Muse",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Gewinner",
+        "plays": 1
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "title": "On The Floor (Feat. Pitbull)",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "petal",
         "plays": 1
       }
     ],
