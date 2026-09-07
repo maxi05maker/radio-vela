@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 13,
-    "music_entries": 11,
+    "total_entries": 17,
+    "music_entries": 14,
     "songs": [
       {
         "artist": "Death Cab for Cutie",
@@ -58,6 +58,21 @@
       {
         "artist": "Halsey",
         "title": "I Never Loved You",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "You Let Me Walk Alone",
+        "plays": 1
+      },
+      {
+        "artist": "Kneecap",
+        "title": "Sayōnara feat. Paul Hartnoll",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga feat. Colby O'donis",
+        "title": "Just Dance",
         "plays": 1
       }
     ],

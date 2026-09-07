@@ -76,5 +76,29 @@
     "played_at": "2026-09-07 07:42:18 +0200",
     "title": "I Never Loved You",
     "artist": "Halsey"
+  },
+  {
+    "key": "2026-09-07 07:46:28 +0200|You Let Me Walk Alone|Michael Schulte",
+    "played_at": "2026-09-07 07:46:28 +0200",
+    "title": "You Let Me Walk Alone",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-07 07:49:25 +0200|Ganztagsradio|Jingle",
+    "played_at": "2026-09-07 07:49:25 +0200",
+    "title": "Ganztagsradio",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-07 07:50:06 +0200|Sayōnara feat. Paul Hartnoll|Kneecap",
+    "played_at": "2026-09-07 07:50:06 +0200",
+    "title": "Sayōnara feat. Paul Hartnoll",
+    "artist": "Kneecap"
+  },
+  {
+    "key": "2026-09-07 07:53:27 +0200|Just Dance|Lady Gaga feat. Colby O'donis",
+    "played_at": "2026-09-07 07:53:27 +0200",
+    "title": "Just Dance",
+    "artist": "Lady Gaga feat. Colby O'donis"
   }
 ]
