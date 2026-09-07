@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 431,
-    "music_entries": 398,
+    "total_entries": 434,
+    "music_entries": 401,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1298,6 +1298,21 @@
       {
         "artist": "Tate McRae",
         "title": "Revolving door",
+        "plays": 1
+      },
+      {
+        "artist": "Marlon Roudette",
+        "title": "When The Beat Drops Out",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Fox",
+        "title": "Haus am See",
+        "plays": 1
+      },
+      {
+        "artist": "Airbourne",
+        "title": "Kid In A Candy Store",
         "plays": 1
       }
     ],
