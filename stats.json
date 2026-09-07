@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 426,
-    "music_entries": 393,
+    "total_entries": 431,
+    "music_entries": 398,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -131,6 +131,11 @@
         "plays": 3
       },
       {
+        "artist": "Rea Garvey",
+        "title": "Kids In Love",
+        "plays": 3
+      },
+      {
         "artist": "Teddy Swims",
         "title": "Lose Control",
         "plays": 3
@@ -143,6 +148,11 @@
       {
         "artist": "Kraftklub",
         "title": "Schief in jedem Chor",
+        "plays": 2
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Survival Mode (Intro)",
         "plays": 2
       },
       {
@@ -303,11 +313,6 @@
       {
         "artist": "CRO",
         "title": "High (feat. Claudia Valentina)",
-        "plays": 2
-      },
-      {
-        "artist": "Rea Garvey",
-        "title": "Kids In Love",
         "plays": 2
       },
       {
@@ -703,11 +708,6 @@
       {
         "artist": "Aerosmith, YUNGBLUD",
         "title": "Problems",
-        "plays": 1
-      },
-      {
-        "artist": "Badmómzjay",
-        "title": "Survival Mode (Intro)",
         "plays": 1
       },
       {
@@ -1283,6 +1283,21 @@
       {
         "artist": "Alice Merton",
         "title": "No Roots",
+        "plays": 1
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "title": "On The Floor (Feat. Pitbull)",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Leiser",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Revolving door",
         "plays": 1
       }
     ],
