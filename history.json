@@ -904,5 +904,23 @@
     "played_at": "2026-09-07 15:20:03 +0200",
     "title": "You Oughta Know",
     "artist": "Alanis Morissette"
+  },
+  {
+    "key": "2026-09-07 15:24:12 +0200|Midnight Sun|Zara Larsson",
+    "played_at": "2026-09-07 15:24:12 +0200",
+    "title": "Midnight Sun",
+    "artist": "Zara Larsson"
+  },
+  {
+    "key": "2026-09-07 15:27:24 +0200|Beautiful Trauma|P!nk",
+    "played_at": "2026-09-07 15:27:24 +0200",
+    "title": "Beautiful Trauma",
+    "artist": "P!nk"
+  },
+  {
+    "key": "2026-09-07 15:31:36 +0200|Haus am See|Peter Fox",
+    "played_at": "2026-09-07 15:31:36 +0200",
+    "title": "Haus am See",
+    "artist": "Peter Fox"
   }
 ]

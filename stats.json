@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 151,
-    "music_entries": 137,
+    "total_entries": 154,
+    "music_entries": 140,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -663,6 +663,21 @@
       {
         "artist": "Luis Fonsi feat. Demi Lovato",
         "title": "Échame La Culpa",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Midnight Sun",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Beautiful Trauma",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Fox",
+        "title": "Haus am See",
         "plays": 1
       }
     ],
