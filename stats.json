@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 411,
-    "music_entries": 379,
+    "total_entries": 414,
+    "music_entries": 382,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1223,6 +1223,21 @@
       {
         "artist": "Alicia Keys",
         "title": "No One",
+        "plays": 1
+      },
+      {
+        "artist": "ARIANA GRANDE",
+        "title": "Hate That I Made You Love Me   (2026)",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers & Coldplay",
+        "title": "Something Just Like This",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
         "plays": 1
       }
     ],

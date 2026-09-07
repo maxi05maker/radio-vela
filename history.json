@@ -5182,5 +5182,23 @@
     "played_at": "2026-09-07 05:09:46 +0200",
     "title": "No One",
     "artist": "Alicia Keys"
+  },
+  {
+    "key": "2026-09-07 05:14:03 +0200|Hate That I Made You Love Me   (2026)|ARIANA GRANDE",
+    "played_at": "2026-09-07 05:14:03 +0200",
+    "title": "Hate That I Made You Love Me   (2026)",
+    "artist": "ARIANA GRANDE"
+  },
+  {
+    "key": "2026-09-07 05:17:21 +0200|Something Just Like This|The Chainsmokers & Coldplay",
+    "played_at": "2026-09-07 05:17:21 +0200",
+    "title": "Something Just Like This",
+    "artist": "The Chainsmokers & Coldplay"
+  },
+  {
+    "key": "2026-09-07 05:21:29 +0200|High Hopes|Panic! At the Disco",
+    "played_at": "2026-09-07 05:21:29 +0200",
+    "title": "High Hopes",
+    "artist": "Panic! At the Disco"
   }
 ]
