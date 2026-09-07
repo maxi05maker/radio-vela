@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 104,
-    "music_entries": 95,
+    "total_entries": 107,
+    "music_entries": 98,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -473,6 +473,21 @@
       {
         "artist": "Paul Kalkbrenner",
         "title": "DREAMING ON",
+        "plays": 1
+      },
+      {
+        "artist": "Mayberg",
+        "title": "Der neue Stil meiner Generation",
+        "plays": 1
+      },
+      {
+        "artist": "Gestört Aber GeiL x SkinnyJewlz",
+        "title": "Wenn du da bist",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Weißt du überhaupt noch wer ich bin?",
         "plays": 1
       }
     ],
