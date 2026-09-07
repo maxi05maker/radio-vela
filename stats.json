@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 373,
-    "music_entries": 344,
+    "total_entries": 379,
+    "music_entries": 349,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -51,6 +51,11 @@
         "plays": 3
       },
       {
+        "artist": "Capital Cities",
+        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
+        "plays": 3
+      },
+      {
         "artist": "Juice WRLD",
         "title": "Face 2 face",
         "plays": 3
@@ -68,6 +73,11 @@
       {
         "artist": "Radio Karen",
         "title": "Die Beste Musik Nonstop",
+        "plays": 3
+      },
+      {
+        "artist": "A1 x J1 & Tion Wayne",
+        "title": "Night Away (Dance)",
         "plays": 3
       },
       {
@@ -126,11 +136,6 @@
         "plays": 2
       },
       {
-        "artist": "Capital Cities",
-        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
-        "plays": 2
-      },
-      {
         "artist": "The Gems",
         "title": "Hot Bait",
         "plays": 2
@@ -168,11 +173,6 @@
       {
         "artist": "Benson Boone",
         "title": "Slow It Down",
-        "plays": 2
-      },
-      {
-        "artist": "A1 x J1 & Tion Wayne",
-        "title": "Night Away (Dance)",
         "plays": 2
       },
       {
@@ -303,6 +303,11 @@
       {
         "artist": "Johannes Oerding",
         "title": "Kreise",
+        "plays": 2
+      },
+      {
+        "artist": "Built To Spill",
+        "title": "Gonna Lose",
         "plays": 2
       },
       {
@@ -811,11 +816,6 @@
         "plays": 1
       },
       {
-        "artist": "Built To Spill",
-        "title": "Gonna Lose",
-        "plays": 1
-      },
-      {
         "artist": "SDP",
         "title": "ADAC (feat. Tream)",
         "plays": 1
@@ -1173,6 +1173,16 @@
       {
         "artist": "Alessia Cara",
         "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Kehlani",
+        "title": "Shoulda Never (feat. USHER)",
+        "plays": 1
+      },
+      {
+        "artist": "Kool Savas",
+        "title": "Berlin",
         "plays": 1
       }
     ],
