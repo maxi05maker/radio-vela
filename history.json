@@ -586,5 +586,41 @@
     "played_at": "2026-09-07 12:24:31 +0200",
     "title": "Quietly",
     "artist": "The Bevis Frond"
+  },
+  {
+    "key": "2026-09-07 12:26:51 +0200|Fix You|Coldplay",
+    "played_at": "2026-09-07 12:26:51 +0200",
+    "title": "Fix You",
+    "artist": "Coldplay"
+  },
+  {
+    "key": "2026-09-07 12:31:46 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-07 12:31:46 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-07 12:35:20 +0200|CRASHOUT FREESTYLE|Juju",
+    "played_at": "2026-09-07 12:35:20 +0200",
+    "title": "CRASHOUT FREESTYLE",
+    "artist": "Juju"
+  },
+  {
+    "key": "2026-09-07 12:37:36 +0200|Kreise|Johannes Oerding",
+    "played_at": "2026-09-07 12:37:36 +0200",
+    "title": "Kreise",
+    "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-09-07 12:41:17 +0200|No Roots|Alice Merton",
+    "played_at": "2026-09-07 12:41:17 +0200",
+    "title": "No Roots",
+    "artist": "Alice Merton"
+  },
+  {
+    "key": "2026-09-07 12:45:13 +0200|DREAMING ON|Paul Kalkbrenner",
+    "played_at": "2026-09-07 12:45:13 +0200",
+    "title": "DREAMING ON",
+    "artist": "Paul Kalkbrenner"
   }
 ]

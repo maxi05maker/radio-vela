@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 98,
-    "music_entries": 89,
+    "total_entries": 104,
+    "music_entries": 95,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -443,6 +443,36 @@
       {
         "artist": "The Bevis Frond",
         "title": "Quietly",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Fix You",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Juju",
+        "title": "CRASHOUT FREESTYLE",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kreise",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "No Roots",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "DREAMING ON",
         "plays": 1
       }
     ],
