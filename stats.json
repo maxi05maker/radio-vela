@@ -2,17 +2,17 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 71,
-    "music_entries": 64,
+    "total_entries": 74,
+    "music_entries": 67,
     "songs": [
-      {
-        "artist": "Death Cab for Cutie",
-        "title": "You Are A Tourist",
-        "plays": 1
-      },
       {
         "artist": "Coi Leray",
         "title": "Anxiety",
+        "plays": 2
+      },
+      {
+        "artist": "Death Cab for Cutie",
+        "title": "You Are A Tourist",
         "plays": 1
       },
       {
@@ -324,12 +324,22 @@
         "artist": "Ozzy Osbourne",
         "title": "Let Me Hear You Scream",
         "plays": 1
+      },
+      {
+        "artist": "Zach Bryan",
+        "title": "28",
+        "plays": 1
+      },
+      {
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Death Cab for Cutie",
-      "title": "You Are A Tourist",
-      "plays": 1
+      "artist": "Coi Leray",
+      "title": "Anxiety",
+      "plays": 2
     }
   }
 }

@@ -424,5 +424,23 @@
     "played_at": "2026-09-07 10:53:10 +0200",
     "title": "Let Me Hear You Scream",
     "artist": "Ozzy Osbourne"
+  },
+  {
+    "key": "2026-09-07 10:56:36 +0200|28|Zach Bryan",
+    "played_at": "2026-09-07 10:56:36 +0200",
+    "title": "28",
+    "artist": "Zach Bryan"
+  },
+  {
+    "key": "2026-09-07 11:00:29 +0200|Wenn Du Mich Lässt|Lea",
+    "played_at": "2026-09-07 11:00:29 +0200",
+    "title": "Wenn Du Mich Lässt",
+    "artist": "Lea"
+  },
+  {
+    "key": "2026-09-07 11:03:31 +0200|Anxiety|Coi Leray",
+    "played_at": "2026-09-07 11:03:31 +0200",
+    "title": "Anxiety",
+    "artist": "Coi Leray"
   }
 ]
