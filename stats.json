@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 59,
-    "music_entries": 52,
+    "total_entries": 63,
+    "music_entries": 56,
     "songs": [
       {
         "artist": "Death Cab for Cutie",
@@ -263,6 +263,26 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello",
+        "title": "Godspeed",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Sign of the Times",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster",
+        "title": "Sowieso",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Joker",
         "plays": 1
       }
     ],
