@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 79,
-    "music_entries": 71,
+    "total_entries": 87,
+    "music_entries": 79,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -353,6 +353,46 @@
       {
         "artist": "Peter Frampton, Benmont Tench",
         "title": "Buried Treasure",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Arcadia",
+        "plays": 1
+      },
+      {
+        "artist": "ROSALÍA",
+        "title": "Aute Cuture",
+        "plays": 1
+      },
+      {
+        "artist": "Hundreds",
+        "title": "Fallacies",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Perfect",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Frei",
+        "plays": 1
+      },
+      {
+        "artist": "Lune",
+        "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
+        "plays": 1
+      },
+      {
+        "artist": "Aminé",
+        "title": "Charmander",
         "plays": 1
       }
     ],

@@ -472,5 +472,53 @@
     "played_at": "2026-09-07 11:18:57 +0200",
     "title": "Buried Treasure",
     "artist": "Peter Frampton, Benmont Tench"
+  },
+  {
+    "key": "2026-09-07 11:23:44 +0200|Arcadia|Lana Del Rey",
+    "played_at": "2026-09-07 11:23:44 +0200",
+    "title": "Arcadia",
+    "artist": "Lana Del Rey"
+  },
+  {
+    "key": "2026-09-07 11:29:28 +0200|Aute Cuture|ROSALÍA",
+    "played_at": "2026-09-07 11:29:28 +0200",
+    "title": "Aute Cuture",
+    "artist": "ROSALÍA"
+  },
+  {
+    "key": "2026-09-07 11:31:57 +0200|Fallacies|Hundreds",
+    "played_at": "2026-09-07 11:31:57 +0200",
+    "title": "Fallacies",
+    "artist": "Hundreds"
+  },
+  {
+    "key": "2026-09-07 11:35:17 +0200|Perfect|Ed Sheeran",
+    "played_at": "2026-09-07 11:35:17 +0200",
+    "title": "Perfect",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-07 11:39:40 +0200|Frei|Alli Neumann",
+    "played_at": "2026-09-07 11:39:40 +0200",
+    "title": "Frei",
+    "artist": "Alli Neumann"
+  },
+  {
+    "key": "2026-09-07 11:42:18 +0200|Mann im Haus|Lune",
+    "played_at": "2026-09-07 11:42:18 +0200",
+    "title": "Mann im Haus",
+    "artist": "Lune"
+  },
+  {
+    "key": "2026-09-07 11:44:33 +0200|Mañana|Alvaro Soler feat. Cali Y El Dandee",
+    "played_at": "2026-09-07 11:44:33 +0200",
+    "title": "Mañana",
+    "artist": "Alvaro Soler feat. Cali Y El Dandee"
+  },
+  {
+    "key": "2026-09-07 11:48:05 +0200|Charmander|Aminé",
+    "played_at": "2026-09-07 11:48:05 +0200",
+    "title": "Charmander",
+    "artist": "Aminé"
   }
 ]
