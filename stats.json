@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 5,
-    "music_entries": 4,
+    "total_entries": 10,
+    "music_entries": 8,
     "songs": [
       {
         "artist": "Death Cab for Cutie",
@@ -23,6 +23,26 @@
       {
         "artist": "Dua Lipa",
         "title": "New Rules",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Rolling In The Deep",
+        "plays": 1
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Twizzler",
+        "plays": 1
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
+        "plays": 1
+      },
+      {
+        "artist": "JENNIE, Dua Lipa",
+        "title": "Handlebars",
         "plays": 1
       }
     ],

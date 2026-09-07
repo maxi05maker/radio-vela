@@ -28,5 +28,35 @@
     "played_at": "2026-09-07 07:17:58 +0200",
     "title": "New Rules",
     "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-09-07 07:21:30 +0200|Rolling In The Deep|Adele",
+    "played_at": "2026-09-07 07:21:30 +0200",
+    "title": "Rolling In The Deep",
+    "artist": "Adele"
+  },
+  {
+    "key": "2026-09-07 07:25:19 +0200|Twizzler|Cigarettes After Sex",
+    "played_at": "2026-09-07 07:25:19 +0200",
+    "title": "Twizzler",
+    "artist": "Cigarettes After Sex"
+  },
+  {
+    "key": "2026-09-07 07:28:14 +0200|Build a House|Stefanie Heinzmann feat. Alle Farben",
+    "played_at": "2026-09-07 07:28:14 +0200",
+    "title": "Build a House",
+    "artist": "Stefanie Heinzmann feat. Alle Farben"
+  },
+  {
+    "key": "2026-09-07 07:31:16 +0200|Die beste Musik aus allen Jahrzenten|Jingle",
+    "played_at": "2026-09-07 07:31:16 +0200",
+    "title": "Die beste Musik aus allen Jahrzenten",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-07 07:31:51 +0200|Handlebars|JENNIE, Dua Lipa",
+    "played_at": "2026-09-07 07:31:51 +0200",
+    "title": "Handlebars",
+    "artist": "JENNIE, Dua Lipa"
   }
 ]
