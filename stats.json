@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 158,
-    "music_entries": 144,
+    "total_entries": 168,
+    "music_entries": 153,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -31,8 +31,38 @@
         "plays": 2
       },
       {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
+        "plays": 2
+      },
+      {
         "artist": "Alanis Morissette",
         "title": "You Oughta Know",
+        "plays": 2
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Perfect",
+        "plays": 2
+      },
+      {
+        "artist": "Alle Farben & Ilira",
+        "title": "Fading",
+        "plays": 2
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 2
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 2
       },
       {
@@ -113,11 +143,6 @@
       {
         "artist": "Robbie Williams",
         "title": "Bodies",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "Wrecking Ball",
         "plays": 1
       },
       {
@@ -341,11 +366,6 @@
         "plays": 1
       },
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
         "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
         "title": "The Drop",
         "plays": 1
@@ -368,11 +388,6 @@
       {
         "artist": "Hundreds",
         "title": "Fallacies",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Perfect",
         "plays": 1
       },
       {
@@ -416,16 +431,6 @@
         "plays": 1
       },
       {
-        "artist": "Alle Farben & Ilira",
-        "title": "Fading",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Bad Liar",
-        "plays": 1
-      },
-      {
         "artist": "Lady Gaga, Doechii",
         "title": "Runway",
         "plays": 1
@@ -448,11 +453,6 @@
       {
         "artist": "Coldplay",
         "title": "Fix You",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 1
       },
       {
@@ -688,6 +688,21 @@
       {
         "artist": "Ice Spice",
         "title": "Big Guy",
+        "plays": 1
+      },
+      {
+        "artist": "Chaka Khan",
+        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Warhaus",
+        "title": "No Surprise",
         "plays": 1
       }
     ],
