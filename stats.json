@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 87,
-    "music_entries": 79,
+    "total_entries": 90,
+    "music_entries": 82,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -393,6 +393,21 @@
       {
         "artist": "Aminé",
         "title": "Charmander",
+        "plays": 1
+      },
+      {
+        "artist": "Kevin Morby",
+        "title": "Die Young",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Good 4 You",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
         "plays": 1
       }
     ],

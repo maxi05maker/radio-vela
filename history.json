@@ -520,5 +520,23 @@
     "played_at": "2026-09-07 11:48:05 +0200",
     "title": "Charmander",
     "artist": "Aminé"
+  },
+  {
+    "key": "2026-09-07 11:50:17 +0200|Die Young|Kevin Morby",
+    "played_at": "2026-09-07 11:50:17 +0200",
+    "title": "Die Young",
+    "artist": "Kevin Morby"
+  },
+  {
+    "key": "2026-09-07 11:54:10 +0200|Good 4 You|Olivia Rodrigo",
+    "played_at": "2026-09-07 11:54:10 +0200",
+    "title": "Good 4 You",
+    "artist": "Olivia Rodrigo"
+  },
+  {
+    "key": "2026-09-07 11:57:09 +0200|Escapism.|RAYE, 070 Shake",
+    "played_at": "2026-09-07 11:57:09 +0200",
+    "title": "Escapism.",
+    "artist": "RAYE, 070 Shake"
   }
 ]
