@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 26,
-    "music_entries": 22,
+    "total_entries": 30,
+    "music_entries": 26,
     "songs": [
       {
         "artist": "Death Cab for Cutie",
@@ -113,6 +113,26 @@
       {
         "artist": "Miley Cyrus",
         "title": "Wrecking Ball",
+        "plays": 1
+      },
+      {
+        "artist": "Alanis Morissette",
+        "title": "You Oughta Know",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "The One",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + the Machine",
+        "title": "Shake It Out",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
         "plays": 1
       }
     ],
