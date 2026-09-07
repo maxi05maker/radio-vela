@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 394,
-    "music_entries": 364,
+    "total_entries": 403,
+    "music_entries": 372,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -48,6 +48,11 @@
       {
         "artist": "Kelvin Jones",
         "title": "Cry A Little Less",
+        "plays": 3
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Run",
         "plays": 3
       },
       {
@@ -148,11 +153,6 @@
       {
         "artist": "Ufo361 & Nina Chuba",
         "title": "LIEBE (feat. Nina Chuba) [Explicit]",
-        "plays": 2
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "Run",
         "plays": 2
       },
       {
@@ -421,6 +421,11 @@
         "plays": 2
       },
       {
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
+        "plays": 2
+      },
+      {
         "artist": "The 1975",
         "title": "Part Of The Band",
         "plays": 2
@@ -481,6 +486,11 @@
         "plays": 2
       },
       {
+        "artist": "Imagine Dragons",
+        "title": "Follow You",
+        "plays": 2
+      },
+      {
         "artist": "Lauren Spencer-Smith",
         "title": "Flowers",
         "plays": 2
@@ -501,6 +511,11 @@
         "plays": 2
       },
       {
+        "artist": "Dove Cameron",
+        "title": "Boyfriend",
+        "plays": 2
+      },
+      {
         "artist": "Lil Tjay",
         "title": "In My Head",
         "plays": 2
@@ -508,6 +523,11 @@
       {
         "artist": "Ed Sheeran",
         "title": "Overpass Graffiti",
+        "plays": 2
+      },
+      {
+        "artist": "Phoenix feat. Ezra Koenig",
+        "title": "Tonight (feat. Ezra Koenig)",
         "plays": 2
       },
       {
@@ -876,11 +896,6 @@
         "plays": 1
       },
       {
-        "artist": "Alex Warren",
-        "title": "FEVER DREAM",
-        "plays": 1
-      },
-      {
         "artist": "Madonna",
         "title": "Danceteria",
         "plays": 1
@@ -931,11 +946,6 @@
         "plays": 1
       },
       {
-        "artist": "Imagine Dragons",
-        "title": "Follow You",
-        "plays": 1
-      },
-      {
         "artist": "Malik Harris",
         "title": "lie to me",
         "plays": 1
@@ -971,11 +981,6 @@
         "plays": 1
       },
       {
-        "artist": "Dove Cameron",
-        "title": "Boyfriend",
-        "plays": 1
-      },
-      {
         "artist": "Die Nerven",
         "title": "BIS ANS MEER",
         "plays": 1
@@ -1008,11 +1013,6 @@
       {
         "artist": "Trettmann",
         "title": "Haus Aus Zink feat. Luna",
-        "plays": 1
-      },
-      {
-        "artist": "Phoenix feat. Ezra Koenig",
-        "title": "Tonight (feat. Ezra Koenig)",
         "plays": 1
       },
       {
@@ -1183,6 +1183,21 @@
       {
         "artist": "Kool Savas",
         "title": "Berlin",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "Be Mine",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
+        "plays": 1
+      },
+      {
+        "artist": "Foo Fighters",
+        "title": "Rope",
         "plays": 1
       }
     ],
