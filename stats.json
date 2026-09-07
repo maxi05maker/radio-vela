@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 38,
-    "music_entries": 33,
+    "total_entries": 43,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "Death Cab for Cutie",
@@ -168,6 +168,31 @@
       {
         "artist": "Calvin Harris,Jazzy",
         "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Catch And Release (Deepend Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers & Kim Petras",
+        "title": "Don't Lie (HITtipp)",
+        "plays": 1
+      },
+      {
+        "artist": "The Black Keys",
+        "title": "Tighten Up",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd (feat. Daft Punk)",
+        "title": "I Feel It Coming",
         "plays": 1
       }
     ],

@@ -226,5 +226,35 @@
     "played_at": "2026-09-07 09:07:53 +0200",
     "title": "Satisfy",
     "artist": "Calvin Harris,Jazzy"
+  },
+  {
+    "key": "2026-09-07 09:10:58 +0200|Loco Contigo|DJ Snake & J. Balvin Feat. Tyga",
+    "played_at": "2026-09-07 09:10:58 +0200",
+    "title": "Loco Contigo",
+    "artist": "DJ Snake & J. Balvin Feat. Tyga"
+  },
+  {
+    "key": "2026-09-07 09:14:02 +0200|Catch And Release (Deepend Remix)|Matt Simons",
+    "played_at": "2026-09-07 09:14:02 +0200",
+    "title": "Catch And Release (Deepend Remix)",
+    "artist": "Matt Simons"
+  },
+  {
+    "key": "2026-09-07 09:17:17 +0200|Don't Lie (HITtipp)|The Chainsmokers & Kim Petras",
+    "played_at": "2026-09-07 09:17:17 +0200",
+    "title": "Don't Lie (HITtipp)",
+    "artist": "The Chainsmokers & Kim Petras"
+  },
+  {
+    "key": "2026-09-07 09:19:45 +0200|Tighten Up|The Black Keys",
+    "played_at": "2026-09-07 09:19:45 +0200",
+    "title": "Tighten Up",
+    "artist": "The Black Keys"
+  },
+  {
+    "key": "2026-09-07 09:23:15 +0200|I Feel It Coming|The Weeknd (feat. Daft Punk)",
+    "played_at": "2026-09-07 09:23:15 +0200",
+    "title": "I Feel It Coming",
+    "artist": "The Weeknd (feat. Daft Punk)"
   }
 ]
