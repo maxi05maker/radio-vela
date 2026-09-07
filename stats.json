@@ -2,18 +2,18 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 379,
-    "music_entries": 349,
+    "total_entries": 383,
+    "music_entries": 353,
     "songs": [
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 4
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 4
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 3
       },
       {
         "artist": "Michael Schulte, R3HAB",
@@ -33,6 +33,11 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 3
+      },
+      {
+        "artist": "WILLOW",
+        "title": "it's my fault",
         "plays": 3
       },
       {
@@ -81,6 +86,11 @@
         "plays": 3
       },
       {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 3
+      },
+      {
         "artist": "Pusha T",
         "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 3
@@ -116,13 +126,13 @@
         "plays": 2
       },
       {
-        "artist": "WILLOW",
-        "title": "it's my fault",
+        "artist": "OneRepublic",
+        "title": "Run",
         "plays": 2
       },
       {
-        "artist": "OneRepublic",
-        "title": "Run",
+        "artist": "Charli XCX",
+        "title": "My Reminder",
         "plays": 2
       },
       {
@@ -183,11 +193,6 @@
       {
         "artist": "Imagine Dragons",
         "title": "Sharks",
-        "plays": 2
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
         "plays": 2
       },
       {
@@ -736,11 +741,6 @@
         "plays": 1
       },
       {
-        "artist": "Charli XCX",
-        "title": "My Reminder",
-        "plays": 1
-      },
-      {
         "artist": "FILLY",
         "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
         "plays": 1
@@ -1187,8 +1187,8 @@
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "Harry Styles",
+      "title": "As It Was",
       "plays": 4
     }
   }
