@@ -2,12 +2,17 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 142,
-    "music_entries": 130,
+    "total_entries": 146,
+    "music_entries": 133,
     "songs": [
       {
         "artist": "Coi Leray",
         "title": "Anxiety",
+        "plays": 3
+      },
+      {
+        "artist": "Foster The People",
+        "title": "Pumped Up Kicks",
         "plays": 2
       },
       {
@@ -43,11 +48,6 @@
       {
         "artist": "JENNIE, Dua Lipa",
         "title": "Handlebars",
-        "plays": 1
-      },
-      {
-        "artist": "Foster The People",
-        "title": "Pumped Up Kicks",
         "plays": 1
       },
       {
@@ -649,12 +649,17 @@
         "artist": "Ariana Grande",
         "title": "petal",
         "plays": 1
+      },
+      {
+        "artist": "Sarah Connor & Sido",
+        "title": "Interstellar (Zwischen den Sternen)",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Coi Leray",
       "title": "Anxiety",
-      "plays": 2
+      "plays": 3
     }
   }
 }
