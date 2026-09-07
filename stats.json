@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 405,
-    "music_entries": 374,
+    "total_entries": 407,
+    "music_entries": 376,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1198,6 +1198,16 @@
       {
         "artist": "Foo Fighters",
         "title": "Rope",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
+        "plays": 1
+      },
+      {
+        "artist": "Sido Feat. Andreas Bourani",
+        "title": "Astronaut",
         "plays": 1
       }
     ],
