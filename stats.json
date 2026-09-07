@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 63,
-    "music_entries": 56,
+    "total_entries": 68,
+    "music_entries": 61,
     "songs": [
       {
         "artist": "Death Cab for Cutie",
@@ -283,6 +283,31 @@
       {
         "artist": "Lady Gaga",
         "title": "The Joker",
+        "plays": 1
+      },
+      {
+        "artist": "Kummer",
+        "title": "Es tut wieder weh",
+        "plays": 1
+      },
+      {
+        "artist": "Tones and I",
+        "title": "Dance Monkey",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Scissor Sisters",
+        "title": "I Dont Feel Like Dancing",
         "plays": 1
       }
     ],

@@ -376,5 +376,35 @@
     "played_at": "2026-09-07 10:28:41 +0200",
     "title": "The Joker",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-07 10:31:36 +0200|Es tut wieder weh|Kummer",
+    "played_at": "2026-09-07 10:31:36 +0200",
+    "title": "Es tut wieder weh",
+    "artist": "Kummer"
+  },
+  {
+    "key": "2026-09-07 10:34:40 +0200|Dance Monkey|Tones and I",
+    "played_at": "2026-09-07 10:34:40 +0200",
+    "title": "Dance Monkey",
+    "artist": "Tones and I"
+  },
+  {
+    "key": "2026-09-07 10:38:07 +0200|Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version|Tobee",
+    "played_at": "2026-09-07 10:38:07 +0200",
+    "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+    "artist": "Tobee"
+  },
+  {
+    "key": "2026-09-07 10:41:21 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-09-07 10:41:21 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-09-07 10:43:39 +0200|I Dont Feel Like Dancing|Scissor Sisters",
+    "played_at": "2026-09-07 10:43:39 +0200",
+    "title": "I Dont Feel Like Dancing",
+    "artist": "Scissor Sisters"
   }
 ]
