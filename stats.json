@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 386,
-    "music_entries": 356,
+    "total_entries": 389,
+    "music_entries": 359,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -13,6 +13,11 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 4
+      },
+      {
+        "artist": "Stormzy",
+        "title": "Mel Made Me Do It",
         "plays": 4
       },
       {
@@ -96,6 +101,11 @@
         "plays": 3
       },
       {
+        "artist": "Katja Krasavice",
+        "title": "Raindrops (feat. Leony)",
+        "plays": 3
+      },
+      {
         "artist": "Pusha T",
         "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
         "plays": 3
@@ -103,11 +113,6 @@
       {
         "artist": "Nicki Minaj",
         "title": "Super Freaky Girl",
-        "plays": 3
-      },
-      {
-        "artist": "Stormzy",
-        "title": "Mel Made Me Do It",
         "plays": 3
       },
       {
@@ -213,11 +218,6 @@
       {
         "artist": "The Weeknd",
         "title": "Out Of Time",
-        "plays": 2
-      },
-      {
-        "artist": "Katja Krasavice",
-        "title": "Raindrops (feat. Leony)",
         "plays": 2
       },
       {
@@ -343,6 +343,11 @@
       {
         "artist": "Porridge Radio",
         "title": "The Rip",
+        "plays": 2
+      },
+      {
+        "artist": "Evanescence",
+        "title": "Who Will You Follow",
         "plays": 2
       },
       {
@@ -843,11 +848,6 @@
       {
         "artist": "FAYAN (feat. Dalton)",
         "title": "VERLIEBT IN MICH",
-        "plays": 1
-      },
-      {
-        "artist": "Evanescence",
-        "title": "Who Will You Follow",
         "plays": 1
       },
       {
