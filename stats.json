@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 26,
+    "total_entries": 34,
+    "music_entries": 30,
     "songs": [
       {
         "artist": "Death Cab for Cutie",
@@ -133,6 +133,26 @@
       {
         "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
         "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. CLOVES",
+        "title": "Old Friend (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Toto",
+        "title": "Running out of Time",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Doors",
         "plays": 1
       }
     ],
