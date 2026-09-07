@@ -640,5 +640,23 @@
     "played_at": "2026-09-07 12:53:55 +0200",
     "title": "Weißt du überhaupt noch wer ich bin?",
     "artist": "Zartmann"
+  },
+  {
+    "key": "2026-09-07 12:56:04 +0200|Something Just Like This|The Chainsmokers & Coldplay",
+    "played_at": "2026-09-07 12:56:04 +0200",
+    "title": "Something Just Like This",
+    "artist": "The Chainsmokers & Coldplay"
+  },
+  {
+    "key": "2026-09-07 13:00:11 +0200|Shape of You|Ed Sheeran",
+    "played_at": "2026-09-07 13:00:11 +0200",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-07 13:04:05 +0200|LIEBE (feat. Nina Chuba) [Explicit]|Ufo361 & Nina Chuba",
+    "played_at": "2026-09-07 13:04:05 +0200",
+    "title": "LIEBE (feat. Nina Chuba) [Explicit]",
+    "artist": "Ufo361 & Nina Chuba"
   }
 ]
