@@ -328,5 +328,29 @@
     "played_at": "2026-09-07 09:59:21 +0200",
     "title": "Something In The Way You Move",
     "artist": "Ellie Goulding"
+  },
+  {
+    "key": "2026-09-07 10:03:08 +0200|Drop dead|Olivia Rodrigo",
+    "played_at": "2026-09-07 10:03:08 +0200",
+    "title": "Drop dead",
+    "artist": "Olivia Rodrigo"
+  },
+  {
+    "key": "2026-09-07 10:06:50 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-07 10:06:50 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-07 10:09:29 +0200|Rag Doll|Aerosmith",
+    "played_at": "2026-09-07 10:09:29 +0200",
+    "title": "Rag Doll",
+    "artist": "Aerosmith"
+  },
+  {
+    "key": "2026-09-07 10:13:55 +0200|I Ain’t Worried|OneRepublic",
+    "played_at": "2026-09-07 10:13:55 +0200",
+    "title": "I Ain’t Worried",
+    "artist": "OneRepublic"
   }
 ]
