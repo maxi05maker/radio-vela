@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 390,
-    "music_entries": 360,
+    "total_entries": 394,
+    "music_entries": 364,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -101,8 +101,18 @@
         "plays": 3
       },
       {
+        "artist": "Starley",
+        "title": "Call on Me",
+        "plays": 3
+      },
+      {
         "artist": "Katja Krasavice",
         "title": "Raindrops (feat. Leony)",
+        "plays": 3
+      },
+      {
+        "artist": "SDP",
+        "title": "Du hast gehofft",
         "plays": 3
       },
       {
@@ -156,6 +166,11 @@
         "plays": 2
       },
       {
+        "artist": "FILLY",
+        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
+        "plays": 2
+      },
+      {
         "artist": "Nathan Evans",
         "title": "Told You So",
         "plays": 2
@@ -168,6 +183,11 @@
       {
         "artist": "Gryffin & OneRepublic",
         "title": "You Were Loved",
+        "plays": 2
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Abracadabra",
         "plays": 2
       },
       {
@@ -206,11 +226,6 @@
         "plays": 2
       },
       {
-        "artist": "Starley",
-        "title": "Call on Me",
-        "plays": 2
-      },
-      {
         "artist": "Ravi Kuma",
         "title": "Backbone",
         "plays": 2
@@ -218,11 +233,6 @@
       {
         "artist": "The Weeknd",
         "title": "Out Of Time",
-        "plays": 2
-      },
-      {
-        "artist": "SDP",
-        "title": "Du hast gehofft",
         "plays": 2
       },
       {
@@ -756,11 +766,6 @@
         "plays": 1
       },
       {
-        "artist": "FILLY",
-        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
-        "plays": 1
-      },
-      {
         "artist": "One-T, YWY, Nika",
         "title": "The Way To Love (feat. YWY, Nika)",
         "plays": 1
@@ -768,11 +773,6 @@
       {
         "artist": "Sabrina Carpenter",
         "title": "Manchild",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "Abracadabra",
         "plays": 1
       },
       {
