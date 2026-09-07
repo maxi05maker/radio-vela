@@ -2,9 +2,14 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 351,
-    "music_entries": 323,
+    "total_entries": 354,
+    "music_entries": 326,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 4
+      },
       {
         "artist": "Harry Styles",
         "title": "As It Was",
@@ -46,11 +51,6 @@
         "plays": 3
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 3
-      },
-      {
         "artist": "Stormzy",
         "title": "Mel Made Me Do It",
         "plays": 3
@@ -63,6 +63,11 @@
       {
         "artist": "Kraftklub",
         "title": "Schief in jedem Chor",
+        "plays": 2
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wenn das Liebe ist",
         "plays": 2
       },
       {
@@ -313,6 +318,11 @@
       {
         "artist": "Nura",
         "title": "Ich War's Nicht",
+        "plays": 2
+      },
+      {
+        "artist": "Porridge Radio",
+        "title": "The Rip",
         "plays": 2
       },
       {
@@ -591,11 +601,6 @@
         "plays": 1
       },
       {
-        "artist": "Nina Chuba",
-        "title": "Wenn das Liebe ist",
-        "plays": 1
-      },
-      {
         "artist": "Imagine Dragons",
         "title": "Bad Liar",
         "plays": 1
@@ -788,11 +793,6 @@
       {
         "artist": "Portugal. The Man",
         "title": "Tanana",
-        "plays": 1
-      },
-      {
-        "artist": "Porridge Radio",
-        "title": "The Rip",
         "plays": 1
       },
       {
@@ -1157,9 +1157,9 @@
       }
     ],
     "top_song": {
-      "artist": "Harry Styles",
-      "title": "As It Was",
-      "plays": 3
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 4
     }
   }
 }

@@ -4822,5 +4822,23 @@
     "played_at": "2026-09-07 01:44:03 +0200",
     "title": "Sharks",
     "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-07 01:47:14 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-07 01:47:14 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-07 01:50:48 +0200|Wenn das Liebe ist|Nina Chuba",
+    "played_at": "2026-09-07 01:50:48 +0200",
+    "title": "Wenn das Liebe ist",
+    "artist": "Nina Chuba"
+  },
+  {
+    "key": "2026-09-07 01:53:33 +0200|The Rip|Porridge Radio",
+    "played_at": "2026-09-07 01:53:33 +0200",
+    "title": "The Rip",
+    "artist": "Porridge Radio"
   }
 ]
