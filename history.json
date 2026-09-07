@@ -796,5 +796,41 @@
     "played_at": "2026-09-07 14:22:45 +0200",
     "title": "Abracadabra",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-07 14:27:15 +0200|Die beste Musik aus allen Jahrzenten|Jingle",
+    "played_at": "2026-09-07 14:27:15 +0200",
+    "title": "Die beste Musik aus allen Jahrzenten",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-07 14:27:50 +0200|Diamonds|Josef Salvat",
+    "played_at": "2026-09-07 14:27:50 +0200",
+    "title": "Diamonds",
+    "artist": "Josef Salvat"
+  },
+  {
+    "key": "2026-09-07 14:31:51 +0200|Swallow My Tears|Gwen Stefani",
+    "played_at": "2026-09-07 14:31:51 +0200",
+    "title": "Swallow My Tears",
+    "artist": "Gwen Stefani"
+  },
+  {
+    "key": "2026-09-07 14:34:45 +0200|Golden Nights|Sophie & The Giants",
+    "played_at": "2026-09-07 14:34:45 +0200",
+    "title": "Golden Nights",
+    "artist": "Sophie & The Giants"
+  },
+  {
+    "key": "2026-09-07 14:37:45 +0200|Leiser|LEA",
+    "played_at": "2026-09-07 14:37:45 +0200",
+    "title": "Leiser",
+    "artist": "LEA"
+  },
+  {
+    "key": "2026-09-07 14:41:11 +0200|Lonely is the Muse|Halsey",
+    "played_at": "2026-09-07 14:41:11 +0200",
+    "title": "Lonely is the Muse",
+    "artist": "Halsey"
   }
 ]
