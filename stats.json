@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 43,
-    "music_entries": 38,
+    "total_entries": 48,
+    "music_entries": 42,
     "songs": [
       {
         "artist": "Death Cab for Cutie",
@@ -193,6 +193,26 @@
       {
         "artist": "The Weeknd (feat. Daft Punk)",
         "title": "I Feel It Coming",
+        "plays": 1
+      },
+      {
+        "artist": "Summer Cem / Shirin David",
+        "title": "MO' MONEY MO' HATERS",
+        "plays": 1
+      },
+      {
+        "artist": "Echosmith",
+        "title": "Cool Kids",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Ready For Your Love",
+        "plays": 1
+      },
+      {
+        "artist": "Culcha Candela",
+        "title": "Hamma!",
         "plays": 1
       }
     ],
