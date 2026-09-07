@@ -112,5 +112,47 @@
     "played_at": "2026-09-07 08:01:59 +0200",
     "title": "Who Says",
     "artist": "TEMPERS"
+  },
+  {
+    "key": "2026-09-07 08:05:28 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-07 08:05:28 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-07 08:08:12 +0200|Die Beste Musik Nonstop|Radio Karen",
+    "played_at": "2026-09-07 08:08:12 +0200",
+    "title": "Die Beste Musik Nonstop",
+    "artist": "Radio Karen"
+  },
+  {
+    "key": "2026-09-07 08:08:19 +0200|You Belong With Me|Taylor Swift",
+    "played_at": "2026-09-07 08:08:19 +0200",
+    "title": "You Belong With Me",
+    "artist": "Taylor Swift"
+  },
+  {
+    "key": "2026-09-07 08:12:11 +0200|Savior With A Razor (feat. Slash)|Beth Hart",
+    "played_at": "2026-09-07 08:12:11 +0200",
+    "title": "Savior With A Razor (feat. Slash)",
+    "artist": "Beth Hart"
+  },
+  {
+    "key": "2026-09-07 08:16:59 +0200|Bodies|Robbie Williams",
+    "played_at": "2026-09-07 08:16:59 +0200",
+    "title": "Bodies",
+    "artist": "Robbie Williams"
+  },
+  {
+    "key": "2026-09-07 08:21:03 +0200|Castle on the Hill|Ed Sheeran",
+    "played_at": "2026-09-07 08:21:03 +0200",
+    "title": "Castle on the Hill",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-07 08:25:24 +0200|Wrecking Ball|Miley Cyrus",
+    "played_at": "2026-09-07 08:25:24 +0200",
+    "title": "Wrecking Ball",
+    "artist": "Miley Cyrus"
   }
 ]

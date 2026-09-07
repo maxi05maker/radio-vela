@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 19,
-    "music_entries": 16,
+    "total_entries": 26,
+    "music_entries": 22,
     "songs": [
       {
         "artist": "Death Cab for Cutie",
@@ -83,6 +83,36 @@
       {
         "artist": "TEMPERS",
         "title": "Who Says",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "You Belong With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Beth Hart",
+        "title": "Savior With A Razor (feat. Slash)",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Bodies",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
         "plays": 1
       }
     ],
