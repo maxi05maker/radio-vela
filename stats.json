@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 356,
-    "music_entries": 328,
+    "total_entries": 362,
+    "music_entries": 333,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -36,6 +36,11 @@
         "plays": 3
       },
       {
+        "artist": "Kelvin Jones",
+        "title": "Cry A Little Less",
+        "plays": 3
+      },
+      {
         "artist": "Mia Morgan",
         "title": "Jennifer Check",
         "plays": 3
@@ -46,8 +51,18 @@
         "plays": 3
       },
       {
+        "artist": "Lana Del Rey",
+        "title": "Arcadia",
+        "plays": 3
+      },
+      {
         "artist": "Pusha T",
         "title": "Neck & Wrist feat. Jay-Z & Pharrell Williams",
+        "plays": 3
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Super Freaky Girl",
         "plays": 3
       },
       {
@@ -81,11 +96,6 @@
         "plays": 2
       },
       {
-        "artist": "Kelvin Jones",
-        "title": "Cry A Little Less",
-        "plays": 2
-      },
-      {
         "artist": "OneRepublic",
         "title": "Run",
         "plays": 2
@@ -108,11 +118,6 @@
       {
         "artist": "Capital Cities",
         "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
-        "plays": 2
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Arcadia",
         "plays": 2
       },
       {
@@ -271,11 +276,6 @@
         "plays": 2
       },
       {
-        "artist": "Nicki Minaj",
-        "title": "Super Freaky Girl",
-        "plays": 2
-      },
-      {
         "artist": "CRO",
         "title": "High (feat. Claudia Valentina)",
         "plays": 2
@@ -403,6 +403,11 @@
       {
         "artist": "Jonas Brothers",
         "title": "Who's In Your Head",
+        "plays": 2
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
         "plays": 2
       },
       {
@@ -881,11 +886,6 @@
         "plays": 1
       },
       {
-        "artist": "Walking On Cars",
-        "title": "Speeding Cars",
-        "plays": 1
-      },
-      {
         "artist": "Jorja Smith",
         "title": "The Way I Love You",
         "plays": 1
@@ -1158,6 +1158,11 @@
       {
         "artist": "Robbie Williams & Jesse & Joy",
         "title": "Human (feat. Jesse & Joy)",
+        "plays": 1
+      },
+      {
+        "artist": "Chappell Roan",
+        "title": "The Subway",
         "plays": 1
       }
     ],
