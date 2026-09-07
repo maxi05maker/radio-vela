@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 407,
-    "music_entries": 376,
+    "total_entries": 411,
+    "music_entries": 379,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -1208,6 +1208,21 @@
       {
         "artist": "Sido Feat. Andreas Bourani",
         "title": "Astronaut",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Pazifik",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Fix You",
+        "plays": 1
+      },
+      {
+        "artist": "Alicia Keys",
+        "title": "No One",
         "plays": 1
       }
     ],
