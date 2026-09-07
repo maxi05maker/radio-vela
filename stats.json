@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 93,
-    "music_entries": 84,
+    "total_entries": 98,
+    "music_entries": 89,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -418,6 +418,31 @@
       {
         "artist": "Alle Farben & Ilira",
         "title": "Fading",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga, Doechii",
+        "title": "Runway",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay X BTS",
+        "title": "My Universe",
+        "plays": 1
+      },
+      {
+        "artist": "The Bevis Frond",
+        "title": "Quietly",
         "plays": 1
       }
     ],
