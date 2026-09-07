@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 124,
-    "music_entries": 114,
+    "total_entries": 127,
+    "music_entries": 117,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -568,6 +568,21 @@
       {
         "artist": "Adel Tawil",
         "title": "Ist da jemand",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
+        "plays": 1
+      },
+      {
+        "artist": "King Gizzard & The Lizard Wizard",
+        "title": "Le Risque",
+        "plays": 1
+      },
+      {
+        "artist": "MGMT",
+        "title": "Kids",
         "plays": 1
       }
     ],
