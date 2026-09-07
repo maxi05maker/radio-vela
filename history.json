@@ -538,5 +538,23 @@
     "played_at": "2026-09-07 11:57:09 +0200",
     "title": "Escapism.",
     "artist": "RAYE, 070 Shake"
+  },
+  {
+    "key": "2026-09-07 12:01:41 +0200|Mehr Glück als Verstand|Johannes Oerding",
+    "played_at": "2026-09-07 12:01:41 +0200",
+    "title": "Mehr Glück als Verstand",
+    "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-09-07 12:04:35 +0200|Fading|Alle Farben & Ilira",
+    "played_at": "2026-09-07 12:04:35 +0200",
+    "title": "Fading",
+    "artist": "Alle Farben & Ilira"
+  },
+  {
+    "key": "2026-09-07 12:08:02 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-07 12:08:02 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
