@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 127,
-    "music_entries": 117,
+    "total_entries": 133,
+    "music_entries": 122,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -583,6 +583,31 @@
       {
         "artist": "MGMT",
         "title": "Kids",
+        "plays": 1
+      },
+      {
+        "artist": "Marlon Roudette",
+        "title": "When The Beat Drops Out",
+        "plays": 1
+      },
+      {
+        "artist": "Antifuchs",
+        "title": "Meine Fans",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Stitches",
+        "plays": 1
+      },
+      {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Abracadabra",
         "plays": 1
       }
     ],
