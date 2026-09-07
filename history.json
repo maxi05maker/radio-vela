@@ -58,5 +58,23 @@
     "played_at": "2026-09-07 07:31:51 +0200",
     "title": "Handlebars",
     "artist": "JENNIE, Dua Lipa"
+  },
+  {
+    "key": "2026-09-07 07:34:56 +0200|Pumped Up Kicks|Foster The People",
+    "played_at": "2026-09-07 07:34:56 +0200",
+    "title": "Pumped Up Kicks",
+    "artist": "Foster The People"
+  },
+  {
+    "key": "2026-09-07 07:38:54 +0200|Safe|Nico Santos",
+    "played_at": "2026-09-07 07:38:54 +0200",
+    "title": "Safe",
+    "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-09-07 07:42:18 +0200|I Never Loved You|Halsey",
+    "played_at": "2026-09-07 07:42:18 +0200",
+    "title": "I Never Loved You",
+    "artist": "Halsey"
   }
 ]
