@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 423,
-    "music_entries": 391,
+    "total_entries": 426,
+    "music_entries": 393,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -453,6 +453,11 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
+        "plays": 2
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "That’s So True",
         "plays": 2
       },
       {
@@ -911,11 +916,6 @@
         "plays": 1
       },
       {
-        "artist": "Gracie Abrams",
-        "title": "That’s So True",
-        "plays": 1
-      },
-      {
         "artist": "Robyn",
         "title": "Talk To Me",
         "plays": 1
@@ -1278,6 +1278,11 @@
       {
         "artist": "Jessie J feat. B.O.B.",
         "title": "Price Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "No Roots",
         "plays": 1
       }
     ],
