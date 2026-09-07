@@ -100,5 +100,17 @@
     "played_at": "2026-09-07 07:53:27 +0200",
     "title": "Just Dance",
     "artist": "Lady Gaga feat. Colby O'donis"
+  },
+  {
+    "key": "2026-09-07 07:57:30 +0200|Big Girls Don't Cry|Fergie",
+    "played_at": "2026-09-07 07:57:30 +0200",
+    "title": "Big Girls Don't Cry",
+    "artist": "Fergie"
+  },
+  {
+    "key": "2026-09-07 08:01:59 +0200|Who Says|TEMPERS",
+    "played_at": "2026-09-07 08:01:59 +0200",
+    "title": "Who Says",
+    "artist": "TEMPERS"
   }
 ]
