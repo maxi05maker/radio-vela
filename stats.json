@@ -2,8 +2,8 @@
   "2026-09-06 07:00": {
     "period_start": "2026-09-06T07:00:00+02:00",
     "period_end": "2026-09-07T07:00:00+02:00",
-    "total_entries": 362,
-    "music_entries": 333,
+    "total_entries": 367,
+    "music_entries": 338,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -46,6 +46,11 @@
         "plays": 3
       },
       {
+        "artist": "Mark Forster",
+        "title": "Sowieso",
+        "plays": 3
+      },
+      {
         "artist": "Juice WRLD",
         "title": "Face 2 face",
         "plays": 3
@@ -53,6 +58,11 @@
       {
         "artist": "Lana Del Rey",
         "title": "Arcadia",
+        "plays": 3
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
         "plays": 3
       },
       {
@@ -106,11 +116,6 @@
         "plays": 2
       },
       {
-        "artist": "Mark Forster",
-        "title": "Sowieso",
-        "plays": 2
-      },
-      {
         "artist": "Nathan Evans",
         "title": "Told You So",
         "plays": 2
@@ -128,11 +133,6 @@
       {
         "artist": "Gryffin & OneRepublic",
         "title": "You Were Loved",
-        "plays": 2
-      },
-      {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
         "plays": 2
       },
       {
@@ -316,6 +316,11 @@
         "plays": 2
       },
       {
+        "artist": "The Pretty Reckless",
+        "title": "Rollercoaster Of Life",
+        "plays": 2
+      },
+      {
         "artist": "Nura",
         "title": "Ich War's Nicht",
         "plays": 2
@@ -338,6 +343,11 @@
       {
         "artist": "Alex Cameron",
         "title": "Best Life",
+        "plays": 2
+      },
+      {
+        "artist": "Massive Attack x Tom Waits",
+        "title": "Boots on the Ground",
         "plays": 2
       },
       {
@@ -423,6 +433,11 @@
       {
         "artist": "Shawn Mendes & Camila Cabello",
         "title": "Señorita",
+        "plays": 2
+      },
+      {
+        "artist": "ClockClock",
+        "title": "Sorry",
         "plays": 2
       },
       {
@@ -791,11 +806,6 @@
         "plays": 1
       },
       {
-        "artist": "The Pretty Reckless",
-        "title": "Rollercoaster Of Life",
-        "plays": 1
-      },
-      {
         "artist": "Shawn Mendes",
         "title": "When You're Gone",
         "plays": 1
@@ -823,11 +833,6 @@
       {
         "artist": "Michael Schulte",
         "title": "Broken Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "Massive Attack x Tom Waits",
-        "title": "Boots on the Ground",
         "plays": 1
       },
       {
@@ -898,11 +903,6 @@
       {
         "artist": "Tate McRae",
         "title": "Its ok Im ok",
-        "plays": 1
-      },
-      {
-        "artist": "ClockClock",
-        "title": "Sorry",
         "plays": 1
       },
       {
