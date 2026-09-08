@@ -2,8 +2,8 @@
   "2026-09-07 07:00": {
     "period_start": "2026-09-07T07:00:00+02:00",
     "period_end": "2026-09-08T07:00:00+02:00",
-    "total_entries": 188,
-    "music_entries": 173,
+    "total_entries": 198,
+    "music_entries": 181,
     "songs": [
       {
         "artist": "Coi Leray",
@@ -23,6 +23,11 @@
       {
         "artist": "Adele",
         "title": "Rolling In The Deep",
+        "plays": 2
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Twizzler",
         "plays": 2
       },
       {
@@ -81,6 +86,16 @@
         "plays": 2
       },
       {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 2
+      },
+      {
+        "artist": "Revolverheld feat. Antje Schomaker",
+        "title": "Liebe auf Distanz",
+        "plays": 2
+      },
+      {
         "artist": "Josef Salvat",
         "title": "Diamonds",
         "plays": 2
@@ -93,11 +108,6 @@
       {
         "artist": "Momma",
         "title": "I Want You (Fever)",
-        "plays": 1
-      },
-      {
-        "artist": "Cigarettes After Sex",
-        "title": "Twizzler",
         "plays": 1
       },
       {
@@ -526,11 +536,6 @@
         "plays": 1
       },
       {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
-        "plays": 1
-      },
-      {
         "artist": "Shirin David",
         "title": "Ich darf das",
         "plays": 1
@@ -553,11 +558,6 @@
       {
         "artist": "Clueso",
         "title": "Minimum",
-        "plays": 1
-      },
-      {
-        "artist": "Revolverheld feat. Antje Schomaker",
-        "title": "Liebe auf Distanz",
         "plays": 1
       },
       {
@@ -778,6 +778,31 @@
       {
         "artist": "Fritz Kalkbrenner",
         "title": "It Ain't Over",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "No Tears Left To Cry",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Großstadt",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Super Freaky Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Ennio",
+        "title": "Fühlst du gar nichts? feat. Nina Chuba",
         "plays": 1
       }
     ],
