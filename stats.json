@@ -2,9 +2,14 @@
   "2026-09-08 07:00": {
     "period_start": "2026-09-08T07:00:00+02:00",
     "period_end": "2026-09-09T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 41,
+    "total_entries": 60,
+    "music_entries": 50,
     "songs": [
+      {
+        "artist": "Die Toten Hosen",
+        "title": "Tage wie diese",
+        "plays": 2
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
@@ -83,11 +88,6 @@
       {
         "artist": "JJerome87",
         "title": "Mr. Alligator",
-        "plays": 1
-      },
-      {
-        "artist": "Die Toten Hosen",
-        "title": "Tage wie diese",
         "plays": 1
       },
       {
@@ -204,11 +204,51 @@
         "artist": "Calvin Harris",
         "title": "SMOKE THE PAIN AWAY",
         "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Es könnte grad nicht schöner sein",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith, YUNGBLUD",
+        "title": "Problems",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Perfect",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Try",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Shook",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "Die Toten Hosen",
+      "title": "Tage wie diese",
       "plays": 2
     }
   }
