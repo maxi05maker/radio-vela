@@ -2,8 +2,8 @@
   "2026-09-08 07:00": {
     "period_start": "2026-09-08T07:00:00+02:00",
     "period_end": "2026-09-09T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 16,
+    "total_entries": 30,
+    "music_entries": 24,
     "songs": [
       {
         "artist": "A1 x J1 & Tion Wayne",
@@ -83,6 +83,46 @@
       {
         "artist": "Die Toten Hosen",
         "title": "Tage wie diese",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Kesha",
+        "title": "DELUSIONAL (Main Version)",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
+        "plays": 1
+      },
+      {
+        "artist": "The Marías",
+        "title": "No One Noticed",
+        "plays": 1
+      },
+      {
+        "artist": "Sunrise Avenue",
+        "title": "Lifesaver",
+        "plays": 1
+      },
+      {
+        "artist": "Dj Robin & Schürze",
+        "title": "Layla",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "The Fate of Ophelia",
         "plays": 1
       }
     ],
