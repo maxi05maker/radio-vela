@@ -2,9 +2,14 @@
   "2026-09-08 07:00": {
     "period_start": "2026-09-08T07:00:00+02:00",
     "period_end": "2026-09-09T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 32,
+    "total_entries": 50,
+    "music_entries": 41,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 2
+      },
       {
         "artist": "A1 x J1 & Tion Wayne",
         "title": "Night Away (Dance)",
@@ -86,11 +91,6 @@
         "plays": 1
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
         "artist": "Kesha",
         "title": "DELUSIONAL (Main Version)",
         "plays": 1
@@ -164,12 +164,52 @@
         "artist": "Provinz",
         "title": "Hymne gegen euch",
         "plays": 1
+      },
+      {
+        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
+        "title": "The Drop",
+        "plays": 1
+      },
+      {
+        "artist": "Farin Urlaub",
+        "title": "Sie (Single Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "BOY",
+        "title": "Fit Back In",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & Faithless",
+        "title": "New Religion",
+        "plays": 1
+      },
+      {
+        "artist": "The Strumbellas",
+        "title": "Spirits",
+        "plays": 1
+      },
+      {
+        "artist": "Echosmith",
+        "title": "Cool Kids",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "SMOKE THE PAIN AWAY",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "A1 x J1 & Tion Wayne",
-      "title": "Night Away (Dance)",
-      "plays": 1
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 2
     }
   }
 }
