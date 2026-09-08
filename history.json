@@ -1366,5 +1366,65 @@
     "played_at": "2026-09-08 17:07:52 +0200",
     "title": "The Fate of Ophelia",
     "artist": "Taylor Swift"
+  },
+  {
+    "key": "2026-09-08 20:08:58 +0200|Don't Go Yet|Camila Cabello",
+    "played_at": "2026-09-08 20:08:58 +0200",
+    "title": "Don't Go Yet",
+    "artist": "Camila Cabello"
+  },
+  {
+    "key": "2026-09-08 20:11:43 +0200|Everything I Ever Saw|THE MENZINGERS",
+    "played_at": "2026-09-08 20:11:43 +0200",
+    "title": "Everything I Ever Saw",
+    "artist": "THE MENZINGERS"
+  },
+  {
+    "key": "2026-09-08 20:15:08 +0200|29|Demi Lovato",
+    "played_at": "2026-09-08 20:15:08 +0200",
+    "title": "29",
+    "artist": "Demi Lovato"
+  },
+  {
+    "key": "2026-09-08 20:17:51 +0200|Control|Zoe Wees",
+    "played_at": "2026-09-08 20:17:51 +0200",
+    "title": "Control",
+    "artist": "Zoe Wees"
+  },
+  {
+    "key": "2026-09-08 20:21:42 +0200|2 hands|Tate McRae",
+    "played_at": "2026-09-08 20:21:42 +0200",
+    "title": "2 hands",
+    "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-09-08 20:24:43 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-09-08 20:24:43 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-08 20:25:19 +0200|Hello|Adele",
+    "played_at": "2026-09-08 20:25:19 +0200",
+    "title": "Hello",
+    "artist": "Adele"
+  },
+  {
+    "key": "2026-09-08 20:30:14 +0200|Komm Ran|Audio88 & Yassin",
+    "played_at": "2026-09-08 20:30:14 +0200",
+    "title": "Komm Ran",
+    "artist": "Audio88 & Yassin"
+  },
+  {
+    "key": "2026-09-08 20:32:56 +0200|Hymne gegen euch|Provinz",
+    "played_at": "2026-09-08 20:32:56 +0200",
+    "title": "Hymne gegen euch",
+    "artist": "Provinz"
+  },
+  {
+    "key": "2026-09-08 20:35:55 +0200|Die beste Musik aus allen Jahrzenten|Jingle",
+    "played_at": "2026-09-08 20:35:55 +0200",
+    "title": "Die beste Musik aus allen Jahrzenten",
+    "artist": "Jingle"
   }
 ]

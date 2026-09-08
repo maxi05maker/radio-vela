@@ -2,8 +2,8 @@
   "2026-09-08 07:00": {
     "period_start": "2026-09-08T07:00:00+02:00",
     "period_end": "2026-09-09T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 24,
+    "total_entries": 40,
+    "music_entries": 32,
     "songs": [
       {
         "artist": "A1 x J1 & Tion Wayne",
@@ -123,6 +123,46 @@
       {
         "artist": "Taylor Swift",
         "title": "The Fate of Ophelia",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello",
+        "title": "Don't Go Yet",
+        "plays": 1
+      },
+      {
+        "artist": "THE MENZINGERS",
+        "title": "Everything I Ever Saw",
+        "plays": 1
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "29",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "2 hands",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "plays": 1
+      },
+      {
+        "artist": "Audio88 & Yassin",
+        "title": "Komm Ran",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Hymne gegen euch",
         "plays": 1
       }
     ],
