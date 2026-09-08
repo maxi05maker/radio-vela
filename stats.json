@@ -2,8 +2,8 @@
   "2026-09-08 07:00": {
     "period_start": "2026-09-08T07:00:00+02:00",
     "period_end": "2026-09-09T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 8,
+    "total_entries": 20,
+    "music_entries": 16,
     "songs": [
       {
         "artist": "A1 x J1 & Tion Wayne",
@@ -43,6 +43,46 @@
       {
         "artist": "Mika",
         "title": "Modern Times",
+        "plays": 1
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Marlboro Mann",
+        "plays": 1
+      },
+      {
+        "artist": "Sido Feat. Andreas Bourani",
+        "title": "Astronaut",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. CLOVES",
+        "title": "Old Friend (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
+        "plays": 1
+      },
+      {
+        "artist": "Anne-Marie",
+        "title": "Ciao Adios",
+        "plays": 1
+      },
+      {
+        "artist": "JJerome87",
+        "title": "Mr. Alligator",
+        "plays": 1
+      },
+      {
+        "artist": "Die Toten Hosen",
+        "title": "Tage wie diese",
         "plays": 1
       }
     ],
