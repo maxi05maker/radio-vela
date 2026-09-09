@@ -2,13 +2,18 @@
   "2026-09-09 07:00": {
     "period_start": "2026-09-09T07:00:00+02:00",
     "period_end": "2026-09-10T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
         "plays": 3
+      },
+      {
+        "artist": "GAYLE",
+        "title": "abcdefu",
+        "plays": 2
       },
       {
         "artist": "Kummer",
@@ -81,11 +86,6 @@
         "plays": 1
       },
       {
-        "artist": "GAYLE",
-        "title": "abcdefu",
-        "plays": 1
-      },
-      {
         "artist": "Bebe Rexha & Faithless",
         "title": "New Religion",
         "plays": 1
@@ -133,6 +133,41 @@
       {
         "artist": "Yolanda Be Cool & Dcup",
         "title": "We No Speak Americano",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Beams",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 1
+      },
+      {
+        "artist": "Kesha",
+        "title": "DELUSIONAL (Main Version)",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Hoch",
+        "plays": 1
+      },
+      {
+        "artist": "mgk",
+        "title": "your name forever",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Hymne gegen euch",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Paparazzi",
         "plays": 1
       }
     ],
