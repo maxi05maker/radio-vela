@@ -1,178 +1,13 @@
 {
-  "2026-09-08 07:00": {
-    "period_start": "2026-09-08T07:00:00+02:00",
-    "period_end": "2026-09-09T07:00:00+02:00",
-    "total_entries": 70,
-    "music_entries": 59,
+  "2026-09-09 07:00": {
+    "period_start": "2026-09-09T07:00:00+02:00",
+    "period_end": "2026-09-10T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Die Toten Hosen",
-        "title": "Tage wie diese",
-        "plays": 2
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 2
-      },
-      {
-        "artist": "A1 x J1 & Tion Wayne",
-        "title": "Night Away (Dance)",
-        "plays": 1
-      },
-      {
-        "artist": "Saint Chaos",
-        "title": "Where I Belong",
-        "plays": 1
-      },
-      {
-        "artist": "Dropkick Murphys",
-        "title": "Who'll Stand With Us?",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "Lost - XXV",
-        "plays": 1
-      },
-      {
-        "artist": "Nicki Minaj",
-        "title": "Super Freaky Girl",
-        "plays": 1
-      },
-      {
-        "artist": "Nathan Evans & SAINT PHNX",
-        "title": "Angels' Share",
-        "plays": 1
-      },
-      {
-        "artist": "Roisin Murphy",
-        "title": "You Know Me Better",
-        "plays": 1
-      },
-      {
-        "artist": "Mika",
-        "title": "Modern Times",
-        "plays": 1
-      },
-      {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
-        "plays": 1
-      },
-      {
-        "artist": "Kraftklub",
-        "title": "Marlboro Mann",
-        "plays": 1
-      },
-      {
-        "artist": "Sido Feat. Andreas Bourani",
-        "title": "Astronaut",
-        "plays": 1
-      },
-      {
-        "artist": "Robin Schulz feat. CLOVES",
-        "title": "Old Friend (Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "Mike Singer",
-        "title": "Deja Vu",
-        "plays": 1
-      },
-      {
-        "artist": "Anne-Marie",
-        "title": "Ciao Adios",
-        "plays": 1
-      },
-      {
-        "artist": "JJerome87",
-        "title": "Mr. Alligator",
-        "plays": 1
-      },
-      {
-        "artist": "Kesha",
-        "title": "DELUSIONAL (Main Version)",
-        "plays": 1
-      },
-      {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Strip",
-        "plays": 1
-      },
-      {
-        "artist": "The Marías",
-        "title": "No One Noticed",
-        "plays": 1
-      },
-      {
-        "artist": "Sunrise Avenue",
-        "title": "Lifesaver",
-        "plays": 1
-      },
-      {
-        "artist": "Dj Robin & Schürze",
-        "title": "Layla",
-        "plays": 1
-      },
-      {
-        "artist": "Taylor Swift",
-        "title": "The Fate of Ophelia",
-        "plays": 1
-      },
-      {
-        "artist": "Camila Cabello",
-        "title": "Don't Go Yet",
-        "plays": 1
-      },
-      {
-        "artist": "THE MENZINGERS",
-        "title": "Everything I Ever Saw",
-        "plays": 1
-      },
-      {
-        "artist": "Demi Lovato",
-        "title": "29",
-        "plays": 1
-      },
-      {
-        "artist": "Zoe Wees",
-        "title": "Control",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "2 hands",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Hello",
-        "plays": 1
-      },
-      {
-        "artist": "Audio88 & Yassin",
-        "title": "Komm Ran",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Hymne gegen euch",
-        "plays": 1
-      },
-      {
-        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
-        "title": "The Drop",
-        "plays": 1
-      },
-      {
-        "artist": "Farin Urlaub",
-        "title": "Sie (Single Edit)",
+        "artist": "Kummer",
+        "title": "Es tut wieder weh",
         "plays": 1
       },
       {
@@ -181,18 +16,8 @@
         "plays": 1
       },
       {
-        "artist": "BOY",
-        "title": "Fit Back In",
-        "plays": 1
-      },
-      {
-        "artist": "Bebe Rexha & Faithless",
-        "title": "New Religion",
-        "plays": 1
-      },
-      {
-        "artist": "The Strumbellas",
-        "title": "Spirits",
+        "artist": "Wavves",
+        "title": "Goner",
         "plays": 1
       },
       {
@@ -201,100 +26,40 @@
         "plays": 1
       },
       {
-        "artist": "Calvin Harris",
-        "title": "SMOKE THE PAIN AWAY",
+        "artist": "BOY",
+        "title": "Fit Back In",
         "plays": 1
       },
       {
-        "artist": "Blond",
-        "title": "Es könnte grad nicht schöner sein",
+        "artist": "Lila Sovia",
+        "title": "Besser",
         "plays": 1
       },
       {
-        "artist": "Aerosmith, YUNGBLUD",
-        "title": "Problems",
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
         "plays": 1
       },
       {
-        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
-        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Malik Harris",
-        "title": "lie to me",
+        "artist": "Obongjayar",
+        "title": "Sweet Danger",
         "plays": 1
       },
       {
         "artist": "Ed Sheeran",
         "title": "Perfect",
         "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Try",
-        "plays": 1
-      },
-      {
-        "artist": "Sugababes",
-        "title": "Shook",
-        "plays": 1
-      },
-      {
-        "artist": "Von Wegen Lisbeth",
-        "title": "Wenn du tanzt",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Jesso",
-        "title": "Clarity",
-        "plays": 1
-      },
-      {
-        "artist": "Finn Wolfhard",
-        "title": "Tunnels",
-        "plays": 1
-      },
-      {
-        "artist": "Beyonce feat. Shakira",
-        "title": "Beautiful Liar",
-        "plays": 1
-      },
-      {
-        "artist": "Rea Garvey feat. Kool Savas",
-        "title": "Is It Love?",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "White Feather Hawk Tail Deer Hunter",
-        "plays": 1
-      },
-      {
-        "artist": "Layla",
-        "title": "Taste",
-        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Die Toten Hosen",
-      "title": "Tage wie diese",
-      "plays": 2
+      "artist": "Kummer",
+      "title": "Es tut wieder weh",
+      "plays": 1
     }
   }
 }
