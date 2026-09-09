@@ -1906,5 +1906,65 @@
     "played_at": "2026-09-09 23:02:51 +0200",
     "title": "Jennifer Check",
     "artist": "Mia Morgan"
+  },
+  {
+    "key": "2026-09-10 00:36:18 +0200|Wenn du liebst [feat. Kat Frankie]|Clueso",
+    "played_at": "2026-09-10 00:36:18 +0200",
+    "title": "Wenn du liebst [feat. Kat Frankie]",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-10 00:40:20 +0200|Kids In Love|Rea Garvey",
+    "played_at": "2026-09-10 00:40:20 +0200",
+    "title": "Kids In Love",
+    "artist": "Rea Garvey"
+  },
+  {
+    "key": "2026-09-10 00:43:27 +0200|Großstadt|Provinz",
+    "played_at": "2026-09-10 00:43:27 +0200",
+    "title": "Großstadt",
+    "artist": "Provinz"
+  },
+  {
+    "key": "2026-09-10 00:46:20 +0200|São Paulo|The Weeknd/Anitta",
+    "played_at": "2026-09-10 00:46:20 +0200",
+    "title": "São Paulo",
+    "artist": "The Weeknd/Anitta"
+  },
+  {
+    "key": "2026-09-10 00:51:22 +0200|Speeding Cars|Walking On Cars",
+    "played_at": "2026-09-10 00:51:22 +0200",
+    "title": "Speeding Cars",
+    "artist": "Walking On Cars"
+  },
+  {
+    "key": "2026-09-10 00:55:24 +0200|We No Speak Americano|Yolanda Be Cool & Dcup",
+    "played_at": "2026-09-10 00:55:24 +0200",
+    "title": "We No Speak Americano",
+    "artist": "Yolanda Be Cool & Dcup"
+  },
+  {
+    "key": "2026-09-10 00:57:55 +0200|Loser|Sophie and the Giants",
+    "played_at": "2026-09-10 00:57:55 +0200",
+    "title": "Loser",
+    "artist": "Sophie and the Giants"
+  },
+  {
+    "key": "2026-09-10 01:01:01 +0200|Señorita|Shawn Mendes & Camila Cabello",
+    "played_at": "2026-09-10 01:01:01 +0200",
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello"
+  },
+  {
+    "key": "2026-09-10 01:04:12 +0200|Rooftop|Nico Santos",
+    "played_at": "2026-09-10 01:04:12 +0200",
+    "title": "Rooftop",
+    "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-09-10 01:07:29 +0200|Kid In A Candy Store|Airbourne",
+    "played_at": "2026-09-10 01:07:29 +0200",
+    "title": "Kid In A Candy Store",
+    "artist": "Airbourne"
   }
 ]

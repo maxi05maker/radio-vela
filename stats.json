@@ -2,8 +2,8 @@
   "2026-09-09 07:00": {
     "period_start": "2026-09-09T07:00:00+02:00",
     "period_end": "2026-09-10T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 46,
+    "total_entries": 60,
+    "music_entries": 56,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -13,6 +13,11 @@
       {
         "artist": "GAYLE",
         "title": "abcdefu",
+        "plays": 2
+      },
+      {
+        "artist": "Yolanda Be Cool & Dcup",
+        "title": "We No Speak Americano",
         "plays": 2
       },
       {
@@ -131,11 +136,6 @@
         "plays": 1
       },
       {
-        "artist": "Yolanda Be Cool & Dcup",
-        "title": "We No Speak Americano",
-        "plays": 1
-      },
-      {
         "artist": "Arlo Parks",
         "title": "Beams",
         "plays": 1
@@ -218,6 +218,51 @@
       {
         "artist": "Mia Morgan",
         "title": "Jennifer Check",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey",
+        "title": "Kids In Love",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Großstadt",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd/Anitta",
+        "title": "São Paulo",
+        "plays": 1
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
+        "plays": 1
+      },
+      {
+        "artist": "Sophie and the Giants",
+        "title": "Loser",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Rooftop",
+        "plays": 1
+      },
+      {
+        "artist": "Airbourne",
+        "title": "Kid In A Candy Store",
         "plays": 1
       }
     ],
