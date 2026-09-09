@@ -2,8 +2,8 @@
   "2026-09-08 07:00": {
     "period_start": "2026-09-08T07:00:00+02:00",
     "period_end": "2026-09-09T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 50,
+    "total_entries": 70,
+    "music_entries": 59,
     "songs": [
       {
         "artist": "Die Toten Hosen",
@@ -243,6 +243,51 @@
       {
         "artist": "Sugababes",
         "title": "Shook",
+        "plays": 1
+      },
+      {
+        "artist": "Von Wegen Lisbeth",
+        "title": "Wenn du tanzt",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "Finn Wolfhard",
+        "title": "Tunnels",
+        "plays": 1
+      },
+      {
+        "artist": "Beyonce feat. Shakira",
+        "title": "Beautiful Liar",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey feat. Kool Savas",
+        "title": "Is It Love?",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
+        "plays": 1
+      },
+      {
+        "artist": "Layla",
+        "title": "Taste",
         "plays": 1
       }
     ],
