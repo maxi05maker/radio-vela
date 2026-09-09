@@ -2,8 +2,8 @@
   "2026-09-09 07:00": {
     "period_start": "2026-09-09T07:00:00+02:00",
     "period_end": "2026-09-10T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 36,
+    "total_entries": 50,
+    "music_entries": 46,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -168,6 +168,56 @@
       {
         "artist": "Lady Gaga",
         "title": "Paparazzi",
+        "plays": 1
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "title": "On The Floor (Feat. Pitbull)",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "Drum Show",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Remedy",
+        "plays": 1
+      },
+      {
+        "artist": "Killer Mike",
+        "title": "Run feat. Dave Chappelle & Young Thug",
+        "plays": 1
+      },
+      {
+        "artist": "The Marías",
+        "title": "No One Noticed",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "KADAVAR",
+        "title": "Scar On My Guitar",
+        "plays": 1
+      },
+      {
+        "artist": "Herbert Grönemeyer feat. Amadou & Mariam",
+        "title": "Zeit, Dass Sich Was Dreht",
+        "plays": 1
+      },
+      {
+        "artist": "Mia Morgan",
+        "title": "Jennifer Check",
         "plays": 1
       }
     ],
