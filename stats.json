@@ -2,17 +2,17 @@
   "2026-09-09 07:00": {
     "period_start": "2026-09-09T07:00:00+02:00",
     "period_end": "2026-09-10T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
-      {
-        "artist": "Kummer",
-        "title": "Es tut wieder weh",
-        "plays": 1
-      },
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "Kummer",
+        "title": "Es tut wieder weh",
         "plays": 1
       },
       {
@@ -54,12 +54,52 @@
         "artist": "Ed Sheeran",
         "title": "Perfect",
         "plays": 1
+      },
+      {
+        "artist": "Saint Chaos",
+        "title": "Where I Belong",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heart Of Gold",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Sacrifice",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Part Of The Band",
+        "plays": 1
+      },
+      {
+        "artist": "FLO",
+        "title": "Check",
+        "plays": 1
+      },
+      {
+        "artist": "GAYLE",
+        "title": "abcdefu",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & Faithless",
+        "title": "New Religion",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Kummer",
-      "title": "Es tut wieder weh",
-      "plays": 1
+      "artist": "Roy Bianco & Die Abbrunzati Boys",
+      "title": "Bella Napoli",
+      "plays": 2
     }
   }
 }
