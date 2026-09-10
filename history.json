@@ -2326,5 +2326,65 @@
     "played_at": "2026-09-10 21:58:59 +0200",
     "title": "Here Goes Nothing",
     "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-09-10 23:56:17 +0200|Swallow My Tears|Gwen Stefani",
+    "played_at": "2026-09-10 23:56:17 +0200",
+    "title": "Swallow My Tears",
+    "artist": "Gwen Stefani"
+  },
+  {
+    "key": "2026-09-10 23:59:12 +0200|The Hanging Tree|James Newton Howard feat. Jennifer Lawrence",
+    "played_at": "2026-09-10 23:59:12 +0200",
+    "title": "The Hanging Tree",
+    "artist": "James Newton Howard feat. Jennifer Lawrence"
+  },
+  {
+    "key": "2026-09-11 00:02:50 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-11 00:02:50 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-11 00:05:40 +0200|Little Bit of Love|Tom Grennan",
+    "played_at": "2026-09-11 00:05:40 +0200",
+    "title": "Little Bit of Love",
+    "artist": "Tom Grennan"
+  },
+  {
+    "key": "2026-09-11 00:09:26 +0200|Schief in jedem Chor|Kraftklub",
+    "played_at": "2026-09-11 00:09:26 +0200",
+    "title": "Schief in jedem Chor",
+    "artist": "Kraftklub"
+  },
+  {
+    "key": "2026-09-11 00:12:33 +0200|Addicted To You|Avicii",
+    "played_at": "2026-09-11 00:12:33 +0200",
+    "title": "Addicted To You",
+    "artist": "Avicii"
+  },
+  {
+    "key": "2026-09-11 00:15:01 +0200|Homixide|BKtherula",
+    "played_at": "2026-09-11 00:15:01 +0200",
+    "title": "Homixide",
+    "artist": "BKtherula"
+  },
+  {
+    "key": "2026-09-11 00:17:54 +0200|atzen & barbies (feat. ski aggu)|Shirin David",
+    "played_at": "2026-09-11 00:17:54 +0200",
+    "title": "atzen & barbies (feat. ski aggu)",
+    "artist": "Shirin David"
+  },
+  {
+    "key": "2026-09-11 00:20:21 +0200|Bad Kingdom|Moderat",
+    "played_at": "2026-09-11 00:20:21 +0200",
+    "title": "Bad Kingdom",
+    "artist": "Moderat"
+  },
+  {
+    "key": "2026-09-11 00:24:44 +0200|Tippa My Tongue|Red Hot Chili Peppers",
+    "played_at": "2026-09-11 00:24:44 +0200",
+    "title": "Tippa My Tongue",
+    "artist": "Red Hot Chili Peppers"
   }
 ]

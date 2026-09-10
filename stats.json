@@ -2,8 +2,8 @@
   "2026-09-10 07:00": {
     "period_start": "2026-09-10T07:00:00+02:00",
     "period_end": "2026-09-11T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 47,
+    "total_entries": 60,
+    "music_entries": 56,
     "songs": [
       {
         "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
@@ -218,6 +218,51 @@
       {
         "artist": "Michael Schulte",
         "title": "Here Goes Nothing",
+        "plays": 1
+      },
+      {
+        "artist": "Gwen Stefani",
+        "title": "Swallow My Tears",
+        "plays": 1
+      },
+      {
+        "artist": "James Newton Howard feat. Jennifer Lawrence",
+        "title": "The Hanging Tree",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Grennan",
+        "title": "Little Bit of Love",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Schief in jedem Chor",
+        "plays": 1
+      },
+      {
+        "artist": "Avicii",
+        "title": "Addicted To You",
+        "plays": 1
+      },
+      {
+        "artist": "BKtherula",
+        "title": "Homixide",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "atzen & barbies (feat. ski aggu)",
+        "plays": 1
+      },
+      {
+        "artist": "Moderat",
+        "title": "Bad Kingdom",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Tippa My Tongue",
         "plays": 1
       }
     ],
