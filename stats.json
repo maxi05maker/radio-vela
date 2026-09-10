@@ -2,8 +2,8 @@
   "2026-09-09 07:00": {
     "period_start": "2026-09-09T07:00:00+02:00",
     "period_end": "2026-09-10T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 56,
+    "total_entries": 70,
+    "music_entries": 66,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -18,6 +18,11 @@
       {
         "artist": "Yolanda Be Cool & Dcup",
         "title": "We No Speak Americano",
+        "plays": 2
+      },
+      {
+        "artist": "Killer Mike",
+        "title": "Run feat. Dave Chappelle & Young Thug",
         "plays": 2
       },
       {
@@ -186,11 +191,6 @@
         "plays": 1
       },
       {
-        "artist": "Killer Mike",
-        "title": "Run feat. Dave Chappelle & Young Thug",
-        "plays": 1
-      },
-      {
         "artist": "The Marías",
         "title": "No One Noticed",
         "plays": 1
@@ -263,6 +263,51 @@
       {
         "artist": "Airbourne",
         "title": "Kid In A Candy Store",
+        "plays": 1
+      },
+      {
+        "artist": "Jason Derulo Feat. 2 Chainz",
+        "title": "Talk Dirty",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Marlboro Mann",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Illegal",
+        "plays": 1
+      },
+      {
+        "artist": "Sido Feat. Andreas Bourani",
+        "title": "Astronaut",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "BLACKPINK",
+        "title": "GO",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Lights",
         "plays": 1
       }
     ],
