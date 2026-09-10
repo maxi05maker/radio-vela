@@ -2,9 +2,19 @@
   "2026-09-10 07:00": {
     "period_start": "2026-09-10T07:00:00+02:00",
     "period_end": "2026-09-11T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
+      {
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
+        "plays": 2
+      },
+      {
+        "artist": "Jungle",
+        "title": "Busy Earnin'",
+        "plays": 2
+      },
       {
         "artist": "Avril Lavigne",
         "title": "Bite Me",
@@ -16,18 +26,8 @@
         "plays": 1
       },
       {
-        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
-        "title": "Sommer",
-        "plays": 1
-      },
-      {
         "artist": "Dara",
         "title": "Bangaranga",
-        "plays": 1
-      },
-      {
-        "artist": "Jungle",
-        "title": "Busy Earnin'",
         "plays": 1
       },
       {
@@ -99,12 +99,47 @@
         "artist": "Disturbed",
         "title": "Hey You",
         "plays": 1
+      },
+      {
+        "artist": "Elle King",
+        "title": "Ex's & Oh's",
+        "plays": 1
+      },
+      {
+        "artist": "Kesha",
+        "title": "DELUSIONAL (Main Version)",
+        "plays": 1
+      },
+      {
+        "artist": "Flo Rida",
+        "title": "What A Night",
+        "plays": 1
+      },
+      {
+        "artist": "Oimara, Melissa Naschenweng",
+        "title": "Koa Bergbauernbua",
+        "plays": 1
+      },
+      {
+        "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
+        "title": "In Your Arms (For An Angel)",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Doors",
+        "plays": 1
+      },
+      {
+        "artist": "Saint Chaos",
+        "title": "Where I Belong",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Avril Lavigne",
-      "title": "Bite Me",
-      "plays": 1
+      "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+      "title": "Sommer",
+      "plays": 2
     }
   }
 }
