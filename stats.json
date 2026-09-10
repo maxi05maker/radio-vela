@@ -2,8 +2,8 @@
   "2026-09-10 07:00": {
     "period_start": "2026-09-10T07:00:00+02:00",
     "period_end": "2026-09-11T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Avril Lavigne",
@@ -48,6 +48,56 @@
       {
         "artist": "Matt Simons",
         "title": "Catch And Release (Deepend Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "I'm Not Gonna Lie",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris & Clementine Douglas",
+        "title": "Blessings",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Stay With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Lost - XXV",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL, Imael Angel, Ultra Naté",
+        "title": "Movin' To The Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Walk The Moon",
+        "title": "Shut Up and Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Mein Boy",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "Disturbed",
+        "title": "Hey You",
         "plays": 1
       }
     ],
