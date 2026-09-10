@@ -2,8 +2,8 @@
   "2026-09-10 07:00": {
     "period_start": "2026-09-10T07:00:00+02:00",
     "period_end": "2026-09-11T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 37,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
@@ -13,6 +13,11 @@
       {
         "artist": "Jungle",
         "title": "Busy Earnin'",
+        "plays": 2
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "I'm Not Gonna Lie",
         "plays": 2
       },
       {
@@ -58,11 +63,6 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Bilderbuch",
-        "title": "I'm Not Gonna Lie",
         "plays": 1
       },
       {
@@ -173,6 +173,51 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA",
+        "title": "Renn!",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna & Kanye West & Paul McCartney",
+        "title": "FourFiveSeconds",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wildberry Lillet",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
+      },
+      {
+        "artist": "Sophie & The Giants",
+        "title": "Golden Nights",
+        "plays": 1
+      },
+      {
+        "artist": "Black Eyed Peas",
+        "title": "The Time (Dirty Bit)",
+        "plays": 1
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
+        "plays": 1
+      },
+      {
+        "artist": "Takida",
+        "title": "In Spite of Everything",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
         "plays": 1
       }
     ],
