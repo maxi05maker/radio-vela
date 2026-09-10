@@ -2026,5 +2026,65 @@
     "played_at": "2026-09-10 03:00:04 +0200",
     "title": "Lights",
     "artist": "Ellie Goulding"
+  },
+  {
+    "key": "2026-09-10 07:22:10 +0200|Bite Me|Avril Lavigne",
+    "played_at": "2026-09-10 07:22:10 +0200",
+    "title": "Bite Me",
+    "artist": "Avril Lavigne"
+  },
+  {
+    "key": "2026-09-10 07:24:49 +0200|Just Keep Watching|Tate McRae",
+    "played_at": "2026-09-10 07:24:49 +0200",
+    "title": "Just Keep Watching",
+    "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-09-10 07:27:12 +0200|Sommer|Beatzarre & Djorkaeff/LEA/Capital Bra",
+    "played_at": "2026-09-10 07:27:12 +0200",
+    "title": "Sommer",
+    "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra"
+  },
+  {
+    "key": "2026-09-10 07:30:12 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-09-10 07:30:12 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-09-10 07:30:48 +0200|Bangaranga|Dara",
+    "played_at": "2026-09-10 07:30:48 +0200",
+    "title": "Bangaranga",
+    "artist": "Dara"
+  },
+  {
+    "key": "2026-09-10 07:33:45 +0200|Busy Earnin'|Jungle",
+    "played_at": "2026-09-10 07:33:45 +0200",
+    "title": "Busy Earnin'",
+    "artist": "Jungle"
+  },
+  {
+    "key": "2026-09-10 07:36:44 +0200|Toxic Trait feat. Fredo|Stormzy",
+    "played_at": "2026-09-10 07:36:44 +0200",
+    "title": "Toxic Trait feat. Fredo",
+    "artist": "Stormzy"
+  },
+  {
+    "key": "2026-09-10 07:40:36 +0200|Die Anderen feat. Blumengarten & Trettmann|Bazzazian",
+    "played_at": "2026-09-10 07:40:36 +0200",
+    "title": "Die Anderen feat. Blumengarten & Trettmann",
+    "artist": "Bazzazian"
+  },
+  {
+    "key": "2026-09-10 07:43:19 +0200|A Sky Full Of Stars|Coldplay",
+    "played_at": "2026-09-10 07:43:19 +0200",
+    "title": "A Sky Full Of Stars",
+    "artist": "Coldplay"
+  },
+  {
+    "key": "2026-09-10 07:47:43 +0200|Catch And Release (Deepend Remix)|Matt Simons",
+    "played_at": "2026-09-10 07:47:43 +0200",
+    "title": "Catch And Release (Deepend Remix)",
+    "artist": "Matt Simons"
   }
 ]

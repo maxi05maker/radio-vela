@@ -1,320 +1,60 @@
 {
-  "2026-09-09 07:00": {
-    "period_start": "2026-09-09T07:00:00+02:00",
-    "period_end": "2026-09-10T07:00:00+02:00",
-    "total_entries": 70,
-    "music_entries": 66,
+  "2026-09-10 07:00": {
+    "period_start": "2026-09-10T07:00:00+02:00",
+    "period_end": "2026-09-11T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 3
-      },
-      {
-        "artist": "GAYLE",
-        "title": "abcdefu",
-        "plays": 2
-      },
-      {
-        "artist": "Yolanda Be Cool & Dcup",
-        "title": "We No Speak Americano",
-        "plays": 2
-      },
-      {
-        "artist": "Killer Mike",
-        "title": "Run feat. Dave Chappelle & Young Thug",
-        "plays": 2
-      },
-      {
-        "artist": "Kummer",
-        "title": "Es tut wieder weh",
+        "artist": "Avril Lavigne",
+        "title": "Bite Me",
         "plays": 1
       },
       {
-        "artist": "Wavves",
-        "title": "Goner",
+        "artist": "Tate McRae",
+        "title": "Just Keep Watching",
         "plays": 1
       },
       {
-        "artist": "Echosmith",
-        "title": "Cool Kids",
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
         "plays": 1
       },
       {
-        "artist": "BOY",
-        "title": "Fit Back In",
+        "artist": "Dara",
+        "title": "Bangaranga",
         "plays": 1
       },
       {
-        "artist": "Lila Sovia",
-        "title": "Besser",
+        "artist": "Jungle",
+        "title": "Busy Earnin'",
         "plays": 1
       },
       {
-        "artist": "DJ Snake & J. Balvin Feat. Tyga",
-        "title": "Loco Contigo",
+        "artist": "Stormzy",
+        "title": "Toxic Trait feat. Fredo",
         "plays": 1
       },
       {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
+        "artist": "Bazzazian",
+        "title": "Die Anderen feat. Blumengarten & Trettmann",
         "plays": 1
       },
       {
-        "artist": "Obongjayar",
-        "title": "Sweet Danger",
+        "artist": "Coldplay",
+        "title": "A Sky Full Of Stars",
         "plays": 1
       },
       {
-        "artist": "Ed Sheeran",
-        "title": "Perfect",
-        "plays": 1
-      },
-      {
-        "artist": "Saint Chaos",
-        "title": "Where I Belong",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Heart Of Gold",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Sacrifice",
-        "plays": 1
-      },
-      {
-        "artist": "The 1975",
-        "title": "Part Of The Band",
-        "plays": 1
-      },
-      {
-        "artist": "FLO",
-        "title": "Check",
-        "plays": 1
-      },
-      {
-        "artist": "Bebe Rexha & Faithless",
-        "title": "New Religion",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Camila Cabello",
-        "title": "Godspeed",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding & Juice WRLD",
-        "title": "Hate Me",
-        "plays": 1
-      },
-      {
-        "artist": "Inhaler",
-        "title": "A Question of You",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "High (feat. Claudia Valentina)",
-        "plays": 1
-      },
-      {
-        "artist": "Starley",
-        "title": "Call on Me",
-        "plays": 1
-      },
-      {
-        "artist": "Mac DeMarco",
-        "title": "Holy",
-        "plays": 1
-      },
-      {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
-        "plays": 1
-      },
-      {
-        "artist": "Arlo Parks",
-        "title": "Beams",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
-        "plays": 1
-      },
-      {
-        "artist": "Kesha",
-        "title": "DELUSIONAL (Main Version)",
-        "plays": 1
-      },
-      {
-        "artist": "Tim Bendzko",
-        "title": "Hoch",
-        "plays": 1
-      },
-      {
-        "artist": "mgk",
-        "title": "your name forever",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Hymne gegen euch",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "Paparazzi",
-        "plays": 1
-      },
-      {
-        "artist": "Jennifer Lopez",
-        "title": "On The Floor (Feat. Pitbull)",
-        "plays": 1
-      },
-      {
-        "artist": "Twenty One Pilots",
-        "title": "Drum Show",
-        "plays": 1
-      },
-      {
-        "artist": "Leony",
-        "title": "Remedy",
-        "plays": 1
-      },
-      {
-        "artist": "The Marías",
-        "title": "No One Noticed",
-        "plays": 1
-      },
-      {
-        "artist": "Kygo & Dean Lewis",
-        "title": "Lost Without You (with Dean Lewis)",
-        "plays": 1
-      },
-      {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
-        "artist": "KADAVAR",
-        "title": "Scar On My Guitar",
-        "plays": 1
-      },
-      {
-        "artist": "Herbert Grönemeyer feat. Amadou & Mariam",
-        "title": "Zeit, Dass Sich Was Dreht",
-        "plays": 1
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Jennifer Check",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Wenn du liebst [feat. Kat Frankie]",
-        "plays": 1
-      },
-      {
-        "artist": "Rea Garvey",
-        "title": "Kids In Love",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Großstadt",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd/Anitta",
-        "title": "São Paulo",
-        "plays": 1
-      },
-      {
-        "artist": "Walking On Cars",
-        "title": "Speeding Cars",
-        "plays": 1
-      },
-      {
-        "artist": "Sophie and the Giants",
-        "title": "Loser",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes & Camila Cabello",
-        "title": "Señorita",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Rooftop",
-        "plays": 1
-      },
-      {
-        "artist": "Airbourne",
-        "title": "Kid In A Candy Store",
-        "plays": 1
-      },
-      {
-        "artist": "Jason Derulo Feat. 2 Chainz",
-        "title": "Talk Dirty",
-        "plays": 1
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Ist da jemand",
-        "plays": 1
-      },
-      {
-        "artist": "Kraftklub",
-        "title": "Marlboro Mann",
-        "plays": 1
-      },
-      {
-        "artist": "JORIS",
-        "title": "Nur die Musik",
-        "plays": 1
-      },
-      {
-        "artist": "PinkPantheress",
-        "title": "Illegal",
-        "plays": 1
-      },
-      {
-        "artist": "Sido Feat. Andreas Bourani",
-        "title": "Astronaut",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "BLACKPINK",
-        "title": "GO",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Lights",
+        "artist": "Matt Simons",
+        "title": "Catch And Release (Deepend Remix)",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Roy Bianco & Die Abbrunzati Boys",
-      "title": "Bella Napoli",
-      "plays": 3
+      "artist": "Avril Lavigne",
+      "title": "Bite Me",
+      "plays": 1
     }
   }
 }
