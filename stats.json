@@ -1,365 +1,65 @@
 {
-  "2026-09-10 07:00": {
-    "period_start": "2026-09-10T07:00:00+02:00",
-    "period_end": "2026-09-11T07:00:00+02:00",
-    "total_entries": 80,
-    "music_entries": 75,
+  "2026-09-11 07:00": {
+    "period_start": "2026-09-11T07:00:00+02:00",
+    "period_end": "2026-09-12T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
-        "title": "Sommer",
-        "plays": 2
-      },
-      {
-        "artist": "Jungle",
-        "title": "Busy Earnin'",
-        "plays": 2
-      },
-      {
-        "artist": "Bilderbuch",
-        "title": "I'm Not Gonna Lie",
-        "plays": 2
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "Lost - XXV",
-        "plays": 2
-      },
-      {
-        "artist": "Tom Gregory & VIZE",
-        "title": "Make It Right",
-        "plays": 2
-      },
-      {
-        "artist": "Avril Lavigne",
-        "title": "Bite Me",
+        "artist": "Mark Forster, LEA",
+        "title": "Drei Uhr Nachts",
         "plays": 1
       },
       {
-        "artist": "Tate McRae",
-        "title": "Just Keep Watching",
+        "artist": "Calvin Harris",
+        "title": "SMOKE THE PAIN AWAY",
         "plays": 1
       },
       {
-        "artist": "Dara",
-        "title": "Bangaranga",
+        "artist": "Calvin Harris & Rag'n'Bone Man",
+        "title": "Giant",
         "plays": 1
       },
       {
-        "artist": "Stormzy",
-        "title": "Toxic Trait feat. Fredo",
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
         "plays": 1
       },
       {
-        "artist": "Bazzazian",
-        "title": "Die Anderen feat. Blumengarten & Trettmann",
+        "artist": "Walter Trout",
+        "title": "Hurt No More",
         "plays": 1
       },
       {
-        "artist": "Coldplay",
-        "title": "A Sky Full Of Stars",
+        "artist": "Ayron Jones",
+        "title": "Take Your Time",
         "plays": 1
       },
       {
-        "artist": "Matt Simons",
-        "title": "Catch And Release (Deepend Remix)",
+        "artist": "Ariana Grande",
+        "title": "No Tears Left To Cry",
         "plays": 1
       },
       {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
+        "artist": "Sugababes",
+        "title": "Jungle",
         "plays": 1
       },
       {
-        "artist": "Calvin Harris & Clementine Douglas",
-        "title": "Blessings",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith",
-        "title": "Stay With Me",
-        "plays": 1
-      },
-      {
-        "artist": "HUGEL, Imael Angel, Ultra Naté",
-        "title": "Movin' To The Sun",
-        "plays": 1
-      },
-      {
-        "artist": "Walk The Moon",
-        "title": "Shut Up and Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Blond",
-        "title": "Mein Boy",
-        "plays": 1
-      },
-      {
-        "artist": "Disturbed",
-        "title": "Hey You",
-        "plays": 1
-      },
-      {
-        "artist": "Elle King",
-        "title": "Ex's & Oh's",
-        "plays": 1
-      },
-      {
-        "artist": "Kesha",
-        "title": "DELUSIONAL (Main Version)",
-        "plays": 1
-      },
-      {
-        "artist": "Flo Rida",
-        "title": "What A Night",
-        "plays": 1
-      },
-      {
-        "artist": "Oimara, Melissa Naschenweng",
-        "title": "Koa Bergbauernbua",
-        "plays": 1
-      },
-      {
-        "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
-        "title": "In Your Arms (For An Angel)",
-        "plays": 1
-      },
-      {
-        "artist": "Noah Kahan",
-        "title": "Doors",
-        "plays": 1
-      },
-      {
-        "artist": "Saint Chaos",
-        "title": "Where I Belong",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes & Tainy",
-        "title": "Summer Of Love",
-        "plays": 1
-      },
-      {
-        "artist": "Die Nerven",
-        "title": "BIS ANS MEER",
-        "plays": 1
-      },
-      {
-        "artist": "LEA & Casper",
-        "title": "Schwarz",
-        "plays": 1
-      },
-      {
-        "artist": "Betterov",
-        "title": "In Meinem Zimmer Spielen Sich Dramen Ab",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "Eunique",
-        "title": "Man Nennt Mich",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Mr. Know It All",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "AYLIVA",
-        "title": "Renn!",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna & Kanye West & Paul McCartney",
-        "title": "FourFiveSeconds",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Wildberry Lillet",
-        "plays": 1
-      },
-      {
-        "artist": "Momma",
-        "title": "I Want You (Fever)",
-        "plays": 1
-      },
-      {
-        "artist": "Sophie & The Giants",
-        "title": "Golden Nights",
-        "plays": 1
-      },
-      {
-        "artist": "Black Eyed Peas",
-        "title": "The Time (Dirty Bit)",
-        "plays": 1
-      },
-      {
-        "artist": "SIENNA SPIRO",
-        "title": "Material Lover",
-        "plays": 1
-      },
-      {
-        "artist": "Takida",
-        "title": "In Spite of Everything",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
-        "plays": 1
-      },
-      {
-        "artist": "Gwen Stefani",
-        "title": "Swallow My Tears",
-        "plays": 1
-      },
-      {
-        "artist": "James Newton Howard feat. Jennifer Lawrence",
-        "title": "The Hanging Tree",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Grennan",
-        "title": "Little Bit of Love",
-        "plays": 1
-      },
-      {
-        "artist": "Kraftklub",
-        "title": "Schief in jedem Chor",
-        "plays": 1
-      },
-      {
-        "artist": "Avicii",
-        "title": "Addicted To You",
-        "plays": 1
-      },
-      {
-        "artist": "BKtherula",
-        "title": "Homixide",
-        "plays": 1
-      },
-      {
-        "artist": "Shirin David",
-        "title": "atzen & barbies (feat. ski aggu)",
-        "plays": 1
-      },
-      {
-        "artist": "Moderat",
-        "title": "Bad Kingdom",
-        "plays": 1
-      },
-      {
-        "artist": "Red Hot Chili Peppers",
-        "title": "Tippa My Tongue",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta feat. Sam Martin",
-        "title": "Lovers on the Sun",
-        "plays": 1
-      },
-      {
-        "artist": "Alice Merton",
-        "title": "No Roots",
-        "plays": 1
-      },
-      {
-        "artist": "Wavves",
-        "title": "Goner",
-        "plays": 1
-      },
-      {
-        "artist": "Kelly Clarkson",
-        "title": "Underneath the Tree",
+        "artist": "Doechii",
+        "title": "Bitch I'm Nice",
         "plays": 1
       },
       {
         "artist": "Ellie Goulding",
         "title": "Power",
         "plays": 1
-      },
-      {
-        "artist": "Bebe Rexha & David Guetta",
-        "title": "Sad Girls",
-        "plays": 1
-      },
-      {
-        "artist": "Rise Against",
-        "title": "Help is On the Way",
-        "plays": 1
-      },
-      {
-        "artist": "Tim Bendzko",
-        "title": "Kein Problem",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Tanzen",
-        "plays": 1
-      },
-      {
-        "artist": "Roisin Murphy",
-        "title": "You Know Me Better",
-        "plays": 1
-      },
-      {
-        "artist": "Frank Popp Ensemble",
-        "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
-        "plays": 1
-      },
-      {
-        "artist": "Kygo & Dean Lewis",
-        "title": "Lost Without You (with Dean Lewis)",
-        "plays": 1
-      },
-      {
-        "artist": "Rammstein",
-        "title": "Pussy",
-        "plays": 1
-      },
-      {
-        "artist": "Robin Schulz feat. CLOVES",
-        "title": "Old Friend (Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "Kyle Pearce",
-        "title": "I Don't Care",
-        "plays": 1
-      },
-      {
-        "artist": "Finch (feat. Blümchen)",
-        "title": "Herzalarm",
-        "plays": 1
-      },
-      {
-        "artist": "Gracie Abrams",
-        "title": "That’s So True",
-        "plays": 1
-      },
-      {
-        "artist": "I Prevail",
-        "title": "Fake",
-        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
-      "title": "Sommer",
-      "plays": 2
+      "artist": "Mark Forster, LEA",
+      "title": "Drei Uhr Nachts",
+      "plays": 1
     }
   }
 }
