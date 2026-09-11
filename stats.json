@@ -2,8 +2,8 @@
   "2026-09-11 07:00": {
     "period_start": "2026-09-11T07:00:00+02:00",
     "period_end": "2026-09-12T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 37,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "Tobee",
@@ -183,6 +183,56 @@
       {
         "artist": "Red Hot Chili Peppers",
         "title": "Tippa My Tongue",
+        "plays": 1
+      },
+      {
+        "artist": "LEA & Casper",
+        "title": "Schwarz",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Diese Nacht",
+        "plays": 1
+      },
+      {
+        "artist": "THE BLACK CROWES",
+        "title": "Pharmacy Chronicles",
+        "plays": 1
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Plan A",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "Nickelback",
+        "title": "What Are You Waiting for",
+        "plays": 1
+      },
+      {
+        "artist": "Dante YN",
+        "title": "Youngstar",
+        "plays": 1
+      },
+      {
+        "artist": "The Pussycat Dolls",
+        "title": "Club Song",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Starboy (feat. Daft Punk)",
         "plays": 1
       }
     ],
