@@ -2,8 +2,8 @@
   "2026-09-11 07:00": {
     "period_start": "2026-09-11T07:00:00+02:00",
     "period_end": "2026-09-12T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Mark Forster, LEA",
@@ -53,6 +53,51 @@
       {
         "artist": "Ellie Goulding",
         "title": "Power",
+        "plays": 1
+      },
+      {
+        "artist": "Kyle Pearce",
+        "title": "I Don't Care",
+        "plays": 1
+      },
+      {
+        "artist": "Djo",
+        "title": "Basic Being Basic",
+        "plays": 1
+      },
+      {
+        "artist": "Finch (feat. Blümchen)",
+        "title": "Herzalarm",
+        "plays": 1
+      },
+      {
+        "artist": "Mia Morgan",
+        "title": "Jennifer Check",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "I Prevail",
+        "title": "Fake",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Sophie and the Giants",
+        "title": "Loser",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "Wie schön du bist",
         "plays": 1
       }
     ],
