@@ -2,8 +2,8 @@
   "2026-09-10 07:00": {
     "period_start": "2026-09-10T07:00:00+02:00",
     "period_end": "2026-09-11T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 56,
+    "total_entries": 70,
+    "music_entries": 65,
     "songs": [
       {
         "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
@@ -23,6 +23,11 @@
       {
         "artist": "Robbie Williams",
         "title": "Lost - XXV",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
         "plays": 2
       },
       {
@@ -88,11 +93,6 @@
       {
         "artist": "Blond",
         "title": "Mein Boy",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory & VIZE",
-        "title": "Make It Right",
         "plays": 1
       },
       {
@@ -263,6 +263,46 @@
       {
         "artist": "Red Hot Chili Peppers",
         "title": "Tippa My Tongue",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "No Roots",
+        "plays": 1
+      },
+      {
+        "artist": "Wavves",
+        "title": "Goner",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Underneath the Tree",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Power",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & David Guetta",
+        "title": "Sad Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Rise Against",
+        "title": "Help is On the Way",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Kein Problem",
         "plays": 1
       }
     ],
