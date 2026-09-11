@@ -2,8 +2,8 @@
   "2026-09-10 07:00": {
     "period_start": "2026-09-10T07:00:00+02:00",
     "period_end": "2026-09-11T07:00:00+02:00",
-    "total_entries": 70,
-    "music_entries": 65,
+    "total_entries": 80,
+    "music_entries": 75,
     "songs": [
       {
         "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
@@ -303,6 +303,56 @@
       {
         "artist": "Tim Bendzko",
         "title": "Kein Problem",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Tanzen",
+        "plays": 1
+      },
+      {
+        "artist": "Roisin Murphy",
+        "title": "You Know Me Better",
+        "plays": 1
+      },
+      {
+        "artist": "Frank Popp Ensemble",
+        "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "Rammstein",
+        "title": "Pussy",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. CLOVES",
+        "title": "Old Friend (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Kyle Pearce",
+        "title": "I Don't Care",
+        "plays": 1
+      },
+      {
+        "artist": "Finch (feat. Blümchen)",
+        "title": "Herzalarm",
+        "plays": 1
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "That’s So True",
+        "plays": 1
+      },
+      {
+        "artist": "I Prevail",
+        "title": "Fake",
         "plays": 1
       }
     ],

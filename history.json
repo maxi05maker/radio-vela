@@ -2446,5 +2446,65 @@
     "played_at": "2026-09-11 02:18:24 +0200",
     "title": "Kein Problem",
     "artist": "Tim Bendzko"
+  },
+  {
+    "key": "2026-09-11 06:19:01 +0200|Tanzen|Clueso",
+    "played_at": "2026-09-11 06:19:01 +0200",
+    "title": "Tanzen",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-09-11 06:21:49 +0200|You Know Me Better|Roisin Murphy",
+    "played_at": "2026-09-11 06:21:49 +0200",
+    "title": "You Know Me Better",
+    "artist": "Roisin Murphy"
+  },
+  {
+    "key": "2026-09-11 06:26:07 +0200|Frank Popp Ensemble - Love Is A Distraction feat. J Mahon|Frank Popp Ensemble",
+    "played_at": "2026-09-11 06:26:07 +0200",
+    "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
+    "artist": "Frank Popp Ensemble"
+  },
+  {
+    "key": "2026-09-11 06:28:26 +0200|Lost Without You (with Dean Lewis)|Kygo & Dean Lewis",
+    "played_at": "2026-09-11 06:28:26 +0200",
+    "title": "Lost Without You (with Dean Lewis)",
+    "artist": "Kygo & Dean Lewis"
+  },
+  {
+    "key": "2026-09-11 06:31:50 +0200|Pussy|Rammstein",
+    "played_at": "2026-09-11 06:31:50 +0200",
+    "title": "Pussy",
+    "artist": "Rammstein"
+  },
+  {
+    "key": "2026-09-11 06:35:49 +0200|Old Friend (Radio Edit)|Robin Schulz feat. CLOVES",
+    "played_at": "2026-09-11 06:35:49 +0200",
+    "title": "Old Friend (Radio Edit)",
+    "artist": "Robin Schulz feat. CLOVES"
+  },
+  {
+    "key": "2026-09-11 06:38:44 +0200|I Don't Care|Kyle Pearce",
+    "played_at": "2026-09-11 06:38:44 +0200",
+    "title": "I Don't Care",
+    "artist": "Kyle Pearce"
+  },
+  {
+    "key": "2026-09-11 06:41:53 +0200|Herzalarm|Finch (feat. Blümchen)",
+    "played_at": "2026-09-11 06:41:53 +0200",
+    "title": "Herzalarm",
+    "artist": "Finch (feat. Blümchen)"
+  },
+  {
+    "key": "2026-09-11 06:45:03 +0200|That’s So True|Gracie Abrams",
+    "played_at": "2026-09-11 06:45:03 +0200",
+    "title": "That’s So True",
+    "artist": "Gracie Abrams"
+  },
+  {
+    "key": "2026-09-11 06:47:49 +0200|Fake|I Prevail",
+    "played_at": "2026-09-11 06:47:49 +0200",
+    "title": "Fake",
+    "artist": "I Prevail"
   }
 ]
