@@ -2,8 +2,8 @@
   "2026-09-11 07:00": {
     "period_start": "2026-09-11T07:00:00+02:00",
     "period_end": "2026-09-12T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Mark Forster, LEA",
@@ -98,6 +98,51 @@
       {
         "artist": "Sarah Connor",
         "title": "Wie schön du bist",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Midnight Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Kid Rock",
+        "title": "All Summer Long",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "On Top Of The World",
+        "plays": 1
+      },
+      {
+        "artist": "Kylie Minogue & YouNotUs",
+        "title": "Someone For Me",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd (feat. Daft Punk)",
+        "title": "I Feel It Coming",
+        "plays": 1
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
+        "plays": 1
+      },
+      {
+        "artist": "Finn Wolfhard",
+        "title": "Tunnels",
+        "plays": 1
+      },
+      {
+        "artist": "DCVDNS",
+        "title": "Sympathie Für Den Teufel",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Frampton, Benmont Tench",
+        "title": "Buried Treasure",
         "plays": 1
       }
     ],
