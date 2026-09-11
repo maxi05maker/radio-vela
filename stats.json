@@ -2,9 +2,14 @@
   "2026-09-11 07:00": {
     "period_start": "2026-09-11T07:00:00+02:00",
     "period_end": "2026-09-12T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 2
+      },
       {
         "artist": "Mark Forster, LEA",
         "title": "Drei Uhr Nachts",
@@ -76,11 +81,6 @@
         "plays": 1
       },
       {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
         "artist": "I Prevail",
         "title": "Fake",
         "plays": 1
@@ -144,12 +144,52 @@
         "artist": "Peter Frampton, Benmont Tench",
         "title": "Buried Treasure",
         "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Just Keep Watching",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Blame It On Me",
+        "plays": 1
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "White Knuckle Ride",
+        "plays": 1
+      },
+      {
+        "artist": "Stormzy",
+        "title": "Toxic Trait feat. Fredo",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "FKA twigs",
+        "title": "Childlike Things",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kreise",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Tippa My Tongue",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Mark Forster, LEA",
-      "title": "Drei Uhr Nachts",
-      "plays": 1
+      "artist": "Tobee",
+      "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+      "plays": 2
     }
   }
 }
