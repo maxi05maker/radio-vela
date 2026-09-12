@@ -2,8 +2,8 @@
   "2026-09-12 07:00": {
     "period_start": "2026-09-12T07:00:00+02:00",
     "period_end": "2026-09-13T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "The Weeknd",
@@ -148,6 +148,51 @@
       {
         "artist": "Dua Lipa",
         "title": "Physical",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "tau mich auf",
+        "plays": 1
+      },
+      {
+        "artist": "Nickelback",
+        "title": "Photograph",
+        "plays": 1
+      },
+      {
+        "artist": "Black Star Riders",
+        "title": "Better Than Saturday Night",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "The Moon Cave",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding & Juice WRLD",
+        "title": "Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Rooftop",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
+        "plays": 1
+      },
+      {
+        "artist": "Beyonce feat. Shakira",
+        "title": "Beautiful Liar",
+        "plays": 1
+      },
+      {
+        "artist": "JORIS",
+        "title": "Nur die Musik",
         "plays": 1
       }
     ],
