@@ -2,8 +2,8 @@
   "2026-09-12 07:00": {
     "period_start": "2026-09-12T07:00:00+02:00",
     "period_end": "2026-09-13T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 38,
+    "total_entries": 50,
+    "music_entries": 48,
     "songs": [
       {
         "artist": "The Weeknd",
@@ -193,6 +193,56 @@
       {
         "artist": "JORIS",
         "title": "Nur die Musik",
+        "plays": 1
+      },
+      {
+        "artist": "Polarkreis 18",
+        "title": "Allein Allein",
+        "plays": 1
+      },
+      {
+        "artist": "Bad Omens",
+        "title": "Like A Villain",
+        "plays": 1
+      },
+      {
+        "artist": "ROSÉ & Bruno Mars",
+        "title": "APT.",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Wellington feat. Small Jam",
+        "title": "Iko Iko",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Montez",
+        "title": "Überfall",
+        "plays": 1
+      },
+      {
+        "artist": "Jungle",
+        "title": "Busy Earnin'",
+        "plays": 1
+      },
+      {
+        "artist": "Eminem",
+        "title": "The King and I feat. CeeLo Green",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Fliegen",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Flugmodus",
         "plays": 1
       }
     ],
