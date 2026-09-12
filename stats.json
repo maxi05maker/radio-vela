@@ -2,8 +2,8 @@
   "2026-09-12 07:00": {
     "period_start": "2026-09-12T07:00:00+02:00",
     "period_end": "2026-09-13T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "The Weeknd",
@@ -98,6 +98,56 @@
       {
         "artist": "Walk The Moon",
         "title": "Shut Up and Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
+        "plays": 1
+      },
+      {
+        "artist": "Billy Idol feat. Avril Lavigne",
+        "title": "77",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Firework",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, Whitney Houston",
+        "title": "Its Not Right But Its Okay",
+        "plays": 1
+      },
+      {
+        "artist": "Jason Derulo Feat. 2 Chainz",
+        "title": "Talk Dirty",
+        "plays": 1
+      },
+      {
+        "artist": "Snoop Dogg",
+        "title": "Murder Music",
+        "plays": 1
+      },
+      {
+        "artist": "The The",
+        "title": "A Rainy Day In May",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Physical",
         "plays": 1
       }
     ],
