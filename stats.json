@@ -2,12 +2,17 @@
   "2026-09-12 07:00": {
     "period_start": "2026-09-12T07:00:00+02:00",
     "period_end": "2026-09-13T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 58,
+    "total_entries": 70,
+    "music_entries": 67,
     "songs": [
       {
         "artist": "Walk The Moon",
         "title": "Shut Up and Dance",
+        "plays": 2
+      },
+      {
+        "artist": "Snoop Dogg",
+        "title": "Murder Music",
         "plays": 2
       },
       {
@@ -133,11 +138,6 @@
       {
         "artist": "Jason Derulo Feat. 2 Chainz",
         "title": "Talk Dirty",
-        "plays": 1
-      },
-      {
-        "artist": "Snoop Dogg",
-        "title": "Murder Music",
         "plays": 1
       },
       {
@@ -288,6 +288,46 @@
       {
         "artist": "Die Toten Hosen",
         "title": "Tage wie diese",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Illegal",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran, Lil Baby",
+        "title": "2step (feat. Lil Baby)",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
+        "title": "Blurred Lines",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Jungle",
         "plays": 1
       }
     ],
