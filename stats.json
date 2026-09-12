@@ -2,9 +2,14 @@
   "2026-09-12 07:00": {
     "period_start": "2026-09-12T07:00:00+02:00",
     "period_end": "2026-09-13T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 48,
+    "total_entries": 60,
+    "music_entries": 58,
     "songs": [
+      {
+        "artist": "Walk The Moon",
+        "title": "Shut Up and Dance",
+        "plays": 2
+      },
       {
         "artist": "The Weeknd",
         "title": "Starboy (feat. Daft Punk)",
@@ -93,11 +98,6 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Walk The Moon",
-        "title": "Shut Up and Dance",
         "plays": 1
       },
       {
@@ -244,12 +244,57 @@
         "artist": "Clueso",
         "title": "Flugmodus",
         "plays": 1
+      },
+      {
+        "artist": "Welshly Arms",
+        "title": "Legendary",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Es könnte grad nicht schöner sein",
+        "plays": 1
+      },
+      {
+        "artist": "FILLY",
+        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler & Topic",
+        "title": "Solo Para Ti",
+        "plays": 1
+      },
+      {
+        "artist": "Snow Tha Product",
+        "title": "Alligator",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Achterbahn",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Safe",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
+        "plays": 1
+      },
+      {
+        "artist": "Die Toten Hosen",
+        "title": "Tage wie diese",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "The Weeknd",
-      "title": "Starboy (feat. Daft Punk)",
-      "plays": 1
+      "artist": "Walk The Moon",
+      "title": "Shut Up and Dance",
+      "plays": 2
     }
   }
 }
