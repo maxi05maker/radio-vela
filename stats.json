@@ -2,12 +2,22 @@
   "2026-09-11 07:00": {
     "period_start": "2026-09-11T07:00:00+02:00",
     "period_end": "2026-09-12T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 56,
+    "total_entries": 70,
+    "music_entries": 64,
     "songs": [
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 2
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
         "plays": 2
       },
       {
@@ -86,11 +96,6 @@
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
         "artist": "Sophie and the Giants",
         "title": "Loser",
         "plays": 1
@@ -123,11 +128,6 @@
       {
         "artist": "The Weeknd (feat. Daft Punk)",
         "title": "I Feel It Coming",
-        "plays": 1
-      },
-      {
-        "artist": "Lina",
-        "title": "Klippe",
         "plays": 1
       },
       {
@@ -278,6 +278,36 @@
       {
         "artist": "Die Nerven",
         "title": "BIS ANS MEER",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Meghan Trainor",
+        "title": "Marvin Gaye",
+        "plays": 1
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Bonfire Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Wunderschön",
+        "plays": 1
+      },
+      {
+        "artist": "Eli Preiss",
+        "title": "Bussi",
+        "plays": 1
+      },
+      {
+        "artist": "Lena x Nico Santos",
+        "title": "Better",
+        "plays": 1
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
         "plays": 1
       }
     ],
