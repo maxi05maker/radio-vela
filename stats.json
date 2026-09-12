@@ -1,208 +1,23 @@
 {
-  "2026-09-11 07:00": {
-    "period_start": "2026-09-11T07:00:00+02:00",
-    "period_end": "2026-09-12T07:00:00+02:00",
-    "total_entries": 70,
-    "music_entries": 64,
+  "2026-09-12 07:00": {
+    "period_start": "2026-09-12T07:00:00+02:00",
+    "period_end": "2026-09-13T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 2
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 2
-      },
-      {
-        "artist": "Lina",
-        "title": "Klippe",
-        "plays": 2
-      },
-      {
-        "artist": "Mark Forster, LEA",
-        "title": "Drei Uhr Nachts",
+        "artist": "The Weeknd",
+        "title": "Starboy (feat. Daft Punk)",
         "plays": 1
       },
       {
-        "artist": "Calvin Harris",
-        "title": "SMOKE THE PAIN AWAY",
+        "artist": "The Bevis Frond",
+        "title": "Quietly",
         "plays": 1
       },
       {
-        "artist": "Calvin Harris & Rag'n'Bone Man",
-        "title": "Giant",
-        "plays": 1
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Ist da jemand",
-        "plays": 1
-      },
-      {
-        "artist": "Walter Trout",
-        "title": "Hurt No More",
-        "plays": 1
-      },
-      {
-        "artist": "Ayron Jones",
-        "title": "Take Your Time",
-        "plays": 1
-      },
-      {
-        "artist": "Ariana Grande",
-        "title": "No Tears Left To Cry",
-        "plays": 1
-      },
-      {
-        "artist": "Sugababes",
-        "title": "Jungle",
-        "plays": 1
-      },
-      {
-        "artist": "Doechii",
-        "title": "Bitch I'm Nice",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Power",
-        "plays": 1
-      },
-      {
-        "artist": "Kyle Pearce",
-        "title": "I Don't Care",
-        "plays": 1
-      },
-      {
-        "artist": "Djo",
-        "title": "Basic Being Basic",
-        "plays": 1
-      },
-      {
-        "artist": "Finch (feat. Blümchen)",
-        "title": "Herzalarm",
-        "plays": 1
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Jennifer Check",
-        "plays": 1
-      },
-      {
-        "artist": "I Prevail",
-        "title": "Fake",
-        "plays": 1
-      },
-      {
-        "artist": "Sophie and the Giants",
-        "title": "Loser",
-        "plays": 1
-      },
-      {
-        "artist": "Sarah Connor",
-        "title": "Wie schön du bist",
-        "plays": 1
-      },
-      {
-        "artist": "Zara Larsson",
-        "title": "Midnight Sun",
-        "plays": 1
-      },
-      {
-        "artist": "Kid Rock",
-        "title": "All Summer Long",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "On Top Of The World",
-        "plays": 1
-      },
-      {
-        "artist": "Kylie Minogue & YouNotUs",
-        "title": "Someone For Me",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd (feat. Daft Punk)",
-        "title": "I Feel It Coming",
-        "plays": 1
-      },
-      {
-        "artist": "Finn Wolfhard",
-        "title": "Tunnels",
-        "plays": 1
-      },
-      {
-        "artist": "DCVDNS",
-        "title": "Sympathie Für Den Teufel",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Frampton, Benmont Tench",
-        "title": "Buried Treasure",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "Just Keep Watching",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Blame It On Me",
-        "plays": 1
-      },
-      {
-        "artist": "Jamiroquai",
-        "title": "White Knuckle Ride",
-        "plays": 1
-      },
-      {
-        "artist": "Stormzy",
-        "title": "Toxic Trait feat. Fredo",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "FKA twigs",
-        "title": "Childlike Things",
-        "plays": 1
-      },
-      {
-        "artist": "Johannes Oerding",
-        "title": "Kreise",
-        "plays": 1
-      },
-      {
-        "artist": "Red Hot Chili Peppers",
-        "title": "Tippa My Tongue",
-        "plays": 1
-      },
-      {
-        "artist": "LEA & Casper",
-        "title": "Schwarz",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Diese Nacht",
-        "plays": 1
-      },
-      {
-        "artist": "THE BLACK CROWES",
-        "title": "Pharmacy Chronicles",
-        "plays": 1
-      },
-      {
-        "artist": "DJ Snake & J. Balvin Feat. Tyga",
-        "title": "Loco Contigo",
+        "artist": "The Kid Laroi",
+        "title": "WITHOUT YOU",
         "plays": 1
       },
       {
@@ -211,110 +26,40 @@
         "plays": 1
       },
       {
-        "artist": "PinkPantheress",
-        "title": "Tonight",
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
         "plays": 1
       },
       {
-        "artist": "Nickelback",
-        "title": "What Are You Waiting for",
+        "artist": "The Strumbellas",
+        "title": "Spirits",
         "plays": 1
       },
       {
-        "artist": "Dante YN",
-        "title": "Youngstar",
+        "artist": "Provinz",
+        "title": "Diese Nacht",
         "plays": 1
       },
       {
-        "artist": "The Pussycat Dolls",
-        "title": "Club Song",
+        "artist": "j-hope, Miguel",
+        "title": "Sweet Dreams (feat. Miguel)",
         "plays": 1
       },
       {
-        "artist": "The Weeknd",
-        "title": "Starboy (feat. Daft Punk)",
+        "artist": "Florence + the Machine",
+        "title": "Shake It Out",
         "plays": 1
       },
       {
-        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
-        "title": "The Drop",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "Joji",
-        "title": "Love Me Better",
-        "plays": 1
-      },
-      {
-        "artist": "John Newman",
-        "title": "Love Me Again",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Betterov",
-        "title": "In Meinem Zimmer Spielen Sich Dramen Ab",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Boy",
-        "title": "We Were Here",
-        "plays": 1
-      },
-      {
-        "artist": "Die Nerven",
-        "title": "BIS ANS MEER",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth feat. Meghan Trainor",
-        "title": "Marvin Gaye",
-        "plays": 1
-      },
-      {
-        "artist": "James Blunt",
-        "title": "Bonfire Heart",
-        "plays": 1
-      },
-      {
-        "artist": "Zartmann",
-        "title": "Wunderschön",
-        "plays": 1
-      },
-      {
-        "artist": "Eli Preiss",
-        "title": "Bussi",
-        "plays": 1
-      },
-      {
-        "artist": "Lena x Nico Santos",
-        "title": "Better",
-        "plays": 1
-      },
-      {
-        "artist": "SIENNA SPIRO",
-        "title": "Material Lover",
+        "artist": "D4vd",
+        "title": "Here With Me",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Tobee",
-      "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-      "plays": 2
+      "artist": "The Weeknd",
+      "title": "Starboy (feat. Daft Punk)",
+      "plays": 1
     }
   }
 }
