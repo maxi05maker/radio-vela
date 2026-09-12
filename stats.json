@@ -2,8 +2,8 @@
   "2026-09-12 07:00": {
     "period_start": "2026-09-12T07:00:00+02:00",
     "period_end": "2026-09-13T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "The Weeknd",
@@ -53,6 +53,51 @@
       {
         "artist": "D4vd",
         "title": "Here With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "party 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "Time To Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "DreamDoll",
+        "title": "Clockin' It (Freestyle)",
+        "plays": 1
+      },
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
+        "plays": 1
+      },
+      {
+        "artist": "Kaleo",
+        "title": "Way Down We Go",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris & Clementine Douglas",
+        "title": "Blessings",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Walk The Moon",
+        "title": "Shut Up and Dance",
         "plays": 1
       }
     ],
