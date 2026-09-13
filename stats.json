@@ -2,8 +2,8 @@
   "2026-09-13 07:00": {
     "period_start": "2026-09-13T07:00:00+02:00",
     "period_end": "2026-09-14T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 47,
+    "total_entries": 60,
+    "music_entries": 56,
     "songs": [
       {
         "artist": "Steve Lacy",
@@ -238,6 +238,51 @@
       {
         "artist": "Loyle Carner",
         "title": "Yesterday",
+        "plays": 1
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Locked Out Of Heaven",
+        "plays": 1
+      },
+      {
+        "artist": "Kungs",
+        "title": "Clap Your Hands",
+        "plays": 1
+      },
+      {
+        "artist": "Post Malone",
+        "title": "I Had Some Help (feat. Morgan Wallen)",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster feat. Sido",
+        "title": "Au Revoir",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly Feat. Gentleman",
+        "title": "Id",
+        "plays": 1
+      },
+      {
+        "artist": "HAIM",
+        "title": "Everybody's trying to figure me out",
+        "plays": 1
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger & Quarterhead",
+        "title": "Nichts mehr zu sagen",
+        "plays": 1
+      },
+      {
+        "artist": "De La Soul",
+        "title": "Cabin In The Sky (Prod. By Supa Dave West)",
         "plays": 1
       }
     ],
