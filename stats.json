@@ -2,8 +2,8 @@
   "2026-09-13 07:00": {
     "period_start": "2026-09-13T07:00:00+02:00",
     "period_end": "2026-09-14T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
       {
         "artist": "Steve Lacy",
@@ -143,6 +143,51 @@
       {
         "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
         "title": "The Drop",
+        "plays": 1
+      },
+      {
+        "artist": "Kummer",
+        "title": "Es tut wieder weh",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Shook",
+        "plays": 1
+      },
+      {
+        "artist": "Walk The Moon",
+        "title": "Shut Up and Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "White Knuckle Ride",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Mehr Glück als Verstand",
+        "plays": 1
+      },
+      {
+        "artist": "Drangsal",
+        "title": "Will ich nur dich",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Daisies",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith, Kim Petras",
+        "title": "Unholy (feat. Kim Petras)",
         "plays": 1
       }
     ],
