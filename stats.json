@@ -2,12 +2,22 @@
   "2026-09-12 07:00": {
     "period_start": "2026-09-12T07:00:00+02:00",
     "period_end": "2026-09-13T07:00:00+02:00",
-    "total_entries": 70,
-    "music_entries": 67,
+    "total_entries": 80,
+    "music_entries": 75,
     "songs": [
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 2
+      },
       {
         "artist": "Walk The Moon",
         "title": "Shut Up and Dance",
+        "plays": 2
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
         "plays": 2
       },
       {
@@ -76,11 +86,6 @@
         "plays": 1
       },
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
         "artist": "DreamDoll",
         "title": "Clockin' It (Freestyle)",
         "plays": 1
@@ -103,11 +108,6 @@
       {
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Walking On Cars",
-        "title": "Speeding Cars",
         "plays": 1
       },
       {
@@ -329,11 +329,41 @@
         "artist": "Sugababes",
         "title": "Jungle",
         "plays": 1
+      },
+      {
+        "artist": "Lady Gaga, Doechii",
+        "title": "Runway",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Something In The Way You Move",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "twilight zone",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "don't lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd/Anitta",
+        "title": "São Paulo",
+        "plays": 1
+      },
+      {
+        "artist": "Mia Morgan",
+        "title": "Jennifer Check",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Walk The Moon",
-      "title": "Shut Up and Dance",
+      "artist": "Roy Bianco & Die Abbrunzati Boys",
+      "title": "Bella Napoli",
       "plays": 2
     }
   }
