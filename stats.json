@@ -2,8 +2,8 @@
   "2026-09-13 07:00": {
     "period_start": "2026-09-13T07:00:00+02:00",
     "period_end": "2026-09-14T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 37,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "Steve Lacy",
@@ -188,6 +188,56 @@
       {
         "artist": "Sam Smith, Kim Petras",
         "title": "Unholy (feat. Kim Petras)",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso X Elif",
+        "title": "Mond",
+        "plays": 1
+      },
+      {
+        "artist": "Kyle Pearce",
+        "title": "I Don't Care",
+        "plays": 1
+      },
+      {
+        "artist": "Ina Müller",
+        "title": "Weiber-WG",
+        "plays": 1
+      },
+      {
+        "artist": "The Neighbourhood",
+        "title": "Sweater Weather",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Roar",
+        "plays": 1
+      },
+      {
+        "artist": "Doechii",
+        "title": "Anxiety",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Leiser",
+        "plays": 1
+      },
+      {
+        "artist": "ABBA",
+        "title": "Little Things",
+        "plays": 1
+      },
+      {
+        "artist": "FINNEAS",
+        "title": "For Cryin' Out Loud!",
+        "plays": 1
+      },
+      {
+        "artist": "Loyle Carner",
+        "title": "Yesterday",
         "plays": 1
       }
     ],
