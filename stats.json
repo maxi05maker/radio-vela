@@ -1,153 +1,23 @@
 {
-  "2026-09-12 07:00": {
-    "period_start": "2026-09-12T07:00:00+02:00",
-    "period_end": "2026-09-13T07:00:00+02:00",
-    "total_entries": 90,
-    "music_entries": 85,
+  "2026-09-13 07:00": {
+    "period_start": "2026-09-13T07:00:00+02:00",
+    "period_end": "2026-09-14T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 2
-      },
-      {
-        "artist": "Walk The Moon",
-        "title": "Shut Up and Dance",
-        "plays": 2
-      },
-      {
-        "artist": "Walking On Cars",
-        "title": "Speeding Cars",
-        "plays": 2
-      },
-      {
-        "artist": "Snoop Dogg",
-        "title": "Murder Music",
-        "plays": 2
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 2
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Starboy (feat. Daft Punk)",
+        "artist": "Steve Lacy",
+        "title": "Bad habit",
         "plays": 1
       },
       {
-        "artist": "The Bevis Frond",
-        "title": "Quietly",
+        "artist": "Sportfreunde Stiller",
+        "title": "'54, '74, '90, 2006",
         "plays": 1
       },
       {
-        "artist": "The Kid Laroi",
-        "title": "WITHOUT YOU",
-        "plays": 1
-      },
-      {
-        "artist": "Johannes Oerding",
-        "title": "Plan A",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Dance With Me",
-        "plays": 1
-      },
-      {
-        "artist": "The Strumbellas",
-        "title": "Spirits",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Diese Nacht",
-        "plays": 1
-      },
-      {
-        "artist": "j-hope, Miguel",
-        "title": "Sweet Dreams (feat. Miguel)",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + the Machine",
-        "title": "Shake It Out",
-        "plays": 1
-      },
-      {
-        "artist": "D4vd",
-        "title": "Here With Me",
-        "plays": 1
-      },
-      {
-        "artist": "Charli xcx",
-        "title": "party 4 u",
-        "plays": 1
-      },
-      {
-        "artist": "Paul Kalkbrenner",
-        "title": "Time To Dance",
-        "plays": 1
-      },
-      {
-        "artist": "DreamDoll",
-        "title": "Clockin' It (Freestyle)",
-        "plays": 1
-      },
-      {
-        "artist": "Passenger",
-        "title": "Let Her Go",
-        "plays": 1
-      },
-      {
-        "artist": "Kaleo",
-        "title": "Way Down We Go",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris & Clementine Douglas",
-        "title": "Blessings",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Roundabouts",
-        "plays": 1
-      },
-      {
-        "artist": "Billy Idol feat. Avril Lavigne",
-        "title": "77",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Firework",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn, Whitney Houston",
-        "title": "Its Not Right But Its Okay",
-        "plays": 1
-      },
-      {
-        "artist": "Jason Derulo Feat. 2 Chainz",
-        "title": "Talk Dirty",
-        "plays": 1
-      },
-      {
-        "artist": "The The",
-        "title": "A Rainy Day In May",
+        "artist": "Drake & Future & Molly Santana",
+        "title": "Ran To Atlanta [Explicit]",
         "plays": 1
       },
       {
@@ -156,260 +26,40 @@
         "plays": 1
       },
       {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
+        "plays": 1
+      },
+      {
+        "artist": "Father John Misty",
+        "title": "She Cleans Up",
+        "plays": 1
+      },
+      {
+        "artist": "Starley",
+        "title": "Call on Me",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Plan A",
+        "plays": 1
+      },
+      {
         "artist": "Zartmann",
-        "title": "tau mich auf",
+        "title": "Wunderschön",
         "plays": 1
       },
       {
-        "artist": "Nickelback",
-        "title": "Photograph",
-        "plays": 1
-      },
-      {
-        "artist": "Black Star Riders",
-        "title": "Better Than Saturday Night",
-        "plays": 1
-      },
-      {
-        "artist": "Gorillaz",
-        "title": "The Moon Cave",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding & Juice WRLD",
-        "title": "Hate Me",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Rooftop",
-        "plays": 1
-      },
-      {
-        "artist": "International Music",
-        "title": "Im Sommer bin ich dein König",
-        "plays": 1
-      },
-      {
-        "artist": "Beyonce feat. Shakira",
-        "title": "Beautiful Liar",
-        "plays": 1
-      },
-      {
-        "artist": "JORIS",
-        "title": "Nur die Musik",
-        "plays": 1
-      },
-      {
-        "artist": "Polarkreis 18",
-        "title": "Allein Allein",
-        "plays": 1
-      },
-      {
-        "artist": "Bad Omens",
-        "title": "Like A Villain",
-        "plays": 1
-      },
-      {
-        "artist": "ROSÉ & Bruno Mars",
-        "title": "APT.",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Wellington feat. Small Jam",
-        "title": "Iko Iko",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Montez",
-        "title": "Überfall",
-        "plays": 1
-      },
-      {
-        "artist": "Jungle",
-        "title": "Busy Earnin'",
-        "plays": 1
-      },
-      {
-        "artist": "Eminem",
-        "title": "The King and I feat. CeeLo Green",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Fliegen",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Flugmodus",
-        "plays": 1
-      },
-      {
-        "artist": "Welshly Arms",
-        "title": "Legendary",
-        "plays": 1
-      },
-      {
-        "artist": "Blond",
-        "title": "Es könnte grad nicht schöner sein",
-        "plays": 1
-      },
-      {
-        "artist": "FILLY",
-        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler & Topic",
-        "title": "Solo Para Ti",
-        "plays": 1
-      },
-      {
-        "artist": "Snow Tha Product",
-        "title": "Alligator",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Achterbahn",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Safe",
-        "plays": 1
-      },
-      {
-        "artist": "Swedish House Mafia",
-        "title": "Wait So Long",
-        "plays": 1
-      },
-      {
-        "artist": "Die Toten Hosen",
-        "title": "Tage wie diese",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "PinkPantheress",
-        "title": "Illegal",
-        "plays": 1
-      },
-      {
-        "artist": "Kygo & Dean Lewis",
-        "title": "Lost Without You (with Dean Lewis)",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran, Lil Baby",
-        "title": "2step (feat. Lil Baby)",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Watch It Burn",
-        "plays": 1
-      },
-      {
-        "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
-        "title": "Blurred Lines",
-        "plays": 1
-      },
-      {
-        "artist": "Sugababes",
-        "title": "Jungle",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga, Doechii",
-        "title": "Runway",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Something In The Way You Move",
-        "plays": 1
-      },
-      {
-        "artist": "Ariana Grande",
-        "title": "twilight zone",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "don't lie to me",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd/Anitta",
-        "title": "São Paulo",
-        "plays": 1
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Jennifer Check",
-        "plays": 1
-      },
-      {
-        "artist": "Sofia Portanet",
-        "title": "Unstoppable",
-        "plays": 1
-      },
-      {
-        "artist": "Drangsal",
-        "title": "Will ich nur dich",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory & VIZE",
-        "title": "Make It Right",
-        "plays": 1
-      },
-      {
-        "artist": "SDP",
-        "title": "Du hast gehofft",
-        "plays": 1
-      },
-      {
-        "artist": "Samu Haber",
-        "title": "The Vehicle",
-        "plays": 1
-      },
-      {
-        "artist": "AnnenMayKantereit",
-        "title": "Du tust mir nie mehr weh",
-        "plays": 1
-      },
-      {
-        "artist": "Tim Bendzko",
-        "title": "Parallelwelt",
-        "plays": 1
-      },
-      {
-        "artist": "CRO, jolle",
-        "title": "Märchenwald",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "When You're Gone",
+        "artist": "Rosenstolz",
+        "title": "Gib Mir Sonne",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Roy Bianco & Die Abbrunzati Boys",
-      "title": "Bella Napoli",
-      "plays": 2
+      "artist": "Steve Lacy",
+      "title": "Bad habit",
+      "plays": 1
     }
   }
 }
