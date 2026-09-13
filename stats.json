@@ -2,8 +2,8 @@
   "2026-09-13 07:00": {
     "period_start": "2026-09-13T07:00:00+02:00",
     "period_end": "2026-09-14T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Steve Lacy",
@@ -98,6 +98,51 @@
       {
         "artist": "AnnenMayKantereit",
         "title": "Du tust mir nie mehr weh",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "No Roots",
+        "plays": 1
+      },
+      {
+        "artist": "Vanessa Mai",
+        "title": "Aus & Vorbei",
+        "plays": 1
+      },
+      {
+        "artist": "The Killers",
+        "title": "Bright lights",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz & Danger Dan",
+        "title": "Unsere Bank",
+        "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "The Last Dinner Party",
+        "title": "The Scythe",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Diese Nacht",
+        "plays": 1
+      },
+      {
+        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
+        "title": "The Drop",
         "plays": 1
       }
     ],
