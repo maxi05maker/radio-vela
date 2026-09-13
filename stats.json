@@ -2,8 +2,8 @@
   "2026-09-12 07:00": {
     "period_start": "2026-09-12T07:00:00+02:00",
     "period_end": "2026-09-13T07:00:00+02:00",
-    "total_entries": 80,
-    "music_entries": 75,
+    "total_entries": 90,
+    "music_entries": 85,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -23,6 +23,11 @@
       {
         "artist": "Snoop Dogg",
         "title": "Murder Music",
+        "plays": 2
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 2
       },
       {
@@ -316,11 +321,6 @@
         "plays": 1
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
         "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
         "title": "Blurred Lines",
         "plays": 1
@@ -358,6 +358,51 @@
       {
         "artist": "Mia Morgan",
         "title": "Jennifer Check",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "Drangsal",
+        "title": "Will ich nur dich",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory & VIZE",
+        "title": "Make It Right",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "Du hast gehofft",
+        "plays": 1
+      },
+      {
+        "artist": "Samu Haber",
+        "title": "The Vehicle",
+        "plays": 1
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Du tust mir nie mehr weh",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Parallelwelt",
+        "plays": 1
+      },
+      {
+        "artist": "CRO, jolle",
+        "title": "Märchenwald",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "When You're Gone",
         "plays": 1
       }
     ],

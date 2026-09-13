@@ -3406,5 +3406,65 @@
     "played_at": "2026-09-13 02:19:04 +0200",
     "title": "Jennifer Check",
     "artist": "Mia Morgan"
+  },
+  {
+    "key": "2026-09-13 06:30:41 +0200|Unstoppable|Sofia Portanet",
+    "played_at": "2026-09-13 06:30:41 +0200",
+    "title": "Unstoppable",
+    "artist": "Sofia Portanet"
+  },
+  {
+    "key": "2026-09-13 06:33:53 +0200|Will ich nur dich|Drangsal",
+    "played_at": "2026-09-13 06:33:53 +0200",
+    "title": "Will ich nur dich",
+    "artist": "Drangsal"
+  },
+  {
+    "key": "2026-09-13 06:36:25 +0200|Make It Right|Tom Gregory & VIZE",
+    "played_at": "2026-09-13 06:36:25 +0200",
+    "title": "Make It Right",
+    "artist": "Tom Gregory & VIZE"
+  },
+  {
+    "key": "2026-09-13 06:38:45 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-13 06:38:45 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-13 06:42:19 +0200|Du hast gehofft|SDP",
+    "played_at": "2026-09-13 06:42:19 +0200",
+    "title": "Du hast gehofft",
+    "artist": "SDP"
+  },
+  {
+    "key": "2026-09-13 06:46:00 +0200|The Vehicle|Samu Haber",
+    "played_at": "2026-09-13 06:46:00 +0200",
+    "title": "The Vehicle",
+    "artist": "Samu Haber"
+  },
+  {
+    "key": "2026-09-13 06:49:21 +0200|Du tust mir nie mehr weh|AnnenMayKantereit",
+    "played_at": "2026-09-13 06:49:21 +0200",
+    "title": "Du tust mir nie mehr weh",
+    "artist": "AnnenMayKantereit"
+  },
+  {
+    "key": "2026-09-13 06:52:20 +0200|Parallelwelt|Tim Bendzko",
+    "played_at": "2026-09-13 06:52:20 +0200",
+    "title": "Parallelwelt",
+    "artist": "Tim Bendzko"
+  },
+  {
+    "key": "2026-09-13 06:55:10 +0200|Märchenwald|CRO, jolle",
+    "played_at": "2026-09-13 06:55:10 +0200",
+    "title": "Märchenwald",
+    "artist": "CRO, jolle"
+  },
+  {
+    "key": "2026-09-13 06:58:13 +0200|When You're Gone|Shawn Mendes",
+    "played_at": "2026-09-13 06:58:13 +0200",
+    "title": "When You're Gone",
+    "artist": "Shawn Mendes"
   }
 ]
