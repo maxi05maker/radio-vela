@@ -2,9 +2,14 @@
   "2026-09-14 07:00": {
     "period_start": "2026-09-14T07:00:00+02:00",
     "period_end": "2026-09-15T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
+      {
+        "artist": "Die Toten Hosen",
+        "title": "Tage wie diese",
+        "plays": 2
+      },
       {
         "artist": "Tame Impala",
         "title": "Lost In Yesterday",
@@ -36,11 +41,6 @@
         "plays": 1
       },
       {
-        "artist": "Die Toten Hosen",
-        "title": "Tage wie diese",
-        "plays": 1
-      },
-      {
         "artist": "Lady Gaga",
         "title": "Die With A Smile (feat. Bruno Mars)",
         "plays": 1
@@ -49,12 +49,57 @@
         "artist": "Bruno Mars",
         "title": "Locked Out Of Heaven",
         "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Its ok Im ok",
+        "plays": 1
+      },
+      {
+        "artist": "Snoop Dogg",
+        "title": "Murder Music",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Illegal",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Leiser",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Tame Impala",
-      "title": "Lost In Yesterday",
-      "plays": 1
+      "artist": "Die Toten Hosen",
+      "title": "Tage wie diese",
+      "plays": 2
     }
   }
 }
