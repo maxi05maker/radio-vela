@@ -2,9 +2,14 @@
   "2026-09-13 07:00": {
     "period_start": "2026-09-13T07:00:00+02:00",
     "period_end": "2026-09-14T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 56,
+    "total_entries": 70,
+    "music_entries": 64,
     "songs": [
+      {
+        "artist": "Shawn Mendes",
+        "title": "When You're Gone",
+        "plays": 2
+      },
       {
         "artist": "Steve Lacy",
         "title": "Bad habit",
@@ -58,11 +63,6 @@
       {
         "artist": "Evanescence",
         "title": "Fight Like A Girl (feat. K.Flay)",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "When You're Gone",
         "plays": 1
       },
       {
@@ -284,12 +284,47 @@
         "artist": "De La Soul",
         "title": "Cabin In The Sky (Prod. By Supa Dave West)",
         "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, The Stickmen Project, Calum Scott",
+        "title": "Rain In Ibiza",
+        "plays": 1
+      },
+      {
+        "artist": "The The",
+        "title": "A Rainy Day In May",
+        "plays": 1
+      },
+      {
+        "artist": "KAFFKIEZ",
+        "title": "Matilda",
+        "plays": 1
+      },
+      {
+        "artist": "Slash feat. Paul Rodgers",
+        "title": "Born Under a Bad Sign",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "All About That Bass",
+        "plays": 1
+      },
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Steve Lacy",
-      "title": "Bad habit",
-      "plays": 1
+      "artist": "Shawn Mendes",
+      "title": "When You're Gone",
+      "plays": 2
     }
   }
 }
