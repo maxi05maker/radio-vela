@@ -2,8 +2,8 @@
   "2026-09-14 07:00": {
     "period_start": "2026-09-14T07:00:00+02:00",
     "period_end": "2026-09-15T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "Die Toten Hosen",
@@ -138,6 +138,56 @@
       {
         "artist": "Flo Milli",
         "title": "PBC",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "2001",
+        "plays": 1
+      },
+      {
+        "artist": "Hurts/Purple Disco Machine",
+        "title": "Wonderful Life '25",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "If You're Too Shy (Let Me Know)",
+        "plays": 1
+      },
+      {
+        "artist": "DONNA SAVAGE/Chilly Gonzales",
+        "title": "Neue Männer",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "No Roots",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Fallin",
+        "plays": 1
+      },
+      {
+        "artist": "Fritz Kalkbrenner",
+        "title": "Calling You",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Forget me",
         "plays": 1
       }
     ],
