@@ -1,330 +1,60 @@
 {
-  "2026-09-13 07:00": {
-    "period_start": "2026-09-13T07:00:00+02:00",
-    "period_end": "2026-09-14T07:00:00+02:00",
-    "total_entries": 70,
-    "music_entries": 64,
+  "2026-09-14 07:00": {
+    "period_start": "2026-09-14T07:00:00+02:00",
+    "period_end": "2026-09-15T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Shawn Mendes",
-        "title": "When You're Gone",
-        "plays": 2
-      },
-      {
-        "artist": "Steve Lacy",
-        "title": "Bad habit",
+        "artist": "Tame Impala",
+        "title": "Lost In Yesterday",
         "plays": 1
       },
       {
-        "artist": "Sportfreunde Stiller",
-        "title": "'54, '74, '90, 2006",
+        "artist": "Bausa, Philipp Dittberner",
+        "title": "Wolke 4",
         "plays": 1
       },
       {
-        "artist": "Drake & Future & Molly Santana",
-        "title": "Ran To Atlanta [Explicit]",
+        "artist": "David Guetta feat. Zara Larsson",
+        "title": "This One's For You",
         "plays": 1
       },
       {
-        "artist": "Dua Lipa",
-        "title": "Physical",
+        "artist": "Bastille",
+        "title": "Things We Lost In The Fire",
         "plays": 1
       },
       {
-        "artist": "Michael Schulte",
-        "title": "Remember Me",
+        "artist": "The Bevis Frond",
+        "title": "Quietly",
         "plays": 1
       },
       {
-        "artist": "Father John Misty",
-        "title": "She Cleans Up",
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
         "plays": 1
       },
       {
-        "artist": "Starley",
-        "title": "Call on Me",
+        "artist": "Die Toten Hosen",
+        "title": "Tage wie diese",
         "plays": 1
       },
       {
-        "artist": "Johannes Oerding",
-        "title": "Plan A",
-        "plays": 1
-      },
-      {
-        "artist": "Zartmann",
-        "title": "Wunderschön",
-        "plays": 1
-      },
-      {
-        "artist": "Rosenstolz",
-        "title": "Gib Mir Sonne",
-        "plays": 1
-      },
-      {
-        "artist": "Evanescence",
-        "title": "Fight Like A Girl (feat. K.Flay)",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Mr. Know It All",
-        "plays": 1
-      },
-      {
-        "artist": "Lil Tjay",
-        "title": "In My Head",
-        "plays": 1
-      },
-      {
-        "artist": "Walking On Cars",
-        "title": "Speeding Cars",
-        "plays": 1
-      },
-      {
-        "artist": "Cigarettes After Sex",
-        "title": "Twizzler",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Blame It On Me",
-        "plays": 1
-      },
-      {
-        "artist": "AnnenMayKantereit",
-        "title": "Du tust mir nie mehr weh",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna",
-        "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "plays": 1
-      },
-      {
-        "artist": "Alice Merton",
-        "title": "No Roots",
-        "plays": 1
-      },
-      {
-        "artist": "Vanessa Mai",
-        "title": "Aus & Vorbei",
-        "plays": 1
-      },
-      {
-        "artist": "The Killers",
-        "title": "Bright lights",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz & Danger Dan",
-        "title": "Unsere Bank",
-        "plays": 1
-      },
-      {
-        "artist": "Glockenbach",
-        "title": "Dirty Dancing",
-        "plays": 1
-      },
-      {
-        "artist": "The Last Dinner Party",
-        "title": "The Scythe",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Diese Nacht",
-        "plays": 1
-      },
-      {
-        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
-        "title": "The Drop",
-        "plays": 1
-      },
-      {
-        "artist": "Kummer",
-        "title": "Es tut wieder weh",
-        "plays": 1
-      },
-      {
-        "artist": "Sugababes",
-        "title": "Shook",
-        "plays": 1
-      },
-      {
-        "artist": "Walk The Moon",
-        "title": "Shut Up and Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Jamiroquai",
-        "title": "White Knuckle Ride",
-        "plays": 1
-      },
-      {
-        "artist": "Johannes Oerding",
-        "title": "Mehr Glück als Verstand",
-        "plays": 1
-      },
-      {
-        "artist": "Drangsal",
-        "title": "Will ich nur dich",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Bieber",
-        "title": "Daisies",
-        "plays": 1
-      },
-      {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith, Kim Petras",
-        "title": "Unholy (feat. Kim Petras)",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso X Elif",
-        "title": "Mond",
-        "plays": 1
-      },
-      {
-        "artist": "Kyle Pearce",
-        "title": "I Don't Care",
-        "plays": 1
-      },
-      {
-        "artist": "Ina Müller",
-        "title": "Weiber-WG",
-        "plays": 1
-      },
-      {
-        "artist": "The Neighbourhood",
-        "title": "Sweater Weather",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Roar",
-        "plays": 1
-      },
-      {
-        "artist": "Doechii",
-        "title": "Anxiety",
-        "plays": 1
-      },
-      {
-        "artist": "LEA",
-        "title": "Leiser",
-        "plays": 1
-      },
-      {
-        "artist": "ABBA",
-        "title": "Little Things",
-        "plays": 1
-      },
-      {
-        "artist": "FINNEAS",
-        "title": "For Cryin' Out Loud!",
-        "plays": 1
-      },
-      {
-        "artist": "Loyle Carner",
-        "title": "Yesterday",
+        "artist": "Lady Gaga",
+        "title": "Die With A Smile (feat. Bruno Mars)",
         "plays": 1
       },
       {
         "artist": "Bruno Mars",
         "title": "Locked Out Of Heaven",
         "plays": 1
-      },
-      {
-        "artist": "Kungs",
-        "title": "Clap Your Hands",
-        "plays": 1
-      },
-      {
-        "artist": "Post Malone",
-        "title": "I Had Some Help (feat. Morgan Wallen)",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster feat. Sido",
-        "title": "Au Revoir",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly Feat. Gentleman",
-        "title": "Id",
-        "plays": 1
-      },
-      {
-        "artist": "HAIM",
-        "title": "Everybody's trying to figure me out",
-        "plays": 1
-      },
-      {
-        "artist": "Topic & A7S",
-        "title": "Kernkraft 400 (A Better Day)",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger & Quarterhead",
-        "title": "Nichts mehr zu sagen",
-        "plays": 1
-      },
-      {
-        "artist": "De La Soul",
-        "title": "Cabin In The Sky (Prod. By Supa Dave West)",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn, The Stickmen Project, Calum Scott",
-        "title": "Rain In Ibiza",
-        "plays": 1
-      },
-      {
-        "artist": "The The",
-        "title": "A Rainy Day In May",
-        "plays": 1
-      },
-      {
-        "artist": "KAFFKIEZ",
-        "title": "Matilda",
-        "plays": 1
-      },
-      {
-        "artist": "Slash feat. Paul Rodgers",
-        "title": "Born Under a Bad Sign",
-        "plays": 1
-      },
-      {
-        "artist": "Joris",
-        "title": "Zu Viel Retro",
-        "plays": 1
-      },
-      {
-        "artist": "Meghan Trainor",
-        "title": "All About That Bass",
-        "plays": 1
-      },
-      {
-        "artist": "Nico & Vinz",
-        "title": "Am I Wrong",
-        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Shawn Mendes",
-      "title": "When You're Gone",
-      "plays": 2
+      "artist": "Tame Impala",
+      "title": "Lost In Yesterday",
+      "plays": 1
     }
   }
 }
