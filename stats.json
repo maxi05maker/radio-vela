@@ -2,8 +2,8 @@
   "2026-09-15 07:00": {
     "period_start": "2026-09-15T07:00:00+02:00",
     "period_end": "2026-09-16T07:00:00+02:00",
-    "total_entries": 31,
-    "music_entries": 30,
+    "total_entries": 41,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "The Ronettes",
@@ -148,6 +148,46 @@
       {
         "artist": "Joel Corry & Tom Grennan",
         "title": "Lionheart (Fearless)",
+        "plays": 1
+      },
+      {
+        "artist": "Nura",
+        "title": "Ich War's Nicht",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "Be Mine",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "Wie schön du bist",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Physical",
+        "plays": 1
+      },
+      {
+        "artist": "Ina Müller",
+        "title": "Weiber-WG",
+        "plays": 1
+      },
+      {
+        "artist": "Milow",
+        "title": "DeLorean",
         "plays": 1
       }
     ],
