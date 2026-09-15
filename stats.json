@@ -2,12 +2,62 @@
   "2026-09-15 07:00": {
     "period_start": "2026-09-15T07:00:00+02:00",
     "period_end": "2026-09-16T07:00:00+02:00",
-    "total_entries": 1,
-    "music_entries": 1,
+    "total_entries": 11,
+    "music_entries": 11,
     "songs": [
       {
         "artist": "Lost Frequencies & James Arthur",
         "title": "Questions",
+        "plays": 1
+      },
+      {
+        "artist": "Ennio",
+        "title": "Fühlst du gar nichts? feat. Nina Chuba",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "The Ronettes",
+        "title": "Be My Baby",
+        "plays": 1
+      },
+      {
+        "artist": "BLACKPINK",
+        "title": "JUMP",
+        "plays": 1
+      },
+      {
+        "artist": "J.I.D",
+        "title": "Ballads feat. Conway",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Lola Young",
+        "title": "One Thing",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Myle",
+        "title": "Hold Me",
+        "plays": 1
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Ein Lied für dich",
         "plays": 1
       }
     ],
