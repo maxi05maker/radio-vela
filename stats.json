@@ -2,9 +2,14 @@
   "2026-09-15 07:00": {
     "period_start": "2026-09-15T07:00:00+02:00",
     "period_end": "2026-09-16T07:00:00+02:00",
-    "total_entries": 21,
-    "music_entries": 21,
+    "total_entries": 31,
+    "music_entries": 30,
     "songs": [
+      {
+        "artist": "The Ronettes",
+        "title": "Be My Baby",
+        "plays": 2
+      },
       {
         "artist": "Lost Frequencies & James Arthur",
         "title": "Questions",
@@ -18,11 +23,6 @@
       {
         "artist": "OneRepublic",
         "title": "Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "The Ronettes",
-        "title": "Be My Baby",
         "plays": 1
       },
       {
@@ -109,12 +109,52 @@
         "artist": "Rea Garvey",
         "title": "Kids In Love",
         "plays": 1
+      },
+      {
+        "artist": "Crawlers",
+        "title": "Come Over (Again)",
+        "plays": 1
+      },
+      {
+        "artist": "Grim104",
+        "title": "Mantra",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Zu dir",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "3 Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "GAYLE",
+        "title": "abcdefu",
+        "plays": 1
+      },
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
+        "plays": 1
+      },
+      {
+        "artist": "The Cribs",
+        "title": "Dark Luck",
+        "plays": 1
+      },
+      {
+        "artist": "Joel Corry & Tom Grennan",
+        "title": "Lionheart (Fearless)",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Lost Frequencies & James Arthur",
-      "title": "Questions",
-      "plays": 1
+      "artist": "The Ronettes",
+      "title": "Be My Baby",
+      "plays": 2
     }
   }
 }
