@@ -2,8 +2,8 @@
   "2026-09-14 07:00": {
     "period_start": "2026-09-14T07:00:00+02:00",
     "period_end": "2026-09-15T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 38,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "Die Toten Hosen",
@@ -188,6 +188,51 @@
       {
         "artist": "Lewis Capaldi",
         "title": "Forget me",
+        "plays": 1
+      },
+      {
+        "artist": "Oliver Tree x Robin Schulz",
+        "title": "Miss You",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Sophie and the Giants",
+        "title": "Loser",
+        "plays": 1
+      },
+      {
+        "artist": "Alma",
+        "title": "Dye My Hair",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "Light Switch",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor & Sido",
+        "title": "Interstellar (Zwischen den Sternen)",
+        "plays": 1
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
+        "plays": 1
+      },
+      {
+        "artist": "Nickelback",
+        "title": "What Are You Waiting for",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Craving (Jenna's version)",
         "plays": 1
       }
     ],

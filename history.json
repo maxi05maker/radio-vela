@@ -4126,5 +4126,65 @@
     "played_at": "2026-09-14 23:57:57 +0200",
     "title": "Forget me",
     "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-09-15 01:55:32 +0200|Miss You|Oliver Tree x Robin Schulz",
+    "played_at": "2026-09-15 01:55:32 +0200",
+    "title": "Miss You",
+    "artist": "Oliver Tree x Robin Schulz"
+  },
+  {
+    "key": "2026-09-15 01:58:58 +0200|As It Was|Harry Styles",
+    "played_at": "2026-09-15 01:58:58 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-15 02:01:46 +0200|Loser|Sophie and the Giants",
+    "played_at": "2026-09-15 02:01:46 +0200",
+    "title": "Loser",
+    "artist": "Sophie and the Giants"
+  },
+  {
+    "key": "2026-09-15 02:04:52 +0200|Dye My Hair|Alma",
+    "played_at": "2026-09-15 02:04:52 +0200",
+    "title": "Dye My Hair",
+    "artist": "Alma"
+  },
+  {
+    "key": "2026-09-15 02:08:21 +0200|Light Switch|Charlie Puth",
+    "played_at": "2026-09-15 02:08:21 +0200",
+    "title": "Light Switch",
+    "artist": "Charlie Puth"
+  },
+  {
+    "key": "2026-09-15 02:11:27 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-15 02:11:27 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-15 02:14:12 +0200|Interstellar (Zwischen den Sternen)|Sarah Connor & Sido",
+    "played_at": "2026-09-15 02:14:12 +0200",
+    "title": "Interstellar (Zwischen den Sternen)",
+    "artist": "Sarah Connor & Sido"
+  },
+  {
+    "key": "2026-09-15 02:16:40 +0200|Klippe|Lina",
+    "played_at": "2026-09-15 02:16:40 +0200",
+    "title": "Klippe",
+    "artist": "Lina"
+  },
+  {
+    "key": "2026-09-15 02:19:19 +0200|What Are You Waiting for|Nickelback",
+    "played_at": "2026-09-15 02:19:19 +0200",
+    "title": "What Are You Waiting for",
+    "artist": "Nickelback"
+  },
+  {
+    "key": "2026-09-15 02:22:59 +0200|The Craving (Jenna's version)|Twenty One Pilots",
+    "played_at": "2026-09-15 02:22:59 +0200",
+    "title": "The Craving (Jenna's version)",
+    "artist": "Twenty One Pilots"
   }
 ]
