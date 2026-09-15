@@ -2,12 +2,17 @@
   "2026-09-15 07:00": {
     "period_start": "2026-09-15T07:00:00+02:00",
     "period_end": "2026-09-16T07:00:00+02:00",
-    "total_entries": 41,
-    "music_entries": 38,
+    "total_entries": 51,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "The Ronettes",
         "title": "Be My Baby",
+        "plays": 2
+      },
+      {
+        "artist": "J.I.D",
+        "title": "Ballads feat. Conway",
         "plays": 2
       },
       {
@@ -28,11 +33,6 @@
       {
         "artist": "BLACKPINK",
         "title": "JUMP",
-        "plays": 1
-      },
-      {
-        "artist": "J.I.D",
-        "title": "Ballads feat. Conway",
         "plays": 1
       },
       {
@@ -188,6 +188,46 @@
       {
         "artist": "Milow",
         "title": "DeLorean",
+        "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "All About That Bass",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna & Sabrina Carpenter",
+        "title": "Bring Your Love",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
+        "title": "Blurred Lines",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd/Anitta",
+        "title": "São Paulo",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Traffic Lights",
+        "plays": 1
+      },
+      {
+        "artist": "Arcade Fire",
+        "title": "Year of the Snake",
         "plays": 1
       }
     ],
