@@ -424,5 +424,65 @@
     "played_at": "2026-09-16 08:40:45 +0200",
     "title": "If God Is A Woman",
     "artist": "Larkin Poe"
+  },
+  {
+    "key": "2026-09-16 13:33:47 +0200|The Dead Dance|Lady Gaga",
+    "played_at": "2026-09-16 13:33:47 +0200",
+    "title": "The Dead Dance",
+    "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-16 13:37:30 +0200|Do You Want To|Franz Ferdinand",
+    "played_at": "2026-09-16 13:37:30 +0200",
+    "title": "Do You Want To",
+    "artist": "Franz Ferdinand"
+  },
+  {
+    "key": "2026-09-16 13:41:05 +0200|War Of Kings|Europe",
+    "played_at": "2026-09-16 13:41:05 +0200",
+    "title": "War Of Kings",
+    "artist": "Europe"
+  },
+  {
+    "key": "2026-09-16 13:45:41 +0200|Weiße mit Dreads|Disarstar",
+    "played_at": "2026-09-16 13:45:41 +0200",
+    "title": "Weiße mit Dreads",
+    "artist": "Disarstar"
+  },
+  {
+    "key": "2026-09-16 13:48:24 +0200|Dirty Maria|Conchita Wurst",
+    "played_at": "2026-09-16 13:48:24 +0200",
+    "title": "Dirty Maria",
+    "artist": "Conchita Wurst"
+  },
+  {
+    "key": "2026-09-16 13:51:30 +0200|I Ain’t Worried|OneRepublic",
+    "played_at": "2026-09-16 13:51:30 +0200",
+    "title": "I Ain’t Worried",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-09-16 13:53:57 +0200|Dance With Me|Tom Gregory",
+    "played_at": "2026-09-16 13:53:57 +0200",
+    "title": "Dance With Me",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-09-16 13:56:21 +0200|Klippe|Lina",
+    "played_at": "2026-09-16 13:56:21 +0200",
+    "title": "Klippe",
+    "artist": "Lina"
+  },
+  {
+    "key": "2026-09-16 13:58:59 +0200|Peaches|Justin Bieber feat. Daniel Caesar & Giveon",
+    "played_at": "2026-09-16 13:58:59 +0200",
+    "title": "Peaches",
+    "artist": "Justin Bieber feat. Daniel Caesar & Giveon"
+  },
+  {
+    "key": "2026-09-16 14:02:17 +0200|The Ghouls|Midlake",
+    "played_at": "2026-09-16 14:02:17 +0200",
+    "title": "The Ghouls",
+    "artist": "Midlake"
   }
 ]

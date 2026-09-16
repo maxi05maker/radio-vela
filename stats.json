@@ -2,8 +2,8 @@
   "2026-09-16 07:00": {
     "period_start": "2026-09-16T07:00:00+02:00",
     "period_end": "2026-09-17T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Die Nerven",
@@ -48,6 +48,56 @@
       {
         "artist": "Larkin Poe",
         "title": "If God Is A Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Dead Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Franz Ferdinand",
+        "title": "Do You Want To",
+        "plays": 1
+      },
+      {
+        "artist": "Europe",
+        "title": "War Of Kings",
+        "plays": 1
+      },
+      {
+        "artist": "Disarstar",
+        "title": "Weiße mit Dreads",
+        "plays": 1
+      },
+      {
+        "artist": "Conchita Wurst",
+        "title": "Dirty Maria",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber feat. Daniel Caesar & Giveon",
+        "title": "Peaches",
+        "plays": 1
+      },
+      {
+        "artist": "Midlake",
+        "title": "The Ghouls",
         "plays": 1
       }
     ],
