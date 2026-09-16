@@ -2,9 +2,24 @@
   "2026-09-16 07:00": {
     "period_start": "2026-09-16T07:00:00+02:00",
     "period_end": "2026-09-17T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 38,
     "songs": [
+      {
+        "artist": "Europe",
+        "title": "War Of Kings",
+        "plays": 2
+      },
+      {
+        "artist": "Conchita Wurst",
+        "title": "Dirty Maria",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 2
+      },
       {
         "artist": "Die Nerven",
         "title": "Achtzehn",
@@ -61,23 +76,8 @@
         "plays": 1
       },
       {
-        "artist": "Europe",
-        "title": "War Of Kings",
-        "plays": 1
-      },
-      {
         "artist": "Disarstar",
         "title": "Weiße mit Dreads",
-        "plays": 1
-      },
-      {
-        "artist": "Conchita Wurst",
-        "title": "Dirty Maria",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
@@ -149,12 +149,42 @@
         "artist": "Vanessa Mai",
         "title": "Aus & Vorbei",
         "plays": 1
+      },
+      {
+        "artist": "Brendan Benson",
+        "title": "Ain't No Good",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "End of the world",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
+        "plays": 1
+      },
+      {
+        "artist": "Calum Scott",
+        "title": "My World",
+        "plays": 1
+      },
+      {
+        "artist": "FILLY",
+        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
+        "plays": 1
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Du tust mir nie mehr weh",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Die Nerven",
-      "title": "Achtzehn",
-      "plays": 1
+      "artist": "Europe",
+      "title": "War Of Kings",
+      "plays": 2
     }
   }
 }
