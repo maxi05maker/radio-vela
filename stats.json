@@ -2,8 +2,8 @@
   "2026-09-16 07:00": {
     "period_start": "2026-09-16T07:00:00+02:00",
     "period_end": "2026-09-17T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Die Nerven",
@@ -98,6 +98,56 @@
       {
         "artist": "Midlake",
         "title": "The Ghouls",
+        "plays": 1
+      },
+      {
+        "artist": "Travis Scott",
+        "title": "DELRESTO (ECHOES) ft. Beyoncé",
+        "plays": 1
+      },
+      {
+        "artist": "Ennio",
+        "title": "Fühlst du gar nichts? feat. Nina Chuba",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz & Danger Dan",
+        "title": "Unsere Bank",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "Supermodel",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Vergangenheit",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 1
+      },
+      {
+        "artist": "Shania Twain",
+        "title": "Last Day of Summer",
+        "plays": 1
+      },
+      {
+        "artist": "Lola Young",
+        "title": "One Thing",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "Vanessa Mai",
+        "title": "Aus & Vorbei",
         "plays": 1
       }
     ],
