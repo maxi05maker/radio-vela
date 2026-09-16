@@ -2,9 +2,14 @@
   "2026-09-16 07:00": {
     "period_start": "2026-09-16T07:00:00+02:00",
     "period_end": "2026-09-17T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 38,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
+      {
+        "artist": "The 1975",
+        "title": "If You're Too Shy (Let Me Know)",
+        "plays": 2
+      },
       {
         "artist": "Europe",
         "title": "War Of Kings",
@@ -23,11 +28,6 @@
       {
         "artist": "Die Nerven",
         "title": "Achtzehn",
-        "plays": 1
-      },
-      {
-        "artist": "The 1975",
-        "title": "If You're Too Shy (Let Me Know)",
         "plays": 1
       },
       {
@@ -179,11 +179,51 @@
         "artist": "AnnenMayKantereit",
         "title": "Du tust mir nie mehr weh",
         "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "It'll Be Okay",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Treppenhaus",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shivers",
+        "plays": 1
+      },
+      {
+        "artist": "Beth Hart",
+        "title": "Savior With A Razor (feat. Slash)",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Europe",
-      "title": "War Of Kings",
+      "artist": "The 1975",
+      "title": "If You're Too Shy (Let Me Know)",
       "plays": 2
     }
   }

@@ -604,5 +604,65 @@
     "played_at": "2026-09-16 21:41:49 +0200",
     "title": "Du tust mir nie mehr weh",
     "artist": "AnnenMayKantereit"
+  },
+  {
+    "key": "2026-09-16 23:48:20 +0200|It'll Be Okay|Shawn Mendes",
+    "played_at": "2026-09-16 23:48:20 +0200",
+    "title": "It'll Be Okay",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-16 23:52:03 +0200|If You're Too Shy (Let Me Know)|The 1975",
+    "played_at": "2026-09-16 23:52:03 +0200",
+    "title": "If You're Too Shy (Let Me Know)",
+    "artist": "The 1975"
+  },
+  {
+    "key": "2026-09-16 23:56:03 +0200|FEVER DREAM|Alex Warren",
+    "played_at": "2026-09-16 23:56:03 +0200",
+    "title": "FEVER DREAM",
+    "artist": "Alex Warren"
+  },
+  {
+    "key": "2026-09-16 23:58:30 +0200|Treppenhaus|LEA",
+    "played_at": "2026-09-16 23:58:30 +0200",
+    "title": "Treppenhaus",
+    "artist": "LEA"
+  },
+  {
+    "key": "2026-09-17 00:01:40 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-17 00:01:40 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-17 00:04:16 +0200|Shivers|Ed Sheeran",
+    "played_at": "2026-09-17 00:04:16 +0200",
+    "title": "Shivers",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-17 00:07:41 +0200|Savior With A Razor (feat. Slash)|Beth Hart",
+    "played_at": "2026-09-17 00:07:41 +0200",
+    "title": "Savior With A Razor (feat. Slash)",
+    "artist": "Beth Hart"
+  },
+  {
+    "key": "2026-09-17 00:12:29 +0200|Der letzte Tag|Max Giesinger",
+    "played_at": "2026-09-17 00:12:29 +0200",
+    "title": "Der letzte Tag",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-09-17 00:15:26 +0200|Clarity|Justin Jesso",
+    "played_at": "2026-09-17 00:15:26 +0200",
+    "title": "Clarity",
+    "artist": "Justin Jesso"
+  },
+  {
+    "key": "2026-09-17 00:18:42 +0200|Streets Of Minneapolis|Bruce Springsteen",
+    "played_at": "2026-09-17 00:18:42 +0200",
+    "title": "Streets Of Minneapolis",
+    "artist": "Bruce Springsteen"
   }
 ]
