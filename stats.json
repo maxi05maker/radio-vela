@@ -2,9 +2,14 @@
   "2026-09-17 07:00": {
     "period_start": "2026-09-17T07:00:00+02:00",
     "period_end": "2026-09-18T07:00:00+02:00",
-    "total_entries": 26,
-    "music_entries": 24,
+    "total_entries": 36,
+    "music_entries": 34,
     "songs": [
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 2
+      },
       {
         "artist": "Bad Bunny",
         "title": "Moscow Mule",
@@ -28,11 +33,6 @@
       {
         "artist": "Teddy Swims",
         "title": "Mr. Know It All",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 1
       },
       {
@@ -119,11 +119,56 @@
         "artist": "Momma",
         "title": "I Want You (Fever)",
         "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Unsicher",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster feat. Sido",
+        "title": "Au Revoir",
+        "plays": 1
+      },
+      {
+        "artist": "Travis Scott",
+        "title": "DELRESTO (ECHOES) ft. Beyoncé",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Apágame",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Wild & Free",
+        "plays": 1
+      },
+      {
+        "artist": "J Balvin",
+        "title": "Rio",
+        "plays": 1
+      },
+      {
+        "artist": "Scorpions",
+        "title": "Peacemaker",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "The Moon Cave",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bad Bunny",
-      "title": "Moscow Mule",
+      "artist": "Roy Bianco & Die Abbrunzati Boys",
+      "title": "Bella Napoli",
       "plays": 2
     }
   }
