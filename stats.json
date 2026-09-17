@@ -2,9 +2,14 @@
   "2026-09-17 07:00": {
     "period_start": "2026-09-17T07:00:00+02:00",
     "period_end": "2026-09-18T07:00:00+02:00",
-    "total_entries": 16,
-    "music_entries": 14,
+    "total_entries": 26,
+    "music_entries": 24,
     "songs": [
+      {
+        "artist": "Bad Bunny",
+        "title": "Moscow Mule",
+        "plays": 2
+      },
       {
         "artist": "Snow Patrol",
         "title": "The Forest Is The Path",
@@ -66,20 +71,60 @@
         "plays": 1
       },
       {
-        "artist": "Bad Bunny",
-        "title": "Moscow Mule",
+        "artist": "Lady Gaga, Doechii",
+        "title": "Runway",
         "plays": 1
       },
       {
-        "artist": "Lady Gaga, Doechii",
-        "title": "Runway",
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "blackbear & Machine Gun Kelly",
+        "title": "gfy",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Beams",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "Wie schön du bist",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Verdammt ich lieb' dich",
+        "plays": 1
+      },
+      {
+        "artist": "Djo",
+        "title": "Basic Being Basic",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shivers",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Snow Patrol",
-      "title": "The Forest Is The Path",
-      "plays": 1
+      "artist": "Bad Bunny",
+      "title": "Moscow Mule",
+      "plays": 2
     }
   }
 }
