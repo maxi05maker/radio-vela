@@ -2,8 +2,8 @@
   "2026-09-17 07:00": {
     "period_start": "2026-09-17T07:00:00+02:00",
     "period_end": "2026-09-18T07:00:00+02:00",
-    "total_entries": 6,
-    "music_entries": 5,
+    "total_entries": 16,
+    "music_entries": 14,
     "songs": [
       {
         "artist": "Snow Patrol",
@@ -28,6 +28,51 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Phoenix feat. Ezra Koenig",
+        "title": "Tonight (feat. Ezra Koenig)",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Ghost",
+        "plays": 1
+      },
+      {
+        "artist": "Viagra Boys",
+        "title": "Uno 2",
+        "plays": 1
+      },
+      {
+        "artist": "Twocolors & Georgie Keller",
+        "title": "Feel It 2",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Anyone For You",
+        "plays": 1
+      },
+      {
+        "artist": "Oimara, Melissa Naschenweng",
+        "title": "Koa Bergbauernbua",
+        "plays": 1
+      },
+      {
+        "artist": "D4vd",
+        "title": "Here With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Bad Bunny",
+        "title": "Moscow Mule",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga, Doechii",
+        "title": "Runway",
         "plays": 1
       }
     ],
