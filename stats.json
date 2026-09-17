@@ -2,8 +2,8 @@
   "2026-09-17 07:00": {
     "period_start": "2026-09-17T07:00:00+02:00",
     "period_end": "2026-09-18T07:00:00+02:00",
-    "total_entries": 46,
-    "music_entries": 44,
+    "total_entries": 56,
+    "music_entries": 53,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -213,6 +213,51 @@
       {
         "artist": "Shirin David",
         "title": "It Girl (feat. Sampagne)",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla",
+        "title": "Been Thinking",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Craving (Jenna's version)",
+        "plays": 1
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "Cloud 9",
+        "plays": 1
+      },
+      {
+        "artist": "Chromatics",
+        "title": "Running Up That Hill",
+        "plays": 1
+      },
+      {
+        "artist": "CHAPO102 x GUSTAV",
+        "title": "WARSCHAU",
+        "plays": 1
+      },
+      {
+        "artist": "Jack White",
+        "title": "Fear Of The Dawn",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Beth Hart",
+        "title": "Savior With A Razor (feat. Slash)",
+        "plays": 1
+      },
+      {
+        "artist": "Travis Scott",
+        "title": "Escape Plan",
         "plays": 1
       }
     ],
