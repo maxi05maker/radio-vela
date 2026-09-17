@@ -1,275 +1,40 @@
 {
-  "2026-09-16 07:00": {
-    "period_start": "2026-09-16T07:00:00+02:00",
-    "period_end": "2026-09-17T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 57,
+  "2026-09-17 07:00": {
+    "period_start": "2026-09-17T07:00:00+02:00",
+    "period_end": "2026-09-18T07:00:00+02:00",
+    "total_entries": 6,
+    "music_entries": 5,
     "songs": [
       {
-        "artist": "The 1975",
-        "title": "If You're Too Shy (Let Me Know)",
-        "plays": 2
-      },
-      {
-        "artist": "Inna",
-        "title": "Up",
-        "plays": 2
-      },
-      {
-        "artist": "Europe",
-        "title": "War Of Kings",
-        "plays": 2
-      },
-      {
-        "artist": "Conchita Wurst",
-        "title": "Dirty Maria",
-        "plays": 2
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 2
-      },
-      {
-        "artist": "Die Nerven",
-        "title": "Achtzehn",
+        "artist": "Snow Patrol",
+        "title": "The Forest Is The Path",
         "plays": 1
       },
       {
-        "artist": "ROSALÍA",
-        "title": "Aute Cuture",
+        "artist": "Jason Mraz",
+        "title": "Have It All",
         "plays": 1
       },
       {
-        "artist": "Dara",
-        "title": "Bangaranga",
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 1
       },
       {
-        "artist": "Nina Chuba",
-        "title": "Unsicher",
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
         "plays": 1
       },
       {
-        "artist": "Sophie & The Giants",
-        "title": "Golden Nights",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Human Being",
-        "plays": 1
-      },
-      {
-        "artist": "Larkin Poe",
-        "title": "If God Is A Woman",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "The Dead Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Franz Ferdinand",
-        "title": "Do You Want To",
-        "plays": 1
-      },
-      {
-        "artist": "Disarstar",
-        "title": "Weiße mit Dreads",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Dance With Me",
-        "plays": 1
-      },
-      {
-        "artist": "Lina",
-        "title": "Klippe",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Bieber feat. Daniel Caesar & Giveon",
-        "title": "Peaches",
-        "plays": 1
-      },
-      {
-        "artist": "Midlake",
-        "title": "The Ghouls",
-        "plays": 1
-      },
-      {
-        "artist": "Travis Scott",
-        "title": "DELRESTO (ECHOES) ft. Beyoncé",
-        "plays": 1
-      },
-      {
-        "artist": "Ennio",
-        "title": "Fühlst du gar nichts? feat. Nina Chuba",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz & Danger Dan",
-        "title": "Unsere Bank",
-        "plays": 1
-      },
-      {
-        "artist": "Måneskin",
-        "title": "Supermodel",
-        "plays": 1
-      },
-      {
-        "artist": "Bosse",
-        "title": "Vergangenheit",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
-        "plays": 1
-      },
-      {
-        "artist": "Shania Twain",
-        "title": "Last Day of Summer",
-        "plays": 1
-      },
-      {
-        "artist": "Lola Young",
-        "title": "One Thing",
-        "plays": 1
-      },
-      {
-        "artist": "Kygo & Dean Lewis",
-        "title": "Lost Without You (with Dean Lewis)",
-        "plays": 1
-      },
-      {
-        "artist": "Vanessa Mai",
-        "title": "Aus & Vorbei",
-        "plays": 1
-      },
-      {
-        "artist": "Brendan Benson",
-        "title": "Ain't No Good",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "End of the world",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Roundabouts",
-        "plays": 1
-      },
-      {
-        "artist": "Calum Scott",
-        "title": "My World",
-        "plays": 1
-      },
-      {
-        "artist": "FILLY",
-        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
-        "plays": 1
-      },
-      {
-        "artist": "AnnenMayKantereit",
-        "title": "Du tust mir nie mehr weh",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "It'll Be Okay",
-        "plays": 1
-      },
-      {
-        "artist": "Alex Warren",
-        "title": "FEVER DREAM",
-        "plays": 1
-      },
-      {
-        "artist": "LEA",
-        "title": "Treppenhaus",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Shivers",
-        "plays": 1
-      },
-      {
-        "artist": "Beth Hart",
-        "title": "Savior With A Razor (feat. Slash)",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger",
-        "title": "Der letzte Tag",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Jesso",
-        "title": "Clarity",
-        "plays": 1
-      },
-      {
-        "artist": "Bruce Springsteen",
-        "title": "Streets Of Minneapolis",
-        "plays": 1
-      },
-      {
-        "artist": "Leony",
-        "title": "Remedy",
-        "plays": 1
-      },
-      {
-        "artist": "Arlo Parks",
-        "title": "Beams",
-        "plays": 1
-      },
-      {
-        "artist": "Tiësto, Charli XCX",
-        "title": "Hot In It",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "If I Lose Myself",
-        "plays": 1
-      },
-      {
-        "artist": "HUGEL & Dawty & Preston Harris",
-        "title": "Loosen Up",
-        "plays": 1
-      },
-      {
-        "artist": "Razorlight",
-        "title": "You Are Entering The Human Heart",
-        "plays": 1
-      },
-      {
-        "artist": "SIENNA SPIRO",
-        "title": "Material Lover",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Bones",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger",
-        "title": "Irgendwo da draußen",
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "The 1975",
-      "title": "If You're Too Shy (Let Me Know)",
-      "plays": 2
+      "artist": "Snow Patrol",
+      "title": "The Forest Is The Path",
+      "plays": 1
     }
   }
 }
