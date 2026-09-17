@@ -2,8 +2,8 @@
   "2026-09-17 07:00": {
     "period_start": "2026-09-17T07:00:00+02:00",
     "period_end": "2026-09-18T07:00:00+02:00",
-    "total_entries": 36,
-    "music_entries": 34,
+    "total_entries": 46,
+    "music_entries": 44,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -163,6 +163,56 @@
       {
         "artist": "Gorillaz",
         "title": "The Moon Cave",
+        "plays": 1
+      },
+      {
+        "artist": "KNEECAP",
+        "title": "Smugglers & Scholars",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Parallelwelt",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Without Me",
+        "plays": 1
+      },
+      {
+        "artist": "Die Sterne",
+        "title": "Ich nehme das Amt nicht an",
+        "plays": 1
+      },
+      {
+        "artist": "Lost Frequencies & James Arthur",
+        "title": "Questions",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Mein Boy",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Demons",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Oxígeno",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "It Girl (feat. Sampagne)",
         "plays": 1
       }
     ],

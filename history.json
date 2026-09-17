@@ -940,5 +940,65 @@
     "played_at": "2026-09-17 20:38:30 +0200",
     "title": "The Moon Cave",
     "artist": "Gorillaz"
+  },
+  {
+    "key": "2026-09-17 23:15:46 +0200|Smugglers & Scholars|KNEECAP",
+    "played_at": "2026-09-17 23:15:46 +0200",
+    "title": "Smugglers & Scholars",
+    "artist": "KNEECAP"
+  },
+  {
+    "key": "2026-09-17 23:18:58 +0200|Parallelwelt|Tim Bendzko",
+    "played_at": "2026-09-17 23:18:58 +0200",
+    "title": "Parallelwelt",
+    "artist": "Tim Bendzko"
+  },
+  {
+    "key": "2026-09-17 23:21:48 +0200|Without Me|Halsey",
+    "played_at": "2026-09-17 23:21:48 +0200",
+    "title": "Without Me",
+    "artist": "Halsey"
+  },
+  {
+    "key": "2026-09-17 23:25:09 +0200|Ich nehme das Amt nicht an|Die Sterne",
+    "played_at": "2026-09-17 23:25:09 +0200",
+    "title": "Ich nehme das Amt nicht an",
+    "artist": "Die Sterne"
+  },
+  {
+    "key": "2026-09-17 23:27:29 +0200|Questions|Lost Frequencies & James Arthur",
+    "played_at": "2026-09-17 23:27:29 +0200",
+    "title": "Questions",
+    "artist": "Lost Frequencies & James Arthur"
+  },
+  {
+    "key": "2026-09-17 23:30:26 +0200|Mein Boy|Blond",
+    "played_at": "2026-09-17 23:30:26 +0200",
+    "title": "Mein Boy",
+    "artist": "Blond"
+  },
+  {
+    "key": "2026-09-17 23:34:05 +0200|Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)|Stromae",
+    "played_at": "2026-09-17 23:34:05 +0200",
+    "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+    "artist": "Stromae"
+  },
+  {
+    "key": "2026-09-17 23:36:33 +0200|Demons|Imagine Dragons",
+    "played_at": "2026-09-17 23:36:33 +0200",
+    "title": "Demons",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-09-17 23:39:28 +0200|Oxígeno|Alvaro Soler",
+    "played_at": "2026-09-17 23:39:28 +0200",
+    "title": "Oxígeno",
+    "artist": "Alvaro Soler"
+  },
+  {
+    "key": "2026-09-17 23:42:03 +0200|It Girl (feat. Sampagne)|Shirin David",
+    "played_at": "2026-09-17 23:42:03 +0200",
+    "title": "It Girl (feat. Sampagne)",
+    "artist": "Shirin David"
   }
 ]
