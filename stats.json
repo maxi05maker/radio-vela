@@ -2,8 +2,8 @@
   "2026-09-18 07:00": {
     "period_start": "2026-09-18T07:00:00+02:00",
     "period_end": "2026-09-19T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 26,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -93,6 +93,46 @@
       {
         "artist": "Kaleo",
         "title": "Way Down We Go",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "she's all i wanna be",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "If You're Too Shy (Let Me Know)",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine/Sophie and the Giants",
+        "title": "In The Dark",
         "plays": 1
       }
     ],
