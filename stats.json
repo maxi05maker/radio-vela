@@ -2,9 +2,14 @@
   "2026-09-18 07:00": {
     "period_start": "2026-09-18T07:00:00+02:00",
     "period_end": "2026-09-19T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 35,
+    "total_entries": 50,
+    "music_entries": 45,
     "songs": [
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 2
+      },
       {
         "artist": "Johannes Oerding",
         "title": "Plan A",
@@ -78,11 +83,6 @@
       {
         "artist": "Michael Schulte",
         "title": "With You",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 1
       },
       {
@@ -179,12 +179,57 @@
         "artist": "Franz Ferdinand",
         "title": "Do You Want To",
         "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Irgendwo da draußen",
+        "plays": 1
+      },
+      {
+        "artist": "ALL TIME LOW",
+        "title": "The Weather",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now",
+        "plays": 1
+      },
+      {
+        "artist": "ARIANA GRANDE",
+        "title": "Hate That I Made You Love Me   (2026)",
+        "plays": 1
+      },
+      {
+        "artist": "Milky Chance",
+        "title": "Synchronize",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Wenn Die Party Vorbei Ist",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "Be Mine",
+        "plays": 1
+      },
+      {
+        "artist": "One Republic",
+        "title": "Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Real Face",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Johannes Oerding",
-      "title": "Plan A",
-      "plays": 1
+      "artist": "Michael Schulte, R3HAB",
+      "title": "Waterfall",
+      "plays": 2
     }
   }
 }
