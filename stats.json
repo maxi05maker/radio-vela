@@ -2,12 +2,27 @@
   "2026-09-18 07:00": {
     "period_start": "2026-09-18T07:00:00+02:00",
     "period_end": "2026-09-19T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 45,
+    "total_entries": 60,
+    "music_entries": 55,
     "songs": [
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 3
+      },
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 2
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
         "plays": 2
       },
       {
@@ -101,11 +116,6 @@
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
         "artist": "Florence + The Machine",
         "title": "And Love",
         "plays": 1
@@ -113,11 +123,6 @@
       {
         "artist": "Tate McRae",
         "title": "she's all i wanna be",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -163,11 +168,6 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
         "plays": 1
       },
       {
@@ -224,12 +224,42 @@
         "artist": "Sofia Portanet",
         "title": "Real Face",
         "plays": 1
+      },
+      {
+        "artist": "Love Affair",
+        "title": "Everlasting Love",
+        "plays": 1
+      },
+      {
+        "artist": "Mono Inc.",
+        "title": "Abendrot",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "Island",
+        "plays": 1
+      },
+      {
+        "artist": "Sparks",
+        "title": "Do Things My Own Way",
+        "plays": 1
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Salt",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna & Kylie Minogue",
+        "title": "Love Sensation (Afterhours Radio Edit)",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Michael Schulte, R3HAB",
-      "title": "Waterfall",
-      "plays": 2
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "plays": 3
     }
   }
 }
