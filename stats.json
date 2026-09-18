@@ -1,315 +1,60 @@
 {
-  "2026-09-17 07:00": {
-    "period_start": "2026-09-17T07:00:00+02:00",
-    "period_end": "2026-09-18T07:00:00+02:00",
-    "total_entries": 66,
-    "music_entries": 62,
+  "2026-09-18 07:00": {
+    "period_start": "2026-09-18T07:00:00+02:00",
+    "period_end": "2026-09-19T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 2
-      },
-      {
-        "artist": "Bad Bunny",
-        "title": "Moscow Mule",
-        "plays": 2
-      },
-      {
-        "artist": "Snow Patrol",
-        "title": "The Forest Is The Path",
+        "artist": "Johannes Oerding",
+        "title": "Plan A",
         "plays": 1
       },
       {
-        "artist": "Jason Mraz",
-        "title": "Have It All",
+        "artist": "Juju",
+        "title": "Zum Ersten Mal feat. Céline",
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
         "plays": 1
       },
       {
-        "artist": "Teddy Swims",
-        "title": "Mr. Know It All",
+        "artist": "The Weeknd (feat. Daft Punk)",
+        "title": "I Feel It Coming",
         "plays": 1
       },
       {
-        "artist": "Phoenix feat. Ezra Koenig",
-        "title": "Tonight (feat. Ezra Koenig)",
+        "artist": "Foo Fighters",
+        "title": "Of All People",
         "plays": 1
       },
       {
-        "artist": "Justin Bieber",
-        "title": "Ghost",
+        "artist": "Burak Yeter feat. Danelle Sandoval",
+        "title": "Tuesday",
         "plays": 1
       },
       {
-        "artist": "Viagra Boys",
-        "title": "Uno 2",
-        "plays": 1
-      },
-      {
-        "artist": "Twocolors & Georgie Keller",
-        "title": "Feel It 2",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Anyone For You",
-        "plays": 1
-      },
-      {
-        "artist": "Oimara, Melissa Naschenweng",
-        "title": "Koa Bergbauernbua",
-        "plays": 1
-      },
-      {
-        "artist": "D4vd",
-        "title": "Here With Me",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga, Doechii",
-        "title": "Runway",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "blackbear & Machine Gun Kelly",
-        "title": "gfy",
-        "plays": 1
-      },
-      {
-        "artist": "Arlo Parks",
-        "title": "Beams",
-        "plays": 1
-      },
-      {
-        "artist": "Sarah Connor",
-        "title": "Wie schön du bist",
-        "plays": 1
-      },
-      {
-        "artist": "Mike Singer",
-        "title": "Verdammt ich lieb' dich",
-        "plays": 1
-      },
-      {
-        "artist": "Djo",
-        "title": "Basic Being Basic",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "In My Blood",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Shivers",
-        "plays": 1
-      },
-      {
-        "artist": "Momma",
-        "title": "I Want You (Fever)",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Unsicher",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster feat. Sido",
-        "title": "Au Revoir",
-        "plays": 1
-      },
-      {
-        "artist": "Travis Scott",
-        "title": "DELRESTO (ECHOES) ft. Beyoncé",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Apágame",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Wild & Free",
-        "plays": 1
-      },
-      {
-        "artist": "J Balvin",
-        "title": "Rio",
-        "plays": 1
-      },
-      {
-        "artist": "Scorpions",
-        "title": "Peacemaker",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Gorillaz",
-        "title": "The Moon Cave",
-        "plays": 1
-      },
-      {
-        "artist": "KNEECAP",
-        "title": "Smugglers & Scholars",
-        "plays": 1
-      },
-      {
-        "artist": "Tim Bendzko",
-        "title": "Parallelwelt",
+        "artist": "Jonas Brothers",
+        "title": "What a Man Gotta Do",
         "plays": 1
       },
       {
         "artist": "Halsey",
-        "title": "Without Me",
+        "title": "Lucky",
         "plays": 1
       },
       {
-        "artist": "Die Sterne",
-        "title": "Ich nehme das Amt nicht an",
-        "plays": 1
-      },
-      {
-        "artist": "Lost Frequencies & James Arthur",
-        "title": "Questions",
-        "plays": 1
-      },
-      {
-        "artist": "Blond",
-        "title": "Mein Boy",
-        "plays": 1
-      },
-      {
-        "artist": "Stromae",
-        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Demons",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Oxígeno",
-        "plays": 1
-      },
-      {
-        "artist": "Shirin David",
-        "title": "It Girl (feat. Sampagne)",
-        "plays": 1
-      },
-      {
-        "artist": "Tyla",
-        "title": "Been Thinking",
-        "plays": 1
-      },
-      {
-        "artist": "Twenty One Pilots",
-        "title": "The Craving (Jenna's version)",
-        "plays": 1
-      },
-      {
-        "artist": "Jamiroquai",
-        "title": "Cloud 9",
-        "plays": 1
-      },
-      {
-        "artist": "Chromatics",
-        "title": "Running Up That Hill",
-        "plays": 1
-      },
-      {
-        "artist": "CHAPO102 x GUSTAV",
-        "title": "WARSCHAU",
-        "plays": 1
-      },
-      {
-        "artist": "Jack White",
-        "title": "Fear Of The Dawn",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Beth Hart",
-        "title": "Savior With A Razor (feat. Slash)",
-        "plays": 1
-      },
-      {
-        "artist": "Travis Scott",
-        "title": "Escape Plan",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Sofia",
-        "plays": 1
-      },
-      {
-        "artist": "Filow & Ikkimel",
-        "title": "Jiggy",
-        "plays": 1
-      },
-      {
-        "artist": "Rosalía",
-        "title": "DESPECHÁ RMX",
-        "plays": 1
-      },
-      {
-        "artist": "Cheap Trick",
-        "title": "I Want You to Want Me",
-        "plays": 1
-      },
-      {
-        "artist": "Doechii",
-        "title": "Anxiety",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster",
-        "title": "Wir sind groß",
-        "plays": 1
-      },
-      {
-        "artist": "Shaggy feat. Trix & Flix",
-        "title": "Feel The Rush",
-        "plays": 1
-      },
-      {
-        "artist": "Linkin Park",
-        "title": "Unshatter",
-        "plays": 1
-      },
-      {
-        "artist": "Malik Harris",
-        "title": "Rockstars",
+        "artist": "CRO",
+        "title": "Fallin",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Roy Bianco & Die Abbrunzati Boys",
-      "title": "Bella Napoli",
-      "plays": 2
+      "artist": "Johannes Oerding",
+      "title": "Plan A",
+      "plays": 1
     }
   }
 }

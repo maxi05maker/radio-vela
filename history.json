@@ -1120,5 +1120,65 @@
     "played_at": "2026-09-18 03:28:53 +0200",
     "title": "Rockstars",
     "artist": "Malik Harris"
+  },
+  {
+    "key": "2026-09-18 07:56:17 +0200|Plan A|Johannes Oerding",
+    "played_at": "2026-09-18 07:56:17 +0200",
+    "title": "Plan A",
+    "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-09-18 07:59:39 +0200|Zum Ersten Mal feat. Céline|Juju",
+    "played_at": "2026-09-18 07:59:39 +0200",
+    "title": "Zum Ersten Mal feat. Céline",
+    "artist": "Juju"
+  },
+  {
+    "key": "2026-09-18 08:02:00 +0200|Let You Love Me|Rita Ora",
+    "played_at": "2026-09-18 08:02:00 +0200",
+    "title": "Let You Love Me",
+    "artist": "Rita Ora"
+  },
+  {
+    "key": "2026-09-18 08:05:07 +0200|I Feel It Coming|The Weeknd (feat. Daft Punk)",
+    "played_at": "2026-09-18 08:05:07 +0200",
+    "title": "I Feel It Coming",
+    "artist": "The Weeknd (feat. Daft Punk)"
+  },
+  {
+    "key": "2026-09-18 08:09:36 +0200|Of All People|Foo Fighters",
+    "played_at": "2026-09-18 08:09:36 +0200",
+    "title": "Of All People",
+    "artist": "Foo Fighters"
+  },
+  {
+    "key": "2026-09-18 08:12:10 +0200|Tuesday|Burak Yeter feat. Danelle Sandoval",
+    "played_at": "2026-09-18 08:12:10 +0200",
+    "title": "Tuesday",
+    "artist": "Burak Yeter feat. Danelle Sandoval"
+  },
+  {
+    "key": "2026-09-18 08:15:21 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-18 08:15:21 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-18 08:18:00 +0200|What a Man Gotta Do|Jonas Brothers",
+    "played_at": "2026-09-18 08:18:00 +0200",
+    "title": "What a Man Gotta Do",
+    "artist": "Jonas Brothers"
+  },
+  {
+    "key": "2026-09-18 08:21:01 +0200|Lucky|Halsey",
+    "played_at": "2026-09-18 08:21:01 +0200",
+    "title": "Lucky",
+    "artist": "Halsey"
+  },
+  {
+    "key": "2026-09-18 08:24:19 +0200|Fallin|CRO",
+    "played_at": "2026-09-18 08:24:19 +0200",
+    "title": "Fallin",
+    "artist": "CRO"
   }
 ]
