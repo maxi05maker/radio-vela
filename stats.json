@@ -2,8 +2,8 @@
   "2026-09-18 07:00": {
     "period_start": "2026-09-18T07:00:00+02:00",
     "period_end": "2026-09-19T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 26,
+    "total_entries": 40,
+    "music_entries": 35,
     "songs": [
       {
         "artist": "Johannes Oerding",
@@ -133,6 +133,51 @@
       {
         "artist": "Purple Disco Machine/Sophie and the Giants",
         "title": "In The Dark",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Fingertips",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "peu à peu",
+        "plays": 1
+      },
+      {
+        "artist": "The Arcs",
+        "title": "Eyez",
+        "plays": 1
+      },
+      {
+        "artist": "Alesso & Katy Perry",
+        "title": "When I'm Gone",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "The Moon Cave",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL, Imael Angel, Ultra Naté",
+        "title": "Movin' To The Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Franz Ferdinand",
+        "title": "Do You Want To",
         "plays": 1
       }
     ],
