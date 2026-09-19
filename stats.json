@@ -2,8 +2,8 @@
   "2026-09-18 07:00": {
     "period_start": "2026-09-18T07:00:00+02:00",
     "period_end": "2026-09-19T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 55,
+    "total_entries": 70,
+    "music_entries": 65,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -18,6 +18,11 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 2
+      },
+      {
+        "artist": "The 1975",
+        "title": "If You're Too Shy (Let Me Know)",
         "plays": 2
       },
       {
@@ -128,11 +133,6 @@
       {
         "artist": "RAYE",
         "title": "WHERE IS MY HUSBAND!",
-        "plays": 1
-      },
-      {
-        "artist": "The 1975",
-        "title": "If You're Too Shy (Let Me Know)",
         "plays": 1
       },
       {
@@ -253,6 +253,51 @@
       {
         "artist": "Madonna & Kylie Minogue",
         "title": "Love Sensation (Afterhours Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia  (feat. Alicia Keys)",
+        "title": "Finally",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "A Sky Full Of Stars",
+        "plays": 1
+      },
+      {
+        "artist": "Kelvin Jones",
+        "title": "Cry A Little Less",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba x Tokio Hotel",
+        "title": "Fata Morgana",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "Light Switch",
+        "plays": 1
+      },
+      {
+        "artist": "Milow",
+        "title": "ASAP",
+        "plays": 1
+      },
+      {
+        "artist": "Inhaler",
+        "title": "A Question of You",
+        "plays": 1
+      },
+      {
+        "artist": "ScHoolboy Q",
+        "title": "Soccer Dad",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Anyone For You",
         "plays": 1
       }
     ],
