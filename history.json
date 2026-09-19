@@ -1900,5 +1900,65 @@
     "played_at": "2026-09-19 23:03:21 +0200",
     "title": "Hey You",
     "artist": "Disturbed"
+  },
+  {
+    "key": "2026-09-20 00:24:00 +0200|Before You Go|Lewis Capaldi",
+    "played_at": "2026-09-20 00:24:00 +0200",
+    "title": "Before You Go",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-09-20 00:27:34 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-09-20 00:27:34 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-09-20 00:29:52 +0200|The Craving (Jenna's version)|Twenty One Pilots",
+    "played_at": "2026-09-20 00:29:52 +0200",
+    "title": "The Craving (Jenna's version)",
+    "artist": "Twenty One Pilots"
+  },
+  {
+    "key": "2026-09-20 00:32:59 +0200|Au Revoir|Mark Forster feat. Sido",
+    "played_at": "2026-09-20 00:32:59 +0200",
+    "title": "Au Revoir",
+    "artist": "Mark Forster feat. Sido"
+  },
+  {
+    "key": "2026-09-20 00:36:21 +0200|Glatteis|Nina Chuba",
+    "played_at": "2026-09-20 00:36:21 +0200",
+    "title": "Glatteis",
+    "artist": "Nina Chuba"
+  },
+  {
+    "key": "2026-09-20 00:39:44 +0200|Open Hearts|The Weeknd",
+    "played_at": "2026-09-20 00:39:44 +0200",
+    "title": "Open Hearts",
+    "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-09-20 00:43:13 +0200|Tu m'appelles|Adel Tawil",
+    "played_at": "2026-09-20 00:43:13 +0200",
+    "title": "Tu m'appelles",
+    "artist": "Adel Tawil"
+  },
+  {
+    "key": "2026-09-20 00:46:38 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-20 00:46:38 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-20 00:50:12 +0200|Cry Baby (SUNSHINE-BANGER)|Clean Bandit & Anne-Marie & David Guetta",
+    "played_at": "2026-09-20 00:50:12 +0200",
+    "title": "Cry Baby (SUNSHINE-BANGER)",
+    "artist": "Clean Bandit & Anne-Marie & David Guetta"
+  },
+  {
+    "key": "2026-09-20 00:52:54 +0200|Save & Sound [Tommie Sunshine & Live City Remix]|Capital Cities",
+    "played_at": "2026-09-20 00:52:54 +0200",
+    "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
+    "artist": "Capital Cities"
   }
 ]

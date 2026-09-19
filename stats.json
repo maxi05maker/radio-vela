@@ -2,8 +2,8 @@
   "2026-09-19 07:00": {
     "period_start": "2026-09-19T07:00:00+02:00",
     "period_end": "2026-09-20T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 54,
+    "total_entries": 70,
+    "music_entries": 64,
     "songs": [
       {
         "artist": "Demi Lovato",
@@ -21,8 +21,23 @@
         "plays": 2
       },
       {
+        "artist": "Twenty One Pilots",
+        "title": "The Craving (Jenna's version)",
+        "plays": 2
+      },
+      {
         "artist": "Rita Ora",
         "title": "Let You Love Me",
+        "plays": 2
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Tu m'appelles",
+        "plays": 2
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 2
       },
       {
@@ -86,11 +101,6 @@
         "plays": 1
       },
       {
-        "artist": "Twenty One Pilots",
-        "title": "The Craving (Jenna's version)",
-        "plays": 1
-      },
-      {
         "artist": "Lana Del Rey",
         "title": "Blue Jeans",
         "plays": 1
@@ -118,11 +128,6 @@
       {
         "artist": "Sampa the Great",
         "title": "Lane feat. Denzel Curry",
-        "plays": 1
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Tu m'appelles",
         "plays": 1
       },
       {
@@ -173,11 +178,6 @@
       {
         "artist": "Cardi B",
         "title": "Hot Shit feat. Kanye West & Lil Durk",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
         "plays": 1
       },
       {
@@ -253,6 +253,41 @@
       {
         "artist": "Disturbed",
         "title": "Hey You",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Before You Go",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster feat. Sido",
+        "title": "Au Revoir",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Glatteis",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Open Hearts",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit & Anne-Marie & David Guetta",
+        "title": "Cry Baby (SUNSHINE-BANGER)",
+        "plays": 1
+      },
+      {
+        "artist": "Capital Cities",
+        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
         "plays": 1
       }
     ],
