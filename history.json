@@ -1780,5 +1780,65 @@
     "played_at": "2026-09-19 18:37:22 +0200",
     "title": "Heart Of Gold",
     "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-19 19:46:22 +0200|JUMP|BLACKPINK",
+    "played_at": "2026-09-19 19:46:22 +0200",
+    "title": "JUMP",
+    "artist": "BLACKPINK"
+  },
+  {
+    "key": "2026-09-19 19:49:07 +0200|Barfuß am Klavier|AnnenMayKantereit",
+    "played_at": "2026-09-19 19:49:07 +0200",
+    "title": "Barfuß am Klavier",
+    "artist": "AnnenMayKantereit"
+  },
+  {
+    "key": "2026-09-19 19:52:22 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-09-19 19:52:22 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-09-19 19:56:18 +0200|Soda Pop|Saja Boys",
+    "played_at": "2026-09-19 19:56:18 +0200",
+    "title": "Soda Pop",
+    "artist": "Saja Boys"
+  },
+  {
+    "key": "2026-09-19 19:58:46 +0200|Letter To Ye|Desiigner",
+    "played_at": "2026-09-19 19:58:46 +0200",
+    "title": "Letter To Ye",
+    "artist": "Desiigner"
+  },
+  {
+    "key": "2026-09-19 20:02:51 +0200|Down For The Count|Avalanche",
+    "played_at": "2026-09-19 20:02:51 +0200",
+    "title": "Down For The Count",
+    "artist": "Avalanche"
+  },
+  {
+    "key": "2026-09-19 20:06:28 +0200|Voices In My Head|Falling In Reverse",
+    "played_at": "2026-09-19 20:06:28 +0200",
+    "title": "Voices In My Head",
+    "artist": "Falling In Reverse"
+  },
+  {
+    "key": "2026-09-19 20:09:39 +0200|Let You Love Me|Rita Ora",
+    "played_at": "2026-09-19 20:09:39 +0200",
+    "title": "Let You Love Me",
+    "artist": "Rita Ora"
+  },
+  {
+    "key": "2026-09-19 20:12:47 +0200|atzen & barbies (feat. ski aggu)|Shirin David",
+    "played_at": "2026-09-19 20:12:47 +0200",
+    "title": "atzen & barbies (feat. ski aggu)",
+    "artist": "Shirin David"
+  },
+  {
+    "key": "2026-09-19 20:15:13 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-19 20:15:13 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]

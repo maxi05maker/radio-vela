@@ -2,9 +2,24 @@
   "2026-09-19 07:00": {
     "period_start": "2026-09-19T07:00:00+02:00",
     "period_end": "2026-09-20T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 36,
+    "total_entries": 50,
+    "music_entries": 45,
     "songs": [
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 2
+      },
+      {
+        "artist": "Falling In Reverse",
+        "title": "Voices In My Head",
+        "plays": 2
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 2
+      },
       {
         "artist": "Coldplay",
         "title": "Higher Power",
@@ -18,11 +33,6 @@
       {
         "artist": "Lana Del Rey",
         "title": "White Feather Hawk Tail Deer Hunter",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 1
       },
       {
@@ -61,11 +71,6 @@
         "plays": 1
       },
       {
-        "artist": "Falling In Reverse",
-        "title": "Voices In My Head",
-        "plays": 1
-      },
-      {
         "artist": "Calvin Harris",
         "title": "SMOKE THE PAIN AWAY",
         "plays": 1
@@ -88,11 +93,6 @@
       {
         "artist": "Lana Del Rey",
         "title": "Blue Jeans",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
         "plays": 1
       },
       {
@@ -184,12 +184,42 @@
         "artist": "Shawn Mendes",
         "title": "Heart Of Gold",
         "plays": 1
+      },
+      {
+        "artist": "BLACKPINK",
+        "title": "JUMP",
+        "plays": 1
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Barfuß am Klavier",
+        "plays": 1
+      },
+      {
+        "artist": "Saja Boys",
+        "title": "Soda Pop",
+        "plays": 1
+      },
+      {
+        "artist": "Desiigner",
+        "title": "Letter To Ye",
+        "plays": 1
+      },
+      {
+        "artist": "Avalanche",
+        "title": "Down For The Count",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "atzen & barbies (feat. ski aggu)",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Coldplay",
-      "title": "Higher Power",
-      "plays": 1
+      "artist": "Roy Bianco & Die Abbrunzati Boys",
+      "title": "Bella Napoli",
+      "plays": 2
     }
   }
 }
