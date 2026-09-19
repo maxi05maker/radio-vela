@@ -2,8 +2,8 @@
   "2026-09-19 07:00": {
     "period_start": "2026-09-19T07:00:00+02:00",
     "period_end": "2026-09-20T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "Coldplay",
@@ -98,6 +98,46 @@
       {
         "artist": "James Blake",
         "title": "Like The End",
+        "plays": 1
+      },
+      {
+        "artist": "Post Malone",
+        "title": "I Had Some Help (feat. Morgan Wallen)",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "My Way",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "Sampa the Great",
+        "title": "Lane feat. Denzel Curry",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Tu m'appelles",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna & Sabrina Carpenter",
+        "title": "Bring Your Love",
+        "plays": 1
+      },
+      {
+        "artist": "Yungblud",
+        "title": "Memories",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
         "plays": 1
       }
     ],
