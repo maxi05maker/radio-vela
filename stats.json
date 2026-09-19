@@ -2,9 +2,14 @@
   "2026-09-19 07:00": {
     "period_start": "2026-09-19T07:00:00+02:00",
     "period_end": "2026-09-20T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 45,
+    "total_entries": 60,
+    "music_entries": 54,
     "songs": [
+      {
+        "artist": "Demi Lovato",
+        "title": "Cool For The Summer",
+        "plays": 2
+      },
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
@@ -23,11 +28,6 @@
       {
         "artist": "Coldplay",
         "title": "Higher Power",
-        "plays": 1
-      },
-      {
-        "artist": "Demi Lovato",
-        "title": "Cool For The Summer",
         "plays": 1
       },
       {
@@ -214,11 +214,51 @@
         "artist": "Shirin David",
         "title": "atzen & barbies (feat. ski aggu)",
         "plays": 1
+      },
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
+        "plays": 1
+      },
+      {
+        "artist": "Chaka Khan",
+        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+        "plays": 1
+      },
+      {
+        "artist": "Dermot Kennedy",
+        "title": "Better Days",
+        "plays": 1
+      },
+      {
+        "artist": "James Blake",
+        "title": "Death Of Love (Live)",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld",
+        "title": "Ich lass für dich das Licht an",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Doherty",
+        "title": "Calvados",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Disturbed",
+        "title": "Hey You",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Roy Bianco & Die Abbrunzati Boys",
-      "title": "Bella Napoli",
+      "artist": "Demi Lovato",
+      "title": "Cool For The Summer",
       "plays": 2
     }
   }
