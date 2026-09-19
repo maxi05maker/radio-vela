@@ -1,118 +1,18 @@
 {
-  "2026-09-18 07:00": {
-    "period_start": "2026-09-18T07:00:00+02:00",
-    "period_end": "2026-09-19T07:00:00+02:00",
-    "total_entries": 70,
-    "music_entries": 65,
+  "2026-09-19 07:00": {
+    "period_start": "2026-09-19T07:00:00+02:00",
+    "period_end": "2026-09-20T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 3
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 2
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 2
-      },
-      {
-        "artist": "The 1975",
-        "title": "If You're Too Shy (Let Me Know)",
-        "plays": 2
-      },
-      {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
-        "plays": 2
-      },
-      {
-        "artist": "Johannes Oerding",
-        "title": "Plan A",
+        "artist": "Coldplay",
+        "title": "Higher Power",
         "plays": 1
       },
       {
-        "artist": "Juju",
-        "title": "Zum Ersten Mal feat. Céline",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd (feat. Daft Punk)",
-        "title": "I Feel It Coming",
-        "plays": 1
-      },
-      {
-        "artist": "Foo Fighters",
-        "title": "Of All People",
-        "plays": 1
-      },
-      {
-        "artist": "Burak Yeter feat. Danelle Sandoval",
-        "title": "Tuesday",
-        "plays": 1
-      },
-      {
-        "artist": "Jonas Brothers",
-        "title": "What a Man Gotta Do",
-        "plays": 1
-      },
-      {
-        "artist": "Halsey",
-        "title": "Lucky",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "Fallin",
-        "plays": 1
-      },
-      {
-        "artist": "Guns N' Roses",
-        "title": "November Rain (2022 Version)",
-        "plays": 1
-      },
-      {
-        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
-        "title": "Rebellion",
-        "plays": 1
-      },
-      {
-        "artist": "Lea",
-        "title": "Wenn Du Mich Lässt",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler feat. Cali Y El Dandee",
-        "title": "Mañana",
-        "plays": 1
-      },
-      {
-        "artist": "Def Leppard",
-        "title": "Rejoice",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "With You",
-        "plays": 1
-      },
-      {
-        "artist": "Leony",
-        "title": "Don't Worry",
-        "plays": 1
-      },
-      {
-        "artist": "Kaleo",
-        "title": "Way Down We Go",
+        "artist": "Demi Lovato",
+        "title": "Cool For The Summer",
         "plays": 1
       },
       {
@@ -121,190 +21,45 @@
         "plays": 1
       },
       {
-        "artist": "Florence + The Machine",
-        "title": "And Love",
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 1
       },
       {
-        "artist": "Tate McRae",
-        "title": "she's all i wanna be",
+        "artist": "Alle Farben",
+        "title": "She Moves (feat. Graham Candy)",
         "plays": 1
       },
       {
-        "artist": "RAYE",
-        "title": "WHERE IS MY HUSBAND!",
+        "artist": "Juju",
+        "title": "Zum Ersten Mal feat. Céline",
         "plays": 1
       },
       {
-        "artist": "Purple Disco Machine/Sophie and the Giants",
-        "title": "In The Dark",
+        "artist": "Rihanna & Kanye West & Paul McCartney",
+        "title": "FourFiveSeconds",
         "plays": 1
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Fingertips",
+        "artist": "Bring Me The Horizon",
+        "title": "Strangers",
         "plays": 1
       },
       {
-        "artist": "Bosse",
-        "title": "peu à peu",
+        "artist": "Alvaro Soler",
+        "title": "Regalo",
         "plays": 1
       },
       {
-        "artist": "The Arcs",
-        "title": "Eyez",
-        "plays": 1
-      },
-      {
-        "artist": "Alesso & Katy Perry",
-        "title": "When I'm Gone",
-        "plays": 1
-      },
-      {
-        "artist": "Gorillaz",
-        "title": "The Moon Cave",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "HUGEL, Imael Angel, Ultra Naté",
-        "title": "Movin' To The Sun",
-        "plays": 1
-      },
-      {
-        "artist": "Franz Ferdinand",
-        "title": "Do You Want To",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger",
-        "title": "Irgendwo da draußen",
-        "plays": 1
-      },
-      {
-        "artist": "ALL TIME LOW",
-        "title": "The Weather",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "Don't Start Now",
-        "plays": 1
-      },
-      {
-        "artist": "ARIANA GRANDE",
-        "title": "Hate That I Made You Love Me   (2026)",
-        "plays": 1
-      },
-      {
-        "artist": "Milky Chance",
-        "title": "Synchronize",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Wenn Die Party Vorbei Ist",
-        "plays": 1
-      },
-      {
-        "artist": "Kamrad",
-        "title": "Be Mine",
-        "plays": 1
-      },
-      {
-        "artist": "One Republic",
-        "title": "Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "Sofia Portanet",
-        "title": "Real Face",
-        "plays": 1
-      },
-      {
-        "artist": "Love Affair",
-        "title": "Everlasting Love",
-        "plays": 1
-      },
-      {
-        "artist": "Mono Inc.",
-        "title": "Abendrot",
-        "plays": 1
-      },
-      {
-        "artist": "Alice Merton",
-        "title": "Island",
-        "plays": 1
-      },
-      {
-        "artist": "Sparks",
-        "title": "Do Things My Own Way",
-        "plays": 1
-      },
-      {
-        "artist": "Ava Max",
-        "title": "Salt",
-        "plays": 1
-      },
-      {
-        "artist": "Madonna & Kylie Minogue",
-        "title": "Love Sensation (Afterhours Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "Swedish House Mafia  (feat. Alicia Keys)",
-        "title": "Finally",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "A Sky Full Of Stars",
-        "plays": 1
-      },
-      {
-        "artist": "Kelvin Jones",
-        "title": "Cry A Little Less",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba x Tokio Hotel",
-        "title": "Fata Morgana",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth",
-        "title": "Light Switch",
-        "plays": 1
-      },
-      {
-        "artist": "Milow",
-        "title": "ASAP",
-        "plays": 1
-      },
-      {
-        "artist": "Inhaler",
-        "title": "A Question of You",
-        "plays": 1
-      },
-      {
-        "artist": "ScHoolboy Q",
-        "title": "Soccer Dad",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Anyone For You",
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Harry Styles",
-      "title": "As It Was",
-      "plays": 3
+      "artist": "Coldplay",
+      "title": "Higher Power",
+      "plays": 1
     }
   }
 }
