@@ -2,8 +2,8 @@
   "2026-09-19 07:00": {
     "period_start": "2026-09-19T07:00:00+02:00",
     "period_end": "2026-09-20T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Coldplay",
@@ -53,6 +53,51 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Sido Feat. Andreas Bourani",
+        "title": "Astronaut",
+        "plays": 1
+      },
+      {
+        "artist": "Falling In Reverse",
+        "title": "Voices In My Head",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "SMOKE THE PAIN AWAY",
+        "plays": 1
+      },
+      {
+        "artist": "PnB Rock",
+        "title": "Forever Never (feat. Swae Lee & Pink Sweat$)",
+        "plays": 1
+      },
+      {
+        "artist": "Chromatics",
+        "title": "Running Up That Hill",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Craving (Jenna's version)",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Blue Jeans",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 1
+      },
+      {
+        "artist": "James Blake",
+        "title": "Like The End",
         "plays": 1
       }
     ],
