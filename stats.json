@@ -2,8 +2,8 @@
   "2026-09-20 07:00": {
     "period_start": "2026-09-20T07:00:00+02:00",
     "period_end": "2026-09-21T07:00:00+02:00",
-    "total_entries": 57,
-    "music_entries": 53,
+    "total_entries": 67,
+    "music_entries": 61,
     "songs": [
       {
         "artist": "Panic At The Disco",
@@ -263,6 +263,46 @@
       {
         "artist": "Kraftklub, Domiziana",
         "title": "Unsterblich sein ( ) feat. Domiziana",
+        "plays": 1
+      },
+      {
+        "artist": "Linkin Park",
+        "title": "The Emptiness Machine",
+        "plays": 1
+      },
+      {
+        "artist": "Andreas Bourani",
+        "title": "Auf uns",
+        "plays": 1
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "Summer Girl",
+        "plays": 1
+      },
+      {
+        "artist": "The Pretty Reckless",
+        "title": "Rollercoaster Of Life",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "don't lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "ScarLip",
+        "title": "Runaway Love Freestale",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Love On The Brain",
         "plays": 1
       }
     ],
