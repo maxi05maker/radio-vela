@@ -2,8 +2,8 @@
   "2026-09-20 07:00": {
     "period_start": "2026-09-20T07:00:00+02:00",
     "period_end": "2026-09-21T07:00:00+02:00",
-    "total_entries": 7,
-    "music_entries": 6,
+    "total_entries": 17,
+    "music_entries": 16,
     "songs": [
       {
         "artist": "Daya",
@@ -33,6 +33,56 @@
       {
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Anyone For You",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Why Why Why",
+        "plays": 1
+      },
+      {
+        "artist": "The FAIM",
+        "title": "Summer Is a Curse",
+        "plays": 1
+      },
+      {
+        "artist": "Panic At The Disco",
+        "title": "Viva Las Vengeance",
+        "plays": 1
+      },
+      {
+        "artist": "Juju",
+        "title": "CRASHOUT FREESTYLE",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber feat. Daniel Caesar & Giveon",
+        "title": "Peaches",
+        "plays": 1
+      },
+      {
+        "artist": "The Hives",
+        "title": "The Hives Forever Forever The Hives",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
         "plays": 1
       }
     ],
