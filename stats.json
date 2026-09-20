@@ -2,8 +2,8 @@
   "2026-09-20 07:00": {
     "period_start": "2026-09-20T07:00:00+02:00",
     "period_end": "2026-09-21T07:00:00+02:00",
-    "total_entries": 47,
-    "music_entries": 43,
+    "total_entries": 57,
+    "music_entries": 53,
     "songs": [
       {
         "artist": "Panic At The Disco",
@@ -213,6 +213,56 @@
       {
         "artist": "Blues Pills",
         "title": "Bad Choices",
+        "plays": 1
+      },
+      {
+        "artist": "Lune",
+        "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Kummer",
+        "title": "Bei Dir",
+        "plays": 1
+      },
+      {
+        "artist": "Myle",
+        "title": "Hold Me",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Wenn ich tot bin, fang ich wieder an",
+        "plays": 1
+      },
+      {
+        "artist": "Rosenstolz",
+        "title": "Gib Mir Sonne",
+        "plays": 1
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Kieselwege",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
+        "plays": 1
+      },
+      {
+        "artist": "Freya Ridings",
+        "title": "Castles",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub, Domiziana",
+        "title": "Unsterblich sein ( ) feat. Domiziana",
         "plays": 1
       }
     ],
