@@ -1,335 +1,45 @@
 {
-  "2026-09-19 07:00": {
-    "period_start": "2026-09-19T07:00:00+02:00",
-    "period_end": "2026-09-20T07:00:00+02:00",
-    "total_entries": 80,
-    "music_entries": 72,
+  "2026-09-20 07:00": {
+    "period_start": "2026-09-20T07:00:00+02:00",
+    "period_end": "2026-09-21T07:00:00+02:00",
+    "total_entries": 7,
+    "music_entries": 6,
     "songs": [
       {
-        "artist": "Demi Lovato",
-        "title": "Cool For The Summer",
-        "plays": 2
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 2
-      },
-      {
-        "artist": "Bring Me The Horizon",
-        "title": "Strangers",
-        "plays": 2
-      },
-      {
-        "artist": "Falling In Reverse",
-        "title": "Voices In My Head",
-        "plays": 2
-      },
-      {
-        "artist": "Twenty One Pilots",
-        "title": "The Craving (Jenna's version)",
-        "plays": 2
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
-        "plays": 2
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Tu m'appelles",
-        "plays": 2
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 2
-      },
-      {
-        "artist": "Coldplay",
-        "title": "Higher Power",
+        "artist": "Daya",
+        "title": "Bad Girl",
         "plays": 1
       },
       {
-        "artist": "Lana Del Rey",
-        "title": "White Feather Hawk Tail Deer Hunter",
+        "artist": "Jack White",
+        "title": "Fear Of The Dawn",
         "plays": 1
       },
       {
-        "artist": "Alle Farben",
-        "title": "She Moves (feat. Graham Candy)",
+        "artist": "Oimara, Melissa Naschenweng",
+        "title": "Koa Bergbauernbua",
         "plays": 1
       },
       {
-        "artist": "Juju",
-        "title": "Zum Ersten Mal feat. Céline",
+        "artist": "Denzel Curry",
+        "title": "Troubles feat. T-Pain",
         "plays": 1
       },
       {
-        "artist": "Rihanna & Kanye West & Paul McCartney",
-        "title": "FourFiveSeconds",
+        "artist": "Ed Sheeran",
+        "title": "Perfect",
         "plays": 1
       },
       {
-        "artist": "Alvaro Soler",
-        "title": "Regalo",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Sido Feat. Andreas Bourani",
-        "title": "Astronaut",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris",
-        "title": "SMOKE THE PAIN AWAY",
-        "plays": 1
-      },
-      {
-        "artist": "PnB Rock",
-        "title": "Forever Never (feat. Swae Lee & Pink Sweat$)",
-        "plays": 1
-      },
-      {
-        "artist": "Chromatics",
-        "title": "Running Up That Hill",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Blue Jeans",
-        "plays": 1
-      },
-      {
-        "artist": "James Blake",
-        "title": "Like The End",
-        "plays": 1
-      },
-      {
-        "artist": "Post Malone",
-        "title": "I Had Some Help (feat. Morgan Wallen)",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris",
-        "title": "My Way",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "And Love",
-        "plays": 1
-      },
-      {
-        "artist": "Sampa the Great",
-        "title": "Lane feat. Denzel Curry",
-        "plays": 1
-      },
-      {
-        "artist": "Madonna & Sabrina Carpenter",
-        "title": "Bring Your Love",
-        "plays": 1
-      },
-      {
-        "artist": "Yungblud",
-        "title": "Memories",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Wenn du liebst [feat. Kat Frankie]",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Budapest",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Someone You Loved",
-        "plays": 1
-      },
-      {
-        "artist": "Ufo361 & Nina Chuba",
-        "title": "LIEBE (feat. Nina Chuba) [Explicit]",
-        "plays": 1
-      },
-      {
-        "artist": "Kelly Clarkson",
-        "title": "Heartbeat Song",
-        "plays": 1
-      },
-      {
-        "artist": "Juju feat. Henning May",
-        "title": "Vermissen",
-        "plays": 1
-      },
-      {
-        "artist": "Mumford & Sons",
-        "title": "Malibu",
-        "plays": 1
-      },
-      {
-        "artist": "Cardi B",
-        "title": "Hot Shit feat. Kanye West & Lil Durk",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Heart Of Gold",
-        "plays": 1
-      },
-      {
-        "artist": "BLACKPINK",
-        "title": "JUMP",
-        "plays": 1
-      },
-      {
-        "artist": "AnnenMayKantereit",
-        "title": "Barfuß am Klavier",
-        "plays": 1
-      },
-      {
-        "artist": "Saja Boys",
-        "title": "Soda Pop",
-        "plays": 1
-      },
-      {
-        "artist": "Desiigner",
-        "title": "Letter To Ye",
-        "plays": 1
-      },
-      {
-        "artist": "Avalanche",
-        "title": "Down For The Count",
-        "plays": 1
-      },
-      {
-        "artist": "Shirin David",
-        "title": "atzen & barbies (feat. ski aggu)",
-        "plays": 1
-      },
-      {
-        "artist": "Passenger",
-        "title": "Let Her Go",
-        "plays": 1
-      },
-      {
-        "artist": "Chaka Khan",
-        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
-        "plays": 1
-      },
-      {
-        "artist": "Dermot Kennedy",
-        "title": "Better Days",
-        "plays": 1
-      },
-      {
-        "artist": "James Blake",
-        "title": "Death Of Love (Live)",
-        "plays": 1
-      },
-      {
-        "artist": "Revolverheld",
-        "title": "Ich lass für dich das Licht an",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Doherty",
-        "title": "Calvados",
-        "plays": 1
-      },
-      {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 1
-      },
-      {
-        "artist": "Disturbed",
-        "title": "Hey You",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Before You Go",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster feat. Sido",
-        "title": "Au Revoir",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Glatteis",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Open Hearts",
-        "plays": 1
-      },
-      {
-        "artist": "Clean Bandit & Anne-Marie & David Guetta",
-        "title": "Cry Baby (SUNSHINE-BANGER)",
-        "plays": 1
-      },
-      {
-        "artist": "Capital Cities",
-        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
-        "plays": 1
-      },
-      {
-        "artist": "1986zig",
-        "title": "Kopf aus",
-        "plays": 1
-      },
-      {
-        "artist": "The Pretty Reckless",
-        "title": "Rollercoaster Of Life",
-        "plays": 1
-      },
-      {
-        "artist": "Ava Max",
-        "title": "Kings & Queens",
-        "plays": 1
-      },
-      {
-        "artist": "Tori Amos",
-        "title": "Song of Sorrow",
-        "plays": 1
-      },
-      {
-        "artist": "Romano",
-        "title": "Köpenick",
-        "plays": 1
-      },
-      {
-        "artist": "La Roux",
-        "title": "Uptight Downtown",
-        "plays": 1
-      },
-      {
-        "artist": "Walter Trout",
-        "title": "Hurt No More",
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Demi Lovato",
-      "title": "Cool For The Summer",
-      "plays": 2
+      "artist": "Daya",
+      "title": "Bad Girl",
+      "plays": 1
     }
   }
 }

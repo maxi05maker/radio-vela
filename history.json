@@ -2020,5 +2020,47 @@
     "played_at": "2026-09-20 02:34:55 +0200",
     "title": "Strangers",
     "artist": "Bring Me The Horizon"
+  },
+  {
+    "key": "2026-09-20 07:02:10 +0200|Bad Girl|Daya",
+    "played_at": "2026-09-20 07:02:10 +0200",
+    "title": "Bad Girl",
+    "artist": "Daya"
+  },
+  {
+    "key": "2026-09-20 07:05:16 +0200|Fear Of The Dawn|Jack White",
+    "played_at": "2026-09-20 07:05:16 +0200",
+    "title": "Fear Of The Dawn",
+    "artist": "Jack White"
+  },
+  {
+    "key": "2026-09-20 07:07:19 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-20 07:07:19 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-20 07:10:17 +0200|Koa Bergbauernbua|Oimara, Melissa Naschenweng",
+    "played_at": "2026-09-20 07:10:17 +0200",
+    "title": "Koa Bergbauernbua",
+    "artist": "Oimara, Melissa Naschenweng"
+  },
+  {
+    "key": "2026-09-20 07:13:52 +0200|Troubles feat. T-Pain|Denzel Curry",
+    "played_at": "2026-09-20 07:13:52 +0200",
+    "title": "Troubles feat. T-Pain",
+    "artist": "Denzel Curry"
+  },
+  {
+    "key": "2026-09-20 07:16:32 +0200|Perfect|Ed Sheeran",
+    "played_at": "2026-09-20 07:16:32 +0200",
+    "title": "Perfect",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-09-20 07:20:56 +0200|Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version|Tobee",
+    "played_at": "2026-09-20 07:20:56 +0200",
+    "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+    "artist": "Tobee"
   }
 ]
