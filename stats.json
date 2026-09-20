@@ -2,8 +2,8 @@
   "2026-09-20 07:00": {
     "period_start": "2026-09-20T07:00:00+02:00",
     "period_end": "2026-09-21T07:00:00+02:00",
-    "total_entries": 37,
-    "music_entries": 34,
+    "total_entries": 47,
+    "music_entries": 43,
     "songs": [
       {
         "artist": "Panic At The Disco",
@@ -168,6 +168,51 @@
       {
         "artist": "Lena",
         "title": "Traffic Lights",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Bye Bye",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Joker",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben & Ilira",
+        "title": "Fading",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
+        "plays": 1
+      },
+      {
+        "artist": "Take That",
+        "title": "Sweet July",
+        "plays": 1
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Love Under Pressure",
+        "plays": 1
+      },
+      {
+        "artist": "Dermot Kennedy",
+        "title": "Power over Me",
+        "plays": 1
+      },
+      {
+        "artist": "Blues Pills",
+        "title": "Bad Choices",
         "plays": 1
       }
     ],
