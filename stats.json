@@ -2,9 +2,14 @@
   "2026-09-20 07:00": {
     "period_start": "2026-09-20T07:00:00+02:00",
     "period_end": "2026-09-21T07:00:00+02:00",
-    "total_entries": 27,
-    "music_entries": 25,
+    "total_entries": 37,
+    "music_entries": 34,
     "songs": [
+      {
+        "artist": "Panic At The Disco",
+        "title": "Viva Las Vengeance",
+        "plays": 2
+      },
       {
         "artist": "Daya",
         "title": "Bad Girl",
@@ -53,11 +58,6 @@
       {
         "artist": "The FAIM",
         "title": "Summer Is a Curse",
-        "plays": 1
-      },
-      {
-        "artist": "Panic At The Disco",
-        "title": "Viva Las Vengeance",
         "plays": 1
       },
       {
@@ -129,12 +129,52 @@
         "artist": "Black Eyed Peas, Shakira & David Guetta",
         "title": "Don't You Worry",
         "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Broken Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "A Million Dreams",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & Faithless",
+        "title": "New Religion",
+        "plays": 1
+      },
+      {
+        "artist": "Travis Scott",
+        "title": "DELRESTO (ECHOES) ft. Beyoncé",
+        "plays": 1
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Billy Idol",
+        "title": "Bitter Taste",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Traffic Lights",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Daya",
-      "title": "Bad Girl",
-      "plays": 1
+      "artist": "Panic At The Disco",
+      "title": "Viva Las Vengeance",
+      "plays": 2
     }
   }
 }
