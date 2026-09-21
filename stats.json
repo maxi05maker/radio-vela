@@ -1,338 +1,43 @@
 {
-  "2026-09-20 07:00": {
-    "period_start": "2026-09-20T07:00:00+02:00",
-    "period_end": "2026-09-21T07:00:00+02:00",
-    "total_entries": 77,
-    "music_entries": 70,
+  "2026-09-21 07:00": {
+    "period_start": "2026-09-21T07:00:00+02:00",
+    "period_end": "2026-09-22T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Panic At The Disco",
-        "title": "Viva Las Vengeance",
-        "plays": 2
-      },
-      {
-        "artist": "Lena",
-        "title": "Traffic Lights",
-        "plays": 2
-      },
-      {
-        "artist": "Daya",
-        "title": "Bad Girl",
+        "artist": "KADAVAR",
+        "title": "Scar On My Guitar",
         "plays": 1
       },
       {
-        "artist": "Jack White",
-        "title": "Fear Of The Dawn",
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 1
       },
       {
-        "artist": "Oimara, Melissa Naschenweng",
-        "title": "Koa Bergbauernbua",
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
         "plays": 1
       },
       {
-        "artist": "Denzel Curry",
-        "title": "Troubles feat. T-Pain",
+        "artist": "Robin Schulz feat. CLOVES",
+        "title": "Old Friend (Radio Edit)",
         "plays": 1
       },
       {
-        "artist": "Ed Sheeran",
-        "title": "Perfect",
-        "plays": 1
-      },
-      {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "The Kid LAROI & Justin Bieber",
-        "title": "Stay",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Anyone For You",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Why Why Why",
-        "plays": 1
-      },
-      {
-        "artist": "The FAIM",
-        "title": "Summer Is a Curse",
-        "plays": 1
-      },
-      {
-        "artist": "Juju",
-        "title": "CRASHOUT FREESTYLE",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Bieber feat. Daniel Caesar & Giveon",
-        "title": "Peaches",
-        "plays": 1
-      },
-      {
-        "artist": "The Hives",
-        "title": "The Hives Forever Forever The Hives",
-        "plays": 1
-      },
-      {
-        "artist": "Shirin David",
-        "title": "Ich darf das",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Chandelier",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "I'M HIS, HE'S MINE ft. Doechii",
+        "artist": "Razorlight",
+        "title": "You Are Entering The Human Heart",
         "plays": 1
       },
       {
         "artist": "Lewis Capaldi",
-        "title": "Before You Go",
+        "title": "Someone You Loved",
         "plays": 1
       },
       {
-        "artist": "YellowStraps",
-        "title": "Flowin feat. Sam Wise",
-        "plays": 1
-      },
-      {
-        "artist": "Jill Scott",
-        "title": "BPOTY (feat. Too $hort)",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith",
-        "title": "Diamonds",
-        "plays": 1
-      },
-      {
-        "artist": "Alma",
-        "title": "Dye My Hair",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "Its ok Im ok",
-        "plays": 1
-      },
-      {
-        "artist": "Black Eyed Peas, Shakira & David Guetta",
-        "title": "Don't You Worry",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Broken Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "A Million Dreams",
-        "plays": 1
-      },
-      {
-        "artist": "Bebe Rexha & Faithless",
-        "title": "New Religion",
-        "plays": 1
-      },
-      {
-        "artist": "Travis Scott",
-        "title": "DELRESTO (ECHOES) ft. Beyoncé",
-        "plays": 1
-      },
-      {
-        "artist": "DJ Snake & J. Balvin Feat. Tyga",
-        "title": "Loco Contigo",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Watch It Burn",
-        "plays": 1
-      },
-      {
-        "artist": "Billy Idol",
-        "title": "Bitter Taste",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Bye Bye",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "The Joker",
-        "plays": 1
-      },
-      {
-        "artist": "Alle Farben & Ilira",
-        "title": "Fading",
-        "plays": 1
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Ist da jemand",
-        "plays": 1
-      },
-      {
-        "artist": "Take That",
-        "title": "Sweet July",
-        "plays": 1
-      },
-      {
-        "artist": "James Blunt",
-        "title": "Love Under Pressure",
-        "plays": 1
-      },
-      {
-        "artist": "Dermot Kennedy",
-        "title": "Power over Me",
-        "plays": 1
-      },
-      {
-        "artist": "Blues Pills",
-        "title": "Bad Choices",
-        "plays": 1
-      },
-      {
-        "artist": "Lune",
-        "title": "Mann im Haus",
-        "plays": 1
-      },
-      {
-        "artist": "Kummer",
-        "title": "Bei Dir",
-        "plays": 1
-      },
-      {
-        "artist": "Myle",
-        "title": "Hold Me",
-        "plays": 1
-      },
-      {
-        "artist": "Kraftklub",
-        "title": "Wenn ich tot bin, fang ich wieder an",
-        "plays": 1
-      },
-      {
-        "artist": "Rosenstolz",
-        "title": "Gib Mir Sonne",
-        "plays": 1
-      },
-      {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
-        "artist": "International Music",
-        "title": "Kieselwege",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Roundabouts",
-        "plays": 1
-      },
-      {
-        "artist": "Freya Ridings",
-        "title": "Castles",
-        "plays": 1
-      },
-      {
-        "artist": "Kraftklub, Domiziana",
-        "title": "Unsterblich sein ( ) feat. Domiziana",
-        "plays": 1
-      },
-      {
-        "artist": "Linkin Park",
-        "title": "The Emptiness Machine",
-        "plays": 1
-      },
-      {
-        "artist": "Andreas Bourani",
-        "title": "Auf uns",
-        "plays": 1
-      },
-      {
-        "artist": "Jamiroquai",
-        "title": "Summer Girl",
-        "plays": 1
-      },
-      {
-        "artist": "The Pretty Reckless",
-        "title": "Rollercoaster Of Life",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "don't lie to me",
-        "plays": 1
-      },
-      {
-        "artist": "ScarLip",
-        "title": "Runaway Love Freestale",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Wenn du liebst [feat. Kat Frankie]",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna",
-        "title": "Love On The Brain",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Unstoppable",
-        "plays": 1
-      },
-      {
-        "artist": "The Hives",
-        "title": "Enough Is Enough",
-        "plays": 1
-      },
-      {
-        "artist": "Starley",
-        "title": "Call on Me",
-        "plays": 1
-      },
-      {
-        "artist": "Bring Me The Horizon",
-        "title": "Strangers",
-        "plays": 1
-      },
-      {
-        "artist": "Zartmann",
-        "title": "Weißt du überhaupt noch wer ich bin?",
-        "plays": 1
-      },
-      {
-        "artist": "Camila Cabello feat. Young Thug",
-        "title": "Havana",
+        "artist": "Apache 207",
+        "title": "Ein Lied für dich",
         "plays": 1
       },
       {
@@ -341,15 +46,15 @@
         "plays": 1
       },
       {
-        "artist": "Peter Doherty",
-        "title": "Calvados",
+        "artist": "Bilderbuch",
+        "title": "I'm Not Gonna Lie",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Panic At The Disco",
-      "title": "Viva Las Vengeance",
-      "plays": 2
+      "artist": "KADAVAR",
+      "title": "Scar On My Guitar",
+      "plays": 1
     }
   }
 }

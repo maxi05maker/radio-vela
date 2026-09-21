@@ -2482,5 +2482,65 @@
     "played_at": "2026-09-21 03:20:44 +0200",
     "title": "Calvados",
     "artist": "Peter Doherty"
+  },
+  {
+    "key": "2026-09-21 08:05:36 +0200|Scar On My Guitar|KADAVAR",
+    "played_at": "2026-09-21 08:05:36 +0200",
+    "title": "Scar On My Guitar",
+    "artist": "KADAVAR"
+  },
+  {
+    "key": "2026-09-21 08:08:49 +0200|Small Steps|Tom Gregory",
+    "played_at": "2026-09-21 08:08:49 +0200",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-09-21 08:11:35 +0200|Don’t Call Me Angel (Charlie’s Angels)|Ariana Grande & Miley Cyrus & Lana Del Rey",
+    "played_at": "2026-09-21 08:11:35 +0200",
+    "title": "Don’t Call Me Angel (Charlie’s Angels)",
+    "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey"
+  },
+  {
+    "key": "2026-09-21 08:14:45 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-21 08:14:45 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-21 08:17:32 +0200|Old Friend (Radio Edit)|Robin Schulz feat. CLOVES",
+    "played_at": "2026-09-21 08:17:32 +0200",
+    "title": "Old Friend (Radio Edit)",
+    "artist": "Robin Schulz feat. CLOVES"
+  },
+  {
+    "key": "2026-09-21 08:20:26 +0200|You Are Entering The Human Heart|Razorlight",
+    "played_at": "2026-09-21 08:20:26 +0200",
+    "title": "You Are Entering The Human Heart",
+    "artist": "Razorlight"
+  },
+  {
+    "key": "2026-09-21 08:23:48 +0200|Someone You Loved|Lewis Capaldi",
+    "played_at": "2026-09-21 08:23:48 +0200",
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-09-21 08:26:53 +0200|Ein Lied für dich|Apache 207",
+    "played_at": "2026-09-21 08:26:53 +0200",
+    "title": "Ein Lied für dich",
+    "artist": "Apache 207"
+  },
+  {
+    "key": "2026-09-21 08:29:55 +0200|Forever Young|David Guetta, Alphaville & Ava Max",
+    "played_at": "2026-09-21 08:29:55 +0200",
+    "title": "Forever Young",
+    "artist": "David Guetta, Alphaville & Ava Max"
+  },
+  {
+    "key": "2026-09-21 08:32:31 +0200|I'm Not Gonna Lie|Bilderbuch",
+    "played_at": "2026-09-21 08:32:31 +0200",
+    "title": "I'm Not Gonna Lie",
+    "artist": "Bilderbuch"
   }
 ]
