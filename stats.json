@@ -2,12 +2,17 @@
   "2026-09-20 07:00": {
     "period_start": "2026-09-20T07:00:00+02:00",
     "period_end": "2026-09-21T07:00:00+02:00",
-    "total_entries": 67,
-    "music_entries": 61,
+    "total_entries": 77,
+    "music_entries": 70,
     "songs": [
       {
         "artist": "Panic At The Disco",
         "title": "Viva Las Vengeance",
+        "plays": 2
+      },
+      {
+        "artist": "Lena",
+        "title": "Traffic Lights",
         "plays": 2
       },
       {
@@ -166,11 +171,6 @@
         "plays": 1
       },
       {
-        "artist": "Lena",
-        "title": "Traffic Lights",
-        "plays": 1
-      },
-      {
         "artist": "Rita Ora",
         "title": "Let You Love Me",
         "plays": 1
@@ -303,6 +303,46 @@
       {
         "artist": "Rihanna",
         "title": "Love On The Brain",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "The Hives",
+        "title": "Enough Is Enough",
+        "plays": 1
+      },
+      {
+        "artist": "Starley",
+        "title": "Call on Me",
+        "plays": 1
+      },
+      {
+        "artist": "Bring Me The Horizon",
+        "title": "Strangers",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Weißt du überhaupt noch wer ich bin?",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Doherty",
+        "title": "Calvados",
         "plays": 1
       }
     ],
