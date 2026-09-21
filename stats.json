@@ -2,9 +2,19 @@
   "2026-09-21 07:00": {
     "period_start": "2026-09-21T07:00:00+02:00",
     "period_end": "2026-09-22T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 27,
+    "total_entries": 40,
+    "music_entries": 36,
     "songs": [
+      {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
+        "plays": 2
+      },
+      {
+        "artist": "Sunrise Avenue",
+        "title": "Hollywood Hills",
+        "plays": 2
+      },
       {
         "artist": "KADAVAR",
         "title": "Scar On My Guitar",
@@ -56,11 +66,6 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
-        "plays": 1
-      },
-      {
         "artist": "Kontra K & Lana Del Rey",
         "title": "Summertime [feat. Lana Del Rey]",
         "plays": 1
@@ -68,11 +73,6 @@
       {
         "artist": "Sophia Kennedy",
         "title": "Rodeo",
-        "plays": 1
-      },
-      {
-        "artist": "Sunrise Avenue",
-        "title": "Hollywood Hills",
         "plays": 1
       },
       {
@@ -139,12 +139,47 @@
         "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
         "title": "Best Friend",
         "plays": 1
+      },
+      {
+        "artist": "Dave",
+        "title": "Starlight",
+        "plays": 1
+      },
+      {
+        "artist": "Hurts/Purple Disco Machine",
+        "title": "Wonderful Life '25",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Leichtes Gepäck",
+        "plays": 1
+      },
+      {
+        "artist": "TEMPERS",
+        "title": "Who Says",
+        "plays": 1
+      },
+      {
+        "artist": "Jason Mraz",
+        "title": "Have It All",
+        "plays": 1
+      },
+      {
+        "artist": "The New Roses",
+        "title": "Down By The River",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers & Kim Petras",
+        "title": "Don't Lie (HITtipp)",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "KADAVAR",
-      "title": "Scar On My Guitar",
-      "plays": 1
+      "artist": "Michael Schulte",
+      "title": "Here Goes Nothing",
+      "plays": 2
     }
   }
 }
