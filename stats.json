@@ -2,8 +2,8 @@
   "2026-09-21 07:00": {
     "period_start": "2026-09-21T07:00:00+02:00",
     "period_end": "2026-09-22T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "KADAVAR",
@@ -48,6 +48,46 @@
       {
         "artist": "Bilderbuch",
         "title": "I'm Not Gonna Lie",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
+        "plays": 1
+      },
+      {
+        "artist": "Kontra K & Lana Del Rey",
+        "title": "Summertime [feat. Lana Del Rey]",
+        "plays": 1
+      },
+      {
+        "artist": "Sophia Kennedy",
+        "title": "Rodeo",
+        "plays": 1
+      },
+      {
+        "artist": "Sunrise Avenue",
+        "title": "Hollywood Hills",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "Island",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "Be Mine",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Perfect",
         "plays": 1
       }
     ],
