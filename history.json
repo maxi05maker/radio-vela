@@ -2896,5 +2896,65 @@
     "played_at": "2026-09-22 12:12:00 +0200",
     "title": "Budapest",
     "artist": "George Ezra"
+  },
+  {
+    "key": "2026-09-22 16:24:47 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-09-22 16:24:47 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-09-22 16:27:05 +0200|In My Blood|Shawn Mendes",
+    "played_at": "2026-09-22 16:27:05 +0200",
+    "title": "In My Blood",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-09-22 16:30:37 +0200|Busy Woman|Sabrina Carpenter",
+    "played_at": "2026-09-22 16:30:37 +0200",
+    "title": "Busy Woman",
+    "artist": "Sabrina Carpenter"
+  },
+  {
+    "key": "2026-09-22 16:33:43 +0200|Herz über Kopf|Joris",
+    "played_at": "2026-09-22 16:33:43 +0200",
+    "title": "Herz über Kopf",
+    "artist": "Joris"
+  },
+  {
+    "key": "2026-09-22 16:37:05 +0200|Santa's Coming For Us|Sia",
+    "played_at": "2026-09-22 16:37:05 +0200",
+    "title": "Santa's Coming For Us",
+    "artist": "Sia"
+  },
+  {
+    "key": "2026-09-22 16:40:30 +0200|Nur dir gehör'n|1986zig",
+    "played_at": "2026-09-22 16:40:30 +0200",
+    "title": "Nur dir gehör'n",
+    "artist": "1986zig"
+  },
+  {
+    "key": "2026-09-22 16:43:15 +0200|Your Song|Rita Ora",
+    "played_at": "2026-09-22 16:43:15 +0200",
+    "title": "Your Song",
+    "artist": "Rita Ora"
+  },
+  {
+    "key": "2026-09-22 16:46:15 +0200|You're Beautiful|James Blunt",
+    "played_at": "2026-09-22 16:46:15 +0200",
+    "title": "You're Beautiful",
+    "artist": "James Blunt"
+  },
+  {
+    "key": "2026-09-22 16:49:49 +0200|Swallow My Tears|Gwen Stefani",
+    "played_at": "2026-09-22 16:49:49 +0200",
+    "title": "Swallow My Tears",
+    "artist": "Gwen Stefani"
+  },
+  {
+    "key": "2026-09-22 16:52:43 +0200|Scars To Your Beautiful|Alessia Cara",
+    "played_at": "2026-09-22 16:52:43 +0200",
+    "title": "Scars To Your Beautiful",
+    "artist": "Alessia Cara"
   }
 ]

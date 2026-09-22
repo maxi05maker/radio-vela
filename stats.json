@@ -2,9 +2,19 @@
   "2026-09-22 07:00": {
     "period_start": "2026-09-22T07:00:00+02:00",
     "period_end": "2026-09-23T07:00:00+02:00",
-    "total_entries": 19,
-    "music_entries": 17,
+    "total_entries": 29,
+    "music_entries": 27,
     "songs": [
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 2
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
+        "plays": 2
+      },
       {
         "artist": "Alice Merton",
         "title": "No Roots",
@@ -21,18 +31,8 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
         "artist": "Clean Bandit & Anne-Marie & David Guetta",
         "title": "Cry Baby (SUNSHINE-BANGER)",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "In My Blood",
         "plays": 1
       },
       {
@@ -89,12 +89,52 @@
         "artist": "George Ezra",
         "title": "Budapest",
         "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Herz über Kopf",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Santa's Coming For Us",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Nur dir gehör'n",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Your Song",
+        "plays": 1
+      },
+      {
+        "artist": "James Blunt",
+        "title": "You're Beautiful",
+        "plays": 1
+      },
+      {
+        "artist": "Gwen Stefani",
+        "title": "Swallow My Tears",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Scars To Your Beautiful",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Alice Merton",
-      "title": "No Roots",
-      "plays": 1
+      "artist": "Michael Schulte, R3HAB",
+      "title": "Waterfall",
+      "plays": 2
     }
   }
 }
