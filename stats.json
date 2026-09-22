@@ -2,8 +2,8 @@
   "2026-09-22 07:00": {
     "period_start": "2026-09-22T07:00:00+02:00",
     "period_end": "2026-09-23T07:00:00+02:00",
-    "total_entries": 49,
-    "music_entries": 47,
+    "total_entries": 59,
+    "music_entries": 56,
     "songs": [
       {
         "artist": "Michael Schulte, R3HAB",
@@ -228,6 +228,51 @@
       {
         "artist": "Baxter Dury & JGrrey",
         "title": "Return Of The Sharp Heads",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "The Killers",
+        "title": "Human",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "Wie schön du bist",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL & Dawty & Preston Harris",
+        "title": "Loosen Up",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "YellowStraps",
+        "title": "Flowin feat. Sam Wise",
+        "plays": 1
+      },
+      {
+        "artist": "bar italia",
+        "title": "omni shambles",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Thank You",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Ego",
         "plays": 1
       }
     ],
