@@ -1,230 +1,55 @@
 {
-  "2026-09-21 07:00": {
-    "period_start": "2026-09-21T07:00:00+02:00",
-    "period_end": "2026-09-22T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 46,
+  "2026-09-22 07:00": {
+    "period_start": "2026-09-22T07:00:00+02:00",
+    "period_end": "2026-09-23T07:00:00+02:00",
+    "total_entries": 9,
+    "music_entries": 8,
     "songs": [
       {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
-        "plays": 2
+        "artist": "Alice Merton",
+        "title": "No Roots",
+        "plays": 1
       },
       {
-        "artist": "Sunrise Avenue",
-        "title": "Hollywood Hills",
-        "plays": 2
+        "artist": "TWICE",
+        "title": "Strategy (feat. Megan Thee Stallion)",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
+        "plays": 1
       },
       {
         "artist": "Michael Schulte, R3HAB",
         "title": "Waterfall",
-        "plays": 2
-      },
-      {
-        "artist": "KADAVAR",
-        "title": "Scar On My Guitar",
         "plays": 1
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
-        "title": "Don’t Call Me Angel (Charlie’s Angels)",
-        "plays": 1
-      },
-      {
-        "artist": "Robin Schulz feat. CLOVES",
-        "title": "Old Friend (Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "Razorlight",
-        "title": "You Are Entering The Human Heart",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Someone You Loved",
-        "plays": 1
-      },
-      {
-        "artist": "Apache 207",
-        "title": "Ein Lied für dich",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
-        "plays": 1
-      },
-      {
-        "artist": "Bilderbuch",
-        "title": "I'm Not Gonna Lie",
-        "plays": 1
-      },
-      {
-        "artist": "Monet192",
-        "title": "Nicht Perfekt",
-        "plays": 1
-      },
-      {
-        "artist": "Kontra K & Lana Del Rey",
-        "title": "Summertime [feat. Lana Del Rey]",
-        "plays": 1
-      },
-      {
-        "artist": "Sophia Kennedy",
-        "title": "Rodeo",
-        "plays": 1
-      },
-      {
-        "artist": "Alice Merton",
-        "title": "Island",
-        "plays": 1
-      },
-      {
-        "artist": "Kamrad",
-        "title": "Be Mine",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Perfect",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Bring Me The Horizon",
-        "title": "Strangers",
-        "plays": 1
-      },
-      {
-        "artist": "AYLIVA",
-        "title": "Wie?",
-        "plays": 1
-      },
-      {
-        "artist": "Melissa Etheridge",
-        "title": "For The Last Time",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Your Song",
-        "plays": 1
-      },
-      {
-        "artist": "Lena x Nico Santos",
-        "title": "Better",
-        "plays": 1
-      },
-      {
-        "artist": "Volbeat",
-        "title": "By a Monster’s Hand",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster, LEA",
-        "title": "Drei Uhr Nachts",
-        "plays": 1
-      },
-      {
-        "artist": "Saweetie Feat. Doja Cat & Katja Krasavice",
-        "title": "Best Friend",
-        "plays": 1
-      },
-      {
-        "artist": "Dave",
-        "title": "Starlight",
-        "plays": 1
-      },
-      {
-        "artist": "Hurts/Purple Disco Machine",
-        "title": "Wonderful Life '25",
-        "plays": 1
-      },
-      {
-        "artist": "Silbermond",
-        "title": "Leichtes Gepäck",
-        "plays": 1
-      },
-      {
-        "artist": "TEMPERS",
-        "title": "Who Says",
-        "plays": 1
-      },
-      {
-        "artist": "Jason Mraz",
-        "title": "Have It All",
-        "plays": 1
-      },
-      {
-        "artist": "The New Roses",
-        "title": "Down By The River",
-        "plays": 1
-      },
-      {
-        "artist": "The Chainsmokers & Kim Petras",
-        "title": "Don't Lie (HITtipp)",
-        "plays": 1
-      },
-      {
-        "artist": "Bow Anderson",
-        "title": "20s",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta feat. Sam Martin",
-        "title": "Lovers on the Sun",
+        "artist": "Clean Bandit & Anne-Marie & David Guetta",
+        "title": "Cry Baby (SUNSHINE-BANGER)",
         "plays": 1
       },
       {
         "artist": "Shawn Mendes",
-        "title": "Why Why Why",
+        "title": "In My Blood",
         "plays": 1
       },
       {
-        "artist": "Ava Max",
-        "title": "Salt",
+        "artist": "Demi Lovato",
+        "title": "Cool For The Summer",
         "plays": 1
       },
       {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 1
-      },
-      {
-        "artist": "Djo",
-        "title": "Basic Being Basic",
-        "plays": 1
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Schönere Frauen",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "King",
-        "plays": 1
-      },
-      {
-        "artist": "AYLIVA",
-        "title": "Renn!",
+        "artist": "The Marías",
+        "title": "Back To Me",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Michael Schulte",
-      "title": "Here Goes Nothing",
-      "plays": 2
+      "artist": "Alice Merton",
+      "title": "No Roots",
+      "plays": 1
     }
   }
 }
