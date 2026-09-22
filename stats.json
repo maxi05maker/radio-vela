@@ -2,8 +2,8 @@
   "2026-09-22 07:00": {
     "period_start": "2026-09-22T07:00:00+02:00",
     "period_end": "2026-09-23T07:00:00+02:00",
-    "total_entries": 39,
-    "music_entries": 37,
+    "total_entries": 49,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "Michael Schulte, R3HAB",
@@ -178,6 +178,56 @@
       {
         "artist": "The Black Keys",
         "title": "No Rain, No Flowers",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA",
+        "title": "Renn!",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Lieder",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "A Little More",
+        "plays": 1
+      },
+      {
+        "artist": "Suki Waterhouse",
+        "title": "Neon Signs",
+        "plays": 1
+      },
+      {
+        "artist": "J Balvin & Ed Sheeran",
+        "title": "Sigue",
+        "plays": 1
+      },
+      {
+        "artist": "Baxter Dury & JGrrey",
+        "title": "Return Of The Sharp Heads",
         "plays": 1
       }
     ],
