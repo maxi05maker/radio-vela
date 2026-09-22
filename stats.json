@@ -2,8 +2,8 @@
   "2026-09-22 07:00": {
     "period_start": "2026-09-22T07:00:00+02:00",
     "period_end": "2026-09-23T07:00:00+02:00",
-    "total_entries": 9,
-    "music_entries": 8,
+    "total_entries": 19,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "Alice Merton",
@@ -43,6 +43,51 @@
       {
         "artist": "The Marías",
         "title": "Back To Me",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia  (feat. Alicia Keys)",
+        "title": "Finally",
+        "plays": 1
+      },
+      {
+        "artist": "Razorlight",
+        "title": "You Are Entering The Human Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Three Days Grace",
+        "title": "So Called Life",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine, Alison Goldfrapp",
+        "title": "Dream Machine",
+        "plays": 1
+      },
+      {
+        "artist": "Boy",
+        "title": "We Were Here",
+        "plays": 1
+      },
+      {
+        "artist": "Rosenstolz",
+        "title": "Gib Mir Sonne",
+        "plays": 1
+      },
+      {
+        "artist": "Biffy Clyro",
+        "title": "True Believer",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Heartbeat Song",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Budapest",
         "plays": 1
       }
     ],
