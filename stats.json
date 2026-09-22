@@ -2,8 +2,8 @@
   "2026-09-21 07:00": {
     "period_start": "2026-09-21T07:00:00+02:00",
     "period_end": "2026-09-22T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 36,
+    "total_entries": 50,
+    "music_entries": 46,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -13,6 +13,11 @@
       {
         "artist": "Sunrise Avenue",
         "title": "Hollywood Hills",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 2
       },
       {
@@ -106,11 +111,6 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
         "artist": "Melissa Etheridge",
         "title": "For The Last Time",
         "plays": 1
@@ -173,6 +173,51 @@
       {
         "artist": "The Chainsmokers & Kim Petras",
         "title": "Don't Lie (HITtipp)",
+        "plays": 1
+      },
+      {
+        "artist": "Bow Anderson",
+        "title": "20s",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Why Why Why",
+        "plays": 1
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Salt",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Djo",
+        "title": "Basic Being Basic",
+        "plays": 1
+      },
+      {
+        "artist": "Mia Morgan",
+        "title": "Schönere Frauen",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "King",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA",
+        "title": "Renn!",
         "plays": 1
       }
     ],
