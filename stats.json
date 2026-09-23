@@ -1,335 +1,65 @@
 {
-  "2026-09-22 07:00": {
-    "period_start": "2026-09-22T07:00:00+02:00",
-    "period_end": "2026-09-23T07:00:00+02:00",
-    "total_entries": 69,
-    "music_entries": 66,
+  "2026-09-23 07:00": {
+    "period_start": "2026-09-23T07:00:00+02:00",
+    "period_end": "2026-09-24T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 2
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "In My Blood",
-        "plays": 2
-      },
-      {
-        "artist": "Alice Merton",
-        "title": "No Roots",
+        "artist": "Jason Derulo Feat. 2 Chainz",
+        "title": "Talk Dirty",
         "plays": 1
       },
       {
-        "artist": "TWICE",
-        "title": "Strategy (feat. Megan Thee Stallion)",
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
-        "artist": "Mike Singer",
-        "title": "Deja Vu",
+        "artist": "Sugababes",
+        "title": "Shook",
         "plays": 1
       },
       {
-        "artist": "Clean Bandit & Anne-Marie & David Guetta",
-        "title": "Cry Baby (SUNSHINE-BANGER)",
+        "artist": "D4vd",
+        "title": "Here With Me",
         "plays": 1
       },
       {
-        "artist": "Demi Lovato",
-        "title": "Cool For The Summer",
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
         "plays": 1
       },
       {
-        "artist": "The Marías",
-        "title": "Back To Me",
+        "artist": "Jj",
+        "title": "Wasted Love  2025",
         "plays": 1
       },
       {
-        "artist": "Swedish House Mafia  (feat. Alicia Keys)",
-        "title": "Finally",
+        "artist": "Revolverheld",
+        "title": "Das Größte",
         "plays": 1
       },
       {
-        "artist": "Razorlight",
-        "title": "You Are Entering The Human Heart",
+        "artist": "Fergie",
+        "title": "Big Girls Don't Cry",
         "plays": 1
       },
       {
-        "artist": "Three Days Grace",
-        "title": "So Called Life",
+        "artist": "FKA twigs",
+        "title": "Childlike Things",
         "plays": 1
       },
       {
-        "artist": "Purple Disco Machine, Alison Goldfrapp",
-        "title": "Dream Machine",
-        "plays": 1
-      },
-      {
-        "artist": "Boy",
-        "title": "We Were Here",
-        "plays": 1
-      },
-      {
-        "artist": "Rosenstolz",
-        "title": "Gib Mir Sonne",
-        "plays": 1
-      },
-      {
-        "artist": "Biffy Clyro",
-        "title": "True Believer",
-        "plays": 1
-      },
-      {
-        "artist": "Kelly Clarkson",
-        "title": "Heartbeat Song",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Budapest",
-        "plays": 1
-      },
-      {
-        "artist": "Sabrina Carpenter",
-        "title": "Busy Woman",
-        "plays": 1
-      },
-      {
-        "artist": "Joris",
-        "title": "Herz über Kopf",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Santa's Coming For Us",
-        "plays": 1
-      },
-      {
-        "artist": "1986zig",
-        "title": "Nur dir gehör'n",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Your Song",
-        "plays": 1
-      },
-      {
-        "artist": "James Blunt",
-        "title": "You're Beautiful",
-        "plays": 1
-      },
-      {
-        "artist": "Gwen Stefani",
-        "title": "Swallow My Tears",
-        "plays": 1
-      },
-      {
-        "artist": "Alessia Cara",
-        "title": "Scars To Your Beautiful",
-        "plays": 1
-      },
-      {
-        "artist": "AFROJACK, Sia, David Guetta",
-        "title": "Awake Tonight",
-        "plays": 1
-      },
-      {
-        "artist": "Travis Scott",
-        "title": "DELRESTO (ECHOES) ft. Beyoncé",
-        "plays": 1
-      },
-      {
-        "artist": "The Rolling Stones",
-        "title": "Living In The Heart Of Love",
-        "plays": 1
-      },
-      {
-        "artist": "Stray Kids",
-        "title": "RUN IT",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "don't lie to me",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Never Give Up",
-        "plays": 1
-      },
-      {
-        "artist": "Aerosmith, YUNGBLUD",
-        "title": "Wild Woman",
-        "plays": 1
-      },
-      {
-        "artist": "Drake",
-        "title": "God's Plan",
-        "plays": 1
-      },
-      {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
-        "plays": 1
-      },
-      {
-        "artist": "The Black Keys",
-        "title": "No Rain, No Flowers",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "Hunger",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "AYLIVA",
-        "title": "Renn!",
-        "plays": 1
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Lieder",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Human Being",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Mr. Know It All",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "A Little More",
-        "plays": 1
-      },
-      {
-        "artist": "Suki Waterhouse",
-        "title": "Neon Signs",
-        "plays": 1
-      },
-      {
-        "artist": "J Balvin & Ed Sheeran",
-        "title": "Sigue",
-        "plays": 1
-      },
-      {
-        "artist": "Baxter Dury & JGrrey",
-        "title": "Return Of The Sharp Heads",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Watch It Burn",
-        "plays": 1
-      },
-      {
-        "artist": "The Killers",
-        "title": "Human",
-        "plays": 1
-      },
-      {
-        "artist": "Sarah Connor",
-        "title": "Wie schön du bist",
-        "plays": 1
-      },
-      {
-        "artist": "HUGEL & Dawty & Preston Harris",
-        "title": "Loosen Up",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "YellowStraps",
-        "title": "Flowin feat. Sam Wise",
-        "plays": 1
-      },
-      {
-        "artist": "bar italia",
-        "title": "omni shambles",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Thank You",
-        "plays": 1
-      },
-      {
-        "artist": "Halsey",
-        "title": "Ego",
-        "plays": 1
-      },
-      {
-        "artist": "Beth Hart",
-        "title": "Savior With A Razor (feat. Slash)",
-        "plays": 1
-      },
-      {
-        "artist": "Dj Robin & Schürze",
-        "title": "Layla",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster",
-        "title": "Sowieso",
-        "plays": 1
-      },
-      {
-        "artist": "Stromae",
-        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
-        "plays": 1
-      },
-      {
-        "artist": "The New Roses",
-        "title": "Down By The River",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Anyone For You",
-        "plays": 1
-      },
-      {
-        "artist": "Samy Deluxe",
-        "title": "Damn Conductor",
-        "plays": 1
-      },
-      {
-        "artist": "Melissa Etheridge",
-        "title": "For The Last Time",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Satellite",
-        "plays": 1
-      },
-      {
-        "artist": "Charli xcx feat. Billie Eilish",
-        "title": "Guess",
+        "artist": "Clueso",
+        "title": "Neuanfang",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Michael Schulte, R3HAB",
-      "title": "Waterfall",
-      "plays": 2
+      "artist": "Jason Derulo Feat. 2 Chainz",
+      "title": "Talk Dirty",
+      "plays": 1
     }
   }
 }
