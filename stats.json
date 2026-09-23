@@ -2,9 +2,14 @@
   "2026-09-23 07:00": {
     "period_start": "2026-09-23T07:00:00+02:00",
     "period_end": "2026-09-24T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 38,
+    "total_entries": 50,
+    "music_entries": 48,
     "songs": [
+      {
+        "artist": "GloRilla",
+        "title": "Tomorrow 2 feat. Cardi B",
+        "plays": 2
+      },
       {
         "artist": "Jason Derulo Feat. 2 Chainz",
         "title": "Talk Dirty",
@@ -116,11 +121,6 @@
         "plays": 1
       },
       {
-        "artist": "GloRilla",
-        "title": "Tomorrow 2 feat. Cardi B",
-        "plays": 1
-      },
-      {
         "artist": "David Guetta & Sia",
         "title": "Beautiful People",
         "plays": 1
@@ -194,12 +194,57 @@
         "artist": "Namika feat. Black M",
         "title": "Je Ne Parle Pas Français (Beatgees Remix)",
         "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "I Never Loved You",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Shotgun",
+        "plays": 1
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Ain't Your Mama",
+        "plays": 1
+      },
+      {
+        "artist": "HAIM",
+        "title": "Everybody's trying to figure me out",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 1
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "Summer Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Weißt du überhaupt noch wer ich bin?",
+        "plays": 1
+      },
+      {
+        "artist": "Sunrise Avenue",
+        "title": "Fairytale Gone Bad",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Jason Derulo Feat. 2 Chainz",
-      "title": "Talk Dirty",
-      "plays": 1
+      "artist": "GloRilla",
+      "title": "Tomorrow 2 feat. Cardi B",
+      "plays": 2
     }
   }
 }
