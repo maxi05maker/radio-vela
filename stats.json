@@ -2,8 +2,8 @@
   "2026-09-22 07:00": {
     "period_start": "2026-09-22T07:00:00+02:00",
     "period_end": "2026-09-23T07:00:00+02:00",
-    "total_entries": 59,
-    "music_entries": 56,
+    "total_entries": 69,
+    "music_entries": 66,
     "songs": [
       {
         "artist": "Michael Schulte, R3HAB",
@@ -273,6 +273,56 @@
       {
         "artist": "Halsey",
         "title": "Ego",
+        "plays": 1
+      },
+      {
+        "artist": "Beth Hart",
+        "title": "Savior With A Razor (feat. Slash)",
+        "plays": 1
+      },
+      {
+        "artist": "Dj Robin & Schürze",
+        "title": "Layla",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster",
+        "title": "Sowieso",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+        "plays": 1
+      },
+      {
+        "artist": "The New Roses",
+        "title": "Down By The River",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Anyone For You",
+        "plays": 1
+      },
+      {
+        "artist": "Samy Deluxe",
+        "title": "Damn Conductor",
+        "plays": 1
+      },
+      {
+        "artist": "Melissa Etheridge",
+        "title": "For The Last Time",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Satellite",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx feat. Billie Eilish",
+        "title": "Guess",
         "plays": 1
       }
     ],
