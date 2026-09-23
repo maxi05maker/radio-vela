@@ -2,8 +2,8 @@
   "2026-09-23 07:00": {
     "period_start": "2026-09-23T07:00:00+02:00",
     "period_end": "2026-09-24T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 20,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Jason Derulo Feat. 2 Chainz",
@@ -103,6 +103,51 @@
       {
         "artist": "Mono Inc.",
         "title": "Abendrot",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Santa's Coming For Us",
+        "plays": 1
+      },
+      {
+        "artist": "GloRilla",
+        "title": "Tomorrow 2 feat. Cardi B",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta & Sia",
+        "title": "Beautiful People",
+        "plays": 1
+      },
+      {
+        "artist": "Dermot Kennedy",
+        "title": "Power over Me",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld feat. Antje Schomaker",
+        "title": "Liebe auf Distanz",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+        "plays": 1
+      },
+      {
+        "artist": "Phoenix",
+        "title": "Alpha Zulu",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster",
+        "title": "Sowieso",
         "plays": 1
       }
     ],
