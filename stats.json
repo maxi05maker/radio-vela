@@ -2,8 +2,8 @@
   "2026-09-23 07:00": {
     "period_start": "2026-09-23T07:00:00+02:00",
     "period_end": "2026-09-24T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "Jason Derulo Feat. 2 Chainz",
@@ -148,6 +148,51 @@
       {
         "artist": "Mark Forster",
         "title": "Sowieso",
+        "plays": 1
+      },
+      {
+        "artist": "Kitana",
+        "title": "Lorbeeren",
+        "plays": 1
+      },
+      {
+        "artist": "Damiano David, Tyla, Nile Rodgers",
+        "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
+        "plays": 1
+      },
+      {
+        "artist": "Drake",
+        "title": "God's Plan",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do",
+        "plays": 1
+      },
+      {
+        "artist": "Rosalía",
+        "title": "La Perla (with Yahritza y su Esencia)",
+        "plays": 1
+      },
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Confusion",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "2 hands",
+        "plays": 1
+      },
+      {
+        "artist": "Namika feat. Black M",
+        "title": "Je Ne Parle Pas Français (Beatgees Remix)",
         "plays": 1
       }
     ],
