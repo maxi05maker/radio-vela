@@ -2,12 +2,17 @@
   "2026-09-23 07:00": {
     "period_start": "2026-09-23T07:00:00+02:00",
     "period_end": "2026-09-24T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 48,
+    "total_entries": 60,
+    "music_entries": 58,
     "songs": [
       {
         "artist": "GloRilla",
         "title": "Tomorrow 2 feat. Cardi B",
+        "plays": 2
+      },
+      {
+        "artist": "Dermot Kennedy",
+        "title": "Power over Me",
         "plays": 2
       },
       {
@@ -126,11 +131,6 @@
         "plays": 1
       },
       {
-        "artist": "Dermot Kennedy",
-        "title": "Power over Me",
-        "plays": 1
-      },
-      {
         "artist": "Revolverheld feat. Antje Schomaker",
         "title": "Liebe auf Distanz",
         "plays": 1
@@ -238,6 +238,51 @@
       {
         "artist": "Sunrise Avenue",
         "title": "Fairytale Gone Bad",
+        "plays": 1
+      },
+      {
+        "artist": "Kwam.e & Ove",
+        "title": "Hallow Kitty",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "I'M HIS, HE'S MINE ft. Doechii",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna & Kanye West & Paul McCartney",
+        "title": "FourFiveSeconds",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & Faithless",
+        "title": "New Religion",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At The Disco",
+        "title": "Middle of a breakup",
+        "plays": 1
+      },
+      {
+        "artist": "SOEN",
+        "title": "Draconian",
+        "plays": 1
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "29",
         "plays": 1
       }
     ],
