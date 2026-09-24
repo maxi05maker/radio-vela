@@ -1,178 +1,38 @@
 {
-  "2026-09-23 07:00": {
-    "period_start": "2026-09-23T07:00:00+02:00",
-    "period_end": "2026-09-24T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 58,
+  "2026-09-24 07:00": {
+    "period_start": "2026-09-24T07:00:00+02:00",
+    "period_end": "2026-09-25T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "GloRilla",
-        "title": "Tomorrow 2 feat. Cardi B",
-        "plays": 2
-      },
-      {
-        "artist": "Dermot Kennedy",
-        "title": "Power over Me",
-        "plays": 2
-      },
-      {
-        "artist": "Jason Derulo Feat. 2 Chainz",
-        "title": "Talk Dirty",
+        "artist": "Drangsal",
+        "title": "Will ich nur dich",
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
+        "artist": "1986zig Feat. Greeen",
+        "title": "Eh Zu Kurz",
         "plays": 1
       },
       {
-        "artist": "Sugababes",
-        "title": "Shook",
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
         "plays": 1
       },
       {
-        "artist": "D4vd",
-        "title": "Here With Me",
+        "artist": "Rosenstolz",
+        "title": "Gib Mir Sonne",
         "plays": 1
       },
       {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
+        "artist": "The Marías",
+        "title": "Back To Me",
         "plays": 1
       },
       {
-        "artist": "Jj",
-        "title": "Wasted Love  2025",
-        "plays": 1
-      },
-      {
-        "artist": "Revolverheld",
-        "title": "Das Größte",
-        "plays": 1
-      },
-      {
-        "artist": "Fergie",
-        "title": "Big Girls Don't Cry",
-        "plays": 1
-      },
-      {
-        "artist": "FKA twigs",
-        "title": "Childlike Things",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Neuanfang",
-        "plays": 1
-      },
-      {
-        "artist": "TEMPERS",
-        "title": "Who Says",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith",
-        "title": "Diamonds",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "A Million Dreams",
-        "plays": 1
-      },
-      {
-        "artist": "The Chainsmokers & Kim Petras",
-        "title": "Don't Lie (HITtipp)",
-        "plays": 1
-      },
-      {
-        "artist": "Starley",
-        "title": "Call on Me",
-        "plays": 1
-      },
-      {
-        "artist": "Sunrise Avenue",
-        "title": "Hollywood Hills",
-        "plays": 1
-      },
-      {
-        "artist": "Aymo",
-        "title": "Ta3al sucken",
-        "plays": 1
-      },
-      {
-        "artist": "Marteria",
-        "title": "Lila Wolken",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
-        "plays": 1
-      },
-      {
-        "artist": "Mono Inc.",
-        "title": "Abendrot",
-        "plays": 1
-      },
-      {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Santa's Coming For Us",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta & Sia",
-        "title": "Beautiful People",
-        "plays": 1
-      },
-      {
-        "artist": "Revolverheld feat. Antje Schomaker",
-        "title": "Liebe auf Distanz",
-        "plays": 1
-      },
-      {
-        "artist": "Stromae",
-        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
-        "plays": 1
-      },
-      {
-        "artist": "Phoenix",
-        "title": "Alpha Zulu",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster",
-        "title": "Sowieso",
-        "plays": 1
-      },
-      {
-        "artist": "Kitana",
-        "title": "Lorbeeren",
-        "plays": 1
-      },
-      {
-        "artist": "Damiano David, Tyla, Nile Rodgers",
-        "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
-        "plays": 1
-      },
-      {
-        "artist": "Drake",
-        "title": "God's Plan",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Love Me Like You Do",
-        "plays": 1
-      },
-      {
-        "artist": "Rosalía",
-        "title": "La Perla (with Yahritza y su Esencia)",
+        "artist": "Rita Ora Feat. 6Lack",
+        "title": "Only Want You",
         "plays": 1
       },
       {
@@ -181,115 +41,25 @@
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
         "plays": 1
       },
       {
-        "artist": "Tate McRae",
-        "title": "2 hands",
+        "artist": "GloRilla",
+        "title": "Tomorrow 2 feat. Cardi B",
         "plays": 1
       },
       {
-        "artist": "Namika feat. Black M",
-        "title": "Je Ne Parle Pas Français (Beatgees Remix)",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Roundabouts",
-        "plays": 1
-      },
-      {
-        "artist": "Halsey",
-        "title": "I Never Loved You",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Shotgun",
-        "plays": 1
-      },
-      {
-        "artist": "Jennifer Lopez",
-        "title": "Ain't Your Mama",
-        "plays": 1
-      },
-      {
-        "artist": "HAIM",
-        "title": "Everybody's trying to figure me out",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Wenn du liebst [feat. Kat Frankie]",
-        "plays": 1
-      },
-      {
-        "artist": "Jamiroquai",
-        "title": "Summer Girl",
-        "plays": 1
-      },
-      {
-        "artist": "Zartmann",
-        "title": "Weißt du überhaupt noch wer ich bin?",
-        "plays": 1
-      },
-      {
-        "artist": "Sunrise Avenue",
-        "title": "Fairytale Gone Bad",
-        "plays": 1
-      },
-      {
-        "artist": "Kwam.e & Ove",
-        "title": "Hallow Kitty",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "I'M HIS, HE'S MINE ft. Doechii",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna & Kanye West & Paul McCartney",
-        "title": "FourFiveSeconds",
-        "plays": 1
-      },
-      {
-        "artist": "Zara Larsson",
-        "title": "Lush Life",
-        "plays": 1
-      },
-      {
-        "artist": "Bebe Rexha & Faithless",
-        "title": "New Religion",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "Panic! At The Disco",
-        "title": "Middle of a breakup",
-        "plays": 1
-      },
-      {
-        "artist": "SOEN",
-        "title": "Draconian",
-        "plays": 1
-      },
-      {
-        "artist": "Demi Lovato",
-        "title": "29",
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "GloRilla",
-      "title": "Tomorrow 2 feat. Cardi B",
-      "plays": 2
+      "artist": "Drangsal",
+      "title": "Will ich nur dich",
+      "plays": 1
     }
   }
 }
