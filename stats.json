@@ -2,8 +2,8 @@
   "2026-09-24 07:00": {
     "period_start": "2026-09-24T07:00:00+02:00",
     "period_end": "2026-09-25T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 20,
+    "total_entries": 30,
+    "music_entries": 30,
     "songs": [
       {
         "artist": "Drangsal",
@@ -103,6 +103,56 @@
       {
         "artist": "Kesha",
         "title": "DELUSIONAL (Main Version)",
+        "plays": 1
+      },
+      {
+        "artist": "3 Doors Down",
+        "title": "It's Not My Time",
+        "plays": 1
+      },
+      {
+        "artist": "Alma",
+        "title": "Dye My Hair",
+        "plays": 1
+      },
+      {
+        "artist": "BTS",
+        "title": "SWIM",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine/Sophie and the Giants",
+        "title": "In The Dark",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler & Topic",
+        "title": "Solo Para Ti",
+        "plays": 1
+      },
+      {
+        "artist": "Rico Nasty",
+        "title": "Cupcake",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Zu dir",
+        "plays": 1
+      },
+      {
+        "artist": "Sunrise Avenue",
+        "title": "I Help You Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Floodlights",
+        "title": "Can You Feel It",
+        "plays": 1
+      },
+      {
+        "artist": "Bastille",
+        "title": "Things We Lost In The Fire",
         "plays": 1
       }
     ],
