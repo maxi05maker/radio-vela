@@ -2,8 +2,8 @@
   "2026-09-24 07:00": {
     "period_start": "2026-09-24T07:00:00+02:00",
     "period_end": "2026-09-25T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Drangsal",
@@ -53,6 +53,56 @@
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood",
+        "title": "Secrets",
+        "plays": 1
+      },
+      {
+        "artist": "Arcade Fire",
+        "title": "Unconditional I",
+        "plays": 1
+      },
+      {
+        "artist": "Lil Tjay",
+        "title": "In My Head",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub, Domiziana",
+        "title": "Unsterblich sein ( ) feat. Domiziana",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Arcadia",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Fritz Kalkbrenner",
+        "title": "It Ain't Over",
+        "plays": 1
+      },
+      {
+        "artist": "Romano",
+        "title": "Klaps Auf Den Po",
+        "plays": 1
+      },
+      {
+        "artist": "Razorlight",
+        "title": "You Are Entering The Human Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Kesha",
+        "title": "DELUSIONAL (Main Version)",
         "plays": 1
       }
     ],
