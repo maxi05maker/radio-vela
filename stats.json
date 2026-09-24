@@ -2,9 +2,14 @@
   "2026-09-24 07:00": {
     "period_start": "2026-09-24T07:00:00+02:00",
     "period_end": "2026-09-25T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 30,
+    "total_entries": 40,
+    "music_entries": 39,
     "songs": [
+      {
+        "artist": "Romano",
+        "title": "Klaps Auf Den Po",
+        "plays": 2
+      },
       {
         "artist": "Drangsal",
         "title": "Will ich nur dich",
@@ -91,11 +96,6 @@
         "plays": 1
       },
       {
-        "artist": "Romano",
-        "title": "Klaps Auf Den Po",
-        "plays": 1
-      },
-      {
         "artist": "Razorlight",
         "title": "You Are Entering The Human Heart",
         "plays": 1
@@ -154,12 +154,52 @@
         "artist": "Bastille",
         "title": "Things We Lost In The Fire",
         "plays": 1
+      },
+      {
+        "artist": "Lune",
+        "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Mine",
+        "title": "Eiscreme",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Doechii",
+        "title": "Bitch I'm Nice",
+        "plays": 1
+      },
+      {
+        "artist": "Paramore",
+        "title": "Hard Times",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Scars To Your Beautiful",
+        "plays": 1
+      },
+      {
+        "artist": "No Angels",
+        "title": "When the Angels Sing",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Drangsal",
-      "title": "Will ich nur dich",
-      "plays": 1
+      "artist": "Romano",
+      "title": "Klaps Auf Den Po",
+      "plays": 2
     }
   }
 }
