@@ -2,12 +2,22 @@
   "2026-09-24 07:00": {
     "period_start": "2026-09-24T07:00:00+02:00",
     "period_end": "2026-09-25T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 48,
+    "total_entries": 60,
+    "music_entries": 57,
     "songs": [
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Confusion",
+        "plays": 2
+      },
       {
         "artist": "Romano",
         "title": "Klaps Auf Den Po",
+        "plays": 2
+      },
+      {
+        "artist": "3 Doors Down",
+        "title": "It's Not My Time",
         "plays": 2
       },
       {
@@ -38,11 +48,6 @@
       {
         "artist": "Rita Ora Feat. 6Lack",
         "title": "Only Want You",
-        "plays": 1
-      },
-      {
-        "artist": "Electric Light Orchestra",
-        "title": "Confusion",
         "plays": 1
       },
       {
@@ -103,11 +108,6 @@
       {
         "artist": "Kesha",
         "title": "DELUSIONAL (Main Version)",
-        "plays": 1
-      },
-      {
-        "artist": "3 Doors Down",
-        "title": "It's Not My Time",
         "plays": 1
       },
       {
@@ -239,11 +239,46 @@
         "artist": "P!nk",
         "title": "A Million Dreams",
         "plays": 1
+      },
+      {
+        "artist": "Alesso & Katy Perry",
+        "title": "When I'm Gone",
+        "plays": 1
+      },
+      {
+        "artist": "Die Nerven",
+        "title": "BIS ANS MEER",
+        "plays": 1
+      },
+      {
+        "artist": "Will.I.Am ft Britney Spears",
+        "title": "Scream And Shout",
+        "plays": 1
+      },
+      {
+        "artist": "Mia Morgan",
+        "title": "Schönere Frauen",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "SMOKE THE PAIN AWAY",
+        "plays": 1
+      },
+      {
+        "artist": "YellowStraps",
+        "title": "Flowin feat. Sam Wise",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Romano",
-      "title": "Klaps Auf Den Po",
+      "artist": "Electric Light Orchestra",
+      "title": "Confusion",
       "plays": 2
     }
   }
