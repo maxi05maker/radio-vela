@@ -2,8 +2,8 @@
   "2026-09-25 07:00": {
     "period_start": "2026-09-25T07:00:00+02:00",
     "period_end": "2026-09-26T07:00:00+02:00",
-    "total_entries": 37,
-    "music_entries": 33,
+    "total_entries": 47,
+    "music_entries": 43,
     "songs": [
       {
         "artist": "BIA",
@@ -163,6 +163,56 @@
       {
         "artist": "Sunrise Avenue",
         "title": "Fairytale Gone Bad",
+        "plays": 1
+      },
+      {
+        "artist": "Kaleo",
+        "title": "Way Down We Go",
+        "plays": 1
+      },
+      {
+        "artist": "Lil Tecca",
+        "title": "Owa Owa",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "LAYLA",
+        "title": "Poster Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Jill Scott",
+        "title": "BPOTY (feat. Too $hort)",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Amyl and The Sniffers",
+        "title": "Big Dreams",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Whatever It Takes",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Facetime Luv",
         "plays": 1
       }
     ],
