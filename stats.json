@@ -2,8 +2,8 @@
   "2026-09-25 07:00": {
     "period_start": "2026-09-25T07:00:00+02:00",
     "period_end": "2026-09-26T07:00:00+02:00",
-    "total_entries": 17,
-    "music_entries": 15,
+    "total_entries": 27,
+    "music_entries": 24,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -78,6 +78,51 @@
       {
         "artist": "Charli xcx feat. Billie Eilish",
         "title": "Guess",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Line",
+        "plays": 1
+      },
+      {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
+        "plays": 1
+      },
+      {
+        "artist": "Arcade Fire",
+        "title": "Unconditional I",
+        "plays": 1
+      },
+      {
+        "artist": "Fynn Kliemann",
+        "title": "TOD",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "Supermodel",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 1
+      },
+      {
+        "artist": "Sophia Kennedy",
+        "title": "Rodeo",
+        "plays": 1
+      },
+      {
+        "artist": "BIA",
+        "title": "Millions",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 1
       }
     ],
