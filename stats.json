@@ -2,8 +2,8 @@
   "2026-09-25 07:00": {
     "period_start": "2026-09-25T07:00:00+02:00",
     "period_end": "2026-09-26T07:00:00+02:00",
-    "total_entries": 7,
-    "music_entries": 6,
+    "total_entries": 17,
+    "music_entries": 15,
     "songs": [
       {
         "artist": "Harry Styles",
@@ -33,6 +33,51 @@
       {
         "artist": "Muse",
         "title": "You Make Me Feel Like It’s Halloween",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Sign of the Times",
+        "plays": 1
+      },
+      {
+        "artist": "Biffy Clyro",
+        "title": "True Believer",
+        "plays": 1
+      },
+      {
+        "artist": "Juju feat. Henning May",
+        "title": "Vermissen",
+        "plays": 1
+      },
+      {
+        "artist": "Train",
+        "title": "Drive By",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "More to Lose",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
+        "plays": 1
+      },
+      {
+        "artist": "James Newton Howard feat. Jennifer Lawrence",
+        "title": "The Hanging Tree",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx feat. Billie Eilish",
+        "title": "Guess",
         "plays": 1
       }
     ],
