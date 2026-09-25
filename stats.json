@@ -1,285 +1,45 @@
 {
-  "2026-09-24 07:00": {
-    "period_start": "2026-09-24T07:00:00+02:00",
-    "period_end": "2026-09-25T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 57,
+  "2026-09-25 07:00": {
+    "period_start": "2026-09-25T07:00:00+02:00",
+    "period_end": "2026-09-26T07:00:00+02:00",
+    "total_entries": 7,
+    "music_entries": 6,
     "songs": [
       {
-        "artist": "Electric Light Orchestra",
-        "title": "Confusion",
-        "plays": 2
-      },
-      {
-        "artist": "Romano",
-        "title": "Klaps Auf Den Po",
-        "plays": 2
-      },
-      {
-        "artist": "3 Doors Down",
-        "title": "It's Not My Time",
-        "plays": 2
-      },
-      {
-        "artist": "Drangsal",
-        "title": "Will ich nur dich",
+        "artist": "Harry Styles",
+        "title": "Aperture",
         "plays": 1
       },
       {
-        "artist": "1986zig Feat. Greeen",
-        "title": "Eh Zu Kurz",
+        "artist": "Jax Jones Feat. MNEK",
+        "title": "Where Did You Go?",
         "plays": 1
       },
       {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
+        "artist": "Foals",
+        "title": "2001",
         "plays": 1
       },
       {
-        "artist": "Rosenstolz",
-        "title": "Gib Mir Sonne",
+        "artist": "Joe Bonamassa",
+        "title": "Tattoo'd Lady",
         "plays": 1
       },
       {
-        "artist": "The Marías",
-        "title": "Back To Me",
+        "artist": "The Ronettes",
+        "title": "Be My Baby",
         "plays": 1
       },
       {
-        "artist": "Rita Ora Feat. 6Lack",
-        "title": "Only Want You",
-        "plays": 1
-      },
-      {
-        "artist": "Alex Warren",
-        "title": "FEVER DREAM",
-        "plays": 1
-      },
-      {
-        "artist": "GloRilla",
-        "title": "Tomorrow 2 feat. Cardi B",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus feat. Lindsey Buckingham & Mick Fleetwood",
-        "title": "Secrets",
-        "plays": 1
-      },
-      {
-        "artist": "Arcade Fire",
-        "title": "Unconditional I",
-        "plays": 1
-      },
-      {
-        "artist": "Lil Tjay",
-        "title": "In My Head",
-        "plays": 1
-      },
-      {
-        "artist": "Kraftklub, Domiziana",
-        "title": "Unsterblich sein ( ) feat. Domiziana",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Arcadia",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Fritz Kalkbrenner",
-        "title": "It Ain't Over",
-        "plays": 1
-      },
-      {
-        "artist": "Razorlight",
-        "title": "You Are Entering The Human Heart",
-        "plays": 1
-      },
-      {
-        "artist": "Kesha",
-        "title": "DELUSIONAL (Main Version)",
-        "plays": 1
-      },
-      {
-        "artist": "Alma",
-        "title": "Dye My Hair",
-        "plays": 1
-      },
-      {
-        "artist": "BTS",
-        "title": "SWIM",
-        "plays": 1
-      },
-      {
-        "artist": "Purple Disco Machine/Sophie and the Giants",
-        "title": "In The Dark",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler & Topic",
-        "title": "Solo Para Ti",
-        "plays": 1
-      },
-      {
-        "artist": "Rico Nasty",
-        "title": "Cupcake",
-        "plays": 1
-      },
-      {
-        "artist": "LEA",
-        "title": "Zu dir",
-        "plays": 1
-      },
-      {
-        "artist": "Sunrise Avenue",
-        "title": "I Help You Hate Me",
-        "plays": 1
-      },
-      {
-        "artist": "Floodlights",
-        "title": "Can You Feel It",
-        "plays": 1
-      },
-      {
-        "artist": "Bastille",
-        "title": "Things We Lost In The Fire",
-        "plays": 1
-      },
-      {
-        "artist": "Lune",
-        "title": "Mann im Haus",
-        "plays": 1
-      },
-      {
-        "artist": "Mine",
-        "title": "Eiscreme",
-        "plays": 1
-      },
-      {
-        "artist": "Joris",
-        "title": "Zu Viel Retro",
-        "plays": 1
-      },
-      {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 1
-      },
-      {
-        "artist": "Doechii",
-        "title": "Bitch I'm Nice",
-        "plays": 1
-      },
-      {
-        "artist": "Paramore",
-        "title": "Hard Times",
-        "plays": 1
-      },
-      {
-        "artist": "Alessia Cara",
-        "title": "Scars To Your Beautiful",
-        "plays": 1
-      },
-      {
-        "artist": "No Angels",
-        "title": "When the Angels Sing",
-        "plays": 1
-      },
-      {
-        "artist": "OG Keemo",
-        "title": "Blind [Explicit]",
-        "plays": 1
-      },
-      {
-        "artist": "Swedish House Mafia & The Weeknd",
-        "title": "Moth To A Flame",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Neuanfang",
-        "plays": 1
-      },
-      {
-        "artist": "Halsey",
-        "title": "Lucky",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Simon & Garfunkel",
-        "title": "Cecilia",
-        "plays": 1
-      },
-      {
-        "artist": "Djo",
-        "title": "Basic Being Basic",
-        "plays": 1
-      },
-      {
-        "artist": "Jason Derulo Feat. 2 Chainz",
-        "title": "Talk Dirty",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "A Million Dreams",
-        "plays": 1
-      },
-      {
-        "artist": "Alesso & Katy Perry",
-        "title": "When I'm Gone",
-        "plays": 1
-      },
-      {
-        "artist": "Die Nerven",
-        "title": "BIS ANS MEER",
-        "plays": 1
-      },
-      {
-        "artist": "Will.I.Am ft Britney Spears",
-        "title": "Scream And Shout",
-        "plays": 1
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Schönere Frauen",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris",
-        "title": "SMOKE THE PAIN AWAY",
-        "plays": 1
-      },
-      {
-        "artist": "YellowStraps",
-        "title": "Flowin feat. Sam Wise",
-        "plays": 1
-      },
-      {
-        "artist": "Alessia Cara",
-        "title": "Slow Motion",
+        "artist": "Muse",
+        "title": "You Make Me Feel Like It’s Halloween",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Electric Light Orchestra",
-      "title": "Confusion",
-      "plays": 2
+      "artist": "Harry Styles",
+      "title": "Aperture",
+      "plays": 1
     }
   }
 }

@@ -3916,5 +3916,47 @@
     "played_at": "2026-09-25 02:45:14 +0200",
     "title": "Slow Motion",
     "artist": "Alessia Cara"
+  },
+  {
+    "key": "2026-09-25 07:03:04 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-25 07:03:04 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-25 07:05:57 +0200|Aperture|Harry Styles",
+    "played_at": "2026-09-25 07:05:57 +0200",
+    "title": "Aperture",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-09-25 07:11:11 +0200|Where Did You Go?|Jax Jones Feat. MNEK",
+    "played_at": "2026-09-25 07:11:11 +0200",
+    "title": "Where Did You Go?",
+    "artist": "Jax Jones Feat. MNEK"
+  },
+  {
+    "key": "2026-09-25 07:14:09 +0200|2001|Foals",
+    "played_at": "2026-09-25 07:14:09 +0200",
+    "title": "2001",
+    "artist": "Foals"
+  },
+  {
+    "key": "2026-09-25 07:18:36 +0200|Tattoo'd Lady|Joe Bonamassa",
+    "played_at": "2026-09-25 07:18:36 +0200",
+    "title": "Tattoo'd Lady",
+    "artist": "Joe Bonamassa"
+  },
+  {
+    "key": "2026-09-25 07:24:07 +0200|Be My Baby|The Ronettes",
+    "played_at": "2026-09-25 07:24:07 +0200",
+    "title": "Be My Baby",
+    "artist": "The Ronettes"
+  },
+  {
+    "key": "2026-09-25 07:26:47 +0200|You Make Me Feel Like It’s Halloween|Muse",
+    "played_at": "2026-09-25 07:26:47 +0200",
+    "title": "You Make Me Feel Like It’s Halloween",
+    "artist": "Muse"
   }
 ]
