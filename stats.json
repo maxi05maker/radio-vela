@@ -2,8 +2,8 @@
   "2026-09-26 07:00": {
     "period_start": "2026-09-26T07:00:00+02:00",
     "period_end": "2026-09-27T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 46,
+    "total_entries": 60,
+    "music_entries": 56,
     "songs": [
       {
         "artist": "Adam Lambert",
@@ -218,6 +218,56 @@
       {
         "artist": "Katy Perry",
         "title": "Bandaids",
+        "plays": 1
+      },
+      {
+        "artist": "ZAH1DE",
+        "title": "Labubu Freestyle",
+        "plays": 1
+      },
+      {
+        "artist": "Drangsal",
+        "title": "Will ich nur dich",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kreise",
+        "plays": 1
+      },
+      {
+        "artist": "James Blake",
+        "title": "Like The End",
+        "plays": 1
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "Lips Are Movin",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "don't lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
+        "plays": 1
+      },
+      {
+        "artist": "Mother Mother",
+        "title": "Hayloft II",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Regalo",
         "plays": 1
       }
     ],
