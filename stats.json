@@ -2,9 +2,14 @@
   "2026-09-25 07:00": {
     "period_start": "2026-09-25T07:00:00+02:00",
     "period_end": "2026-09-26T07:00:00+02:00",
-    "total_entries": 47,
-    "music_entries": 43,
+    "total_entries": 57,
+    "music_entries": 52,
     "songs": [
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 2
+      },
       {
         "artist": "BIA",
         "title": "Millions",
@@ -38,11 +43,6 @@
       {
         "artist": "Muse",
         "title": "You Make Me Feel Like It’s Halloween",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
         "plays": 1
       },
       {
@@ -214,11 +214,51 @@
         "artist": "Cro",
         "title": "Facetime Luv",
         "plays": 1
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Morgen",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
+        "plays": 1
+      },
+      {
+        "artist": "Alanis Morissette",
+        "title": "You Oughta Know",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Tanzen",
+        "plays": 1
+      },
+      {
+        "artist": "Take That",
+        "title": "Sweet July",
+        "plays": 1
+      },
+      {
+        "artist": "Milky Chance",
+        "title": "Synchronize",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "BIA",
-      "title": "Millions",
+      "artist": "Roy Bianco & Die Abbrunzati Boys",
+      "title": "Bella Napoli",
       "plays": 2
     }
   }
