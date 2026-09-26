@@ -2,13 +2,23 @@
   "2026-09-26 07:00": {
     "period_start": "2026-09-26T07:00:00+02:00",
     "period_end": "2026-09-27T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Adam Lambert",
         "title": "Whataya Want From Me",
-        "plays": 1
+        "plays": 2
+      },
+      {
+        "artist": "The Killers",
+        "title": "Human",
+        "plays": 2
+      },
+      {
+        "artist": "Rosenstolz",
+        "title": "Gib Mir Sonne",
+        "plays": 2
       },
       {
         "artist": "Jonathan Jeremiah",
@@ -21,18 +31,8 @@
         "plays": 1
       },
       {
-        "artist": "The Killers",
-        "title": "Human",
-        "plays": 1
-      },
-      {
         "artist": "Clueso",
         "title": "Deja-Vu",
-        "plays": 1
-      },
-      {
-        "artist": "Rosenstolz",
-        "title": "Gib Mir Sonne",
         "plays": 1
       },
       {
@@ -99,12 +99,42 @@
         "artist": "Waving The Guns",
         "title": "Schürhaken",
         "plays": 1
+      },
+      {
+        "artist": "Milow",
+        "title": "Howling At The Moon",
+        "plays": 1
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Morgen",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Ziggy in tha House",
+        "title": "It's Raining",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Mehr Glück als Verstand",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Adam Lambert",
       "title": "Whataya Want From Me",
-      "plays": 1
+      "plays": 2
     }
   }
 }
