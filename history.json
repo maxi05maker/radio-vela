@@ -4438,5 +4438,65 @@
     "played_at": "2026-09-26 16:24:54 +0200",
     "title": "Human",
     "artist": "The Killers"
+  },
+  {
+    "key": "2026-09-26 19:23:48 +0200|Hold Me Closer|Elton John, Britney Spears",
+    "played_at": "2026-09-26 19:23:48 +0200",
+    "title": "Hold Me Closer",
+    "artist": "Elton John, Britney Spears"
+  },
+  {
+    "key": "2026-09-26 19:27:10 +0200|Immer wenn wir uns sehn|LEA",
+    "played_at": "2026-09-26 19:27:10 +0200",
+    "title": "Immer wenn wir uns sehn",
+    "artist": "LEA"
+  },
+  {
+    "key": "2026-09-26 19:30:12 +0200|Hurricane Heart|The Mary Onettes",
+    "played_at": "2026-09-26 19:30:12 +0200",
+    "title": "Hurricane Heart",
+    "artist": "The Mary Onettes"
+  },
+  {
+    "key": "2026-09-26 19:33:17 +0200|Where Did You Go?|Jax Jones Feat. MNEK",
+    "played_at": "2026-09-26 19:33:17 +0200",
+    "title": "Where Did You Go?",
+    "artist": "Jax Jones Feat. MNEK"
+  },
+  {
+    "key": "2026-09-26 19:36:15 +0200|Das Größte|Revolverheld",
+    "played_at": "2026-09-26 19:36:15 +0200",
+    "title": "Das Größte",
+    "artist": "Revolverheld"
+  },
+  {
+    "key": "2026-09-26 19:39:31 +0200|Snooze (From Chess Club)|Wynne",
+    "played_at": "2026-09-26 19:39:31 +0200",
+    "title": "Snooze (From Chess Club)",
+    "artist": "Wynne"
+  },
+  {
+    "key": "2026-09-26 19:41:35 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-26 19:41:35 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-26 19:45:09 +0200|Bungalow|Bilderbuch",
+    "played_at": "2026-09-26 19:45:09 +0200",
+    "title": "Bungalow",
+    "artist": "Bilderbuch"
+  },
+  {
+    "key": "2026-09-26 19:48:55 +0200|Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version|Tobee",
+    "played_at": "2026-09-26 19:48:55 +0200",
+    "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+    "artist": "Tobee"
+  },
+  {
+    "key": "2026-09-26 19:52:09 +0200|Whatever It Takes|Imagine Dragons",
+    "played_at": "2026-09-26 19:52:09 +0200",
+    "title": "Whatever It Takes",
+    "artist": "Imagine Dragons"
   }
 ]
