@@ -2,8 +2,8 @@
   "2026-09-26 07:00": {
     "period_start": "2026-09-26T07:00:00+02:00",
     "period_end": "2026-09-27T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 38,
+    "total_entries": 50,
+    "music_entries": 46,
     "songs": [
       {
         "artist": "Adam Lambert",
@@ -178,6 +178,46 @@
       {
         "artist": "Imagine Dragons",
         "title": "Whatever It Takes",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Lonely is the Muse",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
+        "plays": 1
+      },
+      {
+        "artist": "Floodlights",
+        "title": "Can You Feel It",
+        "plays": 1
+      },
+      {
+        "artist": "Luciano (D)",
+        "title": "We Too Deep",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "Kaleo",
+        "title": "Way Down We Go",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Bandaids",
         "plays": 1
       }
     ],
