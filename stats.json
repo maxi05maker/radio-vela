@@ -2,8 +2,8 @@
   "2026-09-26 07:00": {
     "period_start": "2026-09-26T07:00:00+02:00",
     "period_end": "2026-09-27T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Adam Lambert",
@@ -48,6 +48,56 @@
       {
         "artist": "Nina Chuba",
         "title": "Wildberry Lillet",
+        "plays": 1
+      },
+      {
+        "artist": "Kungs",
+        "title": "Clap Your Hands",
+        "plays": 1
+      },
+      {
+        "artist": "Zach Bryan",
+        "title": "Pink Skies",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Tanzen",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Skyfall",
+        "plays": 1
+      },
+      {
+        "artist": "Mono Inc.",
+        "title": "Abendrot",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Evanescence",
+        "title": "Fight Like A Girl (feat. K.Flay)",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Anyone For You",
+        "plays": 1
+      },
+      {
+        "artist": "Waving The Guns",
+        "title": "Schürhaken",
         "plays": 1
       }
     ],
