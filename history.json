@@ -4678,5 +4678,65 @@
     "played_at": "2026-09-27 02:57:36 +0200",
     "title": "Forgot How To Love",
     "artist": "Alle Farben"
+  },
+  {
+    "key": "2026-09-27 07:42:04 +0200|Will ich nur dich|Drangsal",
+    "played_at": "2026-09-27 07:42:04 +0200",
+    "title": "Will ich nur dich",
+    "artist": "Drangsal"
+  },
+  {
+    "key": "2026-09-27 07:44:36 +0200|Looking For Love|Lena",
+    "played_at": "2026-09-27 07:44:36 +0200",
+    "title": "Looking For Love",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-09-27 07:47:15 +0200|Marlboro Mann|Kraftklub",
+    "played_at": "2026-09-27 07:47:15 +0200",
+    "title": "Marlboro Mann",
+    "artist": "Kraftklub"
+  },
+  {
+    "key": "2026-09-27 07:50:11 +0200|Human Being|Nico Santos",
+    "played_at": "2026-09-27 07:50:11 +0200",
+    "title": "Human Being",
+    "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-09-27 07:53:06 +0200|Hayloft II|Mother Mother",
+    "played_at": "2026-09-27 07:53:06 +0200",
+    "title": "Hayloft II",
+    "artist": "Mother Mother"
+  },
+  {
+    "key": "2026-09-27 07:57:01 +0200|Weißt du überhaupt noch wer ich bin?|Zartmann",
+    "played_at": "2026-09-27 07:57:01 +0200",
+    "title": "Weißt du überhaupt noch wer ich bin?",
+    "artist": "Zartmann"
+  },
+  {
+    "key": "2026-09-27 07:59:10 +0200|Vermissen|Juju feat. Henning May",
+    "played_at": "2026-09-27 07:59:10 +0200",
+    "title": "Vermissen",
+    "artist": "Juju feat. Henning May"
+  },
+  {
+    "key": "2026-09-27 08:01:51 +0200|Your Song|Rita Ora",
+    "played_at": "2026-09-27 08:01:51 +0200",
+    "title": "Your Song",
+    "artist": "Rita Ora"
+  },
+  {
+    "key": "2026-09-27 08:04:52 +0200|Danceteria|Madonna",
+    "played_at": "2026-09-27 08:04:52 +0200",
+    "title": "Danceteria",
+    "artist": "Madonna"
+  },
+  {
+    "key": "2026-09-27 08:08:48 +0200|Astronaut|Sido Feat. Andreas Bourani",
+    "played_at": "2026-09-27 08:08:48 +0200",
+    "title": "Astronaut",
+    "artist": "Sido Feat. Andreas Bourani"
   }
 ]
