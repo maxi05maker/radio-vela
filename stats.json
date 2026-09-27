@@ -2,8 +2,8 @@
   "2026-09-27 07:00": {
     "period_start": "2026-09-27T07:00:00+02:00",
     "period_end": "2026-09-28T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 39,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "Nico Santos",
@@ -178,6 +178,46 @@
       {
         "artist": "Zara Larsson",
         "title": "Lush Life",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "she's all i wanna be",
+        "plays": 1
+      },
+      {
+        "artist": "Schnuffel",
+        "title": "Kuschel Song",
+        "plays": 1
+      },
+      {
+        "artist": "Damiano David",
+        "title": "Voices",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Leichtes Gepäck",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Rico Nasty",
+        "title": "Vaderz feat. Bktherula",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
+        "plays": 1
+      },
+      {
+        "artist": "Evanescence",
+        "title": "Fight Like A Girl (feat. K.Flay)",
         "plays": 1
       }
     ],
