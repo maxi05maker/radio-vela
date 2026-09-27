@@ -4738,5 +4738,65 @@
     "played_at": "2026-09-27 08:08:48 +0200",
     "title": "Astronaut",
     "artist": "Sido Feat. Andreas Bourani"
+  },
+  {
+    "key": "2026-09-27 13:25:16 +0200|Solo Para Ti|Alvaro Soler & Topic",
+    "played_at": "2026-09-27 13:25:16 +0200",
+    "title": "Solo Para Ti",
+    "artist": "Alvaro Soler & Topic"
+  },
+  {
+    "key": "2026-09-27 13:28:34 +0200|Ein Herz kann man nicht reparieren|Alli Neumann",
+    "played_at": "2026-09-27 13:28:34 +0200",
+    "title": "Ein Herz kann man nicht reparieren",
+    "artist": "Alli Neumann"
+  },
+  {
+    "key": "2026-09-27 13:31:53 +0200|Moves Like Jagger|Maroon 5 Feat. Christina Aguilera",
+    "played_at": "2026-09-27 13:31:53 +0200",
+    "title": "Moves Like Jagger",
+    "artist": "Maroon 5 Feat. Christina Aguilera"
+  },
+  {
+    "key": "2026-09-27 13:35:15 +0200|Die schönsten Tage|SDP & Clueso",
+    "played_at": "2026-09-27 13:35:15 +0200",
+    "title": "Die schönsten Tage",
+    "artist": "SDP & Clueso"
+  },
+  {
+    "key": "2026-09-27 13:38:32 +0200|20 Karat|PLH",
+    "played_at": "2026-09-27 13:38:32 +0200",
+    "title": "20 Karat",
+    "artist": "PLH"
+  },
+  {
+    "key": "2026-09-27 13:41:46 +0200|Cecilia|Simon & Garfunkel",
+    "played_at": "2026-09-27 13:41:46 +0200",
+    "title": "Cecilia",
+    "artist": "Simon & Garfunkel"
+  },
+  {
+    "key": "2026-09-27 13:44:41 +0200|Rag Doll|Aerosmith",
+    "played_at": "2026-09-27 13:44:41 +0200",
+    "title": "Rag Doll",
+    "artist": "Aerosmith"
+  },
+  {
+    "key": "2026-09-27 13:49:07 +0200|Homewrecker|sombr",
+    "played_at": "2026-09-27 13:49:07 +0200",
+    "title": "Homewrecker",
+    "artist": "sombr"
+  },
+  {
+    "key": "2026-09-27 13:52:36 +0200|Unstoppable|Sofia Portanet",
+    "played_at": "2026-09-27 13:52:36 +0200",
+    "title": "Unstoppable",
+    "artist": "Sofia Portanet"
+  },
+  {
+    "key": "2026-09-27 13:55:48 +0200|Closer|The Chainsmokers feat. Halsey",
+    "played_at": "2026-09-27 13:55:48 +0200",
+    "title": "Closer",
+    "artist": "The Chainsmokers feat. Halsey"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-09-27 07:00": {
     "period_start": "2026-09-27T07:00:00+02:00",
     "period_end": "2026-09-28T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Drangsal",
@@ -53,6 +53,56 @@
       {
         "artist": "Sido Feat. Andreas Bourani",
         "title": "Astronaut",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler & Topic",
+        "title": "Solo Para Ti",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Ein Herz kann man nicht reparieren",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5 Feat. Christina Aguilera",
+        "title": "Moves Like Jagger",
+        "plays": 1
+      },
+      {
+        "artist": "SDP & Clueso",
+        "title": "Die schönsten Tage",
+        "plays": 1
+      },
+      {
+        "artist": "PLH",
+        "title": "20 Karat",
+        "plays": 1
+      },
+      {
+        "artist": "Simon & Garfunkel",
+        "title": "Cecilia",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith",
+        "title": "Rag Doll",
+        "plays": 1
+      },
+      {
+        "artist": "sombr",
+        "title": "Homewrecker",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers feat. Halsey",
+        "title": "Closer",
         "plays": 1
       }
     ],
