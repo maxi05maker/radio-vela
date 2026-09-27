@@ -2,9 +2,29 @@
   "2026-09-27 07:00": {
     "period_start": "2026-09-27T07:00:00+02:00",
     "period_end": "2026-09-28T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 39,
     "songs": [
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 2
+      },
+      {
+        "artist": "Maroon 5 Feat. Christina Aguilera",
+        "title": "Moves Like Jagger",
+        "plays": 2
+      },
+      {
+        "artist": "SDP & Clueso",
+        "title": "Die schönsten Tage",
+        "plays": 2
+      },
+      {
+        "artist": "Aerosmith",
+        "title": "Rag Doll",
+        "plays": 2
+      },
       {
         "artist": "Drangsal",
         "title": "Will ich nur dich",
@@ -18,11 +38,6 @@
       {
         "artist": "Kraftklub",
         "title": "Marlboro Mann",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Human Being",
         "plays": 1
       },
       {
@@ -66,16 +81,6 @@
         "plays": 1
       },
       {
-        "artist": "Maroon 5 Feat. Christina Aguilera",
-        "title": "Moves Like Jagger",
-        "plays": 1
-      },
-      {
-        "artist": "SDP & Clueso",
-        "title": "Die schönsten Tage",
-        "plays": 1
-      },
-      {
         "artist": "PLH",
         "title": "20 Karat",
         "plays": 1
@@ -83,11 +88,6 @@
       {
         "artist": "Simon & Garfunkel",
         "title": "Cecilia",
-        "plays": 1
-      },
-      {
-        "artist": "Aerosmith",
-        "title": "Rag Doll",
         "plays": 1
       },
       {
@@ -149,12 +149,42 @@
         "artist": "OneRepublic",
         "title": "I Ain’t Worried",
         "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "American Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "Joel Corry & Tom Grennan",
+        "title": "Lionheart (Fearless)",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Jake Shears",
+        "title": "Fire + Ice (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Mehr Glück als Verstand",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Drangsal",
-      "title": "Will ich nur dich",
-      "plays": 1
+      "artist": "Nico Santos",
+      "title": "Human Being",
+      "plays": 2
     }
   }
 }
