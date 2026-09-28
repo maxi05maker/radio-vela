@@ -2,8 +2,8 @@
   "2026-09-28 07:00": {
     "period_start": "2026-09-28T07:00:00+02:00",
     "period_end": "2026-09-29T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Jj",
@@ -53,6 +53,51 @@
       {
         "artist": "Rihanna",
         "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "ELIF",
+        "title": "WENN ICH STERBE",
+        "plays": 1
+      },
+      {
+        "artist": "t-low",
+        "title": "We Made It (feat. Miksu / Macloud)",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "SDP & Montez",
+        "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Easy On Me",
+        "plays": 1
+      },
+      {
+        "artist": "Jorja Smith",
+        "title": "The Way I Love You",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Cooper",
+        "title": "Detroit City 2021",
+        "plays": 1
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Troubles A’ Comin",
         "plays": 1
       }
     ],
