@@ -2,13 +2,13 @@
   "2026-09-27 07:00": {
     "period_start": "2026-09-27T07:00:00+02:00",
     "period_end": "2026-09-28T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 47,
+    "total_entries": 60,
+    "music_entries": 57,
     "songs": [
       {
         "artist": "Nico Santos",
         "title": "Human Being",
-        "plays": 2
+        "plays": 3
       },
       {
         "artist": "Maroon 5 Feat. Christina Aguilera",
@@ -23,6 +23,16 @@
       {
         "artist": "Aerosmith",
         "title": "Rag Doll",
+        "plays": 2
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Lieder",
+        "plays": 2
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 2
       },
       {
@@ -121,11 +131,6 @@
         "plays": 1
       },
       {
-        "artist": "Adel Tawil",
-        "title": "Lieder",
-        "plays": 1
-      },
-      {
         "artist": "JJerome87",
         "title": "Mr. Alligator",
         "plays": 1
@@ -143,11 +148,6 @@
       {
         "artist": "CHAPO102 x GUSTAV",
         "title": "WARSCHAU",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
@@ -219,12 +219,47 @@
         "artist": "Evanescence",
         "title": "Fight Like A Girl (feat. K.Flay)",
         "plays": 1
+      },
+      {
+        "artist": "THE BLACK CROWES",
+        "title": "Pharmacy Chronicles",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Illegal",
+        "plays": 1
+      },
+      {
+        "artist": "Rise Against",
+        "title": "Help is On the Way",
+        "plays": 1
+      },
+      {
+        "artist": "Emiliana Torrini",
+        "title": "Jungle Drum",
+        "plays": 1
+      },
+      {
+        "artist": "Esther Graf",
+        "title": "Dafuer War Es Echt",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Shotgun",
+        "plays": 1
+      },
+      {
+        "artist": "Paula Stellar",
+        "title": "Pretty Pretty Lies",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Nico Santos",
       "title": "Human Being",
-      "plays": 2
+      "plays": 3
     }
   }
 }
