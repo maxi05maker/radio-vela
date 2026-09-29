@@ -2,8 +2,8 @@
   "2026-09-29 07:00": {
     "period_start": "2026-09-29T07:00:00+02:00",
     "period_end": "2026-09-30T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 27,
+    "total_entries": 40,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "The Lathums",
@@ -133,6 +133,51 @@
       {
         "artist": "ABBA",
         "title": "Little Things",
+        "plays": 1
+      },
+      {
+        "artist": "Jessie Ware",
+        "title": "Superbloom",
+        "plays": 1
+      },
+      {
+        "artist": "Tiësto, Charli XCX",
+        "title": "Hot In It",
+        "plays": 1
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "29",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Der Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
+        "plays": 1
+      },
+      {
+        "artist": "Linkin Park",
+        "title": "The Emptiness Machine",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "High (feat. Claudia Valentina)",
+        "plays": 1
+      },
+      {
+        "artist": "Sophie & The Giants",
+        "title": "Golden Nights",
         "plays": 1
       }
     ],
