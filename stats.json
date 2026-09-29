@@ -1,194 +1,64 @@
 {
-  "2026-09-28 07:00": {
-    "period_start": "2026-09-28T07:00:00+02:00",
-    "period_end": "2026-09-29T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 36,
+  "2026-09-29 07:00": {
+    "period_start": "2026-09-29T07:00:00+02:00",
+    "period_end": "2026-09-30T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Jj",
-        "title": "Wasted Love  2025",
+        "artist": "Harry Styles",
+        "title": "American Girls",
         "plays": 1
       },
       {
-        "artist": "We Are Scientists",
-        "title": "Less from You",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Forget me",
-        "plays": 1
-      },
-      {
-        "artist": "Madonna & Sabrina Carpenter",
-        "title": "Bring Your Love",
-        "plays": 1
-      },
-      {
-        "artist": "Jonas Brothers",
-        "title": "What a Man Gotta Do",
-        "plays": 1
-      },
-      {
-        "artist": "Sleater-Kinney",
-        "title": "Worry With You",
-        "plays": 1
-      },
-      {
-        "artist": "MiMi Mxnroe",
-        "title": "Parking Sensors",
-        "plays": 1
-      },
-      {
-        "artist": "Alice Merton",
-        "title": "Island",
-        "plays": 1
-      },
-      {
-        "artist": "Gorillaz",
-        "title": "Skinny Ape",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna",
-        "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "ELIF",
-        "title": "WENN ICH STERBE",
-        "plays": 1
-      },
-      {
-        "artist": "t-low",
-        "title": "We Made It (feat. Miksu / Macloud)",
-        "plays": 1
-      },
-      {
-        "artist": "PinkPantheress",
-        "title": "Tonight",
-        "plays": 1
-      },
-      {
-        "artist": "SDP & Montez",
-        "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Easy On Me",
-        "plays": 1
-      },
-      {
-        "artist": "Jorja Smith",
-        "title": "The Way I Love You",
-        "plays": 1
-      },
-      {
-        "artist": "Alice Cooper",
-        "title": "Detroit City 2021",
-        "plays": 1
-      },
-      {
-        "artist": "The Rolling Stones",
-        "title": "Troubles A’ Comin",
-        "plays": 1
-      },
-      {
-        "artist": "FAYAN (feat. Dalton)",
-        "title": "VERLIEBT IN MICH",
-        "plays": 1
-      },
-      {
-        "artist": "187 Strassenbande/Bonez MC/Frauenarzt",
-        "title": "Extasy",
-        "plays": 1
-      },
-      {
-        "artist": "Jaymes Young",
-        "title": "Infinity",
-        "plays": 1
-      },
-      {
-        "artist": "Aerosmith, YUNGBLUD",
-        "title": "Wild Woman",
+        "artist": "Michael Schulte",
+        "title": "Here Goes Nothing",
         "plays": 1
       },
       {
         "artist": "Coldplay",
-        "title": "Hymn For The Weekend",
+        "title": "Higher Power",
         "plays": 1
       },
       {
-        "artist": "Milky Chance & Jack Johnson",
-        "title": "Don't Let Me Down",
+        "artist": "CHAPO102 x GUSTAV",
+        "title": "WARSCHAU",
         "plays": 1
       },
       {
-        "artist": "Doechii",
-        "title": "Anxiety",
+        "artist": "Sia",
+        "title": "Never Give Up",
         "plays": 1
       },
       {
-        "artist": "Mia Morgan",
-        "title": "Jennifer Check",
+        "artist": "Lady Gaga, Doechii",
+        "title": "Runway",
         "plays": 1
       },
       {
-        "artist": "Three Days Grace",
-        "title": "So Called Life",
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
         "plays": 1
       },
       {
-        "artist": "Nico Santos",
-        "title": "Safe",
+        "artist": "The Lathums",
+        "title": "Say My Name",
         "plays": 1
       },
       {
-        "artist": "Foals",
-        "title": "2AM",
+        "artist": "Apsilon",
+        "title": "Weg Hier raus",
         "plays": 1
       },
       {
-        "artist": "Nina Chuba",
-        "title": "3 Uhr Nachts",
-        "plays": 1
-      },
-      {
-        "artist": "Joji",
-        "title": "Love Me Better",
-        "plays": 1
-      },
-      {
-        "artist": "Bruno Mars",
-        "title": "24K Magic",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Wrecked",
-        "plays": 1
-      },
-      {
-        "artist": "The Bevis Frond",
-        "title": "Quietly",
-        "plays": 1
-      },
-      {
-        "artist": "AnnenMayKantereit",
-        "title": "Barfuß am Klavier",
+        "artist": "GAYLE",
+        "title": "abcdefu",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Jj",
-      "title": "Wasted Love  2025",
+      "artist": "Harry Styles",
+      "title": "American Girls",
       "plays": 1
     }
   }
