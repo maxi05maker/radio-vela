@@ -2,9 +2,14 @@
   "2026-09-29 07:00": {
     "period_start": "2026-09-29T07:00:00+02:00",
     "period_end": "2026-09-30T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
+      {
+        "artist": "The Lathums",
+        "title": "Say My Name",
+        "plays": 2
+      },
       {
         "artist": "Harry Styles",
         "title": "American Girls",
@@ -41,11 +46,6 @@
         "plays": 1
       },
       {
-        "artist": "The Lathums",
-        "title": "Say My Name",
-        "plays": 1
-      },
-      {
         "artist": "Apsilon",
         "title": "Weg Hier raus",
         "plays": 1
@@ -54,12 +54,52 @@
         "artist": "GAYLE",
         "title": "abcdefu",
         "plays": 1
+      },
+      {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "SS26",
+        "plays": 1
+      },
+      {
+        "artist": "BJ the Chicago Kid",
+        "title": "Smooth",
+        "plays": 1
+      },
+      {
+        "artist": "The Avener",
+        "title": "Fade Out Lines",
+        "plays": 1
+      },
+      {
+        "artist": "Fritz Kalkbrenner",
+        "title": "Calling You",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld",
+        "title": "Ich lass für dich das Licht an",
+        "plays": 1
+      },
+      {
+        "artist": "Zach Bryan",
+        "title": "28",
+        "plays": 1
+      },
+      {
+        "artist": "Vance Joy",
+        "title": "Riptide",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Harry Styles",
-      "title": "American Girls",
-      "plays": 1
+      "artist": "The Lathums",
+      "title": "Say My Name",
+      "plays": 2
     }
   }
 }
