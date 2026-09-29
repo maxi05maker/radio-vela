@@ -2,8 +2,8 @@
   "2026-09-29 07:00": {
     "period_start": "2026-09-29T07:00:00+02:00",
     "period_end": "2026-09-30T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "The Lathums",
@@ -93,6 +93,46 @@
       {
         "artist": "Vance Joy",
         "title": "Riptide",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, The Stickmen Project, Calum Scott",
+        "title": "Rain In Ibiza",
+        "plays": 1
+      },
+      {
+        "artist": "Portugal. The Man",
+        "title": "Tanana",
+        "plays": 1
+      },
+      {
+        "artist": "The Weekend & Rosalia",
+        "title": "Blinding Lights (Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "Brendan Benson",
+        "title": "Ain't No Good",
+        "plays": 1
+      },
+      {
+        "artist": "Die Nerven",
+        "title": "Achtzehn",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "ABBA",
+        "title": "Little Things",
         "plays": 1
       }
     ],
