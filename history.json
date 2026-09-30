@@ -5578,5 +5578,65 @@
     "played_at": "2026-09-30 03:16:58 +0200",
     "title": "Bad habit",
     "artist": "Steve Lacy"
+  },
+  {
+    "key": "2026-09-30 08:17:43 +0200|Golden Nights|Sophie & The Giants",
+    "played_at": "2026-09-30 08:17:43 +0200",
+    "title": "Golden Nights",
+    "artist": "Sophie & The Giants"
+  },
+  {
+    "key": "2026-09-30 08:20:42 +0200|Jennifer Check|Mia Morgan",
+    "played_at": "2026-09-30 08:20:42 +0200",
+    "title": "Jennifer Check",
+    "artist": "Mia Morgan"
+  },
+  {
+    "key": "2026-09-30 08:24:38 +0200|Abracadabra|Lady Gaga",
+    "played_at": "2026-09-30 08:24:38 +0200",
+    "title": "Abracadabra",
+    "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-09-30 08:29:08 +0200|Wonderful Life|Two Door Cinema Club",
+    "played_at": "2026-09-30 08:29:08 +0200",
+    "title": "Wonderful Life",
+    "artist": "Two Door Cinema Club"
+  },
+  {
+    "key": "2026-09-30 08:32:27 +0200|Looking For Love|Lena",
+    "played_at": "2026-09-30 08:32:27 +0200",
+    "title": "Looking For Love",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-09-30 08:35:06 +0200|RUN IT|Stray Kids",
+    "played_at": "2026-09-30 08:35:06 +0200",
+    "title": "RUN IT",
+    "artist": "Stray Kids"
+  },
+  {
+    "key": "2026-09-30 08:38:35 +0200|Hi Billie Eilish|Token",
+    "played_at": "2026-09-30 08:38:35 +0200",
+    "title": "Hi Billie Eilish",
+    "artist": "Token"
+  },
+  {
+    "key": "2026-09-30 08:41:35 +0200|Do It Better (feat. Zoe Wees)|Felix Jaehn",
+    "played_at": "2026-09-30 08:41:35 +0200",
+    "title": "Do It Better (feat. Zoe Wees)",
+    "artist": "Felix Jaehn"
+  },
+  {
+    "key": "2026-09-30 08:44:23 +0200|Temporal|Katatonia",
+    "played_at": "2026-09-30 08:44:23 +0200",
+    "title": "Temporal",
+    "artist": "Katatonia"
+  },
+  {
+    "key": "2026-09-30 08:48:33 +0200|Been Thinking|Tyla",
+    "played_at": "2026-09-30 08:48:33 +0200",
+    "title": "Been Thinking",
+    "artist": "Tyla"
   }
 ]

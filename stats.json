@@ -1,235 +1,65 @@
 {
-  "2026-09-29 07:00": {
-    "period_start": "2026-09-29T07:00:00+02:00",
-    "period_end": "2026-09-30T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 45,
+  "2026-09-30 07:00": {
+    "period_start": "2026-09-30T07:00:00+02:00",
+    "period_end": "2026-10-01T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
-      {
-        "artist": "The Lathums",
-        "title": "Say My Name",
-        "plays": 2
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "American Girls",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "Higher Power",
-        "plays": 1
-      },
-      {
-        "artist": "CHAPO102 x GUSTAV",
-        "title": "WARSCHAU",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Never Give Up",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga, Doechii",
-        "title": "Runway",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth feat. Selena Gomez",
-        "title": "We Don't Talk Anymore",
-        "plays": 1
-      },
-      {
-        "artist": "Apsilon",
-        "title": "Weg Hier raus",
-        "plays": 1
-      },
-      {
-        "artist": "GAYLE",
-        "title": "abcdefu",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta feat. Sam Martin",
-        "title": "Lovers on the Sun",
-        "plays": 1
-      },
-      {
-        "artist": "Charli xcx",
-        "title": "SS26",
-        "plays": 1
-      },
-      {
-        "artist": "BJ the Chicago Kid",
-        "title": "Smooth",
-        "plays": 1
-      },
-      {
-        "artist": "The Avener",
-        "title": "Fade Out Lines",
-        "plays": 1
-      },
-      {
-        "artist": "Fritz Kalkbrenner",
-        "title": "Calling You",
-        "plays": 1
-      },
-      {
-        "artist": "Revolverheld",
-        "title": "Ich lass für dich das Licht an",
-        "plays": 1
-      },
-      {
-        "artist": "Zach Bryan",
-        "title": "28",
-        "plays": 1
-      },
-      {
-        "artist": "Vance Joy",
-        "title": "Riptide",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "And Love",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn, The Stickmen Project, Calum Scott",
-        "title": "Rain In Ibiza",
-        "plays": 1
-      },
-      {
-        "artist": "Portugal. The Man",
-        "title": "Tanana",
-        "plays": 1
-      },
-      {
-        "artist": "The Weekend & Rosalia",
-        "title": "Blinding Lights (Remix)",
-        "plays": 1
-      },
-      {
-        "artist": "Brendan Benson",
-        "title": "Ain't No Good",
-        "plays": 1
-      },
-      {
-        "artist": "Die Nerven",
-        "title": "Achtzehn",
-        "plays": 1
-      },
-      {
-        "artist": "Zoe Wees",
-        "title": "Control",
-        "plays": 1
-      },
-      {
-        "artist": "ABBA",
-        "title": "Little Things",
-        "plays": 1
-      },
-      {
-        "artist": "Jessie Ware",
-        "title": "Superbloom",
-        "plays": 1
-      },
-      {
-        "artist": "Tiësto, Charli XCX",
-        "title": "Hot In It",
-        "plays": 1
-      },
-      {
-        "artist": "Demi Lovato",
-        "title": "29",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "Bosse",
-        "title": "Der Sommer",
-        "plays": 1
-      },
-      {
-        "artist": "Lina",
-        "title": "Klippe",
-        "plays": 1
-      },
-      {
-        "artist": "Linkin Park",
-        "title": "The Emptiness Machine",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "High (feat. Claudia Valentina)",
-        "plays": 1
-      },
       {
         "artist": "Sophie & The Giants",
         "title": "Golden Nights",
         "plays": 1
       },
       {
-        "artist": "Bilderbuch",
-        "title": "Bungalow",
+        "artist": "Mia Morgan",
+        "title": "Jennifer Check",
         "plays": 1
       },
       {
-        "artist": "Robbie Williams",
-        "title": "All My Life",
+        "artist": "Lady Gaga",
+        "title": "Abracadabra",
         "plays": 1
       },
       {
-        "artist": "Kygo & Dean Lewis",
-        "title": "Lost Without You (with Dean Lewis)",
+        "artist": "Two Door Cinema Club",
+        "title": "Wonderful Life",
         "plays": 1
       },
       {
-        "artist": "My Chemical Romance",
-        "title": "The Foundations of Decay",
+        "artist": "Lena",
+        "title": "Looking For Love",
         "plays": 1
       },
       {
-        "artist": "Sophie and the Giants",
-        "title": "Loser",
+        "artist": "Stray Kids",
+        "title": "RUN IT",
         "plays": 1
       },
       {
-        "artist": "Pashanim",
-        "title": "Sommergewitter",
+        "artist": "Token",
+        "title": "Hi Billie Eilish",
         "plays": 1
       },
       {
-        "artist": "Gryffin & OneRepublic",
-        "title": "You Were Loved",
+        "artist": "Felix Jaehn",
+        "title": "Do It Better (feat. Zoe Wees)",
         "plays": 1
       },
       {
-        "artist": "Archive",
-        "title": "City Walls",
+        "artist": "Katatonia",
+        "title": "Temporal",
         "plays": 1
       },
       {
-        "artist": "Steve Lacy",
-        "title": "Bad habit",
+        "artist": "Tyla",
+        "title": "Been Thinking",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "The Lathums",
-      "title": "Say My Name",
-      "plays": 2
+      "artist": "Sophie & The Giants",
+      "title": "Golden Nights",
+      "plays": 1
     }
   }
 }
