@@ -2,12 +2,22 @@
   "2026-09-30 07:00": {
     "period_start": "2026-09-30T07:00:00+02:00",
     "period_end": "2026-10-01T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
       {
         "artist": "Stray Kids",
         "title": "RUN IT",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "You Let Me Walk Alone",
+        "plays": 2
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
         "plays": 2
       },
       {
@@ -71,18 +81,8 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte",
-        "title": "You Let Me Walk Alone",
-        "plays": 1
-      },
-      {
         "artist": "Zartmann",
         "title": "Weißt du überhaupt noch wer ich bin?",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "Wrecking Ball",
         "plays": 1
       },
       {
@@ -138,6 +138,41 @@
       {
         "artist": "Royal Blood",
         "title": "Boilermaker",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Die P",
+        "title": "AHA feat. Grödash",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
+        "plays": 1
+      },
+      {
+        "artist": "Devin Townsend",
+        "title": "Jainism",
+        "plays": 1
+      },
+      {
+        "artist": "Psy",
+        "title": "Gangnam Style",
+        "plays": 1
+      },
+      {
+        "artist": "Juju feat. Henning May",
+        "title": "Vermissen",
+        "plays": 1
+      },
+      {
+        "artist": "Joe Bonamassa",
+        "title": "Tattoo'd Lady",
         "plays": 1
       }
     ],

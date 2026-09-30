@@ -5758,5 +5758,65 @@
     "played_at": "2026-09-30 20:20:05 +0200",
     "title": "RUN IT",
     "artist": "Stray Kids"
+  },
+  {
+    "key": "2026-09-30 23:48:06 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-09-30 23:48:06 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-09-30 23:51:40 +0200|Wrecking Ball|Miley Cyrus",
+    "played_at": "2026-09-30 23:51:40 +0200",
+    "title": "Wrecking Ball",
+    "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-09-30 23:55:22 +0200|AHA feat. Grödash|Die P",
+    "played_at": "2026-09-30 23:55:22 +0200",
+    "title": "AHA feat. Grödash",
+    "artist": "Die P"
+  },
+  {
+    "key": "2026-09-30 23:58:51 +0200|You Let Me Walk Alone|Michael Schulte",
+    "played_at": "2026-09-30 23:58:51 +0200",
+    "title": "You Let Me Walk Alone",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-10-01 00:01:49 +0200|We Don't Talk Anymore|Charlie Puth feat. Selena Gomez",
+    "played_at": "2026-10-01 00:01:49 +0200",
+    "title": "We Don't Talk Anymore",
+    "artist": "Charlie Puth feat. Selena Gomez"
+  },
+  {
+    "key": "2026-10-01 00:05:26 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-01 00:05:26 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-01 00:08:10 +0200|Jainism|Devin Townsend",
+    "played_at": "2026-10-01 00:08:10 +0200",
+    "title": "Jainism",
+    "artist": "Devin Townsend"
+  },
+  {
+    "key": "2026-10-01 00:12:29 +0200|Gangnam Style|Psy",
+    "played_at": "2026-10-01 00:12:29 +0200",
+    "title": "Gangnam Style",
+    "artist": "Psy"
+  },
+  {
+    "key": "2026-10-01 00:16:12 +0200|Vermissen|Juju feat. Henning May",
+    "played_at": "2026-10-01 00:16:12 +0200",
+    "title": "Vermissen",
+    "artist": "Juju feat. Henning May"
+  },
+  {
+    "key": "2026-10-01 00:18:53 +0200|Tattoo'd Lady|Joe Bonamassa",
+    "played_at": "2026-10-01 00:18:53 +0200",
+    "title": "Tattoo'd Lady",
+    "artist": "Joe Bonamassa"
   }
 ]
