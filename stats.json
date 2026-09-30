@@ -2,9 +2,14 @@
   "2026-09-30 07:00": {
     "period_start": "2026-09-30T07:00:00+02:00",
     "period_end": "2026-10-01T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
+      {
+        "artist": "Stray Kids",
+        "title": "RUN IT",
+        "plays": 2
+      },
       {
         "artist": "Sophie & The Giants",
         "title": "Golden Nights",
@@ -28,11 +33,6 @@
       {
         "artist": "Lena",
         "title": "Looking For Love",
-        "plays": 1
-      },
-      {
-        "artist": "Stray Kids",
-        "title": "RUN IT",
         "plays": 1
       },
       {
@@ -99,12 +99,52 @@
         "artist": "Coldplay",
         "title": "Hymn For The Weekend",
         "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Burak Yeter feat. Danelle Sandoval",
+        "title": "Tuesday",
+        "plays": 1
+      },
+      {
+        "artist": "Pashanim",
+        "title": "Augenblick",
+        "plays": 1
+      },
+      {
+        "artist": "Saint Chaos",
+        "title": "Where I Belong",
+        "plays": 1
+      },
+      {
+        "artist": "Avicii feat. Aloe Blacc",
+        "title": "SOS",
+        "plays": 1
+      },
+      {
+        "artist": "KATSEYE",
+        "title": "Internet Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Skyfall",
+        "plays": 1
+      },
+      {
+        "artist": "Royal Blood",
+        "title": "Boilermaker",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Sophie & The Giants",
-      "title": "Golden Nights",
-      "plays": 1
+      "artist": "Stray Kids",
+      "title": "RUN IT",
+      "plays": 2
     }
   }
 }
