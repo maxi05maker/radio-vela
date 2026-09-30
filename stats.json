@@ -2,8 +2,8 @@
   "2026-09-30 07:00": {
     "period_start": "2026-09-30T07:00:00+02:00",
     "period_end": "2026-10-01T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Sophie & The Giants",
@@ -53,6 +53,51 @@
       {
         "artist": "Tyla",
         "title": "Been Thinking",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Scars To Your Beautiful",
+        "plays": 1
+      },
+      {
+        "artist": "Fritz Kalkbrenner",
+        "title": "It Ain't Over",
+        "plays": 1
+      },
+      {
+        "artist": "Josef Salvat",
+        "title": "Diamonds",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "You Let Me Walk Alone",
+        "plays": 1
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Weißt du überhaupt noch wer ich bin?",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Line",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Hymn For The Weekend",
         "plays": 1
       }
     ],
