@@ -5518,5 +5518,65 @@
     "played_at": "2026-09-30 00:16:44 +0200",
     "title": "Golden Nights",
     "artist": "Sophie & The Giants"
+  },
+  {
+    "key": "2026-09-30 02:44:49 +0200|Bungalow|Bilderbuch",
+    "played_at": "2026-09-30 02:44:49 +0200",
+    "title": "Bungalow",
+    "artist": "Bilderbuch"
+  },
+  {
+    "key": "2026-09-30 02:48:34 +0200|All My Life|Robbie Williams",
+    "played_at": "2026-09-30 02:48:34 +0200",
+    "title": "All My Life",
+    "artist": "Robbie Williams"
+  },
+  {
+    "key": "2026-09-30 02:52:16 +0200|Lost Without You (with Dean Lewis)|Kygo & Dean Lewis",
+    "played_at": "2026-09-30 02:52:16 +0200",
+    "title": "Lost Without You (with Dean Lewis)",
+    "artist": "Kygo & Dean Lewis"
+  },
+  {
+    "key": "2026-09-30 02:55:40 +0200|The Foundations of Decay|My Chemical Romance",
+    "played_at": "2026-09-30 02:55:40 +0200",
+    "title": "The Foundations of Decay",
+    "artist": "My Chemical Romance"
+  },
+  {
+    "key": "2026-09-30 03:01:41 +0200|Loser|Sophie and the Giants",
+    "played_at": "2026-09-30 03:01:41 +0200",
+    "title": "Loser",
+    "artist": "Sophie and the Giants"
+  },
+  {
+    "key": "2026-09-30 03:04:47 +0200|Sommergewitter|Pashanim",
+    "played_at": "2026-09-30 03:04:47 +0200",
+    "title": "Sommergewitter",
+    "artist": "Pashanim"
+  },
+  {
+    "key": "2026-09-30 03:07:06 +0200|You Were Loved|Gryffin & OneRepublic",
+    "played_at": "2026-09-30 03:07:06 +0200",
+    "title": "You Were Loved",
+    "artist": "Gryffin & OneRepublic"
+  },
+  {
+    "key": "2026-09-30 03:10:48 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-09-30 03:10:48 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-09-30 03:13:30 +0200|City Walls|Archive",
+    "played_at": "2026-09-30 03:13:30 +0200",
+    "title": "City Walls",
+    "artist": "Archive"
+  },
+  {
+    "key": "2026-09-30 03:16:58 +0200|Bad habit|Steve Lacy",
+    "played_at": "2026-09-30 03:16:58 +0200",
+    "title": "Bad habit",
+    "artist": "Steve Lacy"
   }
 ]
