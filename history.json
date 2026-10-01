@@ -5878,5 +5878,65 @@
     "played_at": "2026-10-01 03:21:13 +0200",
     "title": "Diamonds",
     "artist": "Sam Smith"
+  },
+  {
+    "key": "2026-10-01 08:45:00 +0200|Rio|J Balvin",
+    "played_at": "2026-10-01 08:45:00 +0200",
+    "title": "Rio",
+    "artist": "J Balvin"
+  },
+  {
+    "key": "2026-10-01 08:48:03 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-10-01 08:48:03 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-10-01 08:51:37 +0200|Let it die|Ellie Goulding",
+    "played_at": "2026-10-01 08:51:37 +0200",
+    "title": "Let it die",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "key": "2026-10-01 08:54:22 +0200|The Banjo Song|Mumford & Sons",
+    "played_at": "2026-10-01 08:54:22 +0200",
+    "title": "The Banjo Song",
+    "artist": "Mumford & Sons"
+  },
+  {
+    "key": "2026-10-01 08:58:12 +0200|Kreise|Johannes Oerding",
+    "played_at": "2026-10-01 08:58:12 +0200",
+    "title": "Kreise",
+    "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-10-01 09:01:54 +0200|Can We Pretend|P!nk feat. Cash Cash",
+    "played_at": "2026-10-01 09:01:54 +0200",
+    "title": "Can We Pretend",
+    "artist": "P!nk feat. Cash Cash"
+  },
+  {
+    "key": "2026-10-01 09:05:34 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-01 09:05:34 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-01 09:08:22 +0200|Labubu Freestyle|ZAH1DE",
+    "played_at": "2026-10-01 09:08:22 +0200",
+    "title": "Labubu Freestyle",
+    "artist": "ZAH1DE"
+  },
+  {
+    "key": "2026-10-01 09:10:22 +0200|What a Man Gotta Do|Jonas Brothers",
+    "played_at": "2026-10-01 09:10:22 +0200",
+    "title": "What a Man Gotta Do",
+    "artist": "Jonas Brothers"
+  },
+  {
+    "key": "2026-10-01 09:13:23 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-10-01 09:13:23 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
   }
 ]
