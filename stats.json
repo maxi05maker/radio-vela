@@ -2,8 +2,8 @@
   "2026-09-30 07:00": {
     "period_start": "2026-09-30T07:00:00+02:00",
     "period_end": "2026-10-01T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 37,
+    "total_entries": 50,
+    "music_entries": 46,
     "songs": [
       {
         "artist": "Stray Kids",
@@ -173,6 +173,51 @@
       {
         "artist": "Joe Bonamassa",
         "title": "Tattoo'd Lady",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Beams",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Wrecked",
+        "plays": 1
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
+        "plays": 1
+      },
+      {
+        "artist": "mgk",
+        "title": "your name forever",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Teuterekordz",
+        "title": "Teute All-Star",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Whatever",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "Diamonds",
         "plays": 1
       }
     ],
