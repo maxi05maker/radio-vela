@@ -2,8 +2,8 @@
   "2026-10-01 07:00": {
     "period_start": "2026-10-01T07:00:00+02:00",
     "period_end": "2026-10-02T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
       {
         "artist": "J Balvin",
@@ -143,6 +143,51 @@
       {
         "artist": "The Hives",
         "title": "Enough Is Enough",
+        "plays": 1
+      },
+      {
+        "artist": "Dean Lewis",
+        "title": "Looks Like Me",
+        "plays": 1
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "All My Life",
+        "plays": 1
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "title": "Human",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Serena Joy",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "A Million Dreams",
+        "plays": 1
+      },
+      {
+        "artist": "Swiss & die Andern",
+        "title": "Erstmal zu Penny",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna",
+        "title": "I Feel So Free",
         "plays": 1
       }
     ],

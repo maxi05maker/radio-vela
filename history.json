@@ -6058,5 +6058,65 @@
     "played_at": "2026-10-01 21:41:33 +0200",
     "title": "Enough Is Enough",
     "artist": "The Hives"
+  },
+  {
+    "key": "2026-10-02 00:52:06 +0200|Looks Like Me|Dean Lewis",
+    "played_at": "2026-10-02 00:52:06 +0200",
+    "title": "Looks Like Me",
+    "artist": "Dean Lewis"
+  },
+  {
+    "key": "2026-10-02 00:55:17 +0200|Let Me Down Slowly|Alec Benjamin",
+    "played_at": "2026-10-02 00:55:17 +0200",
+    "title": "Let Me Down Slowly",
+    "artist": "Alec Benjamin"
+  },
+  {
+    "key": "2026-10-02 00:58:06 +0200|All My Life|Robbie Williams",
+    "played_at": "2026-10-02 00:58:06 +0200",
+    "title": "All My Life",
+    "artist": "Robbie Williams"
+  },
+  {
+    "key": "2026-10-02 01:01:48 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-02 01:01:48 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-02 01:04:35 +0200|Human|Rag'n'Bone Man",
+    "played_at": "2026-10-02 01:04:35 +0200",
+    "title": "Human",
+    "artist": "Rag'n'Bone Man"
+  },
+  {
+    "key": "2026-10-02 01:07:55 +0200|Forever Young|David Guetta, Alphaville & Ava Max",
+    "played_at": "2026-10-02 01:07:55 +0200",
+    "title": "Forever Young",
+    "artist": "David Guetta, Alphaville & Ava Max"
+  },
+  {
+    "key": "2026-10-02 01:10:30 +0200|Serena Joy|Olivia Rodrigo",
+    "played_at": "2026-10-02 01:10:30 +0200",
+    "title": "Serena Joy",
+    "artist": "Olivia Rodrigo"
+  },
+  {
+    "key": "2026-10-02 01:13:36 +0200|A Million Dreams|P!nk",
+    "played_at": "2026-10-02 01:13:36 +0200",
+    "title": "A Million Dreams",
+    "artist": "P!nk"
+  },
+  {
+    "key": "2026-10-02 01:18:10 +0200|Erstmal zu Penny|Swiss & die Andern",
+    "played_at": "2026-10-02 01:18:10 +0200",
+    "title": "Erstmal zu Penny",
+    "artist": "Swiss & die Andern"
+  },
+  {
+    "key": "2026-10-02 01:20:58 +0200|I Feel So Free|Madonna",
+    "played_at": "2026-10-02 01:20:58 +0200",
+    "title": "I Feel So Free",
+    "artist": "Madonna"
   }
 ]
