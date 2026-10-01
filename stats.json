@@ -2,8 +2,8 @@
   "2026-10-01 07:00": {
     "period_start": "2026-10-01T07:00:00+02:00",
     "period_end": "2026-10-02T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "J Balvin",
@@ -93,6 +93,56 @@
       {
         "artist": "Joris",
         "title": "Herz über Kopf",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba & Makko",
+        "title": "Fucked Up feat. makko",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Der Letzte Tanz",
+        "plays": 1
+      },
+      {
+        "artist": "TAEYANG, Jimin",
+        "title": "VIBE",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Its ok Im ok",
+        "plays": 1
+      },
+      {
+        "artist": "Mia Morgan",
+        "title": "Schönere Frauen",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Daisies",
+        "plays": 1
+      },
+      {
+        "artist": "Lupe Fiasco",
+        "title": "Hustlaz",
+        "plays": 1
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "29",
+        "plays": 1
+      },
+      {
+        "artist": "The Hives",
+        "title": "Enough Is Enough",
         "plays": 1
       }
     ],
