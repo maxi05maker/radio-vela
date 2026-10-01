@@ -2,8 +2,8 @@
   "2026-10-01 07:00": {
     "period_start": "2026-10-01T07:00:00+02:00",
     "period_end": "2026-10-02T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "J Balvin",
@@ -48,6 +48,51 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "ABBA",
+        "title": "Don't Shut Me Down",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "I Never Loved You",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Auf Auf",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heart Of Gold",
+        "plays": 1
+      },
+      {
+        "artist": "Danger Mouse & Black Thought",
+        "title": "Saltwater feat. Conway The Machine",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "You Belong With Me",
+        "plays": 1
+      },
+      {
+        "artist": "The Cure",
+        "title": "A Fragile Thing",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Herz über Kopf",
         "plays": 1
       }
     ],

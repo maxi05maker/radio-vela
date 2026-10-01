@@ -5938,5 +5938,65 @@
     "played_at": "2026-10-01 09:13:23 +0200",
     "title": "Lose Control",
     "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-10-01 15:56:07 +0200|Don't Shut Me Down|ABBA",
+    "played_at": "2026-10-01 15:56:07 +0200",
+    "title": "Don't Shut Me Down",
+    "artist": "ABBA"
+  },
+  {
+    "key": "2026-10-01 16:00:04 +0200|I Never Loved You|Halsey",
+    "played_at": "2026-10-01 16:00:04 +0200",
+    "title": "I Never Loved You",
+    "artist": "Halsey"
+  },
+  {
+    "key": "2026-10-01 16:04:13 +0200|Small Steps|Tom Gregory",
+    "played_at": "2026-10-01 16:04:13 +0200",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-10-01 16:06:59 +0200|Auf Auf|Silbermond",
+    "played_at": "2026-10-01 16:06:59 +0200",
+    "title": "Auf Auf",
+    "artist": "Silbermond"
+  },
+  {
+    "key": "2026-10-01 16:09:45 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-01 16:09:45 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-01 16:12:25 +0200|Heart Of Gold|Shawn Mendes",
+    "played_at": "2026-10-01 16:12:25 +0200",
+    "title": "Heart Of Gold",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-10-01 16:15:15 +0200|Saltwater feat. Conway The Machine|Danger Mouse & Black Thought",
+    "played_at": "2026-10-01 16:15:15 +0200",
+    "title": "Saltwater feat. Conway The Machine",
+    "artist": "Danger Mouse & Black Thought"
+  },
+  {
+    "key": "2026-10-01 16:18:38 +0200|You Belong With Me|Taylor Swift",
+    "played_at": "2026-10-01 16:18:38 +0200",
+    "title": "You Belong With Me",
+    "artist": "Taylor Swift"
+  },
+  {
+    "key": "2026-10-01 16:22:30 +0200|A Fragile Thing|The Cure",
+    "played_at": "2026-10-01 16:22:30 +0200",
+    "title": "A Fragile Thing",
+    "artist": "The Cure"
+  },
+  {
+    "key": "2026-10-01 16:27:13 +0200|Herz über Kopf|Joris",
+    "played_at": "2026-10-01 16:27:13 +0200",
+    "title": "Herz über Kopf",
+    "artist": "Joris"
   }
 ]
