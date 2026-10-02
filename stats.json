@@ -2,12 +2,17 @@
   "2026-10-02 07:00": {
     "period_start": "2026-10-02T07:00:00+02:00",
     "period_end": "2026-10-03T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 39,
     "songs": [
       {
         "artist": "Radio Karen",
         "title": "Die Beste Musik Nonstop",
+        "plays": 2
+      },
+      {
+        "artist": "Mitski",
+        "title": "That White Cat",
         "plays": 2
       },
       {
@@ -63,11 +68,6 @@
       {
         "artist": "The Avener",
         "title": "Fade Out Lines",
-        "plays": 1
-      },
-      {
-        "artist": "Mitski",
-        "title": "That White Cat",
         "plays": 1
       },
       {
@@ -143,6 +143,51 @@
       {
         "artist": "ABBA",
         "title": "Little Things",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Willow",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Addison Rae",
+        "title": "Headphones On",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Sofia",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Without Me",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Let it die",
+        "plays": 1
+      },
+      {
+        "artist": "Drake",
+        "title": "God's Plan",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Serena Joy",
+        "plays": 1
+      },
+      {
+        "artist": "Die Ärzte",
+        "title": "True Romance",
         "plays": 1
       }
     ],
