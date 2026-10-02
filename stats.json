@@ -1,244 +1,59 @@
 {
-  "2026-10-01 07:00": {
-    "period_start": "2026-10-01T07:00:00+02:00",
-    "period_end": "2026-10-02T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 46,
+  "2026-10-02 07:00": {
+    "period_start": "2026-10-02T07:00:00+02:00",
+    "period_end": "2026-10-03T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "J Balvin",
-        "title": "Rio",
+        "artist": "mgk",
+        "title": "your name forever",
         "plays": 1
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
         "plays": 1
       },
       {
-        "artist": "Ellie Goulding",
-        "title": "Let it die",
+        "artist": "Katy Perry Feat. Skip Marley",
+        "title": "Chained To The Rhythm",
         "plays": 1
       },
       {
-        "artist": "Mumford & Sons",
-        "title": "The Banjo Song",
+        "artist": "Midlake",
+        "title": "The Ghouls",
         "plays": 1
       },
       {
-        "artist": "Johannes Oerding",
-        "title": "Kreise",
+        "artist": "Dante YN",
+        "title": "Youngstar",
         "plays": 1
       },
       {
-        "artist": "P!nk feat. Cash Cash",
-        "title": "Can We Pretend",
+        "artist": "Kesha",
+        "title": "DELUSIONAL (Main Version)",
         "plays": 1
       },
       {
-        "artist": "ZAH1DE",
-        "title": "Labubu Freestyle",
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 1
       },
       {
-        "artist": "Jonas Brothers",
-        "title": "What a Man Gotta Do",
+        "artist": "Dua Lipa",
+        "title": "New Rules",
         "plays": 1
       },
       {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "ABBA",
-        "title": "Don't Shut Me Down",
-        "plays": 1
-      },
-      {
-        "artist": "Halsey",
-        "title": "I Never Loved You",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Silbermond",
-        "title": "Auf Auf",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Heart Of Gold",
-        "plays": 1
-      },
-      {
-        "artist": "Danger Mouse & Black Thought",
-        "title": "Saltwater feat. Conway The Machine",
-        "plays": 1
-      },
-      {
-        "artist": "Taylor Swift",
-        "title": "You Belong With Me",
-        "plays": 1
-      },
-      {
-        "artist": "The Cure",
-        "title": "A Fragile Thing",
-        "plays": 1
-      },
-      {
-        "artist": "Joris",
-        "title": "Herz über Kopf",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba & Makko",
-        "title": "Fucked Up feat. makko",
-        "plays": 1
-      },
-      {
-        "artist": "Bosse",
-        "title": "Der Letzte Tanz",
-        "plays": 1
-      },
-      {
-        "artist": "TAEYANG, Jimin",
-        "title": "VIBE",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "Its ok Im ok",
-        "plays": 1
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Schönere Frauen",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Bieber",
-        "title": "Daisies",
-        "plays": 1
-      },
-      {
-        "artist": "Lupe Fiasco",
-        "title": "Hustlaz",
-        "plays": 1
-      },
-      {
-        "artist": "Demi Lovato",
-        "title": "29",
-        "plays": 1
-      },
-      {
-        "artist": "The Hives",
-        "title": "Enough Is Enough",
-        "plays": 1
-      },
-      {
-        "artist": "Dean Lewis",
-        "title": "Looks Like Me",
-        "plays": 1
-      },
-      {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "All My Life",
-        "plays": 1
-      },
-      {
-        "artist": "Rag'n'Bone Man",
-        "title": "Human",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "Serena Joy",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "A Million Dreams",
-        "plays": 1
-      },
-      {
-        "artist": "Swiss & die Andern",
-        "title": "Erstmal zu Penny",
-        "plays": 1
-      },
-      {
-        "artist": "Madonna",
-        "title": "I Feel So Free",
-        "plays": 1
-      },
-      {
-        "artist": "Maggie Rogers",
-        "title": "In The Living Room",
-        "plays": 1
-      },
-      {
-        "artist": "Camila Cabello feat. Young Thug",
-        "title": "Havana",
-        "plays": 1
-      },
-      {
-        "artist": "Blackberry Smoke",
-        "title": "Run Away from It All",
-        "plays": 1
-      },
-      {
-        "artist": "Nothing But Thieves",
-        "title": "Baby Kool (Evelyn)",
-        "plays": 1
-      },
-      {
-        "artist": "JORIS",
-        "title": "Nur die Musik",
-        "plays": 1
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
-        "plays": 1
-      },
-      {
-        "artist": "Dara",
-        "title": "Bangaranga",
-        "plays": 1
-      },
-      {
-        "artist": "Family of the Year",
-        "title": "Hero",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Whatever It Takes",
+        "artist": "Archive",
+        "title": "City Walls",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "J Balvin",
-      "title": "Rio",
+      "artist": "mgk",
+      "title": "your name forever",
       "plays": 1
     }
   }
