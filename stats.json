@@ -2,17 +2,17 @@
   "2026-10-02 07:00": {
     "period_start": "2026-10-02T07:00:00+02:00",
     "period_end": "2026-10-03T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
-      {
-        "artist": "mgk",
-        "title": "your name forever",
-        "plays": 1
-      },
       {
         "artist": "Radio Karen",
         "title": "Die Beste Musik Nonstop",
+        "plays": 2
+      },
+      {
+        "artist": "mgk",
+        "title": "your name forever",
         "plays": 1
       },
       {
@@ -99,12 +99,57 @@
         "artist": "BLACKPINK",
         "title": "GO",
         "plays": 1
+      },
+      {
+        "artist": "Cave, Amo",
+        "title": "CASA CUBA",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "One Call Away",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey",
+        "title": "Halo",
+        "plays": 1
+      },
+      {
+        "artist": "Madeline Juno",
+        "title": "Lass mich los",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
+        "plays": 1
+      },
+      {
+        "artist": "Jack White",
+        "title": "Dollar Bill",
+        "plays": 1
+      },
+      {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
+        "plays": 1
+      },
+      {
+        "artist": "ABBA",
+        "title": "Little Things",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "mgk",
-      "title": "your name forever",
-      "plays": 1
+      "artist": "Radio Karen",
+      "title": "Die Beste Musik Nonstop",
+      "plays": 2
     }
   }
 }
