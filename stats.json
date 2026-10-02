@@ -2,8 +2,8 @@
   "2026-10-02 07:00": {
     "period_start": "2026-10-02T07:00:00+02:00",
     "period_end": "2026-10-03T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "mgk",
@@ -48,6 +48,56 @@
       {
         "artist": "Archive",
         "title": "City Walls",
+        "plays": 1
+      },
+      {
+        "artist": "Ziggy in tha House",
+        "title": "It's Raining",
+        "plays": 1
+      },
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Flamin Hottie",
+        "plays": 1
+      },
+      {
+        "artist": "The Avener",
+        "title": "Fade Out Lines",
+        "plays": 1
+      },
+      {
+        "artist": "Mitski",
+        "title": "That White Cat",
+        "plays": 1
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
+        "plays": 1
+      },
+      {
+        "artist": "Alice Merton",
+        "title": "No Roots",
+        "plays": 1
+      },
+      {
+        "artist": "Aldous Harding",
+        "title": "What Am I Gonna Do?",
+        "plays": 1
+      },
+      {
+        "artist": "Dean Lewis",
+        "title": "Looks Like Me",
+        "plays": 1
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "BLACKPINK",
+        "title": "GO",
         "plays": 1
       }
     ],
