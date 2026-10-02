@@ -6118,5 +6118,65 @@
     "played_at": "2026-10-02 01:20:58 +0200",
     "title": "I Feel So Free",
     "artist": "Madonna"
+  },
+  {
+    "key": "2026-10-02 03:50:38 +0200|In The Living Room|Maggie Rogers",
+    "played_at": "2026-10-02 03:50:38 +0200",
+    "title": "In The Living Room",
+    "artist": "Maggie Rogers"
+  },
+  {
+    "key": "2026-10-02 03:55:02 +0200|Havana|Camila Cabello feat. Young Thug",
+    "played_at": "2026-10-02 03:55:02 +0200",
+    "title": "Havana",
+    "artist": "Camila Cabello feat. Young Thug"
+  },
+  {
+    "key": "2026-10-02 03:58:35 +0200|Run Away from It All|Blackberry Smoke",
+    "played_at": "2026-10-02 03:58:35 +0200",
+    "title": "Run Away from It All",
+    "artist": "Blackberry Smoke"
+  },
+  {
+    "key": "2026-10-02 04:03:03 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-02 04:03:03 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-02 04:05:48 +0200|Baby Kool (Evelyn)|Nothing But Thieves",
+    "played_at": "2026-10-02 04:05:48 +0200",
+    "title": "Baby Kool (Evelyn)",
+    "artist": "Nothing But Thieves"
+  },
+  {
+    "key": "2026-10-02 04:09:32 +0200|Nur die Musik|JORIS",
+    "played_at": "2026-10-02 04:09:32 +0200",
+    "title": "Nur die Musik",
+    "artist": "JORIS"
+  },
+  {
+    "key": "2026-10-02 04:13:06 +0200|Slow It Down|Benson Boone",
+    "played_at": "2026-10-02 04:13:06 +0200",
+    "title": "Slow It Down",
+    "artist": "Benson Boone"
+  },
+  {
+    "key": "2026-10-02 04:15:48 +0200|Bangaranga|Dara",
+    "played_at": "2026-10-02 04:15:48 +0200",
+    "title": "Bangaranga",
+    "artist": "Dara"
+  },
+  {
+    "key": "2026-10-02 04:18:45 +0200|Hero|Family of the Year",
+    "played_at": "2026-10-02 04:18:45 +0200",
+    "title": "Hero",
+    "artist": "Family of the Year"
+  },
+  {
+    "key": "2026-10-02 04:21:55 +0200|Whatever It Takes|Imagine Dragons",
+    "played_at": "2026-10-02 04:21:55 +0200",
+    "title": "Whatever It Takes",
+    "artist": "Imagine Dragons"
   }
 ]
