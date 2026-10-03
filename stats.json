@@ -2,8 +2,8 @@
   "2026-10-03 07:00": {
     "period_start": "2026-10-03T07:00:00+02:00",
     "period_end": "2026-10-04T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "David Guetta; Teddy Swims; Tones and I",
@@ -143,6 +143,56 @@
       {
         "artist": "Jamiroquai",
         "title": "White Knuckle Ride",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Bastille",
+        "title": "Things We Lost In The Fire",
+        "plays": 1
+      },
+      {
+        "artist": "Archive",
+        "title": "City Walls",
+        "plays": 1
+      },
+      {
+        "artist": "Juweel",
+        "title": "Autopilot",
+        "plays": 1
+      },
+      {
+        "artist": "Pashanim",
+        "title": "Sommergewitter",
+        "plays": 1
+      },
+      {
+        "artist": "Avalon Emerson",
+        "title": "Eden",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Love Runs Out",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta feat. Sam Martin",
+        "title": "Lovers on the Sun",
         "plays": 1
       }
     ],
