@@ -2,8 +2,8 @@
   "2026-10-03 07:00": {
     "period_start": "2026-10-03T07:00:00+02:00",
     "period_end": "2026-10-04T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 20,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "David Guetta; Teddy Swims; Tones and I",
@@ -103,6 +103,46 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Monster",
+        "plays": 1
+      },
+      {
+        "artist": "My Darkest Days",
+        "title": "Porn Star Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Wrecked",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Love Again",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Wenn Die Party Vorbei Ist",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heart Of Gold",
+        "plays": 1
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "White Knuckle Ride",
         "plays": 1
       }
     ],
