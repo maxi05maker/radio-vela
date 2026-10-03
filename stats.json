@@ -2,9 +2,14 @@
   "2026-10-03 07:00": {
     "period_start": "2026-10-03T07:00:00+02:00",
     "period_end": "2026-10-04T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 38,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
+        "plays": 2
+      },
       {
         "artist": "David Guetta; Teddy Swims; Tones and I",
         "title": "Gone Gone Gone",
@@ -88,11 +93,6 @@
       {
         "artist": "Benson Boone",
         "title": "Slow It Down",
-        "plays": 1
-      },
-      {
-        "artist": "Walking On Cars",
-        "title": "Speeding Cars",
         "plays": 1
       },
       {
@@ -194,12 +194,52 @@
         "artist": "David Guetta feat. Sam Martin",
         "title": "Lovers on the Sun",
         "plays": 1
+      },
+      {
+        "artist": "ARIANA GRANDE",
+        "title": "Hate That I Made You Love Me   (2026)",
+        "plays": 1
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Dancing’s Done",
+        "plays": 1
+      },
+      {
+        "artist": "Nathan Evans",
+        "title": "Perfect Storm",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Underneath the Tree",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Frampton, Benmont Tench",
+        "title": "Buried Treasure",
+        "plays": 1
+      },
+      {
+        "artist": "Sampa the Great",
+        "title": "Lane feat. Denzel Curry",
+        "plays": 1
+      },
+      {
+        "artist": "Avicii",
+        "title": "Addicted To You",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "David Guetta; Teddy Swims; Tones and I",
-      "title": "Gone Gone Gone",
-      "plays": 1
+      "artist": "Walking On Cars",
+      "title": "Speeding Cars",
+      "plays": 2
     }
   }
 }
