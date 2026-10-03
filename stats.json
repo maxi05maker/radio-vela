@@ -2,8 +2,8 @@
   "2026-10-02 07:00": {
     "period_start": "2026-10-02T07:00:00+02:00",
     "period_end": "2026-10-03T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 39,
+    "total_entries": 50,
+    "music_entries": 49,
     "songs": [
       {
         "artist": "Radio Karen",
@@ -188,6 +188,56 @@
       {
         "artist": "Die Ärzte",
         "title": "True Romance",
+        "plays": 1
+      },
+      {
+        "artist": "Drangsal",
+        "title": "Urlaub Von Mir",
+        "plays": 1
+      },
+      {
+        "artist": "Take That",
+        "title": "Sweet July",
+        "plays": 1
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "Bungalow",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "2001",
+        "plays": 1
+      },
+      {
+        "artist": "Oimara, Melissa Naschenweng",
+        "title": "Koa Bergbauernbua",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Jerry Cantrell",
+        "title": "Atone",
+        "plays": 1
+      },
+      {
+        "artist": "ROSÉ & Bruno Mars",
+        "title": "APT.",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
         "plays": 1
       }
     ],

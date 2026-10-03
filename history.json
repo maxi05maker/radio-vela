@@ -6418,5 +6418,65 @@
     "played_at": "2026-10-03 01:00:13 +0200",
     "title": "True Romance",
     "artist": "Die Ärzte"
+  },
+  {
+    "key": "2026-10-03 03:19:20 +0200|Urlaub Von Mir|Drangsal",
+    "played_at": "2026-10-03 03:19:20 +0200",
+    "title": "Urlaub Von Mir",
+    "artist": "Drangsal"
+  },
+  {
+    "key": "2026-10-03 03:23:22 +0200|Sweet July|Take That",
+    "played_at": "2026-10-03 03:23:22 +0200",
+    "title": "Sweet July",
+    "artist": "Take That"
+  },
+  {
+    "key": "2026-10-03 03:25:46 +0200|Bungalow|Bilderbuch",
+    "played_at": "2026-10-03 03:25:46 +0200",
+    "title": "Bungalow",
+    "artist": "Bilderbuch"
+  },
+  {
+    "key": "2026-10-03 03:29:31 +0200|2001|Foals",
+    "played_at": "2026-10-03 03:29:31 +0200",
+    "title": "2001",
+    "artist": "Foals"
+  },
+  {
+    "key": "2026-10-03 03:33:59 +0200|Koa Bergbauernbua|Oimara, Melissa Naschenweng",
+    "played_at": "2026-10-03 03:33:59 +0200",
+    "title": "Koa Bergbauernbua",
+    "artist": "Oimara, Melissa Naschenweng"
+  },
+  {
+    "key": "2026-10-03 03:37:35 +0200|Bella Napoli|Roy Bianco & Die Abbrunzati Boys",
+    "played_at": "2026-10-03 03:37:35 +0200",
+    "title": "Bella Napoli",
+    "artist": "Roy Bianco & Die Abbrunzati Boys"
+  },
+  {
+    "key": "2026-10-03 03:41:31 +0200|Atone|Jerry Cantrell",
+    "played_at": "2026-10-03 03:41:31 +0200",
+    "title": "Atone",
+    "artist": "Jerry Cantrell"
+  },
+  {
+    "key": "2026-10-03 03:45:44 +0200|APT.|ROSÉ & Bruno Mars",
+    "played_at": "2026-10-03 03:45:44 +0200",
+    "title": "APT.",
+    "artist": "ROSÉ & Bruno Mars"
+  },
+  {
+    "key": "2026-10-03 03:48:34 +0200|Moth To A Flame|Swedish House Mafia & The Weeknd",
+    "played_at": "2026-10-03 03:48:34 +0200",
+    "title": "Moth To A Flame",
+    "artist": "Swedish House Mafia & The Weeknd"
+  },
+  {
+    "key": "2026-10-03 03:52:28 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-10-03 03:52:28 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
   }
 ]
