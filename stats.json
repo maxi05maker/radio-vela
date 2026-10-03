@@ -1,250 +1,65 @@
 {
-  "2026-10-02 07:00": {
-    "period_start": "2026-10-02T07:00:00+02:00",
-    "period_end": "2026-10-03T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 49,
+  "2026-10-03 07:00": {
+    "period_start": "2026-10-03T07:00:00+02:00",
+    "period_end": "2026-10-04T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 2
-      },
-      {
-        "artist": "Mitski",
-        "title": "That White Cat",
-        "plays": 2
-      },
-      {
-        "artist": "mgk",
-        "title": "your name forever",
+        "artist": "David Guetta; Teddy Swims; Tones and I",
+        "title": "Gone Gone Gone",
         "plays": 1
       },
       {
-        "artist": "Katy Perry Feat. Skip Marley",
-        "title": "Chained To The Rhythm",
+        "artist": "Adel Tawil",
+        "title": "Autobahn",
         "plays": 1
       },
       {
-        "artist": "Midlake",
-        "title": "The Ghouls",
+        "artist": "Badmómzjay",
+        "title": "Komm mit",
         "plays": 1
       },
       {
-        "artist": "Dante YN",
-        "title": "Youngstar",
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
         "plays": 1
       },
       {
-        "artist": "Kesha",
-        "title": "DELUSIONAL (Main Version)",
+        "artist": "Kungs",
+        "title": "Clap Your Hands",
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
+        "artist": "Matt Simons",
+        "title": "Open Up",
         "plays": 1
       },
       {
-        "artist": "Dua Lipa",
-        "title": "New Rules",
+        "artist": "David Guetta, Hypaton, Bonnie Tyler",
+        "title": "Together",
         "plays": 1
       },
       {
-        "artist": "Archive",
-        "title": "City Walls",
+        "artist": "Tears For Fears",
+        "title": "No Small Thing",
         "plays": 1
       },
       {
-        "artist": "Ziggy in tha House",
-        "title": "It's Raining",
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
-        "artist": "Megan Thee Stallion",
-        "title": "Flamin Hottie",
-        "plays": 1
-      },
-      {
-        "artist": "The Avener",
-        "title": "Fade Out Lines",
-        "plays": 1
-      },
-      {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
-        "plays": 1
-      },
-      {
-        "artist": "Alice Merton",
-        "title": "No Roots",
-        "plays": 1
-      },
-      {
-        "artist": "Aldous Harding",
-        "title": "What Am I Gonna Do?",
-        "plays": 1
-      },
-      {
-        "artist": "Dean Lewis",
-        "title": "Looks Like Me",
-        "plays": 1
-      },
-      {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
-        "artist": "BLACKPINK",
-        "title": "GO",
-        "plays": 1
-      },
-      {
-        "artist": "Cave, Amo",
-        "title": "CASA CUBA",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth",
-        "title": "One Call Away",
-        "plays": 1
-      },
-      {
-        "artist": "Shirin David",
-        "title": "Ich darf das",
-        "plays": 1
-      },
-      {
-        "artist": "Rea Garvey",
-        "title": "Halo",
-        "plays": 1
-      },
-      {
-        "artist": "Madeline Juno",
-        "title": "Lass mich los",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Bad Habits",
-        "plays": 1
-      },
-      {
-        "artist": "Jack White",
-        "title": "Dollar Bill",
-        "plays": 1
-      },
-      {
-        "artist": "Mario Novembre",
-        "title": "Allein sein",
-        "plays": 1
-      },
-      {
-        "artist": "ABBA",
-        "title": "Little Things",
-        "plays": 1
-      },
-      {
-        "artist": "Taylor Swift",
-        "title": "Willow",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Addison Rae",
-        "title": "Headphones On",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Sofia",
-        "plays": 1
-      },
-      {
-        "artist": "Halsey",
-        "title": "Without Me",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Let it die",
-        "plays": 1
-      },
-      {
-        "artist": "Drake",
-        "title": "God's Plan",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "Serena Joy",
-        "plays": 1
-      },
-      {
-        "artist": "Die Ärzte",
-        "title": "True Romance",
-        "plays": 1
-      },
-      {
-        "artist": "Drangsal",
-        "title": "Urlaub Von Mir",
-        "plays": 1
-      },
-      {
-        "artist": "Take That",
-        "title": "Sweet July",
-        "plays": 1
-      },
-      {
-        "artist": "Bilderbuch",
-        "title": "Bungalow",
-        "plays": 1
-      },
-      {
-        "artist": "Foals",
-        "title": "2001",
-        "plays": 1
-      },
-      {
-        "artist": "Oimara, Melissa Naschenweng",
-        "title": "Koa Bergbauernbua",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "Jerry Cantrell",
-        "title": "Atone",
-        "plays": 1
-      },
-      {
-        "artist": "ROSÉ & Bruno Mars",
-        "title": "APT.",
-        "plays": 1
-      },
-      {
-        "artist": "Swedish House Mafia & The Weeknd",
-        "title": "Moth To A Flame",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
+        "artist": "The Weeknd",
+        "title": "Open Hearts",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Radio Karen",
-      "title": "Die Beste Musik Nonstop",
-      "plays": 2
+      "artist": "David Guetta; Teddy Swims; Tones and I",
+      "title": "Gone Gone Gone",
+      "plays": 1
     }
   }
 }
