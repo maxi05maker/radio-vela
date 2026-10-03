@@ -2,8 +2,8 @@
   "2026-10-03 07:00": {
     "period_start": "2026-10-03T07:00:00+02:00",
     "period_end": "2026-10-04T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "David Guetta; Teddy Swims; Tones and I",
@@ -53,6 +53,56 @@
       {
         "artist": "The Weeknd",
         "title": "Open Hearts",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "Ich Muss Immer An Dich Denken",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Thunder",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Dance With Me",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, The Stickmen Project, Calum Scott",
+        "title": "Rain In Ibiza",
+        "plays": 1
+      },
+      {
+        "artist": "Daniel Schuhmacher",
+        "title": "Anything But Love",
+        "plays": 1
+      },
+      {
+        "artist": "THE BLACK CROWES",
+        "title": "Pharmacy Chronicles",
+        "plays": 1
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 1
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Just Keep Watching",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 1
       }
     ],
