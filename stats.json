@@ -2,9 +2,14 @@
   "2026-10-03 07:00": {
     "period_start": "2026-10-03T07:00:00+02:00",
     "period_end": "2026-10-04T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 47,
+    "total_entries": 60,
+    "music_entries": 56,
     "songs": [
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 2
+      },
       {
         "artist": "Walking On Cars",
         "title": "Speeding Cars",
@@ -48,11 +53,6 @@
       {
         "artist": "Tears For Fears",
         "title": "No Small Thing",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
@@ -234,11 +234,51 @@
         "artist": "Avicii",
         "title": "Addicted To You",
         "plays": 1
+      },
+      {
+        "artist": "Tori Amos",
+        "title": "Song of Sorrow",
+        "plays": 1
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Doors",
+        "plays": 1
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Mh Mh feat. Juju",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Bodies",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Beams",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Paparazzi",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Walking On Cars",
-      "title": "Speeding Cars",
+      "artist": "OneRepublic",
+      "title": "I Ain’t Worried",
       "plays": 2
     }
   }
