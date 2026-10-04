@@ -2,8 +2,8 @@
   "2026-10-04 07:00": {
     "period_start": "2026-10-04T07:00:00+02:00",
     "period_end": "2026-10-05T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 27,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
       {
         "artist": "HUNTRX",
@@ -138,6 +138,56 @@
       {
         "artist": "Ed Sheeran",
         "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "PLH",
+        "title": "PLH",
+        "plays": 1
+      },
+      {
+        "artist": "ELIF",
+        "title": "WENN ICH STERBE",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Bad Habits",
+        "plays": 1
+      },
+      {
+        "artist": "Dropkick Murphys",
+        "title": "Who'll Stand With Us?",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 1
+      },
+      {
+        "artist": "Rosalía",
+        "title": "DESPECHÁ RMX",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "I Don’t Think That I Like Her",
+        "plays": 1
+      },
+      {
+        "artist": "Marshmello & Jonas Brothers",
+        "title": "Slow Motion",
         "plays": 1
       }
     ],
