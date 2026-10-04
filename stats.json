@@ -2,9 +2,14 @@
   "2026-10-04 07:00": {
     "period_start": "2026-10-04T07:00:00+02:00",
     "period_end": "2026-10-05T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 37,
+    "total_entries": 50,
+    "music_entries": 46,
     "songs": [
+      {
+        "artist": "Coldplay",
+        "title": "A Sky Full Of Stars",
+        "plays": 2
+      },
       {
         "artist": "HUNTRX",
         "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
@@ -83,11 +88,6 @@
       {
         "artist": "Justin Jesso",
         "title": "Clarity",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "A Sky Full Of Stars",
         "plays": 1
       },
       {
@@ -189,12 +189,52 @@
         "artist": "Marshmello & Jonas Brothers",
         "title": "Slow Motion",
         "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "All My Life",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Try",
+        "plays": 1
+      },
+      {
+        "artist": "Belle And Sebastian",
+        "title": "Funny Little Frog",
+        "plays": 1
+      },
+      {
+        "artist": "The Lemonheads",
+        "title": "Deep End",
+        "plays": 1
+      },
+      {
+        "artist": "Marit Larsen",
+        "title": "If A Song Could Get Me You",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Dead Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Catch & Release",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "HUNTRX",
-      "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
-      "plays": 1
+      "artist": "Coldplay",
+      "title": "A Sky Full Of Stars",
+      "plays": 2
     }
   }
 }
