@@ -2,8 +2,8 @@
   "2026-10-04 07:00": {
     "period_start": "2026-10-04T07:00:00+02:00",
     "period_end": "2026-10-05T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "HUNTRX",
@@ -48,6 +48,51 @@
       {
         "artist": "Foals",
         "title": "2001",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, The Stickmen Project, Calum Scott",
+        "title": "Rain In Ibiza",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey",
+        "title": "Kiss Me",
+        "plays": 1
+      },
+      {
+        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
+        "title": "VIEWS",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Open Hearts",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "A Sky Full Of Stars",
+        "plays": 1
+      },
+      {
+        "artist": "A7S David Guetta Wizkid",
+        "title": "Lighter",
         "plays": 1
       }
     ],
