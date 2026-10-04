@@ -1,285 +1,60 @@
 {
-  "2026-10-03 07:00": {
-    "period_start": "2026-10-03T07:00:00+02:00",
-    "period_end": "2026-10-04T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 56,
+  "2026-10-04 07:00": {
+    "period_start": "2026-10-04T07:00:00+02:00",
+    "period_end": "2026-10-05T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 2
-      },
-      {
-        "artist": "Walking On Cars",
-        "title": "Speeding Cars",
-        "plays": 2
-      },
-      {
-        "artist": "David Guetta; Teddy Swims; Tones and I",
-        "title": "Gone Gone Gone",
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
         "plays": 1
       },
       {
-        "artist": "Adel Tawil",
-        "title": "Autobahn",
+        "artist": "Olivia Rodrigo",
+        "title": "Good 4 You",
         "plays": 1
       },
       {
-        "artist": "Badmómzjay",
-        "title": "Komm mit",
+        "artist": "Nico Santos feat. Alvaro Soler",
+        "title": "Unforgettable",
         "plays": 1
       },
       {
-        "artist": "Bruce Springsteen",
-        "title": "Streets Of Minneapolis",
+        "artist": "Linkin Park",
+        "title": "The Emptiness Machine",
         "plays": 1
       },
       {
-        "artist": "Kungs",
-        "title": "Clap Your Hands",
+        "artist": "P!nk",
+        "title": "TRUSTFALL",
         "plays": 1
       },
       {
-        "artist": "Matt Simons",
-        "title": "Open Up",
+        "artist": "Justin Bieber",
+        "title": "Ghost",
         "plays": 1
       },
       {
-        "artist": "David Guetta, Hypaton, Bonnie Tyler",
-        "title": "Together",
-        "plays": 1
-      },
-      {
-        "artist": "Tears For Fears",
-        "title": "No Small Thing",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Open Hearts",
-        "plays": 1
-      },
-      {
-        "artist": "SDP",
-        "title": "Ich Muss Immer An Dich Denken",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Thunder",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Dance With Me",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn, The Stickmen Project, Calum Scott",
-        "title": "Rain In Ibiza",
-        "plays": 1
-      },
-      {
-        "artist": "Daniel Schuhmacher",
-        "title": "Anything But Love",
-        "plays": 1
-      },
-      {
-        "artist": "THE BLACK CROWES",
-        "title": "Pharmacy Chronicles",
-        "plays": 1
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "Just Keep Watching",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Alli Neumann",
-        "title": "Monster",
-        "plays": 1
-      },
-      {
-        "artist": "My Darkest Days",
-        "title": "Porn Star Dancing",
-        "plays": 1
-      },
-      {
-        "artist": "Malik Harris",
-        "title": "lie to me",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Wrecked",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "Love Again",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Wenn Die Party Vorbei Ist",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Heart Of Gold",
-        "plays": 1
-      },
-      {
-        "artist": "Jamiroquai",
-        "title": "White Knuckle Ride",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Bastille",
-        "title": "Things We Lost In The Fire",
-        "plays": 1
-      },
-      {
-        "artist": "Archive",
-        "title": "City Walls",
-        "plays": 1
-      },
-      {
-        "artist": "Juweel",
-        "title": "Autopilot",
-        "plays": 1
-      },
-      {
-        "artist": "Pashanim",
-        "title": "Sommergewitter",
-        "plays": 1
-      },
-      {
-        "artist": "Avalon Emerson",
-        "title": "Eden",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "Love Runs Out",
+        "artist": "PinkPantheress",
+        "title": "Illegal",
         "plays": 1
       },
       {
         "artist": "Ed Sheeran",
-        "title": "Bad Habits",
+        "title": "Perfect",
         "plays": 1
       },
       {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta feat. Sam Martin",
-        "title": "Lovers on the Sun",
-        "plays": 1
-      },
-      {
-        "artist": "ARIANA GRANDE",
-        "title": "Hate That I Made You Love Me   (2026)",
-        "plays": 1
-      },
-      {
-        "artist": "Ava Max",
-        "title": "Dancing’s Done",
-        "plays": 1
-      },
-      {
-        "artist": "Nathan Evans",
-        "title": "Perfect Storm",
-        "plays": 1
-      },
-      {
-        "artist": "Kelly Clarkson",
-        "title": "Underneath the Tree",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Frampton, Benmont Tench",
-        "title": "Buried Treasure",
-        "plays": 1
-      },
-      {
-        "artist": "Sampa the Great",
-        "title": "Lane feat. Denzel Curry",
-        "plays": 1
-      },
-      {
-        "artist": "Avicii",
-        "title": "Addicted To You",
-        "plays": 1
-      },
-      {
-        "artist": "Tori Amos",
-        "title": "Song of Sorrow",
-        "plays": 1
-      },
-      {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
-        "plays": 1
-      },
-      {
-        "artist": "Camila Cabello feat. Young Thug",
-        "title": "Havana",
-        "plays": 1
-      },
-      {
-        "artist": "Noah Kahan",
-        "title": "Doors",
-        "plays": 1
-      },
-      {
-        "artist": "Badmómzjay",
-        "title": "Mh Mh feat. Juju",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "Bodies",
-        "plays": 1
-      },
-      {
-        "artist": "Arlo Parks",
-        "title": "Beams",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "Paparazzi",
+        "artist": "Foals",
+        "title": "2001",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "OneRepublic",
-      "title": "I Ain’t Worried",
-      "plays": 2
+      "artist": "HUNTRX",
+      "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+      "plays": 1
     }
   }
 }
