@@ -7198,5 +7198,65 @@
     "played_at": "2026-10-05 03:46:08 +0200",
     "title": "November Rain (2022 Version)",
     "artist": "Guns N' Roses"
+  },
+  {
+    "key": "2026-10-05 10:14:06 +0200|Hurricane Heart|The Mary Onettes",
+    "played_at": "2026-10-05 10:14:06 +0200",
+    "title": "Hurricane Heart",
+    "artist": "The Mary Onettes"
+  },
+  {
+    "key": "2026-10-05 10:17:10 +0200|Love Me Like You Do|Ellie Goulding",
+    "played_at": "2026-10-05 10:17:10 +0200",
+    "title": "Love Me Like You Do",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "key": "2026-10-05 10:21:23 +0200|Satellite|Lena",
+    "played_at": "2026-10-05 10:21:23 +0200",
+    "title": "Satellite",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-10-05 10:24:18 +0200|Interstellar (Zwischen den Sternen)|Sarah Connor & Sido",
+    "played_at": "2026-10-05 10:24:18 +0200",
+    "title": "Interstellar (Zwischen den Sternen)",
+    "artist": "Sarah Connor & Sido"
+  },
+  {
+    "key": "2026-10-05 10:26:46 +0200|Beguiled|The Smashing Pumpkins",
+    "played_at": "2026-10-05 10:26:46 +0200",
+    "title": "Beguiled",
+    "artist": "The Smashing Pumpkins"
+  },
+  {
+    "key": "2026-10-05 10:30:42 +0200|Wenn du tanzt|Von Wegen Lisbeth",
+    "played_at": "2026-10-05 10:30:42 +0200",
+    "title": "Wenn du tanzt",
+    "artist": "Von Wegen Lisbeth"
+  },
+  {
+    "key": "2026-10-05 10:34:32 +0200|World Gone Wild|Robin Schulz & Cyril & Sam Martin",
+    "played_at": "2026-10-05 10:34:32 +0200",
+    "title": "World Gone Wild",
+    "artist": "Robin Schulz & Cyril & Sam Martin"
+  },
+  {
+    "key": "2026-10-05 10:36:59 +0200|Hot Summer|Monrose",
+    "played_at": "2026-10-05 10:36:59 +0200",
+    "title": "Hot Summer",
+    "artist": "Monrose"
+  },
+  {
+    "key": "2026-10-05 10:40:28 +0200|Bei Dir|Kummer",
+    "played_at": "2026-10-05 10:40:28 +0200",
+    "title": "Bei Dir",
+    "artist": "Kummer"
+  },
+  {
+    "key": "2026-10-05 10:44:10 +0200|It's Like That|THE BLACK CROWES",
+    "played_at": "2026-10-05 10:44:10 +0200",
+    "title": "It's Like That",
+    "artist": "THE BLACK CROWES"
   }
 ]

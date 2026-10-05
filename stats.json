@@ -1,290 +1,65 @@
 {
-  "2026-10-04 07:00": {
-    "period_start": "2026-10-04T07:00:00+02:00",
-    "period_end": "2026-10-05T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 56,
+  "2026-10-05 07:00": {
+    "period_start": "2026-10-05T07:00:00+02:00",
+    "period_end": "2026-10-06T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Coldplay",
-        "title": "A Sky Full Of Stars",
-        "plays": 2
-      },
-      {
-        "artist": "HUNTRX",
-        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "artist": "The Mary Onettes",
+        "title": "Hurricane Heart",
         "plays": 1
       },
       {
-        "artist": "Olivia Rodrigo",
-        "title": "Good 4 You",
+        "artist": "Ellie Goulding",
+        "title": "Love Me Like You Do",
         "plays": 1
       },
       {
-        "artist": "Nico Santos feat. Alvaro Soler",
-        "title": "Unforgettable",
+        "artist": "Lena",
+        "title": "Satellite",
         "plays": 1
       },
       {
-        "artist": "Linkin Park",
-        "title": "The Emptiness Machine",
+        "artist": "Sarah Connor & Sido",
+        "title": "Interstellar (Zwischen den Sternen)",
         "plays": 1
       },
       {
-        "artist": "P!nk",
-        "title": "TRUSTFALL",
+        "artist": "The Smashing Pumpkins",
+        "title": "Beguiled",
         "plays": 1
       },
       {
-        "artist": "Justin Bieber",
-        "title": "Ghost",
+        "artist": "Von Wegen Lisbeth",
+        "title": "Wenn du tanzt",
         "plays": 1
       },
       {
-        "artist": "PinkPantheress",
-        "title": "Illegal",
+        "artist": "Robin Schulz & Cyril & Sam Martin",
+        "title": "World Gone Wild",
         "plays": 1
       },
       {
-        "artist": "Ed Sheeran",
-        "title": "Perfect",
+        "artist": "Monrose",
+        "title": "Hot Summer",
         "plays": 1
       },
       {
-        "artist": "Foals",
-        "title": "2001",
+        "artist": "Kummer",
+        "title": "Bei Dir",
         "plays": 1
       },
       {
-        "artist": "Felix Jaehn, The Stickmen Project, Calum Scott",
-        "title": "Rain In Ibiza",
-        "plays": 1
-      },
-      {
-        "artist": "Elton John, Britney Spears",
-        "title": "Hold Me Closer",
-        "plays": 1
-      },
-      {
-        "artist": "Alessia Cara",
-        "title": "Slow Motion",
-        "plays": 1
-      },
-      {
-        "artist": "Rea Garvey",
-        "title": "Kiss Me",
-        "plays": 1
-      },
-      {
-        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
-        "title": "VIEWS",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Open Hearts",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Jesso",
-        "title": "Clarity",
-        "plays": 1
-      },
-      {
-        "artist": "A7S David Guetta Wizkid",
-        "title": "Lighter",
-        "plays": 1
-      },
-      {
-        "artist": "Kylie Minogue & YouNotUs",
-        "title": "Someone For Me",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Sag Mir Was Du Willst",
-        "plays": 1
-      },
-      {
-        "artist": "Beak>",
-        "title": "Secrets",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Anyone For You",
-        "plays": 1
-      },
-      {
-        "artist": "Vanessa Mai & Sido",
-        "title": "Happy End",
-        "plays": 1
-      },
-      {
-        "artist": "Sabrina Carpenter",
-        "title": "Manchild",
-        "plays": 1
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Castle on the Hill",
-        "plays": 1
-      },
-      {
-        "artist": "PLH",
-        "title": "PLH",
-        "plays": 1
-      },
-      {
-        "artist": "ELIF",
-        "title": "WENN ICH STERBE",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Bad Habits",
-        "plays": 1
-      },
-      {
-        "artist": "Dropkick Murphys",
-        "title": "Who'll Stand With Us?",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Bad Liar",
-        "plays": 1
-      },
-      {
-        "artist": "Rosalía",
-        "title": "DESPECHÁ RMX",
-        "plays": 1
-      },
-      {
-        "artist": "Joris",
-        "title": "Zu Viel Retro",
-        "plays": 1
-      },
-      {
-        "artist": "Walking On Cars",
-        "title": "Speeding Cars",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth",
-        "title": "I Don’t Think That I Like Her",
-        "plays": 1
-      },
-      {
-        "artist": "Marshmello & Jonas Brothers",
-        "title": "Slow Motion",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "All My Life",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Try",
-        "plays": 1
-      },
-      {
-        "artist": "Belle And Sebastian",
-        "title": "Funny Little Frog",
-        "plays": 1
-      },
-      {
-        "artist": "The Lemonheads",
-        "title": "Deep End",
-        "plays": 1
-      },
-      {
-        "artist": "Marit Larsen",
-        "title": "If A Song Could Get Me You",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Someone You Loved",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "The Dead Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Matt Simons",
-        "title": "Catch & Release",
-        "plays": 1
-      },
-      {
-        "artist": "James Newton Howard feat. Jennifer Lawrence",
-        "title": "The Hanging Tree",
-        "plays": 1
-      },
-      {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "James Morrison Feat. Nelly Furtado",
-        "title": "Broken Strings",
-        "plays": 1
-      },
-      {
-        "artist": "Blackberry Smoke",
-        "title": "Run Away from It All",
-        "plays": 1
-      },
-      {
-        "artist": "Tyla & Zara Larsson",
-        "title": "SHE DID IT AGAIN",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "Alli Neumann",
-        "title": "Monster",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta; Teddy Swims; Tones and I",
-        "title": "Gone Gone Gone",
-        "plays": 1
-      },
-      {
-        "artist": "Luciano (D)",
-        "title": "We Too Deep",
-        "plays": 1
-      },
-      {
-        "artist": "Guns N' Roses",
-        "title": "November Rain (2022 Version)",
+        "artist": "THE BLACK CROWES",
+        "title": "It's Like That",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Coldplay",
-      "title": "A Sky Full Of Stars",
-      "plays": 2
+      "artist": "The Mary Onettes",
+      "title": "Hurricane Heart",
+      "plays": 1
     }
   }
 }
