@@ -2,8 +2,8 @@
   "2026-10-05 07:00": {
     "period_start": "2026-10-05T07:00:00+02:00",
     "period_end": "2026-10-06T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -53,6 +53,51 @@
       {
         "artist": "THE BLACK CROWES",
         "title": "It's Like That",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Fliegen",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Giant Rooks",
+        "title": "Cold Wars",
+        "plays": 1
+      },
+      {
+        "artist": "257ers",
+        "title": "Ich Will Meer",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "SDP & Montez",
+        "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
+        "plays": 1
+      },
+      {
+        "artist": "Waving The Guns",
+        "title": "Schürhaken",
         "plays": 1
       }
     ],
