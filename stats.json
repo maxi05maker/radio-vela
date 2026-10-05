@@ -2,8 +2,8 @@
   "2026-10-05 07:00": {
     "period_start": "2026-10-05T07:00:00+02:00",
     "period_end": "2026-10-06T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "The Mary Onettes",
@@ -98,6 +98,56 @@
       {
         "artist": "Waving The Guns",
         "title": "Schürhaken",
+        "plays": 1
+      },
+      {
+        "artist": "U2",
+        "title": "American Obituary",
+        "plays": 1
+      },
+      {
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "Neil Young",
+        "title": "A New Day For Love",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "The Moon Cave",
+        "plays": 1
+      },
+      {
+        "artist": "LEA x LUNA",
+        "title": "Küsse wie Gift",
+        "plays": 1
+      },
+      {
+        "artist": "Fever Ray",
+        "title": "Carbon Dioxide",
+        "plays": 1
+      },
+      {
+        "artist": "The Smile",
+        "title": "Bodies Laughing",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Es könnte grad nicht schöner sein",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Anyone For You",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
         "plays": 1
       }
     ],
