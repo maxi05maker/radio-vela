@@ -2,8 +2,8 @@
   "2026-10-04 07:00": {
     "period_start": "2026-10-04T07:00:00+02:00",
     "period_end": "2026-10-05T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 46,
+    "total_entries": 60,
+    "music_entries": 56,
     "songs": [
       {
         "artist": "Coldplay",
@@ -228,6 +228,56 @@
       {
         "artist": "Matt Simons",
         "title": "Catch & Release",
+        "plays": 1
+      },
+      {
+        "artist": "James Newton Howard feat. Jennifer Lawrence",
+        "title": "The Hanging Tree",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "James Morrison Feat. Nelly Furtado",
+        "title": "Broken Strings",
+        "plays": 1
+      },
+      {
+        "artist": "Blackberry Smoke",
+        "title": "Run Away from It All",
+        "plays": 1
+      },
+      {
+        "artist": "Tyla & Zara Larsson",
+        "title": "SHE DID IT AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Monster",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta; Teddy Swims; Tones and I",
+        "title": "Gone Gone Gone",
+        "plays": 1
+      },
+      {
+        "artist": "Luciano (D)",
+        "title": "We Too Deep",
+        "plays": 1
+      },
+      {
+        "artist": "Guns N' Roses",
+        "title": "November Rain (2022 Version)",
         "plays": 1
       }
     ],
