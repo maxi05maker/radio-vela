@@ -1,200 +1,65 @@
 {
-  "2026-10-05 07:00": {
-    "period_start": "2026-10-05T07:00:00+02:00",
-    "period_end": "2026-10-06T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 38,
+  "2026-10-06 07:00": {
+    "period_start": "2026-10-06T07:00:00+02:00",
+    "period_end": "2026-10-07T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 2
-      },
-      {
-        "artist": "The Mary Onettes",
-        "title": "Hurricane Heart",
+        "artist": "Walk The Moon",
+        "title": "Shut Up and Dance",
         "plays": 1
       },
       {
-        "artist": "Ellie Goulding",
-        "title": "Love Me Like You Do",
+        "artist": "Adele",
+        "title": "Easy On Me",
         "plays": 1
       },
       {
-        "artist": "Lena",
-        "title": "Satellite",
+        "artist": "Madonna",
+        "title": "I Feel So Free",
         "plays": 1
       },
       {
-        "artist": "Sarah Connor & Sido",
-        "title": "Interstellar (Zwischen den Sternen)",
+        "artist": "Foals",
+        "title": "2001",
         "plays": 1
       },
       {
-        "artist": "The Smashing Pumpkins",
-        "title": "Beguiled",
+        "artist": "Joel Corry & Tom Grennan",
+        "title": "Lionheart (Fearless)",
         "plays": 1
       },
       {
-        "artist": "Von Wegen Lisbeth",
-        "title": "Wenn du tanzt",
+        "artist": "Rise Against",
+        "title": "Nod",
         "plays": 1
       },
       {
-        "artist": "Robin Schulz & Cyril & Sam Martin",
-        "title": "World Gone Wild",
+        "artist": "Tones and I",
+        "title": "Dance Monkey",
         "plays": 1
       },
       {
-        "artist": "Monrose",
-        "title": "Hot Summer",
+        "artist": "The Scythe",
+        "title": "The Scythe",
         "plays": 1
       },
       {
-        "artist": "Kummer",
-        "title": "Bei Dir",
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
-        "artist": "THE BLACK CROWES",
-        "title": "It's Like That",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Fliegen",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Giant Rooks",
-        "title": "Cold Wars",
-        "plays": 1
-      },
-      {
-        "artist": "257ers",
-        "title": "Ich Will Meer",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Someone You Loved",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "SDP & Montez",
-        "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
-        "plays": 1
-      },
-      {
-        "artist": "Waving The Guns",
-        "title": "Schürhaken",
-        "plays": 1
-      },
-      {
-        "artist": "U2",
-        "title": "American Obituary",
-        "plays": 1
-      },
-      {
-        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
-        "title": "Sommer",
-        "plays": 1
-      },
-      {
-        "artist": "Neil Young",
-        "title": "A New Day For Love",
-        "plays": 1
-      },
-      {
-        "artist": "Gorillaz",
-        "title": "The Moon Cave",
-        "plays": 1
-      },
-      {
-        "artist": "LEA x LUNA",
-        "title": "Küsse wie Gift",
-        "plays": 1
-      },
-      {
-        "artist": "Fever Ray",
-        "title": "Carbon Dioxide",
-        "plays": 1
-      },
-      {
-        "artist": "The Smile",
-        "title": "Bodies Laughing",
-        "plays": 1
-      },
-      {
-        "artist": "Blond",
-        "title": "Es könnte grad nicht schöner sein",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Anyone For You",
-        "plays": 1
-      },
-      {
-        "artist": "Monet192",
-        "title": "Nicht Perfekt",
-        "plays": 1
-      },
-      {
-        "artist": "Milow",
-        "title": "DeLorean",
-        "plays": 1
-      },
-      {
-        "artist": "Marshmello & Jonas Brothers",
-        "title": "Slow Motion",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Your Song",
-        "plays": 1
-      },
-      {
-        "artist": "Casper feat. Drangsal",
-        "title": "Keine Angst",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "The One",
-        "plays": 1
-      },
-      {
-        "artist": "Panic! At the Disco",
-        "title": "High Hopes",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Fender",
-        "title": "People Watching",
-        "plays": 1
-      },
-      {
-        "artist": "Lena x Nico Santos",
-        "title": "Better",
+        "artist": "Linkin Park",
+        "title": "Burn It Down",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Michael Schulte, R3HAB",
-      "title": "Waterfall",
-      "plays": 2
+      "artist": "Walk The Moon",
+      "title": "Shut Up and Dance",
+      "plays": 1
     }
   }
 }

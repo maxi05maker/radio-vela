@@ -7438,5 +7438,65 @@
     "played_at": "2026-10-06 04:39:57 +0200",
     "title": "Better",
     "artist": "Lena x Nico Santos"
+  },
+  {
+    "key": "2026-10-06 11:21:00 +0200|Shut Up and Dance|Walk The Moon",
+    "played_at": "2026-10-06 11:21:00 +0200",
+    "title": "Shut Up and Dance",
+    "artist": "Walk The Moon"
+  },
+  {
+    "key": "2026-10-06 11:24:19 +0200|Easy On Me|Adele",
+    "played_at": "2026-10-06 11:24:19 +0200",
+    "title": "Easy On Me",
+    "artist": "Adele"
+  },
+  {
+    "key": "2026-10-06 11:27:58 +0200|I Feel So Free|Madonna",
+    "played_at": "2026-10-06 11:27:58 +0200",
+    "title": "I Feel So Free",
+    "artist": "Madonna"
+  },
+  {
+    "key": "2026-10-06 11:32:55 +0200|2001|Foals",
+    "played_at": "2026-10-06 11:32:55 +0200",
+    "title": "2001",
+    "artist": "Foals"
+  },
+  {
+    "key": "2026-10-06 11:37:22 +0200|Lionheart (Fearless)|Joel Corry & Tom Grennan",
+    "played_at": "2026-10-06 11:37:22 +0200",
+    "title": "Lionheart (Fearless)",
+    "artist": "Joel Corry & Tom Grennan"
+  },
+  {
+    "key": "2026-10-06 11:40:29 +0200|Nod|Rise Against",
+    "played_at": "2026-10-06 11:40:29 +0200",
+    "title": "Nod",
+    "artist": "Rise Against"
+  },
+  {
+    "key": "2026-10-06 11:43:31 +0200|Dance Monkey|Tones and I",
+    "played_at": "2026-10-06 11:43:31 +0200",
+    "title": "Dance Monkey",
+    "artist": "Tones and I"
+  },
+  {
+    "key": "2026-10-06 11:46:59 +0200|The Scythe|The Scythe",
+    "played_at": "2026-10-06 11:46:59 +0200",
+    "title": "The Scythe",
+    "artist": "The Scythe"
+  },
+  {
+    "key": "2026-10-06 11:49:56 +0200|I Ain’t Worried|OneRepublic",
+    "played_at": "2026-10-06 11:49:56 +0200",
+    "title": "I Ain’t Worried",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-10-06 11:52:23 +0200|Burn It Down|Linkin Park",
+    "played_at": "2026-10-06 11:52:23 +0200",
+    "title": "Burn It Down",
+    "artist": "Linkin Park"
   }
 ]
