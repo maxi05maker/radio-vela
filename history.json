@@ -7498,5 +7498,65 @@
     "played_at": "2026-10-06 11:52:23 +0200",
     "title": "Burn It Down",
     "artist": "Linkin Park"
+  },
+  {
+    "key": "2026-10-06 17:56:04 +0200|Heartbeat Song|Kelly Clarkson",
+    "played_at": "2026-10-06 17:56:04 +0200",
+    "title": "Heartbeat Song",
+    "artist": "Kelly Clarkson"
+  },
+  {
+    "key": "2026-10-06 17:59:24 +0200|Alright|Sam Fender",
+    "played_at": "2026-10-06 17:59:24 +0200",
+    "title": "Alright",
+    "artist": "Sam Fender"
+  },
+  {
+    "key": "2026-10-06 18:03:47 +0200|Hurricane Heart|The Mary Onettes",
+    "played_at": "2026-10-06 18:03:47 +0200",
+    "title": "Hurricane Heart",
+    "artist": "The Mary Onettes"
+  },
+  {
+    "key": "2026-10-06 18:06:51 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-06 18:06:51 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-06 18:09:34 +0200|Auf uns|Andreas Bourani",
+    "played_at": "2026-10-06 18:09:34 +0200",
+    "title": "Auf uns",
+    "artist": "Andreas Bourani"
+  },
+  {
+    "key": "2026-10-06 18:13:33 +0200|Whataya Want From Me|Adam Lambert",
+    "played_at": "2026-10-06 18:13:33 +0200",
+    "title": "Whataya Want From Me",
+    "artist": "Adam Lambert"
+  },
+  {
+    "key": "2026-10-06 18:17:20 +0200|Ain't In LA|ADÉLA",
+    "played_at": "2026-10-06 18:17:20 +0200",
+    "title": "Ain't In LA",
+    "artist": "ADÉLA"
+  },
+  {
+    "key": "2026-10-06 18:20:25 +0200|Shake It Off|Taylor Swift",
+    "played_at": "2026-10-06 18:20:25 +0200",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift"
+  },
+  {
+    "key": "2026-10-06 18:24:01 +0200|Heartbeat|Shawn Mendes",
+    "played_at": "2026-10-06 18:24:01 +0200",
+    "title": "Heartbeat",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-10-06 18:26:21 +0200|The Hives Forever Forever The Hives|The Hives",
+    "played_at": "2026-10-06 18:26:21 +0200",
+    "title": "The Hives Forever Forever The Hives",
+    "artist": "The Hives"
   }
 ]

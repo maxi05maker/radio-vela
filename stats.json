@@ -2,8 +2,8 @@
   "2026-10-06 07:00": {
     "period_start": "2026-10-06T07:00:00+02:00",
     "period_end": "2026-10-07T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Walk The Moon",
@@ -53,6 +53,51 @@
       {
         "artist": "Linkin Park",
         "title": "Burn It Down",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Heartbeat Song",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Fender",
+        "title": "Alright",
+        "plays": 1
+      },
+      {
+        "artist": "The Mary Onettes",
+        "title": "Hurricane Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Andreas Bourani",
+        "title": "Auf uns",
+        "plays": 1
+      },
+      {
+        "artist": "Adam Lambert",
+        "title": "Whataya Want From Me",
+        "plays": 1
+      },
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Shake It Off",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heartbeat",
+        "plays": 1
+      },
+      {
+        "artist": "The Hives",
+        "title": "The Hives Forever Forever The Hives",
         "plays": 1
       }
     ],
