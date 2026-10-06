@@ -7558,5 +7558,65 @@
     "played_at": "2026-10-06 18:26:21 +0200",
     "title": "The Hives Forever Forever The Hives",
     "artist": "The Hives"
+  },
+  {
+    "key": "2026-10-06 22:30:01 +0200|The Heart Part 5|Kendrick Lamar",
+    "played_at": "2026-10-06 22:30:01 +0200",
+    "title": "The Heart Part 5",
+    "artist": "Kendrick Lamar"
+  },
+  {
+    "key": "2026-10-06 22:35:35 +0200|Wrecking Ball|Miley Cyrus",
+    "played_at": "2026-10-06 22:35:35 +0200",
+    "title": "Wrecking Ball",
+    "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-10-06 22:42:22 +0200|Lose Control|Teddy Swims",
+    "played_at": "2026-10-06 22:42:22 +0200",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-10-06 22:45:53 +0200|Diamonds|Josef Salvat",
+    "played_at": "2026-10-06 22:45:53 +0200",
+    "title": "Diamonds",
+    "artist": "Josef Salvat"
+  },
+  {
+    "key": "2026-10-06 22:49:54 +0200|Dollar Bill|Jack White",
+    "played_at": "2026-10-06 22:49:54 +0200",
+    "title": "Dollar Bill",
+    "artist": "Jack White"
+  },
+  {
+    "key": "2026-10-06 22:52:37 +0200|My Way|Calvin Harris",
+    "played_at": "2026-10-06 22:52:37 +0200",
+    "title": "My Way",
+    "artist": "Calvin Harris"
+  },
+  {
+    "key": "2026-10-06 22:56:15 +0200|Call on Me|Starley",
+    "played_at": "2026-10-06 22:56:15 +0200",
+    "title": "Call on Me",
+    "artist": "Starley"
+  },
+  {
+    "key": "2026-10-06 22:59:27 +0200|Low Life|Lucinda Williams",
+    "played_at": "2026-10-06 22:59:27 +0200",
+    "title": "Low Life",
+    "artist": "Lucinda Williams"
+  },
+  {
+    "key": "2026-10-06 23:03:51 +0200|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-10-06 23:03:51 +0200",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-10-06 23:04:27 +0200|Waiting on the sky to change|STARSET, Breaking Benjamin, Judge & Jury",
+    "played_at": "2026-10-06 23:04:27 +0200",
+    "title": "Waiting on the sky to change",
+    "artist": "STARSET, Breaking Benjamin, Judge & Jury"
   }
 ]

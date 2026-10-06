@@ -2,8 +2,8 @@
   "2026-10-06 07:00": {
     "period_start": "2026-10-06T07:00:00+02:00",
     "period_end": "2026-10-07T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Walk The Moon",
@@ -98,6 +98,51 @@
       {
         "artist": "The Hives",
         "title": "The Hives Forever Forever The Hives",
+        "plays": 1
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "title": "The Heart Part 5",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Josef Salvat",
+        "title": "Diamonds",
+        "plays": 1
+      },
+      {
+        "artist": "Jack White",
+        "title": "Dollar Bill",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "My Way",
+        "plays": 1
+      },
+      {
+        "artist": "Starley",
+        "title": "Call on Me",
+        "plays": 1
+      },
+      {
+        "artist": "Lucinda Williams",
+        "title": "Low Life",
+        "plays": 1
+      },
+      {
+        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+        "title": "Waiting on the sky to change",
         "plays": 1
       }
     ],
