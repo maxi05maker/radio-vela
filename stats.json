@@ -2,9 +2,14 @@
   "2026-10-05 07:00": {
     "period_start": "2026-10-05T07:00:00+02:00",
     "period_end": "2026-10-06T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 38,
     "songs": [
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 2
+      },
       {
         "artist": "The Mary Onettes",
         "title": "Hurricane Heart",
@@ -58,11 +63,6 @@
       {
         "artist": "Nina Chuba",
         "title": "Fliegen",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
         "plays": 1
       },
       {
@@ -149,12 +149,52 @@
         "artist": "Monet192",
         "title": "Nicht Perfekt",
         "plays": 1
+      },
+      {
+        "artist": "Milow",
+        "title": "DeLorean",
+        "plays": 1
+      },
+      {
+        "artist": "Marshmello & Jonas Brothers",
+        "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Your Song",
+        "plays": 1
+      },
+      {
+        "artist": "Casper feat. Drangsal",
+        "title": "Keine Angst",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "The One",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Fender",
+        "title": "People Watching",
+        "plays": 1
+      },
+      {
+        "artist": "Lena x Nico Santos",
+        "title": "Better",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "The Mary Onettes",
-      "title": "Hurricane Heart",
-      "plays": 1
+      "artist": "Michael Schulte, R3HAB",
+      "title": "Waterfall",
+      "plays": 2
     }
   }
 }
