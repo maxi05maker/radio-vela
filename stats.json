@@ -2,9 +2,14 @@
   "2026-10-06 07:00": {
     "period_start": "2026-10-06T07:00:00+02:00",
     "period_end": "2026-10-07T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
+      {
+        "artist": "Kendrick Lamar",
+        "title": "The Heart Part 5",
+        "plays": 2
+      },
       {
         "artist": "Walk The Moon",
         "title": "Shut Up and Dance",
@@ -101,11 +106,6 @@
         "plays": 1
       },
       {
-        "artist": "Kendrick Lamar",
-        "title": "The Heart Part 5",
-        "plays": 1
-      },
-      {
         "artist": "Miley Cyrus",
         "title": "Wrecking Ball",
         "plays": 1
@@ -144,12 +144,52 @@
         "artist": "STARSET, Breaking Benjamin, Judge & Jury",
         "title": "Waiting on the sky to change",
         "plays": 1
+      },
+      {
+        "artist": "Romy",
+        "title": "Love Who You Love",
+        "plays": 1
+      },
+      {
+        "artist": "LINKIN PARK & Kiiara",
+        "title": "Heavy",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben",
+        "title": "She Moves (feat. Graham Candy)",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Beams",
+        "plays": 1
+      },
+      {
+        "artist": "Bastille",
+        "title": "Things We Lost In The Fire",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Fallin",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Frampton, Benmont Tench",
+        "title": "Buried Treasure",
+        "plays": 1
+      },
+      {
+        "artist": "The Black Keys",
+        "title": "Lonely Boy",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Walk The Moon",
-      "title": "Shut Up and Dance",
-      "plays": 1
+      "artist": "Kendrick Lamar",
+      "title": "The Heart Part 5",
+      "plays": 2
     }
   }
 }
