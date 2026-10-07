@@ -1,195 +1,60 @@
 {
-  "2026-10-06 07:00": {
-    "period_start": "2026-10-06T07:00:00+02:00",
-    "period_end": "2026-10-07T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 37,
+  "2026-10-07 07:00": {
+    "period_start": "2026-10-07T07:00:00+02:00",
+    "period_end": "2026-10-08T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Kendrick Lamar",
-        "title": "The Heart Part 5",
-        "plays": 2
-      },
-      {
-        "artist": "Walk The Moon",
-        "title": "Shut Up and Dance",
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 1
       },
       {
-        "artist": "Adele",
-        "title": "Easy On Me",
+        "artist": "Maggie Rogers",
+        "title": "In The Living Room",
         "plays": 1
       },
       {
-        "artist": "Madonna",
-        "title": "I Feel So Free",
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
         "plays": 1
       },
       {
-        "artist": "Foals",
-        "title": "2001",
+        "artist": "Tears For Fears",
+        "title": "No Small Thing",
         "plays": 1
       },
       {
-        "artist": "Joel Corry & Tom Grennan",
-        "title": "Lionheart (Fearless)",
+        "artist": "AFROJACK, Sia, David Guetta",
+        "title": "Awake Tonight",
         "plays": 1
       },
       {
-        "artist": "Rise Against",
-        "title": "Nod",
+        "artist": "Purple Disco Machine/Sophie and the Giants",
+        "title": "In The Dark",
         "plays": 1
       },
       {
-        "artist": "Tones and I",
-        "title": "Dance Monkey",
+        "artist": "Myle",
+        "title": "Hold Me",
         "plays": 1
       },
       {
-        "artist": "The Scythe",
-        "title": "The Scythe",
+        "artist": "Harry Styles",
+        "title": "American Girls",
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Linkin Park",
-        "title": "Burn It Down",
-        "plays": 1
-      },
-      {
-        "artist": "Kelly Clarkson",
-        "title": "Heartbeat Song",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Fender",
-        "title": "Alright",
-        "plays": 1
-      },
-      {
-        "artist": "The Mary Onettes",
-        "title": "Hurricane Heart",
-        "plays": 1
-      },
-      {
-        "artist": "Andreas Bourani",
-        "title": "Auf uns",
-        "plays": 1
-      },
-      {
-        "artist": "Adam Lambert",
-        "title": "Whataya Want From Me",
-        "plays": 1
-      },
-      {
-        "artist": "ADÉLA",
-        "title": "Ain't In LA",
-        "plays": 1
-      },
-      {
-        "artist": "Taylor Swift",
-        "title": "Shake It Off",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Heartbeat",
-        "plays": 1
-      },
-      {
-        "artist": "The Hives",
-        "title": "The Hives Forever Forever The Hives",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "Wrecking Ball",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Josef Salvat",
-        "title": "Diamonds",
-        "plays": 1
-      },
-      {
-        "artist": "Jack White",
-        "title": "Dollar Bill",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris",
-        "title": "My Way",
-        "plays": 1
-      },
-      {
-        "artist": "Starley",
-        "title": "Call on Me",
-        "plays": 1
-      },
-      {
-        "artist": "Lucinda Williams",
-        "title": "Low Life",
-        "plays": 1
-      },
-      {
-        "artist": "STARSET, Breaking Benjamin, Judge & Jury",
-        "title": "Waiting on the sky to change",
-        "plays": 1
-      },
-      {
-        "artist": "Romy",
-        "title": "Love Who You Love",
-        "plays": 1
-      },
-      {
-        "artist": "LINKIN PARK & Kiiara",
-        "title": "Heavy",
-        "plays": 1
-      },
-      {
-        "artist": "Alle Farben",
-        "title": "She Moves (feat. Graham Candy)",
-        "plays": 1
-      },
-      {
-        "artist": "Arlo Parks",
-        "title": "Beams",
-        "plays": 1
-      },
-      {
-        "artist": "Bastille",
-        "title": "Things We Lost In The Fire",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "Fallin",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Frampton, Benmont Tench",
-        "title": "Buried Treasure",
-        "plays": 1
-      },
-      {
-        "artist": "The Black Keys",
-        "title": "Lonely Boy",
+        "artist": "Bow Anderson",
+        "title": "20s",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Kendrick Lamar",
-      "title": "The Heart Part 5",
-      "plays": 2
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 1
     }
   }
 }
