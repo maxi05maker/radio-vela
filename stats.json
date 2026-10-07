@@ -2,8 +2,8 @@
   "2026-10-07 07:00": {
     "period_start": "2026-10-07T07:00:00+02:00",
     "period_end": "2026-10-08T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "Tears For Fears",
@@ -88,6 +88,51 @@
       {
         "artist": "Yungblud",
         "title": "Memories",
+        "plays": 1
+      },
+      {
+        "artist": "LEA x LUNA",
+        "title": "Küsse wie Gift",
+        "plays": 1
+      },
+      {
+        "artist": "Floodlights",
+        "title": "Can You Feel It",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "ELIF",
+        "title": "WENN ICH STERBE",
+        "plays": 1
+      },
+      {
+        "artist": "TWICE",
+        "title": "Strategy (feat. Megan Thee Stallion)",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Wrecked",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Beautiful Trauma",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Manchild",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Diese Nacht",
         "plays": 1
       }
     ],
