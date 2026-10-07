@@ -7858,5 +7858,65 @@
     "played_at": "2026-10-07 21:20:54 +0200",
     "title": "Diese Nacht",
     "artist": "Provinz"
+  },
+  {
+    "key": "2026-10-08 00:53:01 +0200|Pumped Up Kicks|Foster The People",
+    "played_at": "2026-10-08 00:53:01 +0200",
+    "title": "Pumped Up Kicks",
+    "artist": "Foster The People"
+  },
+  {
+    "key": "2026-10-08 00:56:59 +0200|Let Her Go|Passenger",
+    "played_at": "2026-10-08 00:56:59 +0200",
+    "title": "Let Her Go",
+    "artist": "Passenger"
+  },
+  {
+    "key": "2026-10-08 01:01:09 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-08 01:01:09 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-08 01:04:06 +0200|The Fate of Ophelia|Taylor Swift",
+    "played_at": "2026-10-08 01:04:06 +0200",
+    "title": "The Fate of Ophelia",
+    "artist": "Taylor Swift"
+  },
+  {
+    "key": "2026-10-08 01:07:52 +0200|Let You Love Me|Rita Ora",
+    "played_at": "2026-10-08 01:07:52 +0200",
+    "title": "Let You Love Me",
+    "artist": "Rita Ora"
+  },
+  {
+    "key": "2026-10-08 01:11:00 +0200|Only the Strong Survive|Bruce Springsteen",
+    "played_at": "2026-10-08 01:11:00 +0200",
+    "title": "Only the Strong Survive",
+    "artist": "Bruce Springsteen"
+  },
+  {
+    "key": "2026-10-08 01:13:59 +0200|DREAMING ON|Paul Kalkbrenner",
+    "played_at": "2026-10-08 01:13:59 +0200",
+    "title": "DREAMING ON",
+    "artist": "Paul Kalkbrenner"
+  },
+  {
+    "key": "2026-10-08 01:17:49 +0200|Ganztagsradio|Jingle",
+    "played_at": "2026-10-08 01:17:49 +0200",
+    "title": "Ganztagsradio",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-10-08 01:18:30 +0200|Madness|Muse",
+    "played_at": "2026-10-08 01:18:30 +0200",
+    "title": "Madness",
+    "artist": "Muse"
+  },
+  {
+    "key": "2026-10-08 01:23:10 +0200|Cousine|Die P",
+    "played_at": "2026-10-08 01:23:10 +0200",
+    "title": "Cousine",
+    "artist": "Die P"
   }
 ]

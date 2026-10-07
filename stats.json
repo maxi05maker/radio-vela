@@ -2,8 +2,8 @@
   "2026-10-07 07:00": {
     "period_start": "2026-10-07T07:00:00+02:00",
     "period_end": "2026-10-08T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 27,
+    "total_entries": 40,
+    "music_entries": 35,
     "songs": [
       {
         "artist": "Tears For Fears",
@@ -133,6 +133,46 @@
       {
         "artist": "Provinz",
         "title": "Diese Nacht",
+        "plays": 1
+      },
+      {
+        "artist": "Foster The People",
+        "title": "Pumped Up Kicks",
+        "plays": 1
+      },
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "The Fate of Ophelia",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 1
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Only the Strong Survive",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "DREAMING ON",
+        "plays": 1
+      },
+      {
+        "artist": "Muse",
+        "title": "Madness",
+        "plays": 1
+      },
+      {
+        "artist": "Die P",
+        "title": "Cousine",
         "plays": 1
       }
     ],
