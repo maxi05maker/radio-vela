@@ -2,8 +2,8 @@
   "2026-10-08 07:00": {
     "period_start": "2026-10-08T07:00:00+02:00",
     "period_end": "2026-10-09T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Olly Murs",
@@ -98,6 +98,56 @@
       {
         "artist": "LAYLA",
         "title": "Poster Girl",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Less Than Zero",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "DREAMING ON",
+        "plays": 1
+      },
+      {
+        "artist": "Casper feat. Drangsal",
+        "title": "Keine Angst",
+        "plays": 1
+      },
+      {
+        "artist": "Oliver Tree x Robin Schulz",
+        "title": "Miss You",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "Alanis Morissette",
+        "title": "You Oughta Know",
+        "plays": 1
+      },
+      {
+        "artist": "J Balvin & Ed Sheeran",
+        "title": "Sigue",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Midnight Sun",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers feat. Daya",
+        "title": "Don't Let Me Down",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
         "plays": 1
       }
     ],
