@@ -1,43 +1,18 @@
 {
-  "2026-10-07 07:00": {
-    "period_start": "2026-10-07T07:00:00+02:00",
-    "period_end": "2026-10-08T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 45,
+  "2026-10-08 07:00": {
+    "period_start": "2026-10-08T07:00:00+02:00",
+    "period_end": "2026-10-09T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 2
-      },
-      {
-        "artist": "Tears For Fears",
-        "title": "No Small Thing",
-        "plays": 2
-      },
-      {
-        "artist": "Maggie Rogers",
-        "title": "In The Living Room",
+        "artist": "Olly Murs",
+        "title": "Dear Darlin'",
         "plays": 1
       },
       {
-        "artist": "The Weeknd",
-        "title": "Out Of Time",
-        "plays": 1
-      },
-      {
-        "artist": "AFROJACK, Sia, David Guetta",
-        "title": "Awake Tonight",
-        "plays": 1
-      },
-      {
-        "artist": "Purple Disco Machine/Sophie and the Giants",
-        "title": "In The Dark",
-        "plays": 1
-      },
-      {
-        "artist": "Myle",
-        "title": "Hold Me",
+        "artist": "Machine Gun Kelly, glaive",
+        "title": "More than life",
         "plays": 1
       },
       {
@@ -46,185 +21,40 @@
         "plays": 1
       },
       {
-        "artist": "Bow Anderson",
-        "title": "20s",
+        "artist": "Adele",
+        "title": "Skyfall",
         "plays": 1
       },
       {
-        "artist": "Mabel X Jax Jones X Galatis",
-        "title": "Good Luck",
+        "artist": "OneRepublic",
+        "title": "Sunshine",
         "plays": 1
       },
       {
-        "artist": "Lady Gaga, Doechii",
-        "title": "Runway",
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
         "plays": 1
       },
       {
-        "artist": "Milow",
-        "title": "ASAP",
+        "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
+        "title": "In Your Arms (For An Angel)",
         "plays": 1
       },
       {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "Moses Pelham",
-        "title": "Lappen Wie Du",
-        "plays": 1
-      },
-      {
-        "artist": "ClockClock",
-        "title": "Sorry",
-        "plays": 1
-      },
-      {
-        "artist": "The Marías",
-        "title": "Back To Me",
-        "plays": 1
-      },
-      {
-        "artist": "Yungblud",
-        "title": "Memories",
-        "plays": 1
-      },
-      {
-        "artist": "LEA x LUNA",
-        "title": "Küsse wie Gift",
-        "plays": 1
-      },
-      {
-        "artist": "Floodlights",
-        "title": "Can You Feel It",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Jesso",
-        "title": "Clarity",
-        "plays": 1
-      },
-      {
-        "artist": "ELIF",
-        "title": "WENN ICH STERBE",
-        "plays": 1
-      },
-      {
-        "artist": "TWICE",
-        "title": "Strategy (feat. Megan Thee Stallion)",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Wrecked",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Beautiful Trauma",
-        "plays": 1
-      },
-      {
-        "artist": "Sabrina Carpenter",
-        "title": "Manchild",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Diese Nacht",
-        "plays": 1
-      },
-      {
-        "artist": "Foster The People",
-        "title": "Pumped Up Kicks",
-        "plays": 1
-      },
-      {
-        "artist": "Passenger",
-        "title": "Let Her Go",
-        "plays": 1
-      },
-      {
-        "artist": "Taylor Swift",
-        "title": "The Fate of Ophelia",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
+        "artist": "Shirin David",
+        "title": "Ich darf das",
         "plays": 1
       },
       {
         "artist": "Bruce Springsteen",
-        "title": "Only the Strong Survive",
-        "plays": 1
-      },
-      {
-        "artist": "Paul Kalkbrenner",
-        "title": "DREAMING ON",
-        "plays": 1
-      },
-      {
-        "artist": "Muse",
-        "title": "Madness",
-        "plays": 1
-      },
-      {
-        "artist": "Die P",
-        "title": "Cousine",
-        "plays": 1
-      },
-      {
-        "artist": "Tyla & Zara Larsson",
-        "title": "SHE DID IT AGAIN",
-        "plays": 1
-      },
-      {
-        "artist": "Florence And The Machine",
-        "title": "Spectrum (Say My Name)",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Try",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Frampton feat.Tom Morello",
-        "title": "Lions At The Gate",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Esther Graf",
-        "title": "Dafuer War Es Echt",
-        "plays": 1
-      },
-      {
-        "artist": "t-low",
-        "title": "We Made It (feat. Miksu / Macloud)",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith, Kim Petras",
-        "title": "Unholy (feat. Kim Petras)",
-        "plays": 1
-      },
-      {
-        "artist": "Alex Warren",
-        "title": "EMERALD EYES",
+        "title": "Streets Of Minneapolis",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
-      "plays": 2
+      "artist": "Olly Murs",
+      "title": "Dear Darlin'",
+      "plays": 1
     }
   }
 }
