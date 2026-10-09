@@ -1,83 +1,23 @@
 {
-  "2026-10-08 07:00": {
-    "period_start": "2026-10-08T07:00:00+02:00",
-    "period_end": "2026-10-09T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 37,
+  "2026-10-09 07:00": {
+    "period_start": "2026-10-09T07:00:00+02:00",
+    "period_end": "2026-10-10T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Olly Murs",
-        "title": "Dear Darlin'",
+        "artist": "Vanessa Mai & Sido",
+        "title": "Happy End",
         "plays": 1
       },
       {
-        "artist": "Machine Gun Kelly, glaive",
-        "title": "More than life",
+        "artist": "Coldplay",
+        "title": "Higher Power",
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "American Girls",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Skyfall",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE",
-        "title": "WHERE IS MY HUSBAND!",
-        "plays": 1
-      },
-      {
-        "artist": "Topic, Robin Schulz, Nico Santos & Paul Van Dyk",
-        "title": "In Your Arms (For An Angel)",
-        "plays": 1
-      },
-      {
-        "artist": "Shirin David",
-        "title": "Ich darf das",
-        "plays": 1
-      },
-      {
-        "artist": "Bruce Springsteen",
-        "title": "Streets Of Minneapolis",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "ZAZ",
-        "title": "Serendipia",
-        "plays": 1
-      },
-      {
-        "artist": "amaarae",
-        "title": "S.M.O.",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn",
-        "title": "Do It Better (feat. Zoe Wees)",
-        "plays": 1
-      },
-      {
-        "artist": "Revolverheld feat. Antje Schomaker",
-        "title": "Liebe auf Distanz",
-        "plays": 1
-      },
-      {
-        "artist": "CHAPO102 x GUSTAV",
-        "title": "WARSCHAU",
+        "artist": "Nina Chuba x Tokio Hotel",
+        "title": "Fata Morgana",
         "plays": 1
       },
       {
@@ -86,114 +26,39 @@
         "plays": 1
       },
       {
-        "artist": "Miley Cyrus",
-        "title": "End of the world",
+        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
+        "title": "Sommer",
         "plays": 1
       },
       {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
+        "artist": "Bebe Rexha & Faithless",
+        "title": "New Religion",
         "plays": 1
       },
       {
-        "artist": "LAYLA",
-        "title": "Poster Girl",
+        "artist": "Katy Perry",
+        "title": "Roar",
         "plays": 1
       },
       {
-        "artist": "The Weeknd",
-        "title": "Less Than Zero",
+        "artist": "Diana Ross & Tame Impala",
+        "title": "Turn Up The Sunshine",
         "plays": 1
       },
       {
-        "artist": "Paul Kalkbrenner",
-        "title": "DREAMING ON",
-        "plays": 1
-      },
-      {
-        "artist": "Casper feat. Drangsal",
-        "title": "Keine Angst",
-        "plays": 1
-      },
-      {
-        "artist": "Oliver Tree x Robin Schulz",
-        "title": "Miss You",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris,Jazzy",
-        "title": "Satisfy",
-        "plays": 1
-      },
-      {
-        "artist": "Alanis Morissette",
-        "title": "You Oughta Know",
-        "plays": 1
-      },
-      {
-        "artist": "J Balvin & Ed Sheeran",
-        "title": "Sigue",
-        "plays": 1
-      },
-      {
-        "artist": "Zara Larsson",
-        "title": "Midnight Sun",
-        "plays": 1
-      },
-      {
-        "artist": "The Chainsmokers feat. Daya",
-        "title": "Don't Let Me Down",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Human Being",
-        "plays": 1
-      },
-      {
-        "artist": "Bosse",
-        "title": "Vergangenheit",
-        "plays": 1
-      },
-      {
-        "artist": "Rosalía",
-        "title": "DESPECHÁ RMX",
-        "plays": 1
-      },
-      {
-        "artist": "Rea Garvey",
-        "title": "Halo",
+        "artist": "Post Malone",
+        "title": "I Had Some Help (feat. Morgan Wallen)",
         "plays": 1
       },
       {
         "artist": "Kelvin Jones",
         "title": "Don't Let Me Go",
         "plays": 1
-      },
-      {
-        "artist": "Olly Murs",
-        "title": "Marry Me",
-        "plays": 1
-      },
-      {
-        "artist": "Black Country Communion",
-        "title": "Skyway",
-        "plays": 1
-      },
-      {
-        "artist": "Ava Max",
-        "title": "One Of Us",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Olly Murs",
-      "title": "Dear Darlin'",
+      "artist": "Vanessa Mai & Sido",
+      "title": "Happy End",
       "plays": 1
     }
   }
