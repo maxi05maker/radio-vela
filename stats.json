@@ -2,8 +2,8 @@
   "2026-10-09 07:00": {
     "period_start": "2026-10-09T07:00:00+02:00",
     "period_end": "2026-10-10T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 27,
+    "total_entries": 40,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "Vanessa Mai & Sido",
@@ -138,6 +138,51 @@
       {
         "artist": "Felix Jaehn JHart",
         "title": "PRIDE",
+        "plays": 1
+      },
+      {
+        "artist": "No Angels",
+        "title": "When the Angels Sing",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit",
+        "title": "Rather Be (feat. Jess Glynne)",
+        "plays": 1
+      },
+      {
+        "artist": "JJerome87",
+        "title": "Mr. Alligator",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Wenn Die Party Vorbei Ist",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Ja",
+        "plays": 1
+      },
+      {
+        "artist": "Joji",
+        "title": "Love Me Better",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Whatever",
+        "plays": 1
+      },
+      {
+        "artist": "Olly Murs",
+        "title": "Dear Darlin'",
         "plays": 1
       }
     ],
