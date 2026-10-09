@@ -2,8 +2,8 @@
   "2026-10-08 07:00": {
     "period_start": "2026-10-08T07:00:00+02:00",
     "period_end": "2026-10-09T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
       {
         "artist": "Olly Murs",
@@ -148,6 +148,46 @@
       {
         "artist": "Nico Santos",
         "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Vergangenheit",
+        "plays": 1
+      },
+      {
+        "artist": "Rosalía",
+        "title": "DESPECHÁ RMX",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey",
+        "title": "Halo",
+        "plays": 1
+      },
+      {
+        "artist": "Kelvin Jones",
+        "title": "Don't Let Me Go",
+        "plays": 1
+      },
+      {
+        "artist": "Olly Murs",
+        "title": "Marry Me",
+        "plays": 1
+      },
+      {
+        "artist": "Black Country Communion",
+        "title": "Skyway",
+        "plays": 1
+      },
+      {
+        "artist": "Ava Max",
+        "title": "One Of Us",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 1
       }
     ],
