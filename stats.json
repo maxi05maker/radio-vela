@@ -1,239 +1,64 @@
 {
-  "2026-10-09 07:00": {
-    "period_start": "2026-10-09T07:00:00+02:00",
-    "period_end": "2026-10-10T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 45,
+  "2026-10-10 07:00": {
+    "period_start": "2026-10-10T07:00:00+02:00",
+    "period_end": "2026-10-11T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Vanessa Mai & Sido",
-        "title": "Happy End",
+        "artist": "Jason Mraz",
+        "title": "Have It All",
         "plays": 1
       },
       {
-        "artist": "Coldplay",
-        "title": "Higher Power",
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
         "plays": 1
       },
       {
-        "artist": "Nina Chuba x Tokio Hotel",
-        "title": "Fata Morgana",
-        "plays": 1
-      },
-      {
-        "artist": "Kaleo Sansaa",
-        "title": "Waste Of Sin",
-        "plays": 1
-      },
-      {
-        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
-        "title": "Sommer",
-        "plays": 1
-      },
-      {
-        "artist": "Bebe Rexha & Faithless",
-        "title": "New Religion",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Roar",
-        "plays": 1
-      },
-      {
-        "artist": "Diana Ross & Tame Impala",
-        "title": "Turn Up The Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "Post Malone",
-        "title": "I Had Some Help (feat. Morgan Wallen)",
-        "plays": 1
-      },
-      {
-        "artist": "Kelvin Jones",
-        "title": "Don't Let Me Go",
-        "plays": 1
-      },
-      {
-        "artist": "Nickelback",
-        "title": "if today was your last day",
-        "plays": 1
-      },
-      {
-        "artist": "K'Naan",
-        "title": "Wavin' Flag",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba & Makko",
-        "title": "Fucked Up feat. makko",
-        "plays": 1
-      },
-      {
-        "artist": "Schnuffel",
-        "title": "Kuschel Song",
-        "plays": 1
-      },
-      {
-        "artist": "Madonna",
-        "title": "Danceteria",
-        "plays": 1
-      },
-      {
-        "artist": "070 Shake",
-        "title": "Lose My Cool feat. NLE Choppa",
-        "plays": 1
-      },
-      {
-        "artist": "James Blunt",
-        "title": "Bonfire Heart",
-        "plays": 1
-      },
-      {
-        "artist": "Stray Kids",
-        "title": "RUN IT",
-        "plays": 1
-      },
-      {
-        "artist": "Kyle Pearce",
-        "title": "I Don't Care",
-        "plays": 1
-      },
-      {
-        "artist": "FLO",
-        "title": "Leak It",
+        "artist": "Casper feat. Drangsal",
+        "title": "Keine Angst",
         "plays": 1
       },
       {
         "artist": "Leony",
-        "title": "Faded Love",
+        "title": "Remedy",
         "plays": 1
       },
       {
-        "artist": "Foster The People",
-        "title": "Pumped Up Kicks",
+        "artist": "Genesis Owusu",
+        "title": "Stampede",
         "plays": 1
       },
       {
-        "artist": "amaarae",
-        "title": "S.M.O.",
+        "artist": "Demi Lovato",
+        "title": "SKIN OF MY TEETH",
         "plays": 1
       },
       {
-        "artist": "SOEN",
-        "title": "Draconian",
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
         "plays": 1
       },
       {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
+        "artist": "Zartmann",
+        "title": "tau mich auf",
         "plays": 1
       },
       {
-        "artist": "Cro",
-        "title": "Smooth",
+        "artist": "Lena",
+        "title": "Thank You",
         "plays": 1
       },
       {
-        "artist": "Felix Jaehn JHart",
-        "title": "PRIDE",
-        "plays": 1
-      },
-      {
-        "artist": "No Angels",
-        "title": "When the Angels Sing",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "Clean Bandit",
-        "title": "Rather Be (feat. Jess Glynne)",
-        "plays": 1
-      },
-      {
-        "artist": "JJerome87",
-        "title": "Mr. Alligator",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Wenn Die Party Vorbei Ist",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "Ja",
-        "plays": 1
-      },
-      {
-        "artist": "Joji",
-        "title": "Love Me Better",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Whatever",
-        "plays": 1
-      },
-      {
-        "artist": "Olly Murs",
-        "title": "Dear Darlin'",
-        "plays": 1
-      },
-      {
-        "artist": "Paramore",
-        "title": "Hard Times",
-        "plays": 1
-      },
-      {
-        "artist": "Diskoromantik",
-        "title": "Slow Down",
-        "plays": 1
-      },
-      {
-        "artist": "Hundreds",
-        "title": "Fallacies",
-        "plays": 1
-      },
-      {
-        "artist": "Scissor Sisters",
-        "title": "I Dont Feel Like Dancing",
-        "plays": 1
-      },
-      {
-        "artist": "Kamrad",
-        "title": "I Believe",
-        "plays": 1
-      },
-      {
-        "artist": "Ziggy in tha House",
-        "title": "It's Raining",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Fox",
-        "title": "Haus am See",
-        "plays": 1
-      },
-      {
-        "artist": "Muse",
-        "title": "Madness",
-        "plays": 1
-      },
-      {
-        "artist": "BLACKPINK",
-        "title": "JUMP",
+        "artist": "Rosalía",
+        "title": "DESPECHÁ RMX",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Vanessa Mai & Sido",
-      "title": "Happy End",
+      "artist": "Jason Mraz",
+      "title": "Have It All",
       "plays": 1
     }
   }
