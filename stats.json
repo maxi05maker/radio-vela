@@ -2,8 +2,8 @@
   "2026-10-10 07:00": {
     "period_start": "2026-10-10T07:00:00+02:00",
     "period_end": "2026-10-11T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Jason Mraz",
@@ -53,6 +53,56 @@
       {
         "artist": "Rosalía",
         "title": "DESPECHÁ RMX",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
+        "plays": 1
+      },
+      {
+        "artist": "AJR",
+        "title": "The DJ Is Crying For Help",
+        "plays": 1
+      },
+      {
+        "artist": "Jack White",
+        "title": "Dollar Bill",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso X Elif",
+        "title": "Mond",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, Ray Dalton",
+        "title": "Call It Love",
+        "plays": 1
+      },
+      {
+        "artist": "THE BLACK CROWES",
+        "title": "It's Like That",
+        "plays": 1
+      },
+      {
+        "artist": "Kaleo Sansaa",
+        "title": "Waste Of Sin",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "With You",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Its ok Im ok",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Tippa My Tongue",
         "plays": 1
       }
     ],
