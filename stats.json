@@ -2,8 +2,8 @@
   "2026-10-09 07:00": {
     "period_start": "2026-10-09T07:00:00+02:00",
     "period_end": "2026-10-10T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 36,
+    "total_entries": 50,
+    "music_entries": 45,
     "songs": [
       {
         "artist": "Vanessa Mai & Sido",
@@ -183,6 +183,51 @@
       {
         "artist": "Olly Murs",
         "title": "Dear Darlin'",
+        "plays": 1
+      },
+      {
+        "artist": "Paramore",
+        "title": "Hard Times",
+        "plays": 1
+      },
+      {
+        "artist": "Diskoromantik",
+        "title": "Slow Down",
+        "plays": 1
+      },
+      {
+        "artist": "Hundreds",
+        "title": "Fallacies",
+        "plays": 1
+      },
+      {
+        "artist": "Scissor Sisters",
+        "title": "I Dont Feel Like Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "I Believe",
+        "plays": 1
+      },
+      {
+        "artist": "Ziggy in tha House",
+        "title": "It's Raining",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Fox",
+        "title": "Haus am See",
+        "plays": 1
+      },
+      {
+        "artist": "Muse",
+        "title": "Madness",
+        "plays": 1
+      },
+      {
+        "artist": "BLACKPINK",
+        "title": "JUMP",
         "plays": 1
       }
     ],
