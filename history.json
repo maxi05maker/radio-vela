@@ -8638,5 +8638,65 @@
     "played_at": "2026-10-10 16:44:09 +0200",
     "title": "Tippa My Tongue",
     "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "key": "2026-10-10 20:35:57 +0200|Juicebox|The Strokes",
+    "played_at": "2026-10-10 20:35:57 +0200",
+    "title": "Juicebox",
+    "artist": "The Strokes"
+  },
+  {
+    "key": "2026-10-10 20:39:14 +0200|Closer|The Chainsmokers feat. Halsey",
+    "played_at": "2026-10-10 20:39:14 +0200",
+    "title": "Closer",
+    "artist": "The Chainsmokers feat. Halsey"
+  },
+  {
+    "key": "2026-10-10 20:43:19 +0200|Godspeed|Camila Cabello",
+    "played_at": "2026-10-10 20:43:19 +0200",
+    "title": "Godspeed",
+    "artist": "Camila Cabello"
+  },
+  {
+    "key": "2026-10-10 20:46:50 +0200|Anyone For You|George Ezra",
+    "played_at": "2026-10-10 20:46:50 +0200",
+    "title": "Anyone For You",
+    "artist": "George Ezra"
+  },
+  {
+    "key": "2026-10-10 20:49:57 +0200|Bad Habits|Ed Sheeran",
+    "played_at": "2026-10-10 20:49:57 +0200",
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-10-10 20:53:48 +0200|I Had Some Help (feat. Morgan Wallen)|Post Malone",
+    "played_at": "2026-10-10 20:53:48 +0200",
+    "title": "I Had Some Help (feat. Morgan Wallen)",
+    "artist": "Post Malone"
+  },
+  {
+    "key": "2026-10-10 20:56:45 +0200|It'll Be Okay|Shawn Mendes",
+    "played_at": "2026-10-10 20:56:45 +0200",
+    "title": "It'll Be Okay",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-10-10 21:00:28 +0200|Remember Me|Michael Schulte",
+    "played_at": "2026-10-10 21:00:28 +0200",
+    "title": "Remember Me",
+    "artist": "Michael Schulte"
+  },
+  {
+    "key": "2026-10-10 21:04:02 +0200|Revolving door|Tate McRae",
+    "played_at": "2026-10-10 21:04:02 +0200",
+    "title": "Revolving door",
+    "artist": "Tate McRae"
+  },
+  {
+    "key": "2026-10-10 21:06:59 +0200|Speeding Cars|Walking On Cars",
+    "played_at": "2026-10-10 21:06:59 +0200",
+    "title": "Speeding Cars",
+    "artist": "Walking On Cars"
   }
 ]
