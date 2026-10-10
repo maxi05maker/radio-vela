@@ -2,8 +2,8 @@
   "2026-10-10 07:00": {
     "period_start": "2026-10-10T07:00:00+02:00",
     "period_end": "2026-10-11T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 30,
+    "total_entries": 40,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "Jason Mraz",
@@ -153,6 +153,46 @@
       {
         "artist": "Walking On Cars",
         "title": "Speeding Cars",
+        "plays": 1
+      },
+      {
+        "artist": "LISA FEAT. DOJA CAT & RAYE",
+        "title": "BORN AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 1
+      },
+      {
+        "artist": "Sparks",
+        "title": "Do Things My Own Way",
+        "plays": 1
+      },
+      {
+        "artist": "Jungle",
+        "title": "Busy Earnin'",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "Du hast gehofft",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 1
       }
     ],
