@@ -2,9 +2,14 @@
   "2026-10-11 07:00": {
     "period_start": "2026-10-11T07:00:00+02:00",
     "period_end": "2026-10-12T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 2
+      },
       {
         "artist": "Charlie Puth",
         "title": "Light Switch",
@@ -58,11 +63,6 @@
       {
         "artist": "Joji",
         "title": "Love Me Better",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -144,12 +144,52 @@
         "artist": "Kungs",
         "title": "Clap Your Hands",
         "plays": 1
+      },
+      {
+        "artist": "Sophia Kennedy",
+        "title": "Rodeo",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine/Sophie and the Giants",
+        "title": "In The Dark",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Du und Ich",
+        "plays": 1
+      },
+      {
+        "artist": "Montez",
+        "title": "Überfall",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "2001",
+        "plays": 1
+      },
+      {
+        "artist": "amaarae",
+        "title": "S.M.O.",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "ZAZ",
+        "title": "Serendipia",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Charlie Puth",
-      "title": "Light Switch",
-      "plays": 1
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
+      "plays": 2
     }
   }
 }
