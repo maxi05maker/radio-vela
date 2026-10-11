@@ -2,8 +2,8 @@
   "2026-10-11 07:00": {
     "period_start": "2026-10-11T07:00:00+02:00",
     "period_end": "2026-10-12T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Charlie Puth",
@@ -53,6 +53,56 @@
       {
         "artist": "Milow",
         "title": "Howling At The Moon",
+        "plays": 1
+      },
+      {
+        "artist": "Joji",
+        "title": "Love Me Better",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Billy Idol",
+        "title": "Bitter Taste",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba, Provinz",
+        "title": "Ich glaub ich will heut nicht mehr gehen",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL, Imael Angel, Ultra Naté",
+        "title": "Movin' To The Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit",
+        "title": "Rather Be (feat. Jess Glynne)",
+        "plays": 1
+      },
+      {
+        "artist": "The National",
+        "title": "Mr. November",
+        "plays": 1
+      },
+      {
+        "artist": "Dea Bbz",
+        "title": "Dauerregen",
         "plays": 1
       }
     ],
