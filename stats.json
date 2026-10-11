@@ -2,9 +2,14 @@
   "2026-10-10 07:00": {
     "period_start": "2026-10-10T07:00:00+02:00",
     "period_end": "2026-10-11T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 38,
+    "total_entries": 50,
+    "music_entries": 48,
     "songs": [
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 2
+      },
       {
         "artist": "Jason Mraz",
         "title": "Have It All",
@@ -161,11 +166,6 @@
         "plays": 1
       },
       {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
-        "plays": 1
-      },
-      {
         "artist": "Sparks",
         "title": "Do Things My Own Way",
         "plays": 1
@@ -194,12 +194,57 @@
         "artist": "Roy Bianco & Die Abbrunzati Boys",
         "title": "Bella Napoli",
         "plays": 1
+      },
+      {
+        "artist": "Jonathan Jeremiah",
+        "title": "Kolkata Bear",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Flowers",
+        "plays": 1
+      },
+      {
+        "artist": "Mia Morgan",
+        "title": "Schönere Frauen",
+        "plays": 1
+      },
+      {
+        "artist": "The Smile",
+        "title": "Bodies Laughing",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Love On The Brain",
+        "plays": 1
+      },
+      {
+        "artist": "Sophia Kennedy",
+        "title": "Rodeo",
+        "plays": 1
+      },
+      {
+        "artist": "Panic At The Disco",
+        "title": "Viva Las Vengeance",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Sacrifice",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Midnight Sun",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Jason Mraz",
-      "title": "Have It All",
-      "plays": 1
+      "artist": "Benson Boone",
+      "title": "Slow It Down",
+      "plays": 2
     }
   }
 }
