@@ -1,250 +1,65 @@
 {
-  "2026-10-10 07:00": {
-    "period_start": "2026-10-10T07:00:00+02:00",
-    "period_end": "2026-10-11T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 48,
+  "2026-10-11 07:00": {
+    "period_start": "2026-10-11T07:00:00+02:00",
+    "period_end": "2026-10-12T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
+      {
+        "artist": "Charlie Puth",
+        "title": "Light Switch",
+        "plays": 1
+      },
+      {
+        "artist": "The Mary Onettes",
+        "title": "Hurricane Heart",
+        "plays": 1
+      },
+      {
+        "artist": "LINKIN PARK & Kiiara",
+        "title": "Heavy",
+        "plays": 1
+      },
+      {
+        "artist": "Pitbull Feat. Ke$ha",
+        "title": "Timber",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Apágame",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
       {
         "artist": "Benson Boone",
         "title": "Slow It Down",
-        "plays": 2
-      },
-      {
-        "artist": "Jason Mraz",
-        "title": "Have It All",
         "plays": 1
       },
       {
-        "artist": "Joris",
-        "title": "Zu Viel Retro",
+        "artist": "Alex Warren",
+        "title": "EMERALD EYES",
         "plays": 1
       },
       {
-        "artist": "Casper feat. Drangsal",
-        "title": "Keine Angst",
+        "artist": "Harry Styles",
+        "title": "As It Was",
         "plays": 1
       },
       {
-        "artist": "Leony",
-        "title": "Remedy",
-        "plays": 1
-      },
-      {
-        "artist": "Genesis Owusu",
-        "title": "Stampede",
-        "plays": 1
-      },
-      {
-        "artist": "Demi Lovato",
-        "title": "SKIN OF MY TEETH",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE, 070 Shake",
-        "title": "Escapism.",
-        "plays": 1
-      },
-      {
-        "artist": "Zartmann",
-        "title": "tau mich auf",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Thank You",
-        "plays": 1
-      },
-      {
-        "artist": "Rosalía",
-        "title": "DESPECHÁ RMX",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Out Of Time",
-        "plays": 1
-      },
-      {
-        "artist": "AJR",
-        "title": "The DJ Is Crying For Help",
-        "plays": 1
-      },
-      {
-        "artist": "Jack White",
-        "title": "Dollar Bill",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso X Elif",
-        "title": "Mond",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn, Ray Dalton",
-        "title": "Call It Love",
-        "plays": 1
-      },
-      {
-        "artist": "THE BLACK CROWES",
-        "title": "It's Like That",
-        "plays": 1
-      },
-      {
-        "artist": "Kaleo Sansaa",
-        "title": "Waste Of Sin",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "With You",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "Its ok Im ok",
-        "plays": 1
-      },
-      {
-        "artist": "Red Hot Chili Peppers",
-        "title": "Tippa My Tongue",
-        "plays": 1
-      },
-      {
-        "artist": "The Strokes",
-        "title": "Juicebox",
-        "plays": 1
-      },
-      {
-        "artist": "The Chainsmokers feat. Halsey",
-        "title": "Closer",
-        "plays": 1
-      },
-      {
-        "artist": "Camila Cabello",
-        "title": "Godspeed",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Anyone For You",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Bad Habits",
-        "plays": 1
-      },
-      {
-        "artist": "Post Malone",
-        "title": "I Had Some Help (feat. Morgan Wallen)",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "It'll Be Okay",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Remember Me",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "Revolving door",
-        "plays": 1
-      },
-      {
-        "artist": "Walking On Cars",
-        "title": "Speeding Cars",
-        "plays": 1
-      },
-      {
-        "artist": "LISA FEAT. DOJA CAT & RAYE",
-        "title": "BORN AGAIN",
-        "plays": 1
-      },
-      {
-        "artist": "Sparks",
-        "title": "Do Things My Own Way",
-        "plays": 1
-      },
-      {
-        "artist": "Jungle",
-        "title": "Busy Earnin'",
-        "plays": 1
-      },
-      {
-        "artist": "SDP",
-        "title": "Du hast gehofft",
-        "plays": 1
-      },
-      {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "Jonathan Jeremiah",
-        "title": "Kolkata Bear",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "Flowers",
-        "plays": 1
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Schönere Frauen",
-        "plays": 1
-      },
-      {
-        "artist": "The Smile",
-        "title": "Bodies Laughing",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna",
-        "title": "Love On The Brain",
-        "plays": 1
-      },
-      {
-        "artist": "Sophia Kennedy",
-        "title": "Rodeo",
-        "plays": 1
-      },
-      {
-        "artist": "Panic At The Disco",
-        "title": "Viva Las Vengeance",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Sacrifice",
-        "plays": 1
-      },
-      {
-        "artist": "Zara Larsson",
-        "title": "Midnight Sun",
+        "artist": "Milow",
+        "title": "Howling At The Moon",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Benson Boone",
-      "title": "Slow It Down",
-      "plays": 2
+      "artist": "Charlie Puth",
+      "title": "Light Switch",
+      "plays": 1
     }
   }
 }

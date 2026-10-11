@@ -8818,5 +8818,65 @@
     "played_at": "2026-10-11 03:00:49 +0200",
     "title": "Midnight Sun",
     "artist": "Zara Larsson"
+  },
+  {
+    "key": "2026-10-11 08:36:38 +0200|Light Switch|Charlie Puth",
+    "played_at": "2026-10-11 08:36:38 +0200",
+    "title": "Light Switch",
+    "artist": "Charlie Puth"
+  },
+  {
+    "key": "2026-10-11 08:39:44 +0200|Hurricane Heart|The Mary Onettes",
+    "played_at": "2026-10-11 08:39:44 +0200",
+    "title": "Hurricane Heart",
+    "artist": "The Mary Onettes"
+  },
+  {
+    "key": "2026-10-11 08:42:49 +0200|Heavy|LINKIN PARK & Kiiara",
+    "played_at": "2026-10-11 08:42:49 +0200",
+    "title": "Heavy",
+    "artist": "LINKIN PARK & Kiiara"
+  },
+  {
+    "key": "2026-10-11 08:45:37 +0200|Timber|Pitbull Feat. Ke$ha",
+    "played_at": "2026-10-11 08:45:37 +0200",
+    "title": "Timber",
+    "artist": "Pitbull Feat. Ke$ha"
+  },
+  {
+    "key": "2026-10-11 08:49:01 +0200|Apágame|Alvaro Soler",
+    "played_at": "2026-10-11 08:49:01 +0200",
+    "title": "Apágame",
+    "artist": "Alvaro Soler"
+  },
+  {
+    "key": "2026-10-11 08:52:05 +0200|Lost Without You (with Dean Lewis)|Kygo & Dean Lewis",
+    "played_at": "2026-10-11 08:52:05 +0200",
+    "title": "Lost Without You (with Dean Lewis)",
+    "artist": "Kygo & Dean Lewis"
+  },
+  {
+    "key": "2026-10-11 08:55:29 +0200|Slow It Down|Benson Boone",
+    "played_at": "2026-10-11 08:55:29 +0200",
+    "title": "Slow It Down",
+    "artist": "Benson Boone"
+  },
+  {
+    "key": "2026-10-11 08:58:11 +0200|EMERALD EYES|Alex Warren",
+    "played_at": "2026-10-11 08:58:11 +0200",
+    "title": "EMERALD EYES",
+    "artist": "Alex Warren"
+  },
+  {
+    "key": "2026-10-11 09:00:47 +0200|As It Was|Harry Styles",
+    "played_at": "2026-10-11 09:00:47 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-10-11 09:03:35 +0200|Howling At The Moon|Milow",
+    "played_at": "2026-10-11 09:03:35 +0200",
+    "title": "Howling At The Moon",
+    "artist": "Milow"
   }
 ]
