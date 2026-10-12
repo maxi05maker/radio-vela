@@ -2,8 +2,8 @@
   "2026-10-12 07:00": {
     "period_start": "2026-10-12T07:00:00+02:00",
     "period_end": "2026-10-13T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "Michael Schulte, R3HAB",
@@ -98,6 +98,46 @@
       {
         "artist": "Justin Bieber",
         "title": "Daisies",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL, Imael Angel, Ultra Naté",
+        "title": "Movin' To The Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Confusion",
+        "plays": 1
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Barfuß am Klavier",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "Ich Muss Immer An Dich Denken",
+        "plays": 1
+      },
+      {
+        "artist": "LISA FEAT. DOJA CAT & RAYE",
+        "title": "BORN AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Olly Murs",
+        "title": "Dear Darlin'",
+        "plays": 1
+      },
+      {
+        "artist": "Linkin Park",
+        "title": "waiting for the end",
         "plays": 1
       }
     ],

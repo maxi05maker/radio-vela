@@ -9238,5 +9238,65 @@
     "played_at": "2026-10-12 18:55:14 +0200",
     "title": "Daisies",
     "artist": "Justin Bieber"
+  },
+  {
+    "key": "2026-10-13 00:47:13 +0200|Movin' To The Sun|HUGEL, Imael Angel, Ultra Naté",
+    "played_at": "2026-10-13 00:47:13 +0200",
+    "title": "Movin' To The Sun",
+    "artist": "HUGEL, Imael Angel, Ultra Naté"
+  },
+  {
+    "key": "2026-10-13 00:49:36 +0200|Confusion|Electric Light Orchestra",
+    "played_at": "2026-10-13 00:49:36 +0200",
+    "title": "Confusion",
+    "artist": "Electric Light Orchestra"
+  },
+  {
+    "key": "2026-10-13 00:53:17 +0200|Barfuß am Klavier|AnnenMayKantereit",
+    "played_at": "2026-10-13 00:53:17 +0200",
+    "title": "Barfuß am Klavier",
+    "artist": "AnnenMayKantereit"
+  },
+  {
+    "key": "2026-10-13 00:56:32 +0200|Slow Motion|Alessia Cara",
+    "played_at": "2026-10-13 00:56:32 +0200",
+    "title": "Slow Motion",
+    "artist": "Alessia Cara"
+  },
+  {
+    "key": "2026-10-13 00:59:55 +0200|Ich Muss Immer An Dich Denken|SDP",
+    "played_at": "2026-10-13 00:59:55 +0200",
+    "title": "Ich Muss Immer An Dich Denken",
+    "artist": "SDP"
+  },
+  {
+    "key": "2026-10-13 01:03:10 +0200|Ganztagsradio|Jingle",
+    "played_at": "2026-10-13 01:03:10 +0200",
+    "title": "Ganztagsradio",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-10-13 01:03:50 +0200|BORN AGAIN|LISA FEAT. DOJA CAT & RAYE",
+    "played_at": "2026-10-13 01:03:50 +0200",
+    "title": "BORN AGAIN",
+    "artist": "LISA FEAT. DOJA CAT & RAYE"
+  },
+  {
+    "key": "2026-10-13 01:07:42 +0200|Dear Darlin'|Olly Murs",
+    "played_at": "2026-10-13 01:07:42 +0200",
+    "title": "Dear Darlin'",
+    "artist": "Olly Murs"
+  },
+  {
+    "key": "2026-10-13 01:11:09 +0200|waiting for the end|Linkin Park",
+    "played_at": "2026-10-13 01:11:09 +0200",
+    "title": "waiting for the end",
+    "artist": "Linkin Park"
+  },
+  {
+    "key": "2026-10-13 01:15:00 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-13 01:15:00 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
