@@ -2,8 +2,8 @@
   "2026-10-12 07:00": {
     "period_start": "2026-10-12T07:00:00+02:00",
     "period_end": "2026-10-13T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Michael Schulte, R3HAB",
@@ -53,6 +53,51 @@
       {
         "artist": "blackbear",
         "title": "The idea",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Parallelwelt",
+        "plays": 1
+      },
+      {
+        "artist": "Florence And The Machine",
+        "title": "You've Got The Love",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Timberland",
+        "title": "Apologize (feat One Republic)",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Fender",
+        "title": "People Watching",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit",
+        "title": "Rather Be (feat. Jess Glynne)",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Daisies",
         "plays": 1
       }
     ],
