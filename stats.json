@@ -2,8 +2,8 @@
   "2026-10-11 07:00": {
     "period_start": "2026-10-11T07:00:00+02:00",
     "period_end": "2026-10-12T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 37,
+    "total_entries": 50,
+    "music_entries": 46,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -183,6 +183,51 @@
       {
         "artist": "ZAZ",
         "title": "Serendipia",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Ja",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx feat. Billie Eilish",
+        "title": "Guess",
+        "plays": 1
+      },
+      {
+        "artist": "Herbert Grönemeyer",
+        "title": "Urverlust",
+        "plays": 1
+      },
+      {
+        "artist": "Noga Erez",
+        "title": "Nails",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
+        "plays": 1
+      },
+      {
+        "artist": "Yungblud",
+        "title": "Memories",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig",
+        "title": "Kopf aus",
+        "plays": 1
+      },
+      {
+        "artist": "Ufo361 & Nina Chuba",
+        "title": "LIEBE (feat. Nina Chuba) [Explicit]",
+        "plays": 1
+      },
+      {
+        "artist": "Mia Morgan",
+        "title": "Jennifer Check",
         "plays": 1
       }
     ],
