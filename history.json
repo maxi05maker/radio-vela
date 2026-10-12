@@ -9118,5 +9118,65 @@
     "played_at": "2026-10-12 03:11:47 +0200",
     "title": "Jennifer Check",
     "artist": "Mia Morgan"
+  },
+  {
+    "key": "2026-10-12 09:24:29 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-10-12 09:24:29 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-10-12 09:26:47 +0200|Sweet July|Take That",
+    "played_at": "2026-10-12 09:26:47 +0200",
+    "title": "Sweet July",
+    "artist": "Take That"
+  },
+  {
+    "key": "2026-10-12 09:29:11 +0200|Serendipia|ZAZ",
+    "played_at": "2026-10-12 09:29:11 +0200",
+    "title": "Serendipia",
+    "artist": "ZAZ"
+  },
+  {
+    "key": "2026-10-12 09:32:05 +0200|Castle on the Hill|Ed Sheeran",
+    "played_at": "2026-10-12 09:32:05 +0200",
+    "title": "Castle on the Hill",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-10-12 09:36:26 +0200|Wild Woman|Aerosmith, YUNGBLUD",
+    "played_at": "2026-10-12 09:36:26 +0200",
+    "title": "Wild Woman",
+    "artist": "Aerosmith, YUNGBLUD"
+  },
+  {
+    "key": "2026-10-12 09:40:02 +0200|Slow It Down|Benson Boone",
+    "played_at": "2026-10-12 09:40:02 +0200",
+    "title": "Slow It Down",
+    "artist": "Benson Boone"
+  },
+  {
+    "key": "2026-10-12 09:42:44 +0200|Échame La Culpa|Luis Fonsi feat. Demi Lovato",
+    "played_at": "2026-10-12 09:42:44 +0200",
+    "title": "Échame La Culpa",
+    "artist": "Luis Fonsi feat. Demi Lovato"
+  },
+  {
+    "key": "2026-10-12 09:46:14 +0200|Freier Fall|Clueso",
+    "played_at": "2026-10-12 09:46:14 +0200",
+    "title": "Freier Fall",
+    "artist": "Clueso"
+  },
+  {
+    "key": "2026-10-12 09:48:50 +0200|Kreise|Johannes Oerding",
+    "played_at": "2026-10-12 09:48:50 +0200",
+    "title": "Kreise",
+    "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-10-12 09:52:31 +0200|The idea|blackbear",
+    "played_at": "2026-10-12 09:52:31 +0200",
+    "title": "The idea",
+    "artist": "blackbear"
   }
 ]
