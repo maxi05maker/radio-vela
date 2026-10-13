@@ -2,9 +2,19 @@
   "2026-10-13 07:00": {
     "period_start": "2026-10-13T07:00:00+02:00",
     "period_end": "2026-10-14T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
+      {
+        "artist": "Ava Max",
+        "title": "Salt",
+        "plays": 2
+      },
+      {
+        "artist": "SDP & Montez",
+        "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
+        "plays": 2
+      },
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
@@ -16,11 +26,6 @@
         "plays": 1
       },
       {
-        "artist": "Ava Max",
-        "title": "Salt",
-        "plays": 1
-      },
-      {
         "artist": "Steve Lacy",
         "title": "Bad habit",
         "plays": 1
@@ -28,11 +33,6 @@
       {
         "artist": "THE BLACK CROWES",
         "title": "Pharmacy Chronicles",
-        "plays": 1
-      },
-      {
-        "artist": "SDP & Montez",
-        "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
         "plays": 1
       },
       {
@@ -54,12 +54,52 @@
         "artist": "The Weeknd (feat. Daft Punk)",
         "title": "I Feel It Coming",
         "plays": 1
+      },
+      {
+        "artist": "Clueso X Elif",
+        "title": "Mond",
+        "plays": 1
+      },
+      {
+        "artist": "Machine Gun Kelly",
+        "title": "Maybe (feat. Bring Me The Horizon)",
+        "plays": 1
+      },
+      {
+        "artist": "Mumford & Sons",
+        "title": "The Banjo Song",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "Du hast gehofft",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "Crest Of The Wave",
+        "plays": 1
+      },
+      {
+        "artist": "TWICE",
+        "title": "Strategy (feat. Megan Thee Stallion)",
+        "plays": 1
+      },
+      {
+        "artist": "Phoenix feat. Ezra Koenig",
+        "title": "Tonight (feat. Ezra Koenig)",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
-      "plays": 1
+      "artist": "Ava Max",
+      "title": "Salt",
+      "plays": 2
     }
   }
 }
