@@ -2,8 +2,8 @@
   "2026-10-14 07:00": {
     "period_start": "2026-10-14T07:00:00+02:00",
     "period_end": "2026-10-15T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Alex Warren",
@@ -98,6 +98,56 @@
       {
         "artist": "Passenger",
         "title": "Let Her Go",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "U2",
+        "title": "American Obituary",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "TRUSTFALL",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Twizzler",
+        "plays": 1
+      },
+      {
+        "artist": "Built To Spill",
+        "title": "Gonna Lose",
+        "plays": 1
+      },
+      {
+        "artist": "Avicii feat. Aloe Blacc",
+        "title": "SOS",
+        "plays": 1
+      },
+      {
+        "artist": "One-T, YWY, Nika",
+        "title": "The Way To Love (feat. YWY, Nika)",
+        "plays": 1
+      },
+      {
+        "artist": "Tiësto, Charli XCX",
+        "title": "Hot In It",
+        "plays": 1
+      },
+      {
+        "artist": "Drake",
+        "title": "God's Plan",
         "plays": 1
       }
     ],
