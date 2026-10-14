@@ -2,8 +2,8 @@
   "2026-10-14 07:00": {
     "period_start": "2026-10-14T07:00:00+02:00",
     "period_end": "2026-10-15T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Alex Warren",
@@ -48,6 +48,56 @@
       {
         "artist": "Adel Tawil",
         "title": "Autobahn",
+        "plays": 1
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Wenn das so bleibt",
+        "plays": 1
+      },
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Confusion",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
+        "plays": 1
+      },
+      {
+        "artist": "Jungle",
+        "title": "Busy Earnin'",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "Beggin'",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Serena Joy",
+        "plays": 1
+      },
+      {
+        "artist": "Sunrise Avenue",
+        "title": "I Help You Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Ich + Ich",
+        "title": "Vom selben Stern",
+        "plays": 1
+      },
+      {
+        "artist": "JJerome87",
+        "title": "Mr. Alligator",
+        "plays": 1
+      },
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
         "plays": 1
       }
     ],
