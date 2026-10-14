@@ -1,195 +1,60 @@
 {
-  "2026-10-13 07:00": {
-    "period_start": "2026-10-13T07:00:00+02:00",
-    "period_end": "2026-10-14T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 39,
+  "2026-10-14 07:00": {
+    "period_start": "2026-10-14T07:00:00+02:00",
+    "period_end": "2026-10-15T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 2
-      },
-      {
-        "artist": "Ava Max",
-        "title": "Salt",
-        "plays": 2
-      },
-      {
-        "artist": "SDP & Montez",
-        "title": "Wie Viele Lieder Muss Ich Noch Schreiben?",
-        "plays": 2
-      },
-      {
-        "artist": "Shirin David",
-        "title": "küss mich doch",
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
         "plays": 1
       },
       {
-        "artist": "Steve Lacy",
-        "title": "Bad habit",
-        "plays": 1
-      },
-      {
-        "artist": "THE BLACK CROWES",
-        "title": "Pharmacy Chronicles",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "When You're Gone",
-        "plays": 1
-      },
-      {
-        "artist": "Montez",
-        "title": "Überfall",
-        "plays": 1
-      },
-      {
-        "artist": "Dante YN",
-        "title": "Youngstar",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd (feat. Daft Punk)",
-        "title": "I Feel It Coming",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso X Elif",
-        "title": "Mond",
-        "plays": 1
-      },
-      {
-        "artist": "Machine Gun Kelly",
-        "title": "Maybe (feat. Bring Me The Horizon)",
-        "plays": 1
-      },
-      {
-        "artist": "Mumford & Sons",
-        "title": "The Banjo Song",
-        "plays": 1
-      },
-      {
-        "artist": "SDP",
-        "title": "Du hast gehofft",
-        "plays": 1
-      },
-      {
-        "artist": "Joris",
-        "title": "Zu Viel Retro",
+        "artist": "Mark Forster",
+        "title": "Wir sind groß",
         "plays": 1
       },
       {
         "artist": "Foals",
-        "title": "Crest Of The Wave",
+        "title": "Mountain At My Gates",
         "plays": 1
       },
       {
-        "artist": "TWICE",
-        "title": "Strategy (feat. Megan Thee Stallion)",
+        "artist": "Gracie Abrams",
+        "title": "That’s So True",
         "plays": 1
       },
       {
-        "artist": "Phoenix feat. Ezra Koenig",
-        "title": "Tonight (feat. Ezra Koenig)",
+        "artist": "Owl City",
+        "title": "Fireflies",
         "plays": 1
       },
       {
-        "artist": "Joey Bada$$",
-        "title": "Dark Aura",
+        "artist": "Israel Kamakawiwo'ole",
+        "title": "Somewhere Over The Rainbow",
         "plays": 1
       },
       {
-        "artist": "Kummer",
-        "title": "Es tut wieder weh",
+        "artist": "Snail Mail",
+        "title": "Dead End",
         "plays": 1
       },
       {
-        "artist": "Sabrina Carpenter",
-        "title": "Busy Woman",
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
         "plays": 1
       },
       {
         "artist": "Adel Tawil",
         "title": "Autobahn",
         "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira, Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "Marlon Roudette",
-        "title": "When The Beat Drops Out",
-        "plays": 1
-      },
-      {
-        "artist": "Matt Simons",
-        "title": "Catch And Release (Deepend Remix)",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "Abracadabra",
-        "plays": 1
-      },
-      {
-        "artist": "Taylor Swift",
-        "title": "Shake It Off",
-        "plays": 1
-      },
-      {
-        "artist": "Silbermond",
-        "title": "Auf Auf",
-        "plays": 1
-      },
-      {
-        "artist": "Josi",
-        "title": "Clap",
-        "plays": 1
-      },
-      {
-        "artist": "The Chainsmokers & Coldplay",
-        "title": "Something Just Like This",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Fingertips",
-        "plays": 1
-      },
-      {
-        "artist": "Beth Hart",
-        "title": "Savior With A Razor (feat. Slash)",
-        "plays": 1
-      },
-      {
-        "artist": "twocolors",
-        "title": "Bloodstream",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Timberlake",
-        "title": "Mirrors",
-        "plays": 1
-      },
-      {
-        "artist": "HUGEL & Dawty & Preston Harris",
-        "title": "Loosen Up",
-        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
-      "plays": 2
+      "artist": "Alex Warren",
+      "title": "FEVER DREAM",
+      "plays": 1
     }
   }
 }
