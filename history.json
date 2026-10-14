@@ -9538,5 +9538,65 @@
     "played_at": "2026-10-14 00:29:41 +0200",
     "title": "Abracadabra",
     "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-10-14 02:39:43 +0200|Shake It Off|Taylor Swift",
+    "played_at": "2026-10-14 02:39:43 +0200",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift"
+  },
+  {
+    "key": "2026-10-14 02:43:19 +0200|Auf Auf|Silbermond",
+    "played_at": "2026-10-14 02:43:19 +0200",
+    "title": "Auf Auf",
+    "artist": "Silbermond"
+  },
+  {
+    "key": "2026-10-14 02:46:04 +0200|Clap|Josi",
+    "played_at": "2026-10-14 02:46:04 +0200",
+    "title": "Clap",
+    "artist": "Josi"
+  },
+  {
+    "key": "2026-10-14 02:48:11 +0200|Something Just Like This|The Chainsmokers & Coldplay",
+    "played_at": "2026-10-14 02:48:11 +0200",
+    "title": "Something Just Like This",
+    "artist": "The Chainsmokers & Coldplay"
+  },
+  {
+    "key": "2026-10-14 02:52:18 +0200|Fingertips|Tom Gregory",
+    "played_at": "2026-10-14 02:52:18 +0200",
+    "title": "Fingertips",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-10-14 02:55:03 +0200|Savior With A Razor (feat. Slash)|Beth Hart",
+    "played_at": "2026-10-14 02:55:03 +0200",
+    "title": "Savior With A Razor (feat. Slash)",
+    "artist": "Beth Hart"
+  },
+  {
+    "key": "2026-10-14 02:59:51 +0200|Bloodstream|twocolors",
+    "played_at": "2026-10-14 02:59:51 +0200",
+    "title": "Bloodstream",
+    "artist": "twocolors"
+  },
+  {
+    "key": "2026-10-14 03:02:52 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-14 03:02:52 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-14 03:05:33 +0200|Mirrors|Justin Timberlake",
+    "played_at": "2026-10-14 03:05:33 +0200",
+    "title": "Mirrors",
+    "artist": "Justin Timberlake"
+  },
+  {
+    "key": "2026-10-14 03:10:11 +0200|Loosen Up|HUGEL & Dawty & Preston Harris",
+    "played_at": "2026-10-14 03:10:11 +0200",
+    "title": "Loosen Up",
+    "artist": "HUGEL & Dawty & Preston Harris"
   }
 ]
