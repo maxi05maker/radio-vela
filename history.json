@@ -9838,5 +9838,65 @@
     "played_at": "2026-10-14 22:31:50 +0200",
     "title": "For Cryin' Out Loud!",
     "artist": "FINNEAS"
+  },
+  {
+    "key": "2026-10-15 00:46:03 +0200|As It Was|Harry Styles",
+    "played_at": "2026-10-15 00:46:03 +0200",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-10-15 00:48:51 +0200|Do Things My Own Way|Sparks",
+    "played_at": "2026-10-15 00:48:51 +0200",
+    "title": "Do Things My Own Way",
+    "artist": "Sparks"
+  },
+  {
+    "key": "2026-10-15 00:52:31 +0200|Beguiled|The Smashing Pumpkins",
+    "played_at": "2026-10-15 00:52:31 +0200",
+    "title": "Beguiled",
+    "artist": "The Smashing Pumpkins"
+  },
+  {
+    "key": "2026-10-15 00:56:27 +0200|Waterfall|Michael Schulte, R3HAB",
+    "played_at": "2026-10-15 00:56:27 +0200",
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB"
+  },
+  {
+    "key": "2026-10-15 00:58:45 +0200|Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)|Stromae",
+    "played_at": "2026-10-15 00:58:45 +0200",
+    "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+    "artist": "Stromae"
+  },
+  {
+    "key": "2026-10-15 01:01:13 +0200|Unconditional I|Arcade Fire",
+    "played_at": "2026-10-15 01:01:13 +0200",
+    "title": "Unconditional I",
+    "artist": "Arcade Fire"
+  },
+  {
+    "key": "2026-10-15 01:05:48 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-15 01:05:48 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-15 01:08:20 +0200|Mond|Clueso X Elif",
+    "played_at": "2026-10-15 01:08:20 +0200",
+    "title": "Mond",
+    "artist": "Clueso X Elif"
+  },
+  {
+    "key": "2026-10-15 01:11:09 +0200|Augenblick|Pashanim",
+    "played_at": "2026-10-15 01:11:09 +0200",
+    "title": "Augenblick",
+    "artist": "Pashanim"
+  },
+  {
+    "key": "2026-10-15 01:13:16 +0200|Hey You|Disturbed",
+    "played_at": "2026-10-15 01:13:16 +0200",
+    "title": "Hey You",
+    "artist": "Disturbed"
   }
 ]
