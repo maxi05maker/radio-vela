@@ -1,280 +1,60 @@
 {
-  "2026-10-14 07:00": {
-    "period_start": "2026-10-14T07:00:00+02:00",
-    "period_end": "2026-10-15T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 56,
+  "2026-10-15 07:00": {
+    "period_start": "2026-10-15T07:00:00+02:00",
+    "period_end": "2026-10-16T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Sia",
-        "title": "Unstoppable",
-        "plays": 2
-      },
-      {
-        "artist": "P!nk",
-        "title": "TRUSTFALL",
-        "plays": 2
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 2
-      },
-      {
-        "artist": "Alex Warren",
-        "title": "FEVER DREAM",
+        "artist": "The Weeknd (feat. Daft Punk)",
+        "title": "I Feel It Coming",
         "plays": 1
       },
       {
-        "artist": "Mark Forster",
-        "title": "Wir sind groß",
+        "artist": "Lena",
+        "title": "Looking For Love",
         "plays": 1
       },
       {
-        "artist": "Foals",
-        "title": "Mountain At My Gates",
+        "artist": "Foo Fighters",
+        "title": "Of All People",
         "plays": 1
       },
       {
-        "artist": "Gracie Abrams",
-        "title": "That’s So True",
+        "artist": "The Weeknd",
+        "title": "Less Than Zero",
         "plays": 1
       },
       {
-        "artist": "Owl City",
-        "title": "Fireflies",
+        "artist": "Ethel Cain",
+        "title": "American Teenager",
         "plays": 1
       },
       {
-        "artist": "Israel Kamakawiwo'ole",
-        "title": "Somewhere Over The Rainbow",
+        "artist": "Paul Kalkbrenner",
+        "title": "Time To Dance",
         "plays": 1
       },
       {
-        "artist": "Snail Mail",
-        "title": "Dead End",
+        "artist": "Michael Schulte",
+        "title": "You Let Me Walk Alone",
         "plays": 1
       },
       {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
+        "artist": "Alma",
+        "title": "Dye My Hair",
         "plays": 1
       },
       {
-        "artist": "Adel Tawil",
-        "title": "Autobahn",
-        "plays": 1
-      },
-      {
-        "artist": "Apache 207",
-        "title": "Wenn das so bleibt",
-        "plays": 1
-      },
-      {
-        "artist": "Electric Light Orchestra",
-        "title": "Confusion",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Mr. Know It All",
-        "plays": 1
-      },
-      {
-        "artist": "Jungle",
-        "title": "Busy Earnin'",
-        "plays": 1
-      },
-      {
-        "artist": "Måneskin",
-        "title": "Beggin'",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "Serena Joy",
-        "plays": 1
-      },
-      {
-        "artist": "Sunrise Avenue",
-        "title": "I Help You Hate Me",
-        "plays": 1
-      },
-      {
-        "artist": "Ich + Ich",
-        "title": "Vom selben Stern",
-        "plays": 1
-      },
-      {
-        "artist": "JJerome87",
-        "title": "Mr. Alligator",
-        "plays": 1
-      },
-      {
-        "artist": "Passenger",
-        "title": "Let Her Go",
-        "plays": 1
-      },
-      {
-        "artist": "U2",
-        "title": "American Obituary",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Cigarettes After Sex",
-        "title": "Twizzler",
-        "plays": 1
-      },
-      {
-        "artist": "Built To Spill",
-        "title": "Gonna Lose",
-        "plays": 1
-      },
-      {
-        "artist": "Avicii feat. Aloe Blacc",
-        "title": "SOS",
-        "plays": 1
-      },
-      {
-        "artist": "One-T, YWY, Nika",
-        "title": "The Way To Love (feat. YWY, Nika)",
-        "plays": 1
-      },
-      {
-        "artist": "Tiësto, Charli XCX",
-        "title": "Hot In It",
-        "plays": 1
-      },
-      {
-        "artist": "Drake",
-        "title": "God's Plan",
-        "plays": 1
-      },
-      {
-        "artist": "The Arcs",
-        "title": "Eyez",
-        "plays": 1
-      },
-      {
-        "artist": "Bruce Springsteen",
-        "title": "Only the Strong Survive",
-        "plays": 1
-      },
-      {
-        "artist": "Shirin David",
-        "title": "It Girl (feat. Sampagne)",
-        "plays": 1
-      },
-      {
-        "artist": "The 1975",
-        "title": "Part Of The Band",
-        "plays": 1
-      },
-      {
-        "artist": "Foals",
-        "title": "Crest Of The Wave",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris & Clementine Douglas",
-        "title": "Blessings",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "FINNEAS",
-        "title": "For Cryin' Out Loud!",
-        "plays": 1
-      },
-      {
-        "artist": "Sparks",
-        "title": "Do Things My Own Way",
-        "plays": 1
-      },
-      {
-        "artist": "The Smashing Pumpkins",
-        "title": "Beguiled",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Stromae",
-        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
-        "plays": 1
-      },
-      {
-        "artist": "Arcade Fire",
-        "title": "Unconditional I",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso X Elif",
-        "title": "Mond",
-        "plays": 1
-      },
-      {
-        "artist": "Pashanim",
-        "title": "Augenblick",
-        "plays": 1
-      },
-      {
-        "artist": "Disturbed",
-        "title": "Hey You",
-        "plays": 1
-      },
-      {
-        "artist": "Foals",
-        "title": "Looking High",
-        "plays": 1
-      },
-      {
-        "artist": "Ziggy in tha House",
-        "title": "It's Raining",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran, Lil Baby",
-        "title": "2step (feat. Lil Baby)",
-        "plays": 1
-      },
-      {
-        "artist": "Gwen Stefani",
-        "title": "Swallow My Tears",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel X Jax Jones X Galatis",
-        "title": "Good Luck",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "Abracadabra",
-        "plays": 1
-      },
-      {
-        "artist": "Noel Gallagher's High Flying Birds",
-        "title": "Pretty boy",
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Sia",
-      "title": "Unstoppable",
-      "plays": 2
+      "artist": "The Weeknd (feat. Daft Punk)",
+      "title": "I Feel It Coming",
+      "plays": 1
     }
   }
 }
