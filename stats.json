@@ -2,8 +2,8 @@
   "2026-10-15 07:00": {
     "period_start": "2026-10-15T07:00:00+02:00",
     "period_end": "2026-10-16T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 17,
+    "total_entries": 30,
+    "music_entries": 26,
     "songs": [
       {
         "artist": "The Weeknd (feat. Daft Punk)",
@@ -88,6 +88,51 @@
       {
         "artist": "Guns N' Roses",
         "title": "November Rain (2022 Version)",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "TRUSTFALL",
+        "plays": 1
+      },
+      {
+        "artist": "Marlon Roudette",
+        "title": "When The Beat Drops Out",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Apágame",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Young And Beautiful",
+        "plays": 1
+      },
+      {
+        "artist": "Giant Rooks",
+        "title": "Mind Control",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Budapest",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "End of the world",
         "plays": 1
       }
     ],
