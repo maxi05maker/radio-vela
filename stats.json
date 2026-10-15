@@ -2,9 +2,14 @@
   "2026-10-15 07:00": {
     "period_start": "2026-10-15T07:00:00+02:00",
     "period_end": "2026-10-16T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 26,
+    "total_entries": 40,
+    "music_entries": 35,
     "songs": [
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Underneath the Tree",
+        "plays": 2
+      },
       {
         "artist": "The Weeknd (feat. Daft Punk)",
         "title": "I Feel It Coming",
@@ -63,11 +68,6 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "Kelly Clarkson",
-        "title": "Underneath the Tree",
         "plays": 1
       },
       {
@@ -134,12 +134,52 @@
         "artist": "Miley Cyrus",
         "title": "End of the world",
         "plays": 1
+      },
+      {
+        "artist": "Jeremias",
+        "title": "Ich mags",
+        "plays": 1
+      },
+      {
+        "artist": "La Roux",
+        "title": "Uptight Downtown",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Kieselwege",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Passenger",
+        "title": "Let Her Go",
+        "plays": 1
+      },
+      {
+        "artist": "THE SUBWAYS",
+        "title": "I Need To Feel You Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Alors On Danse",
+        "plays": 1
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Twizzler",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "The Weeknd (feat. Daft Punk)",
-      "title": "I Feel It Coming",
-      "plays": 1
+      "artist": "Kelly Clarkson",
+      "title": "Underneath the Tree",
+      "plays": 2
     }
   }
 }
