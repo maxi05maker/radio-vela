@@ -1,325 +1,60 @@
 {
-  "2026-10-15 07:00": {
-    "period_start": "2026-10-15T07:00:00+02:00",
-    "period_end": "2026-10-16T07:00:00+02:00",
-    "total_entries": 70,
-    "music_entries": 63,
+  "2026-10-16 07:00": {
+    "period_start": "2026-10-16T07:00:00+02:00",
+    "period_end": "2026-10-17T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Kelly Clarkson",
-        "title": "Underneath the Tree",
-        "plays": 2
-      },
-      {
-        "artist": "The Weeknd (feat. Daft Punk)",
-        "title": "I Feel It Coming",
+        "artist": "Capital Cities",
+        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
         "plays": 1
       },
       {
-        "artist": "Lena",
-        "title": "Looking For Love",
+        "artist": "The Smashing Pumpkins",
+        "title": "Beguiled",
         "plays": 1
       },
       {
-        "artist": "Foo Fighters",
-        "title": "Of All People",
+        "artist": "A7S David Guetta Wizkid",
+        "title": "Lighter",
         "plays": 1
       },
       {
-        "artist": "The Weeknd",
-        "title": "Less Than Zero",
+        "artist": "Bruno Mars",
+        "title": "24K Magic",
         "plays": 1
       },
       {
-        "artist": "Ethel Cain",
-        "title": "American Teenager",
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
         "plays": 1
       },
       {
-        "artist": "Paul Kalkbrenner",
-        "title": "Time To Dance",
+        "artist": "Kevin Morby",
+        "title": "Die Young",
         "plays": 1
       },
       {
-        "artist": "Michael Schulte",
-        "title": "You Let Me Walk Alone",
+        "artist": "Shawn Mendes",
+        "title": "Stitches",
         "plays": 1
       },
       {
-        "artist": "Alma",
-        "title": "Dye My Hair",
+        "artist": "Vance Joy",
+        "title": "Riptide",
         "plays": 1
       },
       {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "The FAIM",
-        "title": "Summer Is a Curse",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Wenn das Liebe ist",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "Charli XCX",
-        "title": "My Reminder",
-        "plays": 1
-      },
-      {
-        "artist": "Griff",
-        "title": "Black Hole",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "More to Lose",
-        "plays": 1
-      },
-      {
-        "artist": "Guns N' Roses",
-        "title": "November Rain (2022 Version)",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "TRUSTFALL",
-        "plays": 1
-      },
-      {
-        "artist": "Marlon Roudette",
-        "title": "When The Beat Drops Out",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Apágame",
-        "plays": 1
-      },
-      {
-        "artist": "Leony",
-        "title": "Faded Love",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Young And Beautiful",
-        "plays": 1
-      },
-      {
-        "artist": "Giant Rooks",
-        "title": "Mind Control",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Human Being",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Budapest",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "End of the world",
-        "plays": 1
-      },
-      {
-        "artist": "Jeremias",
-        "title": "Ich mags",
-        "plays": 1
-      },
-      {
-        "artist": "La Roux",
-        "title": "Uptight Downtown",
-        "plays": 1
-      },
-      {
-        "artist": "International Music",
-        "title": "Kieselwege",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Passenger",
-        "title": "Let Her Go",
-        "plays": 1
-      },
-      {
-        "artist": "THE SUBWAYS",
-        "title": "I Need To Feel You Closer",
-        "plays": 1
-      },
-      {
-        "artist": "Stromae",
-        "title": "Alors On Danse",
-        "plays": 1
-      },
-      {
-        "artist": "Cigarettes After Sex",
-        "title": "Twizzler",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Follow You",
-        "plays": 1
-      },
-      {
-        "artist": "Meghan Trainor",
-        "title": "Lips Are Movin",
-        "plays": 1
-      },
-      {
-        "artist": "Jj",
-        "title": "Wasted Love  2025",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth",
-        "title": "Light Switch",
-        "plays": 1
-      },
-      {
-        "artist": "Dennis Lloyd",
-        "title": "Nevermind",
-        "plays": 1
-      },
-      {
-        "artist": "Sarah Connor",
-        "title": "FICKA",
-        "plays": 1
-      },
-      {
-        "artist": "Black Eyed Peas",
-        "title": "The Time (Dirty Bit)",
-        "plays": 1
-      },
-      {
-        "artist": "Tove Lo",
-        "title": "Habits (Stay High)",
-        "plays": 1
-      },
-      {
-        "artist": "Inhaler",
-        "title": "A Question of You",
-        "plays": 1
-      },
-      {
-        "artist": "Prezident",
-        "title": "Oper",
-        "plays": 1
-      },
-      {
-        "artist": "Israel Kamakawiwo'ole",
-        "title": "Somewhere Over The Rainbow",
-        "plays": 1
-      },
-      {
-        "artist": "Electric Light Orchestra",
-        "title": "Confusion",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Mr. Know It All",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Natural",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Doechii",
-        "title": "Anxiety",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Whatever",
-        "plays": 1
-      },
-      {
-        "artist": "Aerosmith",
-        "title": "Rag Doll",
-        "plays": 1
-      },
-      {
-        "artist": "Blood Red Shoes",
-        "title": "Get Back Into Myself",
-        "plays": 1
-      },
-      {
-        "artist": "Domiziana",
-        "title": "Ohne Benzin",
-        "plays": 1
-      },
-      {
-        "artist": "Kelly Clarkson",
-        "title": "Heartbeat Song",
-        "plays": 1
-      },
-      {
-        "artist": "Snail Mail",
-        "title": "Dead End",
-        "plays": 1
-      },
-      {
-        "artist": "Kummer",
-        "title": "Bei Dir",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna",
-        "title": "Love On The Brain",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Henry, Come On",
-        "plays": 1
-      },
-      {
-        "artist": "Saint Chaos",
-        "title": "Where I Belong",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry Feat. Skip Marley",
-        "title": "Chained To The Rhythm",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Azizam",
+        "artist": "Def Leppard",
+        "title": "Rejoice",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Kelly Clarkson",
-      "title": "Underneath the Tree",
-      "plays": 2
+      "artist": "Capital Cities",
+      "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
+      "plays": 1
     }
   }
 }
