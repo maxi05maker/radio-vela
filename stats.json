@@ -2,8 +2,8 @@
   "2026-10-16 07:00": {
     "period_start": "2026-10-16T07:00:00+02:00",
     "period_end": "2026-10-17T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Capital Cities",
@@ -48,6 +48,56 @@
       {
         "artist": "Def Leppard",
         "title": "Rejoice",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Would I Lie To You",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna",
+        "title": "Danceteria",
+        "plays": 1
+      },
+      {
+        "artist": "I Prevail",
+        "title": "Fake",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Unsicher",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Tippa My Tongue",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga feat. Colby O'donis",
+        "title": "Just Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "More to Lose",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Beautiful Trauma",
         "plays": 1
       }
     ],
