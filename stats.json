@@ -2,8 +2,8 @@
   "2026-10-16 07:00": {
     "period_start": "2026-10-16T07:00:00+02:00",
     "period_end": "2026-10-17T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 39,
     "songs": [
       {
         "artist": "Shawn Mendes",
@@ -138,6 +138,56 @@
       {
         "artist": "Peter Frampton feat.Tom Morello",
         "title": "Lions At The Gate",
+        "plays": 1
+      },
+      {
+        "artist": "Snow Patrol",
+        "title": "The Forest Is The Path",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Grennan",
+        "title": "Little Bit of Love",
+        "plays": 1
+      },
+      {
+        "artist": "Machine Gun Kelly",
+        "title": "Maybe (feat. Bring Me The Horizon)",
+        "plays": 1
+      },
+      {
+        "artist": "Jorja Smith",
+        "title": "The Way I Love You",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "You Let Me Walk Alone",
+        "plays": 1
+      },
+      {
+        "artist": "ELIF",
+        "title": "WENN ICH STERBE",
+        "plays": 1
+      },
+      {
+        "artist": "Juju",
+        "title": "CRASHOUT FREESTYLE",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Heartbeat Song",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Snail Mail",
+        "title": "Dead End",
         "plays": 1
       }
     ],
