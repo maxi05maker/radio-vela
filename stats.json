@@ -2,8 +2,8 @@
   "2026-10-15 07:00": {
     "period_start": "2026-10-15T07:00:00+02:00",
     "period_end": "2026-10-16T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 44,
+    "total_entries": 60,
+    "music_entries": 53,
     "songs": [
       {
         "artist": "Kelly Clarkson",
@@ -218,6 +218,51 @@
       {
         "artist": "Inhaler",
         "title": "A Question of You",
+        "plays": 1
+      },
+      {
+        "artist": "Prezident",
+        "title": "Oper",
+        "plays": 1
+      },
+      {
+        "artist": "Israel Kamakawiwo'ole",
+        "title": "Somewhere Over The Rainbow",
+        "plays": 1
+      },
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Confusion",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Natural",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Doechii",
+        "title": "Anxiety",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Whatever",
+        "plays": 1
+      },
+      {
+        "artist": "Aerosmith",
+        "title": "Rag Doll",
         "plays": 1
       }
     ],
