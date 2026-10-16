@@ -2,9 +2,19 @@
   "2026-10-16 07:00": {
     "period_start": "2026-10-16T07:00:00+02:00",
     "period_end": "2026-10-17T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
+      {
+        "artist": "Shawn Mendes",
+        "title": "Stitches",
+        "plays": 2
+      },
+      {
+        "artist": "Vance Joy",
+        "title": "Riptide",
+        "plays": 2
+      },
       {
         "artist": "Capital Cities",
         "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
@@ -33,16 +43,6 @@
       {
         "artist": "Kevin Morby",
         "title": "Die Young",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Stitches",
-        "plays": 1
-      },
-      {
-        "artist": "Vance Joy",
-        "title": "Riptide",
         "plays": 1
       },
       {
@@ -99,12 +99,52 @@
         "artist": "P!nk",
         "title": "Beautiful Trauma",
         "plays": 1
+      },
+      {
+        "artist": "Die Sterne",
+        "title": "Ich nehme das Amt nicht an",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "don't lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta & Sia",
+        "title": "Beautiful People",
+        "plays": 1
+      },
+      {
+        "artist": "Built To Spill",
+        "title": "Gonna Lose",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "Domiziana",
+        "title": "Ohne Benzin",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Frampton feat.Tom Morello",
+        "title": "Lions At The Gate",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Capital Cities",
-      "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
-      "plays": 1
+      "artist": "Shawn Mendes",
+      "title": "Stitches",
+      "plays": 2
     }
   }
 }
