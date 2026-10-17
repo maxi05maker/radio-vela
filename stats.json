@@ -2,8 +2,8 @@
   "2026-10-17 07:00": {
     "period_start": "2026-10-17T07:00:00+02:00",
     "period_end": "2026-10-18T07:00:00+02:00",
-    "total_entries": 59,
-    "music_entries": 54,
+    "total_entries": 69,
+    "music_entries": 63,
     "songs": [
       {
         "artist": "Die Ärzte",
@@ -268,6 +268,51 @@
       {
         "artist": "Lana Del Rey",
         "title": "Happiness Is A Butterfly",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "There's Nothing Holdin' Me Back",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Safe",
+        "plays": 1
+      },
+      {
+        "artist": "Volbeat",
+        "title": "By a Monster’s Hand",
+        "plays": 1
+      },
+      {
+        "artist": "Kummer",
+        "title": "Bei Dir",
+        "plays": 1
+      },
+      {
+        "artist": "Tones and I",
+        "title": "Dance Monkey",
+        "plays": 1
+      },
+      {
+        "artist": "CRO, jolle",
+        "title": "Märchenwald",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "LOTTE & Max Giesinger",
+        "title": "Auf das, was da noch kommt",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Its ok Im ok",
         "plays": 1
       }
     ],
