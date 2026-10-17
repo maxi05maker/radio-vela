@@ -2,8 +2,8 @@
   "2026-10-16 07:00": {
     "period_start": "2026-10-16T07:00:00+02:00",
     "period_end": "2026-10-17T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 49,
+    "total_entries": 60,
+    "music_entries": 58,
     "songs": [
       {
         "artist": "Shawn Mendes",
@@ -238,6 +238,51 @@
       {
         "artist": "Katy Perry",
         "title": "Roar",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Love On The Brain",
+        "plays": 1
+      },
+      {
+        "artist": "Aisha Vibes",
+        "title": "Supernova",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Schief in jedem Chor",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Set Fire to the Rain",
+        "plays": 1
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster feat. Sido",
+        "title": "Au Revoir",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
+        "plays": 1
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Living In The Heart Of Love",
         "plays": 1
       }
     ],
