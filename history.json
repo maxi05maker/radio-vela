@@ -10972,5 +10972,65 @@
     "played_at": "2026-10-17 18:12:56 +0200",
     "title": "Mad Love",
     "artist": "Mabel"
+  },
+  {
+    "key": "2026-10-17 19:54:16 +0200|Everlasting Love|Love Affair",
+    "played_at": "2026-10-17 19:54:16 +0200",
+    "title": "Everlasting Love",
+    "artist": "Love Affair"
+  },
+  {
+    "key": "2026-10-17 19:57:14 +0200|Hard Times|Paramore",
+    "played_at": "2026-10-17 19:57:14 +0200",
+    "title": "Hard Times",
+    "artist": "Paramore"
+  },
+  {
+    "key": "2026-10-17 20:00:16 +0200|Danceteria|Madonna",
+    "played_at": "2026-10-17 20:00:16 +0200",
+    "title": "Danceteria",
+    "artist": "Madonna"
+  },
+  {
+    "key": "2026-10-17 20:04:12 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-17 20:04:12 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-17 20:06:53 +0200|Señorita|Shawn Mendes & Camila Cabello",
+    "played_at": "2026-10-17 20:06:53 +0200",
+    "title": "Señorita",
+    "artist": "Shawn Mendes & Camila Cabello"
+  },
+  {
+    "key": "2026-10-17 20:10:04 +0200|Boilermaker|Royal Blood",
+    "played_at": "2026-10-17 20:10:04 +0200",
+    "title": "Boilermaker",
+    "artist": "Royal Blood"
+  },
+  {
+    "key": "2026-10-17 20:13:33 +0200|Runway|Lady Gaga, Doechii",
+    "played_at": "2026-10-17 20:13:33 +0200",
+    "title": "Runway",
+    "artist": "Lady Gaga, Doechii"
+  },
+  {
+    "key": "2026-10-17 20:16:23 +0200|Iko Iko|Justin Wellington feat. Small Jam",
+    "played_at": "2026-10-17 20:16:23 +0200",
+    "title": "Iko Iko",
+    "artist": "Justin Wellington feat. Small Jam"
+  },
+  {
+    "key": "2026-10-17 20:19:24 +0200|Physical|Dua Lipa",
+    "played_at": "2026-10-17 20:19:24 +0200",
+    "title": "Physical",
+    "artist": "Dua Lipa"
+  },
+  {
+    "key": "2026-10-17 20:22:36 +0200|Kieselwege|International Music",
+    "played_at": "2026-10-17 20:22:36 +0200",
+    "title": "Kieselwege",
+    "artist": "International Music"
   }
 ]
