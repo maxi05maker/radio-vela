@@ -2,8 +2,8 @@
   "2026-10-17 07:00": {
     "period_start": "2026-10-17T07:00:00+02:00",
     "period_end": "2026-10-18T07:00:00+02:00",
-    "total_entries": 49,
-    "music_entries": 44,
+    "total_entries": 59,
+    "music_entries": 54,
     "songs": [
       {
         "artist": "Die Ärzte",
@@ -218,6 +218,56 @@
       {
         "artist": "International Music",
         "title": "Kieselwege",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk feat. Cash Cash",
+        "title": "Can We Pretend",
+        "plays": 1
+      },
+      {
+        "artist": "Sir Mantis & David Novell",
+        "title": "Absturz",
+        "plays": 1
+      },
+      {
+        "artist": "Lena x Nico Santos",
+        "title": "Better",
+        "plays": 1
+      },
+      {
+        "artist": "Neil Young",
+        "title": "A New Day For Love",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "SMOKE THE PAIN AWAY",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "No Tears Left To Cry",
+        "plays": 1
+      },
+      {
+        "artist": "Freya Ridings",
+        "title": "Castles",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Wenn ich tot bin, fang ich wieder an",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
         "plays": 1
       }
     ],
