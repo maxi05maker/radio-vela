@@ -2,8 +2,8 @@
   "2026-10-17 07:00": {
     "period_start": "2026-10-17T07:00:00+02:00",
     "period_end": "2026-10-18T07:00:00+02:00",
-    "total_entries": 9,
-    "music_entries": 8,
+    "total_entries": 19,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "Lorde",
@@ -43,6 +43,51 @@
       {
         "artist": "Kygo & Dean Lewis",
         "title": "Lost Without You (with Dean Lewis)",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Set Fire to the Rain",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Love On The Brain",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster feat. Sido",
+        "title": "Au Revoir",
+        "plays": 1
+      },
+      {
+        "artist": "Guns N' Roses",
+        "title": "November Rain (2022 Version)",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira, Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At The Disco",
+        "title": "Don't Let The Light Go Out",
+        "plays": 1
+      },
+      {
+        "artist": "Def Leppard",
+        "title": "Rejoice",
         "plays": 1
       }
     ],
