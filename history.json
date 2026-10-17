@@ -10912,5 +10912,65 @@
     "played_at": "2026-10-17 15:05:53 +0200",
     "title": "Henry, Come On",
     "artist": "Lana Del Rey"
+  },
+  {
+    "key": "2026-10-17 17:45:09 +0200|Roar|Katy Perry",
+    "played_at": "2026-10-17 17:45:09 +0200",
+    "title": "Roar",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-10-17 17:48:52 +0200|Calvados|Peter Doherty",
+    "played_at": "2026-10-17 17:48:52 +0200",
+    "title": "Calvados",
+    "artist": "Peter Doherty"
+  },
+  {
+    "key": "2026-10-17 17:51:41 +0200|Die besten Hits|Jingle",
+    "played_at": "2026-10-17 17:51:41 +0200",
+    "title": "Die besten Hits",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-10-17 17:51:43 +0200|Lips Are Movin|Meghan Trainor",
+    "played_at": "2026-10-17 17:51:43 +0200",
+    "title": "Lips Are Movin",
+    "artist": "Meghan Trainor"
+  },
+  {
+    "key": "2026-10-17 17:54:44 +0200|Keep Up|White Lies",
+    "played_at": "2026-10-17 17:54:44 +0200",
+    "title": "Keep Up",
+    "artist": "White Lies"
+  },
+  {
+    "key": "2026-10-17 17:58:20 +0200|Human Being|Nico Santos",
+    "played_at": "2026-10-17 17:58:20 +0200",
+    "title": "Human Being",
+    "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-10-17 18:01:15 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-10-17 18:01:15 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-10-17 18:04:49 +0200|Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version|Tobee",
+    "played_at": "2026-10-17 18:04:49 +0200",
+    "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+    "artist": "Tobee"
+  },
+  {
+    "key": "2026-10-17 18:08:03 +0200|BLACK CAT MOAN|GLENN HUGHES",
+    "played_at": "2026-10-17 18:08:03 +0200",
+    "title": "BLACK CAT MOAN",
+    "artist": "GLENN HUGHES"
+  },
+  {
+    "key": "2026-10-17 18:12:56 +0200|Mad Love|Mabel",
+    "played_at": "2026-10-17 18:12:56 +0200",
+    "title": "Mad Love",
+    "artist": "Mabel"
   }
 ]
