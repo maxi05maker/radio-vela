@@ -2,9 +2,14 @@
   "2026-10-17 07:00": {
     "period_start": "2026-10-17T07:00:00+02:00",
     "period_end": "2026-10-18T07:00:00+02:00",
-    "total_entries": 19,
-    "music_entries": 17,
+    "total_entries": 29,
+    "music_entries": 26,
     "songs": [
+      {
+        "artist": "Die Ärzte",
+        "title": "True Romance",
+        "plays": 2
+      },
       {
         "artist": "Lorde",
         "title": "What Was That",
@@ -28,11 +33,6 @@
       {
         "artist": "CRO",
         "title": "Ja",
-        "plays": 1
-      },
-      {
-        "artist": "Die Ärzte",
-        "title": "True Romance",
         "plays": 1
       },
       {
@@ -89,12 +89,52 @@
         "artist": "Def Leppard",
         "title": "Rejoice",
         "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heart Of Gold",
+        "plays": 1
+      },
+      {
+        "artist": "Marlon Roudette",
+        "title": "When The Beat Drops Out",
+        "plays": 1
+      },
+      {
+        "artist": "The Avener",
+        "title": "Fade Out Lines",
+        "plays": 1
+      },
+      {
+        "artist": "The Hives",
+        "title": "Enough Is Enough",
+        "plays": 1
+      },
+      {
+        "artist": "Moderat",
+        "title": "Bad Kingdom",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "Kitty Kat",
+        "title": "Queen Is Back",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Henry, Come On",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Lorde",
-      "title": "What Was That",
-      "plays": 1
+      "artist": "Die Ärzte",
+      "title": "True Romance",
+      "plays": 2
     }
   }
 }
