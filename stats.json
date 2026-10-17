@@ -1,208 +1,13 @@
 {
-  "2026-10-16 07:00": {
-    "period_start": "2026-10-16T07:00:00+02:00",
-    "period_end": "2026-10-17T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 58,
+  "2026-10-17 07:00": {
+    "period_start": "2026-10-17T07:00:00+02:00",
+    "period_end": "2026-10-18T07:00:00+02:00",
+    "total_entries": 9,
+    "music_entries": 8,
     "songs": [
       {
-        "artist": "Shawn Mendes",
-        "title": "Stitches",
-        "plays": 2
-      },
-      {
-        "artist": "Vance Joy",
-        "title": "Riptide",
-        "plays": 2
-      },
-      {
-        "artist": "Capital Cities",
-        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
-        "plays": 1
-      },
-      {
-        "artist": "The Smashing Pumpkins",
-        "title": "Beguiled",
-        "plays": 1
-      },
-      {
-        "artist": "A7S David Guetta Wizkid",
-        "title": "Lighter",
-        "plays": 1
-      },
-      {
-        "artist": "Bruno Mars",
-        "title": "24K Magic",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Roundabouts",
-        "plays": 1
-      },
-      {
-        "artist": "Kevin Morby",
-        "title": "Die Young",
-        "plays": 1
-      },
-      {
-        "artist": "Def Leppard",
-        "title": "Rejoice",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Would I Lie To You",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Wenn du liebst [feat. Kat Frankie]",
-        "plays": 1
-      },
-      {
-        "artist": "Madonna",
-        "title": "Danceteria",
-        "plays": 1
-      },
-      {
-        "artist": "I Prevail",
-        "title": "Fake",
-        "plays": 1
-      },
-      {
-        "artist": "Camila Cabello feat. Young Thug",
-        "title": "Havana",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Unsicher",
-        "plays": 1
-      },
-      {
-        "artist": "Red Hot Chili Peppers",
-        "title": "Tippa My Tongue",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga feat. Colby O'donis",
-        "title": "Just Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "More to Lose",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Beautiful Trauma",
-        "plays": 1
-      },
-      {
-        "artist": "Die Sterne",
-        "title": "Ich nehme das Amt nicht an",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "don't lie to me",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "New Rules",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta & Sia",
-        "title": "Beautiful People",
-        "plays": 1
-      },
-      {
-        "artist": "Built To Spill",
-        "title": "Gonna Lose",
-        "plays": 1
-      },
-      {
-        "artist": "Joris",
-        "title": "Zu Viel Retro",
-        "plays": 1
-      },
-      {
-        "artist": "Domiziana",
-        "title": "Ohne Benzin",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Frampton feat.Tom Morello",
-        "title": "Lions At The Gate",
-        "plays": 1
-      },
-      {
-        "artist": "Snow Patrol",
-        "title": "The Forest Is The Path",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Grennan",
-        "title": "Little Bit of Love",
-        "plays": 1
-      },
-      {
-        "artist": "Machine Gun Kelly",
-        "title": "Maybe (feat. Bring Me The Horizon)",
-        "plays": 1
-      },
-      {
-        "artist": "Jorja Smith",
-        "title": "The Way I Love You",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "You Let Me Walk Alone",
-        "plays": 1
-      },
-      {
-        "artist": "ELIF",
-        "title": "WENN ICH STERBE",
-        "plays": 1
-      },
-      {
-        "artist": "Juju",
-        "title": "CRASHOUT FREESTYLE",
-        "plays": 1
-      },
-      {
-        "artist": "Kelly Clarkson",
-        "title": "Heartbeat Song",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Snail Mail",
-        "title": "Dead End",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "It'll Be Okay",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE",
-        "title": "WHERE IS MY HUSBAND!",
-        "plays": 1
-      },
-      {
-        "artist": "Bruce Springsteen",
-        "title": "Only the Strong Survive",
+        "artist": "Lorde",
+        "title": "What Was That",
         "plays": 1
       },
       {
@@ -211,85 +16,40 @@
         "plays": 1
       },
       {
-        "artist": "TEMPERS",
-        "title": "Who Says",
+        "artist": "Cro",
+        "title": "Whatever",
         "plays": 1
       },
       {
-        "artist": "Taylor Swift",
-        "title": "Shake It Off",
+        "artist": "Jorja Smith",
+        "title": "The Way I Love You",
         "plays": 1
       },
       {
-        "artist": "Pharrell Williams",
-        "title": "Happy",
+        "artist": "CRO",
+        "title": "Ja",
         "plays": 1
       },
       {
-        "artist": "Cigarettes After Sex",
-        "title": "Twizzler",
+        "artist": "Die Ärzte",
+        "title": "True Romance",
         "plays": 1
       },
       {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
+        "artist": "Wavves",
+        "title": "Goner",
         "plays": 1
       },
       {
-        "artist": "Katy Perry",
-        "title": "Roar",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna",
-        "title": "Love On The Brain",
-        "plays": 1
-      },
-      {
-        "artist": "Aisha Vibes",
-        "title": "Supernova",
-        "plays": 1
-      },
-      {
-        "artist": "Kraftklub",
-        "title": "Schief in jedem Chor",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Set Fire to the Rain",
-        "plays": 1
-      },
-      {
-        "artist": "SIENNA SPIRO",
-        "title": "Material Lover",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster feat. Sido",
-        "title": "Au Revoir",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "White Feather Hawk Tail Deer Hunter",
-        "plays": 1
-      },
-      {
-        "artist": "The Rolling Stones",
-        "title": "Living In The Heart Of Love",
+        "artist": "Kygo & Dean Lewis",
+        "title": "Lost Without You (with Dean Lewis)",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Shawn Mendes",
-      "title": "Stitches",
-      "plays": 2
+      "artist": "Lorde",
+      "title": "What Was That",
+      "plays": 1
     }
   }
 }
