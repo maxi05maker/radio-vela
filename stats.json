@@ -2,9 +2,14 @@
   "2026-10-18 07:00": {
     "period_start": "2026-10-18T07:00:00+02:00",
     "period_end": "2026-10-19T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 2
+      },
       {
         "artist": "Shirin David",
         "title": "atzen & barbies (feat. ski aggu)",
@@ -76,11 +81,6 @@
         "plays": 1
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
         "artist": "Mika",
         "title": "Modern Times",
         "plays": 1
@@ -144,12 +144,52 @@
         "artist": "Bruno Mars",
         "title": "Locked Out Of Heaven",
         "plays": 1
+      },
+      {
+        "artist": "Jeremias",
+        "title": "Ich mags",
+        "plays": 1
+      },
+      {
+        "artist": "ADÉLA",
+        "title": "Ain't In LA",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit",
+        "title": "Rather Be (feat. Jess Glynne)",
+        "plays": 1
+      },
+      {
+        "artist": "I Prevail",
+        "title": "Bad Things",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shape of You",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
+        "plays": 1
+      },
+      {
+        "artist": "BOY",
+        "title": "Fit Back In",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Shirin David",
-      "title": "atzen & barbies (feat. ski aggu)",
-      "plays": 1
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
+      "plays": 2
     }
   }
 }
