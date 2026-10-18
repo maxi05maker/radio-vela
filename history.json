@@ -11572,5 +11572,65 @@
     "played_at": "2026-10-18 22:49:46 +0200",
     "title": "Du tust mir nie mehr weh",
     "artist": "AnnenMayKantereit"
+  },
+  {
+    "key": "2026-10-19 00:25:08 +0200|True Romance|Die Ärzte",
+    "played_at": "2026-10-19 00:25:08 +0200",
+    "title": "True Romance",
+    "artist": "Die Ärzte"
+  },
+  {
+    "key": "2026-10-19 00:27:55 +0200|Serena Joy|Olivia Rodrigo",
+    "played_at": "2026-10-19 00:27:55 +0200",
+    "title": "Serena Joy",
+    "artist": "Olivia Rodrigo"
+  },
+  {
+    "key": "2026-10-19 00:31:01 +0200|What a Man Gotta Do|Jonas Brothers",
+    "played_at": "2026-10-19 00:31:01 +0200",
+    "title": "What a Man Gotta Do",
+    "artist": "Jonas Brothers"
+  },
+  {
+    "key": "2026-10-19 00:34:01 +0200|Habits (Stay High)|Tove Lo",
+    "played_at": "2026-10-19 00:34:01 +0200",
+    "title": "Habits (Stay High)",
+    "artist": "Tove Lo"
+  },
+  {
+    "key": "2026-10-19 00:37:29 +0200|petal|Ariana Grande",
+    "played_at": "2026-10-19 00:37:29 +0200",
+    "title": "petal",
+    "artist": "Ariana Grande"
+  },
+  {
+    "key": "2026-10-19 00:40:33 +0200|Deja Vu|Mike Singer",
+    "played_at": "2026-10-19 00:40:33 +0200",
+    "title": "Deja Vu",
+    "artist": "Mike Singer"
+  },
+  {
+    "key": "2026-10-19 00:43:44 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-10-19 00:43:44 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-10-19 00:47:18 +0200|The Way To Love (feat. YWY, Nika)|One-T, YWY, Nika",
+    "played_at": "2026-10-19 00:47:18 +0200",
+    "title": "The Way To Love (feat. YWY, Nika)",
+    "artist": "One-T, YWY, Nika"
+  },
+  {
+    "key": "2026-10-19 00:49:55 +0200|Shake It Off|Taylor Swift",
+    "played_at": "2026-10-19 00:49:55 +0200",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift"
+  },
+  {
+    "key": "2026-10-19 00:53:30 +0200|Hoch|Tim Bendzko",
+    "played_at": "2026-10-19 00:53:30 +0200",
+    "title": "Hoch",
+    "artist": "Tim Bendzko"
   }
 ]

@@ -2,8 +2,8 @@
   "2026-10-18 07:00": {
     "period_start": "2026-10-18T07:00:00+02:00",
     "period_end": "2026-10-19T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 47,
+    "total_entries": 60,
+    "music_entries": 57,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -233,6 +233,56 @@
       {
         "artist": "AnnenMayKantereit",
         "title": "Du tust mir nie mehr weh",
+        "plays": 1
+      },
+      {
+        "artist": "Die Ärzte",
+        "title": "True Romance",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Serena Joy",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "What a Man Gotta Do",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "petal",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "One-T, YWY, Nika",
+        "title": "The Way To Love (feat. YWY, Nika)",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Shake It Off",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Hoch",
         "plays": 1
       }
     ],
