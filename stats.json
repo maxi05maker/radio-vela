@@ -2,8 +2,8 @@
   "2026-10-18 07:00": {
     "period_start": "2026-10-18T07:00:00+02:00",
     "period_end": "2026-10-19T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 37,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -183,6 +183,56 @@
       {
         "artist": "BOY",
         "title": "Fit Back In",
+        "plays": 1
+      },
+      {
+        "artist": "Haken",
+        "title": "Nightingale",
+        "plays": 1
+      },
+      {
+        "artist": "ARIANA GRANDE",
+        "title": "Hate That I Made You Love Me   (2026)",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel",
+        "title": "Don't Call Me Up",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner & Stromae",
+        "title": "QUE CE SOIT CLAIR",
+        "plays": 1
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "I'm Not Gonna Lie",
+        "plays": 1
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 1
+      },
+      {
+        "artist": "Snail Mail",
+        "title": "Dead End",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Play With Fire",
+        "plays": 1
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Du tust mir nie mehr weh",
         "plays": 1
       }
     ],
