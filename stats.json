@@ -2,8 +2,8 @@
   "2026-10-18 07:00": {
     "period_start": "2026-10-18T07:00:00+02:00",
     "period_end": "2026-10-19T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Shirin David",
@@ -53,6 +53,51 @@
       {
         "artist": "BTS",
         "title": "SWIM",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bones",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
+        "plays": 1
+      },
+      {
+        "artist": "Jonathan Jeremiah & Till Bronner",
+        "title": "We Come Alive",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Mika",
+        "title": "Modern Times",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Open Up",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
         "plays": 1
       }
     ],
