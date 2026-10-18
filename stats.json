@@ -2,12 +2,27 @@
   "2026-10-17 07:00": {
     "period_start": "2026-10-17T07:00:00+02:00",
     "period_end": "2026-10-18T07:00:00+02:00",
-    "total_entries": 79,
-    "music_entries": 73,
+    "total_entries": 89,
+    "music_entries": 82,
     "songs": [
       {
         "artist": "Die Ärzte",
         "title": "True Romance",
+        "plays": 2
+      },
+      {
+        "artist": "Paramore",
+        "title": "Hard Times",
+        "plays": 2
+      },
+      {
+        "artist": "Camila Cabello feat. Young Thug",
+        "title": "Havana",
+        "plays": 2
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
         "plays": 2
       },
       {
@@ -181,11 +196,6 @@
         "plays": 1
       },
       {
-        "artist": "Paramore",
-        "title": "Hard Times",
-        "plays": 1
-      },
-      {
         "artist": "Madonna",
         "title": "Danceteria",
         "plays": 1
@@ -258,16 +268,6 @@
       {
         "artist": "Kraftklub",
         "title": "Wenn ich tot bin, fang ich wieder an",
-        "plays": 1
-      },
-      {
-        "artist": "Camila Cabello feat. Young Thug",
-        "title": "Havana",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Happiness Is A Butterfly",
         "plays": 1
       },
       {
@@ -363,6 +363,36 @@
       {
         "artist": "Ava Max",
         "title": "Salt",
+        "plays": 1
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "My Reminder",
+        "plays": 1
+      },
+      {
+        "artist": "Drake",
+        "title": "God's Plan",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding & Juice WRLD",
+        "title": "Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Die Sterne",
+        "title": "Ich nehme das Amt nicht an",
+        "plays": 1
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "title": "Ain't Your Mama",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Drop dead",
         "plays": 1
       }
     ],

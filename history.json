@@ -11212,5 +11212,65 @@
     "played_at": "2026-10-18 02:05:31 +0200",
     "title": "Salt",
     "artist": "Ava Max"
+  },
+  {
+    "key": "2026-10-18 06:08:30 +0200|Happiness Is A Butterfly|Lana Del Rey",
+    "played_at": "2026-10-18 06:08:30 +0200",
+    "title": "Happiness Is A Butterfly",
+    "artist": "Lana Del Rey"
+  },
+  {
+    "key": "2026-10-18 06:13:02 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-18 06:13:02 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-18 06:15:56 +0200|Havana|Camila Cabello feat. Young Thug",
+    "played_at": "2026-10-18 06:15:56 +0200",
+    "title": "Havana",
+    "artist": "Camila Cabello feat. Young Thug"
+  },
+  {
+    "key": "2026-10-18 06:19:29 +0200|My Reminder|Charli XCX",
+    "played_at": "2026-10-18 06:19:29 +0200",
+    "title": "My Reminder",
+    "artist": "Charli XCX"
+  },
+  {
+    "key": "2026-10-18 06:23:02 +0200|God's Plan|Drake",
+    "played_at": "2026-10-18 06:23:02 +0200",
+    "title": "God's Plan",
+    "artist": "Drake"
+  },
+  {
+    "key": "2026-10-18 06:26:21 +0200|Hate Me|Ellie Goulding & Juice WRLD",
+    "played_at": "2026-10-18 06:26:21 +0200",
+    "title": "Hate Me",
+    "artist": "Ellie Goulding & Juice WRLD"
+  },
+  {
+    "key": "2026-10-18 06:29:28 +0200|Ich nehme das Amt nicht an|Die Sterne",
+    "played_at": "2026-10-18 06:29:28 +0200",
+    "title": "Ich nehme das Amt nicht an",
+    "artist": "Die Sterne"
+  },
+  {
+    "key": "2026-10-18 06:31:47 +0200|Hard Times|Paramore",
+    "played_at": "2026-10-18 06:31:47 +0200",
+    "title": "Hard Times",
+    "artist": "Paramore"
+  },
+  {
+    "key": "2026-10-18 06:34:48 +0200|Ain't Your Mama|Jennifer Lopez",
+    "played_at": "2026-10-18 06:34:48 +0200",
+    "title": "Ain't Your Mama",
+    "artist": "Jennifer Lopez"
+  },
+  {
+    "key": "2026-10-18 06:38:27 +0200|Drop dead|Olivia Rodrigo",
+    "played_at": "2026-10-18 06:38:27 +0200",
+    "title": "Drop dead",
+    "artist": "Olivia Rodrigo"
   }
 ]
