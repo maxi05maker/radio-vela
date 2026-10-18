@@ -1,405 +1,65 @@
 {
-  "2026-10-17 07:00": {
-    "period_start": "2026-10-17T07:00:00+02:00",
-    "period_end": "2026-10-18T07:00:00+02:00",
-    "total_entries": 89,
-    "music_entries": 82,
+  "2026-10-18 07:00": {
+    "period_start": "2026-10-18T07:00:00+02:00",
+    "period_end": "2026-10-19T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Die Ärzte",
-        "title": "True Romance",
-        "plays": 2
-      },
-      {
-        "artist": "Paramore",
-        "title": "Hard Times",
-        "plays": 2
-      },
-      {
-        "artist": "Camila Cabello feat. Young Thug",
-        "title": "Havana",
-        "plays": 2
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Happiness Is A Butterfly",
-        "plays": 2
-      },
-      {
-        "artist": "Lorde",
-        "title": "What Was That",
+        "artist": "Shirin David",
+        "title": "atzen & barbies (feat. ski aggu)",
         "plays": 1
       },
       {
-        "artist": "RAF Camora, CRO",
-        "title": "Bei Nacht",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Whatever",
-        "plays": 1
-      },
-      {
-        "artist": "Jorja Smith",
-        "title": "The Way I Love You",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "Ja",
-        "plays": 1
-      },
-      {
-        "artist": "Wavves",
-        "title": "Goner",
-        "plays": 1
-      },
-      {
-        "artist": "Kygo & Dean Lewis",
-        "title": "Lost Without You (with Dean Lewis)",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Set Fire to the Rain",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna",
-        "title": "Love On The Brain",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster feat. Sido",
-        "title": "Au Revoir",
-        "plays": 1
-      },
-      {
-        "artist": "Guns N' Roses",
-        "title": "November Rain (2022 Version)",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira, Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
-        "plays": 1
-      },
-      {
-        "artist": "Panic! At The Disco",
-        "title": "Don't Let The Light Go Out",
-        "plays": 1
-      },
-      {
-        "artist": "Def Leppard",
-        "title": "Rejoice",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Heart Of Gold",
-        "plays": 1
-      },
-      {
-        "artist": "Marlon Roudette",
-        "title": "When The Beat Drops Out",
-        "plays": 1
-      },
-      {
-        "artist": "The Avener",
-        "title": "Fade Out Lines",
-        "plays": 1
-      },
-      {
-        "artist": "The Hives",
-        "title": "Enough Is Enough",
-        "plays": 1
-      },
-      {
-        "artist": "Moderat",
-        "title": "Bad Kingdom",
-        "plays": 1
-      },
-      {
-        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
-        "title": "Don’t Call Me Angel (Charlie’s Angels)",
-        "plays": 1
-      },
-      {
-        "artist": "Kitty Kat",
-        "title": "Queen Is Back",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Henry, Come On",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Roar",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Doherty",
-        "title": "Calvados",
-        "plays": 1
-      },
-      {
-        "artist": "Meghan Trainor",
-        "title": "Lips Are Movin",
-        "plays": 1
-      },
-      {
-        "artist": "White Lies",
-        "title": "Keep Up",
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
         "plays": 1
       },
       {
         "artist": "Nico Santos",
-        "title": "Human Being",
+        "title": "Would I Lie To You",
         "plays": 1
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
+        "artist": "Remy Ma",
+        "title": "Put Em On",
         "plays": 1
       },
       {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
         "plays": 1
       },
       {
-        "artist": "GLENN HUGHES",
-        "title": "BLACK CAT MOAN",
+        "artist": "Imagine Dragons",
+        "title": "Demons",
         "plays": 1
       },
       {
-        "artist": "Mabel",
-        "title": "Mad Love",
+        "artist": "JENNIE, Dua Lipa",
+        "title": "Handlebars",
         "plays": 1
       },
       {
-        "artist": "Love Affair",
-        "title": "Everlasting Love",
+        "artist": "LEA",
+        "title": "Immer wenn wir uns sehn",
         "plays": 1
       },
       {
-        "artist": "Madonna",
-        "title": "Danceteria",
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
-        "artist": "Shawn Mendes & Camila Cabello",
-        "title": "Señorita",
-        "plays": 1
-      },
-      {
-        "artist": "Royal Blood",
-        "title": "Boilermaker",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga, Doechii",
-        "title": "Runway",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Wellington feat. Small Jam",
-        "title": "Iko Iko",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "Physical",
-        "plays": 1
-      },
-      {
-        "artist": "International Music",
-        "title": "Kieselwege",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk feat. Cash Cash",
-        "title": "Can We Pretend",
-        "plays": 1
-      },
-      {
-        "artist": "Sir Mantis & David Novell",
-        "title": "Absturz",
-        "plays": 1
-      },
-      {
-        "artist": "Lena x Nico Santos",
-        "title": "Better",
-        "plays": 1
-      },
-      {
-        "artist": "Neil Young",
-        "title": "A New Day For Love",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris",
-        "title": "SMOKE THE PAIN AWAY",
-        "plays": 1
-      },
-      {
-        "artist": "Ariana Grande",
-        "title": "No Tears Left To Cry",
-        "plays": 1
-      },
-      {
-        "artist": "Freya Ridings",
-        "title": "Castles",
-        "plays": 1
-      },
-      {
-        "artist": "Kraftklub",
-        "title": "Wenn ich tot bin, fang ich wieder an",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "There's Nothing Holdin' Me Back",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Safe",
-        "plays": 1
-      },
-      {
-        "artist": "Volbeat",
-        "title": "By a Monster’s Hand",
-        "plays": 1
-      },
-      {
-        "artist": "Kummer",
-        "title": "Bei Dir",
-        "plays": 1
-      },
-      {
-        "artist": "Tones and I",
-        "title": "Dance Monkey",
-        "plays": 1
-      },
-      {
-        "artist": "CRO, jolle",
-        "title": "Märchenwald",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "LOTTE & Max Giesinger",
-        "title": "Auf das, was da noch kommt",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "Its ok Im ok",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Roundabouts",
-        "plays": 1
-      },
-      {
-        "artist": "Bebe Rexha & Faithless",
-        "title": "New Religion",
-        "plays": 1
-      },
-      {
-        "artist": "Tove Lo",
-        "title": "2 Die 4",
-        "plays": 1
-      },
-      {
-        "artist": "Nickelback",
-        "title": "San Quentin",
-        "plays": 1
-      },
-      {
-        "artist": "KATSEYE",
-        "title": "Internet Girl",
-        "plays": 1
-      },
-      {
-        "artist": "Vance Joy",
-        "title": "Riptide",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "New Rules",
-        "plays": 1
-      },
-      {
-        "artist": "Black Country Communion",
-        "title": "Skyway",
-        "plays": 1
-      },
-      {
-        "artist": "Bruno Mars",
-        "title": "24K Magic",
-        "plays": 1
-      },
-      {
-        "artist": "Ava Max",
-        "title": "Salt",
-        "plays": 1
-      },
-      {
-        "artist": "Charli XCX",
-        "title": "My Reminder",
-        "plays": 1
-      },
-      {
-        "artist": "Drake",
-        "title": "God's Plan",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding & Juice WRLD",
-        "title": "Hate Me",
-        "plays": 1
-      },
-      {
-        "artist": "Die Sterne",
-        "title": "Ich nehme das Amt nicht an",
-        "plays": 1
-      },
-      {
-        "artist": "Jennifer Lopez",
-        "title": "Ain't Your Mama",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "Drop dead",
+        "artist": "BTS",
+        "title": "SWIM",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Die Ärzte",
-      "title": "True Romance",
-      "plays": 2
+      "artist": "Shirin David",
+      "title": "atzen & barbies (feat. ski aggu)",
+      "plays": 1
     }
   }
 }
