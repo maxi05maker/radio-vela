@@ -2,8 +2,8 @@
   "2026-10-17 07:00": {
     "period_start": "2026-10-17T07:00:00+02:00",
     "period_end": "2026-10-18T07:00:00+02:00",
-    "total_entries": 69,
-    "music_entries": 63,
+    "total_entries": 79,
+    "music_entries": 73,
     "songs": [
       {
         "artist": "Die Ärzte",
@@ -313,6 +313,56 @@
       {
         "artist": "Tate McRae",
         "title": "Its ok Im ok",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & Faithless",
+        "title": "New Religion",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "2 Die 4",
+        "plays": 1
+      },
+      {
+        "artist": "Nickelback",
+        "title": "San Quentin",
+        "plays": 1
+      },
+      {
+        "artist": "KATSEYE",
+        "title": "Internet Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Vance Joy",
+        "title": "Riptide",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "plays": 1
+      },
+      {
+        "artist": "Black Country Communion",
+        "title": "Skyway",
+        "plays": 1
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "24K Magic",
+        "plays": 1
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Salt",
         "plays": 1
       }
     ],
