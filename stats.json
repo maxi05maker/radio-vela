@@ -2,12 +2,22 @@
   "2026-10-18 07:00": {
     "period_start": "2026-10-18T07:00:00+02:00",
     "period_end": "2026-10-19T07:00:00+02:00",
-    "total_entries": 60,
-    "music_entries": 57,
+    "total_entries": 70,
+    "music_entries": 67,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 2
+      },
+      {
+        "artist": "P!nk",
+        "title": "TRUSTFALL",
+        "plays": 2
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Locked Out Of Heaven",
         "plays": 2
       },
       {
@@ -116,11 +126,6 @@
         "plays": 1
       },
       {
-        "artist": "P!nk",
-        "title": "TRUSTFALL",
-        "plays": 1
-      },
-      {
         "artist": "THE BLACK CROWES",
         "title": "It's Like That",
         "plays": 1
@@ -138,11 +143,6 @@
       {
         "artist": "Betterov",
         "title": "17. Juli 1989",
-        "plays": 1
-      },
-      {
-        "artist": "Bruno Mars",
-        "title": "Locked Out Of Heaven",
         "plays": 1
       },
       {
@@ -283,6 +283,46 @@
       {
         "artist": "Tim Bendzko",
         "title": "Hoch",
+        "plays": 1
+      },
+      {
+        "artist": "Mogwai",
+        "title": "Fanzine Made of Flesh",
+        "plays": 1
+      },
+      {
+        "artist": "Moderat",
+        "title": "Bad Kingdom",
+        "plays": 1
+      },
+      {
+        "artist": "SSIO",
+        "title": "Tut den Song in eure Playlist und macht viele TikToks",
+        "plays": 1
+      },
+      {
+        "artist": "Arcade Fire",
+        "title": "Unconditional I",
+        "plays": 1
+      },
+      {
+        "artist": "Trettmann",
+        "title": "Haus Aus Zink feat. Luna",
+        "plays": 1
+      },
+      {
+        "artist": "Five Finger Death Punch",
+        "title": "The End",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
         "plays": 1
       }
     ],
