@@ -2,9 +2,14 @@
   "2026-10-19 07:00": {
     "period_start": "2026-10-19T07:00:00+02:00",
     "period_end": "2026-10-20T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 38,
     "songs": [
+      {
+        "artist": "P!nk",
+        "title": "TRUSTFALL",
+        "plays": 2
+      },
       {
         "artist": "Michael Schulte",
         "title": "With You",
@@ -38,11 +43,6 @@
       {
         "artist": "LEA",
         "title": "Zu dir",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "TRUSTFALL",
         "plays": 1
       },
       {
@@ -144,12 +144,57 @@
         "artist": "Shawn Mendes",
         "title": "There's Nothing Holdin' Me Back",
         "plays": 1
+      },
+      {
+        "artist": "Waving The Guns",
+        "title": "Schürhaken",
+        "plays": 1
+      },
+      {
+        "artist": "CRO, jolle",
+        "title": "Märchenwald",
+        "plays": 1
+      },
+      {
+        "artist": "The Pretty Reckless",
+        "title": "Rollercoaster Of Life",
+        "plays": 1
+      },
+      {
+        "artist": "Marteria",
+        "title": "Niemand bringt Marten um",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Sag Mir Was Du Willst",
+        "plays": 1
+      },
+      {
+        "artist": "Archive",
+        "title": "City Walls",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Smooth",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Black Summer",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Warren",
+        "title": "FEVER DREAM",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Michael Schulte",
-      "title": "With You",
-      "plays": 1
+      "artist": "P!nk",
+      "title": "TRUSTFALL",
+      "plays": 2
     }
   }
 }
