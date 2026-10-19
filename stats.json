@@ -2,8 +2,8 @@
   "2026-10-19 07:00": {
     "period_start": "2026-10-19T07:00:00+02:00",
     "period_end": "2026-10-20T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -98,6 +98,51 @@
       {
         "artist": "FILLY",
         "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
+        "plays": 1
+      },
+      {
+        "artist": "Namika feat. Black M",
+        "title": "Je Ne Parle Pas Français (Beatgees Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Hypaton, Bonnie Tyler",
+        "title": "Together",
+        "plays": 1
+      },
+      {
+        "artist": "KUMMER",
+        "title": "DER LETZTE SONG (ALLES WIRD GUT)",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "A Million Dreams",
+        "plays": 1
+      },
+      {
+        "artist": "FAYAN (feat. Dalton)",
+        "title": "VERLIEBT IN MICH",
+        "plays": 1
+      },
+      {
+        "artist": "One Republic",
+        "title": "Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Billy Idol",
+        "title": "Bitter Taste",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Dead Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "There's Nothing Holdin' Me Back",
         "plays": 1
       }
     ],
