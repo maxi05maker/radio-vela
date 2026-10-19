@@ -2,8 +2,8 @@
   "2026-10-19 07:00": {
     "period_start": "2026-10-19T07:00:00+02:00",
     "period_end": "2026-10-20T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Michael Schulte",
@@ -53,6 +53,51 @@
       {
         "artist": "Revolverheld",
         "title": "Leichter",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Grennan",
+        "title": "Don't Break the Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Kummer",
+        "title": "Bei Dir",
+        "plays": 1
+      },
+      {
+        "artist": "Joji",
+        "title": "Love Me Better",
+        "plays": 1
+      },
+      {
+        "artist": "David Gilmour",
+        "title": "In Any Tongue",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "No Tears Left To Cry",
+        "plays": 1
+      },
+      {
+        "artist": "Mika",
+        "title": "Modern Times",
+        "plays": 1
+      },
+      {
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "FILLY",
+        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
         "plays": 1
       }
     ],
