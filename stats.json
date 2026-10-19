@@ -1,335 +1,65 @@
 {
-  "2026-10-18 07:00": {
-    "period_start": "2026-10-18T07:00:00+02:00",
-    "period_end": "2026-10-19T07:00:00+02:00",
-    "total_entries": 70,
-    "music_entries": 67,
+  "2026-10-19 07:00": {
+    "period_start": "2026-10-19T07:00:00+02:00",
+    "period_end": "2026-10-20T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 2
-      },
-      {
-        "artist": "P!nk",
-        "title": "TRUSTFALL",
-        "plays": 2
-      },
-      {
-        "artist": "Bruno Mars",
-        "title": "Locked Out Of Heaven",
-        "plays": 2
-      },
-      {
-        "artist": "Shirin David",
-        "title": "atzen & barbies (feat. ski aggu)",
+        "artist": "Michael Schulte",
+        "title": "With You",
         "plays": 1
       },
       {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
+        "artist": "Lil Tjay",
+        "title": "In My Head",
         "plays": 1
       },
       {
-        "artist": "Nico Santos",
-        "title": "Would I Lie To You",
+        "artist": "KADAVAR",
+        "title": "Scar On My Guitar",
         "plays": 1
       },
       {
-        "artist": "Remy Ma",
-        "title": "Put Em On",
+        "artist": "Shania Twain",
+        "title": "Best Friend",
         "plays": 1
       },
       {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
+        "artist": "Dermot Kennedy",
+        "title": "Giants",
         "plays": 1
       },
       {
-        "artist": "Imagine Dragons",
-        "title": "Demons",
-        "plays": 1
-      },
-      {
-        "artist": "JENNIE, Dua Lipa",
-        "title": "Handlebars",
+        "artist": "Floodlights",
+        "title": "Can You Feel It",
         "plays": 1
       },
       {
         "artist": "LEA",
-        "title": "Immer wenn wir uns sehn",
+        "title": "Zu dir",
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
+        "artist": "P!nk",
+        "title": "TRUSTFALL",
         "plays": 1
       },
       {
-        "artist": "BTS",
-        "title": "SWIM",
+        "artist": "Provinz",
+        "title": "Cry Baby Cry",
         "plays": 1
       },
       {
-        "artist": "Calvin Harris,Jazzy",
-        "title": "Satisfy",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Bones",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE, 070 Shake",
-        "title": "Escapism.",
-        "plays": 1
-      },
-      {
-        "artist": "Jonathan Jeremiah & Till Bronner",
-        "title": "We Come Alive",
-        "plays": 1
-      },
-      {
-        "artist": "Mika",
-        "title": "Modern Times",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "Don't Start Now",
-        "plays": 1
-      },
-      {
-        "artist": "Matt Simons",
-        "title": "Open Up",
-        "plays": 1
-      },
-      {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "Glockenbach",
-        "title": "Dirty Dancing",
-        "plays": 1
-      },
-      {
-        "artist": "Stromae",
-        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
-        "plays": 1
-      },
-      {
-        "artist": "The Avener",
-        "title": "Fade Out Lines",
-        "plays": 1
-      },
-      {
-        "artist": "THE BLACK CROWES",
-        "title": "It's Like That",
-        "plays": 1
-      },
-      {
-        "artist": "Kygo & Dean Lewis",
-        "title": "Lost Without You (with Dean Lewis)",
-        "plays": 1
-      },
-      {
-        "artist": "Doechii",
-        "title": "Alter Ego feat. JT",
-        "plays": 1
-      },
-      {
-        "artist": "Betterov",
-        "title": "17. Juli 1989",
-        "plays": 1
-      },
-      {
-        "artist": "Jeremias",
-        "title": "Ich mags",
-        "plays": 1
-      },
-      {
-        "artist": "ADÉLA",
-        "title": "Ain't In LA",
-        "plays": 1
-      },
-      {
-        "artist": "Clean Bandit",
-        "title": "Rather Be (feat. Jess Glynne)",
-        "plays": 1
-      },
-      {
-        "artist": "I Prevail",
-        "title": "Bad Things",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Shape of You",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE",
-        "title": "WHERE IS MY HUSBAND!",
-        "plays": 1
-      },
-      {
-        "artist": "BOY",
-        "title": "Fit Back In",
-        "plays": 1
-      },
-      {
-        "artist": "Haken",
-        "title": "Nightingale",
-        "plays": 1
-      },
-      {
-        "artist": "ARIANA GRANDE",
-        "title": "Hate That I Made You Love Me   (2026)",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel",
-        "title": "Don't Call Me Up",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Paul Kalkbrenner & Stromae",
-        "title": "QUE CE SOIT CLAIR",
-        "plays": 1
-      },
-      {
-        "artist": "Bilderbuch",
-        "title": "I'm Not Gonna Lie",
-        "plays": 1
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
-        "plays": 1
-      },
-      {
-        "artist": "Snail Mail",
-        "title": "Dead End",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Play With Fire",
-        "plays": 1
-      },
-      {
-        "artist": "AnnenMayKantereit",
-        "title": "Du tust mir nie mehr weh",
-        "plays": 1
-      },
-      {
-        "artist": "Die Ärzte",
-        "title": "True Romance",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "Serena Joy",
-        "plays": 1
-      },
-      {
-        "artist": "Jonas Brothers",
-        "title": "What a Man Gotta Do",
-        "plays": 1
-      },
-      {
-        "artist": "Tove Lo",
-        "title": "Habits (Stay High)",
-        "plays": 1
-      },
-      {
-        "artist": "Ariana Grande",
-        "title": "petal",
-        "plays": 1
-      },
-      {
-        "artist": "Mike Singer",
-        "title": "Deja Vu",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "One-T, YWY, Nika",
-        "title": "The Way To Love (feat. YWY, Nika)",
-        "plays": 1
-      },
-      {
-        "artist": "Taylor Swift",
-        "title": "Shake It Off",
-        "plays": 1
-      },
-      {
-        "artist": "Tim Bendzko",
-        "title": "Hoch",
-        "plays": 1
-      },
-      {
-        "artist": "Mogwai",
-        "title": "Fanzine Made of Flesh",
-        "plays": 1
-      },
-      {
-        "artist": "Moderat",
-        "title": "Bad Kingdom",
-        "plays": 1
-      },
-      {
-        "artist": "SSIO",
-        "title": "Tut den Song in eure Playlist und macht viele TikToks",
-        "plays": 1
-      },
-      {
-        "artist": "Arcade Fire",
-        "title": "Unconditional I",
-        "plays": 1
-      },
-      {
-        "artist": "Trettmann",
-        "title": "Haus Aus Zink feat. Luna",
-        "plays": 1
-      },
-      {
-        "artist": "Five Finger Death Punch",
-        "title": "The End",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Mr. Know It All",
+        "artist": "Revolverheld",
+        "title": "Leichter",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Tom Gregory",
-      "title": "Small Steps",
-      "plays": 2
+      "artist": "Michael Schulte",
+      "title": "With You",
+      "plays": 1
     }
   }
 }
