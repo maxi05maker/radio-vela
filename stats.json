@@ -2,9 +2,14 @@
   "2026-10-20 07:00": {
     "period_start": "2026-10-20T07:00:00+02:00",
     "period_end": "2026-10-21T07:00:00+02:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
+      {
+        "artist": "Tim Bendzko",
+        "title": "Hoch",
+        "plays": 2
+      },
       {
         "artist": "Taylor Swift",
         "title": "Shake It Off",
@@ -51,11 +56,6 @@
         "plays": 1
       },
       {
-        "artist": "Tim Bendzko",
-        "title": "Hoch",
-        "plays": 1
-      },
-      {
         "artist": "Alle Farben",
         "title": "She Moves (feat. Graham Candy)",
         "plays": 1
@@ -94,12 +94,52 @@
         "artist": "Damiano David, Tyla, Nile Rodgers",
         "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
         "plays": 1
+      },
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
+        "plays": 1
+      },
+      {
+        "artist": "Djo",
+        "title": "Basic Being Basic",
+        "plays": 1
+      },
+      {
+        "artist": "KAFFKIEZ",
+        "title": "Matilda",
+        "plays": 1
+      },
+      {
+        "artist": "Chris Cornell",
+        "title": "Nearly Forgot My Broken Heart",
+        "plays": 1
+      },
+      {
+        "artist": "LISA FEAT. DOJA CAT & RAYE",
+        "title": "BORN AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith & Normani",
+        "title": "Dancing With A Stranger",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Serena Joy",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Taylor Swift",
-      "title": "Shake It Off",
-      "plays": 1
+      "artist": "Tim Bendzko",
+      "title": "Hoch",
+      "plays": 2
     }
   }
 }
