@@ -2,8 +2,8 @@
   "2026-10-20 07:00": {
     "period_start": "2026-10-20T07:00:00+02:00",
     "period_end": "2026-10-21T07:00:00+02:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Taylor Swift",
@@ -53,6 +53,46 @@
       {
         "artist": "Tim Bendzko",
         "title": "Hoch",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben",
+        "title": "She Moves (feat. Graham Candy)",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "The 1975",
+        "title": "Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Lena x Nico Santos",
+        "title": "Better",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
+        "plays": 1
+      },
+      {
+        "artist": "Clean Bandit",
+        "title": "Rather Be (feat. Jess Glynne)",
+        "plays": 1
+      },
+      {
+        "artist": "Lauren Spencer-Smith",
+        "title": "Flowers",
+        "plays": 1
+      },
+      {
+        "artist": "Damiano David, Tyla, Nile Rodgers",
+        "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
         "plays": 1
       }
     ],
