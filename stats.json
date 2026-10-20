@@ -2,12 +2,17 @@
   "2026-10-19 07:00": {
     "period_start": "2026-10-19T07:00:00+02:00",
     "period_end": "2026-10-20T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 38,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "P!nk",
         "title": "TRUSTFALL",
+        "plays": 2
+      },
+      {
+        "artist": "Marteria",
+        "title": "Niemand bringt Marten um",
         "plays": 2
       },
       {
@@ -161,11 +166,6 @@
         "plays": 1
       },
       {
-        "artist": "Marteria",
-        "title": "Niemand bringt Marten um",
-        "plays": 1
-      },
-      {
         "artist": "Clueso",
         "title": "Sag Mir Was Du Willst",
         "plays": 1
@@ -188,6 +188,46 @@
       {
         "artist": "Alex Warren",
         "title": "FEVER DREAM",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Shook",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Clare",
+        "title": "Too Close",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Open Up",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig Feat. Greeen",
+        "title": "Eh Zu Kurz",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Grennan",
+        "title": "Little Bit of Love",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Cover Me In Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Addison Rae",
+        "title": "Headphones On",
+        "plays": 1
+      },
+      {
+        "artist": "I Prevail",
+        "title": "Bad Things",
         "plays": 1
       }
     ],
