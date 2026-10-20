@@ -12232,5 +12232,65 @@
     "played_at": "2026-10-20 21:32:00 +0200",
     "title": "Astronaut",
     "artist": "Sido Feat. Andreas Bourani"
+  },
+  {
+    "key": "2026-10-20 23:48:41 +0200|Salt|Ava Max",
+    "played_at": "2026-10-20 23:48:41 +0200",
+    "title": "Salt",
+    "artist": "Ava Max"
+  },
+  {
+    "key": "2026-10-20 23:51:41 +0200|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-10-20 23:51:41 +0200",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-10-20 23:55:15 +0200|Swallow My Tears|Gwen Stefani",
+    "played_at": "2026-10-20 23:55:15 +0200",
+    "title": "Swallow My Tears",
+    "artist": "Gwen Stefani"
+  },
+  {
+    "key": "2026-10-20 23:58:09 +0200|Dancing With A Stranger|Sam Smith & Normani",
+    "played_at": "2026-10-20 23:58:09 +0200",
+    "title": "Dancing With A Stranger",
+    "artist": "Sam Smith & Normani"
+  },
+  {
+    "key": "2026-10-21 00:01:00 +0200|God's Plan|Drake",
+    "played_at": "2026-10-21 00:01:00 +0200",
+    "title": "God's Plan",
+    "artist": "Drake"
+  },
+  {
+    "key": "2026-10-21 00:04:19 +0200|Ready For Your Love|Felix Jaehn",
+    "played_at": "2026-10-21 00:04:19 +0200",
+    "title": "Ready For Your Love",
+    "artist": "Felix Jaehn"
+  },
+  {
+    "key": "2026-10-21 00:06:58 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-21 00:06:58 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-21 00:09:50 +0200|Everlasting Love|Love Affair",
+    "played_at": "2026-10-21 00:09:50 +0200",
+    "title": "Everlasting Love",
+    "artist": "Love Affair"
+  },
+  {
+    "key": "2026-10-21 00:12:48 +0200|King|Florence + The Machine",
+    "played_at": "2026-10-21 00:12:48 +0200",
+    "title": "King",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "key": "2026-10-21 00:17:28 +0200|Drop dead|Olivia Rodrigo",
+    "played_at": "2026-10-21 00:17:28 +0200",
+    "title": "Drop dead",
+    "artist": "Olivia Rodrigo"
   }
 ]

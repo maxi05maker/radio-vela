@@ -2,12 +2,17 @@
   "2026-10-20 07:00": {
     "period_start": "2026-10-20T07:00:00+02:00",
     "period_end": "2026-10-21T07:00:00+02:00",
-    "total_entries": 40,
-    "music_entries": 36,
+    "total_entries": 50,
+    "music_entries": 45,
     "songs": [
       {
         "artist": "Tim Bendzko",
         "title": "Hoch",
+        "plays": 2
+      },
+      {
+        "artist": "Sam Smith & Normani",
+        "title": "Dancing With A Stranger",
         "plays": 2
       },
       {
@@ -121,11 +126,6 @@
         "plays": 1
       },
       {
-        "artist": "Sam Smith & Normani",
-        "title": "Dancing With A Stranger",
-        "plays": 1
-      },
-      {
         "artist": "Olivia Rodrigo",
         "title": "Serena Joy",
         "plays": 1
@@ -178,6 +178,46 @@
       {
         "artist": "Sido Feat. Andreas Bourani",
         "title": "Astronaut",
+        "plays": 1
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Salt",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Gwen Stefani",
+        "title": "Swallow My Tears",
+        "plays": 1
+      },
+      {
+        "artist": "Drake",
+        "title": "God's Plan",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Ready For Your Love",
+        "plays": 1
+      },
+      {
+        "artist": "Love Affair",
+        "title": "Everlasting Love",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "King",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Drop dead",
         "plays": 1
       }
     ],
