@@ -2,8 +2,8 @@
   "2026-10-20 07:00": {
     "period_start": "2026-10-20T07:00:00+02:00",
     "period_end": "2026-10-21T07:00:00+02:00",
-    "total_entries": 30,
-    "music_entries": 27,
+    "total_entries": 40,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "Tim Bendzko",
@@ -133,6 +133,51 @@
       {
         "artist": "Justin Jesso",
         "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Apágame",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "Ich Muss Immer An Dich Denken",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "SMOKE THE PAIN AWAY",
+        "plays": 1
+      },
+      {
+        "artist": "Iron Maiden",
+        "title": "Senjutsu",
+        "plays": 1
+      },
+      {
+        "artist": "Kaas",
+        "title": "ICH HASS MEIN JOB",
+        "plays": 1
+      },
+      {
+        "artist": "Eels",
+        "title": "Goldy",
+        "plays": 1
+      },
+      {
+        "artist": "Demi Lovato",
+        "title": "Cool For The Summer",
+        "plays": 1
+      },
+      {
+        "artist": "Sido Feat. Andreas Bourani",
+        "title": "Astronaut",
         "plays": 1
       }
     ],
