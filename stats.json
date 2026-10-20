@@ -1,240 +1,65 @@
 {
-  "2026-10-19 07:00": {
-    "period_start": "2026-10-19T07:00:00+02:00",
-    "period_end": "2026-10-20T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 47,
+  "2026-10-20 07:00": {
+    "period_start": "2026-10-20T07:00:00+02:00",
+    "period_end": "2026-10-21T07:00:00+02:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "P!nk",
-        "title": "TRUSTFALL",
-        "plays": 2
-      },
-      {
-        "artist": "Marteria",
-        "title": "Niemand bringt Marten um",
-        "plays": 2
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "With You",
+        "artist": "Taylor Swift",
+        "title": "Shake It Off",
         "plays": 1
       },
       {
-        "artist": "Lil Tjay",
-        "title": "In My Head",
+        "artist": "Florence + The Machine",
+        "title": "Hunger",
         "plays": 1
       },
       {
-        "artist": "KADAVAR",
-        "title": "Scar On My Guitar",
+        "artist": "BLACKPINK",
+        "title": "GO",
         "plays": 1
       },
       {
-        "artist": "Shania Twain",
-        "title": "Best Friend",
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
         "plays": 1
       },
       {
-        "artist": "Dermot Kennedy",
-        "title": "Giants",
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now",
         "plays": 1
       },
       {
-        "artist": "Floodlights",
-        "title": "Can You Feel It",
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
         "plays": 1
       },
       {
-        "artist": "LEA",
-        "title": "Zu dir",
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
         "plays": 1
       },
       {
-        "artist": "Provinz",
-        "title": "Cry Baby Cry",
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
         "plays": 1
       },
       {
-        "artist": "Revolverheld",
-        "title": "Leichter",
+        "artist": "Hendrik Bolz",
+        "title": "Krieg",
         "plays": 1
       },
       {
-        "artist": "Tom Grennan",
-        "title": "Don't Break the Heart",
-        "plays": 1
-      },
-      {
-        "artist": "Kummer",
-        "title": "Bei Dir",
-        "plays": 1
-      },
-      {
-        "artist": "Joji",
-        "title": "Love Me Better",
-        "plays": 1
-      },
-      {
-        "artist": "David Gilmour",
-        "title": "In Any Tongue",
-        "plays": 1
-      },
-      {
-        "artist": "Ariana Grande",
-        "title": "No Tears Left To Cry",
-        "plays": 1
-      },
-      {
-        "artist": "Mika",
-        "title": "Modern Times",
-        "plays": 1
-      },
-      {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "FILLY",
-        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
-        "plays": 1
-      },
-      {
-        "artist": "Namika feat. Black M",
-        "title": "Je Ne Parle Pas Français (Beatgees Remix)",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta, Hypaton, Bonnie Tyler",
-        "title": "Together",
-        "plays": 1
-      },
-      {
-        "artist": "KUMMER",
-        "title": "DER LETZTE SONG (ALLES WIRD GUT)",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "A Million Dreams",
-        "plays": 1
-      },
-      {
-        "artist": "FAYAN (feat. Dalton)",
-        "title": "VERLIEBT IN MICH",
-        "plays": 1
-      },
-      {
-        "artist": "One Republic",
-        "title": "Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "Billy Idol",
-        "title": "Bitter Taste",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "The Dead Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "There's Nothing Holdin' Me Back",
-        "plays": 1
-      },
-      {
-        "artist": "Waving The Guns",
-        "title": "Schürhaken",
-        "plays": 1
-      },
-      {
-        "artist": "CRO, jolle",
-        "title": "Märchenwald",
-        "plays": 1
-      },
-      {
-        "artist": "The Pretty Reckless",
-        "title": "Rollercoaster Of Life",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Sag Mir Was Du Willst",
-        "plays": 1
-      },
-      {
-        "artist": "Archive",
-        "title": "City Walls",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Smooth",
-        "plays": 1
-      },
-      {
-        "artist": "Red Hot Chili Peppers",
-        "title": "Black Summer",
-        "plays": 1
-      },
-      {
-        "artist": "Alex Warren",
-        "title": "FEVER DREAM",
-        "plays": 1
-      },
-      {
-        "artist": "Sugababes",
-        "title": "Shook",
-        "plays": 1
-      },
-      {
-        "artist": "Alex Clare",
-        "title": "Too Close",
-        "plays": 1
-      },
-      {
-        "artist": "Matt Simons",
-        "title": "Open Up",
-        "plays": 1
-      },
-      {
-        "artist": "1986zig Feat. Greeen",
-        "title": "Eh Zu Kurz",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Grennan",
-        "title": "Little Bit of Love",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Cover Me In Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "Addison Rae",
-        "title": "Headphones On",
-        "plays": 1
-      },
-      {
-        "artist": "I Prevail",
-        "title": "Bad Things",
+        "artist": "Tim Bendzko",
+        "title": "Hoch",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "P!nk",
-      "title": "TRUSTFALL",
-      "plays": 2
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "plays": 1
     }
   }
 }
