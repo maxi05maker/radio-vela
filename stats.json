@@ -2,8 +2,8 @@
   "2026-10-21 07:00": {
     "period_start": "2026-10-21T07:00:00+02:00",
     "period_end": "2026-10-22T07:00:00+02:00",
-    "total_entries": 14,
-    "music_entries": 13,
+    "total_entries": 24,
+    "music_entries": 23,
     "songs": [
       {
         "artist": "Lena",
@@ -68,6 +68,56 @@
       {
         "artist": "Zach Bryan",
         "title": "Pink Skies",
+        "plays": 1
+      },
+      {
+        "artist": "Muse",
+        "title": "Hush (feat. Ellie Goulding)",
+        "plays": 1
+      },
+      {
+        "artist": "Sia feat. Sean Paul",
+        "title": "Cheap Thrills",
+        "plays": 1
+      },
+      {
+        "artist": "Freya Ridings",
+        "title": "Castles",
+        "plays": 1
+      },
+      {
+        "artist": "The Pretty Reckless",
+        "title": "Rollercoaster Of Life",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith & Normani",
+        "title": "Dancing With A Stranger",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "plays": 1
+      },
+      {
+        "artist": "sombr",
+        "title": "Homewrecker",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Love On The Brain",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "plays": 1
+      },
+      {
+        "artist": "Beth Hart",
+        "title": "Savior With A Razor (feat. Slash)",
         "plays": 1
       }
     ],
