@@ -2,8 +2,8 @@
   "2026-10-20 07:00": {
     "period_start": "2026-10-20T07:00:00+02:00",
     "period_end": "2026-10-21T07:00:00+02:00",
-    "total_entries": 50,
-    "music_entries": 45,
+    "total_entries": 60,
+    "music_entries": 54,
     "songs": [
       {
         "artist": "Tim Bendzko",
@@ -218,6 +218,51 @@
       {
         "artist": "Olivia Rodrigo",
         "title": "Drop dead",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "don't lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "A Million Dreams",
+        "plays": 1
+      },
+      {
+        "artist": "Jill Scott",
+        "title": "BPOTY (feat. Too $hort)",
+        "plays": 1
+      },
+      {
+        "artist": "Muse",
+        "title": "You Make Me Feel Like It’s Halloween",
+        "plays": 1
+      },
+      {
+        "artist": "I Prevail",
+        "title": "Fake",
+        "plays": 1
+      },
+      {
+        "artist": "The Mary Onettes",
+        "title": "Hurricane Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Dove Cameron",
+        "title": "Boyfriend",
+        "plays": 1
+      },
+      {
+        "artist": "Maggie Rogers",
+        "title": "In The Living Room",
         "plays": 1
       }
     ],
