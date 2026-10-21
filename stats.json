@@ -2,9 +2,14 @@
   "2026-10-21 07:00": {
     "period_start": "2026-10-21T07:00:00+02:00",
     "period_end": "2026-10-22T07:00:00+02:00",
-    "total_entries": 34,
-    "music_entries": 33,
+    "total_entries": 44,
+    "music_entries": 42,
     "songs": [
+      {
+        "artist": "KT Gorique",
+        "title": "Nerveuz",
+        "plays": 2
+      },
       {
         "artist": "Lena",
         "title": "Traffic Lights",
@@ -146,11 +151,6 @@
         "plays": 1
       },
       {
-        "artist": "KT Gorique",
-        "title": "Nerveuz",
-        "plays": 1
-      },
-      {
         "artist": "Ellie Goulding",
         "title": "Something In The Way You Move",
         "plays": 1
@@ -169,12 +169,52 @@
         "artist": "Johannes Oerding",
         "title": "Kreise",
         "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "Attention",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
+        "plays": 1
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Twizzler",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Love My Life",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Es könnte grad nicht schöner sein",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL, Imael Angel, Ultra Naté",
+        "title": "Movin' To The Sun",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Shotgun",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry Feat. Skip Marley",
+        "title": "Chained To The Rhythm",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Lena",
-      "title": "Traffic Lights",
-      "plays": 1
+      "artist": "KT Gorique",
+      "title": "Nerveuz",
+      "plays": 2
     }
   }
 }
