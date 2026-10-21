@@ -2,8 +2,8 @@
   "2026-10-21 07:00": {
     "period_start": "2026-10-21T07:00:00+02:00",
     "period_end": "2026-10-22T07:00:00+02:00",
-    "total_entries": 24,
-    "music_entries": 23,
+    "total_entries": 34,
+    "music_entries": 33,
     "songs": [
       {
         "artist": "Lena",
@@ -118,6 +118,56 @@
       {
         "artist": "Beth Hart",
         "title": "Savior With A Razor (feat. Slash)",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "Mountain At My Gates",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Wellington feat. Small Jam",
+        "title": "Iko Iko",
+        "plays": 1
+      },
+      {
+        "artist": "Take That",
+        "title": "Sweet July",
+        "plays": 1
+      },
+      {
+        "artist": "Milow",
+        "title": "Howling At The Moon",
+        "plays": 1
+      },
+      {
+        "artist": "Lauren Spencer-Smith",
+        "title": "Flowers",
+        "plays": 1
+      },
+      {
+        "artist": "KT Gorique",
+        "title": "Nerveuz",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Something In The Way You Move",
+        "plays": 1
+      },
+      {
+        "artist": "La Roux",
+        "title": "Uptight Downtown",
+        "plays": 1
+      },
+      {
+        "artist": "Billy Idol feat. Avril Lavigne",
+        "title": "77",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kreise",
         "plays": 1
       }
     ],
