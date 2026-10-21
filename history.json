@@ -12352,5 +12352,29 @@
     "played_at": "2026-10-21 02:32:51 +0200",
     "title": "In The Living Room",
     "artist": "Maggie Rogers"
+  },
+  {
+    "key": "2026-10-21 07:01:25 +0200|Traffic Lights|Lena",
+    "played_at": "2026-10-21 07:01:25 +0200",
+    "title": "Traffic Lights",
+    "artist": "Lena"
+  },
+  {
+    "key": "2026-10-21 07:04:14 +0200|Am I Wrong|Nico & Vinz",
+    "played_at": "2026-10-21 07:04:14 +0200",
+    "title": "Am I Wrong",
+    "artist": "Nico & Vinz"
+  },
+  {
+    "key": "2026-10-21 07:08:21 +0200|Lonely is the Muse|Halsey",
+    "played_at": "2026-10-21 07:08:21 +0200",
+    "title": "Lonely is the Muse",
+    "artist": "Halsey"
+  },
+  {
+    "key": "2026-10-21 07:12:24 +0200|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-21 07:12:24 +0200",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
