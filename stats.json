@@ -2,8 +2,8 @@
   "2026-10-21 07:00": {
     "period_start": "2026-10-21T07:00:00+02:00",
     "period_end": "2026-10-22T07:00:00+02:00",
-    "total_entries": 4,
-    "music_entries": 3,
+    "total_entries": 14,
+    "music_entries": 13,
     "songs": [
       {
         "artist": "Lena",
@@ -18,6 +18,56 @@
       {
         "artist": "Halsey",
         "title": "Lonely is the Muse",
+        "plays": 1
+      },
+      {
+        "artist": "Fontaines D.C.",
+        "title": "Favourite",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
+        "plays": 1
+      },
+      {
+        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
+        "title": "Rebellion",
+        "plays": 1
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "Jackson Browne",
+        "title": "My Cleveland Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "I Never Loved You",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben",
+        "title": "She Moves (feat. Graham Candy)",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna & Kanye West & Paul McCartney",
+        "title": "FourFiveSeconds",
+        "plays": 1
+      },
+      {
+        "artist": "Zach Bryan",
+        "title": "Pink Skies",
         "plays": 1
       }
     ],
