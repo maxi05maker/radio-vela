@@ -2,8 +2,8 @@
   "2026-10-22 07:00": {
     "period_start": "2026-10-22T07:00:00+02:00",
     "period_end": "2026-10-23T07:00:00+02:00",
-    "total_entries": 8,
-    "music_entries": 7,
+    "total_entries": 18,
+    "music_entries": 16,
     "songs": [
       {
         "artist": "Provinz",
@@ -38,6 +38,51 @@
       {
         "artist": "David Guetta; Teddy Swims; Tones and I",
         "title": "Gone Gone Gone",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "No Tears Left To Cry",
+        "plays": 1
+      },
+      {
+        "artist": "Armani Caesar",
+        "title": "Diana",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Dead Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Drangsal",
+        "title": "Urlaub Von Mir",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Without Me",
+        "plays": 1
+      },
+      {
+        "artist": "Rosalía",
+        "title": "La Perla (with Yahritza y su Esencia)",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Jolene",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "King",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
         "plays": 1
       }
     ],
