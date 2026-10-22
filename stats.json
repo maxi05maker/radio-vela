@@ -2,12 +2,17 @@
   "2026-10-22 07:00": {
     "period_start": "2026-10-22T07:00:00+02:00",
     "period_end": "2026-10-23T07:00:00+02:00",
-    "total_entries": 28,
-    "music_entries": 25,
+    "total_entries": 38,
+    "music_entries": 35,
     "songs": [
       {
         "artist": "Suki Waterhouse",
         "title": "Neon Signs",
+        "plays": 2
+      },
+      {
+        "artist": "Drangsal",
+        "title": "Urlaub Von Mir",
         "plays": 2
       },
       {
@@ -53,11 +58,6 @@
       {
         "artist": "Lady Gaga",
         "title": "The Dead Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Drangsal",
-        "title": "Urlaub Von Mir",
         "plays": 1
       },
       {
@@ -123,6 +123,51 @@
       {
         "artist": "Harry Styles",
         "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Monster",
+        "plays": 1
+      },
+      {
+        "artist": "Amyl and The Sniffers",
+        "title": "Big Dreams",
+        "plays": 1
+      },
+      {
+        "artist": "Razorlight",
+        "title": "You Are Entering The Human Heart",
+        "plays": 1
+      },
+      {
+        "artist": "Chaka Khan",
+        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
+        "plays": 1
+      },
+      {
+        "artist": "Drake",
+        "title": "God's Plan",
+        "plays": 1
+      },
+      {
+        "artist": "The Marías",
+        "title": "Back To Me",
+        "plays": 1
+      },
+      {
+        "artist": "Mimii",
+        "title": "Blüte",
+        "plays": 1
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
         "plays": 1
       }
     ],
