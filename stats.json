@@ -2,9 +2,14 @@
   "2026-10-21 07:00": {
     "period_start": "2026-10-21T07:00:00+02:00",
     "period_end": "2026-10-22T07:00:00+02:00",
-    "total_entries": 44,
-    "music_entries": 42,
+    "total_entries": 54,
+    "music_entries": 51,
     "songs": [
+      {
+        "artist": "Freya Ridings",
+        "title": "Castles",
+        "plays": 2
+      },
       {
         "artist": "KT Gorique",
         "title": "Nerveuz",
@@ -83,11 +88,6 @@
       {
         "artist": "Sia feat. Sean Paul",
         "title": "Cheap Thrills",
-        "plays": 1
-      },
-      {
-        "artist": "Freya Ridings",
-        "title": "Castles",
         "plays": 1
       },
       {
@@ -209,11 +209,51 @@
         "artist": "Katy Perry Feat. Skip Marley",
         "title": "Chained To The Rhythm",
         "plays": 1
+      },
+      {
+        "artist": "Sido",
+        "title": "Liebst du mich",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Apágame",
+        "plays": 1
+      },
+      {
+        "artist": "Romano",
+        "title": "Köpenick",
+        "plays": 1
+      },
+      {
+        "artist": "The FAIM",
+        "title": "Summer Is a Curse",
+        "plays": 1
+      },
+      {
+        "artist": "Tyler Ballgame",
+        "title": "I Believe In Love",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
+        "plays": 1
+      },
+      {
+        "artist": "Moderat",
+        "title": "Bad Kingdom",
+        "plays": 1
+      },
+      {
+        "artist": "Avalon Emerson",
+        "title": "Eden",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "KT Gorique",
-      "title": "Nerveuz",
+      "artist": "Freya Ridings",
+      "title": "Castles",
       "plays": 2
     }
   }
