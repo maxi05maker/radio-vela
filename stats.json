@@ -1,260 +1,50 @@
 {
-  "2026-10-21 07:00": {
-    "period_start": "2026-10-21T07:00:00+02:00",
-    "period_end": "2026-10-22T07:00:00+02:00",
-    "total_entries": 54,
-    "music_entries": 51,
+  "2026-10-22 07:00": {
+    "period_start": "2026-10-22T07:00:00+02:00",
+    "period_end": "2026-10-23T07:00:00+02:00",
+    "total_entries": 8,
+    "music_entries": 7,
     "songs": [
       {
-        "artist": "Freya Ridings",
-        "title": "Castles",
-        "plays": 2
-      },
-      {
-        "artist": "KT Gorique",
-        "title": "Nerveuz",
-        "plays": 2
-      },
-      {
-        "artist": "Lena",
-        "title": "Traffic Lights",
+        "artist": "Provinz",
+        "title": "Cry Baby Cry",
         "plays": 1
       },
       {
-        "artist": "Nico & Vinz",
-        "title": "Am I Wrong",
+        "artist": "Suki Waterhouse",
+        "title": "Neon Signs",
         "plays": 1
       },
       {
-        "artist": "Halsey",
-        "title": "Lonely is the Muse",
+        "artist": "Willow & Travis Barker",
+        "title": "Transparent Soul",
         "plays": 1
       },
       {
-        "artist": "Fontaines D.C.",
-        "title": "Favourite",
+        "artist": "Doechii",
+        "title": "Anxiety",
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
         "plays": 1
       },
       {
-        "artist": "Shawn Mendes",
-        "title": "In My Blood",
+        "artist": "Tyla",
+        "title": "Been Thinking",
         "plays": 1
       },
       {
-        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
-        "title": "Rebellion",
-        "plays": 1
-      },
-      {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
-        "artist": "Jackson Browne",
-        "title": "My Cleveland Heart",
-        "plays": 1
-      },
-      {
-        "artist": "Halsey",
-        "title": "I Never Loved You",
-        "plays": 1
-      },
-      {
-        "artist": "Alle Farben",
-        "title": "She Moves (feat. Graham Candy)",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna & Kanye West & Paul McCartney",
-        "title": "FourFiveSeconds",
-        "plays": 1
-      },
-      {
-        "artist": "Zach Bryan",
-        "title": "Pink Skies",
-        "plays": 1
-      },
-      {
-        "artist": "Muse",
-        "title": "Hush (feat. Ellie Goulding)",
-        "plays": 1
-      },
-      {
-        "artist": "Sia feat. Sean Paul",
-        "title": "Cheap Thrills",
-        "plays": 1
-      },
-      {
-        "artist": "The Pretty Reckless",
-        "title": "Rollercoaster Of Life",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith & Normani",
-        "title": "Dancing With A Stranger",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "New Rules",
-        "plays": 1
-      },
-      {
-        "artist": "sombr",
-        "title": "Homewrecker",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna",
-        "title": "Love On The Brain",
-        "plays": 1
-      },
-      {
-        "artist": "Zara Larsson",
-        "title": "Lush Life",
-        "plays": 1
-      },
-      {
-        "artist": "Beth Hart",
-        "title": "Savior With A Razor (feat. Slash)",
-        "plays": 1
-      },
-      {
-        "artist": "Foals",
-        "title": "Mountain At My Gates",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Wellington feat. Small Jam",
-        "title": "Iko Iko",
-        "plays": 1
-      },
-      {
-        "artist": "Take That",
-        "title": "Sweet July",
-        "plays": 1
-      },
-      {
-        "artist": "Milow",
-        "title": "Howling At The Moon",
-        "plays": 1
-      },
-      {
-        "artist": "Lauren Spencer-Smith",
-        "title": "Flowers",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Something In The Way You Move",
-        "plays": 1
-      },
-      {
-        "artist": "La Roux",
-        "title": "Uptight Downtown",
-        "plays": 1
-      },
-      {
-        "artist": "Billy Idol feat. Avril Lavigne",
-        "title": "77",
-        "plays": 1
-      },
-      {
-        "artist": "Johannes Oerding",
-        "title": "Kreise",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth",
-        "title": "Attention",
-        "plays": 1
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Ist da jemand",
-        "plays": 1
-      },
-      {
-        "artist": "Cigarettes After Sex",
-        "title": "Twizzler",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "Love My Life",
-        "plays": 1
-      },
-      {
-        "artist": "Blond",
-        "title": "Es könnte grad nicht schöner sein",
-        "plays": 1
-      },
-      {
-        "artist": "HUGEL, Imael Angel, Ultra Naté",
-        "title": "Movin' To The Sun",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Shotgun",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry Feat. Skip Marley",
-        "title": "Chained To The Rhythm",
-        "plays": 1
-      },
-      {
-        "artist": "Sido",
-        "title": "Liebst du mich",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Apágame",
-        "plays": 1
-      },
-      {
-        "artist": "Romano",
-        "title": "Köpenick",
-        "plays": 1
-      },
-      {
-        "artist": "The FAIM",
-        "title": "Summer Is a Curse",
-        "plays": 1
-      },
-      {
-        "artist": "Tyler Ballgame",
-        "title": "I Believe In Love",
-        "plays": 1
-      },
-      {
-        "artist": "Mike Singer",
-        "title": "Deja Vu",
-        "plays": 1
-      },
-      {
-        "artist": "Moderat",
-        "title": "Bad Kingdom",
-        "plays": 1
-      },
-      {
-        "artist": "Avalon Emerson",
-        "title": "Eden",
+        "artist": "David Guetta; Teddy Swims; Tones and I",
+        "title": "Gone Gone Gone",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Freya Ridings",
-      "title": "Castles",
-      "plays": 2
+      "artist": "Provinz",
+      "title": "Cry Baby Cry",
+      "plays": 1
     }
   }
 }
