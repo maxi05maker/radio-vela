@@ -2,12 +2,22 @@
   "2026-10-22 07:00": {
     "period_start": "2026-10-22T07:00:00+02:00",
     "period_end": "2026-10-23T07:00:00+02:00",
-    "total_entries": 38,
-    "music_entries": 35,
+    "total_entries": 48,
+    "music_entries": 45,
     "songs": [
+      {
+        "artist": "Provinz",
+        "title": "Cry Baby Cry",
+        "plays": 2
+      },
       {
         "artist": "Suki Waterhouse",
         "title": "Neon Signs",
+        "plays": 2
+      },
+      {
+        "artist": "Doechii",
+        "title": "Anxiety",
         "plays": 2
       },
       {
@@ -16,18 +26,8 @@
         "plays": 2
       },
       {
-        "artist": "Provinz",
-        "title": "Cry Baby Cry",
-        "plays": 1
-      },
-      {
         "artist": "Willow & Travis Barker",
         "title": "Transparent Soul",
-        "plays": 1
-      },
-      {
-        "artist": "Doechii",
-        "title": "Anxiety",
         "plays": 1
       },
       {
@@ -169,11 +169,51 @@
         "artist": "DJ Snake & J. Balvin Feat. Tyga",
         "title": "Loco Contigo",
         "plays": 1
+      },
+      {
+        "artist": "THE BLACK CROWES",
+        "title": "Pharmacy Chronicles",
+        "plays": 1
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "party 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "Mother Mother",
+        "title": "Hayloft II",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Forget me",
+        "plays": 1
+      },
+      {
+        "artist": "Rina Sawayama",
+        "title": "Hurricanes",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Suki Waterhouse",
-      "title": "Neon Signs",
+      "artist": "Provinz",
+      "title": "Cry Baby Cry",
       "plays": 2
     }
   }
