@@ -2,17 +2,17 @@
   "2026-10-22 07:00": {
     "period_start": "2026-10-22T07:00:00+02:00",
     "period_end": "2026-10-23T07:00:00+02:00",
-    "total_entries": 18,
-    "music_entries": 16,
+    "total_entries": 28,
+    "music_entries": 25,
     "songs": [
-      {
-        "artist": "Provinz",
-        "title": "Cry Baby Cry",
-        "plays": 1
-      },
       {
         "artist": "Suki Waterhouse",
         "title": "Neon Signs",
+        "plays": 2
+      },
+      {
+        "artist": "Provinz",
+        "title": "Cry Baby Cry",
         "plays": 1
       },
       {
@@ -84,12 +84,52 @@
         "artist": "Lana Del Rey",
         "title": "White Feather Hawk Tail Deer Hunter",
         "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "plays": 1
+      },
+      {
+        "artist": "Fever Ray",
+        "title": "Carbon Dioxide",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith & Normani",
+        "title": "Dancing With A Stranger",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Stray Kids",
+        "title": "RUN IT",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Provinz",
-      "title": "Cry Baby Cry",
-      "plays": 1
+      "artist": "Suki Waterhouse",
+      "title": "Neon Signs",
+      "plays": 2
     }
   }
 }
