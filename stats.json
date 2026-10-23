@@ -2,13 +2,13 @@
   "2026-10-23 07:00": {
     "period_start": "2026-10-23T07:00:00+02:00",
     "period_end": "2026-10-24T07:00:00+02:00",
-    "total_entries": 14,
-    "music_entries": 12,
+    "total_entries": 24,
+    "music_entries": 22,
     "songs": [
       {
         "artist": "George Ezra",
         "title": "Shotgun",
-        "plays": 1
+        "plays": 2
       },
       {
         "artist": "Lance Butters",
@@ -64,12 +64,57 @@
         "artist": "David Guetta; Teddy Swims; Tones and I",
         "title": "Gone Gone Gone",
         "plays": 1
+      },
+      {
+        "artist": "Peter Frampton feat.Tom Morello",
+        "title": "Lions At The Gate",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Real Face",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "I Believe",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Fender",
+        "title": "People Watching",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "TRUSTFALL",
+        "plays": 1
+      },
+      {
+        "artist": "CHAPO102 x GUSTAV",
+        "title": "WARSCHAU",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba, Provinz",
+        "title": "Ich glaub ich will heut nicht mehr gehen",
+        "plays": 1
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "George Ezra",
       "title": "Shotgun",
-      "plays": 1
+      "plays": 2
     }
   }
 }
