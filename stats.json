@@ -2,8 +2,8 @@
   "2026-10-23 07:00": {
     "period_start": "2026-10-23T07:00:00+02:00",
     "period_end": "2026-10-24T07:00:00+02:00",
-    "total_entries": 24,
-    "music_entries": 22,
+    "total_entries": 34,
+    "music_entries": 32,
     "songs": [
       {
         "artist": "George Ezra",
@@ -108,6 +108,56 @@
       {
         "artist": "Noah Kahan",
         "title": "The Great Divide",
+        "plays": 1
+      },
+      {
+        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
+        "title": "The Drop",
+        "plays": 1
+      },
+      {
+        "artist": "ARIANA GRANDE",
+        "title": "Hate That I Made You Love Me   (2026)",
+        "plays": 1
+      },
+      {
+        "artist": "Casper feat. Drangsal",
+        "title": "Keine Angst",
+        "plays": 1
+      },
+      {
+        "artist": "Quavo",
+        "title": "Without You",
+        "plays": 1
+      },
+      {
+        "artist": "benny blanco, Selena Gomez, Becky G",
+        "title": "Te Olvido (La La)",
+        "plays": 1
+      },
+      {
+        "artist": "Reamonn",
+        "title": "Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "Esther Graf",
+        "title": "Dafuer War Es Echt",
+        "plays": 1
+      },
+      {
+        "artist": "Robin Schulz feat. Alida",
+        "title": "In Your Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers feat. Halsey",
+        "title": "Closer",
+        "plays": 1
+      },
+      {
+        "artist": "sombr",
+        "title": "Homewrecker",
         "plays": 1
       }
     ],
