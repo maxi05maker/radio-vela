@@ -2,8 +2,8 @@
   "2026-10-23 07:00": {
     "period_start": "2026-10-23T07:00:00+02:00",
     "period_end": "2026-10-24T07:00:00+02:00",
-    "total_entries": 4,
-    "music_entries": 3,
+    "total_entries": 14,
+    "music_entries": 12,
     "songs": [
       {
         "artist": "George Ezra",
@@ -18,6 +18,51 @@
       {
         "artist": "Erykah Badu & The Alchemist",
         "title": "Witch Doctor",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Autobahn",
+        "plays": 1
+      },
+      {
+        "artist": "THE SUBWAYS",
+        "title": "I Need To Feel You Closer",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Treppenhaus",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Von Wegen Lisbeth",
+        "title": "Meine Kneipe",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Cover Me In Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta; Teddy Swims; Tones and I",
+        "title": "Gone Gone Gone",
         "plays": 1
       }
     ],
