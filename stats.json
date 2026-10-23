@@ -2,8 +2,8 @@
   "2026-10-22 07:00": {
     "period_start": "2026-10-22T07:00:00+02:00",
     "period_end": "2026-10-23T07:00:00+02:00",
-    "total_entries": 48,
-    "music_entries": 45,
+    "total_entries": 58,
+    "music_entries": 55,
     "songs": [
       {
         "artist": "Provinz",
@@ -208,6 +208,56 @@
       {
         "artist": "Rina Sawayama",
         "title": "Hurricanes",
+        "plays": 1
+      },
+      {
+        "artist": "j-hope, Miguel",
+        "title": "Sweet Dreams (feat. Miguel)",
+        "plays": 1
+      },
+      {
+        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
+        "title": "The Drop",
+        "plays": 1
+      },
+      {
+        "artist": "Kelvin Jones",
+        "title": "Cry A Little Less",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "We Can Do Better",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "Frank Popp Ensemble",
+        "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith, Kim Petras",
+        "title": "Unholy (feat. Kim Petras)",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "Skinny Ape",
+        "plays": 1
+      },
+      {
+        "artist": "Betterov",
+        "title": "In Meinem Zimmer Spielen Sich Dramen Ab",
         "plays": 1
       }
     ],
