@@ -2,8 +2,8 @@
   "2026-10-23 07:00": {
     "period_start": "2026-10-23T07:00:00+02:00",
     "period_end": "2026-10-24T07:00:00+02:00",
-    "total_entries": 34,
-    "music_entries": 32,
+    "total_entries": 44,
+    "music_entries": 41,
     "songs": [
       {
         "artist": "George Ezra",
@@ -158,6 +158,51 @@
       {
         "artist": "sombr",
         "title": "Homewrecker",
+        "plays": 1
+      },
+      {
+        "artist": "Joe Bonamassa & Ivan Neville",
+        "title": "Ghetto Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Bonez MC & Gzuz",
+        "title": "Abziehen",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba x Tokio Hotel",
+        "title": "Fata Morgana",
+        "plays": 1
+      },
+      {
+        "artist": "Drangsal",
+        "title": "Urlaub Von Mir",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Diese Nacht",
+        "plays": 1
+      },
+      {
+        "artist": "LISA FEAT. DOJA CAT & RAYE",
+        "title": "BORN AGAIN",
+        "plays": 1
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Locked Out Of Heaven",
+        "plays": 1
+      },
+      {
+        "artist": "Ziggy in tha House",
+        "title": "It's Raining",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
         "plays": 1
       }
     ],
