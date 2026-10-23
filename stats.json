@@ -1,270 +1,30 @@
 {
-  "2026-10-22 07:00": {
-    "period_start": "2026-10-22T07:00:00+02:00",
-    "period_end": "2026-10-23T07:00:00+02:00",
-    "total_entries": 58,
-    "music_entries": 55,
+  "2026-10-23 07:00": {
+    "period_start": "2026-10-23T07:00:00+02:00",
+    "period_end": "2026-10-24T07:00:00+02:00",
+    "total_entries": 4,
+    "music_entries": 3,
     "songs": [
       {
-        "artist": "Provinz",
-        "title": "Cry Baby Cry",
-        "plays": 2
-      },
-      {
-        "artist": "Suki Waterhouse",
-        "title": "Neon Signs",
-        "plays": 2
-      },
-      {
-        "artist": "Doechii",
-        "title": "Anxiety",
-        "plays": 2
-      },
-      {
-        "artist": "Drangsal",
-        "title": "Urlaub Von Mir",
-        "plays": 2
-      },
-      {
-        "artist": "Willow & Travis Barker",
-        "title": "Transparent Soul",
+        "artist": "George Ezra",
+        "title": "Shotgun",
         "plays": 1
       },
       {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
+        "artist": "Lance Butters",
+        "title": "Knock Knock",
         "plays": 1
       },
       {
-        "artist": "Tyla",
-        "title": "Been Thinking",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta; Teddy Swims; Tones and I",
-        "title": "Gone Gone Gone",
-        "plays": 1
-      },
-      {
-        "artist": "Ariana Grande",
-        "title": "No Tears Left To Cry",
-        "plays": 1
-      },
-      {
-        "artist": "Armani Caesar",
-        "title": "Diana",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "The Dead Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Halsey",
-        "title": "Without Me",
-        "plays": 1
-      },
-      {
-        "artist": "Rosalía",
-        "title": "La Perla (with Yahritza y su Esencia)",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "Jolene",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "King",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "White Feather Hawk Tail Deer Hunter",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Ashe",
-        "title": "Stop The Wedding!",
-        "plays": 1
-      },
-      {
-        "artist": "Fever Ray",
-        "title": "Carbon Dioxide",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Watch It Burn",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith & Normani",
-        "title": "Dancing With A Stranger",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Stray Kids",
-        "title": "RUN IT",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Alli Neumann",
-        "title": "Monster",
-        "plays": 1
-      },
-      {
-        "artist": "Amyl and The Sniffers",
-        "title": "Big Dreams",
-        "plays": 1
-      },
-      {
-        "artist": "Razorlight",
-        "title": "You Are Entering The Human Heart",
-        "plays": 1
-      },
-      {
-        "artist": "Chaka Khan",
-        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE, 070 Shake",
-        "title": "Escapism.",
-        "plays": 1
-      },
-      {
-        "artist": "Drake",
-        "title": "God's Plan",
-        "plays": 1
-      },
-      {
-        "artist": "The Marías",
-        "title": "Back To Me",
-        "plays": 1
-      },
-      {
-        "artist": "Mimii",
-        "title": "Blüte",
-        "plays": 1
-      },
-      {
-        "artist": "DJ Snake & J. Balvin Feat. Tyga",
-        "title": "Loco Contigo",
-        "plays": 1
-      },
-      {
-        "artist": "THE BLACK CROWES",
-        "title": "Pharmacy Chronicles",
-        "plays": 1
-      },
-      {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
-        "plays": 1
-      },
-      {
-        "artist": "Charli xcx",
-        "title": "party 4 u",
-        "plays": 1
-      },
-      {
-        "artist": "Mother Mother",
-        "title": "Hayloft II",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Throwback",
-        "plays": 1
-      },
-      {
-        "artist": "Monet192",
-        "title": "Nicht Perfekt",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Forget me",
-        "plays": 1
-      },
-      {
-        "artist": "Rina Sawayama",
-        "title": "Hurricanes",
-        "plays": 1
-      },
-      {
-        "artist": "j-hope, Miguel",
-        "title": "Sweet Dreams (feat. Miguel)",
-        "plays": 1
-      },
-      {
-        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
-        "title": "The Drop",
-        "plays": 1
-      },
-      {
-        "artist": "Kelvin Jones",
-        "title": "Cry A Little Less",
-        "plays": 1
-      },
-      {
-        "artist": "Sabrina Carpenter",
-        "title": "Busy Woman",
-        "plays": 1
-      },
-      {
-        "artist": "Matt Simons",
-        "title": "We Can Do Better",
-        "plays": 1
-      },
-      {
-        "artist": "Zoe Wees",
-        "title": "Control",
-        "plays": 1
-      },
-      {
-        "artist": "Frank Popp Ensemble",
-        "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith, Kim Petras",
-        "title": "Unholy (feat. Kim Petras)",
-        "plays": 1
-      },
-      {
-        "artist": "Gorillaz",
-        "title": "Skinny Ape",
-        "plays": 1
-      },
-      {
-        "artist": "Betterov",
-        "title": "In Meinem Zimmer Spielen Sich Dramen Ab",
+        "artist": "Erykah Badu & The Alchemist",
+        "title": "Witch Doctor",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Provinz",
-      "title": "Cry Baby Cry",
-      "plays": 2
+      "artist": "George Ezra",
+      "title": "Shotgun",
+      "plays": 1
     }
   }
 }
