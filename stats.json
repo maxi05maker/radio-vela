@@ -2,12 +2,17 @@
   "2026-10-23 07:00": {
     "period_start": "2026-10-23T07:00:00+02:00",
     "period_end": "2026-10-24T07:00:00+02:00",
-    "total_entries": 54,
-    "music_entries": 50,
+    "total_entries": 64,
+    "music_entries": 60,
     "songs": [
       {
         "artist": "George Ezra",
         "title": "Shotgun",
+        "plays": 2
+      },
+      {
+        "artist": "Provinz",
+        "title": "Diese Nacht",
         "plays": 2
       },
       {
@@ -181,11 +186,6 @@
         "plays": 1
       },
       {
-        "artist": "Provinz",
-        "title": "Diese Nacht",
-        "plays": 1
-      },
-      {
         "artist": "LISA FEAT. DOJA CAT & RAYE",
         "title": "BORN AGAIN",
         "plays": 1
@@ -248,6 +248,51 @@
       {
         "artist": "Bosse",
         "title": "Der Letzte Tanz",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Anne-Marie",
+        "title": "SAD B!TCH",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd/Anitta",
+        "title": "São Paulo",
+        "plays": 1
+      },
+      {
+        "artist": "Blackberry Smoke",
+        "title": "Run Away from It All",
+        "plays": 1
+      },
+      {
+        "artist": "Milky Chance",
+        "title": "Synchronize",
+        "plays": 1
+      },
+      {
+        "artist": "OG Keemo",
+        "title": "Blind [Explicit]",
+        "plays": 1
+      },
+      {
+        "artist": "twocolors",
+        "title": "Bloodstream",
+        "plays": 1
+      },
+      {
+        "artist": "ELIF",
+        "title": "WENN ICH STERBE",
+        "plays": 1
+      },
+      {
+        "artist": "Black Country Communion",
+        "title": "Skyway",
         "plays": 1
       }
     ],
