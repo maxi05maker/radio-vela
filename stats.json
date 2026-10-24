@@ -2,8 +2,8 @@
   "2026-10-23 07:00": {
     "period_start": "2026-10-23T07:00:00+02:00",
     "period_end": "2026-10-24T07:00:00+02:00",
-    "total_entries": 44,
-    "music_entries": 41,
+    "total_entries": 54,
+    "music_entries": 50,
     "songs": [
       {
         "artist": "George Ezra",
@@ -203,6 +203,51 @@
       {
         "artist": "RAYE, 070 Shake",
         "title": "Escapism.",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Smooth",
+        "plays": 1
+      },
+      {
+        "artist": "KT Gorique",
+        "title": "Nerveuz",
+        "plays": 1
+      },
+      {
+        "artist": "Lina",
+        "title": "Klippe",
+        "plays": 1
+      },
+      {
+        "artist": "Love Affair",
+        "title": "Everlasting Love",
+        "plays": 1
+      },
+      {
+        "artist": "Joanne Shaw Taylor",
+        "title": "01. Sweet 'Lil Lies (2024)",
+        "plays": 1
+      },
+      {
+        "artist": "Vanessa Mai",
+        "title": "Aus & Vorbei",
+        "plays": 1
+      },
+      {
+        "artist": "I Prevail",
+        "title": "Fake",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Unsicher",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Der Letzte Tanz",
         "plays": 1
       }
     ],
