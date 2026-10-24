@@ -1,278 +1,48 @@
 {
-  "2026-10-23 07:00": {
-    "period_start": "2026-10-23T07:00:00+02:00",
-    "period_end": "2026-10-24T07:00:00+02:00",
-    "total_entries": 64,
-    "music_entries": 60,
+  "2026-10-24 07:00": {
+    "period_start": "2026-10-24T07:00:00+02:00",
+    "period_end": "2026-10-25T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "George Ezra",
-        "title": "Shotgun",
-        "plays": 2
-      },
-      {
-        "artist": "Provinz",
-        "title": "Diese Nacht",
-        "plays": 2
-      },
-      {
-        "artist": "Lance Butters",
-        "title": "Knock Knock",
+        "artist": "Silbermond",
+        "title": "Auf Auf",
         "plays": 1
       },
       {
-        "artist": "Erykah Badu & The Alchemist",
-        "title": "Witch Doctor",
+        "artist": "Takida",
+        "title": "In Spite of Everything",
         "plays": 1
       },
       {
-        "artist": "Olivia Rodrigo",
-        "title": "good 4 u",
+        "artist": "Damiano David, Tyla, Nile Rodgers",
+        "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
         "plays": 1
       },
       {
-        "artist": "Adel Tawil",
-        "title": "Autobahn",
+        "artist": "Shawn Mendes",
+        "title": "Heartbeat",
         "plays": 1
       },
       {
-        "artist": "THE SUBWAYS",
-        "title": "I Need To Feel You Closer",
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
         "plays": 1
       },
       {
-        "artist": "LEA",
-        "title": "Treppenhaus",
+        "artist": "The Strokes",
+        "title": "Lonely in the Future",
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
+        "artist": "Dry Cleaning",
+        "title": "Gary Ashby",
         "plays": 1
       },
       {
-        "artist": "Katy Perry",
-        "title": "Watch It Burn",
-        "plays": 1
-      },
-      {
-        "artist": "Von Wegen Lisbeth",
-        "title": "Meine Kneipe",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Cover Me In Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta; Teddy Swims; Tones and I",
-        "title": "Gone Gone Gone",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Frampton feat.Tom Morello",
-        "title": "Lions At The Gate",
-        "plays": 1
-      },
-      {
-        "artist": "Sofia Portanet",
-        "title": "Real Face",
-        "plays": 1
-      },
-      {
-        "artist": "Kamrad",
-        "title": "I Believe",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Fender",
-        "title": "People Watching",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "TRUSTFALL",
-        "plays": 1
-      },
-      {
-        "artist": "CHAPO102 x GUSTAV",
-        "title": "WARSCHAU",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba, Provinz",
-        "title": "Ich glaub ich will heut nicht mehr gehen",
-        "plays": 1
-      },
-      {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
-        "artist": "Noah Kahan",
-        "title": "The Great Divide",
-        "plays": 1
-      },
-      {
-        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
-        "title": "The Drop",
-        "plays": 1
-      },
-      {
-        "artist": "ARIANA GRANDE",
-        "title": "Hate That I Made You Love Me   (2026)",
-        "plays": 1
-      },
-      {
-        "artist": "Casper feat. Drangsal",
-        "title": "Keine Angst",
-        "plays": 1
-      },
-      {
-        "artist": "Quavo",
-        "title": "Without You",
-        "plays": 1
-      },
-      {
-        "artist": "benny blanco, Selena Gomez, Becky G",
-        "title": "Te Olvido (La La)",
-        "plays": 1
-      },
-      {
-        "artist": "Reamonn",
-        "title": "Tonight",
-        "plays": 1
-      },
-      {
-        "artist": "Esther Graf",
-        "title": "Dafuer War Es Echt",
-        "plays": 1
-      },
-      {
-        "artist": "Robin Schulz feat. Alida",
-        "title": "In Your Eyes",
-        "plays": 1
-      },
-      {
-        "artist": "The Chainsmokers feat. Halsey",
-        "title": "Closer",
-        "plays": 1
-      },
-      {
-        "artist": "sombr",
-        "title": "Homewrecker",
-        "plays": 1
-      },
-      {
-        "artist": "Joe Bonamassa & Ivan Neville",
-        "title": "Ghetto Woman",
-        "plays": 1
-      },
-      {
-        "artist": "Bonez MC & Gzuz",
-        "title": "Abziehen",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba x Tokio Hotel",
-        "title": "Fata Morgana",
-        "plays": 1
-      },
-      {
-        "artist": "Drangsal",
-        "title": "Urlaub Von Mir",
-        "plays": 1
-      },
-      {
-        "artist": "LISA FEAT. DOJA CAT & RAYE",
-        "title": "BORN AGAIN",
-        "plays": 1
-      },
-      {
-        "artist": "Bruno Mars",
-        "title": "Locked Out Of Heaven",
-        "plays": 1
-      },
-      {
-        "artist": "Ziggy in tha House",
-        "title": "It's Raining",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE, 070 Shake",
-        "title": "Escapism.",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Smooth",
-        "plays": 1
-      },
-      {
-        "artist": "KT Gorique",
-        "title": "Nerveuz",
-        "plays": 1
-      },
-      {
-        "artist": "Lina",
-        "title": "Klippe",
-        "plays": 1
-      },
-      {
-        "artist": "Love Affair",
-        "title": "Everlasting Love",
-        "plays": 1
-      },
-      {
-        "artist": "Joanne Shaw Taylor",
-        "title": "01. Sweet 'Lil Lies (2024)",
-        "plays": 1
-      },
-      {
-        "artist": "Vanessa Mai",
-        "title": "Aus & Vorbei",
-        "plays": 1
-      },
-      {
-        "artist": "I Prevail",
-        "title": "Fake",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Unsicher",
-        "plays": 1
-      },
-      {
-        "artist": "Bosse",
-        "title": "Der Letzte Tanz",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Anne-Marie",
-        "title": "SAD B!TCH",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd/Anitta",
-        "title": "São Paulo",
-        "plays": 1
-      },
-      {
-        "artist": "Blackberry Smoke",
-        "title": "Run Away from It All",
-        "plays": 1
-      },
-      {
-        "artist": "Milky Chance",
-        "title": "Synchronize",
+        "artist": "Charlie Puth",
+        "title": "Light Switch",
         "plays": 1
       },
       {
@@ -281,25 +51,15 @@
         "plays": 1
       },
       {
-        "artist": "twocolors",
-        "title": "Bloodstream",
-        "plays": 1
-      },
-      {
-        "artist": "ELIF",
-        "title": "WENN ICH STERBE",
-        "plays": 1
-      },
-      {
-        "artist": "Black Country Communion",
-        "title": "Skyway",
+        "artist": "Ayron Jones",
+        "title": "Take Your Time",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "George Ezra",
-      "title": "Shotgun",
-      "plays": 2
+      "artist": "Silbermond",
+      "title": "Auf Auf",
+      "plays": 1
     }
   }
 }
