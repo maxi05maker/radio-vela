@@ -2,8 +2,8 @@
   "2026-10-24 07:00": {
     "period_start": "2026-10-24T07:00:00+02:00",
     "period_end": "2026-10-25T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 37,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "Silbermond",
@@ -188,6 +188,56 @@
       {
         "artist": "Glockenbach",
         "title": "Dirty Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "Die Sterne",
+        "title": "Ich nehme das Amt nicht an",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Bad Romance",
+        "plays": 1
+      },
+      {
+        "artist": "Lance Butters",
+        "title": "Knock Knock",
+        "plays": 1
+      },
+      {
+        "artist": "The Smile",
+        "title": "Bodies Laughing",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Scars To Your Beautiful",
+        "plays": 1
+      },
+      {
+        "artist": "Wincent Weiss",
+        "title": "Wer wenn nicht wir",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Fender",
+        "title": "People Watching",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "plays": 1
+      },
+      {
+        "artist": "sombr",
+        "title": "Homewrecker",
         "plays": 1
       }
     ],
