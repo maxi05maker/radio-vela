@@ -2,8 +2,8 @@
   "2026-10-24 07:00": {
     "period_start": "2026-10-24T07:00:00+02:00",
     "period_end": "2026-10-25T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Silbermond",
@@ -53,6 +53,51 @@
       {
         "artist": "Ayron Jones",
         "title": "Take Your Time",
+        "plays": 1
+      },
+      {
+        "artist": "TEMPERS",
+        "title": "Who Says",
+        "plays": 1
+      },
+      {
+        "artist": "Milow",
+        "title": "Howling At The Moon",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Der Sommer",
+        "plays": 1
+      },
+      {
+        "artist": "1986zig Feat. Greeen",
+        "title": "Eh Zu Kurz",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "I Believe",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Gwen Stefani",
+        "title": "Swallow My Tears",
+        "plays": 1
+      },
+      {
+        "artist": "Lauren Spencer-Smith",
+        "title": "Flowers",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey feat. Kool Savas",
+        "title": "Is It Love?",
         "plays": 1
       }
     ],
