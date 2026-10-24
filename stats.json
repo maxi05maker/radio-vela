@@ -2,8 +2,8 @@
   "2026-10-24 07:00": {
     "period_start": "2026-10-24T07:00:00+02:00",
     "period_end": "2026-10-25T07:00:00+01:00",
-    "total_entries": 50,
-    "music_entries": 47,
+    "total_entries": 60,
+    "music_entries": 55,
     "songs": [
       {
         "artist": "Silbermond",
@@ -238,6 +238,46 @@
       {
         "artist": "sombr",
         "title": "Homewrecker",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Blond",
+        "title": "Es könnte grad nicht schöner sein",
+        "plays": 1
+      },
+      {
+        "artist": "Eli Preiss",
+        "title": "Glückssträhne",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 1
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
+        "plays": 1
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Catch & Release",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Frampton feat.Tom Morello",
+        "title": "Lions At The Gate",
         "plays": 1
       }
     ],
