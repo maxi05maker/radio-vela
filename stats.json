@@ -2,8 +2,8 @@
   "2026-10-24 07:00": {
     "period_start": "2026-10-24T07:00:00+02:00",
     "period_end": "2026-10-25T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Silbermond",
@@ -98,6 +98,51 @@
       {
         "artist": "Rea Garvey feat. Kool Savas",
         "title": "Is It Love?",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Love My Life",
+        "plays": 1
+      },
+      {
+        "artist": "Dizzee Rascal",
+        "title": "What U Need",
+        "plays": 1
+      },
+      {
+        "artist": "Shirin David",
+        "title": "Ich darf das",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Whatever It Takes",
+        "plays": 1
+      },
+      {
+        "artist": "ARIANA GRANDE",
+        "title": "Hate That I Made You Love Me   (2026)",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Walk The Moon",
+        "title": "Shut Up and Dance",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth feat. Selena Gomez",
+        "title": "We Don't Talk Anymore",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Play With Fire",
         "plays": 1
       }
     ],
