@@ -2,8 +2,8 @@
   "2026-10-25 07:00": {
     "period_start": "2026-10-25T07:00:00+01:00",
     "period_end": "2026-10-26T07:00:00+01:00",
-    "total_entries": 19,
-    "music_entries": 17,
+    "total_entries": 29,
+    "music_entries": 25,
     "songs": [
       {
         "artist": "Sunrise Avenue",
@@ -88,6 +88,46 @@
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Portugal. The Man",
+        "title": "Tanana",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine/Sophie and the Giants",
+        "title": "In The Dark",
+        "plays": 1
+      },
+      {
+        "artist": "Europe",
+        "title": "War Of Kings",
+        "plays": 1
+      },
+      {
+        "artist": "Dizzee Rascal",
+        "title": "What U Need",
+        "plays": 1
+      },
+      {
+        "artist": "Silbermond",
+        "title": "Leichtes Gepäck",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Mogwai",
+        "title": "Fanzine Made of Flesh",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Weekend Lover",
         "plays": 1
       }
     ],
