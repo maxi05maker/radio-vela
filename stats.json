@@ -2,8 +2,8 @@
   "2026-10-25 07:00": {
     "period_start": "2026-10-25T07:00:00+01:00",
     "period_end": "2026-10-26T07:00:00+01:00",
-    "total_entries": 49,
-    "music_entries": 45,
+    "total_entries": 59,
+    "music_entries": 55,
     "songs": [
       {
         "artist": "Sunrise Avenue",
@@ -13,6 +13,11 @@
       {
         "artist": "Charlie Puth",
         "title": "Attention",
+        "plays": 2
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "title": "Human",
         "plays": 2
       },
       {
@@ -156,11 +161,6 @@
         "plays": 1
       },
       {
-        "artist": "Rag'n'Bone Man",
-        "title": "Human",
-        "plays": 1
-      },
-      {
         "artist": "1986zig Feat. Greeen",
         "title": "Eh Zu Kurz",
         "plays": 1
@@ -218,6 +218,51 @@
       {
         "artist": "ZAVET",
         "title": "Eiszeit",
+        "plays": 1
+      },
+      {
+        "artist": "Cigarettes After Sex",
+        "title": "Twizzler",
+        "plays": 1
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "Bungalow",
+        "plays": 1
+      },
+      {
+        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
+        "title": "The Drop",
+        "plays": 1
+      },
+      {
+        "artist": "Tierra Whack",
+        "title": "Siren",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "3 Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Bonfire Heart",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Anyone For You",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Retrosonix",
+        "title": "Ghost Town",
         "plays": 1
       }
     ],
