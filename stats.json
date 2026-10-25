@@ -2,8 +2,8 @@
   "2026-10-25 07:00": {
     "period_start": "2026-10-25T07:00:00+01:00",
     "period_end": "2026-10-26T07:00:00+01:00",
-    "total_entries": 9,
-    "music_entries": 7,
+    "total_entries": 19,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "Sunrise Avenue",
@@ -38,6 +38,56 @@
       {
         "artist": "Sabrina Carpenter",
         "title": "Busy Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Lust For Life (feat. The Weeknd)",
+        "plays": 1
+      },
+      {
+        "artist": "BLACKPINK",
+        "title": "JUMP",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "Without Me",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "Attention",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine feat. Jake Shears",
+        "title": "Fire + Ice (Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Blackberry Smoke",
+        "title": "Run Away from It All",
+        "plays": 1
+      },
+      {
+        "artist": "Erykah Badu & The Alchemist",
+        "title": "Witch Doctor",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 1
       }
     ],
