@@ -1,325 +1,50 @@
 {
-  "2026-10-24 07:00": {
-    "period_start": "2026-10-24T07:00:00+02:00",
-    "period_end": "2026-10-25T07:00:00+01:00",
-    "total_entries": 70,
-    "music_entries": 64,
+  "2026-10-25 07:00": {
+    "period_start": "2026-10-25T07:00:00+01:00",
+    "period_end": "2026-10-26T07:00:00+01:00",
+    "total_entries": 9,
+    "music_entries": 7,
     "songs": [
       {
         "artist": "Sunrise Avenue",
         "title": "I Help You Hate Me",
-        "plays": 2
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Deja-Vu",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna & Kanye West & Paul McCartney",
+        "title": "FourFiveSeconds",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Autobahn",
+        "plays": 1
+      },
+      {
+        "artist": "Evanescence",
+        "title": "Fight Like A Girl (feat. K.Flay)",
+        "plays": 1
       },
       {
         "artist": "Clueso",
         "title": "Achterbahn",
-        "plays": 2
-      },
-      {
-        "artist": "Silbermond",
-        "title": "Auf Auf",
         "plays": 1
       },
       {
-        "artist": "Takida",
-        "title": "In Spite of Everything",
-        "plays": 1
-      },
-      {
-        "artist": "Damiano David, Tyla, Nile Rodgers",
-        "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Heartbeat",
-        "plays": 1
-      },
-      {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
-        "plays": 1
-      },
-      {
-        "artist": "The Strokes",
-        "title": "Lonely in the Future",
-        "plays": 1
-      },
-      {
-        "artist": "Dry Cleaning",
-        "title": "Gary Ashby",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth",
-        "title": "Light Switch",
-        "plays": 1
-      },
-      {
-        "artist": "OG Keemo",
-        "title": "Blind [Explicit]",
-        "plays": 1
-      },
-      {
-        "artist": "Ayron Jones",
-        "title": "Take Your Time",
-        "plays": 1
-      },
-      {
-        "artist": "TEMPERS",
-        "title": "Who Says",
-        "plays": 1
-      },
-      {
-        "artist": "Milow",
-        "title": "Howling At The Moon",
-        "plays": 1
-      },
-      {
-        "artist": "Bosse",
-        "title": "Der Sommer",
-        "plays": 1
-      },
-      {
-        "artist": "1986zig Feat. Greeen",
-        "title": "Eh Zu Kurz",
-        "plays": 1
-      },
-      {
-        "artist": "Kamrad",
-        "title": "I Believe",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Gwen Stefani",
-        "title": "Swallow My Tears",
-        "plays": 1
-      },
-      {
-        "artist": "Lauren Spencer-Smith",
-        "title": "Flowers",
-        "plays": 1
-      },
-      {
-        "artist": "Rea Garvey feat. Kool Savas",
-        "title": "Is It Love?",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "Love My Life",
-        "plays": 1
-      },
-      {
-        "artist": "Dizzee Rascal",
-        "title": "What U Need",
-        "plays": 1
-      },
-      {
-        "artist": "Shirin David",
-        "title": "Ich darf das",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Whatever It Takes",
-        "plays": 1
-      },
-      {
-        "artist": "ARIANA GRANDE",
-        "title": "Hate That I Made You Love Me   (2026)",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "Walk The Moon",
-        "title": "Shut Up and Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth feat. Selena Gomez",
-        "title": "We Don't Talk Anymore",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Play With Fire",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Sofia",
-        "plays": 1
-      },
-      {
-        "artist": "Phoebe Bridgers",
-        "title": "Lost Boys",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Take My Breath",
-        "plays": 1
-      },
-      {
-        "artist": "Damiano David",
-        "title": "Voices",
-        "plays": 1
-      },
-      {
-        "artist": "Pashanim",
-        "title": "Sommergewitter",
-        "plays": 1
-      },
-      {
-        "artist": "Amyl and The Sniffers",
-        "title": "Big Dreams",
-        "plays": 1
-      },
-      {
-        "artist": "Glockenbach",
-        "title": "Dirty Dancing",
-        "plays": 1
-      },
-      {
-        "artist": "Die Sterne",
-        "title": "Ich nehme das Amt nicht an",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "Bad Romance",
-        "plays": 1
-      },
-      {
-        "artist": "Lance Butters",
-        "title": "Knock Knock",
-        "plays": 1
-      },
-      {
-        "artist": "The Smile",
-        "title": "Bodies Laughing",
-        "plays": 1
-      },
-      {
-        "artist": "Alessia Cara",
-        "title": "Scars To Your Beautiful",
-        "plays": 1
-      },
-      {
-        "artist": "Wincent Weiss",
-        "title": "Wer wenn nicht wir",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Fender",
-        "title": "People Watching",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Strip",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Hello",
-        "plays": 1
-      },
-      {
-        "artist": "sombr",
-        "title": "Homewrecker",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger",
-        "title": "Der letzte Tag",
-        "plays": 1
-      },
-      {
-        "artist": "Blond",
-        "title": "Es könnte grad nicht schöner sein",
-        "plays": 1
-      },
-      {
-        "artist": "Eli Preiss",
-        "title": "Glückssträhne",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Bad Liar",
-        "plays": 1
-      },
-      {
-        "artist": "SIENNA SPIRO",
-        "title": "Material Lover",
-        "plays": 1
-      },
-      {
-        "artist": "Daya",
-        "title": "Bad Girl",
-        "plays": 1
-      },
-      {
-        "artist": "Matt Simons",
-        "title": "Catch & Release",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Frampton feat.Tom Morello",
-        "title": "Lions At The Gate",
-        "plays": 1
-      },
-      {
-        "artist": "Lil Nas X",
-        "title": "STAR WALKIN (League of Legends Worlds Anthem)",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Mr. Know It All",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Wenn Die Party Vorbei Ist",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Apágame",
-        "plays": 1
-      },
-      {
-        "artist": "Kyle Pearce",
-        "title": "I Don't Care",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "KATSEYE",
-        "title": "Internet Girl",
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
         "plays": 1
       }
     ],
     "top_song": {
       "artist": "Sunrise Avenue",
       "title": "I Help You Hate Me",
-      "plays": 2
+      "plays": 1
     }
   }
 }
