@@ -2,13 +2,18 @@
   "2026-10-25 07:00": {
     "period_start": "2026-10-25T07:00:00+01:00",
     "period_end": "2026-10-26T07:00:00+01:00",
-    "total_entries": 39,
-    "music_entries": 35,
+    "total_entries": 49,
+    "music_entries": 45,
     "songs": [
       {
         "artist": "Sunrise Avenue",
         "title": "I Help You Hate Me",
-        "plays": 1
+        "plays": 2
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "Attention",
+        "plays": 2
       },
       {
         "artist": "Clueso",
@@ -53,11 +58,6 @@
       {
         "artist": "Halsey",
         "title": "Without Me",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth",
-        "title": "Attention",
         "plays": 1
       },
       {
@@ -179,12 +179,52 @@
         "artist": "Die Sterne",
         "title": "Ich nehme das Amt nicht an",
         "plays": 1
+      },
+      {
+        "artist": "Beak>",
+        "title": "Secrets",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Skyfall",
+        "plays": 1
+      },
+      {
+        "artist": "Kamrad",
+        "title": "I Believe",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "Mountain At My Gates",
+        "plays": 1
+      },
+      {
+        "artist": "Frank Popp Ensemble",
+        "title": "Frank Popp Ensemble - Love Is A Distraction feat. J Mahon",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn JHart",
+        "title": "PRIDE",
+        "plays": 1
+      },
+      {
+        "artist": "ZAVET",
+        "title": "Eiszeit",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Sunrise Avenue",
       "title": "I Help You Hate Me",
-      "plays": 1
+      "plays": 2
     }
   }
 }
