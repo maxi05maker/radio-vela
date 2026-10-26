@@ -2,8 +2,8 @@
   "2026-10-25 07:00": {
     "period_start": "2026-10-25T07:00:00+01:00",
     "period_end": "2026-10-26T07:00:00+01:00",
-    "total_entries": 59,
-    "music_entries": 55,
+    "total_entries": 69,
+    "music_entries": 65,
     "songs": [
       {
         "artist": "Sunrise Avenue",
@@ -16,8 +16,23 @@
         "plays": 2
       },
       {
+        "artist": "Blackberry Smoke",
+        "title": "Run Away from It All",
+        "plays": 2
+      },
+      {
+        "artist": "Dizzee Rascal",
+        "title": "What U Need",
+        "plays": 2
+      },
+      {
         "artist": "Rag'n'Bone Man",
         "title": "Human",
+        "plays": 2
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
         "plays": 2
       },
       {
@@ -76,11 +91,6 @@
         "plays": 1
       },
       {
-        "artist": "Blackberry Smoke",
-        "title": "Run Away from It All",
-        "plays": 1
-      },
-      {
         "artist": "Erykah Badu & The Alchemist",
         "title": "Witch Doctor",
         "plays": 1
@@ -108,11 +118,6 @@
       {
         "artist": "Europe",
         "title": "War Of Kings",
-        "plays": 1
-      },
-      {
-        "artist": "Dizzee Rascal",
-        "title": "What U Need",
         "plays": 1
       },
       {
@@ -206,11 +211,6 @@
         "plays": 1
       },
       {
-        "artist": "Michael Schulte",
-        "title": "Remember Me",
-        "plays": 1
-      },
-      {
         "artist": "Felix Jaehn JHart",
         "title": "PRIDE",
         "plays": 1
@@ -263,6 +263,41 @@
       {
         "artist": "Purple Disco Machine feat. Retrosonix",
         "title": "Ghost Town",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Way Too Late",
+        "plays": 1
+      },
+      {
+        "artist": "Dean Lewis",
+        "title": "Looks Like Me",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Never Go Back",
+        "plays": 1
+      },
+      {
+        "artist": "Olly Murs",
+        "title": "Marry Me",
+        "plays": 1
+      },
+      {
+        "artist": "The FAIM",
+        "title": "Summer Is a Curse",
+        "plays": 1
+      },
+      {
+        "artist": "benny blanco, Selena Gomez, Becky G",
+        "title": "Te Olvido (La La)",
+        "plays": 1
+      },
+      {
+        "artist": "ZAZ",
+        "title": "Serendipia",
         "plays": 1
       }
     ],
