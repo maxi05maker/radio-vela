@@ -58,5 +58,65 @@
     "played_at": "2026-10-26 13:30:51 +0100",
     "title": "SWIM",
     "artist": "BTS"
+  },
+  {
+    "key": "2026-10-26 19:07:31 +0100|Heart Of Gold|Shawn Mendes",
+    "played_at": "2026-10-26 19:07:31 +0100",
+    "title": "Heart Of Gold",
+    "artist": "Shawn Mendes"
+  },
+  {
+    "key": "2026-10-26 19:10:21 +0100|Attention|Charlie Puth",
+    "played_at": "2026-10-26 19:10:21 +0100",
+    "title": "Attention",
+    "artist": "Charlie Puth"
+  },
+  {
+    "key": "2026-10-26 19:13:53 +0100|Vermissen|Juju feat. Henning May",
+    "played_at": "2026-10-26 19:13:53 +0100",
+    "title": "Vermissen",
+    "artist": "Juju feat. Henning May"
+  },
+  {
+    "key": "2026-10-26 19:16:34 +0100|My Reminder|Charli XCX",
+    "played_at": "2026-10-26 19:16:34 +0100",
+    "title": "My Reminder",
+    "artist": "Charli XCX"
+  },
+  {
+    "key": "2026-10-26 19:20:07 +0100|Read My Mind|The Killers",
+    "played_at": "2026-10-26 19:20:07 +0100",
+    "title": "Read My Mind",
+    "artist": "The Killers"
+  },
+  {
+    "key": "2026-10-26 19:24:14 +0100|High Hopes|Panic! At the Disco",
+    "played_at": "2026-10-26 19:24:14 +0100",
+    "title": "High Hopes",
+    "artist": "Panic! At the Disco"
+  },
+  {
+    "key": "2026-10-26 19:27:25 +0100|The Line|Twenty One Pilots",
+    "played_at": "2026-10-26 19:27:25 +0100",
+    "title": "The Line",
+    "artist": "Twenty One Pilots"
+  },
+  {
+    "key": "2026-10-26 19:30:37 +0100|Vom Aufstehen bis zum Feierabend|Jingle",
+    "played_at": "2026-10-26 19:30:37 +0100",
+    "title": "Vom Aufstehen bis zum Feierabend",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-10-26 19:31:13 +0100|Unstoppable|Sofia Portanet",
+    "played_at": "2026-10-26 19:31:13 +0100",
+    "title": "Unstoppable",
+    "artist": "Sofia Portanet"
+  },
+  {
+    "key": "2026-10-26 19:34:25 +0100|lie to me|Malik Harris",
+    "played_at": "2026-10-26 19:34:25 +0100",
+    "title": "lie to me",
+    "artist": "Malik Harris"
   }
 ]

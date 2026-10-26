@@ -2,17 +2,17 @@
   "2026-10-26 07:00": {
     "period_start": "2026-10-26T07:00:00+01:00",
     "period_end": "2026-10-27T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
-      {
-        "artist": "Ed Sheeran",
-        "title": "Castle on the Hill",
-        "plays": 1
-      },
       {
         "artist": "Sofia Portanet",
         "title": "Unstoppable",
+        "plays": 2
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
         "plays": 1
       },
       {
@@ -49,12 +49,52 @@
         "artist": "BTS",
         "title": "SWIM",
         "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heart Of Gold",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "Attention",
+        "plays": 1
+      },
+      {
+        "artist": "Juju feat. Henning May",
+        "title": "Vermissen",
+        "plays": 1
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "My Reminder",
+        "plays": 1
+      },
+      {
+        "artist": "The Killers",
+        "title": "Read My Mind",
+        "plays": 1
+      },
+      {
+        "artist": "Panic! At the Disco",
+        "title": "High Hopes",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Line",
+        "plays": 1
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "lie to me",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Ed Sheeran",
-      "title": "Castle on the Hill",
-      "plays": 1
+      "artist": "Sofia Portanet",
+      "title": "Unstoppable",
+      "plays": 2
     }
   }
 }
