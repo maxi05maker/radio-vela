@@ -2,8 +2,8 @@
   "2026-10-26 07:00": {
     "period_start": "2026-10-26T07:00:00+01:00",
     "period_end": "2026-10-27T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Sofia Portanet",
@@ -88,6 +88,56 @@
       {
         "artist": "Malik Harris",
         "title": "lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "Love Affair",
+        "title": "Everlasting Love",
+        "plays": 1
+      },
+      {
+        "artist": "Ashe",
+        "title": "Stop The Wedding!",
+        "plays": 1
+      },
+      {
+        "artist": "Lukas Graham",
+        "title": "7 Years",
+        "plays": 1
+      },
+      {
+        "artist": "Twocolors & Georgie Keller",
+        "title": "Feel It 2",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "plays": 1
+      },
+      {
+        "artist": "Maroon 5 feat. Cardi B",
+        "title": "Girls Like You",
+        "plays": 1
+      },
+      {
+        "artist": "Tones and I",
+        "title": "Dance Monkey",
+        "plays": 1
+      },
+      {
+        "artist": "Hurts/Purple Disco Machine",
+        "title": "Wonderful Life '25",
+        "plays": 1
+      },
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Confusion",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding & Juice WRLD",
+        "title": "Hate Me",
         "plays": 1
       }
     ],
