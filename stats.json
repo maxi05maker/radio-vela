@@ -1,1 +1,60 @@
-{}
+{
+  "2026-10-26 07:00": {
+    "period_start": "2026-10-26T07:00:00+01:00",
+    "period_end": "2026-10-27T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
+    "songs": [
+      {
+        "artist": "Ed Sheeran",
+        "title": "Castle on the Hill",
+        "plays": 1
+      },
+      {
+        "artist": "Sofia Portanet",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "Revolverheld & Megaloh",
+        "title": "Krieg mit mir selbst",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz & Danger Dan",
+        "title": "Unsere Bank",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "Heathens",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & David Guetta",
+        "title": "Sad Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "2 Die 4",
+        "plays": 1
+      },
+      {
+        "artist": "Little Simz",
+        "title": "Venom (Remix)",
+        "plays": 1
+      },
+      {
+        "artist": "BTS",
+        "title": "SWIM",
+        "plays": 1
+      }
+    ],
+    "top_song": {
+      "artist": "Ed Sheeran",
+      "title": "Castle on the Hill",
+      "plays": 1
+    }
+  }
+}
