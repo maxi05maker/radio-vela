@@ -2,8 +2,8 @@
   "2026-10-27 07:00": {
     "period_start": "2026-10-27T07:00:00+01:00",
     "period_end": "2026-10-28T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 39,
     "songs": [
       {
         "artist": "FAYAN (feat. Dalton)",
@@ -148,6 +148,56 @@
       {
         "artist": "Ziggy in tha House",
         "title": "It's Raining",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL & Dawty & Preston Harris",
+        "title": "Loosen Up",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "A Sky Full Of Stars",
+        "plays": 1
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Salt",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "3 Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Herz über Kopf",
+        "plays": 1
+      },
+      {
+        "artist": "Álvaro Soler",
+        "title": "Magia",
+        "plays": 1
+      },
+      {
+        "artist": "Blood Red Shoes",
+        "title": "Get Back Into Myself",
+        "plays": 1
+      },
+      {
+        "artist": "Flyana Boss",
+        "title": "Candyman",
+        "plays": 1
+      },
+      {
+        "artist": "St. Lundi",
+        "title": "Nights Like This",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Way Too Late",
         "plays": 1
       }
     ],
