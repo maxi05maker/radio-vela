@@ -1,93 +1,38 @@
 {
-  "2026-10-26 07:00": {
-    "period_start": "2026-10-26T07:00:00+01:00",
-    "period_end": "2026-10-27T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 37,
+  "2026-10-27 07:00": {
+    "period_start": "2026-10-27T07:00:00+01:00",
+    "period_end": "2026-10-28T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Sofia Portanet",
-        "title": "Unstoppable",
-        "plays": 2
-      },
-      {
-        "artist": "Tove Lo",
-        "title": "2 Die 4",
-        "plays": 2
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Castle on the Hill",
+        "artist": "FAYAN (feat. Dalton)",
+        "title": "VERLIEBT IN MICH",
         "plays": 1
       },
       {
-        "artist": "Revolverheld & Megaloh",
-        "title": "Krieg mit mir selbst",
+        "artist": "Halsey",
+        "title": "Without Me",
         "plays": 1
       },
       {
-        "artist": "Provinz & Danger Dan",
-        "title": "Unsere Bank",
+        "artist": "Nickelback",
+        "title": "What Are You Waiting for",
         "plays": 1
       },
       {
-        "artist": "Twenty One Pilots",
-        "title": "Heathens",
+        "artist": "PinkPantheress",
+        "title": "Illegal",
         "plays": 1
       },
       {
-        "artist": "Bebe Rexha & David Guetta",
-        "title": "Sad Girls",
+        "artist": "RAYE, 070 Shake",
+        "title": "Escapism.",
         "plays": 1
       },
       {
-        "artist": "Little Simz",
-        "title": "Venom (Remix)",
-        "plays": 1
-      },
-      {
-        "artist": "BTS",
-        "title": "SWIM",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Heart Of Gold",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth",
-        "title": "Attention",
-        "plays": 1
-      },
-      {
-        "artist": "Juju feat. Henning May",
-        "title": "Vermissen",
-        "plays": 1
-      },
-      {
-        "artist": "Charli XCX",
-        "title": "My Reminder",
-        "plays": 1
-      },
-      {
-        "artist": "The Killers",
-        "title": "Read My Mind",
-        "plays": 1
-      },
-      {
-        "artist": "Panic! At the Disco",
-        "title": "High Hopes",
-        "plays": 1
-      },
-      {
-        "artist": "Twenty One Pilots",
-        "title": "The Line",
-        "plays": 1
-      },
-      {
-        "artist": "Malik Harris",
-        "title": "lie to me",
+        "artist": "Bangerfabrique x Miss Marla",
+        "title": "Sweet Life feat. Emmamaelo",
         "plays": 1
       },
       {
@@ -96,95 +41,20 @@
         "plays": 1
       },
       {
-        "artist": "Ashe",
-        "title": "Stop The Wedding!",
+        "artist": "Muse",
+        "title": "Something Human",
         "plays": 1
       },
       {
-        "artist": "Lukas Graham",
-        "title": "7 Years",
-        "plays": 1
-      },
-      {
-        "artist": "Twocolors & Georgie Keller",
-        "title": "Feel It 2",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna",
-        "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "plays": 1
-      },
-      {
-        "artist": "Maroon 5 feat. Cardi B",
-        "title": "Girls Like You",
-        "plays": 1
-      },
-      {
-        "artist": "Tones and I",
-        "title": "Dance Monkey",
-        "plays": 1
-      },
-      {
-        "artist": "Hurts/Purple Disco Machine",
-        "title": "Wonderful Life '25",
-        "plays": 1
-      },
-      {
-        "artist": "Electric Light Orchestra",
-        "title": "Confusion",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding & Juice WRLD",
-        "title": "Hate Me",
-        "plays": 1
-      },
-      {
-        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
-        "title": "The Drop",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Looking For Love",
-        "plays": 1
-      },
-      {
-        "artist": "Kevin Morby",
-        "title": "Die Young",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Wa22ermann",
-        "title": "Bienennest",
-        "plays": 1
-      },
-      {
-        "artist": "AUDREY HORNE",
-        "title": "God Damn Beautiful (radio edit)",
-        "plays": 1
-      },
-      {
-        "artist": "Josef Salvat",
-        "title": "Diamonds",
-        "plays": 1
-      },
-      {
-        "artist": "Kesha",
-        "title": "DELUSIONAL (Main Version)",
+        "artist": "Montez",
+        "title": "Überfall",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Sofia Portanet",
-      "title": "Unstoppable",
-      "plays": 2
+      "artist": "FAYAN (feat. Dalton)",
+      "title": "VERLIEBT IN MICH",
+      "plays": 1
     }
   }
 }
