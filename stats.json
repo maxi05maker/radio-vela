@@ -2,12 +2,17 @@
   "2026-10-26 07:00": {
     "period_start": "2026-10-26T07:00:00+01:00",
     "period_end": "2026-10-27T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
       {
         "artist": "Sofia Portanet",
         "title": "Unstoppable",
+        "plays": 2
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "2 Die 4",
         "plays": 2
       },
       {
@@ -33,11 +38,6 @@
       {
         "artist": "Bebe Rexha & David Guetta",
         "title": "Sad Girls",
-        "plays": 1
-      },
-      {
-        "artist": "Tove Lo",
-        "title": "2 Die 4",
         "plays": 1
       },
       {
@@ -138,6 +138,46 @@
       {
         "artist": "Ellie Goulding & Juice WRLD",
         "title": "Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Dimitri Vegas, David Guetta & Nicole Scherzinger",
+        "title": "The Drop",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Looking For Love",
+        "plays": 1
+      },
+      {
+        "artist": "Kevin Morby",
+        "title": "Die Young",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Bienennest",
+        "plays": 1
+      },
+      {
+        "artist": "AUDREY HORNE",
+        "title": "God Damn Beautiful (radio edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Josef Salvat",
+        "title": "Diamonds",
+        "plays": 1
+      },
+      {
+        "artist": "Kesha",
+        "title": "DELUSIONAL (Main Version)",
         "plays": 1
       }
     ],
