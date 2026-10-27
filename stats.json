@@ -2,8 +2,8 @@
   "2026-10-27 07:00": {
     "period_start": "2026-10-27T07:00:00+01:00",
     "period_end": "2026-10-28T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "FAYAN (feat. Dalton)",
@@ -48,6 +48,56 @@
       {
         "artist": "Montez",
         "title": "Überfall",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Wrecking Ball",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Regalo",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben",
+        "title": "Forgot How To Love",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Revolving door",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Inna",
+        "title": "Up",
+        "plays": 1
+      },
+      {
+        "artist": "Rise Against",
+        "title": "Nod",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "DJ Snake & J. Balvin Feat. Tyga",
+        "title": "Loco Contigo",
         "plays": 1
       }
     ],
