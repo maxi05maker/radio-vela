@@ -478,5 +478,65 @@
     "played_at": "2026-10-27 23:03:18 +0100",
     "title": "Way Too Late",
     "artist": "Leony"
+  },
+  {
+    "key": "2026-10-28 01:53:48 +0100|Bring Your Love|Madonna & Sabrina Carpenter",
+    "played_at": "2026-10-28 01:53:48 +0100",
+    "title": "Bring Your Love",
+    "artist": "Madonna & Sabrina Carpenter"
+  },
+  {
+    "key": "2026-10-28 01:57:24 +0100|Howling At The Moon|Milow",
+    "played_at": "2026-10-28 01:57:24 +0100",
+    "title": "Howling At The Moon",
+    "artist": "Milow"
+  },
+  {
+    "key": "2026-10-28 02:00:30 +0100|Control|Zoe Wees",
+    "played_at": "2026-10-28 02:00:30 +0100",
+    "title": "Control",
+    "artist": "Zoe Wees"
+  },
+  {
+    "key": "2026-10-28 02:04:21 +0100|peu à peu|Bosse",
+    "played_at": "2026-10-28 02:04:21 +0100",
+    "title": "peu à peu",
+    "artist": "Bosse"
+  },
+  {
+    "key": "2026-10-28 02:07:16 +0100|Schönere Frauen|Mia Morgan",
+    "played_at": "2026-10-28 02:07:16 +0100",
+    "title": "Schönere Frauen",
+    "artist": "Mia Morgan"
+  },
+  {
+    "key": "2026-10-28 02:09:54 +0100|The Sound Of Silence|Disturbed",
+    "played_at": "2026-10-28 02:09:54 +0100",
+    "title": "The Sound Of Silence",
+    "artist": "Disturbed"
+  },
+  {
+    "key": "2026-10-28 02:14:03 +0100|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-28 02:14:03 +0100",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-28 02:16:40 +0100|Twizzler|Cigarettes After Sex",
+    "played_at": "2026-10-28 02:16:40 +0100",
+    "title": "Twizzler",
+    "artist": "Cigarettes After Sex"
+  },
+  {
+    "key": "2026-10-28 02:19:34 +0100|I'm Not Here To Make Friends|Sam Smith",
+    "played_at": "2026-10-28 02:19:34 +0100",
+    "title": "I'm Not Here To Make Friends",
+    "artist": "Sam Smith"
+  },
+  {
+    "key": "2026-10-28 02:23:24 +0100|Kopf aus|1986zig",
+    "played_at": "2026-10-28 02:23:24 +0100",
+    "title": "Kopf aus",
+    "artist": "1986zig"
   }
 ]
