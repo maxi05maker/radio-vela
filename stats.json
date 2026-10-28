@@ -2,8 +2,8 @@
   "2026-10-28 07:00": {
     "period_start": "2026-10-28T07:00:00+01:00",
     "period_end": "2026-10-29T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 20,
+    "total_entries": 30,
+    "music_entries": 30,
     "songs": [
       {
         "artist": "The Neighbourhood",
@@ -93,6 +93,56 @@
       {
         "artist": "Shakira, Burna Boy",
         "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Doechii",
+        "title": "Anxiety",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "Heathens",
+        "plays": 1
+      },
+      {
+        "artist": "sombr",
+        "title": "Homewrecker",
+        "plays": 1
+      },
+      {
+        "artist": "Joel Brandenstein",
+        "title": "Gegengift",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte",
+        "title": "Remember Me",
+        "plays": 1
+      },
+      {
+        "artist": "Inhaler",
+        "title": "A Question of You",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Wildberry Lillet",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Wellington feat. Small Jam",
+        "title": "Iko Iko",
+        "plays": 1
+      },
+      {
+        "artist": "Giant Rooks",
+        "title": "Mind Control",
+        "plays": 1
+      },
+      {
+        "artist": "A$AP Rocky",
+        "title": "Same Problems?",
         "plays": 1
       }
     ],
