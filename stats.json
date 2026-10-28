@@ -2,13 +2,18 @@
   "2026-10-28 07:00": {
     "period_start": "2026-10-28T07:00:00+01:00",
     "period_end": "2026-10-29T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "The Neighbourhood",
         "title": "Sweater Weather",
-        "plays": 1
+        "plays": 2
+      },
+      {
+        "artist": "Wa22ermann",
+        "title": "Bienennest",
+        "plays": 2
       },
       {
         "artist": "Alex Warren",
@@ -36,11 +41,6 @@
         "plays": 1
       },
       {
-        "artist": "Wa22ermann",
-        "title": "Bienennest",
-        "plays": 1
-      },
-      {
         "artist": "The Wombats",
         "title": "Sorry I'm Late I Didn't Want To Come",
         "plays": 1
@@ -54,12 +54,52 @@
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
         "plays": 1
+      },
+      {
+        "artist": "Ufo361 & Nina Chuba",
+        "title": "LIEBE (feat. Nina Chuba) [Explicit]",
+        "plays": 1
+      },
+      {
+        "artist": "Family of the Year",
+        "title": "Hero",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "A Million Dreams",
+        "plays": 1
+      },
+      {
+        "artist": "Baxter Dury & JGrrey",
+        "title": "Return Of The Sharp Heads",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith & Normani",
+        "title": "Dancing With A Stranger",
+        "plays": 1
+      },
+      {
+        "artist": "Zsá Zsá",
+        "title": "Bad Bunnies",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Safe",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira, Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "The Neighbourhood",
       "title": "Sweater Weather",
-      "plays": 1
+      "plays": 2
     }
   }
 }
