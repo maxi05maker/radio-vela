@@ -1,250 +1,65 @@
 {
-  "2026-10-27 07:00": {
-    "period_start": "2026-10-27T07:00:00+01:00",
-    "period_end": "2026-10-28T07:00:00+01:00",
-    "total_entries": 50,
-    "music_entries": 48,
+  "2026-10-28 07:00": {
+    "period_start": "2026-10-28T07:00:00+01:00",
+    "period_end": "2026-10-29T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Milow",
-        "title": "Howling At The Moon",
-        "plays": 2
-      },
-      {
-        "artist": "FAYAN (feat. Dalton)",
-        "title": "VERLIEBT IN MICH",
+        "artist": "The Neighbourhood",
+        "title": "Sweater Weather",
         "plays": 1
       },
       {
-        "artist": "Halsey",
-        "title": "Without Me",
+        "artist": "Alex Warren",
+        "title": "EMERALD EYES",
         "plays": 1
       },
       {
-        "artist": "Nickelback",
-        "title": "What Are You Waiting for",
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
         "plays": 1
       },
       {
-        "artist": "PinkPantheress",
-        "title": "Illegal",
+        "artist": "Bow Anderson",
+        "title": "20s",
         "plays": 1
       },
       {
-        "artist": "RAYE, 070 Shake",
-        "title": "Escapism.",
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
         "plays": 1
       },
       {
-        "artist": "Bangerfabrique x Miss Marla",
-        "title": "Sweet Life feat. Emmamaelo",
+        "artist": "Bilderbuch",
+        "title": "Bungalow",
         "plays": 1
       },
       {
-        "artist": "Love Affair",
-        "title": "Everlasting Love",
+        "artist": "Wa22ermann",
+        "title": "Bienennest",
         "plays": 1
       },
       {
-        "artist": "Muse",
-        "title": "Something Human",
+        "artist": "The Wombats",
+        "title": "Sorry I'm Late I Didn't Want To Come",
         "plays": 1
       },
       {
-        "artist": "Montez",
-        "title": "Überfall",
+        "artist": "The 1975",
+        "title": "Part Of The Band",
         "plays": 1
       },
       {
-        "artist": "Miley Cyrus",
-        "title": "Wrecking Ball",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Regalo",
-        "plays": 1
-      },
-      {
-        "artist": "Alle Farben",
-        "title": "Forgot How To Love",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "Revolving door",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Inna",
-        "title": "Up",
-        "plays": 1
-      },
-      {
-        "artist": "Rise Against",
-        "title": "Nod",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "DJ Snake & J. Balvin Feat. Tyga",
-        "title": "Loco Contigo",
-        "plays": 1
-      },
-      {
-        "artist": "Jj",
-        "title": "Wasted Love  2025",
-        "plays": 1
-      },
-      {
-        "artist": "Glockenbach",
-        "title": "Dirty Dancing",
-        "plays": 1
-      },
-      {
-        "artist": "Vanessa Mai",
-        "title": "Aus & Vorbei",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "Die With A Smile (feat. Bruno Mars)",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel X Jax Jones X Galatis",
-        "title": "Good Luck",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Human Being",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "Serena Joy",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Ziggy in tha House",
-        "title": "It's Raining",
-        "plays": 1
-      },
-      {
-        "artist": "HUGEL & Dawty & Preston Harris",
-        "title": "Loosen Up",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "A Sky Full Of Stars",
-        "plays": 1
-      },
-      {
-        "artist": "Ava Max",
-        "title": "Salt",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "3 Uhr Nachts",
-        "plays": 1
-      },
-      {
-        "artist": "Joris",
-        "title": "Herz über Kopf",
-        "plays": 1
-      },
-      {
-        "artist": "Álvaro Soler",
-        "title": "Magia",
-        "plays": 1
-      },
-      {
-        "artist": "Blood Red Shoes",
-        "title": "Get Back Into Myself",
-        "plays": 1
-      },
-      {
-        "artist": "Flyana Boss",
-        "title": "Candyman",
-        "plays": 1
-      },
-      {
-        "artist": "St. Lundi",
-        "title": "Nights Like This",
-        "plays": 1
-      },
-      {
-        "artist": "Leony",
-        "title": "Way Too Late",
-        "plays": 1
-      },
-      {
-        "artist": "Madonna & Sabrina Carpenter",
-        "title": "Bring Your Love",
-        "plays": 1
-      },
-      {
-        "artist": "Zoe Wees",
-        "title": "Control",
-        "plays": 1
-      },
-      {
-        "artist": "Bosse",
-        "title": "peu à peu",
-        "plays": 1
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Schönere Frauen",
-        "plays": 1
-      },
-      {
-        "artist": "Disturbed",
-        "title": "The Sound Of Silence",
-        "plays": 1
-      },
-      {
-        "artist": "Cigarettes After Sex",
-        "title": "Twizzler",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith",
-        "title": "I'm Not Here To Make Friends",
-        "plays": 1
-      },
-      {
-        "artist": "1986zig",
-        "title": "Kopf aus",
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Milow",
-      "title": "Howling At The Moon",
-      "plays": 2
+      "artist": "The Neighbourhood",
+      "title": "Sweater Weather",
+      "plays": 1
     }
   }
 }

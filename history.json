@@ -538,5 +538,65 @@
     "played_at": "2026-10-28 02:23:24 +0100",
     "title": "Kopf aus",
     "artist": "1986zig"
+  },
+  {
+    "key": "2026-10-28 07:21:45 +0100|Sweater Weather|The Neighbourhood",
+    "played_at": "2026-10-28 07:21:45 +0100",
+    "title": "Sweater Weather",
+    "artist": "The Neighbourhood"
+  },
+  {
+    "key": "2026-10-28 07:25:45 +0100|EMERALD EYES|Alex Warren",
+    "played_at": "2026-10-28 07:25:45 +0100",
+    "title": "EMERALD EYES",
+    "artist": "Alex Warren"
+  },
+  {
+    "key": "2026-10-28 07:28:22 +0100|Wenn Du Mich Lässt|Lea",
+    "played_at": "2026-10-28 07:28:22 +0100",
+    "title": "Wenn Du Mich Lässt",
+    "artist": "Lea"
+  },
+  {
+    "key": "2026-10-28 07:31:24 +0100|20s|Bow Anderson",
+    "played_at": "2026-10-28 07:31:24 +0100",
+    "title": "20s",
+    "artist": "Bow Anderson"
+  },
+  {
+    "key": "2026-10-28 07:34:29 +0100|Dai Dai|Shakira & Burna Boy",
+    "played_at": "2026-10-28 07:34:29 +0100",
+    "title": "Dai Dai",
+    "artist": "Shakira & Burna Boy"
+  },
+  {
+    "key": "2026-10-28 07:38:12 +0100|Bungalow|Bilderbuch",
+    "played_at": "2026-10-28 07:38:12 +0100",
+    "title": "Bungalow",
+    "artist": "Bilderbuch"
+  },
+  {
+    "key": "2026-10-28 07:41:57 +0100|Bienennest|Wa22ermann",
+    "played_at": "2026-10-28 07:41:57 +0100",
+    "title": "Bienennest",
+    "artist": "Wa22ermann"
+  },
+  {
+    "key": "2026-10-28 07:45:26 +0100|Sorry I'm Late I Didn't Want To Come|The Wombats",
+    "played_at": "2026-10-28 07:45:26 +0100",
+    "title": "Sorry I'm Late I Didn't Want To Come",
+    "artist": "The Wombats"
+  },
+  {
+    "key": "2026-10-28 07:48:24 +0100|Part Of The Band|The 1975",
+    "played_at": "2026-10-28 07:48:24 +0100",
+    "title": "Part Of The Band",
+    "artist": "The 1975"
+  },
+  {
+    "key": "2026-10-28 07:52:44 +0100|Murphy's Law|Róisín Murphy",
+    "played_at": "2026-10-28 07:52:44 +0100",
+    "title": "Murphy's Law",
+    "artist": "Róisín Murphy"
   }
 ]
