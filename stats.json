@@ -2,8 +2,8 @@
   "2026-10-28 07:00": {
     "period_start": "2026-10-28T07:00:00+01:00",
     "period_end": "2026-10-29T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 30,
+    "total_entries": 40,
+    "music_entries": 39,
     "songs": [
       {
         "artist": "The Neighbourhood",
@@ -143,6 +143,51 @@
       {
         "artist": "A$AP Rocky",
         "title": "Same Problems?",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Zu dir",
+        "plays": 1
+      },
+      {
+        "artist": "Portugal. The Man",
+        "title": "Tanana",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Your Song",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Demons",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Milow",
+        "title": "DeLorean",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
+        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "The Fate of Ophelia",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
         "plays": 1
       }
     ],
