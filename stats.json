@@ -1,178 +1,23 @@
 {
-  "2026-10-28 07:00": {
-    "period_start": "2026-10-28T07:00:00+01:00",
-    "period_end": "2026-10-29T07:00:00+01:00",
-    "total_entries": 50,
-    "music_entries": 47,
+  "2026-10-29 07:00": {
+    "period_start": "2026-10-29T07:00:00+01:00",
+    "period_end": "2026-10-30T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "The Neighbourhood",
-        "title": "Sweater Weather",
-        "plays": 2
-      },
-      {
-        "artist": "Wa22ermann",
-        "title": "Bienennest",
-        "plays": 2
-      },
-      {
-        "artist": "Alex Warren",
-        "title": "EMERALD EYES",
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
         "plays": 1
       },
       {
-        "artist": "Lea",
-        "title": "Wenn Du Mich Lässt",
+        "artist": "James Blunt",
+        "title": "Love Under Pressure",
         "plays": 1
       },
       {
-        "artist": "Bow Anderson",
-        "title": "20s",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "Bilderbuch",
-        "title": "Bungalow",
-        "plays": 1
-      },
-      {
-        "artist": "The Wombats",
-        "title": "Sorry I'm Late I Didn't Want To Come",
-        "plays": 1
-      },
-      {
-        "artist": "The 1975",
-        "title": "Part Of The Band",
-        "plays": 1
-      },
-      {
-        "artist": "Róisín Murphy",
-        "title": "Murphy's Law",
-        "plays": 1
-      },
-      {
-        "artist": "Ufo361 & Nina Chuba",
-        "title": "LIEBE (feat. Nina Chuba) [Explicit]",
-        "plays": 1
-      },
-      {
-        "artist": "Family of the Year",
-        "title": "Hero",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "A Million Dreams",
-        "plays": 1
-      },
-      {
-        "artist": "Baxter Dury & JGrrey",
-        "title": "Return Of The Sharp Heads",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith & Normani",
-        "title": "Dancing With A Stranger",
-        "plays": 1
-      },
-      {
-        "artist": "Zsá Zsá",
-        "title": "Bad Bunnies",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Safe",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira, Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "Doechii",
-        "title": "Anxiety",
-        "plays": 1
-      },
-      {
-        "artist": "Twenty One Pilots",
-        "title": "Heathens",
-        "plays": 1
-      },
-      {
-        "artist": "sombr",
-        "title": "Homewrecker",
-        "plays": 1
-      },
-      {
-        "artist": "Joel Brandenstein",
-        "title": "Gegengift",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Remember Me",
-        "plays": 1
-      },
-      {
-        "artist": "Inhaler",
-        "title": "A Question of You",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Wildberry Lillet",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Wellington feat. Small Jam",
-        "title": "Iko Iko",
-        "plays": 1
-      },
-      {
-        "artist": "Giant Rooks",
-        "title": "Mind Control",
-        "plays": 1
-      },
-      {
-        "artist": "A$AP Rocky",
-        "title": "Same Problems?",
-        "plays": 1
-      },
-      {
-        "artist": "LEA",
-        "title": "Zu dir",
-        "plays": 1
-      },
-      {
-        "artist": "Portugal. The Man",
-        "title": "Tanana",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Your Song",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Demons",
-        "plays": 1
-      },
-      {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "Milow",
-        "title": "DeLorean",
+        "artist": "ADÉLA",
+        "title": "Nicole Kidman [Explicit]",
         "plays": 1
       },
       {
@@ -181,60 +26,35 @@
         "plays": 1
       },
       {
-        "artist": "Taylor Swift",
-        "title": "The Fate of Ophelia",
+        "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
+        "title": "Blurred Lines",
         "plays": 1
       },
       {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
+        "artist": "Beabadoobee",
+        "title": "Ever Seen",
         "plays": 1
       },
       {
-        "artist": "Katy Perry",
-        "title": "Watch It Burn",
+        "artist": "Nico Santos",
+        "title": "Human Being",
         "plays": 1
       },
       {
-        "artist": "P!nk",
-        "title": "Cover Me In Sunshine",
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
         "plays": 1
       },
       {
-        "artist": "Jack White",
-        "title": "Fear Of The Dawn",
-        "plays": 1
-      },
-      {
-        "artist": "Arlo Parks",
-        "title": "Beams",
-        "plays": 1
-      },
-      {
-        "artist": "Alli Neumann",
-        "title": "Madonna Whore Komplex",
-        "plays": 1
-      },
-      {
-        "artist": "Haken",
-        "title": "Nightingale",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "And Love",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Skyfall",
+        "artist": "David Guetta; Teddy Swims; Tones and I",
+        "title": "Gone Gone Gone",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "The Neighbourhood",
-      "title": "Sweater Weather",
-      "plays": 2
+      "artist": "Stefanie Heinzmann feat. Alle Farben",
+      "title": "Build a House",
+      "plays": 1
     }
   }
 }
