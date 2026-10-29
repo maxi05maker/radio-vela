@@ -2,8 +2,8 @@
   "2026-10-29 07:00": {
     "period_start": "2026-10-29T07:00:00+01:00",
     "period_end": "2026-10-30T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Stefanie Heinzmann feat. Alle Farben",
@@ -48,6 +48,51 @@
       {
         "artist": "David Guetta; Teddy Swims; Tones and I",
         "title": "Gone Gone Gone",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Looking For Love",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Lift Me Up",
+        "plays": 1
+      },
+      {
+        "artist": "Evanescence",
+        "title": "Fight Like A Girl (feat. K.Flay)",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Autobahn",
+        "plays": 1
+      },
+      {
+        "artist": "01099",
+        "title": "Durstlöscher",
+        "plays": 1
+      },
+      {
+        "artist": "Tyler Ballgame",
+        "title": "I Believe In Love",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Your Song",
+        "plays": 1
+      },
+      {
+        "artist": "Bow Anderson",
+        "title": "20s",
+        "plays": 1
+      },
+      {
+        "artist": "GLENN HUGHES",
+        "title": "BLACK CAT MOAN",
         "plays": 1
       }
     ],
