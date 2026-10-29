@@ -2,8 +2,8 @@
   "2026-10-28 07:00": {
     "period_start": "2026-10-28T07:00:00+01:00",
     "period_end": "2026-10-29T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 39,
+    "total_entries": 50,
+    "music_entries": 47,
     "songs": [
       {
         "artist": "The Neighbourhood",
@@ -188,6 +188,46 @@
       {
         "artist": "David Guetta, Alphaville & Ava Max",
         "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Cover Me In Sunshine",
+        "plays": 1
+      },
+      {
+        "artist": "Jack White",
+        "title": "Fear Of The Dawn",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Beams",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Madonna Whore Komplex",
+        "plays": 1
+      },
+      {
+        "artist": "Haken",
+        "title": "Nightingale",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Skyfall",
         "plays": 1
       }
     ],
