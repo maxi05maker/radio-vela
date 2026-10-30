@@ -1078,5 +1078,65 @@
     "played_at": "2026-10-30 01:10:11 +0100",
     "title": "Blood On The Dashboard",
     "artist": "Giant Rooks"
+  },
+  {
+    "key": "2026-10-30 06:04:43 +0100|I Help You Hate Me|Sunrise Avenue",
+    "played_at": "2026-10-30 06:04:43 +0100",
+    "title": "I Help You Hate Me",
+    "artist": "Sunrise Avenue"
+  },
+  {
+    "key": "2026-10-30 06:07:52 +0100|Meine Kneipe|Von Wegen Lisbeth",
+    "played_at": "2026-10-30 06:07:52 +0100",
+    "title": "Meine Kneipe",
+    "artist": "Von Wegen Lisbeth"
+  },
+  {
+    "key": "2026-10-30 06:10:56 +0100|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-30 06:10:56 +0100",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-30 06:13:44 +0100|Is was?!|Vega",
+    "played_at": "2026-10-30 06:13:44 +0100",
+    "title": "Is was?!",
+    "artist": "Vega"
+  },
+  {
+    "key": "2026-10-30 06:16:21 +0100|So Happy It Hurts|Bryan Adams",
+    "played_at": "2026-10-30 06:16:21 +0100",
+    "title": "So Happy It Hurts",
+    "artist": "Bryan Adams"
+  },
+  {
+    "key": "2026-10-30 06:19:55 +0100|Break Up|twocolors, Pascal Letoublon",
+    "played_at": "2026-10-30 06:19:55 +0100",
+    "title": "Break Up",
+    "artist": "twocolors, Pascal Letoublon"
+  },
+  {
+    "key": "2026-10-30 06:22:33 +0100|Watch It Burn|Katy Perry",
+    "played_at": "2026-10-30 06:22:33 +0100",
+    "title": "Watch It Burn",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-10-30 06:25:29 +0100|Heathens|Twenty One Pilots",
+    "played_at": "2026-10-30 06:25:29 +0100",
+    "title": "Heathens",
+    "artist": "Twenty One Pilots"
+  },
+  {
+    "key": "2026-10-30 06:28:45 +0100|As It Was|Harry Styles",
+    "played_at": "2026-10-30 06:28:45 +0100",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-10-30 06:31:32 +0100|DREAMING ON|Paul Kalkbrenner",
+    "played_at": "2026-10-30 06:31:32 +0100",
+    "title": "DREAMING ON",
+    "artist": "Paul Kalkbrenner"
   }
 ]
