@@ -2,8 +2,8 @@
   "2026-10-29 07:00": {
     "period_start": "2026-10-29T07:00:00+01:00",
     "period_end": "2026-10-30T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 27,
+    "total_entries": 40,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "Stefanie Heinzmann feat. Alle Farben",
@@ -138,6 +138,51 @@
       {
         "artist": "Alex Warren",
         "title": "EMERALD EYES",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Thank You",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Shape of You",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
+        "plays": 1
+      },
+      {
+        "artist": "Jaill",
+        "title": "Was hast du je gemacht!?",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Achterbahn",
+        "plays": 1
+      },
+      {
+        "artist": "ClockClock",
+        "title": "Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Giant Rooks",
+        "title": "Blood On The Dashboard",
         "plays": 1
       }
     ],
