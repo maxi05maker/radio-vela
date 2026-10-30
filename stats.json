@@ -1,239 +1,59 @@
 {
-  "2026-10-29 07:00": {
-    "period_start": "2026-10-29T07:00:00+01:00",
-    "period_end": "2026-10-30T07:00:00+01:00",
-    "total_entries": 50,
-    "music_entries": 45,
+  "2026-10-30 07:00": {
+    "period_start": "2026-10-30T07:00:00+01:00",
+    "period_end": "2026-10-31T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
+        "artist": "Avicii feat. Aloe Blacc",
+        "title": "SOS",
         "plays": 1
       },
       {
-        "artist": "James Blunt",
-        "title": "Love Under Pressure",
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
         "plays": 1
       },
       {
-        "artist": "ADÉLA",
-        "title": "Nicole Kidman [Explicit]",
+        "artist": "The Pussycat Dolls",
+        "title": "Club Song",
         "plays": 1
       },
       {
-        "artist": "Ariana Grande & Miley Cyrus & Lana Del Rey",
-        "title": "Don’t Call Me Angel (Charlie’s Angels)",
+        "artist": "One Republic",
+        "title": "Sunshine",
         "plays": 1
       },
       {
-        "artist": "Robin Thicke feat. Pharrell Williams & T.I.",
-        "title": "Blurred Lines",
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
         "plays": 1
       },
       {
-        "artist": "Beabadoobee",
-        "title": "Ever Seen",
+        "artist": "Maroon 5",
+        "title": "Priceless ft. LISA",
         "plays": 1
       },
       {
-        "artist": "Nico Santos",
-        "title": "Human Being",
+        "artist": "David Gilmour",
+        "title": "In Any Tongue",
         "plays": 1
       },
       {
-        "artist": "Róisín Murphy",
-        "title": "Murphy's Law",
+        "artist": "Mabel X Jax Jones X Galatis",
+        "title": "Good Luck",
         "plays": 1
       },
       {
-        "artist": "David Guetta; Teddy Swims; Tones and I",
-        "title": "Gone Gone Gone",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Looking For Love",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna",
-        "title": "Lift Me Up",
-        "plays": 1
-      },
-      {
-        "artist": "Evanescence",
-        "title": "Fight Like A Girl (feat. K.Flay)",
-        "plays": 1
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Autobahn",
-        "plays": 1
-      },
-      {
-        "artist": "01099",
-        "title": "Durstlöscher",
-        "plays": 1
-      },
-      {
-        "artist": "Tyler Ballgame",
-        "title": "I Believe In Love",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Your Song",
-        "plays": 1
-      },
-      {
-        "artist": "Bow Anderson",
-        "title": "20s",
-        "plays": 1
-      },
-      {
-        "artist": "GLENN HUGHES",
-        "title": "BLACK CAT MOAN",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Freier Fall",
-        "plays": 1
-      },
-      {
-        "artist": "LAYLA",
-        "title": "Poster Girl",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Alles Dope",
-        "plays": 1
-      },
-      {
-        "artist": "Joe Jackson",
-        "title": "After All This Time",
-        "plays": 1
-      },
-      {
-        "artist": "Ava Max",
-        "title": "Kings & Queens",
-        "plays": 1
-      },
-      {
-        "artist": "AJR",
-        "title": "The DJ Is Crying For Help",
-        "plays": 1
-      },
-      {
-        "artist": "benny blanco, Selena Gomez, Becky G",
-        "title": "Te Olvido (La La)",
-        "plays": 1
-      },
-      {
-        "artist": "Conchita Wurst",
-        "title": "Dirty Maria",
-        "plays": 1
-      },
-      {
-        "artist": "Alex Warren",
-        "title": "EMERALD EYES",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Thank You",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Jesso",
-        "title": "Clarity",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "Housewife",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Shape of You",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "In My Blood",
-        "plays": 1
-      },
-      {
-        "artist": "Jaill",
-        "title": "Was hast du je gemacht!?",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Achterbahn",
-        "plays": 1
-      },
-      {
-        "artist": "ClockClock",
-        "title": "Sorry",
-        "plays": 1
-      },
-      {
-        "artist": "Giant Rooks",
-        "title": "Blood On The Dashboard",
-        "plays": 1
-      },
-      {
-        "artist": "Sunrise Avenue",
-        "title": "I Help You Hate Me",
-        "plays": 1
-      },
-      {
-        "artist": "Von Wegen Lisbeth",
-        "title": "Meine Kneipe",
-        "plays": 1
-      },
-      {
-        "artist": "Vega",
-        "title": "Is was?!",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "twocolors, Pascal Letoublon",
-        "title": "Break Up",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Watch It Burn",
-        "plays": 1
-      },
-      {
-        "artist": "Twenty One Pilots",
-        "title": "Heathens",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Paul Kalkbrenner",
-        "title": "DREAMING ON",
+        "artist": "Arlo Parks",
+        "title": "Floette (feat. John Glacier)",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Stefanie Heinzmann feat. Alle Farben",
-      "title": "Build a House",
+      "artist": "Avicii feat. Aloe Blacc",
+      "title": "SOS",
       "plays": 1
     }
   }
