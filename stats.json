@@ -2,8 +2,8 @@
   "2026-10-30 07:00": {
     "period_start": "2026-10-30T07:00:00+01:00",
     "period_end": "2026-10-31T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Avicii feat. Aloe Blacc",
@@ -48,6 +48,56 @@
       {
         "artist": "Arlo Parks",
         "title": "Floette (feat. John Glacier)",
+        "plays": 1
+      },
+      {
+        "artist": "The Darkness",
+        "title": "The Longest Kiss",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Camila Cabello",
+        "title": "Don't Go Yet",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Minimum",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Something In The Way You Move",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Whatever It Takes",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Die With A Smile (feat. Bruno Mars)",
+        "plays": 1
+      },
+      {
+        "artist": "Tinashe",
+        "title": "Needs",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Halsey",
+        "title": "I Never Loved You",
         "plays": 1
       }
     ],
