@@ -1378,5 +1378,47 @@
     "played_at": "2026-10-31 01:36:06 +0100",
     "title": "Where I Belong",
     "artist": "Saint Chaos"
+  },
+  {
+    "key": "2026-10-31 07:02:17 +0100|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-10-31 07:02:17 +0100",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-10-31 07:04:59 +0100|Wunderschön|Zartmann",
+    "played_at": "2026-10-31 07:04:59 +0100",
+    "title": "Wunderschön",
+    "artist": "Zartmann"
+  },
+  {
+    "key": "2026-10-31 07:07:44 +0100|Didn't I|OneRepublic",
+    "played_at": "2026-10-31 07:07:44 +0100",
+    "title": "Didn't I",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-10-31 07:11:11 +0100|Only Want You|Rita Ora Feat. 6Lack",
+    "played_at": "2026-10-31 07:11:11 +0100",
+    "title": "Only Want You",
+    "artist": "Rita Ora Feat. 6Lack"
+  },
+  {
+    "key": "2026-10-31 07:14:12 +0100|Bangaranga|Dara",
+    "played_at": "2026-10-31 07:14:12 +0100",
+    "title": "Bangaranga",
+    "artist": "Dara"
+  },
+  {
+    "key": "2026-10-31 07:17:09 +0100|Rooftop|Nico Santos",
+    "played_at": "2026-10-31 07:17:09 +0100",
+    "title": "Rooftop",
+    "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-10-31 07:20:26 +0100|Moth To A Flame|Swedish House Mafia & The Weeknd",
+    "played_at": "2026-10-31 07:20:26 +0100",
+    "title": "Moth To A Flame",
+    "artist": "Swedish House Mafia & The Weeknd"
   }
 ]

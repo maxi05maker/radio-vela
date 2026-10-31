@@ -1,195 +1,45 @@
 {
-  "2026-10-30 07:00": {
-    "period_start": "2026-10-30T07:00:00+01:00",
-    "period_end": "2026-10-31T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 37,
+  "2026-10-31 07:00": {
+    "period_start": "2026-10-31T07:00:00+01:00",
+    "period_end": "2026-11-01T07:00:00+01:00",
+    "total_entries": 7,
+    "music_entries": 6,
     "songs": [
       {
-        "artist": "Imagine Dragons",
-        "title": "Whatever It Takes",
-        "plays": 2
-      },
-      {
-        "artist": "Avicii feat. Aloe Blacc",
-        "title": "SOS",
+        "artist": "Zartmann",
+        "title": "Wunderschön",
         "plays": 1
       },
       {
-        "artist": "Shawn Mendes & Camila Cabello",
-        "title": "Señorita",
+        "artist": "OneRepublic",
+        "title": "Didn't I",
         "plays": 1
       },
       {
-        "artist": "The Pussycat Dolls",
-        "title": "Club Song",
+        "artist": "Rita Ora Feat. 6Lack",
+        "title": "Only Want You",
         "plays": 1
       },
       {
-        "artist": "One Republic",
-        "title": "Sunshine",
+        "artist": "Dara",
+        "title": "Bangaranga",
         "plays": 1
       },
       {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
+        "artist": "Nico Santos",
+        "title": "Rooftop",
         "plays": 1
       },
       {
-        "artist": "Maroon 5",
-        "title": "Priceless ft. LISA",
-        "plays": 1
-      },
-      {
-        "artist": "David Gilmour",
-        "title": "In Any Tongue",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel X Jax Jones X Galatis",
-        "title": "Good Luck",
-        "plays": 1
-      },
-      {
-        "artist": "Arlo Parks",
-        "title": "Floette (feat. John Glacier)",
-        "plays": 1
-      },
-      {
-        "artist": "The Darkness",
-        "title": "The Longest Kiss",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Camila Cabello",
-        "title": "Don't Go Yet",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Minimum",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Something In The Way You Move",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "Die With A Smile (feat. Bruno Mars)",
-        "plays": 1
-      },
-      {
-        "artist": "Tinashe",
-        "title": "Needs",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "Halsey",
-        "title": "I Never Loved You",
-        "plays": 1
-      },
-      {
-        "artist": "Kesha",
-        "title": "DELUSIONAL (Main Version)",
-        "plays": 1
-      },
-      {
-        "artist": "Diskoromantik",
-        "title": "Slow Down",
-        "plays": 1
-      },
-      {
-        "artist": "Rosenstolz",
-        "title": "Gib Mir Sonne",
-        "plays": 1
-      },
-      {
-        "artist": "Viagra Boys",
-        "title": "Uno 2",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn",
-        "title": "Do It Better (feat. Zoe Wees)",
-        "plays": 1
-      },
-      {
-        "artist": "Elle King",
-        "title": "Ex's & Oh's",
-        "plays": 1
-      },
-      {
-        "artist": "Bebe Rexha & David Guetta",
-        "title": "Sad Girls",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "don't lie to me",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "The Linda Lindas",
-        "title": "Burning Out",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster",
-        "title": "Sowieso",
-        "plays": 1
-      },
-      {
-        "artist": "Adel Tawil",
-        "title": "Autobahn",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "LEA",
-        "title": "Leiser",
-        "plays": 1
-      },
-      {
-        "artist": "Charli XCX",
-        "title": "My Reminder",
-        "plays": 1
-      },
-      {
-        "artist": "Jonas Blue, Felix Jaehn",
-        "title": "Weekends",
-        "plays": 1
-      },
-      {
-        "artist": "Saint Chaos",
-        "title": "Where I Belong",
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Imagine Dragons",
-      "title": "Whatever It Takes",
-      "plays": 2
+      "artist": "Zartmann",
+      "title": "Wunderschön",
+      "plays": 1
     }
   }
 }
