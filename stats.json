@@ -2,9 +2,14 @@
   "2026-10-30 07:00": {
     "period_start": "2026-10-30T07:00:00+01:00",
     "period_end": "2026-10-31T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
+      {
+        "artist": "Imagine Dragons",
+        "title": "Whatever It Takes",
+        "plays": 2
+      },
       {
         "artist": "Avicii feat. Aloe Blacc",
         "title": "SOS",
@@ -76,11 +81,6 @@
         "plays": 1
       },
       {
-        "artist": "Imagine Dragons",
-        "title": "Whatever It Takes",
-        "plays": 1
-      },
-      {
         "artist": "Lady Gaga",
         "title": "Die With A Smile (feat. Bruno Mars)",
         "plays": 1
@@ -144,12 +144,52 @@
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
         "plays": 1
+      },
+      {
+        "artist": "The Linda Lindas",
+        "title": "Burning Out",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster",
+        "title": "Sowieso",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Autobahn",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Leiser",
+        "plays": 1
+      },
+      {
+        "artist": "Charli XCX",
+        "title": "My Reminder",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Blue, Felix Jaehn",
+        "title": "Weekends",
+        "plays": 1
+      },
+      {
+        "artist": "Saint Chaos",
+        "title": "Where I Belong",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Avicii feat. Aloe Blacc",
-      "title": "SOS",
-      "plays": 1
+      "artist": "Imagine Dragons",
+      "title": "Whatever It Takes",
+      "plays": 2
     }
   }
 }
