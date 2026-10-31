@@ -2,8 +2,8 @@
   "2026-10-31 07:00": {
     "period_start": "2026-10-31T07:00:00+01:00",
     "period_end": "2026-11-01T07:00:00+01:00",
-    "total_entries": 7,
-    "music_entries": 6,
+    "total_entries": 17,
+    "music_entries": 16,
     "songs": [
       {
         "artist": "Zartmann",
@@ -33,6 +33,56 @@
       {
         "artist": "Swedish House Mafia & The Weeknd",
         "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Linkin Park",
+        "title": "Unshatter",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Facetime Luv",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "Who's In Your Head",
+        "plays": 1
+      },
+      {
+        "artist": "Warhaus",
+        "title": "No Surprise",
+        "plays": 1
+      },
+      {
+        "artist": "Milow",
+        "title": "ASAP",
+        "plays": 1
+      },
+      {
+        "artist": "Montez",
+        "title": "Auf & Ab",
+        "plays": 1
+      },
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Tina Tuesday Freestyle",
+        "plays": 1
+      },
+      {
+        "artist": "Mine",
+        "title": "Eiscreme",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Brothers",
+        "title": "What a Man Gotta Do",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
         "plays": 1
       }
     ],
