@@ -2,8 +2,8 @@
   "2026-10-31 07:00": {
     "period_start": "2026-10-31T07:00:00+01:00",
     "period_end": "2026-11-01T07:00:00+01:00",
-    "total_entries": 37,
-    "music_entries": 35,
+    "total_entries": 47,
+    "music_entries": 44,
     "songs": [
       {
         "artist": "OneRepublic",
@@ -163,6 +163,51 @@
       {
         "artist": "Muse",
         "title": "Hush (feat. Ellie Goulding)",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry Feat. Skip Marley",
+        "title": "Chained To The Rhythm",
+        "plays": 1
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "twilight zone",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Before You Go",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Wellington feat. Small Jam",
+        "title": "Iko Iko",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Unsicher",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Play With Fire",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Unstoppable",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd/Anitta",
+        "title": "São Paulo",
         "plays": 1
       }
     ],

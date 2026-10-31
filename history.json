@@ -1600,5 +1600,65 @@
     "played_at": "2026-10-31 21:31:23 +0100",
     "title": "Hush (feat. Ellie Goulding)",
     "artist": "Muse"
+  },
+  {
+    "key": "2026-11-01 00:05:23 +0100|Chained To The Rhythm|Katy Perry Feat. Skip Marley",
+    "played_at": "2026-11-01 00:05:23 +0100",
+    "title": "Chained To The Rhythm",
+    "artist": "Katy Perry Feat. Skip Marley"
+  },
+  {
+    "key": "2026-11-01 00:09:21 +0100|twilight zone|Ariana Grande",
+    "played_at": "2026-11-01 00:09:21 +0100",
+    "title": "twilight zone",
+    "artist": "Ariana Grande"
+  },
+  {
+    "key": "2026-11-01 00:12:39 +0100|Before You Go|Lewis Capaldi",
+    "played_at": "2026-11-01 00:12:39 +0100",
+    "title": "Before You Go",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-11-01 00:16:13 +0100|Iko Iko|Justin Wellington feat. Small Jam",
+    "played_at": "2026-11-01 00:16:13 +0100",
+    "title": "Iko Iko",
+    "artist": "Justin Wellington feat. Small Jam"
+  },
+  {
+    "key": "2026-11-01 00:19:14 +0100|Unsicher|Nina Chuba",
+    "played_at": "2026-11-01 00:19:14 +0100",
+    "title": "Unsicher",
+    "artist": "Nina Chuba"
+  },
+  {
+    "key": "2026-11-01 00:21:32 +0100|Play With Fire|Nico Santos",
+    "played_at": "2026-11-01 00:21:32 +0100",
+    "title": "Play With Fire",
+    "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-11-01 00:25:05 +0100|Unstoppable|Sia",
+    "played_at": "2026-11-01 00:25:05 +0100",
+    "title": "Unstoppable",
+    "artist": "Sia"
+  },
+  {
+    "key": "2026-11-01 00:28:43 +0100|WHERE IS MY HUSBAND!|RAYE",
+    "played_at": "2026-11-01 00:28:43 +0100",
+    "title": "WHERE IS MY HUSBAND!",
+    "artist": "RAYE"
+  },
+  {
+    "key": "2026-11-01 00:32:00 +0100|Jingle 80,90er und das Beste von heute|Jingle",
+    "played_at": "2026-11-01 00:32:00 +0100",
+    "title": "Jingle 80,90er und das Beste von heute",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-11-01 00:32:36 +0100|São Paulo|The Weeknd/Anitta",
+    "played_at": "2026-11-01 00:32:36 +0100",
+    "title": "São Paulo",
+    "artist": "The Weeknd/Anitta"
   }
 ]
