@@ -2,17 +2,17 @@
   "2026-10-31 07:00": {
     "period_start": "2026-10-31T07:00:00+01:00",
     "period_end": "2026-11-01T07:00:00+01:00",
-    "total_entries": 17,
-    "music_entries": 16,
+    "total_entries": 27,
+    "music_entries": 26,
     "songs": [
-      {
-        "artist": "Zartmann",
-        "title": "Wunderschön",
-        "plays": 1
-      },
       {
         "artist": "OneRepublic",
         "title": "Didn't I",
+        "plays": 2
+      },
+      {
+        "artist": "Zartmann",
+        "title": "Wunderschön",
         "plays": 1
       },
       {
@@ -84,12 +84,57 @@
         "artist": "Ed Sheeran",
         "title": "Old Phone",
         "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "I Don’t Think That I Like Her",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Sofia",
+        "plays": 1
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Tanzen",
+        "plays": 1
+      },
+      {
+        "artist": "Lune",
+        "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Melissa Etheridge",
+        "title": "For The Last Time",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly Feat. Gentleman",
+        "title": "Id",
+        "plays": 1
+      },
+      {
+        "artist": "Summer Cem / Shirin David",
+        "title": "MO' MONEY MO' HATERS",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Zartmann",
-      "title": "Wunderschön",
-      "plays": 1
+      "artist": "OneRepublic",
+      "title": "Didn't I",
+      "plays": 2
     }
   }
 }
