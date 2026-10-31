@@ -2,12 +2,22 @@
   "2026-10-31 07:00": {
     "period_start": "2026-10-31T07:00:00+01:00",
     "period_end": "2026-11-01T07:00:00+01:00",
-    "total_entries": 27,
-    "music_entries": 26,
+    "total_entries": 37,
+    "music_entries": 35,
     "songs": [
       {
         "artist": "OneRepublic",
         "title": "Didn't I",
+        "plays": 2
+      },
+      {
+        "artist": "Montez",
+        "title": "Auf & Ab",
+        "plays": 2
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -58,11 +68,6 @@
       {
         "artist": "Milow",
         "title": "ASAP",
-        "plays": 1
-      },
-      {
-        "artist": "Montez",
-        "title": "Auf & Ab",
         "plays": 1
       },
       {
@@ -128,6 +133,36 @@
       {
         "artist": "Teddy Swims",
         "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Paula Hartmann",
+        "title": "Uludağ und Sorgen feat. Symba",
+        "plays": 1
+      },
+      {
+        "artist": "Jorja Smith",
+        "title": "The Way I Love You",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Midlake",
+        "title": "07 The Calling",
+        "plays": 1
+      },
+      {
+        "artist": "twocolors, Pascal Letoublon",
+        "title": "Break Up",
+        "plays": 1
+      },
+      {
+        "artist": "Muse",
+        "title": "Hush (feat. Ellie Goulding)",
         "plays": 1
       }
     ],
