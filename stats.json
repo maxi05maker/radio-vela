@@ -2,9 +2,14 @@
   "2026-10-31 07:00": {
     "period_start": "2026-10-31T07:00:00+01:00",
     "period_end": "2026-11-01T07:00:00+01:00",
-    "total_entries": 47,
-    "music_entries": 44,
+    "total_entries": 57,
+    "music_entries": 53,
     "songs": [
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 3
+      },
       {
         "artist": "OneRepublic",
         "title": "Didn't I",
@@ -13,11 +18,6 @@
       {
         "artist": "Montez",
         "title": "Auf & Ab",
-        "plays": 2
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 2
       },
       {
@@ -209,12 +209,52 @@
         "artist": "The Weeknd/Anitta",
         "title": "São Paulo",
         "plays": 1
+      },
+      {
+        "artist": "David Guetta feat. Zara Larsson",
+        "title": "This One's For You",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Lush Life",
+        "plays": 1
+      },
+      {
+        "artist": "The Strokes",
+        "title": "Going Shopping",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Hoch",
+        "plays": 1
+      },
+      {
+        "artist": "Amyl and The Sniffers",
+        "title": "Big Dreams",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Wenn Die Party Vorbei Ist",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Safe",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "House featuring John Cale",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "OneRepublic",
-      "title": "Didn't I",
-      "plays": 2
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
+      "plays": 3
     }
   }
 }
