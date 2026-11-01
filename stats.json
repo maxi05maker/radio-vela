@@ -2,9 +2,19 @@
   "2026-11-01 07:00": {
     "period_start": "2026-11-01T07:00:00+01:00",
     "period_end": "2026-11-02T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
+      {
+        "artist": "Katy Perry Feat. Skip Marley",
+        "title": "Chained To The Rhythm",
+        "plays": 2
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "There's Nothing Holdin' Me Back",
+        "plays": 2
+      },
       {
         "artist": "Lana Del Rey",
         "title": "White Feather Hawk Tail Deer Hunter",
@@ -51,11 +61,6 @@
         "plays": 1
       },
       {
-        "artist": "Katy Perry Feat. Skip Marley",
-        "title": "Chained To The Rhythm",
-        "plays": 1
-      },
-      {
         "artist": "Sia",
         "title": "Never Give Up",
         "plays": 1
@@ -96,15 +101,45 @@
         "plays": 1
       },
       {
-        "artist": "Shawn Mendes",
-        "title": "There's Nothing Holdin' Me Back",
+        "artist": "David Guetta; Teddy Swims; Tones and I",
+        "title": "Gone Gone Gone",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "L.A. Edwards",
+        "title": "El Camino",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Sunrise Avenue",
+        "title": "I Help You Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna & Sabrina Carpenter",
+        "title": "Bring Your Love",
+        "plays": 1
+      },
+      {
+        "artist": "Anne-Marie",
+        "title": "Ciao Adios",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Lana Del Rey",
-      "title": "White Feather Hawk Tail Deer Hunter",
-      "plays": 1
+      "artist": "Katy Perry Feat. Skip Marley",
+      "title": "Chained To The Rhythm",
+      "plays": 2
     }
   }
 }
