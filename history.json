@@ -1780,5 +1780,65 @@
     "played_at": "2026-11-01 10:35:54 +0100",
     "title": "Perfect",
     "artist": "Ed Sheeran"
+  },
+  {
+    "key": "2026-11-01 16:41:21 +0100|Chained To The Rhythm|Katy Perry Feat. Skip Marley",
+    "played_at": "2026-11-01 16:41:21 +0100",
+    "title": "Chained To The Rhythm",
+    "artist": "Katy Perry Feat. Skip Marley"
+  },
+  {
+    "key": "2026-11-01 16:45:19 +0100|Never Give Up|Sia",
+    "played_at": "2026-11-01 16:45:19 +0100",
+    "title": "Never Give Up",
+    "artist": "Sia"
+  },
+  {
+    "key": "2026-11-01 16:49:01 +0100|Lions At The Gate|Peter Frampton feat.Tom Morello",
+    "played_at": "2026-11-01 16:49:01 +0100",
+    "title": "Lions At The Gate",
+    "artist": "Peter Frampton feat.Tom Morello"
+  },
+  {
+    "key": "2026-11-01 16:53:11 +0100|Immer wenn wir uns sehn|LEA",
+    "played_at": "2026-11-01 16:53:11 +0100",
+    "title": "Immer wenn wir uns sehn",
+    "artist": "LEA"
+  },
+  {
+    "key": "2026-11-01 16:56:13 +0100|Summertime [feat. Lana Del Rey]|Kontra K & Lana Del Rey",
+    "played_at": "2026-11-01 16:56:13 +0100",
+    "title": "Summertime [feat. Lana Del Rey]",
+    "artist": "Kontra K & Lana Del Rey"
+  },
+  {
+    "key": "2026-11-01 16:59:28 +0100|Unsicher|Nina Chuba",
+    "played_at": "2026-11-01 16:59:28 +0100",
+    "title": "Unsicher",
+    "artist": "Nina Chuba"
+  },
+  {
+    "key": "2026-11-01 17:01:46 +0100|Keine Angst|Casper feat. Drangsal",
+    "played_at": "2026-11-01 17:01:46 +0100",
+    "title": "Keine Angst",
+    "artist": "Casper feat. Drangsal"
+  },
+  {
+    "key": "2026-11-01 17:05:48 +0100|Something In The Way You Move|Ellie Goulding",
+    "played_at": "2026-11-01 17:05:48 +0100",
+    "title": "Something In The Way You Move",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "key": "2026-11-01 17:09:35 +0100|WHERE IS MY HUSBAND!|RAYE",
+    "played_at": "2026-11-01 17:09:35 +0100",
+    "title": "WHERE IS MY HUSBAND!",
+    "artist": "RAYE"
+  },
+  {
+    "key": "2026-11-01 17:12:52 +0100|There's Nothing Holdin' Me Back|Shawn Mendes",
+    "played_at": "2026-11-01 17:12:52 +0100",
+    "title": "There's Nothing Holdin' Me Back",
+    "artist": "Shawn Mendes"
   }
 ]

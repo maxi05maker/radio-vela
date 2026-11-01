@@ -2,8 +2,8 @@
   "2026-11-01 07:00": {
     "period_start": "2026-11-01T07:00:00+01:00",
     "period_end": "2026-11-02T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Lana Del Rey",
@@ -48,6 +48,56 @@
       {
         "artist": "Ed Sheeran",
         "title": "Perfect",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry Feat. Skip Marley",
+        "title": "Chained To The Rhythm",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Never Give Up",
+        "plays": 1
+      },
+      {
+        "artist": "Peter Frampton feat.Tom Morello",
+        "title": "Lions At The Gate",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Immer wenn wir uns sehn",
+        "plays": 1
+      },
+      {
+        "artist": "Kontra K & Lana Del Rey",
+        "title": "Summertime [feat. Lana Del Rey]",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Unsicher",
+        "plays": 1
+      },
+      {
+        "artist": "Casper feat. Drangsal",
+        "title": "Keine Angst",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Something In The Way You Move",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "There's Nothing Holdin' Me Back",
         "plays": 1
       }
     ],
