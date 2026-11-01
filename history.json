@@ -1900,5 +1900,65 @@
     "played_at": "2026-11-01 21:33:23 +0100",
     "title": "Ciao Adios",
     "artist": "Anne-Marie"
+  },
+  {
+    "key": "2026-11-02 00:02:19 +0100|Kaleidoskop|Johannes Oerding",
+    "played_at": "2026-11-02 00:02:19 +0100",
+    "title": "Kaleidoskop",
+    "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-11-02 00:05:59 +0100|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-11-02 00:05:59 +0100",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-11-02 00:08:42 +0100|JUMP|BLACKPINK",
+    "played_at": "2026-11-02 00:08:42 +0100",
+    "title": "JUMP",
+    "artist": "BLACKPINK"
+  },
+  {
+    "key": "2026-11-02 00:11:27 +0100|Drei Uhr Nachts|Mark Forster, LEA",
+    "played_at": "2026-11-02 00:11:27 +0100",
+    "title": "Drei Uhr Nachts",
+    "artist": "Mark Forster, LEA"
+  },
+  {
+    "key": "2026-11-02 00:14:08 +0100|Gib Mir Sonne|Rosenstolz",
+    "played_at": "2026-11-02 00:14:08 +0100",
+    "title": "Gib Mir Sonne",
+    "artist": "Rosenstolz"
+  },
+  {
+    "key": "2026-11-02 00:17:54 +0100|Movin' To The Sun|HUGEL, Imael Angel, Ultra Naté",
+    "played_at": "2026-11-02 00:17:54 +0100",
+    "title": "Movin' To The Sun",
+    "artist": "HUGEL, Imael Angel, Ultra Naté"
+  },
+  {
+    "key": "2026-11-02 00:20:16 +0100|Gary Ashby|Dry Cleaning",
+    "played_at": "2026-11-02 00:20:16 +0100",
+    "title": "Gary Ashby",
+    "artist": "Dry Cleaning"
+  },
+  {
+    "key": "2026-11-02 00:22:26 +0100|Don't Let Me Down|The Chainsmokers feat. Daya",
+    "played_at": "2026-11-02 00:22:26 +0100",
+    "title": "Don't Let Me Down",
+    "artist": "The Chainsmokers feat. Daya"
+  },
+  {
+    "key": "2026-11-02 00:25:55 +0100|Oldschool Love|Leony",
+    "played_at": "2026-11-02 00:25:55 +0100",
+    "title": "Oldschool Love",
+    "artist": "Leony"
+  },
+  {
+    "key": "2026-11-02 00:28:38 +0100|The idea|blackbear",
+    "played_at": "2026-11-02 00:28:38 +0100",
+    "title": "The idea",
+    "artist": "blackbear"
   }
 ]

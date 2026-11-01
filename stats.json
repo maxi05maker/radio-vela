@@ -2,8 +2,8 @@
   "2026-11-01 07:00": {
     "period_start": "2026-11-01T07:00:00+01:00",
     "period_end": "2026-11-02T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
       {
         "artist": "Katy Perry Feat. Skip Marley",
@@ -133,6 +133,51 @@
       {
         "artist": "Anne-Marie",
         "title": "Ciao Adios",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Kaleidoskop",
+        "plays": 1
+      },
+      {
+        "artist": "BLACKPINK",
+        "title": "JUMP",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster, LEA",
+        "title": "Drei Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Rosenstolz",
+        "title": "Gib Mir Sonne",
+        "plays": 1
+      },
+      {
+        "artist": "HUGEL, Imael Angel, Ultra Naté",
+        "title": "Movin' To The Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Dry Cleaning",
+        "title": "Gary Ashby",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers feat. Daya",
+        "title": "Don't Let Me Down",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Oldschool Love",
+        "plays": 1
+      },
+      {
+        "artist": "blackbear",
+        "title": "The idea",
         "plays": 1
       }
     ],
