@@ -1,260 +1,60 @@
 {
-  "2026-10-31 07:00": {
-    "period_start": "2026-10-31T07:00:00+01:00",
-    "period_end": "2026-11-01T07:00:00+01:00",
-    "total_entries": 57,
-    "music_entries": 53,
+  "2026-11-01 07:00": {
+    "period_start": "2026-11-01T07:00:00+01:00",
+    "period_end": "2026-11-02T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 3
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "Didn't I",
-        "plays": 2
-      },
-      {
-        "artist": "Montez",
-        "title": "Auf & Ab",
-        "plays": 2
-      },
-      {
-        "artist": "Zartmann",
-        "title": "Wunderschön",
+        "artist": "Lana Del Rey",
+        "title": "White Feather Hawk Tail Deer Hunter",
         "plays": 1
       },
       {
-        "artist": "Rita Ora Feat. 6Lack",
-        "title": "Only Want You",
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
         "plays": 1
       },
       {
-        "artist": "Dara",
-        "title": "Bangaranga",
+        "artist": "Stefanie Heinzmann feat. Alle Farben",
+        "title": "Build a House",
         "plays": 1
       },
       {
-        "artist": "Nico Santos",
-        "title": "Rooftop",
-        "plays": 1
-      },
-      {
-        "artist": "Swedish House Mafia & The Weeknd",
-        "title": "Moth To A Flame",
-        "plays": 1
-      },
-      {
-        "artist": "Linkin Park",
-        "title": "Unshatter",
+        "artist": "Evanescence",
+        "title": "Fight Like A Girl (feat. K.Flay)",
         "plays": 1
       },
       {
         "artist": "Cro",
-        "title": "Facetime Luv",
+        "title": "Bye Bye",
         "plays": 1
       },
       {
-        "artist": "Jonas Brothers",
-        "title": "Who's In Your Head",
+        "artist": "Sarah Connor",
+        "title": "Wie schön du bist",
         "plays": 1
       },
       {
-        "artist": "Warhaus",
-        "title": "No Surprise",
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
         "plays": 1
       },
       {
-        "artist": "Milow",
-        "title": "ASAP",
-        "plays": 1
-      },
-      {
-        "artist": "Megan Thee Stallion",
-        "title": "Tina Tuesday Freestyle",
-        "plays": 1
-      },
-      {
-        "artist": "Mine",
-        "title": "Eiscreme",
-        "plays": 1
-      },
-      {
-        "artist": "Jonas Brothers",
-        "title": "What a Man Gotta Do",
+        "artist": "Tame Impala",
+        "title": "Lost In Yesterday",
         "plays": 1
       },
       {
         "artist": "Ed Sheeran",
-        "title": "Old Phone",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth",
-        "title": "I Don’t Think That I Like Her",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Sofia",
-        "plays": 1
-      },
-      {
-        "artist": "SIENNA SPIRO",
-        "title": "Material Lover",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Tanzen",
-        "plays": 1
-      },
-      {
-        "artist": "Lune",
-        "title": "Mann im Haus",
-        "plays": 1
-      },
-      {
-        "artist": "Melissa Etheridge",
-        "title": "For The Last Time",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly Feat. Gentleman",
-        "title": "Id",
-        "plays": 1
-      },
-      {
-        "artist": "Summer Cem / Shirin David",
-        "title": "MO' MONEY MO' HATERS",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Paula Hartmann",
-        "title": "Uludağ und Sorgen feat. Symba",
-        "plays": 1
-      },
-      {
-        "artist": "Jorja Smith",
-        "title": "The Way I Love You",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Midlake",
-        "title": "07 The Calling",
-        "plays": 1
-      },
-      {
-        "artist": "twocolors, Pascal Letoublon",
-        "title": "Break Up",
-        "plays": 1
-      },
-      {
-        "artist": "Muse",
-        "title": "Hush (feat. Ellie Goulding)",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry Feat. Skip Marley",
-        "title": "Chained To The Rhythm",
-        "plays": 1
-      },
-      {
-        "artist": "Ariana Grande",
-        "title": "twilight zone",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Before You Go",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Wellington feat. Small Jam",
-        "title": "Iko Iko",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Unsicher",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Play With Fire",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Unstoppable",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE",
-        "title": "WHERE IS MY HUSBAND!",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd/Anitta",
-        "title": "São Paulo",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta feat. Zara Larsson",
-        "title": "This One's For You",
-        "plays": 1
-      },
-      {
-        "artist": "Zara Larsson",
-        "title": "Lush Life",
-        "plays": 1
-      },
-      {
-        "artist": "The Strokes",
-        "title": "Going Shopping",
-        "plays": 1
-      },
-      {
-        "artist": "Tim Bendzko",
-        "title": "Hoch",
-        "plays": 1
-      },
-      {
-        "artist": "Amyl and The Sniffers",
-        "title": "Big Dreams",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Wenn Die Party Vorbei Ist",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Safe",
-        "plays": 1
-      },
-      {
-        "artist": "Charli xcx",
-        "title": "House featuring John Cale",
+        "title": "Perfect",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Tom Gregory",
-      "title": "Small Steps",
-      "plays": 3
+      "artist": "Lana Del Rey",
+      "title": "White Feather Hawk Tail Deer Hunter",
+      "plays": 1
     }
   }
 }
