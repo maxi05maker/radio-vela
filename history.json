@@ -2080,5 +2080,65 @@
     "played_at": "2026-11-02 10:53:46 +0100",
     "title": "Wir sind groß",
     "artist": "Mark Forster"
+  },
+  {
+    "key": "2026-11-02 20:20:49 +0100|Lose My Cool feat. NLE Choppa|070 Shake",
+    "played_at": "2026-11-02 20:20:49 +0100",
+    "title": "Lose My Cool feat. NLE Choppa",
+    "artist": "070 Shake"
+  },
+  {
+    "key": "2026-11-02 20:24:33 +0100|Serena Joy|Olivia Rodrigo",
+    "played_at": "2026-11-02 20:24:33 +0100",
+    "title": "Serena Joy",
+    "artist": "Olivia Rodrigo"
+  },
+  {
+    "key": "2026-11-02 20:27:39 +0100|You Make Me Feel Like It’s Halloween|Muse",
+    "played_at": "2026-11-02 20:27:39 +0100",
+    "title": "You Make Me Feel Like It’s Halloween",
+    "artist": "Muse"
+  },
+  {
+    "key": "2026-11-02 20:30:39 +0100|Better|Lena x Nico Santos",
+    "played_at": "2026-11-02 20:30:39 +0100",
+    "title": "Better",
+    "artist": "Lena x Nico Santos"
+  },
+  {
+    "key": "2026-11-02 20:33:57 +0100|WHERE IS MY HUSBAND!|RAYE",
+    "played_at": "2026-11-02 20:33:57 +0100",
+    "title": "WHERE IS MY HUSBAND!",
+    "artist": "RAYE"
+  },
+  {
+    "key": "2026-11-02 20:37:14 +0100|Rooftop|Nico Santos",
+    "played_at": "2026-11-02 20:37:14 +0100",
+    "title": "Rooftop",
+    "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-11-02 20:40:31 +0100|Hymn For The Weekend|Coldplay",
+    "played_at": "2026-11-02 20:40:31 +0100",
+    "title": "Hymn For The Weekend",
+    "artist": "Coldplay"
+  },
+  {
+    "key": "2026-11-02 20:44:50 +0100|End of the world|Miley Cyrus",
+    "played_at": "2026-11-02 20:44:50 +0100",
+    "title": "End of the world",
+    "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-11-02 20:49:01 +0100|Hello|Adele",
+    "played_at": "2026-11-02 20:49:01 +0100",
+    "title": "Hello",
+    "artist": "Adele"
+  },
+  {
+    "key": "2026-11-02 20:53:57 +0100|Wenn Du Mich Lässt|Lea",
+    "played_at": "2026-11-02 20:53:57 +0100",
+    "title": "Wenn Du Mich Lässt",
+    "artist": "Lea"
   }
 ]

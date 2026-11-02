@@ -2,8 +2,8 @@
   "2026-11-02 07:00": {
     "period_start": "2026-11-02T07:00:00+01:00",
     "period_end": "2026-11-03T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Tom Gregory",
@@ -53,6 +53,56 @@
       {
         "artist": "Mark Forster",
         "title": "Wir sind groß",
+        "plays": 1
+      },
+      {
+        "artist": "070 Shake",
+        "title": "Lose My Cool feat. NLE Choppa",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Serena Joy",
+        "plays": 1
+      },
+      {
+        "artist": "Muse",
+        "title": "You Make Me Feel Like It’s Halloween",
+        "plays": 1
+      },
+      {
+        "artist": "Lena x Nico Santos",
+        "title": "Better",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Rooftop",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "Hymn For The Weekend",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "End of the world",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "plays": 1
+      },
+      {
+        "artist": "Lea",
+        "title": "Wenn Du Mich Lässt",
         "plays": 1
       }
     ],
