@@ -1,230 +1,65 @@
 {
-  "2026-11-01 07:00": {
-    "period_start": "2026-11-01T07:00:00+01:00",
-    "period_end": "2026-11-02T07:00:00+01:00",
-    "total_entries": 50,
-    "music_entries": 45,
+  "2026-11-02 07:00": {
+    "period_start": "2026-11-02T07:00:00+01:00",
+    "period_end": "2026-11-03T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Katy Perry Feat. Skip Marley",
-        "title": "Chained To The Rhythm",
-        "plays": 2
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "There's Nothing Holdin' Me Back",
-        "plays": 2
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "White Feather Hawk Tail Deer Hunter",
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 1
       },
       {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
         "plays": 1
       },
       {
-        "artist": "Stefanie Heinzmann feat. Alle Farben",
-        "title": "Build a House",
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
         "plays": 1
       },
       {
-        "artist": "Evanescence",
-        "title": "Fight Like A Girl (feat. K.Flay)",
+        "artist": "OneRepublic",
+        "title": "Didn't I",
         "plays": 1
       },
       {
-        "artist": "Cro",
-        "title": "Bye Bye",
+        "artist": "Kamrad",
+        "title": "Be Mine",
         "plays": 1
       },
       {
-        "artist": "Sarah Connor",
-        "title": "Wie schön du bist",
+        "artist": "Michael Patrick Kelly Feat. Gentleman",
+        "title": "Id",
         "plays": 1
       },
       {
-        "artist": "Alessia Cara",
-        "title": "Slow Motion",
+        "artist": "The Script",
+        "title": "Hall Of Fame",
         "plays": 1
       },
       {
-        "artist": "Tame Impala",
-        "title": "Lost In Yesterday",
+        "artist": "Hundreds",
+        "title": "Fallacies",
         "plays": 1
       },
       {
-        "artist": "Ed Sheeran",
-        "title": "Perfect",
+        "artist": "Clueso",
+        "title": "Tanzen",
         "plays": 1
       },
       {
-        "artist": "Sia",
-        "title": "Never Give Up",
-        "plays": 1
-      },
-      {
-        "artist": "Peter Frampton feat.Tom Morello",
-        "title": "Lions At The Gate",
-        "plays": 1
-      },
-      {
-        "artist": "LEA",
-        "title": "Immer wenn wir uns sehn",
-        "plays": 1
-      },
-      {
-        "artist": "Kontra K & Lana Del Rey",
-        "title": "Summertime [feat. Lana Del Rey]",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Unsicher",
-        "plays": 1
-      },
-      {
-        "artist": "Casper feat. Drangsal",
-        "title": "Keine Angst",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Something In The Way You Move",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE",
-        "title": "WHERE IS MY HUSBAND!",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta; Teddy Swims; Tones and I",
-        "title": "Gone Gone Gone",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "L.A. Edwards",
-        "title": "El Camino",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Sunrise Avenue",
-        "title": "I Help You Hate Me",
-        "plays": 1
-      },
-      {
-        "artist": "Madonna & Sabrina Carpenter",
-        "title": "Bring Your Love",
-        "plays": 1
-      },
-      {
-        "artist": "Anne-Marie",
-        "title": "Ciao Adios",
-        "plays": 1
-      },
-      {
-        "artist": "Johannes Oerding",
-        "title": "Kaleidoskop",
-        "plays": 1
-      },
-      {
-        "artist": "BLACKPINK",
-        "title": "JUMP",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster, LEA",
-        "title": "Drei Uhr Nachts",
-        "plays": 1
-      },
-      {
-        "artist": "Rosenstolz",
-        "title": "Gib Mir Sonne",
-        "plays": 1
-      },
-      {
-        "artist": "HUGEL, Imael Angel, Ultra Naté",
-        "title": "Movin' To The Sun",
-        "plays": 1
-      },
-      {
-        "artist": "Dry Cleaning",
-        "title": "Gary Ashby",
-        "plays": 1
-      },
-      {
-        "artist": "The Chainsmokers feat. Daya",
-        "title": "Don't Let Me Down",
-        "plays": 1
-      },
-      {
-        "artist": "Leony",
-        "title": "Oldschool Love",
-        "plays": 1
-      },
-      {
-        "artist": "blackbear",
-        "title": "The idea",
-        "plays": 1
-      },
-      {
-        "artist": "Meghan Trainor",
-        "title": "Lips Are Movin",
-        "plays": 1
-      },
-      {
-        "artist": "International Music",
-        "title": "Im Sommer bin ich dein König",
-        "plays": 1
-      },
-      {
-        "artist": "Drake",
-        "title": "God's Plan",
-        "plays": 1
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Schönere Frauen",
-        "plays": 1
-      },
-      {
-        "artist": "Sophia Kennedy",
-        "title": "Rodeo",
-        "plays": 1
-      },
-      {
-        "artist": "Matt Simons",
-        "title": "Open Up",
-        "plays": 1
-      },
-      {
-        "artist": "Bruno Mars",
-        "title": "Locked Out Of Heaven",
-        "plays": 1
-      },
-      {
-        "artist": "Die P",
-        "title": "That's The Way",
+        "artist": "Mark Forster",
+        "title": "Wir sind groß",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Katy Perry Feat. Skip Marley",
-      "title": "Chained To The Rhythm",
-      "plays": 2
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
+      "plays": 1
     }
   }
 }
