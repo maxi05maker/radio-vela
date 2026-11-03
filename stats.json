@@ -2,13 +2,13 @@
   "2026-11-03 07:00": {
     "period_start": "2026-11-03T07:00:00+01:00",
     "period_end": "2026-11-04T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
         "title": "Stay",
-        "plays": 1
+        "plays": 2
       },
       {
         "artist": "Cigarettes After Sex",
@@ -49,12 +49,57 @@
         "artist": "Phoenix",
         "title": "Alpha Zulu",
         "plays": 1
+      },
+      {
+        "artist": "Dj Robin & Schürze",
+        "title": "Layla",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Beams",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel X Jax Jones X Galatis",
+        "title": "Good Luck",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "A Sky Full Of Stars",
+        "plays": 1
+      },
+      {
+        "artist": "Chaka Khan",
+        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Lost - XXV",
+        "plays": 1
+      },
+      {
+        "artist": "Shygirl",
+        "title": "BDE (feat. slowthai)",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "A Little More",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler & Topic",
+        "title": "Solo Para Ti",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "The Kid LAROI & Justin Bieber",
       "title": "Stay",
-      "plays": 1
+      "plays": 2
     }
   }
 }
