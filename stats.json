@@ -2,8 +2,8 @@
   "2026-11-03 07:00": {
     "period_start": "2026-11-03T07:00:00+01:00",
     "period_end": "2026-11-04T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -93,6 +93,46 @@
       {
         "artist": "Alvaro Soler & Topic",
         "title": "Solo Para Ti",
+        "plays": 1
+      },
+      {
+        "artist": "Bebe Rexha & David Guetta",
+        "title": "Sad Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Rooftop",
+        "plays": 1
+      },
+      {
+        "artist": "Baxter Dury & JGrrey",
+        "title": "Return Of The Sharp Heads",
+        "plays": 1
+      },
+      {
+        "artist": "Purple Disco Machine/Sophie and the Giants",
+        "title": "In The Dark",
+        "plays": 1
+      },
+      {
+        "artist": "Kygo feat. DNCE",
+        "title": "Dancing Feet",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Die With A Smile (feat. Bruno Mars)",
+        "plays": 1
+      },
+      {
+        "artist": "Montez",
+        "title": "Auf & Ab",
+        "plays": 1
+      },
+      {
+        "artist": "Badmómzjay",
+        "title": "Survival Mode (Intro)",
         "plays": 1
       }
     ],
