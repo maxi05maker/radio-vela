@@ -1,53 +1,43 @@
 {
-  "2026-11-02 07:00": {
-    "period_start": "2026-11-02T07:00:00+01:00",
-    "period_end": "2026-11-03T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 30,
+  "2026-11-03 07:00": {
+    "period_start": "2026-11-03T07:00:00+01:00",
+    "period_end": "2026-11-04T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "070 Shake",
-        "title": "Lose My Cool feat. NLE Choppa",
-        "plays": 2
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
         "plays": 1
       },
       {
-        "artist": "SIENNA SPIRO",
-        "title": "Material Lover",
+        "artist": "Cigarettes After Sex",
+        "title": "Twizzler",
         "plays": 1
       },
       {
-        "artist": "Shawn Mendes & Camila Cabello",
-        "title": "Señorita",
+        "artist": "Killer Mike",
+        "title": "Run feat. Dave Chappelle & Young Thug",
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "Didn't I",
+        "artist": "Linkin Park",
+        "title": "Unshatter",
         "plays": 1
       },
       {
-        "artist": "Kamrad",
-        "title": "Be Mine",
+        "artist": "The Weeknd",
+        "title": "Sacrifice",
         "plays": 1
       },
       {
-        "artist": "Michael Patrick Kelly Feat. Gentleman",
-        "title": "Id",
+        "artist": "Michael Schulte",
+        "title": "Stay",
         "plays": 1
       },
       {
-        "artist": "The Script",
-        "title": "Hall Of Fame",
-        "plays": 1
-      },
-      {
-        "artist": "Hundreds",
-        "title": "Fallacies",
+        "artist": "Charli xcx",
+        "title": "SS26",
         "plays": 1
       },
       {
@@ -56,105 +46,15 @@
         "plays": 1
       },
       {
-        "artist": "Mark Forster",
-        "title": "Wir sind groß",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "Serena Joy",
-        "plays": 1
-      },
-      {
-        "artist": "Muse",
-        "title": "You Make Me Feel Like It’s Halloween",
-        "plays": 1
-      },
-      {
-        "artist": "Lena x Nico Santos",
-        "title": "Better",
-        "plays": 1
-      },
-      {
-        "artist": "RAYE",
-        "title": "WHERE IS MY HUSBAND!",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Rooftop",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "Hymn For The Weekend",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "End of the world",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Hello",
-        "plays": 1
-      },
-      {
-        "artist": "Lea",
-        "title": "Wenn Du Mich Lässt",
-        "plays": 1
-      },
-      {
-        "artist": "LEA",
-        "title": "Leiser",
-        "plays": 1
-      },
-      {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Play With Fire",
-        "plays": 1
-      },
-      {
-        "artist": "Panic! At the Disco",
-        "title": "High Hopes",
-        "plays": 1
-      },
-      {
-        "artist": "Twenty One Pilots",
-        "title": "The Line",
-        "plays": 1
-      },
-      {
-        "artist": "DJ Snake & J. Balvin Feat. Tyga",
-        "title": "Loco Contigo",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Someone You Loved",
-        "plays": 1
-      },
-      {
-        "artist": "Big Thief",
-        "title": "All Night All Day",
-        "plays": 1
-      },
-      {
-        "artist": "Dennis Lloyd",
-        "title": "Never Go Back",
+        "artist": "Phoenix",
+        "title": "Alpha Zulu",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "070 Shake",
-      "title": "Lose My Cool feat. NLE Choppa",
-      "plays": 2
+      "artist": "The Kid LAROI & Justin Bieber",
+      "title": "Stay",
+      "plays": 1
     }
   }
 }
