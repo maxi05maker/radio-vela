@@ -1,138 +1,43 @@
 {
-  "2026-11-03 07:00": {
-    "period_start": "2026-11-03T07:00:00+01:00",
-    "period_end": "2026-11-04T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 36,
+  "2026-11-04 07:00": {
+    "period_start": "2026-11-04T07:00:00+01:00",
+    "period_end": "2026-11-05T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
-      {
-        "artist": "The Kid LAROI & Justin Bieber",
-        "title": "Stay",
-        "plays": 2
-      },
-      {
-        "artist": "Cigarettes After Sex",
-        "title": "Twizzler",
-        "plays": 1
-      },
-      {
-        "artist": "Killer Mike",
-        "title": "Run feat. Dave Chappelle & Young Thug",
-        "plays": 1
-      },
-      {
-        "artist": "Linkin Park",
-        "title": "Unshatter",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Sacrifice",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Stay",
-        "plays": 1
-      },
-      {
-        "artist": "Charli xcx",
-        "title": "SS26",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Tanzen",
-        "plays": 1
-      },
-      {
-        "artist": "Phoenix",
-        "title": "Alpha Zulu",
-        "plays": 1
-      },
-      {
-        "artist": "Dj Robin & Schürze",
-        "title": "Layla",
-        "plays": 1
-      },
-      {
-        "artist": "Arlo Parks",
-        "title": "Beams",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel X Jax Jones X Galatis",
-        "title": "Good Luck",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "A Sky Full Of Stars",
-        "plays": 1
-      },
-      {
-        "artist": "Chaka Khan",
-        "title": "Boogie's In My Soul (feat. Snoop Dogg)",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "Lost - XXV",
-        "plays": 1
-      },
-      {
-        "artist": "Shygirl",
-        "title": "BDE (feat. slowthai)",
-        "plays": 1
-      },
       {
         "artist": "Ed Sheeran",
         "title": "A Little More",
         "plays": 1
       },
       {
-        "artist": "Alvaro Soler & Topic",
-        "title": "Solo Para Ti",
+        "artist": "sombr",
+        "title": "Homewrecker",
         "plays": 1
       },
       {
-        "artist": "Bebe Rexha & David Guetta",
-        "title": "Sad Girls",
+        "artist": "Matt Simons",
+        "title": "Too Much",
         "plays": 1
       },
       {
-        "artist": "Nico Santos",
-        "title": "Rooftop",
+        "artist": "01099",
+        "title": "Dies & Das",
         "plays": 1
       },
       {
-        "artist": "Baxter Dury & JGrrey",
-        "title": "Return Of The Sharp Heads",
+        "artist": "HUGEL & Dawty & Preston Harris",
+        "title": "Loosen Up",
         "plays": 1
       },
       {
-        "artist": "Purple Disco Machine/Sophie and the Giants",
-        "title": "In The Dark",
+        "artist": "Sia",
+        "title": "Chandelier",
         "plays": 1
       },
       {
-        "artist": "Kygo feat. DNCE",
-        "title": "Dancing Feet",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "Die With A Smile (feat. Bruno Mars)",
-        "plays": 1
-      },
-      {
-        "artist": "Montez",
-        "title": "Auf & Ab",
-        "plays": 1
-      },
-      {
-        "artist": "Badmómzjay",
-        "title": "Survival Mode (Intro)",
+        "artist": "Iggy Pop",
+        "title": "Frenzy",
         "plays": 1
       },
       {
@@ -141,50 +46,15 @@
         "plays": 1
       },
       {
-        "artist": "Zoe Wees",
-        "title": "Control",
-        "plays": 1
-      },
-      {
-        "artist": "The Rolling Stones",
-        "title": "Living In The Heart Of Love",
-        "plays": 1
-      },
-      {
-        "artist": "HUNTRX",
-        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
-        "plays": 1
-      },
-      {
-        "artist": "Kae Tempest",
-        "title": "More Pressure (feat. Kevin Abstract)",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Anyone For You",
-        "plays": 1
-      },
-      {
-        "artist": "PinkPantheress",
-        "title": "Tonight",
-        "plays": 1
-      },
-      {
-        "artist": "Reamonn",
-        "title": "Tonight",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger & Quarterhead",
-        "title": "Nichts mehr zu sagen",
+        "artist": "Moderat",
+        "title": "Bad Kingdom",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "The Kid LAROI & Justin Bieber",
-      "title": "Stay",
-      "plays": 2
+      "artist": "Ed Sheeran",
+      "title": "A Little More",
+      "plays": 1
     }
   }
 }
