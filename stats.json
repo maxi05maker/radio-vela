@@ -2,8 +2,8 @@
   "2026-11-03 07:00": {
     "period_start": "2026-11-03T07:00:00+01:00",
     "period_end": "2026-11-04T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 27,
+    "total_entries": 40,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "The Kid LAROI & Justin Bieber",
@@ -133,6 +133,51 @@
       {
         "artist": "Badmómzjay",
         "title": "Survival Mode (Intro)",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
+        "plays": 1
+      },
+      {
+        "artist": "Zoe Wees",
+        "title": "Control",
+        "plays": 1
+      },
+      {
+        "artist": "The Rolling Stones",
+        "title": "Living In The Heart Of Love",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "plays": 1
+      },
+      {
+        "artist": "Kae Tempest",
+        "title": "More Pressure (feat. Kevin Abstract)",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Anyone For You",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "Reamonn",
+        "title": "Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger & Quarterhead",
+        "title": "Nichts mehr zu sagen",
         "plays": 1
       }
     ],
