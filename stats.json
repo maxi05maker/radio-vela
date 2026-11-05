@@ -2,8 +2,8 @@
   "2026-11-05 07:00": {
     "period_start": "2026-11-05T07:00:00+01:00",
     "period_end": "2026-11-06T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 17,
+    "total_entries": 30,
+    "music_entries": 26,
     "songs": [
       {
         "artist": "Moderat",
@@ -88,6 +88,51 @@
       {
         "artist": "BLACKPINK",
         "title": "GO",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Parcels",
+        "title": "Overnight",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Line",
+        "plays": 1
+      },
+      {
+        "artist": "Rea Garvey feat. Kool Savas",
+        "title": "Is It Love?",
+        "plays": 1
+      },
+      {
+        "artist": "Sugababes",
+        "title": "Jungle",
+        "plays": 1
+      },
+      {
+        "artist": "Cheap Trick",
+        "title": "I Want You to Want Me",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Don't Worry",
+        "plays": 1
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "We Go Up (feat. Fivio Foreign)",
         "plays": 1
       }
     ],
