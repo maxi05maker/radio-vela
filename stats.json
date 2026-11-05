@@ -2,8 +2,8 @@
   "2026-11-04 07:00": {
     "period_start": "2026-11-04T07:00:00+01:00",
     "period_end": "2026-11-05T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Ed Sheeran",
@@ -93,6 +93,56 @@
       {
         "artist": "Bruno Mars",
         "title": "Count On Me",
+        "plays": 1
+      },
+      {
+        "artist": "Die Sterne",
+        "title": "Ich nehme das Amt nicht an",
+        "plays": 1
+      },
+      {
+        "artist": "Boy",
+        "title": "We Were Here",
+        "plays": 1
+      },
+      {
+        "artist": "Burak Yeter feat. Danelle Sandoval",
+        "title": "Tuesday",
+        "plays": 1
+      },
+      {
+        "artist": "Zsá Zsá",
+        "title": "Bad Bunnies",
+        "plays": 1
+      },
+      {
+        "artist": "Arcade Fire",
+        "title": "Unconditional I",
+        "plays": 1
+      },
+      {
+        "artist": "Sido",
+        "title": "Mit Dir",
+        "plays": 1
+      },
+      {
+        "artist": "Romy",
+        "title": "Love Who You Love",
+        "plays": 1
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Try",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub, Domiziana",
+        "title": "Unsterblich sein ( ) feat. Domiziana",
         "plays": 1
       }
     ],

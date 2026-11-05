@@ -2560,5 +2560,65 @@
     "played_at": "2026-11-04 23:34:06 +0100",
     "title": "Count On Me",
     "artist": "Bruno Mars"
+  },
+  {
+    "key": "2026-11-05 03:16:06 +0100|Ich nehme das Amt nicht an|Die Sterne",
+    "played_at": "2026-11-05 03:16:06 +0100",
+    "title": "Ich nehme das Amt nicht an",
+    "artist": "Die Sterne"
+  },
+  {
+    "key": "2026-11-05 03:18:26 +0100|We Were Here|Boy",
+    "played_at": "2026-11-05 03:18:26 +0100",
+    "title": "We Were Here",
+    "artist": "Boy"
+  },
+  {
+    "key": "2026-11-05 03:21:58 +0100|Tuesday|Burak Yeter feat. Danelle Sandoval",
+    "played_at": "2026-11-05 03:21:58 +0100",
+    "title": "Tuesday",
+    "artist": "Burak Yeter feat. Danelle Sandoval"
+  },
+  {
+    "key": "2026-11-05 03:25:09 +0100|Bad Bunnies|Zsá Zsá",
+    "played_at": "2026-11-05 03:25:09 +0100",
+    "title": "Bad Bunnies",
+    "artist": "Zsá Zsá"
+  },
+  {
+    "key": "2026-11-05 03:27:26 +0100|Unconditional I|Arcade Fire",
+    "played_at": "2026-11-05 03:27:26 +0100",
+    "title": "Unconditional I",
+    "artist": "Arcade Fire"
+  },
+  {
+    "key": "2026-11-05 03:32:01 +0100|Mit Dir|Sido",
+    "played_at": "2026-11-05 03:32:01 +0100",
+    "title": "Mit Dir",
+    "artist": "Sido"
+  },
+  {
+    "key": "2026-11-05 03:34:50 +0100|Love Who You Love|Romy",
+    "played_at": "2026-11-05 03:34:50 +0100",
+    "title": "Love Who You Love",
+    "artist": "Romy"
+  },
+  {
+    "key": "2026-11-05 03:38:50 +0100|Kernkraft 400 (A Better Day)|Topic & A7S",
+    "played_at": "2026-11-05 03:38:50 +0100",
+    "title": "Kernkraft 400 (A Better Day)",
+    "artist": "Topic & A7S"
+  },
+  {
+    "key": "2026-11-05 03:41:36 +0100|Try|P!nk",
+    "played_at": "2026-11-05 03:41:36 +0100",
+    "title": "Try",
+    "artist": "P!nk"
+  },
+  {
+    "key": "2026-11-05 03:45:44 +0100|Unsterblich sein ( ) feat. Domiziana|Kraftklub, Domiziana",
+    "played_at": "2026-11-05 03:45:44 +0100",
+    "title": "Unsterblich sein ( ) feat. Domiziana",
+    "artist": "Kraftklub, Domiziana"
   }
 ]
