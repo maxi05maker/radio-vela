@@ -2,8 +2,8 @@
   "2026-11-05 07:00": {
     "period_start": "2026-11-05T07:00:00+01:00",
     "period_end": "2026-11-06T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "Moderat",
@@ -48,6 +48,46 @@
       {
         "artist": "Shawn Mendes",
         "title": "When You're Gone",
+        "plays": 1
+      },
+      {
+        "artist": "Adel Tawil",
+        "title": "Ist da jemand",
+        "plays": 1
+      },
+      {
+        "artist": "Bad Bunny",
+        "title": "Moscow Mule",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "A Little More",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Black River Delta",
+        "title": "California Sun",
+        "plays": 1
+      },
+      {
+        "artist": "BLACKPINK",
+        "title": "GO",
         "plays": 1
       }
     ],
