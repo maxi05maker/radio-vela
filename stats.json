@@ -2,8 +2,8 @@
   "2026-11-06 07:00": {
     "period_start": "2026-11-06T07:00:00+01:00",
     "period_end": "2026-11-07T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Sophie & The Giants",
@@ -53,6 +53,56 @@
       {
         "artist": "AnnenMayKantereit",
         "title": "Barfuß am Klavier",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz",
+        "title": "The Moon Cave",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain't Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "My Love",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Skyfall",
+        "plays": 1
+      },
+      {
+        "artist": "Zara Larsson",
+        "title": "Midnight Sun",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Soulja Boy",
+        "title": "Metaverse",
+        "plays": 1
+      },
+      {
+        "artist": "Jorja Smith",
+        "title": "The Way I Love You",
         "plays": 1
       }
     ],
