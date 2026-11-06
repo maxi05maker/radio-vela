@@ -2,9 +2,14 @@
   "2026-11-05 07:00": {
     "period_start": "2026-11-05T07:00:00+01:00",
     "period_end": "2026-11-06T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 26,
+    "total_entries": 40,
+    "music_entries": 35,
     "songs": [
+      {
+        "artist": "Lana Del Rey",
+        "title": "Happiness Is A Butterfly",
+        "plays": 2
+      },
       {
         "artist": "Moderat",
         "title": "Bad Kingdom",
@@ -63,11 +68,6 @@
       {
         "artist": "Katy Perry",
         "title": "Watch It Burn",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Happiness Is A Butterfly",
         "plays": 1
       },
       {
@@ -134,12 +134,52 @@
         "artist": "Nicki Minaj",
         "title": "We Go Up (feat. Fivio Foreign)",
         "plays": 1
+      },
+      {
+        "artist": "Saja Boys",
+        "title": "Soda Pop",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "La Cintura",
+        "plays": 1
+      },
+      {
+        "artist": "George Ezra",
+        "title": "Blame It On Me",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Warren",
+        "title": "EMERALD EYES",
+        "plays": 1
+      },
+      {
+        "artist": "Three Days Grace",
+        "title": "So Called Life",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Never Go Back",
+        "plays": 1
+      },
+      {
+        "artist": "Die P",
+        "title": "That's The Way",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Moderat",
-      "title": "Bad Kingdom",
-      "plays": 1
+      "artist": "Lana Del Rey",
+      "title": "Happiness Is A Butterfly",
+      "plays": 2
     }
   }
 }
