@@ -2,8 +2,8 @@
   "2026-11-06 07:00": {
     "period_start": "2026-11-06T07:00:00+01:00",
     "period_end": "2026-11-07T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 20,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Sophie & The Giants",
@@ -103,6 +103,51 @@
       {
         "artist": "Jorja Smith",
         "title": "The Way I Love You",
+        "plays": 1
+      },
+      {
+        "artist": "Ed Sheeran",
+        "title": "Old Phone",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "KATSEYE",
+        "title": "Internet Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "The FAIM",
+        "title": "Summer Is a Curse",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "More to Lose",
+        "plays": 1
+      },
+      {
+        "artist": "Ayron Jones",
+        "title": "Take Your Time",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Floette (feat. John Glacier)",
         "plays": 1
       }
     ],
