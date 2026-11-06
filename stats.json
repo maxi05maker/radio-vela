@@ -1,43 +1,38 @@
 {
-  "2026-11-05 07:00": {
-    "period_start": "2026-11-05T07:00:00+01:00",
-    "period_end": "2026-11-06T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 35,
+  "2026-11-06 07:00": {
+    "period_start": "2026-11-06T07:00:00+01:00",
+    "period_end": "2026-11-07T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Lana Del Rey",
-        "title": "Happiness Is A Butterfly",
-        "plays": 2
-      },
-      {
-        "artist": "Moderat",
-        "title": "Bad Kingdom",
+        "artist": "Sophie & The Giants",
+        "title": "Golden Nights",
         "plays": 1
       },
       {
-        "artist": "Alvaro Soler",
-        "title": "Oxígeno",
+        "artist": "Nina Chuba",
+        "title": "Unsicher",
         "plays": 1
       },
       {
-        "artist": "Alex Warren",
-        "title": "FEVER DREAM",
+        "artist": "Machine Gun Kelly, glaive",
+        "title": "More than life",
         "plays": 1
       },
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
+        "artist": "Robbie Williams",
+        "title": "Lost - XXV",
         "plays": 1
       },
       {
-        "artist": "Avicii",
-        "title": "Addicted To You",
+        "artist": "KT Gorique",
+        "title": "Ma Cherie",
         "plays": 1
       },
       {
-        "artist": "Rise Against",
-        "title": "Nod",
+        "artist": "The Weeknd (feat. Daft Punk)",
+        "title": "I Feel It Coming",
         "plays": 1
       },
       {
@@ -46,140 +41,25 @@
         "plays": 1
       },
       {
-        "artist": "Linkin Park",
-        "title": "Unshatter",
+        "artist": "Larkin Poe",
+        "title": "If God Is A Woman",
         "plays": 1
       },
       {
-        "artist": "Shawn Mendes",
-        "title": "When You're Gone",
+        "artist": "The Killers",
+        "title": "boy",
         "plays": 1
       },
       {
-        "artist": "Adel Tawil",
-        "title": "Ist da jemand",
-        "plays": 1
-      },
-      {
-        "artist": "Bad Bunny",
-        "title": "Moscow Mule",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Watch It Burn",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "A Little More",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Black River Delta",
-        "title": "California Sun",
-        "plays": 1
-      },
-      {
-        "artist": "BLACKPINK",
-        "title": "GO",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Parcels",
-        "title": "Overnight",
-        "plays": 1
-      },
-      {
-        "artist": "Twenty One Pilots",
-        "title": "The Line",
-        "plays": 1
-      },
-      {
-        "artist": "Rea Garvey feat. Kool Savas",
-        "title": "Is It Love?",
-        "plays": 1
-      },
-      {
-        "artist": "Sugababes",
-        "title": "Jungle",
-        "plays": 1
-      },
-      {
-        "artist": "Cheap Trick",
-        "title": "I Want You to Want Me",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "Leony",
-        "title": "Don't Worry",
-        "plays": 1
-      },
-      {
-        "artist": "Nicki Minaj",
-        "title": "We Go Up (feat. Fivio Foreign)",
-        "plays": 1
-      },
-      {
-        "artist": "Saja Boys",
-        "title": "Soda Pop",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "La Cintura",
-        "plays": 1
-      },
-      {
-        "artist": "George Ezra",
-        "title": "Blame It On Me",
-        "plays": 1
-      },
-      {
-        "artist": "Stromae",
-        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
-        "plays": 1
-      },
-      {
-        "artist": "Alex Warren",
-        "title": "EMERALD EYES",
-        "plays": 1
-      },
-      {
-        "artist": "Three Days Grace",
-        "title": "So Called Life",
-        "plays": 1
-      },
-      {
-        "artist": "Dennis Lloyd",
-        "title": "Never Go Back",
-        "plays": 1
-      },
-      {
-        "artist": "Die P",
-        "title": "That's The Way",
+        "artist": "AnnenMayKantereit",
+        "title": "Barfuß am Klavier",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Lana Del Rey",
-      "title": "Happiness Is A Butterfly",
-      "plays": 2
+      "artist": "Sophie & The Giants",
+      "title": "Golden Nights",
+      "plays": 1
     }
   }
 }
