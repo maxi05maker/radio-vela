@@ -3100,5 +3100,65 @@
     "played_at": "2026-11-07 02:50:50 +0100",
     "title": "Du tust mir nie mehr weh",
     "artist": "AnnenMayKantereit"
+  },
+  {
+    "key": "2026-11-07 08:40:09 +0100|Geradeaus|Deichkind",
+    "played_at": "2026-11-07 08:40:09 +0100",
+    "title": "Geradeaus",
+    "artist": "Deichkind"
+  },
+  {
+    "key": "2026-11-07 08:42:44 +0100|Streets Of Minneapolis|Bruce Springsteen",
+    "played_at": "2026-11-07 08:42:44 +0100",
+    "title": "Streets Of Minneapolis",
+    "artist": "Bruce Springsteen"
+  },
+  {
+    "key": "2026-11-07 08:47:14 +0100|Take My Breath|The Weeknd",
+    "played_at": "2026-11-07 08:47:14 +0100",
+    "title": "Take My Breath",
+    "artist": "The Weeknd"
+  },
+  {
+    "key": "2026-11-07 08:50:58 +0100|Ganztagsradio|Jingle",
+    "played_at": "2026-11-07 08:50:58 +0100",
+    "title": "Ganztagsradio",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-11-07 08:51:39 +0100|Wunderschön|Zartmann",
+    "played_at": "2026-11-07 08:51:39 +0100",
+    "title": "Wunderschön",
+    "artist": "Zartmann"
+  },
+  {
+    "key": "2026-11-07 08:54:23 +0100|Vom Aufstehen bis zum Feierabend|Jingle",
+    "played_at": "2026-11-07 08:54:23 +0100",
+    "title": "Vom Aufstehen bis zum Feierabend",
+    "artist": "Jingle"
+  },
+  {
+    "key": "2026-11-07 08:54:59 +0100|One Right Now|Post Malone & The Weeknd",
+    "played_at": "2026-11-07 08:54:59 +0100",
+    "title": "One Right Now",
+    "artist": "Post Malone & The Weeknd"
+  },
+  {
+    "key": "2026-11-07 08:58:12 +0100|Uneasy|Pile",
+    "played_at": "2026-11-07 08:58:12 +0100",
+    "title": "Uneasy",
+    "artist": "Pile"
+  },
+  {
+    "key": "2026-11-07 09:00:48 +0100|Overnight|Parcels",
+    "played_at": "2026-11-07 09:00:48 +0100",
+    "title": "Overnight",
+    "artist": "Parcels"
+  },
+  {
+    "key": "2026-11-07 09:04:27 +0100|Am Morgen danach|UNIVERSUM25",
+    "played_at": "2026-11-07 09:04:27 +0100",
+    "title": "Am Morgen danach",
+    "artist": "UNIVERSUM25"
   }
 ]

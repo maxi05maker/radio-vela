@@ -1,205 +1,55 @@
 {
-  "2026-11-06 07:00": {
-    "period_start": "2026-11-06T07:00:00+01:00",
-    "period_end": "2026-11-07T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 39,
+  "2026-11-07 07:00": {
+    "period_start": "2026-11-07T07:00:00+01:00",
+    "period_end": "2026-11-08T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 8,
     "songs": [
       {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 2
-      },
-      {
-        "artist": "Sophie & The Giants",
-        "title": "Golden Nights",
+        "artist": "Deichkind",
+        "title": "Geradeaus",
         "plays": 1
       },
       {
-        "artist": "Nina Chuba",
-        "title": "Unsicher",
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
         "plays": 1
       },
       {
-        "artist": "Machine Gun Kelly, glaive",
-        "title": "More than life",
+        "artist": "The Weeknd",
+        "title": "Take My Breath",
         "plays": 1
       },
       {
-        "artist": "Robbie Williams",
-        "title": "Lost - XXV",
+        "artist": "Zartmann",
+        "title": "Wunderschön",
         "plays": 1
       },
       {
-        "artist": "KT Gorique",
-        "title": "Ma Cherie",
+        "artist": "Post Malone & The Weeknd",
+        "title": "One Right Now",
         "plays": 1
       },
       {
-        "artist": "The Weeknd (feat. Daft Punk)",
-        "title": "I Feel It Coming",
+        "artist": "Pile",
+        "title": "Uneasy",
         "plays": 1
       },
       {
-        "artist": "Ellie Goulding",
-        "title": "Let it die",
+        "artist": "Parcels",
+        "title": "Overnight",
         "plays": 1
       },
       {
-        "artist": "Larkin Poe",
-        "title": "If God Is A Woman",
-        "plays": 1
-      },
-      {
-        "artist": "The Killers",
-        "title": "boy",
-        "plays": 1
-      },
-      {
-        "artist": "AnnenMayKantereit",
-        "title": "Barfuß am Klavier",
-        "plays": 1
-      },
-      {
-        "artist": "Gorillaz",
-        "title": "The Moon Cave",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain't Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Swedish House Mafia",
-        "title": "Wait So Long",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "My Love",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Skyfall",
-        "plays": 1
-      },
-      {
-        "artist": "Zara Larsson",
-        "title": "Midnight Sun",
-        "plays": 1
-      },
-      {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 1
-      },
-      {
-        "artist": "Soulja Boy",
-        "title": "Metaverse",
-        "plays": 1
-      },
-      {
-        "artist": "Jorja Smith",
-        "title": "The Way I Love You",
-        "plays": 1
-      },
-      {
-        "artist": "Ed Sheeran",
-        "title": "Old Phone",
-        "plays": 1
-      },
-      {
-        "artist": "KATSEYE",
-        "title": "Internet Girl",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "The FAIM",
-        "title": "Summer Is a Curse",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "More to Lose",
-        "plays": 1
-      },
-      {
-        "artist": "Ayron Jones",
-        "title": "Take Your Time",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Arlo Parks",
-        "title": "Floette (feat. John Glacier)",
-        "plays": 1
-      },
-      {
-        "artist": "Sunrise Avenue",
-        "title": "I Help You Hate Me",
-        "plays": 1
-      },
-      {
-        "artist": "Noga Erez feat. Reo Cragun & ROUSSO",
-        "title": "VIEWS",
-        "plays": 1
-      },
-      {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "My Darkest Days",
-        "title": "Porn Star Dancing",
-        "plays": 1
-      },
-      {
-        "artist": "Sarah Connor & Sido",
-        "title": "Interstellar (Zwischen den Sternen)",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Here Goes Nothing",
-        "plays": 1
-      },
-      {
-        "artist": "Savannah Hannah",
-        "title": "Ballistic",
-        "plays": 1
-      },
-      {
-        "artist": "AnnenMayKantereit",
-        "title": "Du tust mir nie mehr weh",
+        "artist": "UNIVERSUM25",
+        "title": "Am Morgen danach",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Harry Styles",
-      "title": "As It Was",
-      "plays": 2
+      "artist": "Deichkind",
+      "title": "Geradeaus",
+      "plays": 1
     }
   }
 }
