@@ -2,8 +2,8 @@
   "2026-11-07 07:00": {
     "period_start": "2026-11-07T07:00:00+01:00",
     "period_end": "2026-11-08T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 17,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "Deichkind",
@@ -88,6 +88,56 @@
       {
         "artist": "M.I.A.",
         "title": "Popular",
+        "plays": 1
+      },
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
+        "plays": 1
+      },
+      {
+        "artist": "Matt Simons",
+        "title": "Too Much",
+        "plays": 1
+      },
+      {
+        "artist": "Maggie Rogers",
+        "title": "In The Living Room",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Two Door Cinema Club",
+        "title": "Wonderful Life",
+        "plays": 1
+      },
+      {
+        "artist": "Kneecap",
+        "title": "Liars Tale",
+        "plays": 1
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Whatever",
+        "plays": 1
+      },
+      {
+        "artist": "Shakira & Burna Boy",
+        "title": "Dai Dai",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Rooftop",
         "plays": 1
       }
     ],
