@@ -2,8 +2,8 @@
   "2026-11-07 07:00": {
     "period_start": "2026-11-07T07:00:00+01:00",
     "period_end": "2026-11-08T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 27,
+    "total_entries": 40,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "Deichkind",
@@ -138,6 +138,51 @@
       {
         "artist": "Nico Santos",
         "title": "Rooftop",
+        "plays": 1
+      },
+      {
+        "artist": "Nickelback",
+        "title": "What Are You Waiting for",
+        "plays": 1
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Count On Me",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "Supermodel",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn",
+        "title": "Ready For Your Love",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Ja",
+        "plays": 1
+      },
+      {
+        "artist": "Will.I.Am ft Britney Spears",
+        "title": "Scream And Shout",
+        "plays": 1
+      },
+      {
+        "artist": "Joe Bonamassa",
+        "title": "Tattoo'd Lady",
         "plays": 1
       }
     ],

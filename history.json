@@ -3280,5 +3280,65 @@
     "played_at": "2026-11-07 19:59:05 +0100",
     "title": "Rooftop",
     "artist": "Nico Santos"
+  },
+  {
+    "key": "2026-11-07 22:55:19 +0100|What Are You Waiting for|Nickelback",
+    "played_at": "2026-11-07 22:55:19 +0100",
+    "title": "What Are You Waiting for",
+    "artist": "Nickelback"
+  },
+  {
+    "key": "2026-11-07 22:58:59 +0100|Count On Me|Bruno Mars",
+    "played_at": "2026-11-07 22:58:59 +0100",
+    "title": "Count On Me",
+    "artist": "Bruno Mars"
+  },
+  {
+    "key": "2026-11-07 23:02:17 +0100|Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)|Stromae",
+    "played_at": "2026-11-07 23:02:17 +0100",
+    "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
+    "artist": "Stromae"
+  },
+  {
+    "key": "2026-11-07 23:04:45 +0100|As It Was|Harry Styles",
+    "played_at": "2026-11-07 23:04:45 +0100",
+    "title": "As It Was",
+    "artist": "Harry Styles"
+  },
+  {
+    "key": "2026-11-07 23:07:32 +0100|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-11-07 23:07:32 +0100",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-11-07 23:10:08 +0100|Supermodel|Måneskin",
+    "played_at": "2026-11-07 23:10:08 +0100",
+    "title": "Supermodel",
+    "artist": "Måneskin"
+  },
+  {
+    "key": "2026-11-07 23:12:31 +0100|Ready For Your Love|Felix Jaehn",
+    "played_at": "2026-11-07 23:12:31 +0100",
+    "title": "Ready For Your Love",
+    "artist": "Felix Jaehn"
+  },
+  {
+    "key": "2026-11-07 23:15:11 +0100|Ja|CRO",
+    "played_at": "2026-11-07 23:15:11 +0100",
+    "title": "Ja",
+    "artist": "CRO"
+  },
+  {
+    "key": "2026-11-07 23:17:44 +0100|Scream And Shout|Will.I.Am ft Britney Spears",
+    "played_at": "2026-11-07 23:17:44 +0100",
+    "title": "Scream And Shout",
+    "artist": "Will.I.Am ft Britney Spears"
+  },
+  {
+    "key": "2026-11-07 23:22:30 +0100|Tattoo'd Lady|Joe Bonamassa",
+    "played_at": "2026-11-07 23:22:30 +0100",
+    "title": "Tattoo'd Lady",
+    "artist": "Joe Bonamassa"
   }
 ]
