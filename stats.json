@@ -2,8 +2,8 @@
   "2026-11-07 07:00": {
     "period_start": "2026-11-07T07:00:00+01:00",
     "period_end": "2026-11-08T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 8,
+    "total_entries": 20,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "Deichkind",
@@ -43,6 +43,51 @@
       {
         "artist": "UNIVERSUM25",
         "title": "Am Morgen danach",
+        "plays": 1
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "Bungalow",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Busy Woman",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
+        "plays": 1
+      },
+      {
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
+        "plays": 1
+      },
+      {
+        "artist": "Sparks",
+        "title": "Do Things My Own Way",
+        "plays": 1
+      },
+      {
+        "artist": "Foals",
+        "title": "2001",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora",
+        "title": "Let You Love Me",
+        "plays": 1
+      },
+      {
+        "artist": "Cam Cole",
+        "title": "Ur So Beautiful",
+        "plays": 1
+      },
+      {
+        "artist": "M.I.A.",
+        "title": "Popular",
         "plays": 1
       }
     ],
