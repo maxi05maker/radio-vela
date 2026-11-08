@@ -1,239 +1,64 @@
 {
-  "2026-11-07 07:00": {
-    "period_start": "2026-11-07T07:00:00+01:00",
-    "period_end": "2026-11-08T07:00:00+01:00",
-    "total_entries": 50,
-    "music_entries": 45,
+  "2026-11-08 07:00": {
+    "period_start": "2026-11-08T07:00:00+01:00",
+    "period_end": "2026-11-09T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Deichkind",
-        "title": "Geradeaus",
+        "artist": "Ava Max",
+        "title": "One Of Us",
         "plays": 1
       },
       {
-        "artist": "Bruce Springsteen",
-        "title": "Streets Of Minneapolis",
+        "artist": "Alex Warren",
+        "title": "EMERALD EYES",
         "plays": 1
       },
       {
-        "artist": "The Weeknd",
-        "title": "Take My Breath",
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
         "plays": 1
       },
       {
-        "artist": "Zartmann",
-        "title": "Wunderschön",
+        "artist": "Olivia Rodrigo",
+        "title": "Good 4 You",
         "plays": 1
       },
       {
-        "artist": "Post Malone & The Weeknd",
-        "title": "One Right Now",
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
         "plays": 1
       },
       {
-        "artist": "Pile",
-        "title": "Uneasy",
+        "artist": "Five Finger Death Punch",
+        "title": "The End",
         "plays": 1
       },
       {
-        "artist": "Parcels",
-        "title": "Overnight",
+        "artist": "SDP & Finch",
+        "title": "Kein Bock",
         "plays": 1
       },
       {
-        "artist": "UNIVERSUM25",
-        "title": "Am Morgen danach",
+        "artist": "Robbie Williams",
+        "title": "Pretty Face",
         "plays": 1
       },
       {
-        "artist": "Bilderbuch",
-        "title": "Bungalow",
+        "artist": "Dua Lipa",
+        "title": "New Rules",
         "plays": 1
       },
       {
-        "artist": "Sabrina Carpenter",
-        "title": "Busy Woman",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Roundabouts",
-        "plays": 1
-      },
-      {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
-        "plays": 1
-      },
-      {
-        "artist": "Sparks",
-        "title": "Do Things My Own Way",
-        "plays": 1
-      },
-      {
-        "artist": "Foals",
-        "title": "2001",
-        "plays": 1
-      },
-      {
-        "artist": "Rita Ora",
-        "title": "Let You Love Me",
-        "plays": 1
-      },
-      {
-        "artist": "Cam Cole",
-        "title": "Ur So Beautiful",
-        "plays": 1
-      },
-      {
-        "artist": "M.I.A.",
-        "title": "Popular",
-        "plays": 1
-      },
-      {
-        "artist": "Nico & Vinz",
-        "title": "Am I Wrong",
-        "plays": 1
-      },
-      {
-        "artist": "Matt Simons",
-        "title": "Too Much",
-        "plays": 1
-      },
-      {
-        "artist": "Maggie Rogers",
-        "title": "In The Living Room",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Burn",
-        "plays": 1
-      },
-      {
-        "artist": "Two Door Cinema Club",
-        "title": "Wonderful Life",
-        "plays": 1
-      },
-      {
-        "artist": "Kneecap",
-        "title": "Liars Tale",
-        "plays": 1
-      },
-      {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Whatever",
-        "plays": 1
-      },
-      {
-        "artist": "Shakira & Burna Boy",
-        "title": "Dai Dai",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Rooftop",
-        "plays": 1
-      },
-      {
-        "artist": "Nickelback",
-        "title": "What Are You Waiting for",
-        "plays": 1
-      },
-      {
-        "artist": "Bruno Mars",
-        "title": "Count On Me",
-        "plays": 1
-      },
-      {
-        "artist": "Stromae",
-        "title": "Stromae, Pomme - “Ma Meilleure Ennemie” (from Arcane Season 2)",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "Måneskin",
-        "title": "Supermodel",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn",
-        "title": "Ready For Your Love",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "Ja",
-        "plays": 1
-      },
-      {
-        "artist": "Will.I.Am ft Britney Spears",
-        "title": "Scream And Shout",
-        "plays": 1
-      },
-      {
-        "artist": "Joe Bonamassa",
-        "title": "Tattoo'd Lady",
-        "plays": 1
-      },
-      {
-        "artist": "Greta Van Fleet",
-        "title": "Broken Bells",
-        "plays": 1
-      },
-      {
-        "artist": "Snail Mail",
-        "title": "Dead End",
-        "plays": 1
-      },
-      {
-        "artist": "Kelly Clarkson",
-        "title": "Heartbeat Song",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Hello",
-        "plays": 1
-      },
-      {
-        "artist": "Yard Act",
-        "title": "New Beginnings",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "My Love",
-        "plays": 1
-      },
-      {
-        "artist": "Ayron Jones",
-        "title": "Take Your Time",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Leshurr",
-        "title": "Bar With Lesh",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Wenn du liebst [feat. Kat Frankie]",
+        "artist": "Mabel X Jax Jones X Galatis",
+        "title": "Good Luck",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Deichkind",
-      "title": "Geradeaus",
+      "artist": "Ava Max",
+      "title": "One Of Us",
       "plays": 1
     }
   }
