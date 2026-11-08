@@ -2,9 +2,14 @@
   "2026-11-08 07:00": {
     "period_start": "2026-11-08T07:00:00+01:00",
     "period_end": "2026-11-09T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 2
+      },
       {
         "artist": "Ava Max",
         "title": "One Of Us",
@@ -13,11 +18,6 @@
       {
         "artist": "Alex Warren",
         "title": "EMERALD EYES",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -54,12 +54,57 @@
         "artist": "Mabel X Jax Jones X Galatis",
         "title": "Good Luck",
         "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Unsicher",
+        "plays": 1
+      },
+      {
+        "artist": "Electric Light Orchestra",
+        "title": "Confusion",
+        "plays": 1
+      },
+      {
+        "artist": "Jessie Ware",
+        "title": "Superbloom",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben & Ilira",
+        "title": "Fading",
+        "plays": 1
+      },
+      {
+        "artist": "Ethel Cain",
+        "title": "American Teenager",
+        "plays": 1
+      },
+      {
+        "artist": "Aldous Harding",
+        "title": "What Am I Gonna Do?",
+        "plays": 1
+      },
+      {
+        "artist": "Quavo & Takeoff",
+        "title": "Hotel Lobby",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Let it die",
+        "plays": 1
+      },
+      {
+        "artist": "Father John Misty",
+        "title": "She Cleans Up",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Ava Max",
-      "title": "One Of Us",
-      "plays": 1
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
+      "plays": 2
     }
   }
 }
