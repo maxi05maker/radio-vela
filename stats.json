@@ -2,12 +2,17 @@
   "2026-11-08 07:00": {
     "period_start": "2026-11-08T07:00:00+01:00",
     "period_end": "2026-11-09T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 30,
+    "total_entries": 40,
+    "music_entries": 40,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 3
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Let it die",
         "plays": 2
       },
       {
@@ -91,11 +96,6 @@
         "plays": 1
       },
       {
-        "artist": "Ellie Goulding",
-        "title": "Let it die",
-        "plays": 1
-      },
-      {
         "artist": "Father John Misty",
         "title": "She Cleans Up",
         "plays": 1
@@ -149,12 +149,52 @@
         "artist": "Namika feat. Black M",
         "title": "Je Ne Parle Pas Français (Beatgees Remix)",
         "plays": 1
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "Midlake",
+        "title": "The Ghouls",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "In My Blood",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Beautiful Trauma",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "The One",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Heartbeat Song",
+        "plays": 1
+      },
+      {
+        "artist": "Jack White",
+        "title": "Dollar Bill",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben",
+        "title": "Forgot How To Love",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Tom Gregory",
       "title": "Small Steps",
-      "plays": 2
+      "plays": 3
     }
   }
 }
