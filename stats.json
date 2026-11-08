@@ -2,8 +2,8 @@
   "2026-11-07 07:00": {
     "period_start": "2026-11-07T07:00:00+01:00",
     "period_end": "2026-11-08T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 36,
+    "total_entries": 50,
+    "music_entries": 45,
     "songs": [
       {
         "artist": "Deichkind",
@@ -183,6 +183,51 @@
       {
         "artist": "Joe Bonamassa",
         "title": "Tattoo'd Lady",
+        "plays": 1
+      },
+      {
+        "artist": "Greta Van Fleet",
+        "title": "Broken Bells",
+        "plays": 1
+      },
+      {
+        "artist": "Snail Mail",
+        "title": "Dead End",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Heartbeat Song",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "plays": 1
+      },
+      {
+        "artist": "Yard Act",
+        "title": "New Beginnings",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "My Love",
+        "plays": 1
+      },
+      {
+        "artist": "Ayron Jones",
+        "title": "Take Your Time",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Leshurr",
+        "title": "Bar With Lesh",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Wenn du liebst [feat. Kat Frankie]",
         "plays": 1
       }
     ],

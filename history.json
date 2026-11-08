@@ -3340,5 +3340,65 @@
     "played_at": "2026-11-07 23:22:30 +0100",
     "title": "Tattoo'd Lady",
     "artist": "Joe Bonamassa"
+  },
+  {
+    "key": "2026-11-08 02:05:24 +0100|Broken Bells|Greta Van Fleet",
+    "played_at": "2026-11-08 02:05:24 +0100",
+    "title": "Broken Bells",
+    "artist": "Greta Van Fleet"
+  },
+  {
+    "key": "2026-11-08 02:11:14 +0100|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-11-08 02:11:14 +0100",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-11-08 02:14:06 +0100|Dead End|Snail Mail",
+    "played_at": "2026-11-08 02:14:06 +0100",
+    "title": "Dead End",
+    "artist": "Snail Mail"
+  },
+  {
+    "key": "2026-11-08 02:18:11 +0100|Heartbeat Song|Kelly Clarkson",
+    "played_at": "2026-11-08 02:18:11 +0100",
+    "title": "Heartbeat Song",
+    "artist": "Kelly Clarkson"
+  },
+  {
+    "key": "2026-11-08 02:21:30 +0100|Hello|Adele",
+    "played_at": "2026-11-08 02:21:30 +0100",
+    "title": "Hello",
+    "artist": "Adele"
+  },
+  {
+    "key": "2026-11-08 02:26:26 +0100|New Beginnings|Yard Act",
+    "played_at": "2026-11-08 02:26:26 +0100",
+    "title": "New Beginnings",
+    "artist": "Yard Act"
+  },
+  {
+    "key": "2026-11-08 02:29:53 +0100|My Love|Florence + The Machine",
+    "played_at": "2026-11-08 02:29:53 +0100",
+    "title": "My Love",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "key": "2026-11-08 02:32:51 +0100|Take Your Time|Ayron Jones",
+    "played_at": "2026-11-08 02:32:51 +0100",
+    "title": "Take Your Time",
+    "artist": "Ayron Jones"
+  },
+  {
+    "key": "2026-11-08 02:37:45 +0100|Bar With Lesh|Lady Leshurr",
+    "played_at": "2026-11-08 02:37:45 +0100",
+    "title": "Bar With Lesh",
+    "artist": "Lady Leshurr"
+  },
+  {
+    "key": "2026-11-08 02:41:01 +0100|Wenn du liebst [feat. Kat Frankie]|Clueso",
+    "played_at": "2026-11-08 02:41:01 +0100",
+    "title": "Wenn du liebst [feat. Kat Frankie]",
+    "artist": "Clueso"
   }
 ]
