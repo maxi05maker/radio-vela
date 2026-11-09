@@ -2,17 +2,22 @@
   "2026-11-08 07:00": {
     "period_start": "2026-11-08T07:00:00+01:00",
     "period_end": "2026-11-09T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 40,
+    "total_entries": 50,
+    "music_entries": 50,
     "songs": [
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
-        "plays": 3
+        "plays": 4
       },
       {
         "artist": "Ellie Goulding",
         "title": "Let it die",
+        "plays": 2
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Glory Days",
         "plays": 2
       },
       {
@@ -131,11 +136,6 @@
         "plays": 1
       },
       {
-        "artist": "Bruce Springsteen",
-        "title": "Glory Days",
-        "plays": 1
-      },
-      {
         "artist": "Leony",
         "title": "Faded Love",
         "plays": 1
@@ -189,12 +189,52 @@
         "artist": "Alle Farben",
         "title": "Forgot How To Love",
         "plays": 1
+      },
+      {
+        "artist": "Lune",
+        "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso feat. Andreas Bourani",
+        "title": "Willkommen Zuruck",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Take My Breath",
+        "plays": 1
+      },
+      {
+        "artist": "Mac DeMarco",
+        "title": "Holy",
+        "plays": 1
+      },
+      {
+        "artist": "M.I.A.",
+        "title": "Popular",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Cheap Trick",
+        "title": "I Want You to Want Me",
+        "plays": 1
+      },
+      {
+        "artist": "LOTTE & Max Giesinger",
+        "title": "Auf das, was da noch kommt",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Tom Gregory",
       "title": "Small Steps",
-      "plays": 3
+      "plays": 4
     }
   }
 }
