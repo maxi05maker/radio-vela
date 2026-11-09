@@ -1,240 +1,55 @@
 {
-  "2026-11-08 07:00": {
-    "period_start": "2026-11-08T07:00:00+01:00",
-    "period_end": "2026-11-09T07:00:00+01:00",
-    "total_entries": 50,
-    "music_entries": 50,
+  "2026-11-09 07:00": {
+    "period_start": "2026-11-09T07:00:00+01:00",
+    "period_end": "2026-11-10T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 8,
     "songs": [
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 4
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Let it die",
-        "plays": 2
-      },
-      {
-        "artist": "Bruce Springsteen",
-        "title": "Glory Days",
-        "plays": 2
-      },
-      {
-        "artist": "Ava Max",
-        "title": "One Of Us",
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
         "plays": 1
       },
       {
-        "artist": "Alex Warren",
-        "title": "EMERALD EYES",
+        "artist": "Alvaro Soler",
+        "title": "Regalo",
         "plays": 1
       },
       {
-        "artist": "Olivia Rodrigo",
-        "title": "Good 4 You",
+        "artist": "Miksu/Macloud, makko",
+        "title": "Nachts wach",
         "plays": 1
       },
       {
-        "artist": "HUNTRX",
-        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "artist": "Schnuffel",
+        "title": "Kuschel Song",
         "plays": 1
       },
       {
-        "artist": "Five Finger Death Punch",
-        "title": "The End",
-        "plays": 1
-      },
-      {
-        "artist": "SDP & Finch",
-        "title": "Kein Bock",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "Pretty Face",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "New Rules",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel X Jax Jones X Galatis",
-        "title": "Good Luck",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba",
-        "title": "Unsicher",
-        "plays": 1
-      },
-      {
-        "artist": "Electric Light Orchestra",
-        "title": "Confusion",
-        "plays": 1
-      },
-      {
-        "artist": "Jessie Ware",
-        "title": "Superbloom",
-        "plays": 1
-      },
-      {
-        "artist": "Alle Farben & Ilira",
-        "title": "Fading",
-        "plays": 1
-      },
-      {
-        "artist": "Ethel Cain",
-        "title": "American Teenager",
-        "plays": 1
-      },
-      {
-        "artist": "Aldous Harding",
-        "title": "What Am I Gonna Do?",
-        "plays": 1
-      },
-      {
-        "artist": "Quavo & Takeoff",
-        "title": "Hotel Lobby",
-        "plays": 1
-      },
-      {
-        "artist": "Father John Misty",
-        "title": "She Cleans Up",
-        "plays": 1
-      },
-      {
-        "artist": "Alice Merton",
-        "title": "Island",
-        "plays": 1
-      },
-      {
-        "artist": "Drake",
-        "title": "God's Plan",
-        "plays": 1
-      },
-      {
-        "artist": "B For Better",
-        "title": "In My Hood",
-        "plays": 1
-      },
-      {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth",
-        "title": "One Call Away",
-        "plays": 1
-      },
-      {
-        "artist": "Jj",
-        "title": "Wasted Love  2025",
-        "plays": 1
-      },
-      {
-        "artist": "Leony",
-        "title": "Faded Love",
-        "plays": 1
-      },
-      {
-        "artist": "Devin Townsend",
-        "title": "Jainism",
-        "plays": 1
-      },
-      {
-        "artist": "Namika feat. Black M",
-        "title": "Je Ne Parle Pas Français (Beatgees Remix)",
-        "plays": 1
-      },
-      {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
-        "artist": "Midlake",
-        "title": "The Ghouls",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "In My Blood",
+        "artist": "Revolverheld & Megaloh",
+        "title": "Krieg mit mir selbst",
         "plays": 1
       },
       {
         "artist": "P!nk",
-        "title": "Beautiful Trauma",
+        "title": "Irrelevant",
         "plays": 1
       },
       {
-        "artist": "Michael Patrick Kelly",
-        "title": "The One",
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
         "plays": 1
       },
       {
-        "artist": "Kelly Clarkson",
-        "title": "Heartbeat Song",
-        "plays": 1
-      },
-      {
-        "artist": "Jack White",
-        "title": "Dollar Bill",
-        "plays": 1
-      },
-      {
-        "artist": "Alle Farben",
-        "title": "Forgot How To Love",
-        "plays": 1
-      },
-      {
-        "artist": "Lune",
-        "title": "Mann im Haus",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso feat. Andreas Bourani",
-        "title": "Willkommen Zuruck",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Take My Breath",
-        "plays": 1
-      },
-      {
-        "artist": "Mac DeMarco",
-        "title": "Holy",
-        "plays": 1
-      },
-      {
-        "artist": "M.I.A.",
-        "title": "Popular",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Watch It Burn",
-        "plays": 1
-      },
-      {
-        "artist": "Cheap Trick",
-        "title": "I Want You to Want Me",
-        "plays": 1
-      },
-      {
-        "artist": "LOTTE & Max Giesinger",
-        "title": "Auf das, was da noch kommt",
+        "artist": "The Smile",
+        "title": "Bodies Laughing",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Tom Gregory",
-      "title": "Small Steps",
-      "plays": 4
+      "artist": "Nico & Vinz",
+      "title": "Am I Wrong",
+      "plays": 1
     }
   }
 }
