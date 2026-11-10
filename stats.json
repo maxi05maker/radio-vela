@@ -2,8 +2,8 @@
   "2026-11-10 07:00": {
     "period_start": "2026-11-10T07:00:00+01:00",
     "period_end": "2026-11-11T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Lady Gaga, Doechii",
@@ -98,6 +98,56 @@
       {
         "artist": "PinkPantheress",
         "title": "Tonight",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Fender",
+        "title": "People Watching",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Heartbeat",
+        "plays": 1
+      },
+      {
+        "artist": "Nico & Vinz",
+        "title": "Am I Wrong",
+        "plays": 1
+      },
+      {
+        "artist": "Snail Mail",
+        "title": "Dead End",
+        "plays": 1
+      },
+      {
+        "artist": "Udo Lindenberg x Apache 207",
+        "title": "Komet",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Alors On Danse",
+        "plays": 1
+      },
+      {
+        "artist": "KATSEYE",
+        "title": "Internet Girl",
+        "plays": 1
+      },
+      {
+        "artist": "David Gilmour",
+        "title": "In Any Tongue",
+        "plays": 1
+      },
+      {
+        "artist": "Kae Tempest",
+        "title": "More Pressure (feat. Kevin Abstract)",
         "plays": 1
       }
     ],
