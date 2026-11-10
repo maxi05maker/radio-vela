@@ -2,8 +2,8 @@
   "2026-11-10 07:00": {
     "period_start": "2026-11-10T07:00:00+01:00",
     "period_end": "2026-11-11T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Lady Gaga, Doechii",
@@ -48,6 +48,56 @@
       {
         "artist": "OneRepublic",
         "title": "If I Lose Myself",
+        "plays": 1
+      },
+      {
+        "artist": "twocolors",
+        "title": "Bloodstream",
+        "plays": 1
+      },
+      {
+        "artist": "Erik Cohen",
+        "title": "Reeperbahn",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Danger Dan",
+        "title": "Das ist alles von der Kunstfreiheit gedeckt",
+        "plays": 1
+      },
+      {
+        "artist": "MGK",
+        "title": "Don't Let Me Go",
+        "plays": 1
+      },
+      {
+        "artist": "ROSÉ & Bruno Mars",
+        "title": "APT.",
+        "plays": 1
+      },
+      {
+        "artist": "Warhaus",
+        "title": "Open Window",
+        "plays": 1
+      },
+      {
+        "artist": "J Balvin & Ed Sheeran",
+        "title": "Sigue",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Tonight",
         "plays": 1
       }
     ],
