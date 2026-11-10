@@ -1,128 +1,13 @@
 {
-  "2026-11-09 07:00": {
-    "period_start": "2026-11-09T07:00:00+01:00",
-    "period_end": "2026-11-10T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 26,
+  "2026-11-10 07:00": {
+    "period_start": "2026-11-10T07:00:00+01:00",
+    "period_end": "2026-11-11T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Nico & Vinz",
-        "title": "Am I Wrong",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Regalo",
-        "plays": 1
-      },
-      {
-        "artist": "Miksu/Macloud, makko",
-        "title": "Nachts wach",
-        "plays": 1
-      },
-      {
-        "artist": "Schnuffel",
-        "title": "Kuschel Song",
-        "plays": 1
-      },
-      {
-        "artist": "Revolverheld & Megaloh",
-        "title": "Krieg mit mir selbst",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Irrelevant",
-        "plays": 1
-      },
-      {
-        "artist": "Elton John, Britney Spears",
-        "title": "Hold Me Closer",
-        "plays": 1
-      },
-      {
-        "artist": "The Smile",
-        "title": "Bodies Laughing",
-        "plays": 1
-      },
-      {
-        "artist": "Walk The Moon",
-        "title": "Shut Up and Dance",
-        "plays": 1
-      },
-      {
-        "artist": "CHAPO102 x GUSTAV",
-        "title": "WARSCHAU",
-        "plays": 1
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
-        "plays": 1
-      },
-      {
-        "artist": "The Strumbellas",
-        "title": "Spirits",
-        "plays": 1
-      },
-      {
-        "artist": "HUNTRX",
-        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "As It Was",
-        "plays": 1
-      },
-      {
-        "artist": "AnnenMayKantereit",
-        "title": "Du tust mir nie mehr weh",
-        "plays": 1
-      },
-      {
-        "artist": "KATSEYE",
-        "title": "Animal",
-        "plays": 1
-      },
-      {
-        "artist": "Ayron Jones",
-        "title": "Take Your Time",
-        "plays": 1
-      },
-      {
-        "artist": "Marteria",
-        "title": "Lila Wolken",
-        "plays": 1
-      },
-      {
-        "artist": "Alli Neumann",
-        "title": "Monster",
-        "plays": 1
-      },
-      {
-        "artist": "Father John Misty",
-        "title": "She Cleans Up",
-        "plays": 1
-      },
-      {
-        "artist": "ClockClock",
-        "title": "Sorry",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith",
-        "title": "I'm Not Here To Make Friends",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris",
-        "title": "SMOKE THE PAIN AWAY",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte, R3HAB",
-        "title": "Waterfall",
+        "artist": "Lady Gaga, Doechii",
+        "title": "Runway",
         "plays": 1
       },
       {
@@ -131,14 +16,44 @@
         "plays": 1
       },
       {
-        "artist": "PinkPantheress",
-        "title": "Illegal",
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Warren",
+        "title": "EMERALD EYES",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Timberlake",
+        "title": "Mirrors",
+        "plays": 1
+      },
+      {
+        "artist": "ClockClock",
+        "title": "Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Tara Emely",
+        "title": "ADHS Chics",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Bad Liar",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "If I Lose Myself",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Nico & Vinz",
-      "title": "Am I Wrong",
+      "artist": "Lady Gaga, Doechii",
+      "title": "Runway",
       "plays": 1
     }
   }
