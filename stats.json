@@ -2,8 +2,8 @@
   "2026-11-09 07:00": {
     "period_start": "2026-11-09T07:00:00+01:00",
     "period_end": "2026-11-10T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 17,
+    "total_entries": 30,
+    "music_entries": 26,
     "songs": [
       {
         "artist": "Nico & Vinz",
@@ -88,6 +88,51 @@
       {
         "artist": "Ayron Jones",
         "title": "Take Your Time",
+        "plays": 1
+      },
+      {
+        "artist": "Marteria",
+        "title": "Lila Wolken",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Monster",
+        "plays": 1
+      },
+      {
+        "artist": "Father John Misty",
+        "title": "She Cleans Up",
+        "plays": 1
+      },
+      {
+        "artist": "ClockClock",
+        "title": "Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "I'm Not Here To Make Friends",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "SMOKE THE PAIN AWAY",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Schulte, R3HAB",
+        "title": "Waterfall",
+        "plays": 1
+      },
+      {
+        "artist": "Dennis Lloyd",
+        "title": "Never Go Back",
+        "plays": 1
+      },
+      {
+        "artist": "PinkPantheress",
+        "title": "Illegal",
         "plays": 1
       }
     ],
