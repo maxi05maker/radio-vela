@@ -2,8 +2,8 @@
   "2026-11-10 07:00": {
     "period_start": "2026-11-10T07:00:00+01:00",
     "period_end": "2026-11-11T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 29,
+    "total_entries": 40,
+    "music_entries": 38,
     "songs": [
       {
         "artist": "Lady Gaga, Doechii",
@@ -148,6 +148,51 @@
       {
         "artist": "Kae Tempest",
         "title": "More Pressure (feat. Kevin Abstract)",
+        "plays": 1
+      },
+      {
+        "artist": "Moderat",
+        "title": "Bad Kingdom",
+        "plays": 1
+      },
+      {
+        "artist": "Meghan Trainor",
+        "title": "Lips Are Movin",
+        "plays": 1
+      },
+      {
+        "artist": "Mika",
+        "title": "Modern Times",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "River",
+        "plays": 1
+      },
+      {
+        "artist": "RAF Camora & Bonez MC",
+        "title": "Blaues Licht",
+        "plays": 1
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "That’s So True",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Throwback",
+        "plays": 1
+      },
+      {
+        "artist": "Coldplay",
+        "title": "A Sky Full Of Stars",
         "plays": 1
       }
     ],
