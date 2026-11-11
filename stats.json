@@ -2,8 +2,8 @@
   "2026-11-11 07:00": {
     "period_start": "2026-11-11T07:00:00+01:00",
     "period_end": "2026-11-12T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 17,
+    "total_entries": 30,
+    "music_entries": 26,
     "songs": [
       {
         "artist": "Tove Lo",
@@ -88,6 +88,51 @@
       {
         "artist": "Monet192",
         "title": "Nicht Perfekt",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Strip",
+        "plays": 1
+      },
+      {
+        "artist": "Tobee",
+        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+        "plays": 1
+      },
+      {
+        "artist": "Mitski",
+        "title": "That White Cat",
+        "plays": 1
+      },
+      {
+        "artist": "Mario Novembre",
+        "title": "Allein sein",
+        "plays": 1
+      },
+      {
+        "artist": "Florence And The Machine",
+        "title": "Spectrum (Say My Name)",
+        "plays": 1
+      },
+      {
+        "artist": "Zach Bryan",
+        "title": "28",
+        "plays": 1
+      },
+      {
+        "artist": "Kelly Clarkson",
+        "title": "Underneath the Tree",
+        "plays": 1
+      },
+      {
+        "artist": "Inna",
+        "title": "Up",
+        "plays": 1
+      },
+      {
+        "artist": "Ziggy in tha House",
+        "title": "It's Raining",
         "plays": 1
       }
     ],
