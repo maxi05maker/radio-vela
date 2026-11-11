@@ -2,8 +2,8 @@
   "2026-11-11 07:00": {
     "period_start": "2026-11-11T07:00:00+01:00",
     "period_end": "2026-11-12T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 17,
     "songs": [
       {
         "artist": "Tove Lo",
@@ -48,6 +48,46 @@
       {
         "artist": "HUNTRX",
         "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "plays": 1
+      },
+      {
+        "artist": "Danger Mouse & Black Thought",
+        "title": "Saltwater feat. Conway The Machine",
+        "plays": 1
+      },
+      {
+        "artist": "BLACKPINK",
+        "title": "GO",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba",
+        "title": "Mangos mit Chili",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Footprints",
+        "plays": 1
+      },
+      {
+        "artist": "BTS",
+        "title": "SWIM",
+        "plays": 1
+      },
+      {
+        "artist": "Bruno Mars",
+        "title": "Count On Me",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Der Letzte Tanz",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
         "plays": 1
       }
     ],
