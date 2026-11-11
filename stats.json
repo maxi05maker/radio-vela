@@ -1,204 +1,59 @@
 {
-  "2026-11-10 07:00": {
-    "period_start": "2026-11-10T07:00:00+01:00",
-    "period_end": "2026-11-11T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 38,
+  "2026-11-11 07:00": {
+    "period_start": "2026-11-11T07:00:00+01:00",
+    "period_end": "2026-11-12T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Lady Gaga, Doechii",
-        "title": "Runway",
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
         "plays": 1
       },
       {
-        "artist": "Dennis Lloyd",
-        "title": "Never Go Back",
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
         "plays": 1
       },
       {
-        "artist": "Swedish House Mafia & The Weeknd",
-        "title": "Moth To A Flame",
+        "artist": "Floodlights",
+        "title": "Can You Feel It",
         "plays": 1
       },
       {
-        "artist": "Alex Warren",
-        "title": "EMERALD EYES",
+        "artist": "Katy Perry Feat. Skip Marley",
+        "title": "Chained To The Rhythm",
         "plays": 1
       },
       {
-        "artist": "Justin Timberlake",
-        "title": "Mirrors",
+        "artist": "Jeremias",
+        "title": "Ich mags",
         "plays": 1
       },
       {
-        "artist": "ClockClock",
-        "title": "Sorry",
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
         "plays": 1
       },
       {
-        "artist": "Tara Emely",
-        "title": "ADHS Chics",
+        "artist": "Red Hot Chili Peppers",
+        "title": "Poster Child",
         "plays": 1
       },
       {
-        "artist": "Imagine Dragons",
-        "title": "Bad Liar",
+        "artist": "M.I.A.",
+        "title": "Popular",
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "If I Lose Myself",
-        "plays": 1
-      },
-      {
-        "artist": "twocolors",
-        "title": "Bloodstream",
-        "plays": 1
-      },
-      {
-        "artist": "Erik Cohen",
-        "title": "Reeperbahn",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris,Jazzy",
-        "title": "Satisfy",
-        "plays": 1
-      },
-      {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "Danger Dan",
-        "title": "Das ist alles von der Kunstfreiheit gedeckt",
-        "plays": 1
-      },
-      {
-        "artist": "MGK",
-        "title": "Don't Let Me Go",
-        "plays": 1
-      },
-      {
-        "artist": "ROSÉ & Bruno Mars",
-        "title": "APT.",
-        "plays": 1
-      },
-      {
-        "artist": "Warhaus",
-        "title": "Open Window",
-        "plays": 1
-      },
-      {
-        "artist": "J Balvin & Ed Sheeran",
-        "title": "Sigue",
-        "plays": 1
-      },
-      {
-        "artist": "PinkPantheress",
-        "title": "Tonight",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Fender",
-        "title": "People Watching",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Heartbeat",
-        "plays": 1
-      },
-      {
-        "artist": "Nico & Vinz",
-        "title": "Am I Wrong",
-        "plays": 1
-      },
-      {
-        "artist": "Snail Mail",
-        "title": "Dead End",
-        "plays": 1
-      },
-      {
-        "artist": "Udo Lindenberg x Apache 207",
-        "title": "Komet",
-        "plays": 1
-      },
-      {
-        "artist": "Stromae",
-        "title": "Alors On Danse",
-        "plays": 1
-      },
-      {
-        "artist": "KATSEYE",
-        "title": "Internet Girl",
-        "plays": 1
-      },
-      {
-        "artist": "David Gilmour",
-        "title": "In Any Tongue",
-        "plays": 1
-      },
-      {
-        "artist": "Kae Tempest",
-        "title": "More Pressure (feat. Kevin Abstract)",
-        "plays": 1
-      },
-      {
-        "artist": "Moderat",
-        "title": "Bad Kingdom",
-        "plays": 1
-      },
-      {
-        "artist": "Meghan Trainor",
-        "title": "Lips Are Movin",
-        "plays": 1
-      },
-      {
-        "artist": "Mika",
-        "title": "Modern Times",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "River",
-        "plays": 1
-      },
-      {
-        "artist": "RAF Camora & Bonez MC",
-        "title": "Blaues Licht",
-        "plays": 1
-      },
-      {
-        "artist": "Gracie Abrams",
-        "title": "That’s So True",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Throwback",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "A Sky Full Of Stars",
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Lady Gaga, Doechii",
-      "title": "Runway",
+      "artist": "Tove Lo",
+      "title": "Habits (Stay High)",
       "plays": 1
     }
   }
