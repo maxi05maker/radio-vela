@@ -2,8 +2,8 @@
   "2026-11-12 07:00": {
     "period_start": "2026-11-12T07:00:00+01:00",
     "period_end": "2026-11-13T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Imagine Dragons",
@@ -53,6 +53,46 @@
       {
         "artist": "The Chainsmokers feat. Halsey",
         "title": "Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Sleater-Kinney",
+        "title": "Worry With You",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Rolling In The Deep",
+        "plays": 1
+      },
+      {
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "plays": 1
+      },
+      {
+        "artist": "Dean Lewis",
+        "title": "Looks Like Me",
+        "plays": 1
+      },
+      {
+        "artist": "Razorlight",
+        "title": "You Are Entering The Human Heart",
+        "plays": 1
+      },
+      {
+        "artist": "M Huncho",
+        "title": "Lean feat. Giggs",
+        "plays": 1
+      },
+      {
+        "artist": "Cro",
+        "title": "Alles Dope",
+        "plays": 1
+      },
+      {
+        "artist": "Damiano David",
+        "title": "Voices",
         "plays": 1
       }
     ],
