@@ -2,8 +2,8 @@
   "2026-11-13 07:00": {
     "period_start": "2026-11-13T07:00:00+01:00",
     "period_end": "2026-11-14T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -53,6 +53,56 @@
       {
         "artist": "Alec Benjamin",
         "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA",
+        "title": "Für immer",
+        "plays": 1
+      },
+      {
+        "artist": "Frans",
+        "title": "If I Were Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Loyle Carner",
+        "title": "Yesterday",
+        "plays": 1
+      },
+      {
+        "artist": "James Blake",
+        "title": "Death Of Love (Live)",
+        "plays": 1
+      },
+      {
+        "artist": "Radio Karen",
+        "title": "Die Beste Musik Nonstop",
+        "plays": 1
+      },
+      {
+        "artist": "Vanessa Mai",
+        "title": "Aus & Vorbei",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Mr. Know It All",
+        "plays": 1
+      },
+      {
+        "artist": "Jonas Blue, Felix Jaehn",
+        "title": "Weekends",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Großstadt",
         "plays": 1
       }
     ],
