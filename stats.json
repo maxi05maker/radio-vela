@@ -2,8 +2,8 @@
   "2026-11-12 07:00": {
     "period_start": "2026-11-12T07:00:00+01:00",
     "period_end": "2026-11-13T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Imagine Dragons",
@@ -93,6 +93,56 @@
       {
         "artist": "Damiano David",
         "title": "Voices",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "plays": 1
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "Bungalow",
+        "plays": 1
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Ein Lied für dich",
+        "plays": 1
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Super Freaky Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "Wie schön du bist",
+        "plays": 1
+      },
+      {
+        "artist": "Djo",
+        "title": "Basic Being Basic",
+        "plays": 1
+      },
+      {
+        "artist": "Beatrice Egli",
+        "title": "Mein Herz",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Kein Problem",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Bastille",
+        "title": "Seasons & Narcissus",
         "plays": 1
       }
     ],
