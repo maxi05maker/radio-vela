@@ -2,8 +2,8 @@
   "2026-11-13 07:00": {
     "period_start": "2026-11-13T07:00:00+01:00",
     "period_end": "2026-11-14T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 20,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Roy Bianco & Die Abbrunzati Boys",
@@ -103,6 +103,51 @@
       {
         "artist": "Provinz",
         "title": "Großstadt",
+        "plays": 1
+      },
+      {
+        "artist": "Elton John, Britney Spears",
+        "title": "Hold Me Closer",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "plays": 1
+      },
+      {
+        "artist": "Blood Red Shoes",
+        "title": "Get Back Into Myself",
+        "plays": 1
+      },
+      {
+        "artist": "ClockClock",
+        "title": "Sorry",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Sam Smith",
+        "title": "I'm Not Here To Make Friends",
+        "plays": 1
+      },
+      {
+        "artist": "Avalanche",
+        "title": "Down For The Count",
+        "plays": 1
+      },
+      {
+        "artist": "257ers",
+        "title": "Ich Will Meer",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Grennan",
+        "title": "Little Bit of Love",
         "plays": 1
       }
     ],
