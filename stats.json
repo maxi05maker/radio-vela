@@ -1,154 +1,64 @@
 {
-  "2026-11-12 07:00": {
-    "period_start": "2026-11-12T07:00:00+01:00",
-    "period_end": "2026-11-13T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 28,
+  "2026-11-13 07:00": {
+    "period_start": "2026-11-13T07:00:00+01:00",
+    "period_end": "2026-11-14T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Imagine Dragons",
-        "title": "Thunder",
+        "artist": "Roy Bianco & Die Abbrunzati Boys",
+        "title": "Bella Napoli",
         "plays": 1
       },
       {
-        "artist": "The Marías",
-        "title": "No One Noticed",
+        "artist": "Will.I.Am ft Britney Spears",
+        "title": "Scream And Shout",
         "plays": 1
       },
       {
-        "artist": "Alli Neumann",
-        "title": "Mit dir",
+        "artist": "Stray Kids",
+        "title": "RUN IT",
         "plays": 1
       },
       {
-        "artist": "blackbear & Machine Gun Kelly",
-        "title": "gfy",
+        "artist": "Sofia Portanet",
+        "title": "Real Face",
         "plays": 1
       },
       {
-        "artist": "Natalie Imbruglia",
-        "title": "Beautiful Love",
+        "artist": "Ozzy Osbourne",
+        "title": "Let Me Hear You Scream",
         "plays": 1
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
+        "artist": "Paul Kalkbrenner & Stromae",
+        "title": "QUE CE SOIT CLAIR",
         "plays": 1
       },
       {
-        "artist": "Katja Krasavice",
-        "title": "Raindrops (feat. Leony)",
+        "artist": "Funkmaster Flex",
+        "title": "Hitta feat. Bobby Shmurda",
         "plays": 1
       },
       {
-        "artist": "Snow Tha Product",
-        "title": "Been That",
+        "artist": "Tiësto feat. Tate McRae",
+        "title": "10:35",
         "plays": 1
       },
       {
-        "artist": "Hundreds",
-        "title": "Fallacies",
+        "artist": "Betterov",
+        "title": "In Meinem Zimmer Spielen Sich Dramen Ab",
         "plays": 1
       },
       {
-        "artist": "The Chainsmokers feat. Halsey",
-        "title": "Closer",
-        "plays": 1
-      },
-      {
-        "artist": "Sleater-Kinney",
-        "title": "Worry With You",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Rolling In The Deep",
-        "plays": 1
-      },
-      {
-        "artist": "HUNTRX",
-        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
-        "plays": 1
-      },
-      {
-        "artist": "Dean Lewis",
-        "title": "Looks Like Me",
-        "plays": 1
-      },
-      {
-        "artist": "Razorlight",
-        "title": "You Are Entering The Human Heart",
-        "plays": 1
-      },
-      {
-        "artist": "M Huncho",
-        "title": "Lean feat. Giggs",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Alles Dope",
-        "plays": 1
-      },
-      {
-        "artist": "Damiano David",
-        "title": "Voices",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "New Rules",
-        "plays": 1
-      },
-      {
-        "artist": "Bilderbuch",
-        "title": "Bungalow",
-        "plays": 1
-      },
-      {
-        "artist": "Apache 207",
-        "title": "Ein Lied für dich",
-        "plays": 1
-      },
-      {
-        "artist": "Nicki Minaj",
-        "title": "Super Freaky Girl",
-        "plays": 1
-      },
-      {
-        "artist": "Sarah Connor",
-        "title": "Wie schön du bist",
-        "plays": 1
-      },
-      {
-        "artist": "Djo",
-        "title": "Basic Being Basic",
-        "plays": 1
-      },
-      {
-        "artist": "Beatrice Egli",
-        "title": "Mein Herz",
-        "plays": 1
-      },
-      {
-        "artist": "Tim Bendzko",
-        "title": "Kein Problem",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "Bastille",
-        "title": "Seasons & Narcissus",
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Imagine Dragons",
-      "title": "Thunder",
+      "artist": "Roy Bianco & Die Abbrunzati Boys",
+      "title": "Bella Napoli",
       "plays": 1
     }
   }
