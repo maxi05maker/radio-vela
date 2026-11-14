@@ -1,204 +1,64 @@
 {
-  "2026-11-13 07:00": {
-    "period_start": "2026-11-13T07:00:00+01:00",
-    "period_end": "2026-11-14T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 38,
+  "2026-11-14 07:00": {
+    "period_start": "2026-11-14T07:00:00+01:00",
+    "period_end": "2026-11-15T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Roy Bianco & Die Abbrunzati Boys",
-        "title": "Bella Napoli",
+        "artist": "Dr. Hook",
+        "title": "Sexy Eyes",
         "plays": 1
       },
       {
-        "artist": "Will.I.Am ft Britney Spears",
-        "title": "Scream And Shout",
+        "artist": "Olivia Rodrigo",
+        "title": "Drop dead",
         "plays": 1
       },
       {
-        "artist": "Stray Kids",
-        "title": "RUN IT",
+        "artist": "Olly Murs",
+        "title": "Dear Darlin'",
         "plays": 1
       },
       {
-        "artist": "Sofia Portanet",
-        "title": "Real Face",
+        "artist": "ZAZ",
+        "title": "Serendipia",
         "plays": 1
       },
       {
-        "artist": "Ozzy Osbourne",
-        "title": "Let Me Hear You Scream",
+        "artist": "THE MENZINGERS",
+        "title": "Everything I Ever Saw",
         "plays": 1
       },
       {
-        "artist": "Paul Kalkbrenner & Stromae",
-        "title": "QUE CE SOIT CLAIR",
+        "artist": "Jax Jones Feat. MNEK",
+        "title": "Where Did You Go?",
         "plays": 1
       },
       {
-        "artist": "Funkmaster Flex",
-        "title": "Hitta feat. Bobby Shmurda",
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 1
       },
       {
-        "artist": "Tiësto feat. Tate McRae",
-        "title": "10:35",
+        "artist": "Kamrad",
+        "title": "I Believe",
         "plays": 1
       },
       {
-        "artist": "Betterov",
-        "title": "In Meinem Zimmer Spielen Sich Dramen Ab",
+        "artist": "Peter Frampton, Benmont Tench",
+        "title": "Buried Treasure",
         "plays": 1
       },
       {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
-        "artist": "AYLIVA",
-        "title": "Für immer",
-        "plays": 1
-      },
-      {
-        "artist": "Frans",
-        "title": "If I Were Sorry",
-        "plays": 1
-      },
-      {
-        "artist": "Loyle Carner",
-        "title": "Yesterday",
-        "plays": 1
-      },
-      {
-        "artist": "James Blake",
-        "title": "Death Of Love (Live)",
-        "plays": 1
-      },
-      {
-        "artist": "Radio Karen",
-        "title": "Die Beste Musik Nonstop",
-        "plays": 1
-      },
-      {
-        "artist": "Vanessa Mai",
-        "title": "Aus & Vorbei",
-        "plays": 1
-      },
-      {
-        "artist": "Måneskin",
-        "title": "I WANNA BE YOUR SLAVE",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Mr. Know It All",
-        "plays": 1
-      },
-      {
-        "artist": "Jonas Blue, Felix Jaehn",
-        "title": "Weekends",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Großstadt",
-        "plays": 1
-      },
-      {
-        "artist": "Elton John, Britney Spears",
-        "title": "Hold Me Closer",
-        "plays": 1
-      },
-      {
-        "artist": "Adele",
-        "title": "Hello",
-        "plays": 1
-      },
-      {
-        "artist": "Blood Red Shoes",
-        "title": "Get Back Into Myself",
-        "plays": 1
-      },
-      {
-        "artist": "ClockClock",
-        "title": "Sorry",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Sam Smith",
-        "title": "I'm Not Here To Make Friends",
-        "plays": 1
-      },
-      {
-        "artist": "Avalanche",
-        "title": "Down For The Count",
-        "plays": 1
-      },
-      {
-        "artist": "257ers",
-        "title": "Ich Will Meer",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Grennan",
-        "title": "Little Bit of Love",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster feat. Sido",
-        "title": "Au Revoir",
-        "plays": 1
-      },
-      {
-        "artist": "The Script",
-        "title": "Hall Of Fame",
-        "plays": 1
-      },
-      {
-        "artist": "Mika",
-        "title": "Modern Times",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel X Jax Jones X Galatis",
-        "title": "Good Luck",
-        "plays": 1
-      },
-      {
-        "artist": "Arctic Monkeys",
-        "title": "Body Paint",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris",
-        "title": "SMOKE THE PAIN AWAY",
-        "plays": 1
-      },
-      {
-        "artist": "SDP & Clueso",
-        "title": "Die schönsten Tage",
-        "plays": 1
-      },
-      {
-        "artist": "Herbert Grönemeyer",
-        "title": "Urverlust",
-        "plays": 1
-      },
-      {
-        "artist": "Zartmann",
-        "title": "Wunderschön",
+        "artist": "Flo Milli",
+        "title": "Big Steppa",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Roy Bianco & Die Abbrunzati Boys",
-      "title": "Bella Napoli",
+      "artist": "Dr. Hook",
+      "title": "Sexy Eyes",
       "plays": 1
     }
   }
