@@ -2,13 +2,13 @@
   "2026-11-14 07:00": {
     "period_start": "2026-11-14T07:00:00+01:00",
     "period_end": "2026-11-15T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 30,
+    "total_entries": 40,
+    "music_entries": 39,
     "songs": [
       {
         "artist": "Bryan Adams",
         "title": "So Happy It Hurts",
-        "plays": 2
+        "plays": 3
       },
       {
         "artist": "Dr. Hook",
@@ -149,12 +149,52 @@
         "artist": "Tobee",
         "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
         "plays": 1
+      },
+      {
+        "artist": "Tokio Hotel",
+        "title": "Durch Den Monsun",
+        "plays": 1
+      },
+      {
+        "artist": "Lune",
+        "title": "Mann im Haus",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Willow",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, The Stickmen Project, Calum Scott",
+        "title": "Rain In Ibiza",
+        "plays": 1
+      },
+      {
+        "artist": "Black Stone Cherry",
+        "title": "Deep",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Fingertips",
+        "plays": 1
+      },
+      {
+        "artist": "Burak Yeter feat. Danelle Sandoval",
+        "title": "Tuesday",
+        "plays": 1
+      },
+      {
+        "artist": "Momma",
+        "title": "I Want You (Fever)",
+        "plays": 1
       }
     ],
     "top_song": {
       "artist": "Bryan Adams",
       "title": "So Happy It Hurts",
-      "plays": 2
+      "plays": 3
     }
   }
 }
