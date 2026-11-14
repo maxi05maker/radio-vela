@@ -2,9 +2,14 @@
   "2026-11-14 07:00": {
     "period_start": "2026-11-14T07:00:00+01:00",
     "period_end": "2026-11-15T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 2
+      },
       {
         "artist": "Dr. Hook",
         "title": "Sexy Eyes",
@@ -36,11 +41,6 @@
         "plays": 1
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
         "artist": "Kamrad",
         "title": "I Believe",
         "plays": 1
@@ -54,12 +54,57 @@
         "artist": "Flo Milli",
         "title": "Big Steppa",
         "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "New Rules",
+        "plays": 1
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "Bungalow",
+        "plays": 1
+      },
+      {
+        "artist": "Apache 207",
+        "title": "Ein Lied für dich",
+        "plays": 1
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Super Freaky Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Sarah Connor",
+        "title": "Wie schön du bist",
+        "plays": 1
+      },
+      {
+        "artist": "Djo",
+        "title": "Basic Being Basic",
+        "plays": 1
+      },
+      {
+        "artist": "Beatrice Egli",
+        "title": "Mein Herz",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Kein Problem",
+        "plays": 1
+      },
+      {
+        "artist": "Bastille",
+        "title": "Seasons & Narcissus",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Dr. Hook",
-      "title": "Sexy Eyes",
-      "plays": 1
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 2
     }
   }
 }
