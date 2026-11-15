@@ -1,65 +1,10 @@
 {
-  "2026-11-14 07:00": {
-    "period_start": "2026-11-14T07:00:00+01:00",
-    "period_end": "2026-11-15T07:00:00+01:00",
-    "total_entries": 50,
-    "music_entries": 49,
+  "2026-11-15 07:00": {
+    "period_start": "2026-11-15T07:00:00+01:00",
+    "period_end": "2026-11-16T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 4
-      },
-      {
-        "artist": "Olly Murs",
-        "title": "Dear Darlin'",
-        "plays": 2
-      },
-      {
-        "artist": "ZAZ",
-        "title": "Serendipia",
-        "plays": 2
-      },
-      {
-        "artist": "THE MENZINGERS",
-        "title": "Everything I Ever Saw",
-        "plays": 2
-      },
-      {
-        "artist": "Jax Jones Feat. MNEK",
-        "title": "Where Did You Go?",
-        "plays": 2
-      },
-      {
-        "artist": "Kamrad",
-        "title": "I Believe",
-        "plays": 2
-      },
-      {
-        "artist": "Peter Frampton, Benmont Tench",
-        "title": "Buried Treasure",
-        "plays": 2
-      },
-      {
-        "artist": "Flo Milli",
-        "title": "Big Steppa",
-        "plays": 2
-      },
-      {
-        "artist": "Dr. Hook",
-        "title": "Sexy Eyes",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "Drop dead",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "New Rules",
-        "plays": 1
-      },
       {
         "artist": "Bilderbuch",
         "title": "Bungalow",
@@ -96,115 +41,20 @@
         "plays": 1
       },
       {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
         "artist": "Bastille",
         "title": "Seasons & Narcissus",
-        "plays": 1
-      },
-      {
-        "artist": "Die Ärzte",
-        "title": "Junge",
-        "plays": 1
-      },
-      {
-        "artist": "FILLY",
-        "title": "BELOHNEN  feat. Ski Aggu, Bausa & BUNT.",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Take My Breath",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Achterbahn",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Regalo",
-        "plays": 1
-      },
-      {
-        "artist": "Cro",
-        "title": "Whatever",
-        "plays": 1
-      },
-      {
-        "artist": "Charlie Puth feat. Meghan Trainor",
-        "title": "Marvin Gaye",
-        "plays": 1
-      },
-      {
-        "artist": "Larkin Poe",
-        "title": "If God Is A Woman",
-        "plays": 1
-      },
-      {
-        "artist": "Kygo feat. DNCE",
-        "title": "Dancing Feet",
-        "plays": 1
-      },
-      {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "Tokio Hotel",
-        "title": "Durch Den Monsun",
-        "plays": 1
-      },
-      {
-        "artist": "Lune",
-        "title": "Mann im Haus",
-        "plays": 1
-      },
-      {
-        "artist": "Taylor Swift",
-        "title": "Willow",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn, The Stickmen Project, Calum Scott",
-        "title": "Rain In Ibiza",
-        "plays": 1
-      },
-      {
-        "artist": "Black Stone Cherry",
-        "title": "Deep",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Fingertips",
-        "plays": 1
-      },
-      {
-        "artist": "Burak Yeter feat. Danelle Sandoval",
-        "title": "Tuesday",
-        "plays": 1
-      },
-      {
-        "artist": "Momma",
-        "title": "I Want You (Fever)",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta feat. Zara Larsson",
-        "title": "This One's For You",
-        "plays": 1
-      },
-      {
-        "artist": "Tyla",
-        "title": "Tyla - IS IT",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
-      "plays": 4
+      "artist": "Bilderbuch",
+      "title": "Bungalow",
+      "plays": 1
     }
   }
 }
