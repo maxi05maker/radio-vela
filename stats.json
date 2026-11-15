@@ -2,8 +2,8 @@
   "2026-11-15 07:00": {
     "period_start": "2026-11-15T07:00:00+01:00",
     "period_end": "2026-11-16T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Bilderbuch",
@@ -48,6 +48,56 @@
       {
         "artist": "Bastille",
         "title": "Seasons & Narcissus",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner & Stromae",
+        "title": "QUE CE SOIT CLAIR",
+        "plays": 1
+      },
+      {
+        "artist": "Funkmaster Flex",
+        "title": "Hitta feat. Bobby Shmurda",
+        "plays": 1
+      },
+      {
+        "artist": "Tiësto feat. Tate McRae",
+        "title": "10:35",
+        "plays": 1
+      },
+      {
+        "artist": "Betterov",
+        "title": "In Meinem Zimmer Spielen Sich Dramen Ab",
+        "plays": 1
+      },
+      {
+        "artist": "Alec Benjamin",
+        "title": "Let Me Down Slowly",
+        "plays": 1
+      },
+      {
+        "artist": "CRO",
+        "title": "Fallin",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "bar italia",
+        "title": "omni shambles",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger",
+        "title": "Der letzte Tag",
+        "plays": 1
+      },
+      {
+        "artist": "Capital Cities",
+        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
         "plays": 1
       }
     ],
