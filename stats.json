@@ -2,8 +2,8 @@
   "2026-11-15 07:00": {
     "period_start": "2026-11-15T07:00:00+01:00",
     "period_end": "2026-11-16T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Bilderbuch",
@@ -98,6 +98,51 @@
       {
         "artist": "Capital Cities",
         "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
+        "plays": 1
+      },
+      {
+        "artist": "Machine Gun Kelly, glaive",
+        "title": "More than life",
+        "plays": 1
+      },
+      {
+        "artist": "Yung Gravy",
+        "title": "Betty (Get Money)",
+        "plays": 1
+      },
+      {
+        "artist": "Arlo Parks",
+        "title": "Floette (feat. John Glacier)",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Play With Fire",
+        "plays": 1
+      },
+      {
+        "artist": "Disturbed",
+        "title": "Hey You",
+        "plays": 1
+      },
+      {
+        "artist": "Joris",
+        "title": "Zu Viel Retro",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Beautiful Trauma",
+        "plays": 1
+      },
+      {
+        "artist": "Dr. Hook",
+        "title": "Sexy Eyes",
         "plays": 1
       }
     ],
