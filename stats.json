@@ -2,8 +2,8 @@
   "2026-11-15 07:00": {
     "period_start": "2026-11-15T07:00:00+01:00",
     "period_end": "2026-11-16T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
       {
         "artist": "Bilderbuch",
@@ -143,6 +143,51 @@
       {
         "artist": "Dr. Hook",
         "title": "Sexy Eyes",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Mark Forster, LEA",
+        "title": "Drei Uhr Nachts",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly Feat. Gentleman",
+        "title": "Id",
+        "plays": 1
+      },
+      {
+        "artist": "Samu Haber",
+        "title": "The Vehicle",
+        "plays": 1
+      },
+      {
+        "artist": "Daya",
+        "title": "Bad Girl",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Josef Salvat",
+        "title": "Diamonds",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
+        "plays": 1
+      },
+      {
+        "artist": "Lil Peep",
+        "title": "Nuts",
         "plays": 1
       }
     ],
