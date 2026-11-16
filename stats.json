@@ -1,199 +1,54 @@
 {
-  "2026-11-15 07:00": {
-    "period_start": "2026-11-15T07:00:00+01:00",
-    "period_end": "2026-11-16T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 37,
+  "2026-11-16 07:00": {
+    "period_start": "2026-11-16T07:00:00+01:00",
+    "period_end": "2026-11-17T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 8,
     "songs": [
       {
-        "artist": "Bilderbuch",
-        "title": "Bungalow",
+        "artist": "Kelvin Jones",
+        "title": "Don't Let Me Go",
         "plays": 1
       },
       {
-        "artist": "Apache 207",
-        "title": "Ein Lied für dich",
+        "artist": "Ellie Goulding",
+        "title": "Lights",
         "plays": 1
       },
       {
-        "artist": "Nicki Minaj",
-        "title": "Super Freaky Girl",
+        "artist": "Charli xcx",
+        "title": "SS26",
         "plays": 1
       },
       {
-        "artist": "Sarah Connor",
-        "title": "Wie schön du bist",
+        "artist": "Sofia Portanet",
+        "title": "Menschen und Mächte",
         "plays": 1
       },
       {
-        "artist": "Djo",
-        "title": "Basic Being Basic",
+        "artist": "Phoenix",
+        "title": "1901",
         "plays": 1
       },
       {
-        "artist": "Beatrice Egli",
-        "title": "Mein Herz",
+        "artist": "1986zig",
+        "title": "Nur dir gehör'n",
         "plays": 1
       },
       {
-        "artist": "Tim Bendzko",
-        "title": "Kein Problem",
+        "artist": "Kid Cudi",
+        "title": "Do What I Want",
         "plays": 1
       },
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "Bastille",
-        "title": "Seasons & Narcissus",
-        "plays": 1
-      },
-      {
-        "artist": "Paul Kalkbrenner & Stromae",
-        "title": "QUE CE SOIT CLAIR",
-        "plays": 1
-      },
-      {
-        "artist": "Funkmaster Flex",
-        "title": "Hitta feat. Bobby Shmurda",
-        "plays": 1
-      },
-      {
-        "artist": "Tiësto feat. Tate McRae",
-        "title": "10:35",
-        "plays": 1
-      },
-      {
-        "artist": "Betterov",
-        "title": "In Meinem Zimmer Spielen Sich Dramen Ab",
-        "plays": 1
-      },
-      {
-        "artist": "Alec Benjamin",
-        "title": "Let Me Down Slowly",
-        "plays": 1
-      },
-      {
-        "artist": "CRO",
-        "title": "Fallin",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "bar italia",
-        "title": "omni shambles",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger",
-        "title": "Der letzte Tag",
-        "plays": 1
-      },
-      {
-        "artist": "Capital Cities",
-        "title": "Save & Sound [Tommie Sunshine & Live City Remix]",
-        "plays": 1
-      },
-      {
-        "artist": "Machine Gun Kelly, glaive",
-        "title": "More than life",
-        "plays": 1
-      },
-      {
-        "artist": "Yung Gravy",
-        "title": "Betty (Get Money)",
-        "plays": 1
-      },
-      {
-        "artist": "Arlo Parks",
-        "title": "Floette (feat. John Glacier)",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Play With Fire",
-        "plays": 1
-      },
-      {
-        "artist": "Disturbed",
-        "title": "Hey You",
-        "plays": 1
-      },
-      {
-        "artist": "Joris",
-        "title": "Zu Viel Retro",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Beautiful Trauma",
-        "plays": 1
-      },
-      {
-        "artist": "Dr. Hook",
-        "title": "Sexy Eyes",
-        "plays": 1
-      },
-      {
-        "artist": "Alessia Cara",
-        "title": "Slow Motion",
-        "plays": 1
-      },
-      {
-        "artist": "Mark Forster, LEA",
-        "title": "Drei Uhr Nachts",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly Feat. Gentleman",
-        "title": "Id",
-        "plays": 1
-      },
-      {
-        "artist": "Samu Haber",
-        "title": "The Vehicle",
-        "plays": 1
-      },
-      {
-        "artist": "Daya",
-        "title": "Bad Girl",
-        "plays": 1
-      },
-      {
-        "artist": "David Guetta, Alphaville & Ava Max",
-        "title": "Forever Young",
-        "plays": 1
-      },
-      {
-        "artist": "Josef Salvat",
-        "title": "Diamonds",
-        "plays": 1
-      },
-      {
-        "artist": "Noah Kahan",
-        "title": "The Great Divide",
-        "plays": 1
-      },
-      {
-        "artist": "Lil Peep",
-        "title": "Nuts",
+        "artist": "Zoe Wees",
+        "title": "Girls Like Us",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bilderbuch",
-      "title": "Bungalow",
+      "artist": "Kelvin Jones",
+      "title": "Don't Let Me Go",
       "plays": 1
     }
   }
