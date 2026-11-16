@@ -2,8 +2,8 @@
   "2026-11-16 07:00": {
     "period_start": "2026-11-16T07:00:00+01:00",
     "period_end": "2026-11-17T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 8,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Kelvin Jones",
@@ -43,6 +43,56 @@
       {
         "artist": "Zoe Wees",
         "title": "Girls Like Us",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Jesso",
+        "title": "Clarity",
+        "plays": 1
+      },
+      {
+        "artist": "The Smashing Pumpkins",
+        "title": "Beguiled",
+        "plays": 1
+      },
+      {
+        "artist": "Alex Warren",
+        "title": "EMERALD EYES",
+        "plays": 1
+      },
+      {
+        "artist": "Lost Frequencies & James Arthur",
+        "title": "Questions",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Natural",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Ein Herz kann man nicht reparieren",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Bad Romance",
+        "plays": 1
+      },
+      {
+        "artist": "Foo Fighters",
+        "title": "Rope",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "The One",
+        "plays": 1
+      },
+      {
+        "artist": "Tim Bendzko",
+        "title": "Alleine In Paris",
         "plays": 1
       }
     ],
