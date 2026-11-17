@@ -2,8 +2,8 @@
   "2026-11-17 07:00": {
     "period_start": "2026-11-17T07:00:00+01:00",
     "period_end": "2026-11-18T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Freddie Gibbs",
@@ -48,6 +48,51 @@
       {
         "artist": "Charli xcx",
         "title": "party 4 u",
+        "plays": 1
+      },
+      {
+        "artist": "International Music",
+        "title": "Im Sommer bin ich dein König",
+        "plays": 1
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "title": "The Heart Part 5",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Never Gonna Not Dance Again",
+        "plays": 1
+      },
+      {
+        "artist": "Nina Chuba x Tokio Hotel",
+        "title": "Fata Morgana",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "American Girls",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia & The Weeknd",
+        "title": "Moth To A Flame",
+        "plays": 1
+      },
+      {
+        "artist": "Goodbye June",
+        "title": "Step Aside",
+        "plays": 1
+      },
+      {
+        "artist": "Florence + The Machine",
+        "title": "And Love",
+        "plays": 1
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
         "plays": 1
       }
     ],
