@@ -1,154 +1,59 @@
 {
-  "2026-11-16 07:00": {
-    "period_start": "2026-11-16T07:00:00+01:00",
-    "period_end": "2026-11-17T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 28,
+  "2026-11-17 07:00": {
+    "period_start": "2026-11-17T07:00:00+01:00",
+    "period_end": "2026-11-18T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Kelvin Jones",
-        "title": "Don't Let Me Go",
+        "artist": "Freddie Gibbs",
+        "title": "Space Rabbit",
         "plays": 1
       },
       {
-        "artist": "Ellie Goulding",
-        "title": "Lights",
+        "artist": "Ariana Grande",
+        "title": "No Tears Left To Cry",
+        "plays": 1
+      },
+      {
+        "artist": "U2",
+        "title": "American Obituary",
+        "plays": 1
+      },
+      {
+        "artist": "Mike Singer",
+        "title": "Deja Vu",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "Habits (Stay High)",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Devin Townsend",
+        "title": "Jainism",
+        "plays": 1
+      },
+      {
+        "artist": "Lena x Nico Santos",
+        "title": "Better",
         "plays": 1
       },
       {
         "artist": "Charli xcx",
-        "title": "SS26",
-        "plays": 1
-      },
-      {
-        "artist": "Sofia Portanet",
-        "title": "Menschen und Mächte",
-        "plays": 1
-      },
-      {
-        "artist": "Phoenix",
-        "title": "1901",
-        "plays": 1
-      },
-      {
-        "artist": "1986zig",
-        "title": "Nur dir gehör'n",
-        "plays": 1
-      },
-      {
-        "artist": "Kid Cudi",
-        "title": "Do What I Want",
-        "plays": 1
-      },
-      {
-        "artist": "Zoe Wees",
-        "title": "Girls Like Us",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Jesso",
-        "title": "Clarity",
-        "plays": 1
-      },
-      {
-        "artist": "The Smashing Pumpkins",
-        "title": "Beguiled",
-        "plays": 1
-      },
-      {
-        "artist": "Alex Warren",
-        "title": "EMERALD EYES",
-        "plays": 1
-      },
-      {
-        "artist": "Lost Frequencies & James Arthur",
-        "title": "Questions",
-        "plays": 1
-      },
-      {
-        "artist": "Imagine Dragons",
-        "title": "Natural",
-        "plays": 1
-      },
-      {
-        "artist": "Alli Neumann",
-        "title": "Ein Herz kann man nicht reparieren",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "Bad Romance",
-        "plays": 1
-      },
-      {
-        "artist": "Foo Fighters",
-        "title": "Rope",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "The One",
-        "plays": 1
-      },
-      {
-        "artist": "Tim Bendzko",
-        "title": "Alleine In Paris",
-        "plays": 1
-      },
-      {
-        "artist": "Tokio Hotel",
-        "title": "Rette Mich",
-        "plays": 1
-      },
-      {
-        "artist": "Leony",
-        "title": "Way Too Late",
-        "plays": 1
-      },
-      {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes",
-        "title": "Treat You Better",
-        "plays": 1
-      },
-      {
-        "artist": "Tice",
-        "title": "Hol Mich Ab feat. Ms Nana & Skor82",
-        "plays": 1
-      },
-      {
-        "artist": "BTS",
-        "title": "SWIM",
-        "plays": 1
-      },
-      {
-        "artist": "Kid Rock",
-        "title": "Born Free",
-        "plays": 1
-      },
-      {
-        "artist": "Olly Murs",
-        "title": "Marry Me",
-        "plays": 1
-      },
-      {
-        "artist": "Monet192",
-        "title": "Nicht Perfekt",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "Love Runs Out",
+        "title": "party 4 u",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Kelvin Jones",
-      "title": "Don't Let Me Go",
+      "artist": "Freddie Gibbs",
+      "title": "Space Rabbit",
       "plays": 1
     }
   }
