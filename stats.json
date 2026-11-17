@@ -2,8 +2,8 @@
   "2026-11-16 07:00": {
     "period_start": "2026-11-16T07:00:00+01:00",
     "period_end": "2026-11-17T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Kelvin Jones",
@@ -93,6 +93,56 @@
       {
         "artist": "Tim Bendzko",
         "title": "Alleine In Paris",
+        "plays": 1
+      },
+      {
+        "artist": "Tokio Hotel",
+        "title": "Rette Mich",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Way Too Late",
+        "plays": 1
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes",
+        "title": "Treat You Better",
+        "plays": 1
+      },
+      {
+        "artist": "Tice",
+        "title": "Hol Mich Ab feat. Ms Nana & Skor82",
+        "plays": 1
+      },
+      {
+        "artist": "BTS",
+        "title": "SWIM",
+        "plays": 1
+      },
+      {
+        "artist": "Kid Rock",
+        "title": "Born Free",
+        "plays": 1
+      },
+      {
+        "artist": "Olly Murs",
+        "title": "Marry Me",
+        "plays": 1
+      },
+      {
+        "artist": "Monet192",
+        "title": "Nicht Perfekt",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Love Runs Out",
         "plays": 1
       }
     ],
