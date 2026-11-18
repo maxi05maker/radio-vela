@@ -2,9 +2,14 @@
   "2026-11-17 07:00": {
     "period_start": "2026-11-17T07:00:00+01:00",
     "period_end": "2026-11-18T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 2
+      },
       {
         "artist": "Freddie Gibbs",
         "title": "Space Rabbit",
@@ -28,11 +33,6 @@
       {
         "artist": "Tove Lo",
         "title": "Habits (Stay High)",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
         "plays": 1
       },
       {
@@ -94,12 +94,52 @@
         "artist": "Walking On Cars",
         "title": "Speeding Cars",
         "plays": 1
+      },
+      {
+        "artist": "Elle King",
+        "title": "Ex's & Oh's",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "House featuring John Cale",
+        "plays": 1
+      },
+      {
+        "artist": "Max Giesinger & Quarterhead",
+        "title": "Nichts mehr zu sagen",
+        "plays": 1
+      },
+      {
+        "artist": "Alvaro Soler",
+        "title": "Sofia",
+        "plays": 1
+      },
+      {
+        "artist": "Helloween",
+        "title": "This Is Tokyo",
+        "plays": 1
+      },
+      {
+        "artist": "Shawn Mendes & Camila Cabello",
+        "title": "Señorita",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "drivers license",
+        "plays": 1
+      },
+      {
+        "artist": "Greta Van Fleet",
+        "title": "Heya",
+        "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Freddie Gibbs",
-      "title": "Space Rabbit",
-      "plays": 1
+      "artist": "Tom Gregory",
+      "title": "Small Steps",
+      "plays": 2
     }
   }
 }
