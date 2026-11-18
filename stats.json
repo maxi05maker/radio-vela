@@ -1,145 +1,60 @@
 {
-  "2026-11-17 07:00": {
-    "period_start": "2026-11-17T07:00:00+01:00",
-    "period_end": "2026-11-18T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 27,
+  "2026-11-18 07:00": {
+    "period_start": "2026-11-18T07:00:00+01:00",
+    "period_end": "2026-11-19T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 2
-      },
-      {
-        "artist": "Freddie Gibbs",
-        "title": "Space Rabbit",
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
-        "artist": "Ariana Grande",
-        "title": "No Tears Left To Cry",
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
         "plays": 1
       },
       {
-        "artist": "U2",
-        "title": "American Obituary",
+        "artist": "Aura Dione",
+        "title": "Geronimo",
         "plays": 1
       },
       {
-        "artist": "Mike Singer",
-        "title": "Deja Vu",
+        "artist": "FLO",
+        "title": "Leak It",
         "plays": 1
       },
       {
-        "artist": "Tove Lo",
-        "title": "Habits (Stay High)",
+        "artist": "Justin Bieber",
+        "title": "Ghost",
         "plays": 1
       },
       {
-        "artist": "Devin Townsend",
-        "title": "Jainism",
+        "artist": "Imagine Dragons",
+        "title": "Follow You",
         "plays": 1
       },
       {
-        "artist": "Lena x Nico Santos",
-        "title": "Better",
+        "artist": "Dara",
+        "title": "Bangaranga",
         "plays": 1
       },
       {
-        "artist": "Charli xcx",
-        "title": "party 4 u",
+        "artist": "Mark Ronson feat. Amy Winehouse",
+        "title": "Valerie",
         "plays": 1
       },
       {
-        "artist": "International Music",
-        "title": "Im Sommer bin ich dein König",
-        "plays": 1
-      },
-      {
-        "artist": "Kendrick Lamar",
-        "title": "The Heart Part 5",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Never Gonna Not Dance Again",
-        "plays": 1
-      },
-      {
-        "artist": "Nina Chuba x Tokio Hotel",
-        "title": "Fata Morgana",
-        "plays": 1
-      },
-      {
-        "artist": "Harry Styles",
-        "title": "American Girls",
-        "plays": 1
-      },
-      {
-        "artist": "Swedish House Mafia & The Weeknd",
-        "title": "Moth To A Flame",
-        "plays": 1
-      },
-      {
-        "artist": "Goodbye June",
-        "title": "Step Aside",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "And Love",
-        "plays": 1
-      },
-      {
-        "artist": "Walking On Cars",
-        "title": "Speeding Cars",
-        "plays": 1
-      },
-      {
-        "artist": "Elle King",
-        "title": "Ex's & Oh's",
-        "plays": 1
-      },
-      {
-        "artist": "Charli xcx",
-        "title": "House featuring John Cale",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger & Quarterhead",
-        "title": "Nichts mehr zu sagen",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler",
-        "title": "Sofia",
-        "plays": 1
-      },
-      {
-        "artist": "Helloween",
-        "title": "This Is Tokyo",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes & Camila Cabello",
-        "title": "Señorita",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "drivers license",
-        "plays": 1
-      },
-      {
-        "artist": "Greta Van Fleet",
-        "title": "Heya",
+        "artist": "Yolanda Be Cool & Dcup",
+        "title": "We No Speak Americano",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Tom Gregory",
-      "title": "Small Steps",
-      "plays": 2
+      "artist": "OneRepublic",
+      "title": "I Ain’t Worried",
+      "plays": 1
     }
   }
 }

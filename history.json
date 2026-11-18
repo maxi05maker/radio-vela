@@ -5680,5 +5680,65 @@
     "played_at": "2026-11-18 01:38:54 +0100",
     "title": "Heya",
     "artist": "Greta Van Fleet"
+  },
+  {
+    "key": "2026-11-18 08:41:08 +0100|I Ain’t Worried|OneRepublic",
+    "played_at": "2026-11-18 08:41:08 +0100",
+    "title": "I Ain’t Worried",
+    "artist": "OneRepublic"
+  },
+  {
+    "key": "2026-11-18 08:43:35 +0100|Someone You Loved|Lewis Capaldi",
+    "played_at": "2026-11-18 08:43:35 +0100",
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-11-18 08:46:40 +0100|Geronimo|Aura Dione",
+    "played_at": "2026-11-18 08:46:40 +0100",
+    "title": "Geronimo",
+    "artist": "Aura Dione"
+  },
+  {
+    "key": "2026-11-18 08:49:57 +0100|Leak It|FLO",
+    "played_at": "2026-11-18 08:49:57 +0100",
+    "title": "Leak It",
+    "artist": "FLO"
+  },
+  {
+    "key": "2026-11-18 08:53:00 +0100|Ghost|Justin Bieber",
+    "played_at": "2026-11-18 08:53:00 +0100",
+    "title": "Ghost",
+    "artist": "Justin Bieber"
+  },
+  {
+    "key": "2026-11-18 08:55:33 +0100|Follow You|Imagine Dragons",
+    "played_at": "2026-11-18 08:55:33 +0100",
+    "title": "Follow You",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-11-18 08:58:29 +0100|Bangaranga|Dara",
+    "played_at": "2026-11-18 08:58:29 +0100",
+    "title": "Bangaranga",
+    "artist": "Dara"
+  },
+  {
+    "key": "2026-11-18 09:01:26 +0100|Valerie|Mark Ronson feat. Amy Winehouse",
+    "played_at": "2026-11-18 09:01:26 +0100",
+    "title": "Valerie",
+    "artist": "Mark Ronson feat. Amy Winehouse"
+  },
+  {
+    "key": "2026-11-18 09:05:04 +0100|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-11-18 09:05:04 +0100",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-11-18 09:07:38 +0100|We No Speak Americano|Yolanda Be Cool & Dcup",
+    "played_at": "2026-11-18 09:07:38 +0100",
+    "title": "We No Speak Americano",
+    "artist": "Yolanda Be Cool & Dcup"
   }
 ]
