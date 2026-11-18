@@ -2,8 +2,8 @@
   "2026-11-18 07:00": {
     "period_start": "2026-11-18T07:00:00+01:00",
     "period_end": "2026-11-19T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "OneRepublic",
@@ -48,6 +48,51 @@
       {
         "artist": "Yolanda Be Cool & Dcup",
         "title": "We No Speak Americano",
+        "plays": 1
+      },
+      {
+        "artist": "Glockenbach",
+        "title": "Dirty Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "Shallow",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Domiziana",
+        "title": "Ohne Benzin",
+        "plays": 1
+      },
+      {
+        "artist": "Olly Murs feat. Rizzle Kicks",
+        "title": "Heart Skips A Beat",
+        "plays": 1
+      },
+      {
+        "artist": "Kraftklub",
+        "title": "Wenn ich tot bin, fang ich wieder an",
+        "plays": 1
+      },
+      {
+        "artist": "Jamiroquai",
+        "title": "Summer Girl",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "The Darkness",
+        "title": "The Longest Kiss",
         "plays": 1
       }
     ],
