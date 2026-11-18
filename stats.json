@@ -2,8 +2,8 @@
   "2026-11-18 07:00": {
     "period_start": "2026-11-18T07:00:00+01:00",
     "period_end": "2026-11-19T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "OneRepublic",
@@ -93,6 +93,56 @@
       {
         "artist": "The Darkness",
         "title": "The Longest Kiss",
+        "plays": 1
+      },
+      {
+        "artist": "RAYE",
+        "title": "WHERE IS MY HUSBAND!",
+        "plays": 1
+      },
+      {
+        "artist": "Lena",
+        "title": "Thank You",
+        "plays": 1
+      },
+      {
+        "artist": "The Chainsmokers feat. Daya",
+        "title": "Don't Let Me Down",
+        "plays": 1
+      },
+      {
+        "artist": "ROSÉ & Bruno Mars",
+        "title": "APT.",
+        "plays": 1
+      },
+      {
+        "artist": "Jorja Smith",
+        "title": "The Way I Love You",
+        "plays": 1
+      },
+      {
+        "artist": "TAEYANG, Jimin",
+        "title": "VIBE",
+        "plays": 1
+      },
+      {
+        "artist": "Noel Gallagher's High Flying Birds",
+        "title": "Easy Now",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris,Jazzy",
+        "title": "Satisfy",
+        "plays": 1
+      },
+      {
+        "artist": "Ramon Roselly",
+        "title": "Eine Nacht",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Footprints",
         "plays": 1
       }
     ],
