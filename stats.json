@@ -2,8 +2,8 @@
   "2026-11-18 07:00": {
     "period_start": "2026-11-18T07:00:00+01:00",
     "period_end": "2026-11-19T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 36,
     "songs": [
       {
         "artist": "OneRepublic",
@@ -143,6 +143,46 @@
       {
         "artist": "Tom Gregory",
         "title": "Footprints",
+        "plays": 1
+      },
+      {
+        "artist": "Unheilig",
+        "title": "Geboren um zu leben",
+        "plays": 1
+      },
+      {
+        "artist": "Parcels",
+        "title": "Overnight",
+        "plays": 1
+      },
+      {
+        "artist": "Paul Kalkbrenner",
+        "title": "DREAMING ON",
+        "plays": 1
+      },
+      {
+        "artist": "Foster The People",
+        "title": "Helena Beat",
+        "plays": 1
+      },
+      {
+        "artist": "Rita Ora Feat. 6Lack",
+        "title": "Only Want You",
+        "plays": 1
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "title": "The Line",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Hello",
+        "plays": 1
+      },
+      {
+        "artist": "Bosse",
+        "title": "Der Letzte Tanz",
         "plays": 1
       }
     ],
