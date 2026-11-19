@@ -2,8 +2,8 @@
   "2026-11-19 07:00": {
     "period_start": "2026-11-19T07:00:00+01:00",
     "period_end": "2026-11-20T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Rina Sawayama",
@@ -48,6 +48,51 @@
       {
         "artist": "Tom Gregory",
         "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Black Eyed Peas",
+        "title": "The Time (Dirty Bit)",
+        "plays": 1
+      },
+      {
+        "artist": "Yetundey",
+        "title": "Infinity Pool",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben & Mae Stephens",
+        "title": "Same Old Sky [feat. Mae Stephens]",
+        "plays": 1
+      },
+      {
+        "artist": "The Lathums",
+        "title": "Say My Name",
+        "plays": 1
+      },
+      {
+        "artist": "BOY",
+        "title": "Fit Back In",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Just Keep Watching",
+        "plays": 1
+      },
+      {
+        "artist": "OneRepublic",
+        "title": "Didn't I",
+        "plays": 1
+      },
+      {
+        "artist": "Mabel",
+        "title": "Don't Call Me Up",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Mehr Glück als Verstand",
         "plays": 1
       }
     ],
