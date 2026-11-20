@@ -2,8 +2,8 @@
   "2026-11-19 07:00": {
     "period_start": "2026-11-19T07:00:00+01:00",
     "period_end": "2026-11-20T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 26,
     "songs": [
       {
         "artist": "Rina Sawayama",
@@ -93,6 +93,46 @@
       {
         "artist": "Johannes Oerding",
         "title": "Mehr Glück als Verstand",
+        "plays": 1
+      },
+      {
+        "artist": "Midlake",
+        "title": "07 The Calling",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Hot N Cold",
+        "plays": 1
+      },
+      {
+        "artist": "LEA",
+        "title": "Immer wenn wir uns sehn",
+        "plays": 1
+      },
+      {
+        "artist": "FLO",
+        "title": "Leak It",
+        "plays": 1
+      },
+      {
+        "artist": "Bush",
+        "title": "The Sound Of Winter",
+        "plays": 1
+      },
+      {
+        "artist": "JPEGMAFIA",
+        "title": "Trust!",
+        "plays": 1
+      },
+      {
+        "artist": "LISA",
+        "title": "SaWaDiKa",
+        "plays": 1
+      },
+      {
+        "artist": "The Avener",
+        "title": "Fade Out Lines",
         "plays": 1
       }
     ],
