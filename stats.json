@@ -1,144 +1,59 @@
 {
-  "2026-11-19 07:00": {
-    "period_start": "2026-11-19T07:00:00+01:00",
-    "period_end": "2026-11-20T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 26,
+  "2026-11-20 07:00": {
+    "period_start": "2026-11-20T07:00:00+01:00",
+    "period_end": "2026-11-21T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Rina Sawayama",
-        "title": "Hurricanes",
+        "artist": "The Weekend & Rosalia",
+        "title": "Blinding Lights (Remix)",
         "plays": 1
       },
       {
-        "artist": "R3HAB, Michael Patrick Kelly, Shaggy",
-        "title": "Rebellion",
+        "artist": "Blue",
+        "title": "Waste My Love",
         "plays": 1
       },
       {
-        "artist": "Nico Santos",
-        "title": "Play With Fire",
+        "artist": "Robbie Williams",
+        "title": "Forbidden Road (From Better Man Original Motion Picture Soundtrack)",
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "If I Lose Myself",
+        "artist": "Ariana Grande",
+        "title": "No Tears Left To Cry",
         "plays": 1
       },
       {
-        "artist": "J Balvin",
-        "title": "Rio",
+        "artist": "GAYLE",
+        "title": "abcdefu",
         "plays": 1
       },
       {
-        "artist": "Beatzarre & Djorkaeff/LEA/Capital Bra",
-        "title": "Sommer",
+        "artist": "Paul Kalkbrenner",
+        "title": "Time To Dance",
         "plays": 1
       },
       {
-        "artist": "Jerry Cantrell",
-        "title": "Atone",
+        "artist": "Lena x Nico Santos",
+        "title": "Better",
         "plays": 1
       },
       {
-        "artist": "Avalon Emerson",
-        "title": "Eden",
+        "artist": "Sam Smith",
+        "title": "Diamonds",
         "plays": 1
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
-        "plays": 1
-      },
-      {
-        "artist": "Black Eyed Peas",
-        "title": "The Time (Dirty Bit)",
-        "plays": 1
-      },
-      {
-        "artist": "Yetundey",
-        "title": "Infinity Pool",
-        "plays": 1
-      },
-      {
-        "artist": "Alle Farben & Mae Stephens",
-        "title": "Same Old Sky [feat. Mae Stephens]",
-        "plays": 1
-      },
-      {
-        "artist": "The Lathums",
-        "title": "Say My Name",
-        "plays": 1
-      },
-      {
-        "artist": "BOY",
-        "title": "Fit Back In",
-        "plays": 1
-      },
-      {
-        "artist": "Tate McRae",
-        "title": "Just Keep Watching",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "Didn't I",
-        "plays": 1
-      },
-      {
-        "artist": "Mabel",
-        "title": "Don't Call Me Up",
-        "plays": 1
-      },
-      {
-        "artist": "Johannes Oerding",
-        "title": "Mehr Glück als Verstand",
-        "plays": 1
-      },
-      {
-        "artist": "Midlake",
-        "title": "07 The Calling",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Hot N Cold",
-        "plays": 1
-      },
-      {
-        "artist": "LEA",
-        "title": "Immer wenn wir uns sehn",
-        "plays": 1
-      },
-      {
-        "artist": "FLO",
-        "title": "Leak It",
-        "plays": 1
-      },
-      {
-        "artist": "Bush",
-        "title": "The Sound Of Winter",
-        "plays": 1
-      },
-      {
-        "artist": "JPEGMAFIA",
-        "title": "Trust!",
-        "plays": 1
-      },
-      {
-        "artist": "LISA",
-        "title": "SaWaDiKa",
-        "plays": 1
-      },
-      {
-        "artist": "The Avener",
-        "title": "Fade Out Lines",
+        "artist": "LISA FEAT. DOJA CAT & RAYE",
+        "title": "BORN AGAIN",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Rina Sawayama",
-      "title": "Hurricanes",
+      "artist": "The Weekend & Rosalia",
+      "title": "Blinding Lights (Remix)",
       "plays": 1
     }
   }
