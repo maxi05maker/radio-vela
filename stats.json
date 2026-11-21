@@ -2,8 +2,8 @@
   "2026-11-21 07:00": {
     "period_start": "2026-11-21T07:00:00+01:00",
     "period_end": "2026-11-22T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 19,
     "songs": [
       {
         "artist": "Benson Boone",
@@ -53,6 +53,51 @@
       {
         "artist": "Duffy",
         "title": "Mercy",
+        "plays": 1
+      },
+      {
+        "artist": "AYLIVA",
+        "title": "Renn!",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben",
+        "title": "Forgot How To Love",
+        "plays": 1
+      },
+      {
+        "artist": "Alli Neumann",
+        "title": "Mit dir",
+        "plays": 1
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "The Great Divide",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Faded Love",
+        "plays": 1
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "Human Being",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Scars To Your Beautiful",
+        "plays": 1
+      },
+      {
+        "artist": "The Strokes",
+        "title": "Lonely in the Future",
+        "plays": 1
+      },
+      {
+        "artist": "Ren",
+        "title": "Bittersweet Symphony (The Verve Retake)",
         "plays": 1
       }
     ],
