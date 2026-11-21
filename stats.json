@@ -2,8 +2,8 @@
   "2026-11-20 07:00": {
     "period_start": "2026-11-20T07:00:00+01:00",
     "period_end": "2026-11-21T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "The Weekend & Rosalia",
@@ -93,6 +93,51 @@
       {
         "artist": "Bilderbuch",
         "title": "Maschin",
+        "plays": 1
+      },
+      {
+        "artist": "Alle Farben & Ilira",
+        "title": "Fading",
+        "plays": 1
+      },
+      {
+        "artist": "Bruce Springsteen",
+        "title": "Streets Of Minneapolis",
+        "plays": 1
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Out Of Time",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Neuanfang",
+        "plays": 1
+      },
+      {
+        "artist": "Natalie Imbruglia",
+        "title": "Beautiful Love",
+        "plays": 1
+      },
+      {
+        "artist": "Disturbed",
+        "title": "Hey You",
+        "plays": 1
+      },
+      {
+        "artist": "ZAVET",
+        "title": "Eiszeit",
+        "plays": 1
+      },
+      {
+        "artist": "Charli xcx",
+        "title": "House featuring John Cale",
+        "plays": 1
+      },
+      {
+        "artist": "Provinz",
+        "title": "Hymne gegen euch",
         "plays": 1
       }
     ],
