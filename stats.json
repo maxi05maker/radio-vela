@@ -2,8 +2,8 @@
   "2026-11-21 07:00": {
     "period_start": "2026-11-21T07:00:00+01:00",
     "period_end": "2026-11-22T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Benson Boone",
@@ -98,6 +98,51 @@
       {
         "artist": "Ren",
         "title": "Bittersweet Symphony (The Verve Retake)",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Burn",
+        "plays": 1
+      },
+      {
+        "artist": "J Balvin",
+        "title": "Rio",
+        "plays": 1
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Love Again",
+        "plays": 1
+      },
+      {
+        "artist": "Greta Van Fleet",
+        "title": "Broken Bells",
+        "plays": 1
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "That’s So True",
+        "plays": 1
+      },
+      {
+        "artist": "Stickle",
+        "title": "Augenmaß feat. Pashanim",
+        "plays": 1
+      },
+      {
+        "artist": "Pitbull Feat. Ke$ha",
+        "title": "Timber",
+        "plays": 1
+      },
+      {
+        "artist": "Joe Bonamassa & Ivan Neville",
+        "title": "Ghetto Woman",
+        "plays": 1
+      },
+      {
+        "artist": "SDP",
+        "title": "Ich Muss Immer An Dich Denken",
         "plays": 1
       }
     ],
