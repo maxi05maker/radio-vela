@@ -1,149 +1,64 @@
 {
-  "2026-11-20 07:00": {
-    "period_start": "2026-11-20T07:00:00+01:00",
-    "period_end": "2026-11-21T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 27,
+  "2026-11-21 07:00": {
+    "period_start": "2026-11-21T07:00:00+01:00",
+    "period_end": "2026-11-22T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "The Weekend & Rosalia",
-        "title": "Blinding Lights (Remix)",
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
         "plays": 1
       },
       {
-        "artist": "Blue",
-        "title": "Waste My Love",
+        "artist": "Foals",
+        "title": "2001",
         "plays": 1
       },
       {
-        "artist": "Robbie Williams",
-        "title": "Forbidden Road (From Better Man Original Motion Picture Soundtrack)",
+        "artist": "HUNTRX",
+        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
         "plays": 1
       },
       {
-        "artist": "Ariana Grande",
-        "title": "No Tears Left To Cry",
+        "artist": "Sam Smith, Kim Petras",
+        "title": "Unholy (feat. Kim Petras)",
         "plays": 1
       },
       {
-        "artist": "GAYLE",
-        "title": "abcdefu",
+        "artist": "Imagine Dragons",
+        "title": "Natural",
         "plays": 1
       },
       {
-        "artist": "Paul Kalkbrenner",
-        "title": "Time To Dance",
+        "artist": "Robbie Williams & Jesse & Joy",
+        "title": "Human (feat. Jesse & Joy)",
         "plays": 1
       },
       {
-        "artist": "Lena x Nico Santos",
-        "title": "Better",
+        "artist": "KUMMER",
+        "title": "DER LETZTE SONG (ALLES WIRD GUT)",
         "plays": 1
       },
       {
-        "artist": "Sam Smith",
-        "title": "Diamonds",
-        "plays": 1
-      },
-      {
-        "artist": "LISA FEAT. DOJA CAT & RAYE",
-        "title": "BORN AGAIN",
-        "plays": 1
-      },
-      {
-        "artist": "Florence + The Machine",
-        "title": "And Love",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga feat. Colby O'donis",
-        "title": "Just Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Arctic Monkeys",
-        "title": "Body Paint",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Schulte",
-        "title": "Broken Sunshine",
-        "plays": 1
-      },
-      {
-        "artist": "Psy",
-        "title": "Gangnam Style",
-        "plays": 1
-      },
-      {
-        "artist": "Herbert Grönemeyer",
-        "title": "Urverlust",
-        "plays": 1
-      },
-      {
-        "artist": "No Angels",
-        "title": "When the Angels Sing",
-        "plays": 1
-      },
-      {
-        "artist": "Oliver Tree x Robin Schulz",
-        "title": "Miss You",
+        "artist": "Mark Forster",
+        "title": "Sowieso",
         "plays": 1
       },
       {
         "artist": "Bilderbuch",
-        "title": "Maschin",
+        "title": "Was in dieser Welt",
         "plays": 1
       },
       {
-        "artist": "Alle Farben & Ilira",
-        "title": "Fading",
-        "plays": 1
-      },
-      {
-        "artist": "Bruce Springsteen",
-        "title": "Streets Of Minneapolis",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd",
-        "title": "Out Of Time",
-        "plays": 1
-      },
-      {
-        "artist": "Clueso",
-        "title": "Neuanfang",
-        "plays": 1
-      },
-      {
-        "artist": "Natalie Imbruglia",
-        "title": "Beautiful Love",
-        "plays": 1
-      },
-      {
-        "artist": "Disturbed",
-        "title": "Hey You",
-        "plays": 1
-      },
-      {
-        "artist": "ZAVET",
-        "title": "Eiszeit",
-        "plays": 1
-      },
-      {
-        "artist": "Charli xcx",
-        "title": "House featuring John Cale",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Hymne gegen euch",
+        "artist": "Duffy",
+        "title": "Mercy",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "The Weekend & Rosalia",
-      "title": "Blinding Lights (Remix)",
+      "artist": "Benson Boone",
+      "title": "Slow It Down",
       "plays": 1
     }
   }
