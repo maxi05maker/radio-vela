@@ -2,8 +2,8 @@
   "2026-11-22 07:00": {
     "period_start": "2026-11-22T07:00:00+01:00",
     "period_end": "2026-11-23T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 19,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -98,6 +98,51 @@
       {
         "artist": "Kamrad",
         "title": "I Believe",
+        "plays": 1
+      },
+      {
+        "artist": "Ich + Ich",
+        "title": "Vom selben Stern",
+        "plays": 1
+      },
+      {
+        "artist": "Lost Frequencies & James Arthur",
+        "title": "Questions",
+        "plays": 1
+      },
+      {
+        "artist": "The Pretty Reckless",
+        "title": "Rollercoaster Of Life",
+        "plays": 1
+      },
+      {
+        "artist": "BJ the Chicago Kid",
+        "title": "Smooth",
+        "plays": 1
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "Good 4 You",
+        "plays": 1
+      },
+      {
+        "artist": "Rihanna",
+        "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "plays": 1
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "The Fate of Ophelia",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "Bodies",
+        "plays": 1
+      },
+      {
+        "artist": "Måneskin",
+        "title": "Beggin'",
         "plays": 1
       }
     ],
