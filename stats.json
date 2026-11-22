@@ -1,200 +1,60 @@
 {
-  "2026-11-21 07:00": {
-    "period_start": "2026-11-21T07:00:00+01:00",
-    "period_end": "2026-11-22T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 38,
+  "2026-11-22 07:00": {
+    "period_start": "2026-11-22T07:00:00+01:00",
+    "period_end": "2026-11-23T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
-        "plays": 2
-      },
-      {
-        "artist": "Foals",
-        "title": "2001",
+        "artist": "Bryan Adams",
+        "title": "So Happy It Hurts",
         "plays": 1
       },
       {
-        "artist": "HUNTRX",
-        "title": "Golden (feat. EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast)",
+        "artist": "Söhne Mannheims",
+        "title": "Das hat die Welt noch nicht gesehen",
         "plays": 1
       },
       {
-        "artist": "Sam Smith, Kim Petras",
-        "title": "Unholy (feat. Kim Petras)",
+        "artist": "Ice Spice & Nicki Minaj",
+        "title": "Princess Diana",
         "plays": 1
       },
       {
-        "artist": "Imagine Dragons",
-        "title": "Natural",
+        "artist": "Lorde",
+        "title": "What Was That",
         "plays": 1
       },
       {
-        "artist": "Robbie Williams & Jesse & Joy",
-        "title": "Human (feat. Jesse & Joy)",
+        "artist": "Two Door Cinema Club",
+        "title": "What You Know",
         "plays": 1
       },
       {
-        "artist": "KUMMER",
-        "title": "DER LETZTE SONG (ALLES WIRD GUT)",
+        "artist": "Sofia Portanet",
+        "title": "Menschen und Mächte",
         "plays": 1
       },
       {
-        "artist": "Mark Forster",
-        "title": "Sowieso",
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
         "plays": 1
       },
       {
-        "artist": "Bilderbuch",
-        "title": "Was in dieser Welt",
+        "artist": "Goodbye June",
+        "title": "Step Aside",
         "plays": 1
       },
       {
-        "artist": "Duffy",
-        "title": "Mercy",
-        "plays": 1
-      },
-      {
-        "artist": "AYLIVA",
-        "title": "Renn!",
-        "plays": 1
-      },
-      {
-        "artist": "Alle Farben",
-        "title": "Forgot How To Love",
-        "plays": 1
-      },
-      {
-        "artist": "Alli Neumann",
-        "title": "Mit dir",
-        "plays": 1
-      },
-      {
-        "artist": "Noah Kahan",
-        "title": "The Great Divide",
-        "plays": 1
-      },
-      {
-        "artist": "Leony",
-        "title": "Faded Love",
-        "plays": 1
-      },
-      {
-        "artist": "Nico Santos",
-        "title": "Human Being",
-        "plays": 1
-      },
-      {
-        "artist": "Alessia Cara",
-        "title": "Scars To Your Beautiful",
-        "plays": 1
-      },
-      {
-        "artist": "The Strokes",
-        "title": "Lonely in the Future",
-        "plays": 1
-      },
-      {
-        "artist": "Ren",
-        "title": "Bittersweet Symphony (The Verve Retake)",
-        "plays": 1
-      },
-      {
-        "artist": "Ellie Goulding",
-        "title": "Burn",
-        "plays": 1
-      },
-      {
-        "artist": "J Balvin",
-        "title": "Rio",
-        "plays": 1
-      },
-      {
-        "artist": "Dua Lipa",
-        "title": "Love Again",
-        "plays": 1
-      },
-      {
-        "artist": "Greta Van Fleet",
-        "title": "Broken Bells",
-        "plays": 1
-      },
-      {
-        "artist": "Gracie Abrams",
-        "title": "That’s So True",
-        "plays": 1
-      },
-      {
-        "artist": "Stickle",
-        "title": "Augenmaß feat. Pashanim",
-        "plays": 1
-      },
-      {
-        "artist": "Pitbull Feat. Ke$ha",
-        "title": "Timber",
-        "plays": 1
-      },
-      {
-        "artist": "Joe Bonamassa & Ivan Neville",
-        "title": "Ghetto Woman",
-        "plays": 1
-      },
-      {
-        "artist": "SDP",
-        "title": "Ich Muss Immer An Dich Denken",
-        "plays": 1
-      },
-      {
-        "artist": "The xx",
-        "title": "Islands",
-        "plays": 1
-      },
-      {
-        "artist": "St. Lundi",
-        "title": "Nights Like This",
-        "plays": 1
-      },
-      {
-        "artist": "Sarah Connor",
-        "title": "FICKA",
-        "plays": 1
-      },
-      {
-        "artist": "Gryffin & OneRepublic",
-        "title": "You Were Loved",
-        "plays": 1
-      },
-      {
-        "artist": "Lena",
-        "title": "Thank You",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "The One",
-        "plays": 1
-      },
-      {
-        "artist": "Stone Sour",
-        "title": "Say You'll Haunt Me",
-        "plays": 1
-      },
-      {
-        "artist": "TAEYANG, Jimin",
-        "title": "VIBE",
-        "plays": 1
-      },
-      {
-        "artist": "Alessia Cara",
-        "title": "Slow Motion",
+        "artist": "Madeline Juno",
+        "title": "Lass mich los",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Benson Boone",
-      "title": "Slow It Down",
-      "plays": 2
+      "artist": "Bryan Adams",
+      "title": "So Happy It Hurts",
+      "plays": 1
     }
   }
 }
