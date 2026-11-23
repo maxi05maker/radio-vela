@@ -1,199 +1,59 @@
 {
-  "2026-11-22 07:00": {
-    "period_start": "2026-11-22T07:00:00+01:00",
-    "period_end": "2026-11-23T07:00:00+01:00",
-    "total_entries": 40,
-    "music_entries": 37,
+  "2026-11-23 07:00": {
+    "period_start": "2026-11-23T07:00:00+01:00",
+    "period_end": "2026-11-24T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Bryan Adams",
-        "title": "So Happy It Hurts",
+        "artist": "Lena",
+        "title": "Traffic Lights",
         "plays": 1
       },
       {
-        "artist": "Söhne Mannheims",
-        "title": "Das hat die Welt noch nicht gesehen",
+        "artist": "Wavves",
+        "title": "Goner",
         "plays": 1
       },
       {
-        "artist": "Ice Spice & Nicki Minaj",
-        "title": "Princess Diana",
+        "artist": "Mia Morgan",
+        "title": "Jennifer Check",
         "plays": 1
       },
       {
-        "artist": "Lorde",
-        "title": "What Was That",
+        "artist": "Katy Perry",
+        "title": "I Kissed A Girl",
         "plays": 1
       },
       {
-        "artist": "Two Door Cinema Club",
-        "title": "What You Know",
+        "artist": "Die Nerven",
+        "title": "BIS ANS MEER",
         "plays": 1
       },
       {
-        "artist": "Sofia Portanet",
-        "title": "Menschen und Mächte",
+        "artist": "P!nk feat. Cash Cash",
+        "title": "Can We Pretend",
         "plays": 1
       },
       {
-        "artist": "SIENNA SPIRO",
-        "title": "Material Lover",
+        "artist": "ELIF",
+        "title": "WENN ICH STERBE",
         "plays": 1
       },
       {
-        "artist": "Goodbye June",
-        "title": "Step Aside",
+        "artist": "Jorja Smith & Wizkid",
+        "title": "Alive [feat. WizKid]",
         "plays": 1
       },
       {
-        "artist": "Madeline Juno",
-        "title": "Lass mich los",
-        "plays": 1
-      },
-      {
-        "artist": "Giant Rooks",
-        "title": "Cold Wars",
-        "plays": 1
-      },
-      {
-        "artist": "Shawn Mendes & Tainy",
-        "title": "Summer Of Love",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Never Give Up",
-        "plays": 1
-      },
-      {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
-        "plays": 1
-      },
-      {
-        "artist": "Beth Hart",
-        "title": "Savior With A Razor (feat. Slash)",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Try",
-        "plays": 1
-      },
-      {
-        "artist": "Olly Murs",
-        "title": "Dear Darlin'",
-        "plays": 1
-      },
-      {
-        "artist": "Kraftklub",
-        "title": "Marlboro Mann",
-        "plays": 1
-      },
-      {
-        "artist": "Alex Cameron",
-        "title": "Best Life",
-        "plays": 1
-      },
-      {
-        "artist": "Kamrad",
-        "title": "I Believe",
-        "plays": 1
-      },
-      {
-        "artist": "Ich + Ich",
-        "title": "Vom selben Stern",
-        "plays": 1
-      },
-      {
-        "artist": "Lost Frequencies & James Arthur",
-        "title": "Questions",
-        "plays": 1
-      },
-      {
-        "artist": "The Pretty Reckless",
-        "title": "Rollercoaster Of Life",
-        "plays": 1
-      },
-      {
-        "artist": "BJ the Chicago Kid",
-        "title": "Smooth",
-        "plays": 1
-      },
-      {
-        "artist": "Olivia Rodrigo",
-        "title": "Good 4 You",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna",
-        "title": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "plays": 1
-      },
-      {
-        "artist": "Taylor Swift",
-        "title": "The Fate of Ophelia",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "Bodies",
-        "plays": 1
-      },
-      {
-        "artist": "Måneskin",
-        "title": "Beggin'",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Lust For Life (feat. The Weeknd)",
-        "plays": 1
-      },
-      {
-        "artist": "FAYAN (feat. Dalton)",
-        "title": "VERLIEBT IN MICH",
-        "plays": 1
-      },
-      {
-        "artist": "Machine Gun Kelly",
-        "title": "Maybe (feat. Bring Me The Horizon)",
-        "plays": 1
-      },
-      {
-        "artist": "Tove Lo",
-        "title": "2 Die 4",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "All My Life",
-        "plays": 1
-      },
-      {
-        "artist": "Cheap Trick",
-        "title": "I Want You to Want Me",
-        "plays": 1
-      },
-      {
-        "artist": "Benson Boone",
-        "title": "Slow It Down",
-        "plays": 1
-      },
-      {
-        "artist": "Michael Patrick Kelly",
-        "title": "Roundabouts",
-        "plays": 1
-      },
-      {
-        "artist": "Swedish House Mafia",
-        "title": "Wait So Long",
+        "artist": "LINKIN PARK & Kiiara",
+        "title": "Heavy",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Bryan Adams",
-      "title": "So Happy It Hurts",
+      "artist": "Lena",
+      "title": "Traffic Lights",
       "plays": 1
     }
   }
