@@ -2,8 +2,8 @@
   "2026-11-23 07:00": {
     "period_start": "2026-11-23T07:00:00+01:00",
     "period_end": "2026-11-24T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Lena",
@@ -48,6 +48,51 @@
       {
         "artist": "LINKIN PARK & Kiiara",
         "title": "Heavy",
+        "plays": 1
+      },
+      {
+        "artist": "Bow Anderson",
+        "title": "20s",
+        "plays": 1
+      },
+      {
+        "artist": "Airbourne",
+        "title": "Last Man Standing",
+        "plays": 1
+      },
+      {
+        "artist": "Charlie Puth",
+        "title": "One Call Away",
+        "plays": 1
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "As It Was",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Never Gonna Not Dance Again",
+        "plays": 1
+      },
+      {
+        "artist": "Nathan Evans",
+        "title": "Perfect Storm",
+        "plays": 1
+      },
+      {
+        "artist": "Flo Rida",
+        "title": "What A Night",
+        "plays": 1
+      },
+      {
+        "artist": "Adele",
+        "title": "Set Fire to the Rain",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Bandaids",
         "plays": 1
       }
     ],
