@@ -2,8 +2,8 @@
   "2026-11-22 07:00": {
     "period_start": "2026-11-22T07:00:00+01:00",
     "period_end": "2026-11-23T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 28,
+    "total_entries": 40,
+    "music_entries": 37,
     "songs": [
       {
         "artist": "Bryan Adams",
@@ -143,6 +143,51 @@
       {
         "artist": "Måneskin",
         "title": "Beggin'",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Lust For Life (feat. The Weeknd)",
+        "plays": 1
+      },
+      {
+        "artist": "FAYAN (feat. Dalton)",
+        "title": "VERLIEBT IN MICH",
+        "plays": 1
+      },
+      {
+        "artist": "Machine Gun Kelly",
+        "title": "Maybe (feat. Bring Me The Horizon)",
+        "plays": 1
+      },
+      {
+        "artist": "Tove Lo",
+        "title": "2 Die 4",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "All My Life",
+        "plays": 1
+      },
+      {
+        "artist": "Cheap Trick",
+        "title": "I Want You to Want Me",
+        "plays": 1
+      },
+      {
+        "artist": "Benson Boone",
+        "title": "Slow It Down",
+        "plays": 1
+      },
+      {
+        "artist": "Michael Patrick Kelly",
+        "title": "Roundabouts",
+        "plays": 1
+      },
+      {
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
         "plays": 1
       }
     ],
