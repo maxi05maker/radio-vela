@@ -6880,5 +6880,65 @@
     "played_at": "2026-11-23 22:33:22 +0100",
     "title": "Bandaids",
     "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-11-24 05:41:24 +0100|I Feel So Free|Madonna",
+    "played_at": "2026-11-24 05:41:24 +0100",
+    "title": "I Feel So Free",
+    "artist": "Madonna"
+  },
+  {
+    "key": "2026-11-24 05:46:20 +0100|On The Floor (Feat. Pitbull)|Jennifer Lopez",
+    "played_at": "2026-11-24 05:46:20 +0100",
+    "title": "On The Floor (Feat. Pitbull)",
+    "artist": "Jennifer Lopez"
+  },
+  {
+    "key": "2026-11-24 05:50:11 +0100|For The Last Time|Melissa Etheridge",
+    "played_at": "2026-11-24 05:50:11 +0100",
+    "title": "For The Last Time",
+    "artist": "Melissa Etheridge"
+  },
+  {
+    "key": "2026-11-24 05:53:28 +0100|That’s So True|Gracie Abrams",
+    "played_at": "2026-11-24 05:53:28 +0100",
+    "title": "That’s So True",
+    "artist": "Gracie Abrams"
+  },
+  {
+    "key": "2026-11-24 05:56:15 +0100|Small Steps|Tom Gregory",
+    "played_at": "2026-11-24 05:56:15 +0100",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-11-24 05:59:01 +0100|Kings & Queens|Ava Max",
+    "played_at": "2026-11-24 05:59:01 +0100",
+    "title": "Kings & Queens",
+    "artist": "Ava Max"
+  },
+  {
+    "key": "2026-11-24 06:01:43 +0100|Hard To Do|Tay Lashaee",
+    "played_at": "2026-11-24 06:01:43 +0100",
+    "title": "Hard To Do",
+    "artist": "Tay Lashaee"
+  },
+  {
+    "key": "2026-11-24 06:04:39 +0100|Eden|Avalon Emerson",
+    "played_at": "2026-11-24 06:04:39 +0100",
+    "title": "Eden",
+    "artist": "Avalon Emerson"
+  },
+  {
+    "key": "2026-11-24 06:08:46 +0100|Sharks|Imagine Dragons",
+    "played_at": "2026-11-24 06:08:46 +0100",
+    "title": "Sharks",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "key": "2026-11-24 06:11:57 +0100|Gewinner|Clueso",
+    "played_at": "2026-11-24 06:11:57 +0100",
+    "title": "Gewinner",
+    "artist": "Clueso"
   }
 ]

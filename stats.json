@@ -2,8 +2,8 @@
   "2026-11-23 07:00": {
     "period_start": "2026-11-23T07:00:00+01:00",
     "period_end": "2026-11-24T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Lena",
@@ -93,6 +93,56 @@
       {
         "artist": "Katy Perry",
         "title": "Bandaids",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna",
+        "title": "I Feel So Free",
+        "plays": 1
+      },
+      {
+        "artist": "Jennifer Lopez",
+        "title": "On The Floor (Feat. Pitbull)",
+        "plays": 1
+      },
+      {
+        "artist": "Melissa Etheridge",
+        "title": "For The Last Time",
+        "plays": 1
+      },
+      {
+        "artist": "Gracie Abrams",
+        "title": "That’s So True",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Ava Max",
+        "title": "Kings & Queens",
+        "plays": 1
+      },
+      {
+        "artist": "Tay Lashaee",
+        "title": "Hard To Do",
+        "plays": 1
+      },
+      {
+        "artist": "Avalon Emerson",
+        "title": "Eden",
+        "plays": 1
+      },
+      {
+        "artist": "Imagine Dragons",
+        "title": "Sharks",
+        "plays": 1
+      },
+      {
+        "artist": "Clueso",
+        "title": "Gewinner",
         "plays": 1
       }
     ],
