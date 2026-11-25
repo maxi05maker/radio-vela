@@ -1,114 +1,59 @@
 {
-  "2026-11-24 07:00": {
-    "period_start": "2026-11-24T07:00:00+01:00",
-    "period_end": "2026-11-25T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 20,
+  "2026-11-25 07:00": {
+    "period_start": "2026-11-25T07:00:00+01:00",
+    "period_end": "2026-11-26T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "sombr",
-        "title": "Homewrecker",
+        "artist": "Alvaro Soler & Topic",
+        "title": "Solo Para Ti",
         "plays": 1
       },
       {
-        "artist": "Robyn",
-        "title": "Talk To Me",
+        "artist": "LEA",
+        "title": "Treppenhaus",
         "plays": 1
       },
       {
-        "artist": "Tim Bendzko",
-        "title": "Hoch",
+        "artist": "Lady Gaga, Doechii",
+        "title": "Runway",
         "plays": 1
       },
       {
-        "artist": "Tate McRae",
-        "title": "she's all i wanna be",
+        "artist": "Maroon 5 Feat. Christina Aguilera",
+        "title": "Moves Like Jagger",
         "plays": 1
       },
       {
-        "artist": "Lorde",
-        "title": "What Was That",
+        "artist": "Paula Hartmann",
+        "title": "Snoopy",
         "plays": 1
       },
       {
-        "artist": "Shirin David",
-        "title": "Ich darf das",
+        "artist": "Sugababes",
+        "title": "Jungle",
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain't Worried",
+        "artist": "Madeline Juno",
+        "title": "Lass mich los",
         "plays": 1
       },
       {
-        "artist": "Bebe Rexha & Faithless",
-        "title": "New Religion",
+        "artist": "Bilderbuch",
+        "title": "Maschin",
         "plays": 1
       },
       {
-        "artist": "Blond",
-        "title": "Es könnte grad nicht schöner sein",
-        "plays": 1
-      },
-      {
-        "artist": "Bush",
-        "title": "The Sound Of Winter",
-        "plays": 1
-      },
-      {
-        "artist": "Hurts/Purple Disco Machine",
-        "title": "Wonderful Life '25",
-        "plays": 1
-      },
-      {
-        "artist": "The Black Keys",
-        "title": "Lonely Boy",
-        "plays": 1
-      },
-      {
-        "artist": "Max Giesinger",
-        "title": "Irgendwann ist jetzt",
-        "plays": 1
-      },
-      {
-        "artist": "Paul Kalkbrenner",
-        "title": "Time To Dance",
-        "plays": 1
-      },
-      {
-        "artist": "Dennis Lloyd",
-        "title": "Nevermind",
-        "plays": 1
-      },
-      {
-        "artist": "Rihanna & Kanye West & Paul McCartney",
-        "title": "FourFiveSeconds",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "End of the world",
-        "plays": 1
-      },
-      {
-        "artist": "Coldplay",
-        "title": "Fix You",
-        "plays": 1
-      },
-      {
-        "artist": "Tobee",
-        "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Young And Beautiful",
+        "artist": "Swedish House Mafia",
+        "title": "Wait So Long",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "sombr",
-      "title": "Homewrecker",
+      "artist": "Alvaro Soler & Topic",
+      "title": "Solo Para Ti",
       "plays": 1
     }
   }
