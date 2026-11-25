@@ -2,8 +2,8 @@
   "2026-11-25 07:00": {
     "period_start": "2026-11-25T07:00:00+01:00",
     "period_end": "2026-11-26T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Alvaro Soler & Topic",
@@ -48,6 +48,51 @@
       {
         "artist": "Swedish House Mafia",
         "title": "Wait So Long",
+        "plays": 1
+      },
+      {
+        "artist": "Jj",
+        "title": "Wasted Love 2025",
+        "plays": 1
+      },
+      {
+        "artist": "Danger Dan",
+        "title": "Das ist alles von der Kunstfreiheit gedeckt",
+        "plays": 1
+      },
+      {
+        "artist": "Sunrise Avenue",
+        "title": "I Help You Hate Me",
+        "plays": 1
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "title": "Manchild",
+        "plays": 1
+      },
+      {
+        "artist": "Dave",
+        "title": "My 24th Birthday",
+        "plays": 1
+      },
+      {
+        "artist": "AnnenMayKantereit",
+        "title": "Du tust mir nie mehr weh",
+        "plays": 1
+      },
+      {
+        "artist": "Lucinda Williams",
+        "title": "Low Life",
+        "plays": 1
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Flowers",
+        "plays": 1
+      },
+      {
+        "artist": "Calvin Harris",
+        "title": "My Way",
         "plays": 1
       }
     ],
