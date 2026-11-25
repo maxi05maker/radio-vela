@@ -7000,5 +7000,65 @@
     "played_at": "2026-11-24 16:47:35 +0100",
     "title": "The Sound Of Winter",
     "artist": "Bush"
+  },
+  {
+    "key": "2026-11-25 01:03:42 +0100|Wonderful Life '25|Hurts/Purple Disco Machine",
+    "played_at": "2026-11-25 01:03:42 +0100",
+    "title": "Wonderful Life '25",
+    "artist": "Hurts/Purple Disco Machine"
+  },
+  {
+    "key": "2026-11-25 01:06:41 +0100|Lonely Boy|The Black Keys",
+    "played_at": "2026-11-25 01:06:41 +0100",
+    "title": "Lonely Boy",
+    "artist": "The Black Keys"
+  },
+  {
+    "key": "2026-11-25 01:09:54 +0100|Irgendwann ist jetzt|Max Giesinger",
+    "played_at": "2026-11-25 01:09:54 +0100",
+    "title": "Irgendwann ist jetzt",
+    "artist": "Max Giesinger"
+  },
+  {
+    "key": "2026-11-25 01:12:51 +0100|Time To Dance|Paul Kalkbrenner",
+    "played_at": "2026-11-25 01:12:51 +0100",
+    "title": "Time To Dance",
+    "artist": "Paul Kalkbrenner"
+  },
+  {
+    "key": "2026-11-25 01:15:49 +0100|Nevermind|Dennis Lloyd",
+    "played_at": "2026-11-25 01:15:49 +0100",
+    "title": "Nevermind",
+    "artist": "Dennis Lloyd"
+  },
+  {
+    "key": "2026-11-25 01:18:26 +0100|FourFiveSeconds|Rihanna & Kanye West & Paul McCartney",
+    "played_at": "2026-11-25 01:18:26 +0100",
+    "title": "FourFiveSeconds",
+    "artist": "Rihanna & Kanye West & Paul McCartney"
+  },
+  {
+    "key": "2026-11-25 01:21:34 +0100|End of the world|Miley Cyrus",
+    "played_at": "2026-11-25 01:21:34 +0100",
+    "title": "End of the world",
+    "artist": "Miley Cyrus"
+  },
+  {
+    "key": "2026-11-25 01:25:45 +0100|Fix You|Coldplay",
+    "played_at": "2026-11-25 01:25:45 +0100",
+    "title": "Fix You",
+    "artist": "Coldplay"
+  },
+  {
+    "key": "2026-11-25 01:30:40 +0100|Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version|Tobee",
+    "played_at": "2026-11-25 01:30:40 +0100",
+    "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+    "artist": "Tobee"
+  },
+  {
+    "key": "2026-11-25 01:33:54 +0100|Young And Beautiful|Lana Del Rey",
+    "played_at": "2026-11-25 01:33:54 +0100",
+    "title": "Young And Beautiful",
+    "artist": "Lana Del Rey"
   }
 ]
