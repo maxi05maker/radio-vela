@@ -2,8 +2,8 @@
   "2026-11-26 07:00": {
     "period_start": "2026-11-26T07:00:00+01:00",
     "period_end": "2026-11-27T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 9,
+    "total_entries": 20,
+    "music_entries": 18,
     "songs": [
       {
         "artist": "Linkin Park",
@@ -48,6 +48,51 @@
       {
         "artist": "Mia Morgan",
         "title": "Jennifer Check",
+        "plays": 1
+      },
+      {
+        "artist": "TEMPERS",
+        "title": "Who Says",
+        "plays": 1
+      },
+      {
+        "artist": "P!nk",
+        "title": "Sober",
+        "plays": 1
+      },
+      {
+        "artist": "Freya Ridings",
+        "title": "Castles",
+        "plays": 1
+      },
+      {
+        "artist": "Alessia Cara",
+        "title": "Slow Motion",
+        "plays": 1
+      },
+      {
+        "artist": "Amy Macdonald",
+        "title": "This Is The Life",
+        "plays": 1
+      },
+      {
+        "artist": "Ellie Goulding",
+        "title": "Power",
+        "plays": 1
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "Housewife",
+        "plays": 1
+      },
+      {
+        "artist": "Walking On Cars",
+        "title": "Speeding Cars",
+        "plays": 1
+      },
+      {
+        "artist": "Jaymes Young",
+        "title": "Infinity",
         "plays": 1
       }
     ],
