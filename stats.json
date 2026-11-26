@@ -1,154 +1,59 @@
 {
-  "2026-11-25 07:00": {
-    "period_start": "2026-11-25T07:00:00+01:00",
-    "period_end": "2026-11-26T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 28,
+  "2026-11-26 07:00": {
+    "period_start": "2026-11-26T07:00:00+01:00",
+    "period_end": "2026-11-27T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Alvaro Soler & Topic",
-        "title": "Solo Para Ti",
+        "artist": "Linkin Park",
+        "title": "The Emptiness Machine",
         "plays": 1
       },
       {
-        "artist": "LEA",
-        "title": "Treppenhaus",
+        "artist": "Ufo361",
+        "title": "Say Goodbye",
         "plays": 1
       },
       {
-        "artist": "Lady Gaga, Doechii",
-        "title": "Runway",
+        "artist": "Vanessa Mai & Sido",
+        "title": "Happy End",
         "plays": 1
       },
       {
-        "artist": "Maroon 5 Feat. Christina Aguilera",
-        "title": "Moves Like Jagger",
+        "artist": "The Weeknd/Anitta",
+        "title": "São Paulo",
         "plays": 1
       },
       {
-        "artist": "Paula Hartmann",
-        "title": "Snoopy",
+        "artist": "Robin Schulz feat. CLOVES",
+        "title": "Old Friend (Radio Edit)",
         "plays": 1
       },
       {
-        "artist": "Sugababes",
-        "title": "Jungle",
+        "artist": "ELIF",
+        "title": "WENN ICH STERBE",
         "plays": 1
       },
       {
-        "artist": "Madeline Juno",
-        "title": "Lass mich los",
+        "artist": "The Strumbellas",
+        "title": "Spirits",
         "plays": 1
       },
       {
-        "artist": "Bilderbuch",
-        "title": "Maschin",
+        "artist": "Paul Kalkbrenner & Stromae",
+        "title": "QUE CE SOIT CLAIR",
         "plays": 1
       },
       {
-        "artist": "Swedish House Mafia",
-        "title": "Wait So Long",
-        "plays": 1
-      },
-      {
-        "artist": "Jj",
-        "title": "Wasted Love 2025",
-        "plays": 1
-      },
-      {
-        "artist": "Danger Dan",
-        "title": "Das ist alles von der Kunstfreiheit gedeckt",
-        "plays": 1
-      },
-      {
-        "artist": "Sunrise Avenue",
-        "title": "I Help You Hate Me",
-        "plays": 1
-      },
-      {
-        "artist": "Sabrina Carpenter",
-        "title": "Manchild",
-        "plays": 1
-      },
-      {
-        "artist": "Dave",
-        "title": "My 24th Birthday",
-        "plays": 1
-      },
-      {
-        "artist": "AnnenMayKantereit",
-        "title": "Du tust mir nie mehr weh",
-        "plays": 1
-      },
-      {
-        "artist": "Lucinda Williams",
-        "title": "Low Life",
-        "plays": 1
-      },
-      {
-        "artist": "Miley Cyrus",
-        "title": "Flowers",
-        "plays": 1
-      },
-      {
-        "artist": "Calvin Harris",
-        "title": "My Way",
-        "plays": 1
-      },
-      {
-        "artist": "Stromae",
-        "title": "Alors On Danse",
-        "plays": 1
-      },
-      {
-        "artist": "Lady Gaga",
-        "title": "The Dead Dance",
-        "plays": 1
-      },
-      {
-        "artist": "AJR",
-        "title": "The DJ Is Crying For Help",
-        "plays": 1
-      },
-      {
-        "artist": "Rag'n'Bone Man",
-        "title": "Human",
-        "plays": 1
-      },
-      {
-        "artist": "Justin Bieber",
-        "title": "Daisies",
-        "plays": 1
-      },
-      {
-        "artist": "Joshy",
-        "title": "MiTTeNDRiN",
-        "plays": 1
-      },
-      {
-        "artist": "Leony",
-        "title": "Holding On",
-        "plays": 1
-      },
-      {
-        "artist": "Bilderbuch",
-        "title": "Was in dieser Welt",
-        "plays": 1
-      },
-      {
-        "artist": "Finch (feat. Blümchen)",
-        "title": "Herzalarm",
-        "plays": 1
-      },
-      {
-        "artist": "Lana Del Rey",
-        "title": "Lust For Life (feat. The Weeknd)",
+        "artist": "Mia Morgan",
+        "title": "Jennifer Check",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Alvaro Soler & Topic",
-      "title": "Solo Para Ti",
+      "artist": "Linkin Park",
+      "title": "The Emptiness Machine",
       "plays": 1
     }
   }
