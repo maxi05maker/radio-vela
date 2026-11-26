@@ -2,8 +2,8 @@
   "2026-11-25 07:00": {
     "period_start": "2026-11-25T07:00:00+01:00",
     "period_end": "2026-11-26T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 28,
     "songs": [
       {
         "artist": "Alvaro Soler & Topic",
@@ -93,6 +93,56 @@
       {
         "artist": "Calvin Harris",
         "title": "My Way",
+        "plays": 1
+      },
+      {
+        "artist": "Stromae",
+        "title": "Alors On Danse",
+        "plays": 1
+      },
+      {
+        "artist": "Lady Gaga",
+        "title": "The Dead Dance",
+        "plays": 1
+      },
+      {
+        "artist": "AJR",
+        "title": "The DJ Is Crying For Help",
+        "plays": 1
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "title": "Human",
+        "plays": 1
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Daisies",
+        "plays": 1
+      },
+      {
+        "artist": "Joshy",
+        "title": "MiTTeNDRiN",
+        "plays": 1
+      },
+      {
+        "artist": "Leony",
+        "title": "Holding On",
+        "plays": 1
+      },
+      {
+        "artist": "Bilderbuch",
+        "title": "Was in dieser Welt",
+        "plays": 1
+      },
+      {
+        "artist": "Finch (feat. Blümchen)",
+        "title": "Herzalarm",
+        "plays": 1
+      },
+      {
+        "artist": "Lana Del Rey",
+        "title": "Lust For Life (feat. The Weeknd)",
         "plays": 1
       }
     ],

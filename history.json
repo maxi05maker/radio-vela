@@ -7180,5 +7180,65 @@
     "played_at": "2026-11-25 20:08:45 +0100",
     "title": "My Way",
     "artist": "Calvin Harris"
+  },
+  {
+    "key": "2026-11-26 02:20:49 +0100|Alors On Danse|Stromae",
+    "played_at": "2026-11-26 02:20:49 +0100",
+    "title": "Alors On Danse",
+    "artist": "Stromae"
+  },
+  {
+    "key": "2026-11-26 02:24:15 +0100|The Dead Dance|Lady Gaga",
+    "played_at": "2026-11-26 02:24:15 +0100",
+    "title": "The Dead Dance",
+    "artist": "Lady Gaga"
+  },
+  {
+    "key": "2026-11-26 02:27:58 +0100|The DJ Is Crying For Help|AJR",
+    "played_at": "2026-11-26 02:27:58 +0100",
+    "title": "The DJ Is Crying For Help",
+    "artist": "AJR"
+  },
+  {
+    "key": "2026-11-26 02:31:37 +0100|Human|Rag'n'Bone Man",
+    "played_at": "2026-11-26 02:31:37 +0100",
+    "title": "Human",
+    "artist": "Rag'n'Bone Man"
+  },
+  {
+    "key": "2026-11-26 02:34:57 +0100|Daisies|Justin Bieber",
+    "played_at": "2026-11-26 02:34:57 +0100",
+    "title": "Daisies",
+    "artist": "Justin Bieber"
+  },
+  {
+    "key": "2026-11-26 02:37:52 +0100|MiTTeNDRiN|Joshy",
+    "played_at": "2026-11-26 02:37:52 +0100",
+    "title": "MiTTeNDRiN",
+    "artist": "Joshy"
+  },
+  {
+    "key": "2026-11-26 02:40:11 +0100|Holding On|Leony",
+    "played_at": "2026-11-26 02:40:11 +0100",
+    "title": "Holding On",
+    "artist": "Leony"
+  },
+  {
+    "key": "2026-11-26 02:43:03 +0100|Was in dieser Welt|Bilderbuch",
+    "played_at": "2026-11-26 02:43:03 +0100",
+    "title": "Was in dieser Welt",
+    "artist": "Bilderbuch"
+  },
+  {
+    "key": "2026-11-26 02:47:20 +0100|Herzalarm|Finch (feat. Blümchen)",
+    "played_at": "2026-11-26 02:47:20 +0100",
+    "title": "Herzalarm",
+    "artist": "Finch (feat. Blümchen)"
+  },
+  {
+    "key": "2026-11-26 02:50:30 +0100|Lust For Life (feat. The Weeknd)|Lana Del Rey",
+    "played_at": "2026-11-26 02:50:30 +0100",
+    "title": "Lust For Life (feat. The Weeknd)",
+    "artist": "Lana Del Rey"
   }
 ]
