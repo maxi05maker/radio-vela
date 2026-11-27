@@ -2,8 +2,8 @@
   "2026-11-27 07:00": {
     "period_start": "2026-11-27T07:00:00+01:00",
     "period_end": "2026-11-28T07:00:00+01:00",
-    "total_entries": 10,
-    "music_entries": 10,
+    "total_entries": 20,
+    "music_entries": 20,
     "songs": [
       {
         "artist": "Kraftklub",
@@ -53,6 +53,56 @@
       {
         "artist": "Provinz",
         "title": "Diese Nacht",
+        "plays": 1
+      },
+      {
+        "artist": "Bloodhound Gang",
+        "title": "Foxtrot Uniform Charlie Kilo",
+        "plays": 1
+      },
+      {
+        "artist": "Robbie Williams",
+        "title": "All My Life",
+        "plays": 1
+      },
+      {
+        "artist": "Luis Fonsi feat. Demi Lovato",
+        "title": "Échame La Culpa",
+        "plays": 1
+      },
+      {
+        "artist": "Lewis Capaldi",
+        "title": "Before You Go",
+        "plays": 1
+      },
+      {
+        "artist": "Madonna & Kylie Minogue",
+        "title": "Love Sensation (Afterhours Radio Edit)",
+        "plays": 1
+      },
+      {
+        "artist": "Sia",
+        "title": "Santa's Coming For Us",
+        "plays": 1
+      },
+      {
+        "artist": "Gorillaz, Adeleye Omotayo",
+        "title": "Silent Running (feat. Adeleye Omotayo)",
+        "plays": 1
+      },
+      {
+        "artist": "Malik Harris",
+        "title": "lie to me",
+        "plays": 1
+      },
+      {
+        "artist": "David Guetta, Alphaville & Ava Max",
+        "title": "Forever Young",
+        "plays": 1
+      },
+      {
+        "artist": "Róisín Murphy",
+        "title": "Murphy's Law",
         "plays": 1
       }
     ],

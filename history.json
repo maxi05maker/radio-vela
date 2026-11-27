@@ -7480,5 +7480,65 @@
     "played_at": "2026-11-27 11:54:16 +0100",
     "title": "Diese Nacht",
     "artist": "Provinz"
+  },
+  {
+    "key": "2026-11-27 20:19:23 +0100|Foxtrot Uniform Charlie Kilo|Bloodhound Gang",
+    "played_at": "2026-11-27 20:19:23 +0100",
+    "title": "Foxtrot Uniform Charlie Kilo",
+    "artist": "Bloodhound Gang"
+  },
+  {
+    "key": "2026-11-27 20:22:15 +0100|All My Life|Robbie Williams",
+    "played_at": "2026-11-27 20:22:15 +0100",
+    "title": "All My Life",
+    "artist": "Robbie Williams"
+  },
+  {
+    "key": "2026-11-27 20:25:57 +0100|Échame La Culpa|Luis Fonsi feat. Demi Lovato",
+    "played_at": "2026-11-27 20:25:57 +0100",
+    "title": "Échame La Culpa",
+    "artist": "Luis Fonsi feat. Demi Lovato"
+  },
+  {
+    "key": "2026-11-27 20:29:27 +0100|Before You Go|Lewis Capaldi",
+    "played_at": "2026-11-27 20:29:27 +0100",
+    "title": "Before You Go",
+    "artist": "Lewis Capaldi"
+  },
+  {
+    "key": "2026-11-27 20:33:01 +0100|Love Sensation (Afterhours Radio Edit)|Madonna & Kylie Minogue",
+    "played_at": "2026-11-27 20:33:01 +0100",
+    "title": "Love Sensation (Afterhours Radio Edit)",
+    "artist": "Madonna & Kylie Minogue"
+  },
+  {
+    "key": "2026-11-27 20:36:36 +0100|Santa's Coming For Us|Sia",
+    "played_at": "2026-11-27 20:36:36 +0100",
+    "title": "Santa's Coming For Us",
+    "artist": "Sia"
+  },
+  {
+    "key": "2026-11-27 20:40:01 +0100|Silent Running (feat. Adeleye Omotayo)|Gorillaz, Adeleye Omotayo",
+    "played_at": "2026-11-27 20:40:01 +0100",
+    "title": "Silent Running (feat. Adeleye Omotayo)",
+    "artist": "Gorillaz, Adeleye Omotayo"
+  },
+  {
+    "key": "2026-11-27 20:44:27 +0100|lie to me|Malik Harris",
+    "played_at": "2026-11-27 20:44:27 +0100",
+    "title": "lie to me",
+    "artist": "Malik Harris"
+  },
+  {
+    "key": "2026-11-27 20:47:22 +0100|Forever Young|David Guetta, Alphaville & Ava Max",
+    "played_at": "2026-11-27 20:47:22 +0100",
+    "title": "Forever Young",
+    "artist": "David Guetta, Alphaville & Ava Max"
+  },
+  {
+    "key": "2026-11-27 20:49:58 +0100|Murphy's Law|Róisín Murphy",
+    "played_at": "2026-11-27 20:49:58 +0100",
+    "title": "Murphy's Law",
+    "artist": "Róisín Murphy"
   }
 ]
