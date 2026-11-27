@@ -2,8 +2,8 @@
   "2026-11-26 07:00": {
     "period_start": "2026-11-26T07:00:00+01:00",
     "period_end": "2026-11-27T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 18,
+    "total_entries": 30,
+    "music_entries": 27,
     "songs": [
       {
         "artist": "Linkin Park",
@@ -93,6 +93,51 @@
       {
         "artist": "Jaymes Young",
         "title": "Infinity",
+        "plays": 1
+      },
+      {
+        "artist": "Scissor Sisters",
+        "title": "I Dont Feel Like Dancing",
+        "plays": 1
+      },
+      {
+        "artist": "FLO",
+        "title": "Leak It",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Small Steps",
+        "plays": 1
+      },
+      {
+        "artist": "Johannes Oerding",
+        "title": "Plan A",
+        "plays": 1
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Demons",
+        "plays": 1
+      },
+      {
+        "artist": "Dara",
+        "title": "Bangaranga",
+        "plays": 1
+      },
+      {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Dani California",
+        "plays": 1
+      },
+      {
+        "artist": "Felix Jaehn, Ray Dalton",
+        "title": "Call It Love",
+        "plays": 1
+      },
+      {
+        "artist": "SIENNA SPIRO",
+        "title": "Material Lover",
         "plays": 1
       }
     ],

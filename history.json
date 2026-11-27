@@ -7360,5 +7360,65 @@
     "played_at": "2026-11-26 20:36:19 +0100",
     "title": "Infinity",
     "artist": "Jaymes Young"
+  },
+  {
+    "key": "2026-11-27 02:44:04 +0100|I Dont Feel Like Dancing|Scissor Sisters",
+    "played_at": "2026-11-27 02:44:04 +0100",
+    "title": "I Dont Feel Like Dancing",
+    "artist": "Scissor Sisters"
+  },
+  {
+    "key": "2026-11-27 02:48:14 +0100|Leak It|FLO",
+    "played_at": "2026-11-27 02:48:14 +0100",
+    "title": "Leak It",
+    "artist": "FLO"
+  },
+  {
+    "key": "2026-11-27 02:51:18 +0100|Small Steps|Tom Gregory",
+    "played_at": "2026-11-27 02:51:18 +0100",
+    "title": "Small Steps",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-11-27 02:54:04 +0100|Plan A|Johannes Oerding",
+    "played_at": "2026-11-27 02:54:04 +0100",
+    "title": "Plan A",
+    "artist": "Johannes Oerding"
+  },
+  {
+    "key": "2026-11-27 02:57:26 +0100|Demons|Doja Cat",
+    "played_at": "2026-11-27 02:57:26 +0100",
+    "title": "Demons",
+    "artist": "Doja Cat"
+  },
+  {
+    "key": "2026-11-27 03:00:42 +0100|Bangaranga|Dara",
+    "played_at": "2026-11-27 03:00:42 +0100",
+    "title": "Bangaranga",
+    "artist": "Dara"
+  },
+  {
+    "key": "2026-11-27 03:03:39 +0100|Dani California|Red Hot Chili Peppers",
+    "played_at": "2026-11-27 03:03:39 +0100",
+    "title": "Dani California",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "key": "2026-11-27 03:08:21 +0100|Call It Love|Felix Jaehn, Ray Dalton",
+    "played_at": "2026-11-27 03:08:21 +0100",
+    "title": "Call It Love",
+    "artist": "Felix Jaehn, Ray Dalton"
+  },
+  {
+    "key": "2026-11-27 03:10:56 +0100|Material Lover|SIENNA SPIRO",
+    "played_at": "2026-11-27 03:10:56 +0100",
+    "title": "Material Lover",
+    "artist": "SIENNA SPIRO"
+  },
+  {
+    "key": "2026-11-27 03:13:54 +0100|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-11-27 03:13:54 +0100",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
   }
 ]
