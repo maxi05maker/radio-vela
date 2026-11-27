@@ -1,149 +1,64 @@
 {
-  "2026-11-26 07:00": {
-    "period_start": "2026-11-26T07:00:00+01:00",
-    "period_end": "2026-11-27T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 27,
+  "2026-11-27 07:00": {
+    "period_start": "2026-11-27T07:00:00+01:00",
+    "period_end": "2026-11-28T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 10,
     "songs": [
       {
-        "artist": "Linkin Park",
-        "title": "The Emptiness Machine",
+        "artist": "Kraftklub",
+        "title": "Marlboro Mann",
         "plays": 1
       },
       {
-        "artist": "Ufo361",
-        "title": "Say Goodbye",
-        "plays": 1
-      },
-      {
-        "artist": "Vanessa Mai & Sido",
-        "title": "Happy End",
-        "plays": 1
-      },
-      {
-        "artist": "The Weeknd/Anitta",
-        "title": "São Paulo",
-        "plays": 1
-      },
-      {
-        "artist": "Robin Schulz feat. CLOVES",
-        "title": "Old Friend (Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "ELIF",
-        "title": "WENN ICH STERBE",
-        "plays": 1
-      },
-      {
-        "artist": "The Strumbellas",
-        "title": "Spirits",
-        "plays": 1
-      },
-      {
-        "artist": "Paul Kalkbrenner & Stromae",
-        "title": "QUE CE SOIT CLAIR",
-        "plays": 1
-      },
-      {
-        "artist": "Mia Morgan",
-        "title": "Jennifer Check",
-        "plays": 1
-      },
-      {
-        "artist": "TEMPERS",
-        "title": "Who Says",
-        "plays": 1
-      },
-      {
-        "artist": "P!nk",
-        "title": "Sober",
-        "plays": 1
-      },
-      {
-        "artist": "Freya Ridings",
-        "title": "Castles",
-        "plays": 1
-      },
-      {
-        "artist": "Alessia Cara",
-        "title": "Slow Motion",
-        "plays": 1
-      },
-      {
-        "artist": "Amy Macdonald",
-        "title": "This Is The Life",
+        "artist": "Rita Ora",
+        "title": "Your Song",
         "plays": 1
       },
       {
         "artist": "Ellie Goulding",
-        "title": "Power",
+        "title": "Something In The Way You Move",
         "plays": 1
       },
       {
-        "artist": "Tate McRae",
-        "title": "Housewife",
+        "artist": "OneRepublic",
+        "title": "I Ain’t Worried",
         "plays": 1
       },
       {
-        "artist": "Walking On Cars",
-        "title": "Speeding Cars",
+        "artist": "Beth Hart",
+        "title": "Savior With A Razor (feat. Slash)",
         "plays": 1
       },
       {
-        "artist": "Jaymes Young",
-        "title": "Infinity",
+        "artist": "Griff",
+        "title": "Black Hole",
         "plays": 1
       },
       {
-        "artist": "Scissor Sisters",
-        "title": "I Dont Feel Like Dancing",
+        "artist": "Alvaro Soler feat. Cali Y El Dandee",
+        "title": "Mañana",
         "plays": 1
       },
       {
-        "artist": "FLO",
-        "title": "Leak It",
+        "artist": "King Gizzard & The Lizard Wizard",
+        "title": "Field of Vision",
         "plays": 1
       },
       {
-        "artist": "Tom Gregory",
-        "title": "Small Steps",
+        "artist": "Romano",
+        "title": "Klaps Auf Den Po",
         "plays": 1
       },
       {
-        "artist": "Johannes Oerding",
-        "title": "Plan A",
-        "plays": 1
-      },
-      {
-        "artist": "Doja Cat",
-        "title": "Demons",
-        "plays": 1
-      },
-      {
-        "artist": "Dara",
-        "title": "Bangaranga",
-        "plays": 1
-      },
-      {
-        "artist": "Red Hot Chili Peppers",
-        "title": "Dani California",
-        "plays": 1
-      },
-      {
-        "artist": "Felix Jaehn, Ray Dalton",
-        "title": "Call It Love",
-        "plays": 1
-      },
-      {
-        "artist": "SIENNA SPIRO",
-        "title": "Material Lover",
+        "artist": "Provinz",
+        "title": "Diese Nacht",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Linkin Park",
-      "title": "The Emptiness Machine",
+      "artist": "Kraftklub",
+      "title": "Marlboro Mann",
       "plays": 1
     }
   }
