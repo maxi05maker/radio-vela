@@ -1,98 +1,38 @@
 {
-  "2026-11-27 07:00": {
-    "period_start": "2026-11-27T07:00:00+01:00",
-    "period_end": "2026-11-28T07:00:00+01:00",
-    "total_entries": 30,
-    "music_entries": 29,
+  "2026-11-28 07:00": {
+    "period_start": "2026-11-28T07:00:00+01:00",
+    "period_end": "2026-11-29T07:00:00+01:00",
+    "total_entries": 10,
+    "music_entries": 9,
     "songs": [
       {
-        "artist": "Kraftklub",
-        "title": "Marlboro Mann",
+        "artist": "LEA",
+        "title": "Treppenhaus",
         "plays": 1
       },
       {
-        "artist": "Rita Ora",
-        "title": "Your Song",
+        "artist": "Empire Of The Sun",
+        "title": "We Are The People",
         "plays": 1
       },
       {
-        "artist": "Ellie Goulding",
-        "title": "Something In The Way You Move",
+        "artist": "Olivia Rodrigo & Chappell Roan",
+        "title": "expectations",
         "plays": 1
       },
       {
-        "artist": "OneRepublic",
-        "title": "I Ain’t Worried",
+        "artist": "K'Naan",
+        "title": "Wavin' Flag",
         "plays": 1
       },
       {
-        "artist": "Beth Hart",
-        "title": "Savior With A Razor (feat. Slash)",
+        "artist": "Willow",
+        "title": "curious/furious",
         "plays": 1
       },
       {
-        "artist": "Griff",
-        "title": "Black Hole",
-        "plays": 1
-      },
-      {
-        "artist": "Alvaro Soler feat. Cali Y El Dandee",
-        "title": "Mañana",
-        "plays": 1
-      },
-      {
-        "artist": "King Gizzard & The Lizard Wizard",
-        "title": "Field of Vision",
-        "plays": 1
-      },
-      {
-        "artist": "Romano",
-        "title": "Klaps Auf Den Po",
-        "plays": 1
-      },
-      {
-        "artist": "Provinz",
-        "title": "Diese Nacht",
-        "plays": 1
-      },
-      {
-        "artist": "Bloodhound Gang",
-        "title": "Foxtrot Uniform Charlie Kilo",
-        "plays": 1
-      },
-      {
-        "artist": "Robbie Williams",
-        "title": "All My Life",
-        "plays": 1
-      },
-      {
-        "artist": "Luis Fonsi feat. Demi Lovato",
-        "title": "Échame La Culpa",
-        "plays": 1
-      },
-      {
-        "artist": "Lewis Capaldi",
-        "title": "Before You Go",
-        "plays": 1
-      },
-      {
-        "artist": "Madonna & Kylie Minogue",
-        "title": "Love Sensation (Afterhours Radio Edit)",
-        "plays": 1
-      },
-      {
-        "artist": "Sia",
-        "title": "Santa's Coming For Us",
-        "plays": 1
-      },
-      {
-        "artist": "Gorillaz, Adeleye Omotayo",
-        "title": "Silent Running (feat. Adeleye Omotayo)",
-        "plays": 1
-      },
-      {
-        "artist": "Malik Harris",
-        "title": "lie to me",
+        "artist": "Zsá Zsá",
+        "title": "Bad Bunnies",
         "plays": 1
       },
       {
@@ -101,59 +41,19 @@
         "plays": 1
       },
       {
-        "artist": "Róisín Murphy",
-        "title": "Murphy's Law",
+        "artist": "ABBA",
+        "title": "Don't Shut Me Down",
         "plays": 1
       },
       {
-        "artist": "Sophie and the Giants",
-        "title": "Loser",
-        "plays": 1
-      },
-      {
-        "artist": "Noel Gallagher's High Flying Birds",
-        "title": "Easy Now",
-        "plays": 1
-      },
-      {
-        "artist": "SDP & Finch",
-        "title": "Kein Bock",
-        "plays": 1
-      },
-      {
-        "artist": "Katy Perry",
-        "title": "Watch It Burn",
-        "plays": 1
-      },
-      {
-        "artist": "Teddy Swims",
-        "title": "Lose Control",
-        "plays": 1
-      },
-      {
-        "artist": "Topic & A7S",
-        "title": "Kernkraft 400 (A Better Day)",
-        "plays": 1
-      },
-      {
-        "artist": "Tom Gregory",
-        "title": "Footprints",
-        "plays": 1
-      },
-      {
-        "artist": "j-hope, Miguel",
-        "title": "Sweet Dreams (feat. Miguel)",
-        "plays": 1
-      },
-      {
-        "artist": "St. Lundi",
-        "title": "Nights Like This",
+        "artist": "Connor Price",
+        "title": "Globe Cypher feat. Killa, SIRI, Bens, Kazuo, K.Keed, Zensery & Lucca DL",
         "plays": 1
       }
     ],
     "top_song": {
-      "artist": "Kraftklub",
-      "title": "Marlboro Mann",
+      "artist": "LEA",
+      "title": "Treppenhaus",
       "plays": 1
     }
   }
