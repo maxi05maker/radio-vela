@@ -2,8 +2,8 @@
   "2026-11-27 07:00": {
     "period_start": "2026-11-27T07:00:00+01:00",
     "period_end": "2026-11-28T07:00:00+01:00",
-    "total_entries": 20,
-    "music_entries": 20,
+    "total_entries": 30,
+    "music_entries": 29,
     "songs": [
       {
         "artist": "Kraftklub",
@@ -103,6 +103,51 @@
       {
         "artist": "Róisín Murphy",
         "title": "Murphy's Law",
+        "plays": 1
+      },
+      {
+        "artist": "Sophie and the Giants",
+        "title": "Loser",
+        "plays": 1
+      },
+      {
+        "artist": "Noel Gallagher's High Flying Birds",
+        "title": "Easy Now",
+        "plays": 1
+      },
+      {
+        "artist": "SDP & Finch",
+        "title": "Kein Bock",
+        "plays": 1
+      },
+      {
+        "artist": "Katy Perry",
+        "title": "Watch It Burn",
+        "plays": 1
+      },
+      {
+        "artist": "Teddy Swims",
+        "title": "Lose Control",
+        "plays": 1
+      },
+      {
+        "artist": "Topic & A7S",
+        "title": "Kernkraft 400 (A Better Day)",
+        "plays": 1
+      },
+      {
+        "artist": "Tom Gregory",
+        "title": "Footprints",
+        "plays": 1
+      },
+      {
+        "artist": "j-hope, Miguel",
+        "title": "Sweet Dreams (feat. Miguel)",
+        "plays": 1
+      },
+      {
+        "artist": "St. Lundi",
+        "title": "Nights Like This",
         "plays": 1
       }
     ],

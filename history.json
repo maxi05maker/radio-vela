@@ -7540,5 +7540,65 @@
     "played_at": "2026-11-27 20:49:58 +0100",
     "title": "Murphy's Law",
     "artist": "Róisín Murphy"
+  },
+  {
+    "key": "2026-11-28 02:45:45 +0100|Loser|Sophie and the Giants",
+    "played_at": "2026-11-28 02:45:45 +0100",
+    "title": "Loser",
+    "artist": "Sophie and the Giants"
+  },
+  {
+    "key": "2026-11-28 02:48:52 +0100|Easy Now|Noel Gallagher's High Flying Birds",
+    "played_at": "2026-11-28 02:48:52 +0100",
+    "title": "Easy Now",
+    "artist": "Noel Gallagher's High Flying Birds"
+  },
+  {
+    "key": "2026-11-28 02:52:39 +0100|Kein Bock|SDP & Finch",
+    "played_at": "2026-11-28 02:52:39 +0100",
+    "title": "Kein Bock",
+    "artist": "SDP & Finch"
+  },
+  {
+    "key": "2026-11-28 02:55:57 +0100|Watch It Burn|Katy Perry",
+    "played_at": "2026-11-28 02:55:57 +0100",
+    "title": "Watch It Burn",
+    "artist": "Katy Perry"
+  },
+  {
+    "key": "2026-11-28 02:58:50 +0100|Nachrichten & Wetter|laut.fm",
+    "played_at": "2026-11-28 02:58:50 +0100",
+    "title": "Nachrichten & Wetter",
+    "artist": "laut.fm"
+  },
+  {
+    "key": "2026-11-28 03:01:38 +0100|Lose Control|Teddy Swims",
+    "played_at": "2026-11-28 03:01:38 +0100",
+    "title": "Lose Control",
+    "artist": "Teddy Swims"
+  },
+  {
+    "key": "2026-11-28 03:05:09 +0100|Kernkraft 400 (A Better Day)|Topic & A7S",
+    "played_at": "2026-11-28 03:05:09 +0100",
+    "title": "Kernkraft 400 (A Better Day)",
+    "artist": "Topic & A7S"
+  },
+  {
+    "key": "2026-11-28 03:07:54 +0100|Footprints|Tom Gregory",
+    "played_at": "2026-11-28 03:07:54 +0100",
+    "title": "Footprints",
+    "artist": "Tom Gregory"
+  },
+  {
+    "key": "2026-11-28 03:11:14 +0100|Sweet Dreams (feat. Miguel)|j-hope, Miguel",
+    "played_at": "2026-11-28 03:11:14 +0100",
+    "title": "Sweet Dreams (feat. Miguel)",
+    "artist": "j-hope, Miguel"
+  },
+  {
+    "key": "2026-11-28 03:14:03 +0100|Nights Like This|St. Lundi",
+    "played_at": "2026-11-28 03:14:03 +0100",
+    "title": "Nights Like This",
+    "artist": "St. Lundi"
   }
 ]
